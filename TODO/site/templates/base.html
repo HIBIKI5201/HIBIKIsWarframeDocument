@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title | Warframe Document</title>
+<link rel="stylesheet" href="${root}static/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="${root}index.html">WARFRAME<span>DOCUMENT</span></a>
+  <nav>
+    <a class="$nav_home" href="${root}index.html">ダッシュボード</a>
+    <a class="$nav_todo" href="${root}todo/">TODO</a>
+  </nav>
+</header>
+<main>
+$content
+</main>
+<footer class="site-footer">生成: $built · <code>TODO/data/</code> を編集して再ビルド</footer>
+<script src="${root}static/app.js"></script>
+</body>
+</html>
