@@ -24,14 +24,24 @@ TODO/
   db/schema.sql       SQLite スキーマ（カテゴリ別進捗ビュー category_progress など）
   scripts/
     build.py          data → build/todo.db → build/site/*.html
-    serve.py          ローカルサーバー + 自動再ビルド
+    serve.py          ローカルサーバー + 自動再ビルド + 編集 API
+    todo_store.py     編集 API から TOML の 1 項目を書き換える
   site/
     templates/        HTML テンプレート (string.Template)
     static/           CSS / JS
   build/              生成物（git 管理外）
 ```
 
-## 項目の編集
+## 編集モード（ブラウザから更新）
+
+TODO ページ右上の「編集モード」を押すと、ブラウザから直接 `data/*.toml` を書き換えられる（`serve.py` で起動しているときだけ表示される）。
+
+- 必要数のない項目（装備・シーンなど）: チェックで完了／未完了を切り替え
+- 必要数のある項目（アルケイン）: − / + で残りの必要数を増減。0 になると完了、1 以上に戻すと未完了。`updated` も自動で更新される
+
+変更はその場で表示に反映され、完了した項目が末尾に回るのは次に読み込んだとき。
+
+## 項目の編集（ファイルを直接）
 
 `data/*.toml` に `[[items]]` を追加・編集する。手に入れたら `done = true` にすると、打ち消し線付きで末尾に回り進捗に反映される。
 

@@ -109,12 +109,39 @@ tbody tr:hover { background: color-mix(in srgb, var(--accent-soft) 40%, transpar
 td.name { font-weight: 600; min-width: 12em; }
 td.num, td time { font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--muted); }
 .check {
-  display: inline-grid; place-items: center; width: 1.1em; height: 1.1em; margin-right: .55em;
-  font-size: .8em; vertical-align: -.1em; border: 1.5px solid var(--line); border-radius: 4px;
+  display: inline-grid; place-items: center; width: 1.2em; height: 1.2em; margin: 0 .55em 0 0; padding: 0;
+  font: inherit; font-size: .8em; line-height: 1; vertical-align: -.15em; color: var(--surface);
+  background: transparent; border: 1.5px solid var(--line); border-radius: 4px; cursor: default;
 }
+.check[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); }
+.check[aria-pressed="true"]::after { content: "✔"; }
 tr.done td { color: var(--done); }
 tr.done td.name { text-decoration: line-through; font-weight: 400; }
-tr.done .check { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+tr.busy { opacity: .5; }
+
+/* ---------- edit mode */
+.edit-toggle {
+  margin-left: auto; font: inherit; font-size: .9rem; padding: .4rem .9rem; cursor: pointer;
+  color: var(--text); background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+}
+.edit-toggle[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); font-weight: 600; }
+.edit-hint { margin: 0 0 1rem; padding: .5rem .8rem; font-size: .85rem; color: var(--muted);
+  background: var(--accent-soft); border-radius: 8px; }
+.step { display: none; }
+body.editing .step {
+  display: inline-grid; place-items: center; width: 1.7em; height: 1.7em; padding: 0; margin: 0 .3em;
+  font: inherit; line-height: 1; color: var(--text); cursor: pointer;
+  background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px;
+}
+body.editing .step:hover { border-color: var(--accent); }
+body.editing .check:not([disabled]) { cursor: pointer; border-color: var(--muted); }
+body.editing .check:not([disabled]):hover { border-color: var(--accent); }
+body.editing .table-wrap { border-color: var(--accent); }
+.toast {
+  position: fixed; left: 50%; bottom: 1.5rem; transform: translateX(-50%); z-index: 20;
+  max-width: calc(100vw - 32px); padding: .6rem 1rem; border-radius: 8px;
+  background: var(--text); color: var(--bg); font-size: .9rem;
+}
 .note { font-weight: 400; font-size: .85rem; color: var(--muted); }
 .empty { color: var(--muted); }
 

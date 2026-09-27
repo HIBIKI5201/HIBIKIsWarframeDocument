@@ -122,9 +122,11 @@ def cell(col: str, value) -> str:
     if col == "url":
         return f'<td><a href="{esc(value)}" target="_blank" rel="noopener">Wiki ↗</a></td>'
     if col == "updated_at":
-        return f'<td><time>{esc(value.replace("T", " "))}</time></td>'
+        return f'<td><time class="updated">{esc(value.replace("T", " "))}</time></td>'
     if col == "required":
-        return f'<td class="num">×{value}</td>'
+        return (f'<td class="num"><button type="button" class="step" data-action="dec" aria-label="1 減らす">−</button>'
+                f'<span class="qty">×{value}</span>'
+                f'<button type="button" class="step" data-action="inc" aria-label="1 増やす">+</button></td>')
     return f"<td>{esc(str(value))}</td>"
 
 
@@ -146,15 +148,18 @@ def render_todo(con: sqlite3.Connection) -> None:
         for i in items:
             search = " ".join(str(i[k]) for k in ("name", "source", "condition", "note") if i[k])
             note = f'<div class="note">{esc(i["note"])}</div>' if i["note"] else ""
+            # 必要数がある項目 (アルケインなど) は +/- で、それ以外はチェックで完了を切り替える
+            counted = i["required"] is not None
             rows.append(
-                f'<tr class="{"done" if i["done"] else ""}" data-search="{esc(search.lower())}">'
-                f'<td class="name"><span class="check" aria-label="{"完了" if i["done"] else "未完了"}">'
-                f'{"✔" if i["done"] else ""}</span>{esc(i["name"])}{note}</td>'
+                f'<tr class="{"done" if i["done"] else ""}" data-search="{esc(search.lower())}"'
+                f' data-name="{esc(i["name"])}" data-kind="{"count" if counted else "check"}">'
+                f'<td class="name"><button type="button" class="check" aria-pressed="{str(bool(i["done"])).lower()}"'
+                f' aria-label="完了"{" disabled" if counted else ""}></button>{esc(i["name"])}{note}</td>'
                 + "".join(cell(k, i[k]) for k, _ in cols) + "</tr>"
             )
         sections.append(
             f'<section class="category" id="{c["id"]}" data-cat="{c["id"]}">'
-            f'<header><h2>{esc(c["title"])}</h2><span class="count">{c["done"]} / {c["total"]}</span>'
+            f'<header><h2>{esc(c["title"])}</h2><span class="count"><span class="done-n">{c["done"]}</span> / {c["total"]}</span>'
             f'{progress_bar(c["done"], c["total"])}</header>'
             f'<div class="table-wrap"><table><thead><tr>{head}</tr></thead>'
             f'<tbody>{"".join(rows)}</tbody></table></div></section>'
