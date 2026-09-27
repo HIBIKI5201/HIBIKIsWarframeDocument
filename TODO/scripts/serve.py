@@ -1,7 +1,7 @@
 """ビルドしてローカルサーバーで配信し、data/ や site/ の変更を検知して自動で再ビルドする。
 
 使い方:
-    python TODO/scripts/serve.py [--port 8000]
+    python TODO/scripts/serve.py [--port 8000] [--open]
 """
 from __future__ import annotations
 
@@ -10,6 +10,7 @@ import functools
 import threading
 import time
 import traceback
+import webbrowser
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
@@ -48,13 +49,17 @@ class QuietHandler(SimpleHTTPRequestHandler):
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--port", type=int, default=8000)
+    ap.add_argument("--open", action="store_true", help="起動後にブラウザで開く")
     args = ap.parse_args()
 
     rebuild()
     threading.Thread(target=watch, daemon=True).start()
     handler = functools.partial(QuietHandler, directory=str(build.SITE))
     server = ThreadingHTTPServer(("127.0.0.1", args.port), handler)
-    print(f"serving http://localhost:{args.port}/  (Ctrl+C で停止)", flush=True)
+    url = f"http://localhost:{args.port}/"
+    print(f"serving {url}  (Ctrl+C で停止)", flush=True)
+    if args.open:
+        webbrowser.open(url)
     try:
         server.serve_forever()
     except KeyboardInterrupt:

@@ -5,8 +5,11 @@ Notion の「欲しいものデータベース」から移行した TODO リス�
 
 ## 閲覧
 
+`TODO/serve.bat` をダブルクリックすると、ビルドしてサーバーを起動し、ブラウザで http://localhost:8000/ を開く。
+止めるときはウィンドウを閉じる（または Ctrl+C）。コマンドから起動する場合:
+
 ```bash
-python TODO/scripts/serve.py        # http://localhost:8000/
+python TODO/scripts/serve.py --open
 ```
 
 起動時にビルドし、`data/`・`site/`・`db/` の変更を検知して自動で再ビルドする（ブラウザは手動リロード）。
@@ -16,6 +19,7 @@ python TODO/scripts/serve.py        # http://localhost:8000/
 
 ```
 TODO/
+  serve.bat           ダブルクリックで起動
   data/NN-<id>.toml   ← 編集するのはここ。カテゴリ 1 つ = 1 ファイル、NN は表示順
   db/schema.sql       SQLite スキーマ（カテゴリ別進捗ビュー category_progress など）
   scripts/
