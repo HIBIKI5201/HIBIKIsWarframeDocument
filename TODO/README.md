@@ -50,6 +50,12 @@ done = false
 `name` 以外は省略可。表の列は、カテゴリ内に値があるものだけ表示される。
 カテゴリを増やすときは `data/08-<id>.toml` を作り、先頭に `[category]` の `title` と `order` を書く。
 
+## 新アップデートの追加要素を登録する
+
+Claude Code で「Update 41 の追加要素を TODO に入れて」のように頼むと、プロジェクトスキル
+[`warframe-update-todo`](../.claude/skills/warframe-update-todo/SKILL.md) が起動する。
+パッチノートと Wiki を調べて候補を出し、選んだものだけを `data/*.toml` に追記する（`note` に「<アップデート名> で追加」が入る）。
+
 ## SQL で集計する
 
 `build/todo.db` はビルドのたびに作り直される SQLite DB。
