@@ -1,5 +1,5 @@
 ---
-name: warframe-update-todo
+name: wf-update-todo
 description: Warframe の新しいアップデート（メインライン・ホットフィックス・大型更新）で追加された装備・MOD・アルケイン・ホノリア・シーン・スキャン対象などを調べ、TODO/data/*.toml の欲しいものリストに追加する。「新バージョンの追加要素を TODO に入れて」「Update 41 の新アイテムを調べて追加」「最新アプデで何が増えたか調べてリストに」などの依頼で使う。
 ---
 

@@ -53,7 +53,7 @@ done = false
 ## 新アップデートの追加要素を登録する
 
 Claude Code で「Update 41 の追加要素を TODO に入れて」のように頼むと、プロジェクトスキル
-[`warframe-update-todo`](../.claude/skills/warframe-update-todo/SKILL.md) が起動する。
+[`wf-update-todo`](../.claude/skills/wf-update-todo/SKILL.md) が起動する。
 パッチノートと Wiki を調べて候補を出し、選んだものだけを `data/*.toml` に追記する（`note` に「<アップデート名> で追加」が入る）。
 
 ## SQL で集計する
