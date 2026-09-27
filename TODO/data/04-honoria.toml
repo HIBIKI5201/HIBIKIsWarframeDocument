@@ -1,0 +1,89 @@
+# Notion「欲しいものデータベース」から移行
+[category]
+title = "ホノリア"
+order = 4
+
+[[items]]
+name = "Zenurik ヴァンガード"
+condition = "5,000,000 Zenurik フォーカスで購入"
+done = false
+
+[[items]]
+name = "Madurai ヴァンガード"
+condition = "5,000,000 Madurai フォーカスで購入"
+done = false
+
+[[items]]
+name = "Unairu ヴァンガード"
+condition = "5,000,000 Unairu フォーカスで購入"
+done = false
+
+[[items]]
+name = "Fragmented"
+condition = "フラグメント・ワンのアコレードグリフを全6種集める"
+done = false
+
+[[items]]
+name = "The Mechanic"
+condition = "H-09 アペックスのアコレードグリフを全6種集める"
+done = false
+
+[[items]]
+name = "ステッカーマスター"
+condition = "次元アルキメデアでピーリーピクチャを全種類集める"
+done = false
+
+[[items]]
+name = "Pleasure and Pain"
+condition = "Leticiaと恋人になる"
+done = false
+
+[[items]]
+name = "Rusalkaの希望"
+condition = "MinervaとVelimirの関係を修復する"
+done = false
+
+[[items]]
+name = "Soulmate"
+condition = "Lyonと恋人になる"
+done = false
+
+[[items]]
+name = "Devil's Own"
+condition = "Roatheと恋人になる"
+done = false
+
+[[items]]
+name = "Harrowの影"
+condition = "HARROWでディセンディア全21階層を連続で踏破"
+done = false
+
+[[items]]
+name = "ダブルトラブル"
+condition = "URIELでディセンディア全21階層を連続で踏破"
+done = false
+
+[[items]]
+name = "Pas de Deux"
+condition = "WISPでディセンディア全21階層を連続で踏破"
+done = false
+
+[[items]]
+name = "全てを喰らうもの"
+condition = "コモンコノドログ（エイドロン草原）"
+done = false
+
+[[items]]
+name = "二つの帝国"
+condition = "ナルメル・アイソブラスト（ナルメル依頼）"
+done = false
+
+[[items]]
+name = "良心の画家"
+condition = "アトラメンタム（金星リレー）"
+done = false
+
+[[items]]
+name = "錬金術の長官"
+condition = "ゼノラスト（ダイモス鉱石）"
+done = false

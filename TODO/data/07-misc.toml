@@ -1,0 +1,24 @@
+# Notion「欲しいものデータベース」から移行
+[category]
+title = "その他"
+order = 7
+
+[[items]]
+name = "アヤタン・エレガント"
+done = false
+
+[[items]]
+name = "セファロン・アドーンメント"
+done = false
+
+[[items]]
+name = "ターニッシュ・モーフィクス"
+done = false
+
+[[items]]
+name = "ホワイトサン・べニア"
+done = false
+
+[[items]]
+name = "ホームステッド・ツイル"
+done = false

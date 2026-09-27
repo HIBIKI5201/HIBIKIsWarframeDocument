@@ -1,0 +1,60 @@
+# Notion「欲しいものデータベース」から移行
+[category]
+title = "アルケイン"
+order = 3
+
+[[items]]
+name = "アルケイン ホットショット"
+source = "次元アルキメデア"
+required = 12
+updated = 2026-03-18T03:43:00
+done = false
+
+[[items]]
+name = "アルケイン ユニバーサルフォールアウト"
+source = "次元アルキメデア"
+required = 3
+updated = 2026-03-18T03:43:00
+done = false
+
+[[items]]
+name = "セカンダリ キンシップ"
+source = "ミラー防衛"
+required = 6
+updated = 2025-12-16T05:40:00
+done = false
+
+[[items]]
+name = "メレー クレッシェンド"
+source = "深淵アルキメデア"
+required = 1
+updated = 2026-03-26T03:55:00
+done = false
+
+[[items]]
+name = "メレー デュプリケート"
+source = "深淵アルキメデア"
+required = 1
+updated = 2026-03-26T03:55:00
+done = false
+
+[[items]]
+name = "アルケイン エスケーピスト"
+source = "次元アルキメデア"
+required = 5
+updated = 2025-12-28T16:43:00
+done = false
+
+[[items]]
+name = "アルケイン ステッドファスト"
+source = "ミラー防衛"
+required = 5
+updated = 2026-03-26T03:45:00
+done = false
+
+[[items]]
+name = "アルケイン ダブルバック"
+source = "ミラー防衛"
+required = 12
+updated = 2025-12-16T05:37:00
+done = false

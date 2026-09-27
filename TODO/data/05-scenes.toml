@@ -1,0 +1,19 @@
+# Notion「欲しいものデータベース」から移行
+[category]
+title = "シーン/アリーナ"
+order = 5
+
+[[items]]
+name = "Teshinレフュージ"
+source = "コンクレーブ"
+done = false
+
+[[items]]
+name = "ルナーロ"
+source = "コンクレーブ"
+done = false
+
+[[items]]
+name = "冬至広場"
+source = "ステージ防衛"
+done = false

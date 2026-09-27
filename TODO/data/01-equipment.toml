@@ -1,0 +1,24 @@
+# Notion「欲しいものデータベース」から移行
+[category]
+title = "装備"
+order = 1
+
+[[items]]
+name = "Wrath"
+done = false
+
+[[items]]
+name = "Afentis Prime"
+done = false
+
+[[items]]
+name = "Athodai Prime"
+done = false
+
+[[items]]
+name = "Styanax Prime"
+done = false
+
+[[items]]
+name = "Voruna Prime"
+done = false

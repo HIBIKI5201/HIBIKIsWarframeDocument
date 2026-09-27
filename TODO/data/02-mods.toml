@@ -1,0 +1,24 @@
+# Notion「欲しいものデータベース」から移行
+[category]
+title = "MOD"
+order = 2
+
+[[items]]
+name = "Dreamer’s Wraith"
+source = "錬金術"
+done = false
+
+[[items]]
+name = "Boitic Rounds"
+source = "Night Wave"
+done = false
+
+[[items]]
+name = "Reroot Rampage"
+source = "ペリン・ベール"
+done = false
+
+[[items]]
+name = "Rythem Guide"
+source = "メリディアン・ロカ"
+done = false

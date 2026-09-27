@@ -1,0 +1,117 @@
+# Notion「欲しいものデータベース」から移行
+[category]
+title = "スキャン"
+order = 6
+
+[[items]]
+name = "Gruzzling Eximus"
+url = "https://wiki.warframe.com/w/Gruzzling"
+done = false
+
+[[items]]
+name = "Rogue Bonewidow Eximus"
+url = "https://wiki.warframe.com/w/Rogue_Bonewidow"
+done = false
+
+[[items]]
+name = "Rogue Voidrig (Isolation Vault)"
+url = "https://wiki.warframe.com/w/Rogue_Voidrig"
+done = false
+
+[[items]]
+name = "Narmer Buzzard Dropship"
+url = "https://wiki.warframe.com/w/Narmer_Buzzard_Dropship"
+done = false
+
+[[items]]
+name = "Narmer Condor Dropship"
+url = "https://wiki.warframe.com/w/Narmer_Condor_Dropship"
+done = false
+
+[[items]]
+name = "Narmer Geminex MOA"
+url = "https://wiki.warframe.com/w/Narmer_Geminex_MOA"
+done = false
+
+[[items]]
+name = "Narmer Glaxion MOA"
+url = "https://wiki.warframe.com/w/Narmer_Glaxion_MOA"
+done = false
+
+[[items]]
+name = "Narmer Mine Osprey"
+url = "https://wiki.warframe.com/w/Narmer_Mine_Osprey"
+done = false
+
+[[items]]
+name = "Narmer Sapping Osprey"
+url = "https://wiki.warframe.com/w/Narmer_Sapping_Osprey"
+done = false
+
+[[items]]
+name = "Orokin Spectator"
+url = "https://wiki.warframe.com/w/Orokin_Spectator"
+done = false
+
+[[items]]
+name = "Demolyst"
+url = "https://wiki.warframe.com/w/Demolyst_(Enemy)"
+done = false
+
+[[items]]
+name = "Juno Sap Comba"
+url = "https://wiki.warframe.com/w/Comba#Sap"
+done = false
+
+[[items]]
+name = "Juno Nul Comba"
+url = "https://wiki.warframe.com/w/Comba#Nul"
+done = false
+
+[[items]]
+name = "Scrofa Drover Bursa Eximus"
+url = "https://wiki.warframe.com/w/Scrofa_Drover_Bursa"
+done = false
+
+[[items]]
+name = "Scrofa Light Trencher"
+url = "https://wiki.warframe.com/w/Trencher#Scrofa_Light"
+done = false
+
+[[items]]
+name = "Scrofa Light Trencher Eximus"
+url = "https://wiki.warframe.com/w/Trencher#Scrofa_Light"
+done = false
+
+[[items]]
+name = "Vapos Aquila"
+url = "https://wiki.warframe.com/w/Vapos_Aquila"
+done = false
+
+[[items]]
+name = "Vapos Condor Elite Dropship"
+url = "https://wiki.warframe.com/w/Condor_Dropship#Variants"
+done = false
+
+[[items]]
+name = "Vapos Crewman Eximus"
+url = "https://wiki.warframe.com/w/Vapos_Crewman"
+done = false
+
+[[items]]
+name = "Vapos Prod Crewman Eximus"
+url = "https://wiki.warframe.com/w/Prod_Crewman#Vapos"
+done = false
+
+[[items]]
+name = "Drekar Hellion Eximus"
+url = "https://wiki.warframe.com/w/Hellion#Drekar"
+done = false
+
+[[items]]
+name = "Fortress Scanner"
+done = false
+
+[[items]]
+name = "Frontier Bailiff Eximus"
+done = false
