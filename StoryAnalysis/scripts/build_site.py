@@ -15,7 +15,7 @@ from string import Template
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO_ROOT = ROOT.parent
-REPO_URL = "https://github.com/HIBIKI5201/WarframeDocument/tree/main/"
+REPO_URL = "https://github.com/HIBIKI5201/HIBIKIsWarframeDocument/tree/main/"
 current_src: Path | None = None  # 変換中の Markdown（相対リンクの解決用）
 BUILD = ROOT / "build"
 SITE = BUILD / "site"
