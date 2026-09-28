@@ -6,7 +6,8 @@
   const chips = [...document.querySelectorAll(".chip")];
   const sections = [...document.querySelectorAll("section.category")];
   const noResults = document.getElementById("no-results");
-  let cat = new URLSearchParams(location.search).get("cat") || "";
+  // ?cat=<id> のほか、クエリを渡せない環境向けに #<id> でも受け付ける
+  let cat = new URLSearchParams(location.search).get("cat") || decodeURIComponent(location.hash.slice(1));
 
   const load = (k) => { try { return localStorage.getItem(k); } catch { return null; } };
   const save = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
