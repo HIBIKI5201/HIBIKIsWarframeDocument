@@ -1,0 +1,242 @@
+[
+ {
+  "group": "メインストーリー",
+  "items": [
+   {
+    "page": "Awakening",
+    "ja": "目覚め",
+    "summary": "千年の眠りから目覚めた Tenno が Lotus の導きで Grineer から脱出する（U42 でリメイク）"
+   },
+   {
+    "page": "Vor's Prize",
+    "ja": "Vorの秘宝",
+    "summary": "オービターとセファロン Ordis を取り戻し、Captain Vor を倒す"
+   },
+   {
+    "page": "The Teacher",
+    "ja": "師範",
+    "summary": "Teshin にまつわるクエスト（U40 で追加）"
+   },
+   {
+    "page": "Vox Solaris (Quest)",
+    "ja": "Vox Solaris",
+    "summary": "Fortuna の地下組織 Vox Solaris と接触し、Solaris の解放に手を貸す"
+   },
+   {
+    "page": "Once Awake",
+    "ja": "博士の計略",
+    "summary": "Grineer と Corpus の争いに関わる初期のクエスト"
+   },
+   {
+    "page": "Heart of Deimos",
+    "ja": "Deimosの鼓動",
+    "summary": "Deimos の Entrati 家と出会い、Necralisk と Cambion Drift の秘密に触れる"
+   },
+   {
+    "page": "The Archwing",
+    "ja": "アークウイング",
+    "summary": "宇宙空間で戦うためのアークウイングを手に入れる"
+   },
+   {
+    "page": "Natah (Quest)",
+    "ja": "Natah",
+    "summary": "謎のドローンを追ううちに Sentient Hunhow が目覚め、Lotus の正体が明かされ始める"
+   },
+   {
+    "page": "The Second Dream",
+    "ja": "二番目の夢",
+    "summary": "Hunhow と Stalker からリザーバーを守り、Tenno の本当の姿（オペレーター）が明らかになる"
+   },
+   {
+    "page": "The War Within",
+    "ja": "内なる紛争",
+    "summary": "Teshin を追って Kuva 要塞に潜入し、両女王と対決して Void の力を取り戻す"
+   },
+   {
+    "page": "Rising Tide",
+    "ja": "流転する形勢",
+    "summary": "Railjack を建造して艦隊戦に備える"
+   },
+   {
+    "page": "Chains of Harrow",
+    "ja": "Harrowの鎖",
+    "summary": "Red Veil の異変を追い、Rell と壁の中の者の真相に迫る"
+   },
+   {
+    "page": "Apostasy Prologue",
+    "ja": "背信のプロローグ",
+    "summary": "Ballas が現れ、Lotus が連れ去られる"
+   },
+   {
+    "page": "The Sacrifice",
+    "ja": "サクリファイス",
+    "summary": "Excalibur Umbra の記憶を追い、Ballas と Warframe 誕生の秘密に迫る"
+   },
+   {
+    "page": "Prelude to War",
+    "ja": "争いの序曲",
+    "summary": "Chimera Prologue・Erra・The Maker をまとめた、The New War 直前の章"
+   },
+   {
+    "page": "Chimera Prologue",
+    "ja": "キメラプロローグ",
+    "summary": "The New War へ向けて Sentient と Ballas の動きが描かれる短いクエスト"
+   },
+   {
+    "page": "Erra (Quest)",
+    "ja": "Erra",
+    "summary": "Sentient の指揮官 Erra が姿を現し、ルアで衝突する"
+   },
+   {
+    "page": "The Maker",
+    "ja": "創造主",
+    "summary": "Prelude to War を構成する章の一つ"
+   },
+   {
+    "page": "The New War",
+    "ja": "新たな大戦",
+    "summary": "Sentient と Narmer の侵攻に対し、太陽系全体を巻き込んだ戦争が起きる"
+   },
+   {
+    "page": "The Duviri Paradox",
+    "ja": "デュヴィリパラドックス",
+    "summary": "謎の世界 Duviri と、Drifter と呼ばれるもう一人の自分が描かれる"
+   },
+   {
+    "page": "Whispers in the Walls",
+    "ja": "壁の中の囁き",
+    "summary": "Albrecht Entrati の研究所で Murmur と壁の中の者の謎に迫る"
+   },
+   {
+    "page": "The Lotus Eaters",
+    "ja": "蓮を食べる者",
+    "summary": "Lotus（Natah）の行方をめぐる、Kalymos Sequence の一章"
+   },
+   {
+    "page": "The Hex (Quest)",
+    "ja": "The Hex",
+    "summary": "1999 年の Höllvania で、Protoframe たちの部隊 The Hex と行動する"
+   },
+   {
+    "page": "The Old Peace",
+    "ja": "古き平和",
+    "summary": "Old War の休戦期、Tau 星系での Orokin・Sentient・Tenno の関係が描かれる"
+   },
+   {
+    "page": "Jade Shadows",
+    "ja": "Jadeの影",
+    "summary": "Stalker の過去と、Warframe Jade の誕生をめぐる物語"
+   },
+   {
+    "page": "Jade Shadows: Constellations",
+    "ja": "Jadeの影：星座",
+    "summary": "Jade Shadows の続編。破滅した未来から来た Protoframe が登場する"
+   },
+   {
+    "page": "Angels of the Zariman",
+    "ja": "Zarimanの天使",
+    "summary": "Void から戻った Zariman Ten Zero を探索し、船の生き残りと出会う"
+   },
+   {
+    "page": "Veilbreaker",
+    "ja": "Veilbreaker",
+    "summary": "Kahl-175 を中心に、Narmer との戦いを描く"
+   }
+  ]
+ },
+ {
+  "group": "サイドクエスト",
+  "items": [
+   {
+    "page": "Saya's Vigil",
+    "ja": "Sayaの眼",
+    "summary": "Cetus の Saya の頼みで、夫 Onkko と Gara の伝説を追う"
+   },
+   {
+    "page": "Howl of the Kubrow",
+    "ja": "クブロウ獲得",
+    "summary": "Kubrow を手に入れる"
+   },
+   {
+    "page": "Stolen Dreams",
+    "ja": "奪われた野望",
+    "summary": "Maroo とともに Arcane Codices の謎を追う"
+   },
+   {
+    "page": "Patient Zero",
+    "ja": "感染起源は誰",
+    "summary": "Alad V と Infested の実験をめぐる物語"
+   },
+   {
+    "page": "A Man of Few Words",
+    "ja": "寡黙な人物",
+    "summary": "Clem と Darvo にまつわる小話"
+   }
+  ]
+ },
+ {
+  "group": "Warframe 入手クエスト",
+  "items": [
+   {
+    "page": "The Deadlock Protocol",
+    "ja": "デッドロック・プロトコル",
+    "summary": "Protea を手に入れ、Corpus の Granum と時間をめぐる陰謀に関わる"
+   },
+   {
+    "page": "Call of the Tempestarii",
+    "ja": "Tempestariiの呼び声",
+    "summary": "幽霊船 Tempestarii と Sevagoth の過去を追う"
+   },
+   {
+    "page": "The New Strange",
+    "ja": "新たな怪奇",
+    "summary": "Cephalon Simaris と出会い、Chroma と Arcane Machine の謎を追う"
+   },
+   {
+    "page": "The Glast Gambit",
+    "ja": "グラスト・ギャンビット",
+    "summary": "Nef Anyo の賭けに巻き込まれ、Nidus を手に入れる"
+   },
+   {
+    "page": "Octavia's Anthem",
+    "ja": "Octaviaの賛美歌",
+    "summary": "音楽の謎を解いて Octavia を手に入れる"
+   },
+   {
+    "page": "Sands of Inaros",
+    "ja": "Inarosの砂嵐",
+    "summary": "Baro Ki'Teer に導かれ、Inaros の墓を探る"
+   },
+   {
+    "page": "Hidden Messages",
+    "ja": "隠されたメッセージ",
+    "summary": "謎の暗号を解いて Mirage を手に入れる"
+   },
+   {
+    "page": "Mask of the Revenant",
+    "ja": "Revenantの仮面",
+    "summary": "Plains of Eidolon の Nakak と Eidolon の伝承から Revenant を手に入れる"
+   },
+   {
+    "page": "The Silver Grove",
+    "ja": "銀の果樹園",
+    "summary": "Archimedean Silvana の伝説と Titania を追う"
+   },
+   {
+    "page": "The Waverider",
+    "ja": "The Waverider",
+    "summary": "Fortuna の Ventkids と Yareli の伝説に触れる"
+   },
+   {
+    "page": "The Limbo Theorem",
+    "ja": "Limboセオリム",
+    "summary": "Corpus の研究所で Limbo の設計図を集める"
+   },
+   {
+    "page": "The Jordas Precept",
+    "ja": "Jordasの教訓",
+    "summary": "Infested に侵された Cephalon Jordas と対峙し、Atlas を手に入れる"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1532 @@
+[
+ {
+  "group": "Tenno",
+  "items": [
+   {
+    "page": "Operator",
+    "name": "Operator",
+    "ja": "プレイヤー自身である Tenno。Void の力を扱う"
+   },
+   {
+    "page": "Drifter",
+    "name": "Drifter",
+    "ja": "実現しなかった可能性から来た、別世界の Tenno"
+   },
+   {
+    "page": "Lotus",
+    "name": "Lotus",
+    "ja": "Tenno を導く謎の女性"
+   },
+   {
+    "page": "Teshin",
+    "name": "Teshin",
+    "ja": "Teshin Dax。Tenno の師。Conclave を管理している"
+   },
+   {
+    "page": "Rell",
+    "name": "Rell",
+    "ja": "歴史から消えた Tenno。Void の研究が Red Veil 設立につながった"
+   },
+   {
+    "page": "Berryn",
+    "name": "Berryn",
+    "ja": "Zariman Ten Zero に乗っていた子供の一人"
+   },
+   {
+    "page": "Jenva",
+    "name": "Jenva",
+    "ja": "Zariman Ten Zero に乗っていた子供の一人"
+   },
+   {
+    "page": "Mathon",
+    "name": "Mathon",
+    "ja": "Zariman Ten Zero に乗っていた子供の一人"
+   },
+   {
+    "page": "Terolee",
+    "name": "Terolee",
+    "ja": "Zariman Ten Zero に乗っていた子供の一人"
+   },
+   {
+    "page": "Excalibur/Umbra",
+    "name": "Excalibur Umbra",
+    "ja": "Excalibur の Umbra 版。The Sacrifice で登場"
+   },
+   {
+    "page": "Baro Ki'Teer",
+    "name": "Baro Ki'Teer",
+    "ja": "Void Trader。Orokin の品と贅沢を好む商人"
+   },
+   {
+    "page": "Varzia",
+    "name": "Varzia",
+    "ja": "Varzia Dax。元 Dax の兵士。Maroo's Bazaar で Prime Resurgence を運営"
+   }
+  ]
+ },
+ {
+  "group": "Cephalon",
+  "items": [
+   {
+    "page": "Ordis",
+    "name": "Ordis",
+    "ja": "オービターに仕える Orokin 由来の Cephalon"
+   },
+   {
+    "page": "Cephalon Cy",
+    "name": "Cephalon Cy",
+    "ja": "Railjack の航法士・副長"
+   },
+   {
+    "page": "Cephalon Melica",
+    "name": "Cephalon Melica",
+    "ja": "The New War の回想で教師として登場"
+   },
+   {
+    "page": "Cephalon Simaris",
+    "name": "Cephalon Simaris",
+    "ja": "Sanctuary で生物を「永遠化」しようとする Cephalon"
+   },
+   {
+    "page": "Cephalon Suda",
+    "name": "Cephalon Suda",
+    "ja": "同名シンジケートのリーダー"
+   },
+   {
+    "page": "Cephalon Jordas",
+    "name": "Cephalon Jordas",
+    "ja": "Corpus の Cephalon。The Jordas Precept で初登場"
+   },
+   {
+    "page": "Cephalon Sark",
+    "name": "Cephalon Sark",
+    "ja": "The Index の司会。Cephalon Capture にも登場"
+   },
+   {
+    "page": "Cephalon Apnar",
+    "name": "Cephalon Apnar",
+    "ja": "Conclave の Cephalon Capture に登場"
+   },
+   {
+    "page": "Cephalon Vull",
+    "name": "Cephalon Vull",
+    "ja": "Conclave の Cephalon Capture に登場"
+   },
+   {
+    "page": "Daklo",
+    "name": "Daklo",
+    "ja": "Tauron Academy にいる Cephalon"
+   },
+   {
+    "page": "Drusus",
+    "name": "Drusus",
+    "ja": "Drusus Thelonius Leverian。博物館 Leverian の館長・語り手"
+   },
+   {
+    "page": "Otak",
+    "name": "Otak",
+    "ja": "Necralisk の商人の Cephalon"
+   },
+   {
+    "page": "Nihil",
+    "name": "Nihil",
+    "ja": "連続殺人鬼「Glassmaker」。元 Orokin の処刑人"
+   }
+  ]
+ },
+ {
+  "group": "Grineer",
+  "items": [
+   {
+    "page": "Grineer Queens",
+    "name": "Grineer Queens",
+    "ja": "Grineer を統べる双子の女王"
+   },
+   {
+    "page": "Captain Vor",
+    "name": "Captain Vor",
+    "ja": "ゲーム冒頭でプレイヤーを目覚めさせた Grineer 将校"
+   },
+   {
+    "page": "Corrupted Vor",
+    "name": "Corrupted Vor",
+    "ja": "Void で変異した Captain Vor"
+   },
+   {
+    "page": "Councilor Vay Hek",
+    "name": "Councilor Vay Hek",
+    "ja": "地球の Grineer ボス"
+   },
+   {
+    "page": "General Sargas Ruk",
+    "name": "General Sargas Ruk",
+    "ja": "土星の Grineer ボス"
+   },
+   {
+    "page": "Lieutenant Lech Kril",
+    "name": "Lieutenant Lech Kril",
+    "ja": "火星の Grineer ボス"
+   },
+   {
+    "page": "Kela De Thaym",
+    "name": "Kela De Thaym",
+    "ja": "セドナのボス。闘技場 Rathuum の主"
+   },
+   {
+    "page": "Tyl Regor",
+    "name": "Tyl Regor",
+    "ja": "天王星のボス。クローン劣化の治療を研究"
+   },
+   {
+    "page": "Kahl-175",
+    "name": "Kahl-175",
+    "ja": "The New War で登場した Grineer Lancer。Kahl's Garrison のリーダー"
+   },
+   {
+    "page": "Kuva Lich",
+    "name": "Kuva Lich",
+    "ja": "Kuva で強化された Grineer の宿敵"
+   },
+   {
+    "page": "The Grustrag Three",
+    "name": "The Grustrag Three",
+    "ja": "Vay Hek がよく使う 3 人組の暗殺者"
+   },
+   {
+    "page": "Sprag",
+    "name": "Sprag",
+    "ja": "フィールドボス。Operation Gate Crash で初登場"
+   },
+   {
+    "page": "Ven'kra Tel",
+    "name": "Ven'kra Tel",
+    "ja": "フィールドボス。Operation Gate Crash で初登場"
+   },
+   {
+    "page": "Garv",
+    "name": "Garv",
+    "ja": "Deimos に派遣された Grineer の兵士"
+   },
+   {
+    "page": "Boril",
+    "name": "Boril",
+    "ja": "降格した Vor の後任として提督に任命された人物"
+   },
+   {
+    "page": "Wolf of Saturn Six",
+    "name": "Wolf of Saturn Six",
+    "ja": "Nightwave: Series 1 の敵役"
+   },
+   {
+    "page": "Valdur",
+    "name": "Valdur",
+    "ja": "The Old Peace で登場。Old War 休戦期の Prime Grineer 指揮官"
+   },
+   {
+    "page": "Executioner/Gorth",
+    "name": "Executioners",
+    "ja": "Kela De Thaym 配下の処刑人たち（Dhurnam, Dok Thul, Garesh, Gorth, Harkonar, Nok, Reth, Vay Molta, Zura）"
+   }
+  ]
+ },
+ {
+  "group": "Corpus",
+  "items": [
+   {
+    "page": "Parvos Granum",
+    "name": "Parvos Granum",
+    "ja": "Orokin 時代の Corpus 創始者。Specter 技術の発明者"
+   },
+   {
+    "page": "Cladius",
+    "name": "Cladius",
+    "ja": "Parvos Granum の兄弟"
+   },
+   {
+    "page": "Frohd Bek",
+    "name": "Frohd Bek",
+    "ja": "Corpus 取締役会の会長。Darvo の父"
+   },
+   {
+    "page": "Alad V",
+    "name": "Alad V",
+    "ja": "取締役会の一員。Grineer 担当"
+   },
+   {
+    "page": "Mutalist Alad V",
+    "name": "Mutalist Alad V",
+    "ja": "Infested に侵された Alad V"
+   },
+   {
+    "page": "Nef Anyo",
+    "name": "Nef Anyo",
+    "ja": "取締役会の一員。富豪"
+   },
+   {
+    "page": "Derf Anyo",
+    "name": "Derf Anyo",
+    "ja": "Nef Anyo の息子（甥）"
+   },
+   {
+    "page": "Vala Glarios",
+    "name": "Vala Glarios",
+    "ja": "Parvos 配下の船長。Tempestarii への復讐を狙う"
+   },
+   {
+    "page": "Xeto",
+    "name": "Xeto",
+    "ja": "Parvos 配下の船長。Jade Shadows で登場"
+   },
+   {
+    "page": "Veso",
+    "name": "Veso",
+    "ja": "Veso-R。The New War で登場した技術者"
+   },
+   {
+    "page": "Latrox Une",
+    "name": "Latrox Une",
+    "ja": "Deimos に取り残され Entrati に雇われた研究者"
+   },
+   {
+    "page": "Sisters of Parvos",
+    "name": "Sisters of Parvos",
+    "ja": "Parvos に仕える Corpus の宿敵"
+   },
+   {
+    "page": "The Sergeant",
+    "name": "The Sergeant",
+    "ja": "フォボスのボス（旧 Sgt. Nef Anyo）"
+   },
+   {
+    "page": "Ambulas",
+    "name": "Ambulas",
+    "ja": "冥王星のボス。AI「Animo」を積む"
+   },
+   {
+    "page": "Jackal",
+    "name": "Jackal",
+    "ja": "金星のボス"
+   },
+   {
+    "page": "Hyena Pack",
+    "name": "Hyena Pack",
+    "ja": "海王星のボス。4 体組"
+   },
+   {
+    "page": "Raptors",
+    "name": "Raptors",
+    "ja": "エウロパのボス"
+   },
+   {
+    "page": "Lynx",
+    "name": "Lynx",
+    "ja": "Orokin Sabotage に出るフィールドボス"
+   },
+   {
+    "page": "Zanuka",
+    "name": "Zanuka",
+    "ja": "Warframe の部品で作られた Alad V のペット"
+   },
+   {
+    "page": "Zanuka Hunter",
+    "name": "Zanuka Hunter",
+    "ja": "Alad V が操る Zanuka（旧 Harvester）"
+   },
+   {
+    "page": "Exploiter Orb",
+    "name": "Exploiter Orb",
+    "ja": "Orb Vallis の大型 Raknoid"
+   },
+   {
+    "page": "Profit-Taker Orb",
+    "name": "Profit-Taker Orb",
+    "ja": "Orb Vallis の大型 Raknoid"
+   },
+   {
+    "page": "Popcorn",
+    "name": "Popcorn",
+    "ja": "Jackal の登場シーンで潰された試験用 MOA"
+   },
+   {
+    "page": "Arn Etina",
+    "name": "Arn Etina",
+    "ja": "冥王星の旧ボス（黒い MOA）"
+   },
+   {
+    "page": "J3-Golem",
+    "name": "J3-Golem",
+    "ja": "木星の旧ボス"
+   },
+   {
+    "page": "Corpus Commander",
+    "name": "Corpus Commander",
+    "ja": "Archwing Rush に出る脇役"
+   },
+   {
+    "page": "Corpus Captain",
+    "name": "Corpus Captain",
+    "ja": "Empyrean で見られる Corpus の船長"
+   }
+  ]
+ },
+ {
+  "group": "Infested",
+  "items": [
+   {
+    "page": "Helminth",
+    "name": "Helminth",
+    "ja": "オービターの Helminth Infirmary に住む存在"
+   },
+   {
+    "page": "Lephantis",
+    "name": "Lephantis",
+    "ja": "Old War のために作られた多頭の Infested"
+   },
+   {
+    "page": "Fass (Deimos)",
+    "name": "Fass",
+    "ja": "Cambion Drift の空にいる巨大な雄の虫"
+   },
+   {
+    "page": "Vome (Deimos)",
+    "name": "Vome",
+    "ja": "Cambion Drift の夜を表す巨大な雌の Infested"
+   },
+   {
+    "page": "Zealoid Prelate",
+    "name": "Zealoid Prelate",
+    "ja": "Nightwave: Series 2 で登場した Infested のボス"
+   }
+  ]
+ },
+ {
+  "group": "Orokin",
+  "items": [
+   {
+    "page": "Ballas",
+    "name": "Ballas",
+    "ja": "Executor で The Seven の一員。Warframe を生み出した人物"
+   },
+   {
+    "page": "Margulis",
+    "name": "Margulis",
+    "ja": "Archimedean。Zariman の子供たちの養母"
+   },
+   {
+    "page": "Albrecht Entrati",
+    "name": "Albrecht Entrati",
+    "ja": "初めて Void に到達した Orokin の科学者"
+   },
+   {
+    "page": "Silvana",
+    "name": "Silvana",
+    "ja": "Infested を研究した Archimedean"
+   },
+   {
+    "page": "Isaah",
+    "name": "Isaah",
+    "ja": "The Sacrifice に登場する Dax の兵士"
+   },
+   {
+    "page": "Dax",
+    "name": "Dax",
+    "ja": "Orokin に仕えた精鋭部隊（個人ではなく集団）"
+   },
+   {
+    "page": "Myrmidon",
+    "name": "Myrmidon",
+    "ja": "Ivara の Leverian に記録された、Warframe を狩る獣"
+   },
+   {
+    "page": "Executor Avantus",
+    "name": "Executor Avantus",
+    "ja": "The Seven の一員"
+   },
+   {
+    "page": "Executor Karishh",
+    "name": "Executor Karishh",
+    "ja": "The Seven の一員。崩壊を逃れたが Grendel に討たれた"
+   },
+   {
+    "page": "Executor Nitokh",
+    "name": "Executor Nitokh",
+    "ja": "The Seven の一員。Roathe の愛人"
+   },
+   {
+    "page": "Executor Scarne",
+    "name": "Executor Scarne",
+    "ja": "The Seven の一員"
+   },
+   {
+    "page": "Executor Tormis",
+    "name": "Executor Tormis",
+    "ja": "The Seven の一員"
+   },
+   {
+    "page": "Executor Tuvul",
+    "name": "Executor Tuvul",
+    "ja": "The Seven の一員"
+   },
+   {
+    "page": "Belric & Rania",
+    "name": "Belric & Rania",
+    "ja": "Deimos で Infested を解き放った 2 人の技術者"
+   },
+   {
+    "page": "Bekran Zaft",
+    "name": "Bekran Zaft",
+    "ja": "Dabaoth-Kra で Lavos の虐殺を生き延びた床磨き"
+   },
+   {
+    "page": "Javi",
+    "name": "Javi",
+    "ja": "Dabaoth-Kra に囚われていた Archimedean"
+   },
+   {
+    "page": "Bren Terrasiam",
+    "name": "Bren Terrasiam",
+    "ja": "陶芸家。Gallixware の作者"
+   },
+   {
+    "page": "Holsom Yurr",
+    "name": "Holsom Yurr",
+    "ja": "Orokin 時代の傭兵・略奪者"
+   },
+   {
+    "page": "Lorist Remballa",
+    "name": "Lorist Remballa",
+    "ja": "治癒の力を持つ Lorist。Infested に感染した"
+   },
+   {
+    "page": "Palanquin",
+    "name": "Palanquin",
+    "ja": "The Old Peace に登場する Orokin の輿"
+   },
+   {
+    "page": "Orowyrm",
+    "name": "Orowyrm",
+    "ja": "Orokin が設計した巨大な生体機械"
+   },
+   {
+    "page": "Unum",
+    "name": "Unum",
+    "ja": "Plains of Eidolon の外の塔に宿る意識"
+   },
+   {
+    "page": "Anarchs",
+    "name": "Anarchs",
+    "ja": "The Old Peace の Perita Rebellion に出る、和平を拒んだ分離派"
+   },
+   {
+    "page": "Galastra",
+    "name": "Galastra",
+    "ja": "Anarchs のリーダー"
+   }
+  ]
+ },
+ {
+  "group": "Sentient",
+  "items": [
+   {
+    "page": "Hunhow",
+    "name": "Hunhow",
+    "ja": "天王星の海底で見つかった巨大な Sentient"
+   },
+   {
+    "page": "Natah",
+    "name": "Natah",
+    "ja": "Lotus として Tenno を導いていた Sentient"
+   },
+   {
+    "page": "Erra (Character)",
+    "name": "Erra",
+    "ja": "Sentient の高位指揮官"
+   },
+   {
+    "page": "Praghasa",
+    "name": "Praghasa",
+    "ja": "Sentient の母艦"
+   },
+   {
+    "page": "Archon Amar",
+    "name": "Archon Amar",
+    "ja": "Erra の Archon。狼の頭と Rhino Prime の体"
+   },
+   {
+    "page": "Archon Boreal",
+    "name": "Archon Boreal",
+    "ja": "Erra の Archon。梟の頭と Loki Prime の体"
+   },
+   {
+    "page": "Archon Nira",
+    "name": "Archon Nira",
+    "ja": "Erra の Archon。蛇の頭と Mag Prime の体"
+   },
+   {
+    "page": "Adis",
+    "name": "Adis",
+    "ja": "The Old Peace で登場した若い Sentient"
+   },
+   {
+    "page": "Itzam",
+    "name": "Itzam",
+    "ja": "The Old Peace で登場した師"
+   },
+   {
+    "page": "The Hunra",
+    "name": "The Hunra",
+    "ja": "Tau の都市 Fornax を仕切る犯罪組織の首領"
+   },
+   {
+    "page": null,
+    "name": "Raspos / Tolvenar / Jeldrin / Zoff / Larynde",
+    "ja": "Wiki のナビに名前があるが、個別ページはまだない"
+   }
+  ]
+ },
+ {
+  "group": "Stalker",
+  "items": [
+   {
+    "page": "Stalker",
+    "name": "Stalker",
+    "ja": "Tenno を付け狙う復讐者"
+   },
+   {
+    "page": "Shadow Stalker",
+    "name": "Shadow Stalker",
+    "ja": "Sentient の力で強化された Stalker"
+   },
+   {
+    "page": "Protector Stalker",
+    "name": "Protector Stalker",
+    "ja": "Jade Shadows 後の Stalker"
+   },
+   {
+    "page": "Angst",
+    "name": "Angst",
+    "ja": "Shadow Stalker の Acolyte。Operation: Shadow Debt で初登場"
+   },
+   {
+    "page": "Malice",
+    "name": "Malice",
+    "ja": "同上"
+   },
+   {
+    "page": "Mania",
+    "name": "Mania",
+    "ja": "同上"
+   },
+   {
+    "page": "Misery",
+    "name": "Misery",
+    "ja": "同上"
+   },
+   {
+    "page": "Torment",
+    "name": "Torment",
+    "ja": "同上"
+   },
+   {
+    "page": "Violence",
+    "name": "Violence",
+    "ja": "同上"
+   }
+  ]
+ },
+ {
+  "group": "Narmer",
+  "items": [
+   {
+    "page": "Pazuul",
+    "name": "Pazuul",
+    "ja": "Ballas の後を継いだ Narmer の現リーダー"
+   },
+   {
+    "page": "Ka-Nuteru",
+    "name": "Ka-Nuteru",
+    "ja": "Narmer に染まった Grineer の兵士"
+   }
+  ]
+ },
+ {
+  "group": "Void・Murmur・Zariman",
+  "items": [
+   {
+    "page": "The Man in the Wall",
+    "name": "The Man in the Wall",
+    "ja": "「Indifference」。Void に結びつく存在で Murmur の創造者"
+   },
+   {
+    "page": "The Murmur",
+    "name": "The Murmur",
+    "ja": "Albrecht の研究所に出る敵勢力"
+   },
+   {
+    "page": "Whisper",
+    "name": "Whisper",
+    "ja": "Albrecht の Grimoire から現れる Murmur"
+   },
+   {
+    "page": "Jahu Gargoyle",
+    "name": "Jahu Gargoyle",
+    "ja": "Whispers in the Walls で作られた正体不明の像"
+   },
+   {
+    "page": "Skittergirl",
+    "name": "Skittergirl",
+    "ja": "Zariman に出る Void の具現。不安が形になったもの"
+   },
+   {
+    "page": "The Husband",
+    "name": "The Husband",
+    "ja": "Zariman の事故直後に最期を記録した生存者"
+   },
+   {
+    "page": "Quinn",
+    "name": "Quinn",
+    "ja": "Holdfasts のリーダー。元 Zariman の遠征指揮連絡官"
+   },
+   {
+    "page": "Cavalero",
+    "name": "Cavalero",
+    "ja": "Holdfasts の武器商。元 Zariman の警備員"
+   },
+   {
+    "page": "Archimedean Yonta",
+    "name": "Archimedean Yonta",
+    "ja": "Holdfasts の Archimedean"
+   },
+   {
+    "page": "Hombask",
+    "name": "Hombask",
+    "ja": "Holdfasts の Dormizone 商人。元 Zariman の農夫"
+   },
+   {
+    "page": "Kira",
+    "name": "Kira",
+    "ja": "元 Zariman の乗客。Holdfasts のかつての 5 人目"
+   },
+   {
+    "page": "VERD-IE",
+    "name": "VERD-IE",
+    "ja": "Zariman の植物を世話する保守ドローン"
+   },
+   {
+    "page": "Raff Seglass",
+    "name": "Raff Seglass",
+    "ja": "Dormizone の Vistagraph と Audioscape の作者"
+   }
+  ]
+ },
+ {
+  "group": "1999（Höllvania）",
+  "items": [
+   {
+    "page": "Arthur",
+    "name": "Arthur",
+    "ja": "Arthur Nightingale。The Hex の隊長"
+   },
+   {
+    "page": "Eleanor",
+    "name": "Eleanor",
+    "ja": "Eleanor Nightingale。The Hex の心理戦担当で Arthur の姉"
+   },
+   {
+    "page": "Aoi",
+    "name": "Aoi",
+    "ja": "Aoi Morohoshi。The Hex の整備士・副隊長"
+   },
+   {
+    "page": "Amir",
+    "name": "Amir",
+    "ja": "Amir Beckett。The Hex の技術者・ハッカー"
+   },
+   {
+    "page": "Leticia",
+    "name": "Leticia",
+    "ja": "Leticia \"Lettie\" Garcia。The Hex の衛生兵"
+   },
+   {
+    "page": "Quincy",
+    "name": "Quincy",
+    "ja": "Quincy Isaacs。The Hex の狙撃手"
+   },
+   {
+    "page": "Kaya",
+    "name": "Kaya",
+    "ja": "Kaya Velasco。Nova の特性を持つ Protoframe"
+   },
+   {
+    "page": "Flare",
+    "name": "Flare",
+    "ja": "Flare Varleon。Temple の特性を持つ Protoframe。喋るギター Lizzie を持つ"
+   },
+   {
+    "page": "Minerva",
+    "name": "Minerva",
+    "ja": "Minerva Hendricks。Saryn の特性を持つ Protoframe。Velimir の妻"
+   },
+   {
+    "page": "Velimir",
+    "name": "Velimir",
+    "ja": "Velimir Volkov II。Frost の特性を持つ Protoframe"
+   },
+   {
+    "page": "Roathe",
+    "name": "Roathe",
+    "ja": "Uriel の特性を持つ Protoframe"
+   },
+   {
+    "page": "Lyon",
+    "name": "Lyon",
+    "ja": "Lyon Allard 神父。Harrow の特性を持つ Protoframe。Devil's Triad の一員"
+   },
+   {
+    "page": "Marie",
+    "name": "Marie",
+    "ja": "Marie Leroux 修道女。Wisp の特性を持つ Protoframe。Devil's Triad の一員"
+   },
+   {
+    "page": "Ryoku",
+    "name": "Ryoku",
+    "ja": "Ash の特性を持つ Protoframe。破滅した未来から来た。Jade Shadows: Constellations で登場"
+   },
+   {
+    "page": "Vena",
+    "name": "Vena",
+    "ja": "Garuda の特性を持つ Protoframe。20 年後の破滅した未来から来た"
+   },
+   {
+    "page": "Scaldra",
+    "name": "Scaldra",
+    "ja": "The Hex で登場した敵勢力"
+   },
+   {
+    "page": "Major Neci Rusalka",
+    "name": "Major Neci Rusalka",
+    "ja": "Scaldra の指揮官"
+   },
+   {
+    "page": "Lieutenant Viktor Vodyanoi",
+    "name": "Lieutenant Viktor Vodyanoi",
+    "ja": "Scaldra の副官"
+   },
+   {
+    "page": "Techrot",
+    "name": "Techrot",
+    "ja": "Infested の前身にあたる敵勢力"
+   },
+   {
+    "page": "Technocyte Coda",
+    "name": "Technocyte Coda",
+    "ja": "音楽の力を持つ Techrot の宿敵"
+   },
+   {
+    "page": "DJ RoM",
+    "name": "DJ RoM",
+    "ja": "ボーイバンド On-lyne のメンバー"
+   },
+   {
+    "page": "Drillbit",
+    "name": "Drillbit",
+    "ja": "On-lyne のメンバー"
+   },
+   {
+    "page": "Harddrive",
+    "name": "Harddrive",
+    "ja": "On-lyne のメンバー"
+   },
+   {
+    "page": "Packet",
+    "name": "Packet",
+    "ja": "On-lyne のメンバー"
+   },
+   {
+    "page": "Zeke",
+    "name": "Zeke",
+    "ja": "On-lyne のメンバー"
+   },
+   {
+    "page": "Drippy",
+    "name": "Drippy",
+    "ja": "K.O.L.（Kinemantik Online）のアシスタント"
+   },
+   {
+    "page": "Ollie",
+    "name": "Ollie",
+    "ja": "アーケードゲーム Ollie's Crash Course の主人公"
+   }
+  ]
+ },
+ {
+  "group": "Duviri",
+  "items": [
+   {
+    "page": "Dominus Thrax",
+    "name": "Dominus Thrax",
+    "ja": "Duviri の「狂王」"
+   },
+   {
+    "page": "Bombastine",
+    "name": "Bombastine",
+    "ja": "Thrax の廷臣（The Covetous Courtier）"
+   },
+   {
+    "page": "Luscinia",
+    "name": "Luscinia",
+    "ja": "Thrax の廷臣（The Sorrowful Soprano）"
+   },
+   {
+    "page": "Sythel",
+    "name": "Sythel",
+    "ja": "Thrax の廷臣（The Fearful Conspirator）"
+   },
+   {
+    "page": "Lodun",
+    "name": "Lodun",
+    "ja": "Duviri の処刑人（The Prince of Fire）"
+   },
+   {
+    "page": "Mathila",
+    "name": "Mathila",
+    "ja": "いつも上機嫌な住人（The Harbinger of Joy）"
+   },
+   {
+    "page": "Acrithis",
+    "name": "Acrithis",
+    "ja": "記録係。「好奇心」の化身"
+   },
+   {
+    "page": "Barris",
+    "name": "Barris",
+    "ja": "Tamm の世話係の少年。「苛立ち」の化身"
+   },
+   {
+    "page": "Brimon",
+    "name": "Brimon",
+    "ja": "自称最速の Kaithe 乗り。「高慢」の化身"
+   },
+   {
+    "page": "Koral",
+    "name": "Koral",
+    "ja": "Conservation 担当の少女。「慈愛」の化身"
+   },
+   {
+    "page": "Pip",
+    "name": "Pip",
+    "ja": "Shawzin 弾き。「孤独」の化身"
+   },
+   {
+    "page": "The Warden",
+    "name": "The Warden",
+    "ja": "Kullervo の看守"
+   },
+   {
+    "page": "The Vagabond",
+    "name": "The Vagabond",
+    "ja": "Duviri の各所に現れる謎の放浪者"
+   },
+   {
+    "page": "Rablit",
+    "name": "Rablit",
+    "ja": "ウサギに似た生き物。Teshin も一匹飼っている"
+   }
+  ]
+ },
+ {
+  "group": "中立",
+  "items": [
+   {
+    "page": "Darvo",
+    "name": "Darvo",
+    "ja": "Darvo Bek。Frohd Bek の息子で商人"
+   },
+   {
+    "page": "Clem",
+    "name": "Clem",
+    "ja": "Grineer からの離反者。Darvo の協力者"
+   },
+   {
+    "page": "Maroo",
+    "name": "Maroo",
+    "ja": "Arcane Codices を探す盗賊"
+   },
+   {
+    "page": "Neewa",
+    "name": "Neewa",
+    "ja": "The Glast Gambit に登場"
+   },
+   {
+    "page": "Nora Night",
+    "name": "Nora Night",
+    "ja": "海賊ラジオ Nightwave の声"
+   },
+   {
+    "page": "Arcane Machine",
+    "name": "Arcane Machine",
+    "ja": "出自不明の装置。The New Strange に登場"
+   },
+   {
+    "page": "Railjack/Crew",
+    "name": "Railjack Crew",
+    "ja": "雇える Railjack 乗組員"
+   }
+  ]
+ },
+ {
+  "group": "シンジケートの顔役",
+  "items": [
+   {
+    "page": "Cressa Tal",
+    "name": "Cressa Tal",
+    "ja": "Steel Meridian のリーダー"
+   },
+   {
+    "page": "Ergo Glast",
+    "name": "Ergo Glast",
+    "ja": "The Perrin Sequence のリーダー"
+   },
+   {
+    "page": "Amaryn",
+    "name": "Amaryn",
+    "ja": "New Loka のリーダー"
+   },
+   {
+    "page": "Palladino",
+    "name": "Palladino",
+    "ja": "Red Veil のメンバー。Chains of Harrow に登場"
+   },
+   {
+    "page": "Aspirant Zorba",
+    "name": "Aspirant Zorba",
+    "ja": "Arbiters of Hexis の商人"
+   }
+  ]
+ },
+ {
+  "group": "Cetus・Ostron",
+  "items": [
+   {
+    "page": "Konzu",
+    "name": "Konzu",
+    "ja": "Cetus の長老"
+   },
+   {
+    "page": "Onkko",
+    "name": "Onkko",
+    "ja": "元 Ostron の歴史家。The Quills の窓口"
+   },
+   {
+    "page": "Saya",
+    "name": "Saya",
+    "ja": "Onkko の妻"
+   },
+   {
+    "page": "Nakak",
+    "name": "Nakak",
+    "ja": "仮面屋の若い店主"
+   },
+   {
+    "page": "Hok",
+    "name": "Hok",
+    "ja": "鍛冶屋"
+   },
+   {
+    "page": "Old Man Suumbaat",
+    "name": "Old Man Suumbaat",
+    "ja": "老いた鉱夫"
+   },
+   {
+    "page": "Fisher Hai-Luk",
+    "name": "Fisher Hai-Luk",
+    "ja": "漁師"
+   },
+   {
+    "page": "Master Teasonai",
+    "name": "Master Teasonai",
+    "ja": "動物使い"
+   },
+   {
+    "page": "Horrek",
+    "name": "Horrek",
+    "ja": "Kahl-175 を支える料理人"
+   },
+   {
+    "page": "Hinmun",
+    "name": "Hinmun",
+    "ja": "Konzu の叔父の商人"
+   },
+   {
+    "page": "Mukha",
+    "name": "Mukha",
+    "ja": "Nakak のいとこ"
+   },
+   {
+    "page": "Shigg",
+    "name": "Shigg",
+    "ja": "小悪党。Nightwave: Series 3 で登場"
+   },
+   {
+    "page": "Shigg's Friend",
+    "name": "Shigg's Friend",
+    "ja": "Shigg の友人"
+   },
+   {
+    "page": "Mer-Sah",
+    "name": "Mer-Sah",
+    "ja": "Ostron の民話の人物"
+   },
+   {
+    "page": "Er-Phryah",
+    "name": "Er-Phryah",
+    "ja": "Ostron の民話（Tale of the Woman of the Earth…）の人物"
+   },
+   {
+    "page": "Koumei's Shrine",
+    "name": "Koumei's Shrine",
+    "ja": "Warframe Koumei を祀る祠"
+   }
+  ]
+ },
+ {
+  "group": "Fortuna・Solaris",
+  "items": [
+   {
+    "page": "Eudico",
+    "name": "Eudico",
+    "ja": "Solaris United のリーダー。Nef Anyo の「忠実な」フロアボス"
+   },
+   {
+    "page": "Vox",
+    "name": "Vox",
+    "ja": "Vox Solaris。Eudico の別の顔"
+   },
+   {
+    "page": "The Business",
+    "name": "The Business",
+    "ja": "漁具を売る自然保護家"
+   },
+   {
+    "page": "Legs",
+    "name": "Legs",
+    "ja": "MOA の部品屋"
+   },
+   {
+    "page": "Rude Zuud",
+    "name": "Rude Zuud",
+    "ja": "Kitgun 職人"
+   },
+   {
+    "page": "Smokefinger",
+    "name": "Smokefinger",
+    "ja": "採掘と鉱物の専門家"
+   },
+   {
+    "page": "Ticker",
+    "name": "Ticker",
+    "ja": "Solaris の借金返済を仲介"
+   },
+   {
+    "page": "Volan",
+    "name": "Volan",
+    "ja": "Ticker の元恋人"
+   },
+   {
+    "page": "Nightcap",
+    "name": "Nightcap",
+    "ja": "Deepmines を調べる Solaris"
+   },
+   {
+    "page": "The Prince",
+    "name": "The Prince",
+    "ja": "Nightcap が育てているキノコ"
+   },
+   {
+    "page": "Sprodling",
+    "name": "Sprodling",
+    "ja": "Deepmines にいる小さなキノコ"
+   },
+   {
+    "page": "Roky",
+    "name": "Roky",
+    "ja": "Ventkids の Vent Pobbers のリーダー"
+   },
+   {
+    "page": "Boon",
+    "name": "Boon",
+    "ja": "Ventkids の Kubrodons のリーダー"
+   },
+   {
+    "page": "Chipper",
+    "name": "Chipper",
+    "ja": "Narmer に捕まった Solaris の労働者"
+   },
+   {
+    "page": "Solaris United Agent",
+    "name": "Solaris United Agent",
+    "ja": "Orb Vallis で依頼を出す人員"
+   }
+  ]
+ },
+ {
+  "group": "Deimos・Entrati・Cavia",
+  "items": [
+   {
+    "page": "Mother",
+    "name": "Mother",
+    "ja": "Entrati 家の家長"
+   },
+   {
+    "page": "Father",
+    "name": "Father",
+    "ja": "Entrati 家の父。技術者"
+   },
+   {
+    "page": "Son",
+    "name": "Son",
+    "ja": "Entrati 家の息子。研究者・生物学者"
+   },
+   {
+    "page": "Daughter",
+    "name": "Daughter",
+    "ja": "Entrati 家の娘"
+   },
+   {
+    "page": "Grandmother",
+    "name": "Grandmother",
+    "ja": "Entrati 家の祖母"
+   },
+   {
+    "page": "Gerivaine",
+    "name": "Gerivaine",
+    "ja": "Albrecht の亡き妻。Euleria（Mother）の実母"
+   },
+   {
+    "page": "Kalymos",
+    "name": "Kalymos",
+    "ja": "Albrecht の Kavat"
+   },
+   {
+    "page": "Loid",
+    "name": "Loid",
+    "ja": "Necraloid の代表"
+   },
+   {
+    "page": "Loid (Original)",
+    "name": "Loid（人間時代）",
+    "ja": "Albrecht に仕えた人間"
+   },
+   {
+    "page": "Fibonacci",
+    "name": "Fibonacci",
+    "ja": "Cavia のリーダー"
+   },
+   {
+    "page": "Bird 3",
+    "name": "Bird 3",
+    "ja": "Cavia のメンバー"
+   },
+   {
+    "page": "Tagfer",
+    "name": "Tagfer",
+    "ja": "Cavia のメンバー"
+   }
+  ]
+ },
+ {
+  "group": "Kahl's Garrison",
+  "items": [
+   {
+    "page": "Jarka Lar",
+    "name": "Jarka Lar",
+    "ja": "Kahl-175 を支える Grineer の Ballista"
+   },
+   {
+    "page": "Olvar D",
+    "name": "Olvar D",
+    "ja": "Kahl-175 を支える Corpus の乗組員"
+   }
+  ]
+ },
+ {
+  "group": "外伝・イベント初出",
+  "items": [
+   {
+    "page": "Mitsuki",
+    "name": "Mitsuki",
+    "ja": "コミック WARFRAME: Ghouls に登場する盲目の Ostron の少女"
+   },
+   {
+    "page": "Little Duck",
+    "name": "Little Duck",
+    "ja": "WARFRAME: Ghouls で登場した Solaris United の工作員。Vox Solaris の窓口"
+   },
+   {
+    "page": "Arlo",
+    "name": "Arlo",
+    "ja": "Nightwave: Series 2 で登場"
+   },
+   {
+    "page": "Kenga",
+    "name": "Kenga",
+    "ja": "Nightwave: Series 2 で登場。Infested に感染し Arlo に治された"
+   },
+   {
+    "page": "Bak Vondu",
+    "name": "Bak Vondu",
+    "ja": "Nightwave: Series 3 で登場した Corpus の技術者"
+   },
+   {
+    "page": "Cutter (Character)",
+    "name": "Cutter",
+    "ja": "Nightwave: Series 3 で登場。Solaris に化けた Corpus の内通者"
+   },
+   {
+    "page": "Gral",
+    "name": "Gral",
+    "ja": "Nightwave: Series 3 で登場した退役 Grineer"
+   },
+   {
+    "page": "Fidelia Scorse",
+    "name": "Fidelia Scorse",
+    "ja": "Transcriptions of Unauthorized Broadcasts（Nightwave）に登場"
+   },
+   {
+    "page": "Gharn",
+    "name": "Gharn",
+    "ja": "Saturn Six の看守"
+   }
+  ]
+ },
+ {
+  "group": "名前だけ出てくる人物",
+  "items": [
+   {
+    "page": "Dax Menz",
+    "name": "Dax Menz",
+    "ja": "Orokin 側の人物。Wiki にも説明がほとんどない"
+   },
+   {
+    "page": "Dom De Nas",
+    "name": "Dom De Nas",
+    "ja": "Orokin 側の人物。Wiki にも説明がほとんどない"
+   },
+   {
+    "page": "Leo De Nas",
+    "name": "Leo De Nas",
+    "ja": "Wiki にも説明がほとんどない"
+   },
+   {
+    "page": "Pilio De Nas",
+    "name": "Pilio De Nas",
+    "ja": "Scoria の一員"
+   },
+   {
+    "page": "Historian Porvis",
+    "name": "Historian Porvis",
+    "ja": "Orokin の歴史家。Leverian の記録に名前が出る"
+   },
+   {
+    "page": "Lorist Ontella",
+    "name": "Lorist Ontella",
+    "ja": "Orokin の Lorist。Wiki にも説明がほとんどない"
+   },
+   {
+    "page": "Haigos",
+    "name": "Haigos",
+    "ja": "Wiki にも説明がほとんどない"
+   },
+   {
+    "page": "Alarez",
+    "name": "Alarez",
+    "ja": "Guardsman の Synthesis に出てくる"
+   },
+   {
+    "page": "Bilsa",
+    "name": "Bilsa",
+    "ja": "Arid Eviscerator と Guardsman の Synthesis に出てくる"
+   },
+   {
+    "page": "Veytok",
+    "name": "Veytok",
+    "ja": "Grineer。Executor Avantus と Alarez を殺した"
+   },
+   {
+    "page": "Corphel & Irilia",
+    "name": "Corphel & Irilia",
+    "ja": "Orokin の夫婦"
+   },
+   {
+    "page": "Davis",
+    "name": "Davis",
+    "ja": "Rhino Prime の Codex に出てくる"
+   },
+   {
+    "page": "Kaleen",
+    "name": "Kaleen",
+    "ja": "Ember Prime の Codex に出てくる"
+   },
+   {
+    "page": "Valeria",
+    "name": "Valeria",
+    "ja": "Teshin が語る人物。亡くなった恋人と思われる"
+   },
+   {
+    "page": "Dr. Tengus",
+    "name": "Dr. Tengus",
+    "ja": "Grineer の科学者。Grustrag 再調整施設の所長"
+   },
+   {
+    "page": "Dr. Intehb",
+    "name": "Dr. Intehb",
+    "ja": "Howl of the Kubrow で名前が出る"
+   },
+   {
+    "page": "Sergeant Zek",
+    "name": "Sergeant Zek",
+    "ja": "Cephalon Cordylon の記録に出てくる Grineer"
+   },
+   {
+    "page": "Sigor Savah",
+    "name": "Sigor Savah",
+    "ja": "Khora の Kavat を見つけて Corpus を離反した研究者"
+   },
+   {
+    "page": "Zyl",
+    "name": "Zyl",
+    "ja": "Sigor Savah の処刑を任された Corpus の技術者"
+   },
+   {
+    "page": "The Philanthropist",
+    "name": "The Philanthropist",
+    "ja": "地球に隠れ家を作った Corpus の離反者"
+   },
+   {
+    "page": "Cephalon Acetuma",
+    "name": "Cephalon Acetuma",
+    "ja": "Cephalon Melica が言及"
+   },
+   {
+    "page": "Cephalon Cordylon",
+    "name": "Cephalon Cordylon",
+    "ja": "コミュニティで知られる Cephalon"
+   },
+   {
+    "page": "Cephalon Samodeus",
+    "name": "Cephalon Samodeus",
+    "ja": "全ての Mod を作ったとされる Cephalon"
+   },
+   {
+    "page": "Little Duck/Quotes",
+    "name": "Jubb Lott",
+    "ja": "Little Duck の Fortuna Fragments に出てくる（台詞集にリンク）"
+   },
+   {
+    "page": "Pratoo",
+    "name": "Pratoo",
+    "ja": "Little Duck の Fortuna Fragments に出てくる Quill"
+   },
+   {
+    "page": "Styanax",
+    "name": "Aria / Darro",
+    "ja": "Styanax の伝承に出てくる（Styanax のページにリンク）"
+   },
+   {
+    "page": "Red Veil",
+    "name": "Cantis",
+    "ja": "Red Veil の Trivia に出てくる（Red Veil のページにリンク）"
+   },
+   {
+    "page": "Kuria",
+    "name": "Olemedi",
+    "ja": "Kuria の Trivia に出てくる（Kuria のページにリンク）"
+   },
+   {
+    "page": "Venato Prime",
+    "name": "Sembik Vol / Ur-Hatho",
+    "ja": "Venato Prime の説明文に出てくる"
+   },
+   {
+    "page": "Archimedean",
+    "name": "Archimedean Perintol",
+    "ja": "Archimedean のページにリンク"
+   }
+  ]
+ },
+ {
+  "group": "Duviri の故人・墓碑",
+  "items": [
+   {
+    "page": "Caxa",
+    "name": "Caxa",
+    "ja": "彫刻家"
+   },
+   {
+    "page": "Fergin",
+    "name": "Fergin",
+    "ja": "Lonesome Outlook の端に komi 台が残る"
+   },
+   {
+    "page": "Garmi",
+    "name": "Garmi",
+    "ja": "Mathila の夫。本人は覚えていない"
+   },
+   {
+    "page": "Govio",
+    "name": "Govio",
+    "ja": "Hollow Children に殺された"
+   },
+   {
+    "page": "Jinn",
+    "name": "Jinn",
+    "ja": "Inversion Tree の幻視で狂い、亡くなった"
+   },
+   {
+    "page": "Leem",
+    "name": "Leem",
+    "ja": "Lost Islands の一つ Necropolis の看守"
+   },
+   {
+    "page": "Mother Opa",
+    "name": "Mother Opa",
+    "ja": "商人姉妹 Calaventi の一員"
+   },
+   {
+    "page": "Pol",
+    "name": "Pol",
+    "ja": "Titan's Rest に墓がある"
+   },
+   {
+    "page": "Qig",
+    "name": "Qig",
+    "ja": "墓碑によれば泥棒"
+   },
+   {
+    "page": "Roon",
+    "name": "Roon",
+    "ja": "Scholar's Landing とともに消えた"
+   },
+   {
+    "page": "Ula",
+    "name": "Ula",
+    "ja": "Lake Verula に関わる住人"
+   },
+   {
+    "page": "Vana",
+    "name": "Vana",
+    "ja": "Titan's Rest に墓があるが、そこには埋葬されていない"
+   },
+   {
+    "page": "Velkk",
+    "name": "Velkk",
+    "ja": "Titan's Rest に墓がある"
+   },
+   {
+    "page": "Yimi",
+    "name": "Yimi",
+    "ja": "Duviri の住人"
+   }
+  ]
+ }
+]

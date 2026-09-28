@@ -1,0 +1,13 @@
+## 要約
+
+Lotus に壁の中の者から呼びかけが届き、Lotus は Drifter だけに応じるよう指示する短いメインクエスト。ソロ専用で、Update 36.1（2024-08-21）で追加された。The Hex の序章にあたる。
+
+## あらすじ
+
+Sanctum Anatomica で、Lotus はオペレーターに、自分は無関心（The Indifference）の影響を受けていると警告する。そして、壁の中の者より先に Albrecht Entrati を見つけるため、Drifter のパラドックスを使って過去へ戻ってほしいと頼む。その間に Loid は、Drifter が 1999 年の Höllvania にいる Albrecht のもとへ向かうための「Albrecht の器」を準備する。
+
+## トリビア
+
+- ギリシャ神話のロートパゴス（蓮を食べる人々）は、蓮を食べて永遠の至福と快楽に浸り、かつての暮らしを忘れてしまう島の住人。
+- Lotus のジレンマは、比喩的にも文字通りにも「虚無の呼び声（call of the void）」、つまり死にたいと思っていないのに高い所から飛び降りたくなる衝動を描いているのかもしれない。
+- 実装当初、Arthur の KinePage には「NO NEW MESSAGES. SCANNING...」と表示されていた。その後は日付ごとに「WHO STOLE MY KINEPAGE（誰が俺の KinePage を盗んだ）」「ELEANOR IF YOU STOLE THIS I SWEAR（Eleanor、お前が盗んだなら……）」「I CANT KEEP BORROWING LETTIES FOREVER（いつまでも Lettie のを借りてられない）」「AMIR WE TALKED ABOUT THIS（Amir、この話はしたよな）」などに変わっていった。

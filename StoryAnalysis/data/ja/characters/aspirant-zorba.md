@@ -1,0 +1,7 @@
+## 要約
+
+Arbiters of Hexis の一員。どのリレーでもシンジケートの部屋の外に立っていて、Atramentum と引き換えに Follie と Enkaus の部品や関連品を売り、装飾用の Atragraph MOD の変換も請け負う。彼の目的は、師 Master Kozai が残した手紙を理解するため、Follie の Shadowgraph に Atramentum を集めることだ。会って話すには Harrow の鎖のクリアが必要。
+
+## トリビア
+
+- 他の Arbiters のメンバーや Railjack の乗員と比べて、Zorba のヘルメットは「目」の光が 1 つしかなく、ほかはすべて板でふさがれている。仲間の中で新入りか下位のメンバーであることを示している。

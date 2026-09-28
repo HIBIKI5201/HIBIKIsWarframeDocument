@@ -1,0 +1,18 @@
+## 要約
+
+Sentient と Warframe の混成体である Erra の Archon の一体。梟の頭に Loki Prime の体を持ち、Korumm で戦う。The New War で戦い、Archon Hunt で復活した。
+
+> 「梟の名は Boreal。奴の三叉槍ははるか遠くから打つ……致命的で混沌とした弧を描いて。事前にかすかな糸を見越せる鋭い目があれば、避けられるかもしれぬ。お前が歩む地面さえも Boreal の武器となる。この瞬間に弱点があるかもしれぬが、はっきりとはわからぬ。最悪なのは、体を麻痺させる叫びだ。恐ろしいが、その瞬間こそ、見られずに近づき打つ唯一の好機だ」（Hunhow）
+
+## 経歴
+
+梟の Boreal は、かつて Praghasa と Hunhow が Tau の平和を守る者として作った Sentient の獣だった。Old War で戦って死んだ後、Boreal と他の獣たちは The New War の間に Erra によって、Sentient と Warframe の忌まわしい混成体である Archon として蘇らされた。
+
+Tau で孤独に生きた Boreal は、自分は他の Sentient より上だと信じ、牡羊の Pazuul だけを対等と見ていた。
+
+Archon になったことは Boreal にとって屈辱だった。体を切り刻まれ戦争の道具にされた彼は、今や憎しみに満ち、自分をこうした Sentient と Tenno の両方を責めている。自分を Archon にしたのは Erra なので、Pazuul の名の下で Erra が苦しんでいることにも無関心だ。今の Boreal が仕えるのは、恨みをぶつける格好の標的を与えてくれる牡羊だけだ。
+
+## トリビア
+
+- 名前は、ギリシャ神話の北風の神ボレアスに由来する。
+- Boreal の翼と後頭部には小さな梟が見える。

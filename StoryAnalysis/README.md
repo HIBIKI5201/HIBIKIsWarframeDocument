@@ -37,8 +37,15 @@ python StoryAnalysis/scripts/build_sources.py --refresh
 ダウンロードしたデータは `StoryAnalysis/.cache/` に置かれる（Git 管理外）。
 新しいクエストが増えたときは、スクリプト内の `QUEST_ORDER` と `STORY_NAMESPACES` に追記する。
 
+キャラクター・クエストのページ（`characters.md`・`quests.md`・`wiki/`）は WARFRAME Wiki から自動生成している。
+一覧の日本語の概要は `data/characters.json`・`data/quests.json` を編集し、次のコマンドで作り直す（`--refresh` で Wiki を取り直す）。
+
+```sh
+python StoryAnalysis/scripts/build_wiki.py
+```
+
 ## 関連資料
 
 考察の根拠に使える Wiki のリンク（クエスト一覧、台詞全文、断片など）は [sources.md](sources.md) にまとめている。
-キャラクターの一覧は [characters.md](characters.md)。
+キャラクターの一覧は [characters.md](characters.md)、クエストの一覧は [quests.md](quests.md)。
 過去に pixiv と X で書いた考察の整理は [hibiki-works.md](hibiki-works.md)、本文の保存先は [archive/pixiv/](archive/pixiv/)。

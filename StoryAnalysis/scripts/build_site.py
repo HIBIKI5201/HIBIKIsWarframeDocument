@@ -197,6 +197,9 @@ def pages() -> list[tuple[Path, str]]:
     for p in sorted((ROOT / "sources").glob("*.md")):
         if p.name != "README.md":
             result.append((p, f"sources/{p.stem}.html"))
+    for p in sorted((ROOT / "wiki").rglob("*.md")):
+        rel = p.relative_to(ROOT).with_suffix(".html").as_posix()
+        result.append((p, rel))
     return result
 
 
@@ -243,7 +246,7 @@ def build() -> None:
     shutil.copytree(STATIC, SITE / "static")
     base = Template((TEMPLATES / "base.html").read_text(encoding="utf-8"))
     built = datetime.now().strftime("%Y-%m-%d %H:%M")
-    nav = [("index.html", "ホーム"), ("glossary.html", "用語"), ("sources/quests.html", "クエスト"),
+    nav = [("index.html", "ホーム"), ("characters.html", "キャラ"), ("quests.html", "クエスト"), ("glossary.html", "用語"),
            ("sources/index.html", "資料"), ("search.html", "検索")]
 
     index: list[dict] = []

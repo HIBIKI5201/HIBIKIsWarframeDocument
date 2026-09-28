@@ -1,0 +1,33 @@
+## 要約
+
+Drifter が 1999 年の大晦日にさかのぼり、Protoframe の部隊 The Hex とともに都市国家 Höllvania で Albrecht Entrati を探すメインクエスト。ソロ専用で、Update 38.0（2024-12-13）で追加された。前日譚の Web コミック「WARFRAME: 1999」がある。
+
+## あらすじ
+
+2000 年の元日、Höllvania の原子炉が Y2K 問題でシステム障害を起こしてきのこ雲とともに爆発し、都市は蒸発する。
+
+爆発の 24 時間前。Arthur、Aoi、Amir、Quincy、Leticia、Eleanor からなる Protoframe の部隊 The Hex は、Scaldra の軍や Techrot の感染と戦いながら Dr. Entrati を探していた。Drifter は Helminth の口を通って Excalibur の Warframe とともに Höllvania に現れ、Arthur に転移して未来の幻を見せるが、強制的に弾き出されて捕まる。尋問の後、Arthur は Drifter の話に賭け、共通の目的のために手を組むことにする。
+
+一方、Dr. Entrati は Scaldra の指揮官 Major Neci Rusalka と Lieutenant Viktor Vodyanoi に捕らえられていた。Rusalka は無関心（The Indifference）に取り憑かれていたことが明かされる。
+
+Entrati を探し、原子炉の爆発を止めようとするなか、Drifter は Kalymos に出会い、Entrati の録音へ導かれる。Entrati は、自分たちは改変された時間のループに閉じ込められており、抜け出すには稀なエネルギーの火花、つまり原子炉の爆発が必要だと警告する。そのため Drifter は、The Hex が爆発を止めるのを阻まなければならなくなる。
+
+しかし The Hex は Scaldra が要人を護送していると知って奪いに向かい、Rusalka も割って入ろうとする。Entrati は、無関心が時間のループにこれ以上影響しないよう Rusalka を殺せと Drifter に迫るが、Drifter は拒む。無関心はオペレーターの姿になり、三人を Zariman Ten Zero に連れ去って、The Hex が死ぬ未来を Drifter に見せる。
+
+爆発の数分前、The Hex は原子炉に向かう。しかしメンバーは一人ずつ死んでいく。Eleanor は Techrot を操ろうとして Infested の集合意識に飲まれ、Leticia を襲い、同時に撃たれて相討ちになる。Quincy は Scaldra を食い止めようとして H-04 Efervon Tank に殺される。Aoi は原子炉を確保しようとして力を使い果たす。Amir はパニックに陥り、Entrati に撃たれて死ぬ。Arthur は原子炉の放射線に倒れる。Entrati は Tau へ旅立つが、Drifter は The Hex を救うため残ることを選ぶ。Entrati は、The Hex と個人的な絆を結ばない限り救えないと警告し、Lex Prime で Drifter を撃つ。
+
+撃たれて倒れながら、Drifter は Duviri 由来の力で時間を巻き戻し、1999 年の初めから新しいループを始める。
+
+The Hex の面々と関係を築いた Drifter は、大晦日の原子炉での出来事に介入して全員の死を防ぎ、脅威を取り除いて Kalymos Sequence を完了する。
+
+## トリビア
+
+- 1999 の公開トレーラーでは、大晦日に歌われるスコットランドの歌「蛍の光（Auld Lang Syne）」が使われている。
+- Void War Saga の最初のメインクエスト Whispers in the Walls のちょうど 1 年後に公開された。
+- 現実の「2000 年問題（Y2K）」を題材にしている。年を下 2 桁で保存していたプログラムが 2000 年に誤作動するのではと懸念され、大混乱が起きると恐れられたが、事前の対策で実害はほぼなかった。クエストでは Y2K が Höllvania の原子炉の重大な故障を招き、爆発させる。Whispers in the Walls の 1999 の場面でも、ラジオ司会者が Y2K 問題に触れている。
+- 2024-07-11、公式 X アカウントが謎めいたメッセージとともに、感染の終末のさなかの 10 代の若者たちのチャットを載せた Web ページへのリンクを投稿した。TennoCon 2024 までの数日間に 5 回更新された。
+- 初期のデモやトレーラーと最終版では、Arthur と Aoi の見た目や性格が少し違う。ティザーの Aoi は明るい青い目で、顔の回路の線も荒かった。性格も Arthur がやや外向的、Aoi がやや控えめと逆で、Arthur が仕事を終えたら世界を旅したいと語るティザーもあった（最終版の彼はいずれ一か所に落ち着きたいと考えている）。
+- Central Mall のデモでは Arthur の待機台詞が Aoi との恋愛関係をほのめかしていたが、KIM で Aoi と話すと、二人は The Hex 結成前の ICR 時代にすでに別れていたことがわかる。
+- デモでは無関心の関与は完全に隠されていて、Rusalka は「ガキンチョ」と言わず、Albrecht を捕らえたのではなく彼のために働いているように聞こえた。これに関連してか、H-04 Efervon Tank 戦の直後の Eleanor の Kalymos についての台詞も、「手を舐める青白い獣」から「トントン叩く青白い獣」に変わった。
+- Lieutenant Viktor Vodyanoi が口にする Eight-Squad は、The New War の Councilor Vay Hek の Eight-Squad へのオマージュ。
+- The Hex Finale の最後のジオラマでは、Amir は最初 Quincy たちとソファに座っているが、カメラが Drifter たちに移ると後ろに立っている。持ち前の速さで一瞬で移動したということ。流れている曲は「PARTY OF YOUR LIFETIME」。
