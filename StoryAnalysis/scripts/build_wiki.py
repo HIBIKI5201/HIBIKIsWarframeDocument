@@ -35,8 +35,8 @@ API = "https://wiki.warframe.com/api.php"
 WIKI = "https://wiki.warframe.com/w/"
 UA = "WarframeDocument/1.0 (personal study notes)"
 HEADER = "<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->\n"
-LICENSE = ("詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事（CC BY-SA）を元に日本語でまとめたもの。"
-           "出典は各項目のリンク先。")
+LICENSE = ("詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。"
+           "ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。")
 
 SKIP_SECTIONS = {"Media", "Gallery", "Localization", "References", "Patch History", "See Also", "See also",
                  "Navigation", "Walkthrough", "Rewards", "Notes and Trivia Links", "External Links"}
