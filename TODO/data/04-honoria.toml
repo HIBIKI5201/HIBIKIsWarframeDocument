@@ -71,12 +71,12 @@ done = false
 [[items]]
 name = "全てを喰らうもの"
 condition = "コモンコノドログ（エイドロン草原）"
-done = false
+done = true
 
 [[items]]
 name = "二つの帝国"
 condition = "ナルメル・アイソブラスト（ナルメル依頼）"
-done = false
+done = true
 
 [[items]]
 name = "良心の画家"
@@ -86,4 +86,286 @@ done = false
 [[items]]
 name = "錬金術の長官"
 condition = "ゼノラスト（ダイモス鉱石）"
+done = false
+
+[[items]]
+name = "Crystal Bastion"
+condition = "Citrine Primeを入手する"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "On Wings of Ice"
+condition = "Cephalon Melicaで交換"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Clionadh"
+condition = "Roathe（ラ・カテドラル）でJavlok Capacitor ×50と交換"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Berserk Crucible"
+condition = "Roathe（ラ・カテドラル）でEntrati Lanthorn ×200と交換"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Seeker of Truth"
+condition = "Arbiters of Hexis の Standing で交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Thirst for Knowledge"
+condition = "Cephalon Suda の Standing で交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Defender of the Earth"
+condition = "New Loka の Standing で交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Eradicator of Corruption"
+condition = "Red Veil の Standing で交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Liberated Grineer"
+condition = "Steel Meridian の Standing で交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Diplomatic Merchant"
+condition = "Perrin Sequence の Standing で交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Matron of Malaise"
+condition = "Roathe（ラ・カテドラル）で Judgement Points ×250 と交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Marauder of the Deep"
+condition = "Roathe（ラ・カテドラル）で Fish Meat ×310 と交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "The Scarlet Queen"
+condition = "Roathe（ラ・カテドラル）で Amarast ×130 と交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Saint of Altra"
+condition = "Roathe（ラ・カテドラル）で Sentirum ×110 と交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Heart of Concrete"
+condition = "Roathe（ラ・カテドラル）で Stela ×470 と交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Oblivion's Kiss"
+condition = "Roathe（ラ・カテドラル）で Höllvanian Pitchweave Fragment ×2,600 と交換"
+note = "Update 42 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "The Gallant Gourmand"
+condition = "Grendel Prime を所持する"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Messenger of Long Forgotten Gods"
+condition = "Gauss Prime を所持する"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Scoria's Saint"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Keeper of Secrets"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "The Awoken Sword"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Force of Nature"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Feelin' Lucky"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Plague-bearer"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Strikes Twice"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "As One"
+condition = "Pontis Tower の Hunhowで Talent と交換"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Like Father, Like Sons"
+condition = "Jade Shadows: Constellations をクリア"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Dream Catcher"
+condition = "フレンド紹介プログラム"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Leaves No Witnesses"
+condition = "ステルスキル 100 回"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "The Demolitionist"
+condition = "1 回の爆発で 10 体以上倒す"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Angel of Death"
+condition = "1 ミッションで 100 キル"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Plague Doctor"
+condition = "Phorid を倒して帰還"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "It Will Kill"
+condition = "初めて Zaw を製作"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Restless"
+condition = "エイドロンの草原で夜を生き延びる"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Was Never Here"
+condition = "監視カメラを 150 台破壊"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Will Do Anything For Money"
+condition = "侵略 5 回で報酬を得る"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Death from Above"
+condition = "空中から地上の敵を 100 体倒す"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Parazon Runner"
+condition = "暗号を 5 秒以内に解く"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Cryomancer"
+condition = "Roathe（ラ・カテドラル）で Cryotic ×5,000 と交換"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Head Cracker"
+condition = "Roathe（ラ・カテドラル）で Experimental Arc-Relay ×500 と交換"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "It's All Relative"
+condition = "Roathe（ラ・カテドラル）で Temporal Dust ×250 と交換"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Master of Minds"
+condition = "Roathe（ラ・カテドラル）で Tiametrite ×250 と交換"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Doctor"
+condition = "Roathe（ラ・カテドラル）で Squad Health Restore (Large) ×500 と交換"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Conscientious Objector"
+condition = "Roathe（ラ・カテドラル）で Sola Toroid ×15 と交換"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Marty McFlea"
+condition = "The Hex をクリア"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Pizza Time"
+condition = "The Hex Finale をクリア"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "90's Kid"
+condition = "Nightwave: Amir's Shockwave でランク 29"
+note = "Update 43.5 で追加 / 日本語名未確認"
 done = false

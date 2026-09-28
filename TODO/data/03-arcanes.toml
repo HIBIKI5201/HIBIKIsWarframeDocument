@@ -6,8 +6,8 @@ order = 3
 [[items]]
 name = "アルケイン ホットショット"
 source = "次元アルキメデア"
-required = 12
-updated = 2026-03-18T03:43:00
+required = 9
+updated = 2026-09-27T23:58:26
 done = false
 
 [[items]]
@@ -20,8 +20,8 @@ done = false
 [[items]]
 name = "セカンダリ キンシップ"
 source = "ミラー防衛"
-required = 6
-updated = 2025-12-16T05:40:00
+required = 1
+updated = 2026-09-27T23:59:24
 done = false
 
 [[items]]
@@ -41,8 +41,8 @@ done = false
 [[items]]
 name = "アルケイン エスケーピスト"
 source = "次元アルキメデア"
-required = 5
-updated = 2025-12-28T16:43:00
+required = 4
+updated = 2026-09-27T23:59:36
 done = false
 
 [[items]]
@@ -55,6 +55,38 @@ done = false
 [[items]]
 name = "アルケイン ダブルバック"
 source = "ミラー防衛"
-required = 12
-updated = 2025-12-16T05:37:00
+required = 1
+updated = 2026-09-27T23:59:54
+done = false
+
+[[items]]
+name = "アルケイン スカルプター"
+source = "天王星プロキシマ / Hunhow（Pontis Tower）"
+required = 18
+note = "Update 43 で追加"
+updated = 2026-09-28T00:04:43
+done = false
+
+[[items]]
+name = "プライマリ コンプレッション"
+source = "天王星プロキシマ / Hunhow（Pontis Tower）"
+required = 17
+note = "Update 43 で追加"
+updated = 2026-09-28T00:04:28
+done = false
+
+[[items]]
+name = "セカンダリ クライオジェニック"
+source = "天王星プロキシマ / Hunhow（Pontis Tower）"
+required = 13
+note = "Update 43 で追加"
+updated = 2026-09-28T00:03:45
+done = false
+
+[[items]]
+name = "メレー アシミレーション"
+source = "天王星プロキシマ / Hunhow（Pontis Tower）"
+required = 15
+note = "Update 43 で追加"
+updated = 2026-09-28T00:03:58
 done = false

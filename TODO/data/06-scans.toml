@@ -115,3 +115,21 @@ done = false
 [[items]]
 name = "Frontier Bailiff Eximus"
 done = false
+
+[[items]]
+name = "Bloodfrenzy Sister"
+source = "The Kuva Wytch"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Golden Maw"
+source = "The Kuva Wytch"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Comet Shredder Captain"
+source = "Scoria's Angel"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false

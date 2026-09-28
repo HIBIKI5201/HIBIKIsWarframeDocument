@@ -22,3 +22,75 @@ done = false
 name = "Rythem Guide"
 source = "メリディアン・ロカ"
 done = false
+
+[[items]]
+name = "Brood's Oversurge"
+source = "New Loka / Cephalon Suda"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Infernum"
+source = "Perrin Sequence / Steel Meridian"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Cold Front"
+source = "Cephalon Suda / Steel Meridian"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Gastroparesis"
+source = "Steel Meridian / Red Veil"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Truth's Flame"
+source = "Aspirant Zorba（Atramentum）"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Noctua Swarm"
+source = "Arbiters of Hexis / Cephalon Suda"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Kumihimo Loading"
+source = "Arbiters of Hexis / New Loka"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Prototype Shock Coils"
+source = "Nightwave"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Overpressured Rounds"
+source = "Nightwave"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Vile Discharge"
+source = "Cred Offerings"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Sentient Surge"
+source = "Cred Offerings"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Leaded Gas"
+source = "Cred Offerings"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false

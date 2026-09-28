@@ -17,3 +17,45 @@ done = false
 name = "冬至広場"
 source = "ステージ防衛"
 done = false
+
+[[items]]
+name = "Melica's Laboratory"
+source = "Cephalon Melica"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Yuvan Peak"
+source = "Cephalon Melica"
+note = "Update 44 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Haunted Vesper Relay"
+source = "Aspirant Zorba（Atramentum）"
+note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Pontis Tower"
+source = "Pontis Tower の Hunhow"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Kuva Wytch"
+source = "Pontis Tower の Hunhow（Crimson Talent）"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Scoria's Angel"
+source = "Pontis Tower の Hunhow（Emerald Talent）"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Dominion of Höllvandeim"
+source = "Amir のストア（Hex Standing）"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = false
