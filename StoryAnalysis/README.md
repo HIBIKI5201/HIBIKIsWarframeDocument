@@ -21,7 +21,8 @@ Markdown・テンプレートの変更を検知して自動で再ビルドする
 ## 構成
 
 - `sources/`: ゲーム内のストーリー関連テキスト（英語原文）。考察の根拠はここから引用する。詳細は [sources/README.md](sources/README.md)。
-- `glossary.md`: 英語 ⇔ 日本語の用語対応表。
+- `glossary.md`: 英語 ⇔ 日本語の用語対応表。`data/terms.json` の用語から `scripts/terms.py` で自動生成する（日本語はゲームの公式訳）。
+- `fandom-ja/`: 日本語版 Wiki（Fandom）から取り込んだ用語対応表とストーリー関連ページ（CC BY-SA 3.0）。日本語での慣用表記の出典に使う。
 - `scripts/build_sources.py`: `sources/` の自動生成スクリプト。
 - `scripts/build_site.py` / `scripts/serve.py`: Markdown → HTML の変換とローカルサーバー。
 - `site/`: HTML のテンプレートと CSS / JS。
@@ -44,8 +45,36 @@ python StoryAnalysis/scripts/build_sources.py --refresh
 python StoryAnalysis/scripts/build_wiki.py
 ```
 
+日本語版 Wiki（[Warframe日本語 Wiki](https://warframe.fandom.com/ja/wiki/)、Fandom）の用語とストーリー関連ページは、次のコマンドで `fandom-ja/` に取り込む（`--refresh` で Wiki を取り直す）。
+
+```sh
+python StoryAnalysis/scripts/build_fandom_ja.py --refresh
+```
+
+- `fandom-ja/terms.md`・`terms.json`: 英語名と日本語 Wiki での表記の対応。英語名は英語版への言語間リンク・英字の転送ページ・冒頭の太字の定義文（例: オロキン（Orokin））・クエストの英語名称から機械的に取る
+- `fandom-ja/pages/`: クエスト・キャラクター・勢力などのカテゴリの記事と、「伝承」などの節がある記事の本文（攻略向けの節は省く）
+- 各ページに出典（記事と履歴へのリンク）・最終更新日・ライセンス（CC BY-SA 3.0）を載せる。日本語 Wiki の記事の多くは 2020〜2021 年で更新が止まっているので、内容の根拠はゲーム内テキストを優先する
+
+## 用語と翻訳の確認
+
+用語対応表の日本語は、ゲームの日本語ローカライズから自動で引いている（手で訳さない）。
+ゲーム内で確認できない語は、日本語版 Wiki の記事名・定義文・本文にある表記で確認し、根拠を `日本語Wiki` として出典の記事をメモ列に載せる（慣用表記）。
+用語を足すときは `data/terms.json` に英語（と、単独の公式訳がない語だけ候補の日本語）を書いて、次を実行する。
+
+```sh
+python StoryAnalysis/scripts/terms.py
+```
+
+`glossary.md` を作り直したあと、手書きの日本語（`data/ja/`、`data/*.json` の概要、考察ファイル）を公式表記と照らして、次の点を表示する。
+
+- `data/quests.json` のクエスト名が公式のクエスト名と違う
+- 公式訳がある用語（例: Orokin → オロキン）を英字のまま書いている（括弧内の原語・リンク・コードは除く）
+
+`--strict` を付けると、指摘があれば終了コード 1 になる。
+
 ## 関連資料
 
 考察の根拠に使える Wiki のリンク（クエスト一覧、台詞全文、断片など）は [sources.md](sources.md) にまとめている。
+日本語版 Wiki から取り込んだ資料は [fandom-ja/](fandom-ja/README.md)。
 キャラクターの一覧は [characters.md](characters.md)、クエストの一覧は [quests.md](quests.md)。
 過去に pixiv と X で書いた考察の整理は [hibiki-works.md](hibiki-works.md)、本文の保存先は [archive/pixiv/](archive/pixiv/)。

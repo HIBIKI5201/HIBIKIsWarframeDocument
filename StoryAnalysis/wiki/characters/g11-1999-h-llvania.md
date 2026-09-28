@@ -2,7 +2,7 @@
 
 # 1999（Höllvania）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事（CC BY-SA）を元に日本語でまとめたもの。出典は各項目のリンク先。
+詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
 
 ## Arthur
 
@@ -1764,7 +1764,7 @@ If the Drifter fixes the marriage between Minerva and Velimir, they tell the Dri
 
 ##### Isleweaver (Operation: Eight Claw)
 
-Rusalka is whisked away to Duviri, bringing along The Murmur while usurping Dominus Thrax. Rusalka occasionally mocks the Drifter for leaving The Hex behind and spoke of how the Indifference offered her "life", although it is unknown how much of her words are of her own, or the Indifference speaking through her, as the Indifference implied her mindand body were already unstable and battered to begin with.
+Rusalka is whisked away to Duviri, bringing along The Murmur while usurping Dominus Thrax. Rusalka occasionally mocks the Drifter for leaving The Hex behind and spoke of how the Indifference offered her "life", although it is unknown how much of her words are of her own, or the Indifference speaking through her, as the Indifference implied her mind and body were already unstable and battered to begin with.
 
 If the player finds all Isleweaver fragments, they will receive a message: "For when Sol and Lua align, the lost shall find their way home." If they also fixed the marriage between Minerva and Velimir, the Drifter reveals Rusalka's current situation with the couple explaining these are code phrases used between them to communicate safely. The couple interpret that the message is indeed from Rusalka herself and they should not worry about her for the time being.
 

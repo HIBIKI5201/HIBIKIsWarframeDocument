@@ -1,0 +1,507 @@
+[
+  {
+    "category": "基本概念",
+    "terms": [
+      {
+        "en": "Tenno",
+        "ja": "テンノ / Tenno",
+        "note": "文中はテンノ、単独表記は Tenno のことが多い"
+      },
+      {
+        "en": "Operator"
+      },
+      {
+        "en": "Drifter",
+        "ja": "漂流者",
+        "note": "Duviri 以降の主人公の別の姿"
+      },
+      {
+        "en": "Warframe",
+        "ja": "WARFRAME / Warframe"
+      },
+      {
+        "en": "Transference",
+        "note": "オペレーターが Warframe を操る仕組み"
+      },
+      {
+        "en": "Somatic Link",
+        "ja": "ソマティックリンク"
+      },
+      {
+        "en": "Reservoir",
+        "ja": "リザーバー",
+        "note": "ルアで子供たちが眠っていた装置"
+      },
+      {
+        "en": "Void",
+        "note": "訳さない"
+      },
+      {
+        "en": "Void Angel",
+        "note": "Zariman の天使"
+      },
+      {
+        "en": "Indifference",
+        "ja": "無関心",
+        "note": "Man in the Wall と関係する存在"
+      },
+      {
+        "en": "Man in the Wall",
+        "ja": "壁の中のモノ",
+        "note": "愛称 Wally"
+      },
+      {
+        "en": "Kuva"
+      },
+      {
+        "en": "Kuva Lich",
+        "ja": "クバ・リッチ"
+      },
+      {
+        "en": "Sisters of Parvos",
+        "ja": "Parvos シスター"
+      },
+      {
+        "en": "Archon",
+        "ja": "アルコン",
+        "note": "例: Boreal アルコン"
+      },
+      {
+        "en": "Archon Shard",
+        "ja": "アルコンの欠片"
+      },
+      {
+        "en": "Helminth",
+        "ja": "Helminth"
+      },
+      {
+        "en": "Steel Path",
+        "ja": "鋼の道のり"
+      },
+      {
+        "en": "Continuity",
+        "note": "Orokin の不死の技術。関連外装コレクションは「永遠」と訳されている"
+      },
+      {
+        "en": "Relay",
+        "ja": "リレー"
+      },
+      {
+        "en": "Railjack"
+      },
+      {
+        "en": "Leverian",
+        "ja": "レベリアン",
+        "note": "表記揺れあり（レべリアン）"
+      },
+      {
+        "en": "Netracell"
+      },
+      {
+        "en": "Mirror Defense"
+      }
+    ]
+  },
+  {
+    "category": "勢力・種族",
+    "terms": [
+      {
+        "en": "Orokin"
+      },
+      {
+        "en": "Orokin Empire",
+        "ja": "オロキン帝国",
+        "note": "文中では「オロキン時代」とも"
+      },
+      {
+        "en": "Sentient",
+        "ja": "センティエント"
+      },
+      {
+        "en": "Grineer"
+      },
+      {
+        "en": "Grineer Queens",
+        "ja": "グリニア両女帝"
+      },
+      {
+        "en": "Twin Queens",
+        "ja": "両女帝"
+      },
+      {
+        "en": "Corpus"
+      },
+      {
+        "en": "Infested"
+      },
+      {
+        "en": "Infestation"
+      },
+      {
+        "en": "Mutalist",
+        "ja": "ミュータリスト"
+      },
+      {
+        "en": "Narmer",
+        "note": "文中はナルメル"
+      },
+      {
+        "en": "Entrati"
+      },
+      {
+        "en": "Necraloid"
+      },
+      {
+        "en": "Ostron"
+      },
+      {
+        "en": "Solaris United"
+      },
+      {
+        "en": "Ventkids"
+      },
+      {
+        "en": "The Quills"
+      },
+      {
+        "en": "Vox Solaris"
+      },
+      {
+        "en": "Unum",
+        "ja": "Unum"
+      },
+      {
+        "en": "Techrot",
+        "note": "1999 の敵勢力"
+      },
+      {
+        "en": "Scaldra",
+        "note": "1999 の敵勢力"
+      },
+      {
+        "en": "Anarch",
+        "ja": "アナーク",
+        "note": "Tau 側の勢力（The Old Peace）"
+      },
+      {
+        "en": "Dax",
+        "ja": "ダクス",
+        "note": "Tau の Dax"
+      },
+      {
+        "en": "Thrax",
+        "ja": "スラックス",
+        "note": "例: スラックス・レガトス"
+      },
+      {
+        "en": "Arbiters of Hexis"
+      },
+      {
+        "en": "Cephalon Suda"
+      },
+      {
+        "en": "Steel Meridian"
+      },
+      {
+        "en": "New Loka"
+      },
+      {
+        "en": "Perrin Sequence",
+        "ja": "ペリン・シークエンス"
+      },
+      {
+        "en": "Red Veil"
+      },
+      {
+        "en": "Cephalon Simaris"
+      }
+    ]
+  },
+  {
+    "category": "人物",
+    "terms": [
+      {
+        "en": "Lotus"
+      },
+      {
+        "en": "Natah",
+        "note": "Lotus の Sentient としての名"
+      },
+      {
+        "en": "Margulis",
+        "note": "Lotus の人間としての姿"
+      },
+      {
+        "en": "Ordis"
+      },
+      {
+        "en": "Cephalon",
+        "ja": "セファロン"
+      },
+      {
+        "en": "Cephalon Cy"
+      },
+      {
+        "en": "Executor Ballas",
+        "ja": "執行官 Ballas"
+      },
+      {
+        "en": "Hunhow"
+      },
+      {
+        "en": "Erra"
+      },
+      {
+        "en": "Archon Boreal"
+      },
+      {
+        "en": "Archon Amar"
+      },
+      {
+        "en": "Archon Nira"
+      },
+      {
+        "en": "Teshin"
+      },
+      {
+        "en": "Dominus Thrax"
+      },
+      {
+        "en": "Stalker"
+      },
+      {
+        "en": "Shadow Stalker"
+      },
+      {
+        "en": "Acolyte",
+        "ja": "アコライト",
+        "note": "Stalker の従者"
+      },
+      {
+        "en": "Rell"
+      },
+      {
+        "en": "Albrecht Entrati",
+        "ja": "Albrecht Entrati"
+      },
+      {
+        "en": "Loid"
+      },
+      {
+        "en": "Fibonacci"
+      },
+      {
+        "en": "Tagfer",
+        "ja": "Tagfer"
+      },
+      {
+        "en": "Kaya",
+        "ja": "Kaya"
+      },
+      {
+        "en": "Arthur",
+        "note": "The Hex のメンバー"
+      },
+      {
+        "en": "Eleanor"
+      },
+      {
+        "en": "Lettie"
+      },
+      {
+        "en": "Amir"
+      },
+      {
+        "en": "Aoi"
+      },
+      {
+        "en": "Quincy"
+      },
+      {
+        "en": "The Hex"
+      },
+      {
+        "en": "Kahl-175",
+        "ja": "Kahl-175"
+      },
+      {
+        "en": "Parvos Granum"
+      },
+      {
+        "en": "Nef Anyo"
+      },
+      {
+        "en": "Alad V"
+      },
+      {
+        "en": "Vay Hek",
+        "ja": "Vay Hek"
+      },
+      {
+        "en": "Tyl Regor"
+      },
+      {
+        "en": "Ergo Glast"
+      },
+      {
+        "en": "Baro Ki'Teer"
+      },
+      {
+        "en": "Darvo"
+      },
+      {
+        "en": "Clem",
+        "ja": "Clem"
+      },
+      {
+        "en": "Maroo"
+      },
+      {
+        "en": "Palladino"
+      },
+      {
+        "en": "Nora Night"
+      },
+      {
+        "en": "Eudico"
+      },
+      {
+        "en": "Konzu",
+        "ja": "Konzu"
+      },
+      {
+        "en": "Nakak",
+        "ja": "Nakak"
+      },
+      {
+        "en": "Amaryn"
+      },
+      {
+        "en": "Nihil",
+        "ja": "Nihil"
+      },
+      {
+        "en": "Otak"
+      },
+      {
+        "en": "Grandmother",
+        "note": "ダイモスの Entrati 家"
+      },
+      {
+        "en": "Father"
+      },
+      {
+        "en": "Daughter"
+      },
+      {
+        "en": "Jordas"
+      },
+      {
+        "en": "Lephantis"
+      },
+      {
+        "en": "Ryoku",
+        "note": "Jade Shadows: Constellations"
+      },
+      {
+        "en": "Sirius"
+      },
+      {
+        "en": "Marie"
+      },
+      {
+        "en": "Wolf of Saturn Six"
+      },
+      {
+        "en": "Worm Queen"
+      },
+      {
+        "en": "Oraxia"
+      }
+    ]
+  },
+  {
+    "category": "場所",
+    "terms": [
+      {
+        "en": "Lua"
+      },
+      {
+        "en": "Zariman"
+      },
+      {
+        "en": "Zariman Ten Zero",
+        "ja": "Zariman"
+      },
+      {
+        "en": "Chrysalith",
+        "note": "Zariman の拠点"
+      },
+      {
+        "en": "Duviri"
+      },
+      {
+        "en": "Deimos"
+      },
+      {
+        "en": "Necralisk"
+      },
+      {
+        "en": "Cambion Drift"
+      },
+      {
+        "en": "Sanctum Anatomica"
+      },
+      {
+        "en": "Höllvania",
+        "note": "1999 の舞台"
+      },
+      {
+        "en": "Cetus"
+      },
+      {
+        "en": "Plains of Eidolon"
+      },
+      {
+        "en": "Fortuna"
+      },
+      {
+        "en": "Orb Vallis"
+      },
+      {
+        "en": "Kuva Fortress"
+      },
+      {
+        "en": "Tyana Pass"
+      },
+      {
+        "en": "Tau",
+        "ja": "Tau",
+        "note": "Tau 星系"
+      },
+      {
+        "en": "Isleweaver"
+      }
+    ]
+  },
+  {
+    "category": "Eidolon",
+    "terms": [
+      {
+        "en": "Eidolon",
+        "ja": "エイドロン"
+      },
+      {
+        "en": "Teralyst",
+        "ja": "テラリスト"
+      },
+      {
+        "en": "Ropalolyst"
+      },
+      {
+        "en": "Orowyrm",
+        "ja": "オロワーム"
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@
 
 # Infested
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事（CC BY-SA）を元に日本語でまとめたもの。出典は各項目のリンク先。
+詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
 
 ## Helminth
 

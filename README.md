@@ -10,18 +10,10 @@ Warframe に関する個人ドキュメント。
 ## 公開サイト（GitHub Pages）
 
 ストーリー考察（`StoryAnalysis/`）は GitHub Pages で公開している（TODO は個人用なので公開しない）。
-https://hibiki5201.github.io/WarframeDocument/
+https://hibiki5201.github.io/HIBIKIsWarframeDocument/
 
 `main` の `StoryAnalysis/` に変更を push すると、GitHub Actions（`.github/workflows/pages.yml`）が自動でビルドして更新する。
 Actions タブの「Publish StoryAnalysis to GitHub Pages」から手動でも実行できる。
-
-## スマホで見る（claude.ai アーティファクト）
-
-TODO とストーリー資料を 1 つにまとめたページを claude.ai に非公開で載せている（ヘッダーの「TODO / ストーリー」で切り替え）。
-https://claude.ai/artifact/M4pp71NGmLe6bvUcTkySPb
-
-内容は載せた時点のもの。更新するときは `python scripts/build_artifact.py` で `build/artifact/` を作り、
-Claude Code に「アーティファクトを更新して」と頼む（上の URL のまま差し替える）。
 
 ## 権利・ライセンス
 
@@ -33,10 +25,10 @@ Warframe および関連する名称・ロゴ・ゲーム内テキスト・画�
 | 内容 | 場所 | 権利・ライセンス |
 | --- | --- | --- |
 | ゲーム内テキスト（英語原文・公式の日本語訳） | `StoryAnalysis/sources/`、`StoryAnalysis/glossary.md` の公式訳 | © Digital Extremes Ltd. ストーリー考察のための引用・資料として掲載しています。[warframe-public-export-plus](https://github.com/calamity-inc/warframe-public-export-plus) 経由でゲームデータから抽出しました |
-| WARFRAME Wiki を元にした記事 | `StoryAnalysis/wiki/`、`StoryAnalysis/characters.md`、`StoryAnalysis/quests.md` | [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に作成しています。Wiki のライセンス（CC BY-SA）に従い、これらのファイルも同じライセンスで提供します。出典は各項目のリンク先です |
+| WARFRAME Wiki を元にした記事 | `StoryAnalysis/wiki/`、`StoryAnalysis/characters.md`、`StoryAnalysis/quests.md` | [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に作成しています。Wiki のライセンス（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）に従い、これらのファイルも同じライセンスで提供します（非営利に限る）。出典は各項目のリンク先です |
+| 日本語版 Wiki（Fandom）から取り込んだ資料 | `StoryAnalysis/fandom-ja/`、`StoryAnalysis/glossary.md` の「日本語Wiki」の表記 | [Warframe日本語 Wiki](https://warframe.fandom.com/ja/wiki/)（Fandom）の記事を元にしています。Wiki のライセンス（[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)）に従い、これらのファイルも同じライセンスで提供します。出典（記事・履歴へのリンク）は各ページに記載しています |
 | 作者の考察・過去作品 | `StoryAnalysis/archive/`、`StoryAnalysis/hibiki-works.md`、その他の考察ファイル | © 郷音ヒビキ（[@HIBIKI_5201](https://x.com/HIBIKI_5201)）。無断転載・再配布はご遠慮ください。引用する場合は出典を明記してください |
 | 上記以外（スクリプト・HTML テンプレート・TODO データなど） | `scripts/`、`*/scripts/`、`*/site/`、`TODO/` など | © 郷音ヒビキ。ライセンスは設定していません（すべての権利を留保します） |
 
-権利者の方から掲載内容について削除や修正の依頼があれば、対応します。[Issues](https://github.com/HIBIKI5201/WarframeDocument/issues) からご連絡ください。
+権利者の方から掲載内容について削除や修正の依頼があれば、対応します。[Issues](https://github.com/HIBIKI5201/HIBIKIsWarframeDocument/issues) からご連絡ください。
 
-上の「スマホで見る」のアーティファクトは作者専用の非公開ページで、ほかの人は開けません。
