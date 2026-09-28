@@ -8,7 +8,8 @@
 - **根拠** 列の意味
   - `公式`: 英語がその語だけで辞書にあり、対応する日本語訳がある
   - `公式(文中) N 件`: 単独の訳語はないが、その英語を含む N 件の文の日本語版で使われている訳
-  - `未確認`: ゲーム内で確認できない（コミュニティでの呼び方など）
+  - `日本語Wiki`: ゲーム内では確認できないが、[日本語版 Wiki](https://warframe.fandom.com/ja/wiki/)（Fandom）の記事名・定義文にある慣用表記（`日本語Wiki(本文) N 件` は N 件の記事の本文で使われている）。出典の記事はメモ列。取り込んだ資料は [fandom-ja/](fandom-ja/README.md)（CC BY-SA 3.0）
+  - `未確認`: どれでも確認できない（コミュニティでの呼び方など）
 - 日本語版では、キャラクター名や Warframe 名の多くを英字のまま表記している（例: `Ordis`, `Ballas`）。
 
 ## 基本概念
@@ -49,7 +50,7 @@
 | Sentient | センティエント | 公式(文中) 217 件 |  |
 | Grineer | グリニア | 公式 | ほかの表記: Grineer |
 | Grineer Queens | グリニア両女帝 | 公式(文中) 2 件 |  |
-| Twin Queens | 両女帝 | 未確認 |  |
+| Twin Queens | 両女帝 | 日本語Wiki(本文) 6 件 | 出典: 本文 [Clem](https://warframe.fandom.com/ja/wiki/Clem)、[内なる紛争](https://warframe.fandom.com/ja/wiki/%E5%86%85%E3%81%AA%E3%82%8B%E7%B4%9B%E4%BA%89)、[Kuva](https://warframe.fandom.com/ja/wiki/Kuva) |
 | Corpus | コーパス | 公式 | ほかの表記: Corpus |
 | Infested | 感染体 | 公式 | ほかの表記: Infested |
 | Infestation | 感染 | 公式 | ほかの表記: 感染体 |

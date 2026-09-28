@@ -208,6 +208,11 @@ def pages() -> list[tuple[Path, str]]:
     for p in sorted((ROOT / "wiki").rglob("*.md")):
         rel = p.relative_to(ROOT).with_suffix(".html").as_posix()
         result.append((p, rel))
+    if (ROOT / "fandom-ja" / "README.md").exists():
+        result.append((ROOT / "fandom-ja" / "README.md", "fandom-ja/index.html"))
+    for p in sorted((ROOT / "fandom-ja").rglob("*.md")):
+        if p.name != "README.md":
+            result.append((p, p.relative_to(ROOT).with_suffix(".html").as_posix()))
     return result
 
 

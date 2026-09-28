@@ -12,7 +12,9 @@
 日本語の決め方:
   公式        英語がその語だけの文字列として辞書にあり、対応する日本語がある
   公式(文中)  候補の日本語が、その英語を含む文の日本語版に出てくる（件数つき）
-  未確認      どちらでも確認できない（候補があれば表示する）
+  日本語Wiki  ゲーム内では確認できないが、日本語版 Wiki（Fandom）の記事名・転送・定義文にある、または本文で使われている
+              （慣用表記。build_fandom_ja.py が取り込んだデータを使い、出典の記事をメモに載せる）
+  未確認      どれでも確認できない（候補があれば表示する）
 
 確認する対象（手書きの日本語）:
   data/quests.json の "ja"（クエスト名）      公式のクエスト名と一致するか
@@ -27,6 +29,7 @@ import re
 import sys
 from pathlib import Path
 
+import build_fandom_ja
 import build_sources
 
 ROOT = build_sources.ROOT
@@ -79,7 +82,33 @@ class Official:
         return sorted(out)
 
 
-def resolve(off: Official, term: dict) -> dict:
+def link(title: str, url: str) -> str:
+    return f"[{title}]({url})"
+
+
+def resolve_wiki(wiki: build_fandom_ja.Index, en: str, candidates: list[str]) -> dict | None:
+    """ゲーム内で確認できない語を、日本語 Wiki の表記で確認する。"""
+    named = wiki.names(en)
+    for c in candidates:
+        for t in named:
+            if nows(c) in {nows(j) for j in t["ja"]}:
+                return {"ja": c, "basis": "日本語Wiki", "source": "記事 " + link(t["page"], t["url"]),
+                        "variants": [x for x in candidates if x != c]}
+    for c in candidates:
+        pages = wiki.pages_with(c) if len(nows(c)) >= 2 else []
+        if pages:
+            refs = "、".join(link(t, build_fandom_ja.page_url(t)) for t in pages[:3])
+            return {"ja": c, "basis": f"日本語Wiki(本文) {len(pages)} 件", "source": "本文 " + refs,
+                    "variants": [x for x in candidates if x != c]}
+    named_ja = [(j, t) for t in named for j in t["ja"] if nows(j).lower() != nows(en).lower()]
+    if named_ja:
+        j, t = named_ja[0]
+        return {"ja": j, "basis": "日本語Wiki", "source": "記事 " + link(t["page"], t["url"]),
+                "variants": [c + "（未確認）" for c in candidates]}
+    return None
+
+
+def resolve(off: Official, wiki: build_fandom_ja.Index, term: dict) -> dict:
     """1 語の日本語と根拠を決める。"""
     en = term["en"]
     found = off.standalone(en)
@@ -91,10 +120,10 @@ def resolve(off: Official, term: dict) -> dict:
     if confirmed:
         return {"ja": " / ".join(c for c, _ in confirmed), "basis": f"公式(文中) {sum(n for _, n in confirmed)} 件",
                 "variants": [c for c, n in hits if not n]}
-    return {"ja": " / ".join(candidates) or "—", "basis": "未確認", "variants": []}
+    return resolve_wiki(wiki, en, candidates) or {"ja": " / ".join(candidates) or "—", "basis": "未確認", "variants": []}
 
 
-def build_glossary(off: Official, cats: list[dict]) -> tuple[str, dict[str, str]]:
+def build_glossary(off: Official, wiki: build_fandom_ja.Index, cats: list[dict]) -> tuple[str, dict[str, str]]:
     """glossary.md の本文と、確認に使う {英語: 公式の日本語} を返す。"""
     official: dict[str, str] = {}
     out = [HEADER, "# 用語対応表（英語 ⇔ 日本語）\n",
@@ -104,17 +133,22 @@ def build_glossary(off: Official, cats: list[dict]) -> tuple[str, dict[str, str]
            "- **根拠** 列の意味",
            "  - `公式`: 英語がその語だけで辞書にあり、対応する日本語訳がある",
            "  - `公式(文中) N 件`: 単独の訳語はないが、その英語を含む N 件の文の日本語版で使われている訳",
-           "  - `未確認`: ゲーム内で確認できない（コミュニティでの呼び方など）",
+           "  - `日本語Wiki`: ゲーム内では確認できないが、[日本語版 Wiki](https://warframe.fandom.com/ja/wiki/)（Fandom）"
+           "の記事名・定義文にある慣用表記（`日本語Wiki(本文) N 件` は N 件の記事の本文で使われている）。出典の記事はメモ列。"
+           "取り込んだ資料は [fandom-ja/](fandom-ja/README.md)（CC BY-SA 3.0）",
+           "  - `未確認`: どれでも確認できない（コミュニティでの呼び方など）",
            "- 日本語版では、キャラクター名や Warframe 名の多くを英字のまま表記している（例: `Ordis`, `Ballas`）。\n"]
     for cat in cats:
         out += [f"## {cat['category']}\n", "| English | 日本語 | 根拠 | メモ |", "| --- | --- | --- | --- |"]
         for term in cat["terms"]:
-            r = resolve(off, term)
+            r = resolve(off, wiki, term)
             note = term.get("note", "")
             if r["variants"]:
                 note = "; ".join(filter(None, [note, "ほかの表記: " + "、".join(r["variants"])]))
+            if r.get("source"):
+                note = "; ".join(filter(None, [note, "出典: " + r["source"]]))
             out.append(f"| {term['en']} | {r['ja']} | {r['basis']} | {note} |")
-            if r["basis"] != "未確認":
+            if r["basis"].startswith("公式"):
                 official[term["en"]] = r["ja"].split(" / ")[0]
         out.append("")
     out += ["## クエスト\n", "ゲーム内のクエスト名（すべて公式訳）。\n", "| English | 日本語 |", "| --- | --- |"]
@@ -189,8 +223,9 @@ def main() -> None:
     ap.add_argument("--strict", action="store_true", help="指摘があれば終了コード 1")
     args = ap.parse_args()
     off = Official()
+    wiki = build_fandom_ja.Index()
     cats = json.loads(TERMS.read_text(encoding="utf-8"))
-    text, official = build_glossary(off, cats)
+    text, official = build_glossary(off, wiki, cats)
     OUT.write_text(text, encoding="utf-8")
     print(f"write {OUT.relative_to(ROOT)}")
     problems = check(off, official)
