@@ -2,6 +2,14 @@
 (() => {
   const norm = (s) => s.toLowerCase().normalize("NFKC");
 
+  // 固定ヘッダーの高さ（折り返しで変わる）に合わせて、検索欄の固定位置とアンカーの余白を決める
+  const header = document.querySelector(".site-header");
+  if (header) {
+    const fit = () => document.documentElement.style.setProperty("--header-h", header.offsetHeight + "px");
+    fit();
+    addEventListener("resize", fit);
+  }
+
   // ---- ページ内絞り込み: 見出し単位の <section> を、本文か子セクションが一致するものだけ残す
   const find = document.getElementById("find");
   if (find) {
