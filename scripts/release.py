@@ -19,6 +19,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -57,12 +58,14 @@ def cmd_merge(branch: str | None, push: bool) -> None:
     git("fetch", "-q", "origin")
     current = git("rev-parse", "--abbrev-ref", "HEAD")
     branch = branch or (current if current != MAIN else None)
-    if not branch and git("rev-list", "--count", f"{MAIN}..origin/{MAIN}") == "0":
+    if not branch:
         ahead = [b for b in git("branch", "-r", "--format=%(refname:short)").splitlines()
                  if b not in (f"origin/{MAIN}", "origin/HEAD", "origin")
                  and any(l.startswith("+") for l in git("cherry", MAIN, b).splitlines())]
-        sys.exit("マージするブランチを --branch で指定してください。main より進んでいるブランチ:\n"
-                 + ("\n".join(f"  {b}" for b in ahead) or "  （なし）"))
+        if ahead:
+            sys.exit("マージするブランチを --branch で指定してください。main より進んでいるブランチ:\n"
+                     + "\n".join(f"  {b}" for b in ahead))
+        print("マージするブランチはありません")
     ref = None
     if branch:
         ref = branch
@@ -85,8 +88,14 @@ def cmd_merge(branch: str | None, push: bool) -> None:
         print("push しました: origin/main")
 
 
+STAMP = re.compile(rb"\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2}(:\d{2})?")
+
+
 def digest(p: Path) -> str:
-    return hashlib.sha256(p.read_bytes()).hexdigest()
+    data = p.read_bytes()
+    if p.suffix == ".html":
+        data = STAMP.sub(b"", data)  # 生成時刻だけの差は変更とみなさない
+    return hashlib.sha256(data).hexdigest()
 
 
 def current_files() -> dict[str, str]:
