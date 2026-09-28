@@ -1,0 +1,54 @@
+{
+ "key": "the-limbo-theorem",
+ "name": "The Limbo Theorem",
+ "page": "The Limbo Theorem",
+ "ja": "Limbo セオリム",
+ "group": "Warframe 入手クエスト",
+ "summary": "Corpus の研究所で Limbo の設計図を集める",
+ "wiki": {
+  "title": "The Limbo Theorem",
+  "url": "https://wiki.warframe.com/w/The_Limbo_Theorem",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/The_Limbo_Theorem/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 15.0 (2014-10-24)"
+  ],
+  [
+   "種類",
+   "Side Quest Warframe Quest"
+  ],
+  [
+   "条件",
+   "Obtain an Archwing Jupiter - Europa Junction"
+  ],
+  [
+   "報酬",
+   "Limbo Neuroptics / Limbo System / Limbo Chassis"
+  ],
+  [
+   "台詞全文",
+   "The Limbo Theorem / Transcript"
+  ],
+  [
+   "再プレイ",
+   "❌"
+  ]
+ ],
+ "characters": [
+  [
+   "ordis",
+   41,
+   43
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Warframe の Limbo が残した謎の定理を解き明かすサイドクエスト。Update 15.0（2014-10-24）で追加された。クリアにはアークウイングが必要。"
+  ],
+  "sections": []
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "key": "pol",
+ "name": "Pol",
+ "page": "Pol",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Titan's Rest に墓がある",
+ "wiki": {
+  "title": "Pol",
+  "url": "https://wiki.warframe.com/w/Pol",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Pol / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Lingered too long In Stitcher's Gulch Returned to us Bound Within himself” —Pol's tombstone epitaph",
+   "> Pol was a resident of Duviri.",
+   "> His grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

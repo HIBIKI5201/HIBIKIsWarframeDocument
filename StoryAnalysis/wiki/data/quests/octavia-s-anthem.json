@@ -1,0 +1,74 @@
+{
+ "key": "octavia-s-anthem",
+ "name": "Octavia's Anthem",
+ "page": "Octavia's Anthem",
+ "ja": "Octaviaの賛美歌",
+ "group": "Warframe 入手クエスト",
+ "summary": "音楽の謎を解いて Octavia を手に入れる",
+ "wiki": {
+  "title": "Octavia's Anthem",
+  "url": "https://wiki.warframe.com/w/Octavia's_Anthem",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Octavia's_Anthem/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 20.0 (2017-03-24)"
+  ],
+  [
+   "種類",
+   "Side Quest Warframe Quest"
+  ],
+  [
+   "条件",
+   "Completed The Second Dream"
+  ],
+  [
+   "報酬",
+   "Octavia Blueprint"
+  ],
+  [
+   "台詞全文",
+   "Octavia's Anthem / Transcript"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "ordis",
+   43,
+   53
+  ],
+  [
+   "cephalon-suda",
+   36,
+   9
+  ],
+  [
+   "cephalon-simaris",
+   18,
+   28
+  ],
+  [
+   "hunhow",
+   7,
+   18
+  ],
+  [
+   "grineer-queens",
+   0,
+   3
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "音楽に興味を持った Cephalon Suda の頼みで Mandachord を作るが、Suda に異常な不具合が起き始めるサイドクエスト。ソロ専用で、Update 20.0（2017-03-24）で追加された。前日譚の Web コミック「What Remains」が公式サイトで公開されている。"
+  ],
+  "sections": []
+ }
+}

@@ -1,0 +1,135 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Technocyte Coda
+
+[キャラクター一覧](../../characters.md) › [1999（Höllvania）](g11-1999-h-llvania.md) ・ ← [Techrot](techrot.md) ・ [DJ RoM](dj-rom.md) →
+
+## 概要
+
+音楽の力を持つ Techrot の宿敵
+
+> For the Grineer counterpart, see Kuva Lich.
+> For the Corpus counterpart, see Sisters of Parvos.
+> It is my pleasure to inform you that HitMaker Music accepts your offer. There's a smokin' young secretary faxing you our signed NDAs as I type this. Everyone here looks forward to hearing more about the Technocyte Coda project. As they say, nothing beats Höllvanian innovation! This promises to be a fine partnership.
+> Keep up the good work, Gregory V.”
+
+- グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
+- 登場: 台詞全文では見つからない
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Technocyte_Coda)（英語・出典） / [全文検索](../../search.html?q=Technocyte%20Coda)
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Overview
+
+With behind-the-scenes scheming from the Höllvanian government and On-lyne's agency, the Techrot have evolved further to form twisted and grotesque imitations of the boy band, who now serve as Adversaries to the Tenno.
+
+## Lore & History
+
+### Hacked Emails
+
+This section is transcluded from On-lyne § Hacked Emails. To change it, please edit the transcluded page.
+
+Amir's hacked emails inside Aoi's room within the Höllvania Central Mall reveal On-lyne being manipulated by their manager Gregory V, who formed a partnership with an unnamed director using the members of On-lyne's DNA to create prototypes of the Technocyte Coda, ultimately scheming to have the boy band replaced.
+
+THX AMIR ▾▾
+
+> “Amir! Thank u for helping me with this! Ur hacking skills are gonna help On-lyne so much! <3
+
+> U don't have to be a fan of their music to admit they deserve better, right? Poor guys :( If we get a paper trail of the shady backroom deals between HitMaker and the Höllvaniaian government, we can give it to On-lyne. That way, they'll have everything they need to break their contract and get away from these users as soon as we get them home! I hear their manager is old school. He's just now figuring out email cause he has to for business. Bet a tech wizard like u can hack his stuff no problem ;)”
+
+Dec 1998 ▾▾
+
+> “Good morning Director,
+
+> It is my pleasure to inform you that HitMaker Music accepts your offer.
+
+> There's a smokin' young secretary faxing you our signed NDAs as I type this. Everyone here looks forward to hearing more about the Technocyte Coda project. As they say, nothing beats Höllvania innovation!
+
+> This promises to be a fine partnership.
+
+> Keep up the good work, Gregory V.”
+
+Feb 1998 ▾▾
+
+> “Good evening Director,
+
+> I'm happy to hear that the boys' samples arrived safely. Hairbrushes from pop star dressing rooms leading to major technological advancement... It's amazing, when you think about it! I hope you get what you want out of them. What was it again? DNA?
+
+> You've made incredible progress on the Technocyte Coda project in just a few short months. Nothing like loose regulations to encourage innovation, I suppose. Your broken eggs make the most delicious omelets. We love that about Höllvania!
+
+> Not sure how much sense I'll be able to make out of it, but please fax me the results.
+
+> Here's to a bright future, Gregory V.”
+
+Aug 1998 ▾▾
+
+> “Good afternoon Director,
+
+> Or is it morning in Höllvania? Time zones always mix me up.
+
+> Been thinking a lot lately about some words I saw in your Technocyte Coda debrief: predictable, standardized, and controlled. Music to my eyes right now.
+
+> The only thing predictable about pop stars these days is their whining and complaining. Fame really goes to their perfectly coiffed heads.
+
+> How are things going with the Technocyte Coda? I can't wait to meet these new and improved stars.
+
+> Hoping for good news, Gregory V.”
+
+Dec 1999 ▾▾
+
+> “Good afternoon Director,
+
+> Given the boys' recent outbursts, I appreciate your concern that their presence won't soothe your citizens as intended.
+
+> I think it's an inspired idea to have the prototype Technocyte Coda replace the boys for spoken interviews. We'll use the scripts you provided, and I'll make sure no cameras are present.
+
+> The boys will remain on standby for in-person appearances only. Here's to hoping the Technocyte Codas will soon be able to replicate the boys' physical appearance too.
+
+> Apologies for the hassle, Gregory V.”
+
+## Creation
+
+After the completion of The Hex quest and while the player does not have a currently active Kuva Lich, Sister of Parvos, or Technocyte Coda, Techrot enemies in any Höllvania Exterminate, Hell-Scrub, or Legacyte Harvest mission (or Bounty version thereof) can drop a Mixtape that can be picked up to engage in Hacking. Successful hacks have a chance to award a Potency Mod, while failures will spawn enemy Techrot. Either way, Arthur Nightingale will call the player to inform them that a Techrot virus has manifested into a new Technocyte Coda.
+
+Upon return to the Base of Operations, regardless of whether the hack was completed successfully and whether the mission was completed or aborted, the player will receive communications from the newly created Technocyte Coda. The Technocyte Coda's profile can be accessed from either the Orbiter's Navigation console, on the Main Menu through a banner on the lower right corner of the screen, or through the Malware Warning window on the Pom-2.
+
+Unlike Kuva Liches and Sisters of Parvos, the Technocyte Coda are exempt from the Progenitor Warframe system. As such, their traits are not affected by the player's Warframe selection during the creation of the Coda.
+
+### Personality
+
+One of the five band members (Harddrive, Zeke, Drillbit, Packet, or DJ RoM) will be randomly chosen as the template for the "frontman" of the Coda. A Coda's personality only changes the communications received after logging into the game, during Duet spawn/disappearance, and during Final Confrontation (selecting lines from a pool assigned to each band member), and has no additional effects on AI behavior during gameplay.
+
+All Coda adversaries use the same model based on their personality, but their colors will be randomly selected, and the color scheme will be shared between all five members.
+
+### Flavor Text
+
+The Coda's name is randomly generated using a specific three-variable format:
+
+[Personality]_[Variable1]_[Variable2]_[Variable3].1999
+
+The set of three variables is shared between all Coda members - for example if the player receives a Zeke Coda named Zeke_Brigadier_Celebrity_Ransom.1999, all of their Duet Coda spawns will also use the same Brigadier_Celebrity_Ransom name.
+
+Possible Words
+
+- Variable1 / Variable2 / Variable3
+- 4 / 5Ive / 8Track / AllThat / Anchovy / Angry / Another / Argon / Audio / BackTo / Bacon / Bcozof / BelieveIn / Beyond / Blacklight / Blue / Boogie / Brigadier / Bronze / Buttery / Calling / CallingOn / City / CityOf / ComeAlive / Command / Corrupted / Crust / Cryin / CryMore / Cuddly / Cyanide / DeathIs / DeepDish / Dynamite / Electric / Faking / Famous / FeelIt / FinalFinal / FiveCheese / Fizzy / GimmeA / GlitchGhost / Gloopy / GoingFor / Green / Hamster / HaveMercy / Hi-Fi / Hold / Hootie / Huggy / IWantIt / Jiggy / JoinUs / Kraze / Lets / Lo-Fi / Loud / Major / Majorly / Model / Natural / NewYears / Officer / Pan / Party / Phat / Pixel / Polymodal / Prince / Princess / Producer / Psiveagrsive / Queen / Quiet / Rainbow / Red / Rocking / Sad / Secret / Shiny / Sikkenz / SingTogether / Skeezy / Smiley / Smiling / Smoking / Sonic / Sour / Surround / Tech / ThatsMy / Thin / Thinking / Tiny / Totally / Trashx / UCan / UEver / Ultimate / Undead / Uptown / Upwith / Vitamin / Wacky / Wazzup / WeAre / Westside / WheresThe / WhoWants / Wicked / Wild / World / Word2Ur / Workson / Y2K / Zap / --- (3-dashes) / :D / 2kDegrees / Above / Acoustics / Alifetime / Amp / Arena / Backup / Bagel / Baller / Ballistic / Betty / Boogaloo / Breakup / Brick / Bricks / Bunny / Burger / Cables / Carp / Cassette / Celebrity / Chaos / Clacker / Corey / Cougars / Crazy / Crust / Dance / Death / Decibels / Deluxe / Dip / Disaster / Drama / Dreams / Dunk / Eagles / Echo / Eight / Evrybdyrock / Entrati / Fans / FinalFinal2 / Frontman / Funk / FYI / Games / Glam / Gloop / Hawk / Hazdeth / Hero / HiNote / HipHop / Jiggy / KilKil / Lazer / Leopard / Lies / Lions / Lots / Lyfe / Magic / Marinara / Maximum / Me / Meatball / MegaStar / MiniDisc / NeonGlow / Nine / No2RningBack / On-Lyne / One / OnlyPain / OnTheBlok / OwlMan / Panic / Peel / Penguins / Pill / Pizza / PizzaLady / Pray / Raccoon / Raccoons / Rockstar / Rot / Saxaphone / Shorts / Skillz / SmashHit / Smile / Snap / Sound / Speakers / Squirrel / SSD / Star / StarsAlign / Stories / Sync / ThatWay / To-Lyfe / Treble / Trouts / Tubular / U / Universe / VeryYes / Void / Whale / Wings / Wire / Words / Woofer / Yasox / You / Zero / Alpha / Am / Amp / ASCII / Bat / Beta / Bloop / Bork / Bot / Botnet / Break / Bus / Cavity / Chain / Clear / Com / Combo / Concat / Connect / Corrupt / Covert / Cron / Crop / Crump / Dat / Death / Doc / Dropper / Esc / Flip / FM / Format / Gleep / Global / Hijack / Host / Infector / Inject / Input / Inux / Life / Link / Macro / Macros / Micro / Multi / Omega / Payload / Phage / Phrack / Phile / Pox / Quit / Ransom / Res / Resident / Rot / Router / Scan / ShipIt / Smash / Split / Spyware / Stealth / Squid / Tax / TM / Trojan / Warez / Zeta / Zip
+
+## Trivia
+
+- In musical terms, the word "coda" refers to a point to return to in order to finish a piece.
+
+According to an interview with Creative Director Rebecca Ford, the Technocyte Coda adopting the identity of On-Lyne was inspired by her experience of infecting the family computer with a computer virus by trying to download boy band music through the now-defunct file-sharing service Napster.
+
+  - On-Lyne's section on warframe.com has a note on the bottom stating that the "fan-site" is run by a "Rebecca F." referencing her.
+- The red screen and visuals the Technocyte Coda Stadium is using are similar to the All-Seeing Eye Narmer uses for their veiled units.
+- The Coda naming system appears to reference the real-life Computer Antivirus Research Organization (CARO) standardized naming system for malware, used for describing the type, platform, family and variant of a malicious program, with additional suffixes providing extra details on its behavior or infection vector.
+
+Upon converting a Technocyte Coda, they invite the player to form a "Supergroup", which is a musical group formed by already successful musicians, either as solo artists or as members of other prominent bands. The term was popularized in the late 1960s and 70s.
+
+  - While converted Technocyte Codas can have quirks akin to Kuva Liches and Sisters of Parvos, these quirks are entirely cosmetic, as they do not have post-conversion dialogue that the quirk might affect.
+- The Descendia can spawn a randomized group of Technocyte Coda as bosses, with their frontman and name derived from any active Codas the player has. The player needs to defeat all five of them, along with a number of other enemies, to proceed to the next Infernum. They can also spawn as a Solo or Duet only.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

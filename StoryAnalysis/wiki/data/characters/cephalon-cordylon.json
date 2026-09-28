@@ -1,0 +1,39 @@
+{
+ "key": "cephalon-cordylon",
+ "name": "Cephalon Cordylon",
+ "page": "Cephalon Cordylon",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "コミュニティで知られる Cephalon",
+ "wiki": {
+  "title": "Cephalon Cordylon",
+  "url": "https://wiki.warframe.com/w/Cephalon_Cordylon",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Cephalon Cordylon / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “It is Cordylon's responsibility to sort and file knowledge obtained by the Lotus. Although the acquisition of such data occupies most of the AI's time, there are moments where Cordylon can be inclined to share the fruits of its labor with others. On those rare occasions, its massive databanks open and offer those deemed worthy insight.”",
+   "> —Official Introduction",
+   "> Cephalon Cordylon is a recurring character within the Warframe community. They answer questions from Tenno about the universe of Warframe in the biweekly Ask A Cephalon blog column."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "The Sacrifice Spoilers ▾▾",
+     "",
+     "- Cordylon notes in entry 12 that while the Foundry otherwise cannot synthesize organic life, Infested tissue is an exception. This is of course the reason why Warframes can be made in the Foundry. However, Entry 12 was created 3 years prior to the release of the The Sacrifice, and may have been hinting at the connection between Warframes and Infestation similar to Lephantis' line \"Why do you destroy us? We are your flesh.\" It may also have simply been a harmless explanation for why the Foundry could construct Infested weapons."
+    ]
+   ]
+  ]
+ }
+}

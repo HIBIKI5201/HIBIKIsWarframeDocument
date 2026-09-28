@@ -1,0 +1,53 @@
+{
+ "key": "fass-deimos",
+ "name": "Fass",
+ "page": "Fass (Deimos)",
+ "group": "Infested",
+ "group_key": "g05-infested",
+ "summary": "Cambion Drift の空にいる巨大な雄の虫",
+ "wiki": {
+  "title": "Fass (Deimos)",
+  "url": "https://wiki.warframe.com/w/Fass_(Deimos)",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Infested"
+  ],
+  [
+   "First Appearance",
+   "Heart of Deimos"
+  ],
+  [
+   "Quotes",
+   "Fass (Deimos) / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> For Fass (Requiem Mod), see Requiem Mods.",
+   "> For Resource, see Fass Residue.",
+   "> “We call that Wyrm 'Fass'. Don't worry about him, though. He's got bigger problems than you.”",
+   "> —Daughter"
+  ],
+  "sections": [
+   [
+    "Appearance",
+    [
+     "Fass appears as a very tall, Infested snake-like creature. He closely resembles his sister Vome, the differences being that he is male and has an orange glowing orb inside the skeletal cage-like structure on his back, while Vome is female and has a blue glowing orb. Fass also lacks the webbing formations between the claw-like spines that line the upper part of his body."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- His namesake comes from the Voidtongue word for \"Chaos\".",
+     "- When Fass is injured by Vome, he explodes due to his glowing orb detonating. It is unclear if this occurs because these orbs are highly volatile by default or if the delayed explosion is an innate effect of Vome's attacks."
+    ]
+   ]
+  ]
+ }
+}

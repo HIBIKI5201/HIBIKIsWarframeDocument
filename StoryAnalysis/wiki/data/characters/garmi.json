@@ -1,0 +1,38 @@
+{
+ "key": "garmi",
+ "name": "Garmi",
+ "page": "Garmi",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Mathila の夫。本人は覚えていない",
+ "wiki": {
+  "title": "Garmi",
+  "url": "https://wiki.warframe.com/w/Garmi",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Garmi / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Garmi was Mathila's husband despite her having no recollection of him (most likely avoiding the reality of her husband's death to remain happy).",
+   "> He was once keeper of the Seriglass Lighthouse on Watcher's Island which had no apparent purpose, yet Garmi kept its light burning, stating that he was keeping 'It' at bay.",
+   "> One day, however, a very disastrous Void Storm struck Duviri, causing great lengths of chain to fall from the sky (presumably the Chains of Harrow, destroyed at the end of that quest). These chains rained down destroying everything and everyone they hit, even Garmi's lighthouse.",
+   "> Koral, his daughter, mentions that her mother claims that Garmi was taken by the sea."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Garmi was apparently usually a contrarian, as stated by his daughter Koral, implying that he would not have cared for the Outlaw (Drifter) at all."
+    ]
+   ]
+  ]
+ }
+}

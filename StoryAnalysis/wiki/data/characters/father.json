@@ -1,0 +1,136 @@
+{
+ "key": "father",
+ "name": "Father",
+ "page": "Father",
+ "group": "Deimos・Entrati・Cavia",
+ "group_key": "g17-deimos-entrati-cavia",
+ "summary": "Entrati 家の父。技術者",
+ "wiki": {
+  "title": "Father",
+  "url": "https://wiki.warframe.com/w/Father",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Entrati"
+  ],
+  [
+   "First Appearance",
+   "Heart of Deimos"
+  ],
+  [
+   "声優",
+   "David Attar"
+  ],
+  [
+   "Quotes",
+   "Father / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Petros Vorten (pre-Infested) / Vilcor (renamed)"
+  ]
+ ],
+ "quests": [
+  [
+   "heart-of-deimos",
+   30,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “I've been here a long time. I know what you need to survive this place.”",
+   "> —Father",
+   "> Father is the alias of the father of House Entrati. He is a partially-infested Orokin engineer and weapons expert who resides within an infested flower inside the Necralisk; a Void research enclave located on Deimos. He offers weapon blueprints and Prime weapon mods to the Tenno. He can also gild kitguns for 25 Father Tokens or entitle primary or secondary weapons for 15."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### General",
+     "",
+     "Formerly known as Petros Vorten, Father belongs to the Entrati family, who were highly regarded since the Orokin Era for being the first ones to create technologies that harnessed the power of the Void. He, along with his wife, Mother, are the custodians of the Heart; a device made by her father that is said to \"pump the arteries\" of the known universe and the Void, and serves as the wellspring of Void power for the Tenno.",
+     "",
+     "### The Old War",
+     "",
+     "It was revealed that Father had spent some time in front-line combat during the Old War as a Railjack gunner with a crew of three others; Barroc, Kailen, and Mutaru. While patching ruptures in the Delta Proxima, he mentioned how unsettling it was for them to see a Sentient Murex for the first time.",
+     "",
+     "Sometime later, Father would then meet Mother (known at that time as Euleria Entrati), who was continuing to search for her missing father, Albrecht Entrati. He would then marry her, believing that he could help her move past the loss of her father.",
+     "",
+     "To fight against the invading Sentient forces, Father would go on to design large, bipedal war machines known as Necramechs, including one modeled after his wife. With their Void-shielding, the Necramechs were a solid defense against the Sentients. However, due to their rudimentary behavior, the Orokin chose to retire the mechs early in favor of the more advanced Warframes.",
+     "",
+     "### The Infestation of Deimos",
+     "",
+     "Main article: Citrine",
+     "",
+     "After a bio-bomb was detonated in Deimos in an attempt to repel the Sentients, the entire moon was overrun with Infested. The Entrati had no choice but to lock themselves in the Necralisk and use it as a makeshift safehouse. After the Collapse of the Orokin Empire, there were no Dax or Tenno left to assist in the protection of moon, which resulted in its gradual decline and the abandonment of the Entrati's subterranean Isolation Vaults, after the Grey Strain began to encroach upon the Cambion Drift.",
+     "",
+     "Due to Son's habit of interacting with the Infested animals, he would inadvertently break containment protocol and allow Infested spores to make their way inside the Necralisk. One day, he would dress up a pair of Infested creatures as his parents, giving them names of honor as a joke. Father, seeing this as a mockery and an insult, promptly slaughtered the creatures as per containment protocol.",
+     "",
+     "Father's marriage with his wife was heavily strained, as Mother only seemed to value her father's seriglass shard more than their marriage. Additonally, he would belittle his daughter's fish collection and refuse to listen to his son's theories about the Infested wildlife. Every morning, Father would attempt to lead the children in martial discipline exercises. However, his daughter would become increasingly sick of them, and would eventually lash out, clawing and severing her father's left arm with the claw he gave her.",
+     "",
+     "He would attempt to console his wife about her missing father, attempting to convince her to put her seriglass shard away and move on. Mother refused, and began to angrily attack him, cutting and scratching him with the shard while the children looked on. Instead of fighting back, Father simply stood there, allowing every strike to hit him.",
+     "",
+     "Due to the previous contamination of the Necralisk, Father would soon become infected, along with the rest of the family. They were able to cling to their identities, even as their memories began to dim. Father took advantage of the confusion to flee from his abusive wife, and chose to reside within the Cambion Drift to watch his rogue Necramechs duel with the Infested.",
+     "",
+     "### The Re-emergence Of Deimos",
+     "",
+     "Main article: Heart of Deimos",
+     "",
+     "Due to the Heart currently failing, the Entrati has no choice but to re-phase Deimos back into Martian orbit. Mother tasks the Tenno to track down Father to help fix the Heart. Now estranged from the rest of his family, the Tenno find him out in the Cambion Drift, watching his Necramechs fight against the roaming Infested. However, he does not believe the Heart is actually failing, and that Mother is just trying to manipulate him into returning back home.",
+     "",
+     "After a rogue Necramech disables the Heart, Father reluctantly returns to the Necralisk. Together, the family and the Tenno construct a plan to repair the Heart, with Father placing the Tenno into an Old-War-era Necramech dubbed Snake.",
+     "",
+     "With the Heart restored, Father now reluctantly stays within the Necralisk, now intending to do things his way and show the rest of the family what he is capable of. He seeks to arm the Tenno for their excursions into the Cambion Drift, requiring a constant supply of Infested resources to build weapons and firearms. Additonally, Father collaborates with Loid to provide them with Necramech parts in secret.",
+     "",
+     "### Mending the bonds",
+     "",
+     "As the Tenno rank up with the Entrati family, Father can be seen attempting to mend his relationship with his wife and children.",
+     "",
+     "Rank 2 - Acquaintance Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 2 - Acquaintance with the Entrati, a cutscene plays in which Father and Kaelli discuss the time he made her a Claw weapon, which she later attacked him with. She stated that the disciplinary rituals they performed were stupid and insane, and questioned Father why he made them do them.",
+     "",
+     "He expressed that that claw he gave her was to protect her from Void-horrors, and that he had them perform the rituals because he had no idea what else to do, and didn't want to be useless. Kaelli assures him that she never believed he was useless, but simply misguided in trying to impress his family.",
+     "",
+     "After this, she names him Vilcor, meaning \"the whip in its moment of striking\". This name then replaces his previous name in-game from that point on. This new name can be hidden if Creator Mode in Settings is enabled.",
+     "",
+     "Rank 4 - Friend Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 4 - Friend with the Entrati, a cutscene plays with a conversation between Kermerros and Vilcor. Kermerros reminisces over the time he first bred Infested, and how they would play with them for hours. Vilcor admonishes his son for this, stating that dressing them up as members of the family and giving them names of honor was a deliberate insult. Kermerros then reveals the true intention behind his Infested breeding was to create targets for Vilcor's weapons, stating \"What good is a weapons expert without something to kill?\".",
+     "",
+     "Rank 5 - Family Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 5 - Family with the Entrati, a cutscene plays with a conversation between the entire Entrati family. Vilcor presents Mother with another Seriglass Shard, with Grandmother stating that her's is nothing special, just one of thousands. Vilcor convinces Mother to let go of the shard that binds her to Grandfather, letting her live for the sake of the living.",
+     "",
+     "Following this, Vilcor gives Mother the name Gomaitru, meaning \"the goblet refilled\". This name replaces Mother's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.",
+     "",
+     "The Entrati then thank the Tenno for bringing them together again, and fully welcome them into the family under the name Ayatan.",
+     "",
+     "### Operation: Orphix Venom",
+     "",
+     "Main article: Operation: Orphix Venom",
+     "",
+     "The Sentients have returned to invade the Origin System; this time their Orphix have learned to disable Warframes. Father offers his help to the Tenno, allowing them to use his Necramechs, which remain immune to the Sentient's pulses, in an attempt to counter their encroaching invasion.",
+     "",
+     "### The Rise of Narmer",
+     "",
+     "Main article: The New War",
+     "",
+     "As Narmer and the Sentients invade the Origin System, gaining control of most of the planets, Father, along with the rest of the Entrati, were ordered by Mother to remain hidden on Deimos in order to protect the Heart."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- In addition to designing the Necramechs, Father also created the Mulciber Armor.",
+     "- If spoken about in KIM messages, Marie will mistake Father as a priest before being corrected, thinking his alias to be of the religious title than his familial role."
+    ]
+   ]
+  ]
+ }
+}

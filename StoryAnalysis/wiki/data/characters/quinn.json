@@ -1,0 +1,56 @@
+{
+ "key": "quinn",
+ "name": "Quinn",
+ "page": "Quinn",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Holdfasts のリーダー。元 Zariman の遠征指揮連絡官",
+ "wiki": {
+  "title": "Quinn",
+  "url": "https://wiki.warframe.com/w/Quinn",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Angels of the Zariman"
+  ],
+  [
+   "声優",
+   "Darrell Brown [ 1 ] [ 2 ]"
+  ],
+  [
+   "Quotes",
+   "Quinn / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "angels-of-the-zariman",
+   35,
+   53
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “You must understand: the Zariman is yours now. You inherited it, along with the duty to protect it.”",
+   "> —Quinn",
+   "> Quinn is the leader of The Holdfasts and the former liaison to the expeditionary command of the Zariman Ten Zero. He offers Bounties to the Tenno, limited-time missions out in the Zariman which can be accomplished to earn Voidplume Quills and other rewards as provided in the bounty rewards. He is located near the front entrance of the Chrysalith.",
+   "> Players must first complete the Angels of the Zariman quest before they can access Zariman bounties and earn standing for The Holdfasts."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### General",
+     "",
+     "Quinn was one of the superiors aboard the Zariman Ten Zero and was entrusted with the Crystal Index by the Orokin to impose the punishment of glassing of convicted people, turning them into new Cephalons.",
+     "",
+     "He was one of the few adults on the Zariman who were not affected and driven insane by Void exposure before their death during the Void Jump Accident. However, while trying to help the surviving children, they misunderstood his intentions and blasted him to ashes with their newly developed Void powers. Currently, he exists as a Void manifestation created through Conceptual Embodiment."
+    ]
+   ]
+  ]
+ }
+}

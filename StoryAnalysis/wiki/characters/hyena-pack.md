@@ -1,0 +1,181 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Hyena Pack
+
+[キャラクター一覧](../../characters.md) › [Corpus](g04-corpus.md) ・ ← [Jackal](jackal.md) ・ [Raptors](raptors.md) →
+
+## 概要
+
+海王星のボス。4 体組
+
+> “"Let me tell you Tenno, it's a good thing I was able to shutdown the new Hyena models. This year's version is really nasty business; faster, meaner, deadlier than before. An excellent product really."”
+> —Darvo during Ties That Bind alert
+> “"Recent innovations in Corpus robotics have led to a surge in production. Their newest animal-like proxy is an unrelenting hunter. Codenamed 'Hyena', this robot is designed to work in packs."”
+> —Lotus
+
+- グループ: [Corpus](g04-corpus.md)
+- 登場: 台詞全文では見つからない
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Hyena_Pack)（英語・出典） / [全文検索](../../search.html?q=Hyena%20Pack)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Corpus |
+| Planet(s) | Neptune |
+| Mission Type(s) | Assassination / Psamathe |
+| Tile Set(s) | Corpus Ship |
+| 種類 | Boss |
+| Abilities | Ice Wave |
+| Damage Type Modifiers | ++ ++ |
+| Affinity | 1000 |
+| Shield | 1000 |
+| Health | 800 |
+| Armor | 25 |
+| Dmg. Reduction | 8.66 % |
+| Overguard | 0 ++ |
+| Base Level | 1 |
+| Spawn Level | 32 |
+| Effective Hit Points (EHP) | –– |
+| Selected Level | –– |
+| Eximus | –– |
+| Steel Path | –– |
+| Empowered Enemies | –– |
+| Player Count | –– |
+| Codex Scans | 3 |
+| Mod Drops | Trick Mag 23.23% / True Steel 23.23% / Hit And Run 6.77% / North Wind 6.77% |
+| Resource Drops | Region Resource 97.42% / Orokin Cell 2.58% |
+| Sigil Drops | Hyena Sigil 100.00% |
+| 所属 | Corpus |
+| Planet(s) | Neptune |
+| Mission Type(s) | Assassination / Psamathe |
+| Tile Set(s) | Corpus Ship |
+| 種類 | Boss |
+| Abilities | Blast Grenade / Fire Wave |
+| Damage Type Modifiers | ++ ++ |
+| Affinity | 1000 |
+| Shield | 1000 |
+| Health | 800 |
+| Armor | 25 |
+| Dmg. Reduction | 8.66 % |
+| Overguard | 0 ++ |
+| Base Level | 1 |
+| Spawn Level | 32 |
+| Effective Hit Points (EHP) | –– |
+| Selected Level | –– |
+| Eximus | –– |
+| Steel Path | –– |
+| Empowered Enemies | –– |
+| Player Count | –– |
+| Codex Scans | 3 |
+| Mod Drops | Trick Mag 23.23% / True Steel 23.23% / Hit And Run 6.77% / North Wind 6.77% |
+| Resource Drops | Region Resource 97.42% / Orokin Cell 2.58% |
+| Sigil Drops | Hyena Sigil 100.00% |
+| 所属 | Corpus |
+| Planet(s) | Neptune |
+| Mission Type(s) | Assassination / Psamathe |
+| Tile Set(s) | Corpus Ship |
+| 種類 | Boss |
+| Abilities | Lead Storm |
+| Damage Type Modifiers | ++ ++ |
+| Affinity | 1000 |
+| Shield | 1000 |
+| Health | 800 |
+| Armor | 25 |
+| Dmg. Reduction | 8.66 % |
+| Overguard | 0 ++ |
+| Base Level | 1 |
+| Spawn Level | 32 |
+| Effective Hit Points (EHP) | –– |
+| Selected Level | –– |
+| Eximus | –– |
+| Steel Path | –– |
+| Empowered Enemies | –– |
+| Player Count | –– |
+| Codex Scans | 3 |
+| Mod Drops | Trick Mag 23.23% / True Steel 23.23% / Hit And Run 6.77% / North Wind 6.77% |
+| Resource Drops | Region Resource 97.42% / Orokin Cell 2.58% |
+| Sigil Drops | Hyena Sigil 100.00% |
+| 所属 | Corpus |
+| Planet(s) | Neptune |
+| Mission Type(s) | Assassination / Psamathe |
+| Tile Set(s) | Corpus Ship |
+| 種類 | Boss |
+| Abilities | Charge / Electric Surge |
+| Damage Type Modifiers | ++ ++ |
+| Affinity | 1000 |
+| Shield | 1000 |
+| Health | 800 |
+| Armor | 25 |
+| Dmg. Reduction | 8.66 % |
+| Overguard | 0 ++ |
+| Base Level | 1 |
+| Spawn Level | 32 |
+| Effective Hit Points (EHP) | –– |
+| Selected Level | –– |
+| Eximus | –– |
+| Steel Path | –– |
+| Empowered Enemies | –– |
+| Player Count | –– |
+| Codex Scans | 3 |
+| Mod Drops | Trick Mag 23.23% / True Steel 23.23% / Hit And Run 6.77% / North Wind 6.77% |
+| Resource Drops | Region Resource 97.42% / Orokin Cell 2.58% |
+| Sigil Drops | Hyena Sigil 100.00% |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Appearance
+
+There are four unique variants of the Hyenas, each possessing a unique color scheme. Hyena LN2 is overall white, Hyena Ng is a blend between yellow and crimson, Hyena Pb has a mix between green and brown, and Hyena Th is a shade ranging from teal to dark blue.
+
+Unlike most other bosses (excluding The Sergeant), the Hyena Pack appears in specific standard rooms instead of a special arena; however, like other bosses, the pack taunts the players during the mission and has its own opening cinematic. Here is a list of their taunts:
+
+Pre-Battle
+
+- "The Pack is watching you"
+- "The Pack can smell you"
+- "The Pack grows excited, we have been waiting for this."
+
+During Battle
+
+- "The Pack calls for your death."
+- "The Pack says: 'kill them off one by one'"
+- "The Pack says: 'kill the weakest one first'"
+- "The Pack sings when you die."
+- "The Pack is designed to enjoy this, It is in its circuits."
+
+Hyena Destroyed
+
+- "Hyena down: The Pack will intensify the hunt."
+- "Hyena disabled: The Pack grows weak."
+- "Hyena destroyed, our circuits demand revenge."
+
+## Trivia
+
+- In earlier versions the Hyena was said to be a new Corpus proxy that hunted in packs, but the player only fought one. This was eventually changed in Update 12.0 (2014-02-05) with the Hyena finally becoming a pack boss as a tie-in to the Ties That Bind alert.
+
+The Hyena was also fourth & the first Corpus boss in the game to receive a complete overhaul.
+
+  - For that matter, prior to Update 12 the Hyena was essentially a scaled-down Jackal in both size and firepower.
+
+Each of the Hyenas is named after a chemical element or compound that reflects their abilities.
+
+  - LN2 (Liquid Nitrogen) is nitrogen in a liquid state at an extremely low temperature as low as −196 °C (77 K; −321 °F) which reflects Hyena LN2's ice-based abilities.
+  - Pb (Lead) is one of the elements most commonly used for bullets, which reflects Hyena Pb's extremely high amount of firepower.
+  - Ng (Nitroglycerin) is a heavy, colorless, oily, explosive liquid commonly used in explosives like dynamite, reflecting Hyena Ng's explosive firepower.
+
+Th (Thorium) is a naturally occurring radioactive chemical element which is paramagnetic (slightly affected by magnetism); while this somewhat explains Hyena Th's magnetic properties, its electrical attacks may be a reference to the element's namesake, Thor.
+
+    - Azoth's Codex entry states that it is alternately known as Hyena Hg (Mercury), matching the Hyena Pack's naming scheme.
+
+The Hyena Pack is the third boss that consists of multiple entities; the first being the combo fight with Lieutenant Lech Kril and Captain Vor on Ceres, and the second being the first phase of Lephantis. Originally the fight always consisted of all four Hyenas at once, but this was later changed in favor of scaling with player number, with solo attempts getting two randomly chosen Hyenas.
+
+  - In The Descendia, once again all four Hyenas are fought at once, regardless of the squad size.
+- It appears that Hyena NG (Nitroglycerin) is the leader of the Hyena Pack since it is the only Hyena seen broadcasting the taunts to players and that it is the central Hyena in the panorama. It is also the Hyena that has been seen the most in the game as it appears in the Hyena Facility Tactical Alert and the Proxy Rebellion weekend alerts.
+- The Hyena Pack can be seen mounting Pentas on their backs in the Codex and during a mission, but do not have said weapon in the mission lobby.
+- Every member of the Hyena Pack can have their own separate Death Mark.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

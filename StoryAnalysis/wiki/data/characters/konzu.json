@@ -1,0 +1,83 @@
+{
+ "key": "konzu",
+ "name": "Konzu",
+ "page": "Konzu",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Cetus の長老",
+ "wiki": {
+  "title": "Konzu",
+  "url": "https://wiki.warframe.com/w/Konzu",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Artie Widgery [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Konzu / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Elder Konzu (by Ostrons )"
+  ]
+ ],
+ "quests": [
+  [
+   "the-new-war",
+   7,
+   14
+  ],
+  [
+   "saya-s-vigil",
+   20,
+   33
+  ],
+  [
+   "mask-of-the-revenant",
+   0,
+   2
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Job board's filling up, offworlder! Help Konzu clear the slate, eh?”",
+   "> —Konzu",
+   "> Konzu is an elderly Ostron who acts as the chief elder of Cetus. He offers Bounties to the Tenno, limited-time missions out in the Plains of Eidolon which can be accomplished to earn Ostron Standing and other rewards as provided in the bounty rewards. He is located just across the gate to the Plains of Eidolon. Talking to him will allow players to upgrade their standing title to the next rank. He also starts the Saya's Vigil Quest if the Tenno has at least completed a single bounty."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "Decades ago, Konzu had an uncle named Hinmun who sold minerals aboard a well-known market that orbited the planet Eris. However, the market was broadsided by a large Infested boil, causing the Infestation to quickly spread throughout the market. Instead of abandoning the market and risking taking it with them, Hinmun and the rest of the passengers turned off life support and discharged the empty escape pods. The writhing derelict of the market still orbits Eris till this day, and Hinmun's voice can be heard repeating one single warning,\"We are death. Leave us, and do not look back.\"",
+     "",
+     "### Saya's Vigil",
+     "",
+     "In the past, Konzu was a close friend to both Onkko and Saya, who eventually married one another. Some time later, however, Onkko disappeared during an excursion out in the Plains. Saya blamed Konzu as he was with Onkko at the time of the disappearance, and became estranged with her friend while she was left to mourn her husband.",
+     "",
+     "Five years later, Konzu hears The Quills have caught wind that the Grineer have found leads to Onkko. This prompts him to ask a favor of the Tenno that they would watch over Saya, as he fears she may act recklessly. While the Tenno helps search for signs of Onkko, it is revealed that prior to her marriage with Onkko, Saya rejected a proposal from Konzu, who gave her an iron flower as a symbol of his love. Saya believed that this refusal might have been a motivation for Konzu to try and get rid of Onkko. Eventually however, as the Tenno discover more clues about Onkko's research, she came to terms with his death and even accepted Konzu after discovering his iron flower once again, which was kept safe inside Onkko's case all along.",
+     "",
+     "### Operation: Plague Star",
+     "",
+     "> “\"Dark times, killer. In times past we've lost entire markets – entire clades – to the Infestation. That cannot happen here. Cetus must survive.\"”",
+     "",
+     "> —Konzu",
+     "",
+     "When an Infested boil grew from the crash site of an asteroid, Konzu leads the bounty to destroy the boil by stealing Councilor Vay Hek's Thrax Toxin and using it on the boil.",
+     "",
+     "### Ghoul Purge"
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Konzu may be named after Khonsu, an ancient Egyptian god said to watch over those who travel at night."
+    ]
+   ]
+  ]
+ }
+}

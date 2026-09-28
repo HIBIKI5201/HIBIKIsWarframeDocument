@@ -1,0 +1,54 @@
+{
+ "key": "drippy",
+ "name": "Drippy",
+ "page": "Drippy",
+ "group": "1999（Höllvania）",
+ "group_key": "g11-1999-h-llvania",
+ "summary": "K.O.L.（Kinemantik Online）のアシスタント",
+ "wiki": {
+  "title": "Drippy",
+  "url": "https://wiki.warframe.com/w/Drippy",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Drippy / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “\"No need for waterworks, Drippy is here to help!\"”",
+   "> —Description of K.O.L. Drippy-Assisted Tactical Syandana",
+   "> Drippy is the virtual assistant for K.O.L. (Kinemantik Online) in 1999."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Drippy is featured as a mascot in Höllvania Central Mall as well as in various 1999-themed items. They appear in an animation loop on some TV screens on the Höllvania tile set, including the television screens in the Backroom.",
+     "",
+     "### Cosmetics",
+     "",
+     "### Glyphs",
+     "",
+     "### Decorations",
+     "",
+     "### Other",
+     "",
+     "- Pom-2 Background",
+     "- Drippy UI Theme"
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Drippy is a reference to Clippit, more commonly known as Clippy, a discontinued Office Assistant for Microsoft Office."
+    ]
+   ]
+  ]
+ }
+}

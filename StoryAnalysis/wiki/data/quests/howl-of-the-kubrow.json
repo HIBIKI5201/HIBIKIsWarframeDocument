@@ -1,0 +1,64 @@
+{
+ "key": "howl-of-the-kubrow",
+ "name": "Howl of the Kubrow",
+ "page": "Howl of the Kubrow",
+ "ja": "クブロウ獲得",
+ "group": "サイドクエスト",
+ "summary": "Kubrow を手に入れる",
+ "wiki": {
+  "title": "Howl of the Kubrow",
+  "url": "https://wiki.warframe.com/w/Howl_of_the_Kubrow",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Howl_of_the_Kubrow/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 14.0 (2014-07-18)"
+  ],
+  [
+   "種類",
+   "Side Quest"
+  ],
+  [
+   "条件",
+   "Venus to Mercury Junction"
+  ],
+  [
+   "報酬",
+   "Incubator Segment / Balanced Posture"
+  ],
+  [
+   "台詞全文",
+   "Howl of the Kubrow / Transcript"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "ordis",
+   15,
+   23
+  ],
+  [
+   "lotus",
+   8,
+   0
+  ],
+  [
+   "grineer-queens",
+   0,
+   3
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "自分だけの Kubrow を迎えるための装備を集めるサイドクエスト。ソロ専用で、Update 14.0（2014-07-18）で追加された。"
+  ],
+  "sections": []
+ }
+}

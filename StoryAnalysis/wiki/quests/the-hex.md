@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # ヘックス（The Hex）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [ロートパゴス](the-lotus-eaters.md) ・ [古の同盟](the-old-peace.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 Drifter が 1999 年の大晦日にさかのぼり、Protoframe の部隊 The Hex とともに都市国家 Höllvania で Albrecht Entrati を探すメインクエスト。ソロ専用で、Update 38.0（2024-12-13）で追加された。前日譚の Web コミック「WARFRAME: 1999」がある。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Hex_(Quest)) / [台詞全文](https://wiki.warframe.com/w/The_Hex_(Quest)/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Hex_(Quest))（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Hex_(Quest)/Transcript) / [全文検索](../../search.html?q=The%20Hex)
 
 ## 基本情報
 
@@ -28,40 +28,23 @@ Drifter が 1999 年の大晦日にさかのぼり、Protoframe の部隊 The He
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) | 1 | 131 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 53 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 50 |
-| [Albrecht Entrati](../../wiki/characters/g06-orokin.md#albrecht-entrati) |  | 26 |
-| [Major Neci Rusalka](../../wiki/characters/g11-1999-h-llvania.md#major-neci-rusalka) |  | 23 |
-| [The Man in the Wall](../../wiki/characters/g10-void-murmur-zariman.md#the-man-in-the-wall) |  | 8 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Cephalon Cy](../../wiki/characters/g02-cephalon.md#cephalon-cy) |  | 6 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Drillbit](../../wiki/characters/g11-1999-h-llvania.md#drillbit) |  | 3 |
-| [Ollie](../../wiki/characters/g11-1999-h-llvania.md#ollie) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Arthur](../characters/arthur.md) | 1999（Höllvania） | 95 | 129 |
+| [Aoi](../characters/aoi.md) | 1999（Höllvania） | 40 |  |
+| [Quincy](../characters/quincy.md) | 1999（Höllvania） | 39 | 51 |
+| [Amir](../characters/amir.md) | 1999（Höllvania） | 33 |  |
+| [Drifter](../characters/drifter.md) | Tenno | 31 |  |
+| [Eleanor](../characters/eleanor.md) | 1999（Höllvania） | 30 | 48 |
+| [Major Neci Rusalka](../characters/major-neci-rusalka.md) | 1999（Höllvania） | 22 | 22 |
+| [Albrecht Entrati](../characters/albrecht-entrati.md) | Orokin | 18 | 25 |
+| [The Man in the Wall](../characters/the-man-in-the-wall.md) | Void・Murmur・Zariman | 7 | 7 |
+| [Cephalon Cy](../characters/cephalon-cy.md) | Cephalon | 5 | 5 |
+| [Zeke](../characters/zeke.md) | 1999（Höllvania） | 4 |  |
+| [Ollie](../characters/ollie.md) | 1999（Höllvania） | 2 | 2 |
+| [Drillbit](../characters/drillbit.md) | 1999（Höllvania） |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 2000 年の元日、Höllvania の原子炉が Y2K 問題でシステム障害を起こしてきのこ雲とともに爆発し、都市は蒸発する。
 
@@ -79,7 +62,7 @@ Entrati を探し、原子炉の爆発を止めようとするなか、Drifter �
 
 The Hex の面々と関係を築いた Drifter は、大晦日の原子炉での出来事に介入して全員の死を防ぎ、脅威を取り除いて Kalymos Sequence を完了する。
 
-### トリビア
+## トリビア
 
 - 1999 の公開トレーラーでは、大晦日に歌われるスコットランドの歌「蛍の光（Auld Lang Syne）」が使われている。
 - Void War Saga の最初のメインクエスト Whispers in the Walls のちょうど 1 年後に公開された。
@@ -90,3 +73,7 @@ The Hex の面々と関係を築いた Drifter は、大晦日の原子炉での
 - デモでは無関心の関与は完全に隠されていて、Rusalka は「ガキンチョ」と言わず、Albrecht を捕らえたのではなく彼のために働いているように聞こえた。これに関連してか、H-04 Efervon Tank 戦の直後の Eleanor の Kalymos についての台詞も、「手を舐める青白い獣」から「トントン叩く青白い獣」に変わった。
 - Lieutenant Viktor Vodyanoi が口にする Eight-Squad は、The New War の Councilor Vay Hek の Eight-Squad へのオマージュ。
 - The Hex Finale の最後のジオラマでは、Amir は最初 Quincy たちとソファに座っているが、カメラが Drifter たちに移ると後ろに立っている。持ち前の速さで一瞬で移動したということ。流れている曲は「PARTY OF YOUR LIFETIME」。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

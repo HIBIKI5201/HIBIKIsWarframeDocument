@@ -1,0 +1,64 @@
+{
+ "key": "kira",
+ "name": "Kira",
+ "page": "Kira",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "元 Zariman の乗客。Holdfasts のかつての 5 人目",
+ "wiki": {
+  "title": "Kira",
+  "url": "https://wiki.warframe.com/w/Kira",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Orokin"
+  ],
+  [
+   "First Appearance",
+   "Zariman ARG"
+  ],
+  [
+   "声優",
+   "Cat Protano"
+  ],
+  [
+   "Quotes",
+   "Kira / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “This instrument belonged to a much-loved member of the Zariman, who would often cheer up her companions with it. With its mysterious synthesizer tones from the edge of the Void, it's sure to give you the tools to relive those days.”",
+   "> —Kira's Shawzin",
+   "> Kira was once a passenger aboard the Zariman Ten Zero. She was the former fifth member of The Holdfasts; Void manifestations of the crew aboard the Zariman Ten Zero. She transformed into a Void Angel after succumbing to their song during the Zariman ARG."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### Zariman ARG",
+     "",
+     "Kira featured prominently in the Zariman ARG event, as she is one of the Holdfasts who took the risk of attempting to recover logs made by her husband describing the events surrounding the process of her going insane from Void exposure and subsequent death. She regrettably suffered the consequences and succumbed to the song, which transformed her into the Void Angel.",
+     "",
+     "### Angels of the Zariman",
+     "",
+     "After fully succumbing to the influence of the Void, Kira reappears as a fully fledged Void Angel. First seen roosting in the ceiling of the Zariman, Kira stuns the Tenno, leading to the rest of the Holdfasts to rescue them. After repairing the Zariman's Exolizers, Kira attempts to make her way to the the Reliquary Drive and feed off of it. However, she is ultimately slain by the Tenno."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "Kira has her own Shawzin that is purchaseable as a furnishing with Platinum at the Market.",
+     "",
+     "  - The Void's Song Shawzin appears to be a Void-corrupted version of her shawzin.",
+     "- Prior to Update 31.6 (2022-06-09), Kira's Memorial featured \"A Lost Time\" portrait decoration meant to honor all who were lost in the Zariman Void Jump. However, this led to confusion that Kira was biologically related to the player's Operator. The portrait has since been replaced with Kira's Shawzin."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,5 +1,9 @@
 <h1>全文検索</h1>
-<p class="muted">用語対応表・クエスト・Fragment・受信箱などすべての資料を、見出し単位で検索する。英語・日本語どちらでも可。</p>
+<p class="muted">キャラクター・クエスト・用語対応表・資料・日本語 Wiki などすべてのページを、見出し単位で検索する。英語・日本語どちらでも可。
+URL の <code>?q=語</code> で検索語を、<code>&amp;type=キャラ</code> のように種類も指定できる。</p>
 <div class="find"><input type="search" id="global-q" placeholder="例: Wally, Margulis, 無関心" autocomplete="off" autofocus><span id="global-count"></span></div>
+<div class="chips" id="kinds" role="group" aria-label="種類で絞り込む"></div>
+<ul id="entities" class="entities"></ul>
 <ol id="results" class="results"></ol>
 <script src="static/search-index.js"></script>
+<script src="static/entities.js"></script>

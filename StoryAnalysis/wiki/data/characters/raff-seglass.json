@@ -1,0 +1,23 @@
+{
+ "key": "raff-seglass",
+ "name": "Raff Seglass",
+ "page": "Raff Seglass",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Dormizone の Vistagraph と Audioscape の作者",
+ "wiki": {
+  "title": "Raff Seglass",
+  "url": "https://wiki.warframe.com/w/Raff_Seglass",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Raff Seglass is the enigmatic master and author of Dormizone's Vistagraphs and Audioscapes."
+  ],
+  "sections": []
+ }
+}

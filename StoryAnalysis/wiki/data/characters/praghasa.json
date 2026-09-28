@@ -1,0 +1,111 @@
+{
+ "key": "praghasa",
+ "name": "Praghasa",
+ "page": "Praghasa",
+ "group": "Sentient",
+ "group_key": "g07-sentient",
+ "summary": "Sentient の母艦",
+ "wiki": {
+  "title": "Praghasa",
+  "url": "https://wiki.warframe.com/w/Praghasa",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Sentient"
+  ],
+  [
+   "First Appearance",
+   "Prelude to War (Interior)"
+  ],
+  [
+   "声優",
+   "Sandy Walsh [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Praghasa / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Mother (by the Lotus and Erra ) / The Devourer (by the Lotus ) / Redoubtable Praghasa (by Hunhow )"
+  ]
+ ],
+ "quests": [
+  [
+   "the-new-war",
+   0,
+   7
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Praghasa is the Sentient Mothership. She first appeared in the teaser trailer for The New War during TennoCon 2018. She makes a full appearance during The New War, used as the base of operations for Ballas and Erra."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### Erra and The Maker",
+     "",
+     "Aboard the Sentient Mothership, Natah discusses with Erra, as the latter holds Ballas on a leash, about their plans for war with the Origin System. Erra orders Natah to rally the Sentients.",
+     "",
+     "Erra reveals that their mother is dead, but Natah has her fire and can finish the war. Natah, however, recalls when Erra was apparently destroyed by the Tenno in the Old War. Erra replies that she remembers wrongly and will need time to heal from what the Makers had done to her. As Natah points out that Ballas is a Maker, Erra suddenly grabs and throws Natah onto a pedestal which traps her in an energy field. Erra orders Natah to finish the war as he drops Ballas's leash, allowing him to stand as they both silently stare at Natah.",
+     "",
+     "### The New War",
+     "",
+     "> “Lotus: \"But not the one ship Ballas now controls. The great Sentient weapon of the Old War. Do you know what she was called? Praghasa. The Devourer.\"",
+     "",
+     "> Ordis: \"Yes, we know it. The ship that feeds on debris and derelicts to rebuild itself.\"” —Lotus and Ordis on Praghasa",
+     "",
+     "In the events of the actual quest, Praghasa is shown to be rather a gargantuan Sentient battleship. The Tenno- Grineer- Corpus alliance engage the Sentient Murex fleet in the Veil Proxima, allowing the Railjack to get close enough for Teshin to board her so he can disable the battleship's Orphix fields. Despite their efforts, Ballas banishes the Lotus and the Tenno into a Void portal, allowing him to take over the Origin System and brainwash the masses under Narmer.",
+     "",
+     "After the Drifter partially restores the Lotus and returns the Tenno, an enraged Ballas decides to use Praghasa's intended purpose, which the Lotus reveals to be a forced eradication tool of the entire Sol System by consuming the Sun, removing all sources of natural heat, energy, and over the course of time would result in the Sol System becoming devoid of life. Ordis adds that Praghasa consumes derelicts and debris to grow and recover from damage. Praghasa also shows that it has the ability to, in some extent, create access to the Void as a method of crossing between the Sol and Tau systems; this particular power seems to have had backlash, as Sentients were weak and harmed by the Void as well as The Man in the Wall seeming to interfere with Praghasa's process of consuming the sun. This power was also what allowed the Lotus to repel her mother away from Sol, ultimately causing her severe internal damage.",
+     "",
+     "The Lotus and the Tenno board Praghasa separately. Erra, realizing Ballas's plan to sacrifice the Sol System and his Narmer empire to escape to Tau means dooming the Sentients, defects and guides the Tenno's Necramech when they board. He leads them to the final Archon in hopes of fully restoring the Lotus, before being seemingly crushed by debris. With the Archon's shard, the Lotus and Tenno confront Ballas, and after a long battle they finally subdue and end his threat for good. The victory is cut short as The Man in the Wall emerges from a Void portal and leaves behind cryptic words before mysteriously vanishing.",
+     "",
+     "### The Old Peace",
+     "",
+     "While reminiscing on his past and the sacrifices others did for his sake, Roathe mentions a time in the early Old War in which an ally of his, Traivon, sacrificed himself along with his Railjack and crew in a battle with her. Traivon rammed his ship into Praghasa's maw, which she consumed, something that distracted her long enough for Roathe to escape with his life.",
+     "",
+     "### Tau Prologue / Epoch Operation: Taubound",
+     "",
+     "> “I... awaken...”",
+     "",
+     "> —Praghasa",
+     "",
+     "Praghasa is revealed to have survived her approach to the Sun. Due to uncertain circumstances, her long-dormant mind has reawakened."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- In the teaser trailer for the New War, Praghasa makes her appearance in the teaser trailer of the quest itself, revealing her to be a gargantuan Sentient outpost or ship, which Natah refers to as \"mother\" and far bigger than her final depiction. Commanding a massive army of Sentients inside what appeared to be a ship hall or mobile base far away outside of the Origin System, Praghasa commanded Natah to take her \"fire\" back from the Tenno. This set of events are no longer considered as a canon event as the quest itself tells a completely different circumstance to Praghasa.",
+     "",
+     "It is not explained how Natah has both a father and mother as Sentients reproduce by means of fission. She is evidently Hunhow's offspring as he could interfere with her, a part of himself, during The Second Dream.",
+     "",
+     "  - Sentients may have an alternate way of reproduction that requires two parents. TennoCon 2026's Tau teaser confirms that they do, in fact, reproduce,",
+     "",
+     "During the Art Panel of Tennocon 2017, it was hinted that the original Sentients sent from the Origin System were in fact one singular, massive individual, which fragmented into pieces along the way. It is possible, then, that Praghasa is in fact \"mother\" to the entire Sentient race, the original progenitor of all current individuals.",
+     "",
+     "    - Hunhow's words after Jade Shadows: Constellations reveal that the Sentients' creation was a joint endeavor between both him and her.",
+     "  - Presumably, as throughout the New War teaser there was nothing in the background except an interior of the Sentient Outpost, and then Praghasa \"appeared\" behind Natah, it is possible the Praghasa was also, in fact, the consciousness of the Outpost herself.",
+     "  - As Erra tells Natah in the game itself that their mother is gone, Praghasa’s lines probably appear in the teaser as part of an older idea. However, like the New War teaser implies, Erra gestures to their ship when he says this, implying that she is their dead mother. He requires Natah to reactivate her.",
+     "  - At one point in Chains of Harrow, Palladino refers to the Lotus as the \"Great Sentient Queen.\" This, as well as the above, implies that she does have direct lineage to Praghasa.",
+     "- Praghasa's voice lines during The New War Teaser appear to be identical to the recordings in Stolen Dreams and The New Strange, implying that she may have been the speaker, and that the Arcane Machine is connected to her in some manner.",
+     "",
+     "During the Ropalolyst boss fight, Natah states that her mother was \"a carpenter\". Assuming this is a metaphor, it could possibly allude to her original intended purpose as a terraforming tool for the Tau System.",
+     "",
+     "Another interpretation of this dialogue is that Natah is recalling memories of her Margulis identity and that the carpenter is Margulis' mother, as she later reveals that the first story she shared was a fabrication and that she is, in fact, a sentient mimic who merely played the role of the Tenno's mother.",
+     "",
+     "    - Later revelations give credence to the possibility that Natah/the Lotus was telling the truth about her origins.",
+     "- Praghasa is referred to as \"Sentient Mothership\" in the art panel during TennoCon 2021. The art was called \"Sentient Outpost\". This would later be how she is used, as both a major battlecraft and mothership intended to swallow the Sun during The New War.",
+     "- Despite being much larger than the Murex, she shares much of the tilesets with little to no alterations except the skybox. The only unique tilesets for Praghasa are the base during Erra and The Maker, as well as Ballas' Narmer throne (which may actually be the same room), as the other room with spectral Ropalolysts forming from the center (see Gallery below) is shared with Pazuul's Murex during Veilbreaker and Break Narmer's Prison Break."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "key": "corpus-commander",
+ "name": "Corpus Commander",
+ "page": "Corpus Commander",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Archwing Rush に出る脇役",
+ "wiki": {
+  "title": "Corpus Commander",
+  "url": "https://wiki.warframe.com/w/Corpus_Commander",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Update: Specters of the Rail 0.0 (2016-07-08)"
+  ],
+  [
+   "Quotes",
+   "Corpus Commander / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "vor-s-prize",
+   0,
+   11
+  ],
+  [
+   "the-teacher",
+   0,
+   17
+  ],
+  [
+   "vox-solaris",
+   0,
+   11
+  ],
+  [
+   "the-archwing",
+   0,
+   10
+  ],
+  [
+   "natah",
+   0,
+   3
+  ],
+  [
+   "the-new-war",
+   0,
+   4
+  ],
+  [
+   "jade-shadows",
+   5,
+   9
+  ],
+  [
+   "veilbreaker",
+   0,
+   4
+  ],
+  [
+   "stolen-dreams",
+   0,
+   12
+  ],
+  [
+   "patient-zero",
+   0,
+   7
+  ],
+  [
+   "the-deadlock-protocol",
+   0,
+   8
+  ],
+  [
+   "call-of-the-tempestarii",
+   0,
+   11
+  ],
+  [
+   "the-new-strange",
+   0,
+   2
+  ],
+  [
+   "the-glast-gambit",
+   0,
+   7
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> The Corpus Commander is a minor character seen during the Archwing Rush mission. He closely resembles a Slo Comba.",
+   "> He returns in Jade Shadows under Captain Xeto's command."
+  ],
+  "sections": []
+ }
+}

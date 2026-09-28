@@ -1,0 +1,64 @@
+{
+ "key": "tagfer",
+ "name": "Tagfer",
+ "page": "Tagfer",
+ "group": "Deimos・Entrati・Cavia",
+ "group_key": "g17-deimos-entrati-cavia",
+ "summary": "Cavia のメンバー",
+ "wiki": {
+  "title": "Tagfer",
+  "url": "https://wiki.warframe.com/w/Tagfer",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Cavia"
+  ],
+  [
+   "声優",
+   "Sean Slater"
+  ],
+  [
+   "Quotes",
+   "Tagfer / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Mister Tagfer (by Bird 3 )"
+  ]
+ ],
+ "quests": [
+  [
+   "whispers-in-the-walls",
+   5,
+   5
+  ],
+  [
+   "the-old-peace",
+   1,
+   1
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Tagfer is a member of the Cavia Syndicate, animals who gained intelligence due to \"Papa\" Albrecht Entrati's Void experiments. He is one of the last Cervulites, the other known member of this species being his mate, Minn, who is missing or dead, and is obsessed with finding Albrecht to avenge her.",
+   "> Tagfer grants access to the weekly Netracells mission."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Tagfer's concept art was first revealed at TennoCon 2019 under the name \"Eidolon Critter\".",
+     "- Tagfer's species name, Cervulite, may be derived from the word cervine, describing deer-like creatures.",
+     "",
+     "Tagfer and Minn were \"tagged for disposal\", intended to be discarded by Albrecht an attempt to sacrifice the last Cervulites to The Indifference to satisfy its hunger for uniqueness. After Minn's passing and Tagfer's gained sentience, he chose to use this fact to name himself based on this categorization. (\"tag fer\" disposal)",
+     "",
+     "  - An alternative origin to Tagfer's name can be found in Höllvania's Zoological Gardens, which show an ancient species of horned ungulate that might be an ancestor to the Cervulite. The species' name is written as TGFR, \"Tagfer\", in 1999's proto-Orokin script. Those ungulates were native to Canata, Warframe's equivalent to Canada."
+    ]
+   ]
+  ]
+ }
+}

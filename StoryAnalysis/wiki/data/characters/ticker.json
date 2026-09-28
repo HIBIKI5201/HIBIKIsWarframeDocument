@@ -1,0 +1,52 @@
+{
+ "key": "ticker",
+ "name": "Ticker",
+ "page": "Ticker",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Solaris の借金返済を仲介",
+ "wiki": {
+  "title": "Ticker",
+  "url": "https://wiki.warframe.com/w/Ticker",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Guy Cunningham"
+  ],
+  [
+   "Quotes",
+   "Ticker / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Don't matter to Nef one whit you're an engineer or a lowly thrower. You owe, you go. That's where Ticker comes in, ray of sunshine that she is.”",
+   "> —Ticker",
+   "> Ticker is a Solaris who serves as a medium for players to help pay off the debts of other Solaris, located on a platform above The Business' shop and can be accessed by a small elevator that can be found to the left upon entering Fortuna. By buying off debts, she rewards the player with two or three types of Debt-Bonds, which can be turned in for Solaris Standing or can be used to buy secondhand ornaments and decorations for the player's Orbiter."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Main article: Fragments/Solaris United",
+     "",
+     "Long before the events of Vox Solaris, Ticker once had a lover named Volan. They formed an agreement to each play the part of the one that had abused the other. They worked as friends, so that they might resolve their respective traumas. Some time afterwards they started using their own names, and fell in love.",
+     "",
+     "At some point Volan had his body repossessed by the Taxmen and was brain-shelved, leaving Ticker only a single glove to remember him by. During the following decades Ticker would work to purchase a new body for Volan and to save him from brain-shelving, selling her arms, legs, and even her lungs, bones, and heart in the process. But by the time she was finished it was too late, as decades of brain-shelving had left Volan a shell of his former self who didn't even remember Ticker. Volan then took a job working in the canal, while Ticker set to work making sure that what had happened to her lover never happened to anyone else again."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Ticker is voiced by Guy Cunningham.",
+     "- Head writer Cam Rogers has confirmed that Ticker is a transgender woman."
+    ]
+   ]
+  ]
+ }
+}

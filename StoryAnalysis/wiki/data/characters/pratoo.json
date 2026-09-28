@@ -1,0 +1,34 @@
+{
+ "key": "pratoo",
+ "name": "Pratoo",
+ "page": "Pratoo",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Little Duck の Fortuna Fragments に出てくる Quill",
+ "wiki": {
+  "title": "Pratoo",
+  "url": "https://wiki.warframe.com/w/Pratoo",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Quills want me sellin' arms to the Tenno. Back in Fortuna. Not bloody likely. Quills. Shady, side-mouthed, doubletalking, ambidexter-feeling muckers. Never trust anyone who don't speak plain. Told 'em thanks but hop it. I'd a previous commitment: a contract to extract a Corpus defector name of Jubb Lott. Quill smiled that smile. The smile I hate the most. The smile of a body who thinks he's two steps ahead. The more I think about it, the more I know he was. Pratoo. That was his name. Quill Pratoo Secondary Sahd.”",
+   "> —Little Duck",
+   "> Quill Pratoo Secondary Sahd is a Quill mentioned in Little Duck's Fortuna Fragments."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Pratoo wanted Little Duck to sell arms to the Tenno in Fortuna, but she refused the offer in favor of a contract to extract Jubb Lott, a Corpus defector. She underestimated Pratoo's ability to divine the future, however. The information about the Orb Mothers that the contract revealed ultimately had her abandon treasure hunting and return to Fortuna to help Solaris United.",
+     "",
+     "Now Little Duck is selling Vox Solaris wares to the Tenno, which include Amp parts, just like Pratoo wanted."
+    ]
+   ]
+  ]
+ }
+}

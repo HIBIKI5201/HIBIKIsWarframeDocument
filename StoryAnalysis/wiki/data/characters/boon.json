@@ -1,0 +1,46 @@
+{
+ "key": "boon",
+ "name": "Boon",
+ "page": "Boon",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Ventkids の Kubrodons のリーダー",
+ "wiki": {
+  "title": "Boon",
+  "url": "https://wiki.warframe.com/w/Boon",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Ryan Laughton"
+  ],
+  [
+   "Quotes",
+   "Boon / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-waverider",
+   25,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Boon is the leader of the Kubrodons, a subdivision of the Ventkids. He is in charge of facilitating K-Drive Races in Orb Vallis as well as stealing and salvaging K-Drive parts from the Corpus."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- During Phase 3 of Profit-Taker Orb Heist, Boon provides a route for Tenno to infiltrate locked-down Enrichment Lab. He states that he has removed screws from C7A vent.",
+     "- He is voiced by Ryan Laughton."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "key": "qig",
+ "name": "Qig",
+ "page": "Qig",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "墓碑によれば泥棒",
+ "wiki": {
+  "title": "Qig",
+  "url": "https://wiki.warframe.com/w/Qig",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Qig / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Fed to the Cyst.” —Qig's tombstone epitaph",
+   "> Qig was a resident of Duviri and a thief, according to their tombstone.",
+   "> Their grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

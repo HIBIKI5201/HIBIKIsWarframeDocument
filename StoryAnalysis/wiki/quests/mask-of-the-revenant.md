@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # Revenantの仮面（Mask of the Revenant）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › Warframe 入手クエスト ・ ← [隠されたメッセージ](hidden-messages.md) ・ [銀の果樹園](the-silver-grove.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Plains of Eidolon の Nakak と Eidolon の伝承から Revenant を手に入れ
 
 Cetus の商人 Nakak が謎の仮面を売り、その仮面が見せる幻を通じて、Sentient の Eidolon の復活を防ぐために残された Warframe の物語が明かされるサイドクエスト。Update 23.5（2018-08-24）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Mask_of_the_Revenant) / [台詞全文](https://wiki.warframe.com/w/Mask_of_the_Revenant/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Mask_of_the_Revenant)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Mask_of_the_Revenant/Transcript) / [全文検索](../../search.html?q=Mask%20of%20the%20Revenant)
 
 ## 基本情報
 
@@ -27,40 +27,20 @@ Cetus の商人 Nakak が謎の仮面を売り、その仮面が見せる幻を�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Nakak](../../wiki/characters/g15-cetus-ostron.md#nakak) |  | 23 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Mukha](../../wiki/characters/g15-cetus-ostron.md#mukha) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 5 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Onkko](../../wiki/characters/g15-cetus-ostron.md#onkko) |  | 5 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Konzu](../../wiki/characters/g15-cetus-ostron.md#konzu) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Nakak](../characters/nakak.md) | Cetus・Ostron | 20 | 22 |
+| [Mukha](../characters/mukha.md) | Cetus・Ostron |  | 7 |
+| [Onkko](../characters/onkko.md) | Cetus・Ostron |  | 4 |
+| [Konzu](../characters/konzu.md) | Cetus・Ostron |  | 2 |
 
-## 詳細
-
-### トリビア
+## トリビア
 
 - Update 23.10 より前は Codex に載っていなかった。
 - Mukha（मुख）はサンスクリット語で「顔」。Nakak のいとこという立場にぴったりだが、台詞の中でしか出てこないのは皮肉でもある。
 - ミッションで見える Eidolon の影と、手に入る断片は Ropalolyst を描いている。Ropalolyst は Update 25.0 で登場する前、もともと Eidolon として構想されていた（Devstream 100）。
   - Nakak は Revenant の力が必要だと言うが、実際の Ropalolyst 戦に Revenant は関係ない。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

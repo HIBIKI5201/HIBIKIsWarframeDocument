@@ -1,0 +1,107 @@
+{
+ "key": "corpus-captain",
+ "name": "Corpus Captain",
+ "page": "Corpus Captain",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Empyrean で見られる Corpus の船長",
+ "wiki": {
+  "title": "Corpus Captain",
+  "url": "https://wiki.warframe.com/w/Corpus_Captain",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Update 29.10 (2021-03-19)"
+  ],
+  [
+   "声優",
+   "Kevin Powe (male) / Eileen Anglin (female)"
+  ],
+  [
+   "Quotes",
+   "Corpus Captain / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "vor-s-prize",
+   0,
+   11
+  ],
+  [
+   "the-teacher",
+   0,
+   17
+  ],
+  [
+   "vox-solaris",
+   0,
+   11
+  ],
+  [
+   "the-archwing",
+   0,
+   10
+  ],
+  [
+   "natah",
+   0,
+   3
+  ],
+  [
+   "the-new-war",
+   0,
+   4
+  ],
+  [
+   "jade-shadows",
+   0,
+   9
+  ],
+  [
+   "veilbreaker",
+   0,
+   4
+  ],
+  [
+   "stolen-dreams",
+   0,
+   12
+  ],
+  [
+   "patient-zero",
+   0,
+   7
+  ],
+  [
+   "the-deadlock-protocol",
+   0,
+   8
+  ],
+  [
+   "call-of-the-tempestarii",
+   0,
+   11
+  ],
+  [
+   "the-new-strange",
+   0,
+   2
+  ],
+  [
+   "the-glast-gambit",
+   0,
+   7
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> The Corpus Captains are seen during Empyrean missions under Corpus-controlled Proximas."
+  ],
+  "sections": []
+ }
+}

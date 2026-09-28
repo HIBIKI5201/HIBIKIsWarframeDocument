@@ -1,0 +1,79 @@
+{
+ "key": "the-maker",
+ "name": "The Maker",
+ "page": "The Maker",
+ "ja": "創造主",
+ "group": "メインストーリー",
+ "summary": "Prelude to War を構成する章の一つ",
+ "wiki": {
+  "title": "The Maker",
+  "url": "https://wiki.warframe.com/w/The_Maker",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/The_Maker/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 27.3 (2020-03-24)"
+  ],
+  [
+   "種類",
+   "Main Quest"
+  ],
+  [
+   "条件",
+   "Completed Erra (Quest)"
+  ],
+  [
+   "台詞全文",
+   "The Maker / Transcript"
+  ],
+  [
+   "前のクエスト",
+   "Erra (Quest)"
+  ],
+  [
+   "次のクエスト",
+   "The New War"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "erra-character",
+   8,
+   0
+  ],
+  [
+   "natah",
+   7,
+   9
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Prelude to War の第 3 幕で最後となる短いメインクエスト。Update 27.3（2020-03-24）で追加された。前の幕と同じ Murex を舞台にしたムービーで、Erra は、自分の死や「創造主」Ballas について疑問を抱く Natah に「戦争を終わらせろ」と迫る。"
+  ],
+  "sections": [
+   [
+    "あらすじ",
+    [
+     "Sentient の母艦の中で、Erra は Natah に、彼女が生きていると思い込んでいた二人の母は死んだと告げ、「炎を持つ」彼女に戦争を終わらせるよう迫る。Natah は、Tenno に Erra を攻撃させ、彼が滅んだのを覚えていると言う。Erra はそれを否定し、彼女の記憶は間違っていて、「創造主たちが彼女にしたこと」から完全に回復するには時間がかかると言う。納得しない Natah は、鎖につながれた Ballas を指して、彼も創造主の一人かと問う。",
+     "",
+     "Erra は突然 Natah をつかんで背後の台座に投げつけ、エネルギーの場に閉じ込める。「戦争を終わらせろ」と言って Ballas の鎖を放すと、囚われていたのは見せかけだったことが明かされ、Ballas は立ち上がり、Erra とともに黙って Natah を見つめる。"
+    ]
+   ],
+   [
+    "トリビア",
+    [
+     "- Update 30.3 より前は名前がなかった。",
+     "- ジオラマのない唯一のクエストで、選ぶとすぐにムービーが始まる。"
+    ]
+   ]
+  ]
+ }
+}

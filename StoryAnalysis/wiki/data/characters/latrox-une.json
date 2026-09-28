@@ -1,0 +1,161 @@
+{
+ "key": "latrox-une",
+ "name": "Latrox Une",
+ "page": "Latrox Une",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Deimos に取り残され Entrati に雇われた研究者",
+ "wiki": {
+  "title": "Latrox Une",
+  "url": "https://wiki.warframe.com/w/Latrox_Une",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus"
+  ],
+  [
+   "Planet(s)",
+   "Deimos"
+  ],
+  [
+   "Mission Type(s)",
+   "Necralisk Bounty"
+  ],
+  [
+   "Tile Set(s)",
+   "Cambion Drift"
+  ],
+  [
+   "種類",
+   "Ranged"
+  ],
+  [
+   "Weapon(s)",
+   "Supra"
+  ],
+  [
+   "Affinity",
+   "500"
+  ],
+  [
+   "Shield",
+   "250"
+  ],
+  [
+   "Health",
+   "450"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "0"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "声優",
+   "Guy Cunningham [ 1 ]"
+  ],
+  [
+   "初登場",
+   "Update 29.0 (2020-08-25)"
+  ],
+  [
+   "Mod Drops",
+   "Point Strike 1.14% / 15 Endo 1.14% / Charged Shell 0.17% / Cleanse Grineer 0.17% / Swirling Tiger 0.17% / 50 Endo 0.17% / Handspring 0.06%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 7.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Marooned Corpus researcher, unwilling resident on Deimos and ally-of-circumstance to the Entrati. Happy to see a non-Infested face.",
+   "> Latrox Une is a Corpus researcher who has been stranded on Deimos, and now is hired by the Entrati to collect Infested samples.",
+   "> Latrox Une can appear in Cambion Drift Bounties, where the Tenno must help collect Infested samples while protecting him. After collecting enough samples and delivering them to him, Latrox Une asks for further protection while he uploads the data. He is accompanied by a Shield Osprey, which must survive to complete the bonus bounty."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### General",
+     "",
+     "Latrox Une is a Corpus researcher and explorer that was presumably part of the Corpus's many expeditions to Deimos, Due to the Infested nature of the moon, this would ultimately result in him being stranded and trapped on the Cambion Drift.",
+     "",
+     "### Meeting the Entrati",
+     "",
+     "Latrox would later encounter the Entrati family, and as their newly-hired agent, would be sent out into the Drift to hunt down and collect samples of the native fauna for testing and environmental study. Occasionally, Latrox will request help from the Tenno to rescue him from the numerous Infested Grey Strain monsters, as well as assisting him in collecting samples.",
+     "",
+     "Latrox Une doesn't appear to be well-liked by both Mother and Loid; Mother appears to only see his value by how many samples he is able to obtain, while Loid only sees him as just another Corpus profiteer, and even accuses Latrox of keeping the locations of resource caches secret, saying 'Corpus is as Corpus does'.",
+     "",
+     "Despite this, Latrox still respects the Entrati's contract and honors their non-disclosure agreement when discussing his job with outsiders.",
+     "",
+     "### The New War",
+     "",
+     "During the Narmer takeover of the Origin System, Latrox presumably joined the Entrati in hiding in order to protect the Heart.",
+     "",
+     "### Transcripts of Unauthorized Broadcasts",
+     "",
+     "In the leadup to TennoCon 2023, Nora Night, during a slow and uneventful night, finally decides to open her own call line, conversing with three unknown callers over the course of three days",
+     "",
+     "#### Transmission Origin: [DATA CORRUPTED] / Time Since Intercept - 43 Hours",
+     "",
+     "Latrox Une is the first caller, although Nora initially wanted to cut him off after finding out he is a Corpus.. During the transmission, he explains his purpose Deimos, and how he was employed by the Entrati to study its ecosystem by harvesting and collecting Infested samples. Latrox then confesses that Deimos has almost 'changed' in a way; the capillaries are pumping blood faster than normal, and the local flora appears to be dull and discolored, almost as if the Infestation is scared of something and is attempting to be less noticeable. Additionally, Latrox says that an incessant knocking sound has been keeping him up. Nora takes an interest in this, and asks Latrox to send her all of his data.",
+     "",
+     "Curiously, the same knocking sound was later able to be heard within the chambers of the Necraloid syndicate, added in Hotfix 33.6.6 (2023-08-25).",
+     "",
+     "(knock, knock, knock.............. knock, knock, knock)",
+     "",
+     "(download, history)"
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Before being stranded on Deimos, Latrox once had a lab partner that took to calling him 'Roxy'.",
+     "- His old Corpus quartermaster liked to play Orokin waltzes.",
+     "- The two canisters on his back are the same as the ones contained on an Aerolyst, with the Sentient's immunity to Infestation likely explaining why he has not succumbed to it himself."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "key": "haigos",
+ "name": "Haigos",
+ "page": "Haigos",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Wiki にも説明がほとんどない",
+ "wiki": {
+  "title": "Haigos",
+  "url": "https://wiki.warframe.com/w/Haigos",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Haigos / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [],
+  "sections": []
+ }
+}

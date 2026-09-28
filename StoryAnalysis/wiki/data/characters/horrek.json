@@ -1,0 +1,31 @@
+{
+ "key": "horrek",
+ "name": "Horrek",
+ "page": "Horrek",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Kahl-175 を支える料理人",
+ "wiki": {
+  "title": "Horrek",
+  "url": "https://wiki.warframe.com/w/Horrek",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Horrek / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Some men have their destiny written in the stars. Other men drink Kubuchi until the stars dance, because their wife has locked the doors of their home, and they wake up to find three days have come and gone and they are naked but for a bucket and they are now the cook for a Grineer. The Unum alone knows all.”",
+   "> —Horrek",
+   "> Horrek is an Ostron chef that supports Kahl-175. He joins Kahl's Garrison at Rank 3 - Fort with the Syndicate.",
+   "> He provides no services nor can he be directly spoken to, acting as an aesthetic to Kahl's growing camp."
+  ],
+  "sections": []
+ }
+}

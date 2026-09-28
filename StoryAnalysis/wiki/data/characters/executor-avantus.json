@@ -1,0 +1,51 @@
+{
+ "key": "executor-avantus",
+ "name": "Executor Avantus",
+ "page": "Executor Avantus",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "The Seven の一員",
+ "wiki": {
+  "title": "Executor Avantus",
+  "url": "https://wiki.warframe.com/w/Executor_Avantus",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Orokin"
+  ],
+  [
+   "Quotes",
+   "Executor Avantus / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Executor Avantus was an Orokin Executor and member of The Seven."
+  ],
+  "sections": [
+   [
+    "History",
+    [
+     "### During The Collapse",
+     "",
+     "Main article: Synthesis/Imprint/Arid Eviscerator",
+     "",
+     "At some point after the betrayal of the Tenno, Executor Avantus had to flee from an Orokin Tower being overrun by the Infested. Along with her underling Bilsa, Avantus abandoned a group of other survivors within the tower to save herself.",
+     "",
+     "Shortly after, the two Orokin encountered a group of Grineer workers who they sought to exploit for their own survival. Avantus openly underestimated the intelligence of the workers, telling Bilsa that they will leave them behind once they reach a ship. This proved to be her demise, as once they reached a shuttle, the Grineer Veytok murdered her by driving his saw through her spine."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Avantus was first revealed back during TennoCon 2017, alongside Ballas. Initially shown as just an \"Orokin Woman\", her identity remained unknown until Update 41.0 (2025-12-10), 8 years later."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "key": "vome-deimos",
+ "name": "Vome",
+ "page": "Vome (Deimos)",
+ "group": "Infested",
+ "group_key": "g05-infested",
+ "summary": "Cambion Drift の夜を表す巨大な雌の Infested",
+ "wiki": {
+  "title": "Vome (Deimos)",
+  "url": "https://wiki.warframe.com/w/Vome_(Deimos)",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Infested"
+  ],
+  [
+   "First Appearance",
+   "Heart of Deimos"
+  ],
+  [
+   "Quotes",
+   "Vome (Deimos) / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> For Vome (Requiem Mod), see Requiem Mods.",
+   "> For Resource, see Vome Residue.",
+   "> “'Vome'. His sister. They don't get along, as you'll soon see.”",
+   "> —Daughter"
+  ],
+  "sections": [
+   [
+    "Appearance",
+    [
+     "Vome appears as a very tall, Infested, snake-like creature. She closely resembles her brother, Fass, the differences being that Vome has webbing between her claw-like spines, similar to the webbing of aquatic animals or bat wings. Vome is described to be female and has a blue glowing orb inside of the skeletal cage-like structure on her back, while Fass is male and has an orange glowing orb."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Her namesake comes from the Voidtongue word for \"Order\".",
+     "- Vome is possibly one of two Infested Wyrms with blue glowing orbs located on the Cambion Drift, the second is speculated to be a nameless and always dormant Wyrm that is found sleeping inside the giant structure in the Cerebrum Magna section of the map, which in concept was called an arena."
+    ]
+   ]
+  ]
+ }
+}

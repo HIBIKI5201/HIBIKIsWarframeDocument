@@ -1,0 +1,30 @@
+{
+ "key": "valeria",
+ "name": "Valeria",
+ "page": "Valeria",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Teshin が語る人物。亡くなった恋人と思われる",
+ "wiki": {
+  "title": "Valeria",
+  "url": "https://wiki.warframe.com/w/Valeria",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Valeria / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Why? No! No! Valeria!”",
+   "> —Teshin, (download, history)",
+   "> Valeria is a character that is only briefly mentioned by Teshin during The New War and during the Sorrow Spiral of Duviri, implied to be a deceased lover."
+  ],
+  "sections": []
+ }
+}

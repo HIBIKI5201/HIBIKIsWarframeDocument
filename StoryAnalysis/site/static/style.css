@@ -97,6 +97,21 @@ main { max-width: 880px; margin: 0 auto; padding: 1.5rem 16px 4rem; }
 .results a { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 .6rem; }
 .results small { color: var(--muted); }
 .results p { margin: .2rem 0 0; font-size: .9rem; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: .4rem; margin: .2rem 0 1rem; }
+.chips:empty { display: none; }
+.chips button {
+  font: inherit; font-size: .85rem; cursor: pointer; color: var(--muted);
+  padding: .2rem .75rem; border: 1px solid var(--line); border-radius: 99px; background: var(--surface);
+}
+.chips button[aria-pressed="true"] { background: var(--accent-soft); color: var(--text); border-color: var(--accent); font-weight: 600; }
+.chips small { color: var(--muted); margin-left: .15rem; }
+.entities { list-style: none; padding: 0; margin: 0 0 1rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: .6rem; }
+.entities:empty { display: none; }
+.entities li { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: .6rem .8rem; }
+.entities a { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 .5rem; }
+.entities small { color: var(--muted); }
+.entities p { margin: .25rem 0 0; font-size: .85rem; color: var(--muted); }
+.entities .kind { font-size: .72rem; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 .3rem; }
 mark { background: var(--accent-soft); color: var(--text); padding: 0 .1em; border-radius: 3px; }
 
 /* ---------- toc */

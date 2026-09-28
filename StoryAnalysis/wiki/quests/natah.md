@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # Natah（Natah）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [アークウイング](the-archwing.md) ・ [二番目の夢](the-second-dream.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 天王星で奇妙なドローンに遭遇した Tenno が、その正体を追ううちに Lotus が隠してきた秘密を知るメインクエスト。Hotfix 17.0.1（2015-07-31）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Natah_(Quest)) / [台詞全文](https://wiki.warframe.com/w/Natah_(Quest)/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Natah_(Quest))（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Natah_(Quest)/Transcript) / [日本語 Wiki「NATAH」](https://warframe.fandom.com/ja/wiki/NATAH) / [日本語 Wiki の取り込み](../../fandom-ja/pages/natah.md) / [全文検索](../../search.html?q=Natah)
 
 ## 基本情報
 
@@ -29,37 +29,18 @@
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 42 |
-| [Tyl Regor](../../wiki/characters/g03-grineer.md#tyl-regor) |  | 21 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 9 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 8 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 8 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 6 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 5 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Simaris](../../wiki/characters/g02-cephalon.md#cephalon-simaris) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
-| [Little Duck](../../wiki/characters/g19.md#little-duck) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Lotus](../characters/lotus.md) | Tenno | 38 |  |
+| [Teshin](../characters/teshin.md) | Tenno | 33 | 39 |
+| [Tyl Regor](../characters/tyl-regor.md) | Grineer | 15 | 20 |
+| [Ordis](../characters/ordis.md) | Cephalon | 2 | 3 |
+| [Natah](../characters/natah.md) | Sentient |  | 8 |
+| [Corpus Commander](../characters/corpus-commander.md) | Corpus |  | 3 |
+| [Corpus Captain](../characters/corpus-captain.md) | Corpus |  | 3 |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 天王星で、何か、あるいは誰かを探しているような奇妙なドローンに遭遇する。スキャンすると Lotus が協力を求めてくる。Corpus 製だと考えた Lotus は Tenno を地球へ調査に送るが、そこで見つかったのは Old War の残骸で、Lotus はますます困惑する。やがてドローンが Sentient の Oculyst だと気づいた Lotus は、Tenno との通信を突然断つ。そこへ Orokin 時代の人物で Conclave の師である Teshin が、Lotus の真意を疑い、謎の多い Lotus の真相を解き明かす手助けを申し出る。
 
@@ -74,3 +55,7 @@ Lotus はかつての名が Natah で、Old War の間に Tenno を抹殺する�
 > 「Natah は娘だった。私が彼女を滅ぼすまでは。今の私は Lotus。今の私は母」（Lotus）
 
 かつて Hunhow の娘だった Lotus は、母になりたいという自分の願いのために同族を裏切った。Hunhow は、Lotus が果たせなかった Tenno の抹殺をまもなく成し遂げようとしている。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

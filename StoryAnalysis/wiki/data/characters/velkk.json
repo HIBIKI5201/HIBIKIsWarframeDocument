@@ -1,0 +1,30 @@
+{
+ "key": "velkk",
+ "name": "Velkk",
+ "page": "Velkk",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Titan's Rest に墓がある",
+ "wiki": {
+  "title": "Velkk",
+  "url": "https://wiki.warframe.com/w/Velkk",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Velkk / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> A joy to all. The best of us.” —Velkk's tombstone epitaph",
+   "> Velkk was a resident of Duviri.",
+   "> Their grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

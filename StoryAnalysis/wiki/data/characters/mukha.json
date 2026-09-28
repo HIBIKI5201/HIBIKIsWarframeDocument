@@ -1,0 +1,37 @@
+{
+ "key": "mukha",
+ "name": "Mukha",
+ "page": "Mukha",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Nakak のいとこ",
+ "wiki": {
+  "title": "Mukha",
+  "url": "https://wiki.warframe.com/w/Mukha",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Mukha / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "mask-of-the-revenant",
+   0,
+   7
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Tower work was more my cousin, Mukha's calling, he's fearless... uh, was fearless.”",
+   "> —Nakak",
+   "> Mukha was an Ostron Tower-harvester and cousin of Nakak.",
+   "> Every day, Mukha would scale the numerous scaffolds of the Tower of Unum, drilling and harvesting its flesh. However, after working for so long, Mukha was no longer afraid of heights, and one day, lost his life by accidentally falling off of the Tower."
+  ],
+  "sections": []
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "key": "smokefinger",
+ "name": "Smokefinger",
+ "page": "Smokefinger",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "採掘と鉱物の専門家",
+ "wiki": {
+  "title": "Smokefinger",
+  "url": "https://wiki.warframe.com/w/Smokefinger",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Paul Herzberg"
+  ],
+  [
+   "Quotes",
+   "Smokefinger / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “The Taxmen have imposed strict limits on the mining ventures we Solaris can undertake, which I don't approve of, but can't do anything about. So... go out and do it for me.”",
+   "> —Smokefinger",
+   "> Smokefinger is a Solaris who specializes in mining technology and mineralogy on Orb Vallis."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### General",
+     "",
+     "Before Smokefinger came to Fortuna, he worked as an assistant under Sigor Savah, a Corpus researcher who studied living beings on Venus. Smokefinger was instrumental in allowing Sigor Savah to escape Venus from Corpus custody along with Specimen VK-7."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- According to a message Eudico sent to Tenno after a completion of Vox Solaris quest, Smokefinger found Garuda's main blueprint years ago.",
+     "- Smokefinger tends to speak in an eloquent well-mannered way but shows a short-temper being prone to aggressive outbursts when describing something that annoys him.",
+     "- Smokefinger shows interest in Legs as a potential protégé. Believing that as his mentor helped him find love for minerals he should do the same for someone else. Legs has no interest in the matter however finding it a waste of time.",
+     "- He sometimes visits Rude Zuud bearing gifts and tries to speak with her about her sisters. Though this only ends up irritating Zuud who would remain in denial about them.",
+     "- Smokefinger is voiced by Paul Herzberg."
+    ]
+   ]
+  ]
+ }
+}

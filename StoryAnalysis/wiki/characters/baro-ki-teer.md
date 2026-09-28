@@ -1,0 +1,81 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Baro Ki'Teer
+
+[キャラクター一覧](../../characters.md) › [Tenno](g01-tenno.md) ・ ← [Excalibur Umbra](excalibur-umbra.md) ・ [Varzia](varzia.md) →
+
+## 概要
+
+Void Trader。Orokin の品と贅沢を好む商人
+
+Void Trader（Void の商人）とも呼ばれる、異国の品と贅沢、とりわけ Orokin の Void にまつわるものを愛する人物。他では手に入らない珍しい遺物や貴重な品を Tenno に売っている。
+
+> 「お待たせしました、Tenno。Baro Ki'Teer の到着です」（Baro Ki'Teer）
+
+- グループ: [Tenno](g01-tenno.md)
+- 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Baro_Ki'Teer)（英語・出典） / [全文検索](../../search.html?q=Baro%20Ki%27Teer)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| First Appearance | Operation: Cryotic Front (mentioned only) / Update 15.6 (2014-12-11) |
+| 声優 | Paul C Nodine |
+| Quotes | Baro Ki'Teer / Quotes |
+| Alias(es) | Baro / Void Trader |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [Inaros の砂嵐](../quests/sands-of-inaros.md) | 46 | 51 |
+
+## 人物
+
+Tenno のリレーの Concourse に現れるが、常にいるわけではない。2 週間ごとに現れ、48 時間だけ取引に応じてから再び姿を消す。すべてのリレーの Orokin Ducat の端末に次の到着までのカウントダウンが表示され、滞在中は出発までの残り時間に変わる。次に訪れるリレーの名前は常に端末に表示され、到着の 24 時間前からは星図上にもアイコンが現れて、リレーへの道筋をゆっくり進んでいく。到着すると、どの惑星のどのリレーにいるかを知らせる受信箱メッセージが届く。
+
+## 経歴
+
+### 概要
+
+うぬぼれた態度（Prime 装備を身に着けていない Tenno を見下すほど）以外、Baro Ki'Teer についてはほとんど知られていない。それでも代価次第で Tenno を助ける気はあり、アークウイングを作るためのデータを提供したのも彼だった。到着を告げる台詞の多くから、彼は Void に出入りでき、珍しい財宝を求めて Void に入っていることがうかがえる。品物の希少さを考えると大きな危険を伴うはずで、相当な偉業だ。
+
+### Operation Cryotic Front
+
+「謎の協力者」を名乗る Baro Ki'Teer は匿名で Tenno に接触し、Balor Fomorian の脅威と戦う手助けを申し出た。Fomorian を倒すのに必要な技術（と、優れた働きへの追加報酬）を与える代わりに、当時は太陽系の特定の惑星でしか採掘できなかった Cryotic を集めてほしいという。Tenno が Cryotic を集めて報酬を得るうちに、Baro Ki'Teer は、輸送中に傷みやすい珍味「火星のオアシスクラゲ」を保存するために Cryotic が必要なのだと明かした。
+
+イベントの後の一連の取引で、Darvo は Baro Ki'Teer の正体を Tenno に明かし、彼は客に謎めいて見せるためにそうしているのだと言った。Darvo はそのクラゲを試しに食べてみようと、Prime の設計図一箱と Argon Crystal 2 個と交換したが、数日間喉が腫れ上がったという。Darvo が Baro Ki'Teer の正体を明かしたのは、ただの腹いせだったらしい。
+
+### Operation: Gate Crash
+
+Operation Cryotic Front の直後、Operation: Gate Crash の冒頭のメッセージで、Baro Ki'Teer が古代の技術アークウイングの情報を収めたデータを Tenno に渡していたことが明かされた。アークウイングは、Vay Hek の Balor Fomorian を倒す Tenno の計画の要だった。この作戦に Baro Ki'Teer がそれ以上関わったかは語られていない。
+
+### Inaros の砂嵐
+
+Baro Ki'Teer は、財宝を求めて火星の神殿を襲うよう Tenno に頼む。彼は Grineer に占領される前の入植者を「空の崇拝者（Sky Worshippers）」と蔑んで呼ぶ。Tenno が神殿を探るうち、謎の女性の声が、「黄金の空の民（Golden Skymen）」と Infested から空の崇拝者を守った「神王 Inaros」の伝説を語り始め、Void Trader は動揺し始める。Tenno は神殿から聖なる壺を持ち帰り、Baro Ki'Teer は壺の銘文に従って神殿の秘密をさらに暴くよう促す。
+
+Tenno が神殿の奥へ進むにつれ、Ki'Teer は語り手の話にますます取り乱していく。クエストの終盤で、Baro Ki'Teer は火星の出身で、語り手の声は亡き母のものだったことが明かされる。彼は Grineer の襲撃を受けた村のただ一人の生存者で、Inaros に祈ったにもかかわらず神王は現れなかった。そのため彼は故郷を恨んでいた。過去と折り合いをつけた Baro Ki'Teer は Tenno に感謝し、神王は再び蘇るだろうと語る。
+
+### Naberus 2025
+
+Naberus の季節の間、Baro は祝祭に合わせて装いと振る舞いを変えたように見えた。赤い服をまとい、いつもの自信に満ちた商売人らしさの代わりに、奇妙でしばしば虚無的な詩を口にした。2 週間ごとではなく毎週現れ、新しい品の値段も 5 の倍数ではなく半端な数字だった。
+
+季節が終わると、Baro の赤いメッセージはすべて消え、船の Void ドライブの故障で先月の予定をすべてすっぽかしたことを詫びる新しいメッセージが届いた。「Naberus の Baro」は Void から来た偽者だったことがほのめかされ、DE も後に、「Naberus の Baro」はいつもの Baro とは別人だと認めた。
+
+## トリビア
+
+- 名前は、豪奢な装飾品や美術品を扱うことにちなんだ「baroque attire（バロック風の装い）」のもじりかもしれない。
+- 通貨の Ducat は、中世から 20 世紀まで使われた金貨・銀貨の名前から。
+- Prime の武器や Warframe を身に着けたプレイヤーには敬意を払い、「お目が高い方」と褒めることもある。Prime Access のアクセサリーや Prime の装甲セットではそうならない（彼から買うものだからかもしれない）。Inaros と Inaros Prime の使い手も敬うが、何も買わなければやはり鼻で笑う。
+- リレーに到着するときは、多くの Warframe の待機モーションや能力と同じような青い閃光と粒子とともに現れる。
+- TennoCon では、チケット購入者が入れる特別なリレーに現れ、過去に売ったすべての品を並べる。
+- Hotfix 31.7.1 までは PC と他機種で在庫が分かれていた。在庫の統一後、Baro は永続主義についての受信箱メッセージを全 Tenno に送り、「複数の Baro Ki'Teer」の存在を嫌悪したが、「粋な見知らぬ人物」と出会って「すべての自分を一人の完璧な個人に精錬する」取引を交わしたと語った。
+- Naberus 2025 の間、Baro は Nova の Leverian にある Holsom Yurr の鎧を着ていて、星図のアイコンも白ではなく赤だった。最後の訪問では、Lohk と Xata、Netra と Khra の詩を逆から唱え、去り際に「トン、トン、トン」と言った。Harrow の鎖で Rell の霊が言うのと同じ台詞。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

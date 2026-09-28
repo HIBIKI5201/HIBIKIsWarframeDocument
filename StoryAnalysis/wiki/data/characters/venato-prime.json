@@ -1,0 +1,21 @@
+{
+ "key": "venato-prime",
+ "name": "Sembik Vol / Ur-Hatho",
+ "page": "Venato Prime",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Venato Prime の説明文に出てくる",
+ "wiki": {
+  "title": "Venato Prime",
+  "url": "https://wiki.warframe.com/w/Venato_Prime",
+  "exists": true
+ },
+ "link_only": true,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": null,
+  "summary": [],
+  "sections": []
+ }
+}

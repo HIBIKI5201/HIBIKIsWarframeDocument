@@ -1,0 +1,116 @@
+{
+ "key": "cephalon-cy",
+ "name": "Cephalon Cy",
+ "page": "Cephalon Cy",
+ "group": "Cephalon",
+ "group_key": "g02-cephalon",
+ "summary": "Railjack の航法士・副長",
+ "wiki": {
+  "title": "Cephalon Cy",
+  "url": "https://wiki.warframe.com/w/Cephalon_Cy",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Rising Tide"
+  ],
+  [
+   "声優",
+   "Emma Martello"
+  ],
+  [
+   "Quotes",
+   "Cephalon Cy / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Cy"
+  ]
+ ],
+ "quests": [
+  [
+   "rising-tide",
+   2,
+   2
+  ],
+  [
+   "the-new-war",
+   23,
+   24
+  ],
+  [
+   "the-hex",
+   5,
+   5
+  ],
+  [
+   "call-of-the-tempestarii",
+   45,
+   48
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Conclusion: I am, under the circumstances, a viable Command Cephalon. If you will have me.”",
+   "> —Cephalon Cy",
+   "> Cephalon Cy is a Cephalon that serves as the navigator and executive officer of the Tenno's Railjack, functioning as mission control during Railjack missions. His dialogue is characterized by a curt, no-nonsense attitude although he occasionally lapses into dry humor.",
+   "> The blueprint to build the \"Railjack Cephalon\" is given upon starting the Rising Tide quest."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "> “Dry Dock Schema",
+     "",
+     "> Operator,",
+     "",
+     "> Last cycle, during routine star count, I detected something unusual. A pattern, hidden in the redshift data.",
+     "",
+     "> I did not want to worry you about my sensory stability. So I ran an autonomous scan... I found something! Base schematic data, previously corruption-flagged... was whole again. The Weave works in unexpected ways... Did I receive parity bits from some unknown source?",
+     "",
+     "> As you know, my flight capabilities are confined to the Orbiter here and her companion Lander, but this new base structure might interest you and your fellow Tenno.",
+     "",
+     "> Your most stable cephalon, Ordis”",
+     "",
+     "The schematics used to reconstruct Cy at the Clan Dojo were recovered inexplicably by Cephalon Ordis from redshift data during a routine star count. Their origin is somewhat unclear.",
+     "",
+     "### Rising Tide",
+     "",
+     "Realizing the growing threat of the Sentients, Cephalon Cy instructs the Tenno to build a Railjack, an ancient Orokin warship dating back to the Old War. As he guides the Tenno to locate parts for construction, Cy attempts to search for a viable Command Cephalon for the Railjack, claiming he is not one.",
+     "",
+     "During construction, Cy suffers traumatic flashbacks to his original crew, who perished during the Old War while attempting to behead a Sentient fleet. Furthermore, it seems heavily implied that the cause of his crew's death was Cephalon Cy himself either shutting down the Railjack's systems or refusing to aid and respond to their commands. He declares that the reason for this is that their deaths will \"complete the mission\". While one of his duties is to ensure his crew's safety, his primary objective and that of his crew's was to complete the mission. By allowing them to die, he further declares that he single-handedly completed the mission. In retrospect, he still laments this decision and ponders why he was \"given THOSE orders\", implying an intentional sabotage by command. Due to the trauma he no longer considered himself a viable Command Cephalon, only agreeing to be installed in the Railjack when he realizes no other potential Cephalon has data or experience with space warfare, and desiring to understand why records of that mission were eliminated from the Cephalon weave."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- During earlier previews his role was instead assumed by Cephalon Ordis and thus of a wildly different tone.",
+     "",
+     "Unlike many previous Cephalons, Cephalon Cy's visual representation is made up of multiple flat images superimposed over each other to form a three-dimensional arrangement (an upside-down pyramid) instead of a polyhedron. Also, his default color is red, rather than white, blue, or yellow.",
+     "",
+     "  - However, when he recalls his past memories during the Rising Tide quest, he turns white (or grey). This also occurs during the Call of The Tempestarii quest.",
+     "",
+     "Some Meditation Quotes from Cephalon Cy are adapted from literature:",
+     "",
+     "  - \"That which can be destroyed by the truth should be.\" - P.C. Hodgell, Seeker's Mask",
+     "  - \"It is difficult to understand the universe if you only study one planet\" - Miyamoto Musashi, A Book of Five Rings: The Classic Guide to Strategy",
+     "  - \"In battle, if you make your opponent flinch, you have already won.\" - Miyamoto Musashi",
+     "  - \"The opposite of a small truth is a lie. the opposite of a great truth is another great truth\" -Niels Bohr",
+     "- Cephalon Cy is voiced by Emma Martello, who also voices Rell and Master Teasonai.",
+     "- Prior to Hotfix 30.2.2 (2021-05-13), Cephalon Cy's blueprint had to be researched in the Dry Dock:",
+     "- Manufacturing Requirements",
+     "- 5,000 / 2 / 2 / 2 / 1 / Time: 10 min",
+     "- Rush: 50",
+     "- Market Price: N/A / Blueprints Price: 35,000",
+     "- Railjack Lab Research",
+     "- 10,000 / 5 / 5 / 5 / 4 / Time: 1 hrs",
+     "- Prereq: N/A",
+     "- x1 x3 x10 x30 x100"
+    ]
+   ]
+  ]
+ }
+}

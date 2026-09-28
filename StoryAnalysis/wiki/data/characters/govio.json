@@ -1,0 +1,30 @@
+{
+ "key": "govio",
+ "name": "Govio",
+ "page": "Govio",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Hollow Children に殺された",
+ "wiki": {
+  "title": "Govio",
+  "url": "https://wiki.warframe.com/w/Govio",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Govio / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Or so we hope Slain by his other Or so we hope In the chalky halls Of Academe May what lies here Never rise” —Govio's tombstone epitaph",
+   "> Govio was a resident of Duviri. He was slain by one of the Hollow Children from the Island of Academe, one of the Lost Islands of Duviri... Or so the other residents hope.",
+   "> His grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

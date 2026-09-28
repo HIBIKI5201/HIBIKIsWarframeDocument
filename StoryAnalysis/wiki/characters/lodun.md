@@ -1,0 +1,83 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Lodun
+
+[キャラクター一覧](../../characters.md) › [Duviri](g12-duviri.md) ・ ← [Sythel](sythel.md) ・ [Mathila](mathila.md) →
+
+## 概要
+
+Duviri の処刑人（The Prince of Fire）
+
+> “"I've seen you, drifting among the isles of MY kingdom! If it weren't for that manic little Imp... he's got it in for you. If you're not a COMPLETE idiot, you'll see that we should help one another."”
+> —Lodun
+> Lodun, also known as The Prince of Fire, is the executioner of Duviri who feels rage over his royalty holding no real authority. He is the courtier and the Orowyrm boss of the Anger Spiral.
+> When not the featured courtier of the current Spiral, he can be found in Upperhaven, the northwestern-most town in the plains.
+
+- グループ: [Duviri](g12-duviri.md)
+- 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Lodun)（英語・出典） / [全文検索](../../search.html?q=Lodun)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| First Appearance | The Duviri Paradox |
+| 声優 | David Shaughnessy |
+| Quotes | Lodun / Quotes |
+| Alias(es) | The Prince of Fire |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [デュヴィリ・パラドックス](../quests/the-duviri-paradox.md) | 13 | 20 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## General
+
+Lodun's title of 'The Prince of Fire' is, in fact, a sarcastic insult, as he possesses no real authority beyond his executions. He believes himself to be the rightful King of Duviri, but due to the complications of his ancestry, was supplanted by Dominus Thrax. As consolation, Lodun instead received the position as Thrax's personal executioner.
+
+Some of Duviri's citizens believe Lodun should be the one on the throne, however, they are quickly hunted down by the Dax and sentenced to death.
+
+Additionally, Dominus Thrax seems to dislike Lodun, and based on his claims, will often attempt to sabotage Lodun from proving his lineage by confiscating and hiding his royal regalia, hiding or burning the succession scrolls, and sending squads of Dax after him. The feelings are mutual, as Lodun is also quite frustrated over Thrax's neglect of his duties over Duviri. Thus, it is possible that Lodun acts out of genuine care to provide order to the kingdom, but falls short due to his uncontrollable temper getting in the way.
+
+When not the featured courtier, Lodun can be found in front of his home, and appears to be burning a pile of books.
+
+## Lore & History
+
+### Tales of Duviri - The Prince of Fire
+
+Main article: Tales of Duviri
+
+> “Hear now of the one they called Lodun – the high and the mighty prince of…nothing. For within him burned a fire and a fury he could not control.”
+
+> —Euleria Entrati
+
+Lodun, along with the rest of Duviri, was originally created as a storybook character in the "Tales of Duviri" book, written by Euleria Entrati. He was written as an example of what happens when one fails to master themselves and their anger, and as a result, is consumed by it.
+
+Lodun of Duviri, was nicknamed 'the Prince of Fire', which was a mocking title, for he ruled over nothing, least of all himself. The smallest of things could spark his anger. He drove people away with his anger and lashed out at friends and foes alike, and it became a weight in his chest until it made him an enemy to even himself. He eventually realized that the source of his anger was his own shortcomings, and unable to contain it, he was consumed by it.
+
+### Lost Islands of Duviri
+
+When the Hollow Children appeared on the island of Academe, Thrax ordered Lodun to destroy the island, but when he arrived there, he found it had broken free from the rest of the islands on its own. Thrax didn't give Lodun the order to pursue the island.
+
+## Trivia
+
+The executioner and the Orowyrm were originally separate characters in The Duviri Paradox teaser demo during TennoCon 2022. The executioner was named Lequos, and speaks in a much calmer tone, while Lodun is the Orowyrm sent by Dominus Thrax to hunt down the Drifter.
+
+  - During the demo, the executioner wields what appears to be a dagger made from Void energy. Said dagger was never used in the final game.
+  - Hovering over the Orowyrm boss' head shows Lodun's name and health bar regardless of the current mood spiral, implying he may have been originally planned to be the only Orowyrm boss in Duviri.
+- Since the name Lodun was originally used for the Orowyrm, he may have been named after Ladon, a dragon in Greek mythology.
+- His name appears in the title of a Decree, Lodun's Rage.
+- The wall behind Lodun is full of cracks and craters, presumably caused by him striking or punching it in anger.
+- During the Anger Spiral, Lodun can be seen wearing the Vexage Coronet during his transmissions. The same fiery crown can be seen on Lodun's Orowyrm form during The Duviri Paradox quest. The same Coronet can be purchased from the Market and applied to the player's Kaithe.
+- Both Lodun and Mathila imply that transforming into an Orowyrm may not be voluntary; instead, it happens when a courtier gets overwhelmed by their respective emotions.
+- One of Lodun's lines for the "Defeat Kullervo" Spiral stage is a reference to Mortal Kombat.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

@@ -1,0 +1,54 @@
+{
+ "key": "the-warden",
+ "name": "The Warden",
+ "page": "The Warden",
+ "group": "Duviri",
+ "group_key": "g12-duviri",
+ "summary": "Kullervo の看守",
+ "wiki": {
+  "title": "The Warden",
+  "url": "https://wiki.warframe.com/w/The_Warden",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "The Warden / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> For the enemy, see Warden.",
+   "> “I keep him locked up here for his own safety, and that of all Duviri. Care to find out why?”",
+   "> —The Warden about Kullervo",
+   "> The Warden is a resident of Duviri who serves as the jailer of the Warframe Kullervo."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### The Seven Crimes of Kullervo",
+     "",
+     "Main article: Kullervo#Lore",
+     "",
+     "> “You cannot deny your sin, Kullervo. For I am your guilt, the form and voice of your greatest persecutor.”",
+     "",
+     "> —The Warden",
+     "",
+     "The Warden is presumed to be a Conceptual Embodiment of Kullervo's guilt, taking the form and voice of Ballas, one of the Orokin Executors whom charged Kullervo with his seven crimes. Kullervo would then be punished with the Executor's eternal vengeance.",
+     "",
+     "According to Acrithis, the Warden claims to originate outside the Void, and to be more than a Conceptual Embodiment. Acrithis herself does not believe him."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- When approached, The Warden comments as if the Drifter recognizes him with hostility."
+    ]
+   ]
+  ]
+ }
+}

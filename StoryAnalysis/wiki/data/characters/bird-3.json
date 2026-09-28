@@ -1,0 +1,78 @@
+{
+ "key": "bird-3",
+ "name": "Bird 3",
+ "page": "Bird 3",
+ "group": "Deimos・Entrati・Cavia",
+ "group_key": "g17-deimos-entrati-cavia",
+ "summary": "Cavia のメンバー",
+ "wiki": {
+  "title": "Bird 3",
+  "url": "https://wiki.warframe.com/w/Bird_3",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Cavia"
+  ],
+  [
+   "First Appearance",
+   "Whispers in the Walls"
+  ],
+  [
+   "声優",
+   "Micah Mason [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Bird 3 / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Bird (By Fibonacci and Tagfer )"
+  ]
+ ],
+ "quests": [
+  [
+   "whispers-in-the-walls",
+   4,
+   4
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “\"If my thinking makes me a who it makes everyone else a who. But I can't see what other whos think... and I'm pretty sure they can't see what I'm thinking... and when Mister Tagfer and Mister Fishonacci tell me what I'm thinking I'm pretty sure they're wrong... so when I think I know what they're thinking I'm probably wrong. So... everybody's wrong about what everybody's thinking so everybody's wrong about who everybody is. I think. So... that means... we should probably stop thinking about it... and just be nice to each other. Wuk. Rark.\"”",
+   "> —Bird 3, musing about theory of mind.",
+   "> Bird 3 is a member of the Cavia Syndicate, animals who gained intelligence due to \"Papa\" Albrecht Entrati's Void experiments. Bird 3 sells various wares for Cavia Standing."
+  ],
+  "sections": [
+   [
+    "Overview",
+    [
+     "Unlike his contemporaries, Bird 3 seems to have has a simplistic, naive point of view like that of a child, being unable to process Tagfer's grief or Fibonacci's intellectualism while he asks endless questions about topics others would consider childish or simple. This does not mean he is unintelligent however; with his aggressive curiosity sometimes resulting in comments of surprising insight borne from an unconventional viewpoint. Bird 3 is often the one of the Cavia trio to recognize when the other two are getting bogged down in unnecessary bickering."
+    ]
+   ],
+   [
+    "Lore & History",
+    [
+     "Bird 3, alongside who would become Fibonacci and Tagfer, is a survivor of the last batch of Cavia Albrecht Entrati used as his first attempts to fight The Indifference, and was loaded alongside Fibonacci as expendable \"mental ballast\" compared to the uniqueness of Tagfer and Minn. As with the rest of the Cavia, he gained sentience and understanding of the Voidtongue after the experiment, but was left unable to speak in any other language, on top of being exposed to lethal amounts of Void contamination. Albrecht, initially assuming the experiment was yet another failure, ultimately spared their lives, believing that someone more accustomed to the Void would understand them. He entrusted their care to Loid, who preserved the Cavia in cryogenic sleep which allowed them to survive to the present day.",
+     "",
+     "With the growing strength of The Indifference, Loid would resuscitate the Cavia as the Tenno searched Albrecht's Laboratories for information regarding the then-recently activated Kaylmos Sequence. Bird 3, with his simplistic mindset, would be put in charge of selling the Cavia's wares to the Tenno and managing straightforward missions against The Murmur. While seemingly uninvolved with Tagfer's growing hostilities against Fibonacci (in regards to the latter killing Minn by accident as the Cavia encountered The Indifference, which also led to them getting lethally exposed to the Void), Bird 3 loses his patience and points out that Tagfer is not the only one affected by Albrecht's actions, and that all the Cavia have left at this point is each other.",
+     "",
+     "The Cavia would succumb to their Void exposure, though would revive themselves shortly afterwards (presumably through Conceptual Embodiment). Of The Cavia, Bird 3 was delighted at his newfound ability to change his appearance."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "While he does not appear in person, Höllvania has a zoo display depicting a bird species similar to Bird 3, presumably an ancestor species during that time.",
+     "",
+     "  - The display names the bird the \"Wuk\", a species native to South America, where it predominantly lives in the Amazon Rainforest, and has an aggresive temperament. Compared to Bird 3, this species has a more \"upright\" posture, longer legs, more developed wings, and different tail feathers.",
+     "- After arriving at the Sanctum, Necraloid Loid occasionally mentions the existence of a \"Bird 1\" and \"Bird 2\", but requests the Tenno not to ask their whereabouts."
+    ]
+   ]
+  ]
+ }
+}

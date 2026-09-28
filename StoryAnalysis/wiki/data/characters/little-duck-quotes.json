@@ -1,0 +1,21 @@
+{
+ "key": "little-duck-quotes",
+ "name": "Jubb Lott",
+ "page": "Little Duck/Quotes",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Little Duck の Fortuna Fragments に出てくる（台詞集にリンク）",
+ "wiki": {
+  "title": "Little Duck/Quotes",
+  "url": "https://wiki.warframe.com/w/Little_Duck/Quotes",
+  "exists": true
+ },
+ "link_only": true,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": null,
+  "summary": [],
+  "sections": []
+ }
+}

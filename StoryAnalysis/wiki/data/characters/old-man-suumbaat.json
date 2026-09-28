@@ -1,0 +1,40 @@
+{
+ "key": "old-man-suumbaat",
+ "name": "Old Man Suumbaat",
+ "page": "Old Man Suumbaat",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "老いた鉱夫",
+ "wiki": {
+  "title": "Old Man Suumbaat",
+  "url": "https://wiki.warframe.com/w/Old_Man_Suumbaat",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Old Man Suumbaat / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “The trick to doing the impossible is to get out there and bloody well do it.”",
+   "> —Old Man Suumbaat",
+   "> Old Man Suumbaat is a late-aged Ostron miner in Cetus, located on the far left side of the market which is just across to the gate to the Plains of Eidolon. Suumbaat mainly provides Mining tools and the blueprints associated with the minerals and metals mined from the plains, as well as selling some of his refined gems for a small sum of Platinum, whose stock changes daily.",
+   "> He also accepts unrefined gems from the field for a number of Ostron Standing depending on their rarity, the gems being Azurite, Devar, Veridos, Crimzian, Sentirum and Nyth."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Suumbaat is derived from สมบัติ (pronounced som-bat), which is Thai for \"treasure\".",
+     "- Suumbaat possesses an Ayatan Zambuka Sculpture — the first in the game, as they were not available to players until Update 26.0 (2019-10-31) — and is the main supplier of the Arbiters of Hexis' stock . The sculpture he has on his table continues to animate despite lacking Ayatan Stars.",
+     "- Suumbaat is suggested to be suffering from a disease known as Gilded Lung."
+    ]
+   ]
+  ]
+ }
+}

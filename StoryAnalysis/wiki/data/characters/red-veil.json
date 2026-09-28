@@ -1,0 +1,21 @@
+{
+ "key": "red-veil",
+ "name": "Cantis",
+ "page": "Red Veil",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Red Veil の Trivia に出てくる（Red Veil のページにリンク）",
+ "wiki": {
+  "title": "Red Veil",
+  "url": "https://wiki.warframe.com/w/Red_Veil",
+  "exists": true
+ },
+ "link_only": true,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": null,
+  "summary": [],
+  "sections": []
+ }
+}

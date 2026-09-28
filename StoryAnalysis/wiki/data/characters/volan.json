@@ -1,0 +1,39 @@
+{
+ "key": "volan",
+ "name": "Volan",
+ "page": "Volan",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Ticker の元恋人",
+ "wiki": {
+  "title": "Volan",
+  "url": "https://wiki.warframe.com/w/Volan",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Volan / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “When I die, there will be a smile on this face for all the glorious mistakes I've made... So many of which were doors to Heaven itself. His name... was Volan.”",
+   "> —Ticker",
+   "> Volan is Ticker's former lover and a member of Solaris United. He is mentioned by Ticker during Star Days and described in her Fragments."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Volan and Ticker met decades before the events of Vox Solaris, forming an agreement to each play the part of the one that had abused the other. They worked as friends, so that they might resolve their respective traumas. Some time afterwards they started using their own names, and fell in love.",
+     "",
+     "At some point Volan had his body repossessed by the Taxmen and was brain-shelved, leaving Ticker only a single glove to remember him by. During the following decades Ticker would work to purchase a new body for Volan and to save him from brain-shelving, selling her arms, legs, and even her lungs, bones, and heart in the process. But by the time she was finished it was too late, as decades of brain-shelving had left Volan a shell of his former self who didn't even remember Ticker. Volan then took a job working in the canal, while Ticker set to work making sure that what had happened to her lover never happened to anyone else again."
+    ]
+   ]
+  ]
+ }
+}

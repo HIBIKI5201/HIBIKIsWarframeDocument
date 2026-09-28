@@ -123,9 +123,22 @@ def resolve(off: Official, wiki: build_fandom_ja.Index, term: dict) -> dict:
     return resolve_wiki(wiki, en, candidates) or {"ja": " / ".join(candidates) or "—", "basis": "未確認", "variants": []}
 
 
+def site_pages() -> dict[str, str]:
+    """このサイトのキャラクター・クエストのページ（render_wiki.py が作る）。{英語名（小文字）: パス}"""
+    out = {}
+    for kind in ("characters", "quests"):
+        for f in sorted((ROOT / "wiki" / "data" / kind).glob("*.json")):
+            r = json.loads(f.read_text(encoding="utf-8"))
+            for n in (r["name"], r["page"]):
+                out.setdefault(n.lower(), f"wiki/{kind}/{r['key']}.md")
+    return out
+
+
 def build_glossary(off: Official, wiki: build_fandom_ja.Index, cats: list[dict]) -> tuple[str, dict[str, str]]:
     """glossary.md の本文と、確認に使う {英語: 公式の日本語} を返す。"""
     official: dict[str, str] = {}
+    pages = site_pages()
+    en_cell = lambda en: f"[{en}]({pages[en.lower()]})" if en.lower() in pages else en
     out = [HEADER, "# 用語対応表（英語 ⇔ 日本語）\n",
            "考察は英語原文（`sources/`）を根拠にするので、英語表記と日本語版の表記を対応させておく。",
            "日本語はゲームの日本語ローカライズ（`dict.ja.json`）から自動で引いている。用語を足すときは `data/terms.json` を編集して "
@@ -137,7 +150,8 @@ def build_glossary(off: Official, wiki: build_fandom_ja.Index, cats: list[dict])
            "の記事名・定義文にある慣用表記（`日本語Wiki(本文) N 件` は N 件の記事の本文で使われている）。出典の記事はメモ列。"
            "取り込んだ資料は [fandom-ja/](fandom-ja/README.md)（CC BY-SA 3.0）",
            "  - `未確認`: どれでも確認できない（コミュニティでの呼び方など）",
-           "- 日本語版では、キャラクター名や Warframe 名の多くを英字のまま表記している（例: `Ordis`, `Ballas`）。\n"]
+           "- 日本語版では、キャラクター名や Warframe 名の多くを英字のまま表記している（例: `Ordis`, `Ballas`）。",
+           "- English 列のリンクは、このサイトのキャラクター・クエストのページ。\n"]
     for cat in cats:
         out += [f"## {cat['category']}\n", "| English | 日本語 | 根拠 | メモ |", "| --- | --- | --- | --- |"]
         for term in cat["terms"]:
@@ -147,13 +161,13 @@ def build_glossary(off: Official, wiki: build_fandom_ja.Index, cats: list[dict])
                 note = "; ".join(filter(None, [note, "ほかの表記: " + "、".join(r["variants"])]))
             if r.get("source"):
                 note = "; ".join(filter(None, [note, "出典: " + r["source"]]))
-            out.append(f"| {term['en']} | {r['ja']} | {r['basis']} | {note} |")
+            out.append(f"| {en_cell(term['en'])} | {r['ja']} | {r['basis']} | {note} |")
             if r["basis"].startswith("公式"):
                 official[term["en"]] = r["ja"].split(" / ")[0]
         out.append("")
     out += ["## クエスト\n", "ゲーム内のクエスト名（すべて公式訳）。\n", "| English | 日本語 |", "| --- | --- |"]
     for en, ja in off.quests():
-        out.append(f"| {en} | {ja} |")
+        out.append(f"| {en_cell(en)} | {ja} |")
         official.setdefault(en, ja)
     return "\n".join(out) + "\n", official
 

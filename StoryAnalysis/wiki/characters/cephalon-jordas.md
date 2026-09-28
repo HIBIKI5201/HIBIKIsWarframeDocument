@@ -1,0 +1,70 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Cephalon Jordas
+
+[キャラクター一覧](../../characters.md) › [Cephalon](g02-cephalon.md) ・ ← [Cephalon Suda](cephalon-suda.md) ・ [Cephalon Sark](cephalon-sark.md) →
+
+## 概要
+
+Corpus の Cephalon。The Jordas Precept で初登場
+
+> “Hello? Is this real? Did someone get my message? I hope not.”
+> —Jordas
+> Cephalon Jordas is a Corpus Cephalon that was first introduced in The Jordas Precept.
+
+- グループ: [Cephalon](g02-cephalon.md)
+- 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Jordas)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Jordas)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| First Appearance | The Jordas Precept |
+| 声優 | Don Leslie |
+| Quotes | Cephalon Jordas / Quotes |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [Jordas の教訓](../quests/the-jordas-precept.md) | 47 | 65 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore & History
+
+### General
+
+According to the Runner's Synthesis Imprint, Jordas was originally installed aboard a Class-3 Corpus Frigate. The ship was involved in a mission that involved the Infestation, possibly research into methods of defeating it. However, the ship and the crew inside were eventually infected by the very same Technocyte virus they were researching, with Jordas trapped within.
+
+### The Jordas Precept
+
+Eventually, Jordas was able to broadcast a message detailing Precept 44; a distress call to other Cephalons that required them to render aid. This message was picked up by Cephalon Ordis aboard the Orbiter and he implores his Operator, the Tenno, to aid whoever sent this message.
+
+Coming into contact with Jordas, the troubled Cephalon tells them that communication was a mistake and that they should leave. He mentions that there are parts of a petrified Warframe at his location, and speaks of a golem and its attraction to Pherliac Pods. After the Tenno gathers the pods, Jordas, trying to disguise a strange craving for them asks that they be 'calibrated' via irradiating them with Argon Crystals, creating Potent Pherliac Pods.
+
+Jordas then asks the Tenno to bring them to Eris, where he is waiting inside his thoroughly Infested ship. As the Tenno explore the vessel, Jordas's behavior becomes increasingly erratic over time to the point Ordis begins to have doubts about his integrity. His true color is eventually shown as the Tenno come across and fight a Juggernaut Behemoth, revealing that he has been corrupted by the Infestation covering the ship, and under its influence, used Precept 44 to lure unwitting Cephalons (and their crew) to be devoured by the Infested. As the Tenno slays the Juggernaut, the bulkhead inside the room breaches and the Tenno are forced to evacuate into space using their Archwing.
+
+Outside, Jordas's true form is revealed as an Infested monstrosity named Jordas Golem; a fusion of Corpus ship and Infested flesh. With the latter using the former as a mouthpiece, he simultaneously begs for death and taunts the Tenno whilst attacking them with heavy weaponry and Infested reinforcements. The Tenno eventually succeeds in destroying the Jordas Golem by targeting its engines, and as it ceases to function, Jordas thanks the Operator for ending his misery, but not before he informs them that there are more of his kind out there, waiting to be put out of misery just as he himself was.
+
+### The Jordas Verdict
+
+The events that transpired in Jordas Precept eventually led to an elite, high-rank mission dubbed The Jordas Verdict: a cooperative operation to take down more of the Infested monstrosity, to be issued to the most elite of the Tenno warriors in the system.
+
+Finding yet another imprint of Cephalon Jordas in the ship wreckage, the Tenno worked their way through the graveyard of spaceships and infiltrated into the heart of the drifting ship, then by scanning the ship database, determined the most effective way to damage the Golem by detonating the reactor within. While scanning, the Lotus also discovers that by luring unsuspecting ship Cephalons to his vicinity, he makes more of himself by infecting and overwriting them with his own imprint. After his reactor core was destroyed, the Golem ejects the Tenno and then faces the warriors head-on in free space. By damaging Jordas both from inside and outside, the Tenno eventually arose victoriously, and he ceases to function, Jordas once again thanks to the Tenno for ending his misery.
+
+After a long period of continual sortie missions meant to completely exterminate the Jordas Golems (spanning over two real years of the game's lifetime), a moratorium was finally placed on the operation. The motives behind the moratorium remain unclear, but it is presumed that Jordas Golems still exist around Eris, albeit in reduced numbers.
+
+## Trivia
+
+- Cephalon Jordas is voiced by Don Leslie.
+- Jordas received a redesign in an update. His profile now depicts him as a red Cephalon like Cy, and the Infestation growth is more specific. However it does not affect anything in the quest and he still uses his "old", green design in his inbox messages.
+- The name "Jordas" may be in reference to Judas Iscariot and his betrayal of Jesus in the Passion as depicted in the Bible, as the main plot point of The Jordas Precept is Jordas' betrayal of the Tenno.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

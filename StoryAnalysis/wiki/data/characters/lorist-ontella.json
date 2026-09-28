@@ -1,0 +1,26 @@
+{
+ "key": "lorist-ontella",
+ "name": "Lorist Ontella",
+ "page": "Lorist Ontella",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Orokin の Lorist。Wiki にも説明がほとんどない",
+ "wiki": {
+  "title": "Lorist Ontella",
+  "url": "https://wiki.warframe.com/w/Lorist_Ontella",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Lorist Ontella / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [],
+  "sections": []
+ }
+}

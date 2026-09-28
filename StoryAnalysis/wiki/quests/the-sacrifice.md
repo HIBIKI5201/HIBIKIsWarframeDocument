@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # サクリファイス（The Sacrifice）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [背信のプロローグ](apostasy-prologue.md) ・ [争いの序曲](prelude-to-war.md) →
 
 ## 概要
 
@@ -12,7 +12,7 @@ Ballas に連れ去られた Lotus を追ううちに、意志を持ち Ballas �
 
 > 「取り替えられるなら、そうするかね？ もちろんだろう。だがあらゆる奇跡には……犠牲が要る。彼らの命のために……君の命を」（Ballas）
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Sacrifice) / [台詞全文](https://wiki.warframe.com/w/The_Sacrifice/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Sacrifice)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Sacrifice/Transcript) / [全文検索](../../search.html?q=The%20Sacrifice)
 
 ## 基本情報
 
@@ -31,41 +31,18 @@ Ballas に連れ去られた Lotus を追ううちに、意志を持ち Ballas �
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) | 3 | 5 |
-| [Lotus](../../wiki/characters/g01-tenno.md#lotus) | 1 |  |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 118 |
-| [Ballas](../../wiki/characters/g06-orokin.md#ballas) |  | 81 |
-| [Isaah](../../wiki/characters/g06-orokin.md#isaah) |  | 24 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Excalibur/Umbra](../../wiki/characters/g01-tenno.md#excalibur-umbra) |  | 5 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Hunhow](../../wiki/characters/g07-sentient.md#hunhow) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Helminth](../../wiki/characters/g05-infested.md#helminth) |  | 2 |
-| [Margulis](../../wiki/characters/g06-orokin.md#margulis) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Operator](../characters/operator.md) | Tenno | 112 |  |
+| [Ordis](../characters/ordis.md) | Cephalon | 68 | 116 |
+| [Ballas](../characters/ballas.md) | Orokin | 54 | 80 |
+| [Isaah](../characters/isaah.md) | Orokin | 15 | 23 |
+| [Lotus](../characters/lotus.md) | Tenno | 5 |  |
+| [Natah](../characters/natah.md) | Sentient | 3 | 3 |
+| [Excalibur Umbra](../characters/excalibur-umbra.md) | Tenno | 2 | 5 |
+| [Hunhow](../characters/hunhow.md) | Sentient |  | 3 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 去ったばかりの Lotus のかすかな囁きが聞こえ、その声がオービターの個室にある彼女のヘルメットへ Tenno を導く。オペレーターがヘルメットに触れると、Ballas と Sentient の戦闘機に押さえつけられる Warframe の幻が流れ込み、Tenno は地球へ調査に向かう。
 
@@ -83,10 +60,14 @@ Vitruvian を船のメインフレームに取り込むと、Excalibur Umbra を
 
 最後の対決で、Umbra はオペレーターのおかげで Ballas の支配に逆らい、彼の腹を刺し貫く。Lotus の居場所を問い詰めると、空から Sentient の戦闘形態となった Lotus が現れ、Ballas を連れて「母」のもとへ帰っていく。Lotus はもはや、Tenno が愛した母のような存在ではないようだった。
 
-### トリビア
+## トリビア
 
 - TennoCon 2017 で初めて予告され、公式サイトでも予告された。
 - Devstream 110 で公開されたティザーアートの左上には、オロキン文字で「T-H-R-E-E」（three）と綴られていた。サクリファイスが二番目の夢、内なる紛争に続く「3 部作」の最後のシネマティッククエストだとする公式ツイートと関係があるとみられる。その上のラムダのような記号は、11 番目のクエストを表しているのかもしれない。
 - ティザーサイトでルアをクリックすると「ルアはあなたに力を与える」、Ballas の顔をクリックすると「だが創造主には逆らえない」と表示された。
 - Lephantis と Jordas Golem はどちらも「我らはお前の肉体」と言い、Ordis も Helminth Infirmary で Warframe と Infested の関係をほのめかしていた。サクリファイスの何年も前から、Warframe が Infested から作られていることが示唆されていた。
 - 「Vitruvian Ordis」になった Ordis の通信には、Sentinel のような体のシルエットが映っていた。この体は The New War で使われる。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

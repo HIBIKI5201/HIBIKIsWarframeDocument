@@ -1,0 +1,30 @@
+{
+ "key": "koumei-s-shrine",
+ "name": "Koumei's Shrine",
+ "page": "Koumei's Shrine",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Warframe Koumei を祀る祠",
+ "wiki": {
+  "title": "Koumei's Shrine",
+  "url": "https://wiki.warframe.com/w/Koumei's_Shrine",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Koumei's Shrine / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Koumei, what shall be my fate? Adrift in the river of destiny, I will flow with you. Gamble with my life, for I choose to roll the dice. Cast out evil, though I see it is a part of me. To make this choice is my only choice. Koumei, what shall be my fate?”",
+   "> —Ostron Worshipper",
+   "> Koumei's Shrine is an Ostron altar dedicated to the Warframe Koumei. Placed at the entrance of Cetus, the shrine serves as a gateway to the Shrine Defense mission."
+  ],
+  "sections": []
+ }
+}

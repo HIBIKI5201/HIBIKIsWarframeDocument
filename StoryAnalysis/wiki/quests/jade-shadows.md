@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 翡翠の影（Jade Shadows）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [古の同盟](the-old-peace.md) ・ [翡翠の影：星座](jade-shadows-constellations.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Stalker の過去と、Warframe Jade の誕生をめぐる物語
 
 The New War の後、Stalker が自分の過去と、太陽系全体に影響しかねない秘密に向き合うメインクエスト。ソロ専用で、Update 36.0（2024-06-18）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Jade_Shadows) / [台詞全文](https://wiki.warframe.com/w/Jade_Shadows/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Jade_Shadows)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Jade_Shadows/Transcript) / [全文検索](../../search.html?q=Jade%20Shadows)
 
 ## 基本情報
 
@@ -29,40 +29,20 @@ The New War の後、Stalker が自分の過去と、太陽系全体に影響し
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Operator](../../wiki/characters/g01-tenno.md#operator) | 2 |  |
-| [Hunhow](../../wiki/characters/g07-sentient.md#hunhow) |  | 24 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 16 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 14 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 14 |
-| [Shadow Stalker](../../wiki/characters/g08-stalker.md#shadow-stalker) |  | 13 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 9 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Vala Glarios](../../wiki/characters/g04-corpus.md#vala-glarios) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Helminth](../../wiki/characters/g05-infested.md#helminth) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
-| [Little Duck](../../wiki/characters/g19.md#little-duck) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Hunhow](../characters/hunhow.md) | Sentient | 20 | 23 |
+| [Xeto](../characters/xeto.md) | Corpus | 17 |  |
+| [Stalker](../characters/stalker.md) | Stalker | 14 |  |
+| [Operator](../characters/operator.md) | Tenno | 12 |  |
+| [Ordis](../characters/ordis.md) | Cephalon | 10 | 14 |
+| [Corpus Commander](../characters/corpus-commander.md) | Corpus | 5 | 9 |
+| [Vala Glarios](../characters/vala-glarios.md) | Corpus | 1 | 1 |
+| [Shadow Stalker](../characters/shadow-stalker.md) | Stalker |  | 12 |
+| [Corpus Captain](../characters/corpus-captain.md) | Corpus |  | 9 |
+| [Parvos Granum](../characters/parvos-granum.md) | Corpus |  | 3 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 崩壊（The Collapse）の時代、Stalker は Orokin に仕える下級護衛（Low Guardian）だった。守っていた Orokin が Tenno に虐殺されたため、彼は復讐を誓った。やがて Stalker 自身も狙われるようになり、Jade に守られた。
 
@@ -72,7 +52,7 @@ Cortichrome を与えると、Jade が身ごもっていたことがわかり、
 
 Warframe になる前、Stalker は Sorren という名で Jade と恋仲にあり、Orokin の法（legem）で禁じられていたにもかかわらず子をもうけていた。Stalker は子に Sirius か Orion と名付ける。
 
-### トリビア
+## トリビア
 
 - Xeto が射撃をやめさせる場面は、映画「トゥモロー・ワールド（Children of Men）」で、対立する勢力が新生児を目にして戦いをやめ、親子を通す場面へのオマージュ。
 - 名前の候補 Orion と Sirius は、狩人とその忠実な供を表すギリシャ神話の二人。
@@ -83,3 +63,7 @@ Warframe になる前、Stalker は Sorren という名で Jade と恋仲にあ�
 - Excalibur Umbra は姿を見せないが、Stalker がオービターに侵入したとき Ordis が名前を口にする。
 - The Deadlock Protocol や Call of the Tempestarii が前提ではないのに、Xeto は Sisters of Parvos に入りたいと話し、終盤では Vala Glarios も少し喋る（候補者出現時の台詞の流用）。
 - Stalker が戦う Juggernaut Behemoth は、通常の黒と緑ではなく、小型の Juggernaut と同じ灰色に赤い弱点の配色になっている。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

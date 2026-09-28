@@ -1,0 +1,42 @@
+{
+ "key": "fisher-hai-luk",
+ "name": "Fisher Hai-Luk",
+ "page": "Fisher Hai-Luk",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "漁師",
+ "wiki": {
+  "title": "Fisher Hai-Luk",
+  "url": "https://wiki.warframe.com/w/Fisher_Hai-Luk",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Louise Samuels"
+  ],
+  [
+   "Quotes",
+   "Fisher Hai-Luk / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “A bad day fishing's better than a good day working!”",
+   "> —Fisher Hai-Luk",
+   "> Fisher Hai-Luk is a middle-aged Ostron fisher in Cetus, located on the far south of the market just across to the gate to the Plains of Eidolon. Hai-Luk mainly provides Fishing tools, baits and utility, as well as the blueprints which the Tenno can use to craft decorative trophies to showcase their catch. She also sells some of her fishing byproducts for a small sum of Platinum, whose stock changes daily.",
+   "> She also accepts donations of fish found in the plains in exchange for an amount of Ostron Standing depending on their rarity, which she says will be used to feed other starving Ostrons. She also provides a fish cutting service to extract their byproducts, which can be used for many other blueprints that the other vendors in Cetus offer."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Her name is a play on the phrase \"high luck\"."
+    ]
+   ]
+  ]
+ }
+}

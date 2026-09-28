@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 内なる紛争（The War Within）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [二番目の夢](the-second-dream.md) ・ [流転する形勢](rising-tide.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Teshin を追って Kuva 要塞に潜入し、両女王と対決して Void の�
 
 Teshin を追って Grineer の本拠地にたどり着き、両女王と対峙するなかで、Tenno が封じられた記憶と本来の力を取り戻すメインクエスト。Update 19.0（2016-11-11）で追加された。会話の選択肢で「太陽／月」の傾向（Alignment）が決まる仕組みが初めて導入された。傾向は後から変えられず、再プレイしても変わらない。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_War_Within) / [台詞全文](https://wiki.warframe.com/w/The_War_Within/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_War_Within)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_War_Within/Transcript) / [日本語 Wiki「内なる紛争」](https://warframe.fandom.com/ja/wiki/%E5%86%85%E3%81%AA%E3%82%8B%E7%B4%9B%E4%BA%89) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-war-within.md) / [全文検索](../../search.html?q=The%20War%20Within)
 
 ## 基本情報
 
@@ -29,39 +29,18 @@ Teshin を追って Grineer の本拠地にたどり着き、両女王と対峙�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Operator](../../wiki/characters/g01-tenno.md#operator) | 177 |  |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) | 54 | 104 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) | 46 | 70 |
-| [Lotus](../../wiki/characters/g01-tenno.md#lotus) | 36 |  |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 15 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 8 |
-| [Margulis](../../wiki/characters/g06-orokin.md#margulis) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 6 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [The Man in the Wall](../../wiki/characters/g10-void-murmur-zariman.md#the-man-in-the-wall) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Corrupted Vor](../../wiki/characters/g03-grineer.md#corrupted-vor) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Operator](../characters/operator.md) | Tenno | 177 |  |
+| [Teshin](../characters/teshin.md) | Tenno | 54 | 101 |
+| [Ordis](../characters/ordis.md) | Cephalon | 46 | 68 |
+| [Lotus](../characters/lotus.md) | Tenno | 36 |  |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 11 |
+| [Margulis](../characters/margulis.md) | Orokin |  | 6 |
+| [Corrupted Vor](../characters/corrupted-vor.md) | Grineer |  | 2 |
+| [The Man in the Wall](../characters/the-man-in-the-wall.md) | Void・Murmur・Zariman |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 ルアのリザーバーでの異変を受け、Tenno は調査に向かう。実は Teshin が、プレイヤーがかつて自分の体を取り戻したルアの場所に侵入して Tenno をおびき出しており、彼が Grineer の女王たちの二重スパイだったことが明らかになる。真相を追う Tenno は、Teshin が放った Specter を追って無人のはずの小惑星帯へ向かう。警備網を無効化すると、Grineer の本拠地で両女王の住まいである Kuva 要塞が姿を現す。要塞が移動し続けていたため、これまで見つからなかったのだ。
 
@@ -75,8 +54,12 @@ Teshin を追って Grineer の本拠地にたどり着き、両女王と対峙�
 
 幻の山道に戻った Tenno は、女王から奪った Kuva をどうするかを決める。どれを選んでも、謎の人影が心の中で囁き、Void の力を取り戻したことの結末をほのめかす。
 
-### トリビア
+## トリビア
 
 - Update 35.0 でメインクエストのマスタリーランク条件が撤廃されるまで、開始にはマスタリーランク 5 が必要だった。
 - Devstream 83 によると、プレイヤーの 32.5% が太陽、37.5% が月の傾向になり、30% は中立だった。
 - 二番目の夢の最後の Lotus との会話で、すでに内なる紛争がほのめかされている。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

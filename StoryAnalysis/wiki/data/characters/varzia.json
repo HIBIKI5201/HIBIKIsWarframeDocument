@@ -1,0 +1,60 @@
+{
+ "key": "varzia",
+ "name": "Varzia",
+ "page": "Varzia",
+ "group": "Tenno",
+ "group_key": "g01-tenno",
+ "summary": "Varzia Dax。元 Dax の兵士。Maroo's Bazaar で Prime Resurgence を運営",
+ "wiki": {
+  "title": "Varzia",
+  "url": "https://wiki.warframe.com/w/Varzia",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Tenno"
+  ],
+  [
+   "声優",
+   "Gigi Saul Guerrero [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Varzia / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Tenno. Remember me? We never got introduced. Name's Varzia. Former Dax. Was on ice 'til our mutual friend over there popped my pod. Wasn't too happy about waking up with all my friends dead... and a headache bigger than Hunhow's ass hahaha, but a looker as sweet as Maroo... yeah, can help you forget anything. Huh... You're not here for my life story. You're hunting antiquities, right? Primes. I can make that happen. If you bring me Aya.”",
+   "> —Varzia",
+   "> Varzia Dax is a former Dax soldier who now resides in Maroo's Bazaar as a vendor. She runs Prime Resurgence, trading Primed items for Aya and Regal Aya to the Tenno, with her shop cycling on a monthly basis."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### Erra (Quest)",
+     "",
+     "Varzia was a surviving Dax soldier of a Sentient invasion on Lua during The Old War, shown trying to avoid falling structure in a cave under Lua. She had an encounter with the humanoid Sentient Erra, who tried to finish her off by crushing her head with his bare hands. Natah, Erra's sister, as the Lotus at the time, arrived in the cave, accompanied by a group of Operators, and ordered Erra to let go of Varzia. Erra was horrified to see his sister viewing him as an enemy, blaming the Tenno for making her turn against her family, but he, nonetheless, let go of the Dax soldier. The Tenno defeated Erra, and Varzia was saved. Her helmet was damaged in the process.",
+     "",
+     "### Current Warframe Era",
+     "",
+     "After the end of The Old War and the fall of the Orokin, Varzia got tired of combat and has chosen to use her familiarity with Orokin technology to reinforce Tenno Arsenals, and is residing in Maroo's Bazaar as a vendor."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Varzia Dax appears to be canonically bisexual, making flirtatious comments about both Teshin and Maroo.",
+     "- She is the only Dax known to still be alive in the Sol system.",
+     "- Varzia replaces Teshin’s inbox messages when a player receives Twitch drop rewards.",
+     "- Background music tracks from Prime Access reveals/trailers plays while in her browse menu, playing randomly."
+    ]
+   ]
+  ]
+ }
+}

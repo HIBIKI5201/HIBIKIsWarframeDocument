@@ -277,6 +277,17 @@ def page_body(page: dict, page_html: str) -> list[str]:
     return out
 
 
+def site_pages() -> dict[str, tuple[str, str, str]]:
+    """このサイトのキャラクター・クエストのページ（render_wiki.py が作る）。{英語名: (種類, 名前, パス)}"""
+    out = {}
+    for kind, label in (("characters", "キャラクターのページ"), ("quests", "クエストのページ")):
+        for f in sorted((ROOT / "wiki" / "data" / kind).glob("*.json")):
+            r = json.loads(f.read_text(encoding="utf-8"))
+            for n in (r["name"], r["page"]):
+                out.setdefault(n.lower(), (label, r.get("ja") or r["name"], f"wiki/{kind}/{r['key']}.md"))
+    return out
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--refresh", action="store_true", help="Wiki から取り直す")
@@ -294,6 +305,9 @@ def main() -> None:
         if not name or name in names.values():
             name = f"p{pid}"
         names[pid] = name
+        if t:
+            t["local"] = f"pages/{name}.md"
+    site = site_pages()
 
     if OUT.exists():
         for f in OUT.rglob("*.md"):
@@ -304,11 +318,15 @@ def main() -> None:
         body = page_body(p, parse_html(pid, p["revid"]))
         t = term_by_page.get(p["title"])
         en = f"（{t['en'][0]}）" if t and t["en"] and t["en"][0] != p["title"] else ""
+        own = next((site[e.lower()] for e in (t["en"] if t else []) if e.lower() in site), None)
         lines = [HEADER, f"# {p['title']}{en}", "",
                  f"> 出典: [Warframe日本語 Wiki「{p['title']}」]({page_url(p['title'])})"
                  f"（[履歴]({page_url(p['title'])}?action=history)、最終更新 {p['timestamp'][:10]}）。"
                  f"ライセンス: [CC BY-SA 3.0]({LICENSE_URL})。Markdown に変換し、攻略向けの節を省いた。", "",
-                 "> コミュニティが書いた記事で、ゲームの最新の内容や公式の日本語訳と違うことがある。", ""] + body
+                 "> コミュニティが書いた記事で、ゲームの最新の内容や公式の日本語訳と違うことがある。", ""]
+        if own:
+            lines += [f"このサイトの{own[0]}: [{own[1]}](../../{own[2]})（英語版 Wiki を元にした最新の情報）", ""]
+        lines += body
         write(OUT / "pages" / f"{names[pid]}.md", lines)
         group = next((c for c in ("クエスト", "キャラクター", "勢力") if c in p["categories"]), "その他")
         if group == "その他" and "Characters" in p["categories"]:

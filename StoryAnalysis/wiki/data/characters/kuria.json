@@ -1,0 +1,21 @@
+{
+ "key": "kuria",
+ "name": "Olemedi",
+ "page": "Kuria",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Kuria の Trivia に出てくる（Kuria のページにリンク）",
+ "wiki": {
+  "title": "Kuria",
+  "url": "https://wiki.warframe.com/w/Kuria",
+  "exists": true
+ },
+ "link_only": true,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": null,
+  "summary": [],
+  "sections": []
+ }
+}

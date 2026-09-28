@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 銀の果樹園（The Silver Grove）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › Warframe 入手クエスト ・ ← [Revenantの仮面](mask-of-the-revenant.md) ・ [ウェーブライダー](the-waverider.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Archimedean Silvana の伝説と Titania を追う
 
 New Loka に頼まれて Grineer の侵攻から聖なる森を守るが、森の本当の姿と向き合うことになるサイドクエスト。Update: The Silver Grove（2016-08-19）で追加された。Tenno は New Loka とともに、地球に眠る古代の謎の力を探る。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Silver_Grove) / [台詞全文](https://wiki.warframe.com/w/The_Silver_Grove/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Silver_Grove)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Silver_Grove/Transcript) / [日本語 Wiki「銀の果樹園」](https://warframe.fandom.com/ja/wiki/%E9%8A%80%E3%81%AE%E6%9E%9C%E6%A8%B9%E5%9C%92) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-silver-grove.md) / [全文検索](../../search.html?q=The%20Silver%20Grove)
 
 ## 基本情報
 
@@ -27,32 +27,16 @@ New Loka に頼まれて Grineer の侵攻から聖なる森を守るが、森�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Amaryn](../../wiki/characters/g14.md#amaryn) |  | 39 |
-| [Silvana](../../wiki/characters/g06-orokin.md#silvana) |  | 36 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 14 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 8 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Margulis](../../wiki/characters/g06-orokin.md#margulis) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Archimedean](../../wiki/characters/g20.md#archimedean-perintol) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Ballas](../../wiki/characters/g06-orokin.md#ballas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Amaryn](../characters/amaryn.md) | シンジケートの顔役 | 35 | 38 |
+| [Silvana](../characters/silvana.md) | Orokin | 30 | 35 |
+| [Ordis](../characters/ordis.md) | Cephalon | 8 | 12 |
+| [Lotus](../characters/lotus.md) | Tenno | 1 |  |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 4 |
+| [Margulis](../characters/margulis.md) | Orokin |  | 3 |
+| [Archimedean Perintol](../characters/archimedean.md) | 名前だけ出てくる人物 |  | 2 |
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

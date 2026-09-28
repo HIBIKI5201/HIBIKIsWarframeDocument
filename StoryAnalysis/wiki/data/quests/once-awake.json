@@ -1,0 +1,89 @@
+{
+ "key": "once-awake",
+ "name": "Once Awake",
+ "page": "Once Awake",
+ "ja": "博士の計略",
+ "group": "メインストーリー",
+ "summary": "Grineer と Corpus の争いに関わる初期のクエスト",
+ "wiki": {
+  "title": "Once Awake",
+  "url": "https://wiki.warframe.com/w/Once_Awake",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Once_Awake/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 15.2 (2014-11-13)"
+  ],
+  [
+   "種類",
+   "Main Quest"
+  ],
+  [
+   "条件",
+   "Mercury Junction"
+  ],
+  [
+   "報酬",
+   "Molten Impact / Heat Sword Blueprint"
+  ],
+  [
+   "台詞全文",
+   "Once Awake / Transcript"
+  ],
+  [
+   "前のクエスト",
+   "Vox Solaris"
+  ],
+  [
+   "次のクエスト",
+   "Heart of Deimos"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "lotus",
+   14,
+   0
+  ],
+  [
+   "ordis",
+   3,
+   3
+  ],
+  [
+   "grineer-queens",
+   0,
+   15
+  ],
+  [
+   "dr-tengus",
+   0,
+   8
+  ],
+  [
+   "solaris-united-agent",
+   0,
+   2
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Infested という勢力と、スパイ・防衛ミッションを新人プレイヤーに紹介するメインクエスト。"
+  ],
+  "sections": [
+   [
+    "あらすじ",
+    [
+     "Grineer の医師 Dr. Tengus が何らかの生物兵器を研究しており、プレイヤーはその調査を命じられる。調べるうちに、それが Old War を生き延びた Infested の株だとわかる。実験室での失敗から Infested が隔離を破り、水星の Grineer の前哨基地や艦を侵食した。太陽系全体に広がる危険があるため、Lotus は駆除を命じる。プレイヤーは Void エネルギーを込めた Cascade Bomb で感染源の根絶に成功する。ただし Dr. Tengus の研究は続いており、今後の感染拡大の恐れは消えていない。"
+    ]
+   ]
+  ]
+ }
+}

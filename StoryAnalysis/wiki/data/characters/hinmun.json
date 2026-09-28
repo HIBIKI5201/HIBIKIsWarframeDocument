@@ -1,0 +1,34 @@
+{
+ "key": "hinmun",
+ "name": "Hinmun",
+ "page": "Hinmun",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Konzu の叔父の商人",
+ "wiki": {
+  "title": "Hinmun",
+  "url": "https://wiki.warframe.com/w/Hinmun",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “We are death. Leave us, and do not look back”",
+   "> —Hinmun's voice, heard orbiting Eris",
+   "> Hinmun was an Ostron trader and the uncle of Konzu."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "Decades ago, Hinmun sold minerals aboard a well-known market that orbited Eris. However, the market was broadsided by a large Infested boil, causing the Infestation to quickly spread throughout the market. Instead of abandoning the market and risking taking it with them, Hinmun and the rest of the passengers turned off life support and discharged the empty escape pods.",
+     "",
+     "The writhing derelict of the market still orbits Eris till this day, and Hinmun's voice can be heard repeating one single warning,\"We are death. Leave us, and do not look back.\""
+    ]
+   ]
+  ]
+ }
+}

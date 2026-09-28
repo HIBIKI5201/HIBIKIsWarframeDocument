@@ -1,0 +1,67 @@
+{
+ "key": "isaah",
+ "name": "Isaah",
+ "page": "Isaah",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "The Sacrifice に登場する Dax の兵士",
+ "wiki": {
+  "title": "Isaah",
+  "url": "https://wiki.warframe.com/w/Isaah",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Orokin"
+  ],
+  [
+   "First Appearance",
+   "The Sacrifice"
+  ],
+  [
+   "声優",
+   "Joshua Story"
+  ],
+  [
+   "Quotes",
+   "Isaah / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-sacrifice",
+   15,
+   23
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Father, do you remember your Shawzin? Remember how you'd sing to us 'Smiles from Juran'?”",
+   "> —Isaah",
+   "> Isaah was a Dax soldier seen in The Sacrifice, and is the son of the Dax warrior who would become Excalibur Umbra."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The Sacrifice",
+     "",
+     "During the events of the quest, Isaah is seen during the Operator's forays into Umbra's memories. With his father having been afflicted with a debilitating illness, Isaah stands guard to watch over him along with Ballas. Isaah talks to his father about various things, such as his father's various accomplishments, which Isaah holds in high regard, to the point of wanting to follow in his father's footsteps.",
+     "",
+     "Isaah is ultimately killed by his own father after the latter has been driven mad by the Infestation Ballas had injected him with under the guise of \"treatment\"."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Isaah is voiced by Joshua Story.",
+     "- As a Dax, Isaah wears the Hawk Bishamo Armor Set.",
+     "- Following completion of the Sacrifice quest, if the player encounters The Man in The Wall, they will ask the Operator if they are \"feeling better, kiddo?\" The Operator responds \"I killed him... Isaah.\" After confirming that that is how the Operator remembers it, the Man in The Wall acknowledges that he likes it and vanishes."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "key": "mer-sah",
+ "name": "Mer-Sah",
+ "page": "Mer-Sah",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Ostron の民話の人物",
+ "wiki": {
+  "title": "Mer-Sah",
+  "url": "https://wiki.warframe.com/w/Mer-Sah",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Mer-Sah / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Mer-Sah stepped into his midnight ocean, falling down into it. The deeper he sank, the larger he became. This is how the oceans of Er came to be the home of the thousand-year fish: legendary, vast, reclusive, the rare sight of which changes men. One of the great ancient spirits of Er.”",
+   "> —Onkko, Cetus Archivist",
+   "> Mer-Sah is a prominent figure in Ostron folklore and legend."
+  ],
+  "sections": []
+ }
+}

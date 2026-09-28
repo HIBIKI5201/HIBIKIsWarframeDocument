@@ -1,0 +1,227 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Executor Nitokh
+
+[キャラクター一覧](../../characters.md) › [Orokin](g06-orokin.md) ・ ← [Executor Karishh](executor-karishh.md) ・ [Executor Scarne](executor-scarne.md) →
+
+## 概要
+
+The Seven の一員。Roathe の愛人
+
+> Grand Regent Executor Nitokh was an Orokin Executor and member of The Seven, as well as the mistress of Roathe, who plotted to seize control of the Orokin Empire by killing the other Orokin. She was the Empire's supreme military commander and led the warmonger faction among the Seven.
+
+- グループ: [Orokin](g06-orokin.md)
+- 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Executor_Nitokh)（英語・出典） / [全文検索](../../search.html?q=Executor%20Nitokh)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Orokin Anarchs |
+| Quotes | Executor Nitokh / Quotes |
+| Alias(es) | Grand Regent Executor Nitokh / Blood Queen |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [古の同盟](../quests/the-old-peace.md) |  | 2 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore & History
+
+> “VM: NITOKH
+
+> Transcript: Her madness was seductive because it was obvious.
+
+> One always knew where one stood with her - right on the precipice of the great abyss.
+
+> Leap in, her eyes said to me, gleaming with the joy of some colossal cosmic joke.
+
+> Through her demented visions I could escape the long, bleak stagnation of Orokin existence.
+
+> All our senses had been glutted to numbness centuries ago. Yet she was still, in her way, fresh.
+
+> Eternal. Limitless in her hunger. She summoned me to her bath one evening. I strode across the mingling puddles of perfumed water and blood and stood dutifully to attention.
+
+> “I’m bored, Roathe. Let’s kill all the other Orokin and take over.”” —Roathe
+
+### The Old Peace
+
+Executor Nitokh was said to have been supporting and supplying the Anarchs to break the peace treaty between the Orokin and Sentient.
+
+### Kinemantik Instant Messenger
+
+Main article: Kinemantik Instant Messenger/Roathe
+
+According to Roathe, she was the worst of the Orokin Executors by rather large margin (Surpassing even Ballas) due to the destruction she would cause on a whim - she was nicknamed "The Blood Queen", with Roathe describing her as mad and demented. It is revealed by Roathe that she decided one day to betray/slaughter all the other Orokin and take over the empire along with him simply because she was "bored".
+
+She was also far more abusive to him than Ballas was to Margulis, with Roathe calling their relationship outright harmful and venomous - one particular thing he mentions is that Nitokh would order Roathe to her bed simply because she was higher in the Orokin hierarchy, something Ballas never did to Margulis in particular, even if he could have anyone else aside from her.
+
+Since there are no records about her whereabouts after the fall of the Orokin Empire, Roathe has expressed some level of curiosity and wariness in regards of how her story ended, if it ended at all. Because of this, he warns The Drifter that, if she is still alive, they might find themselves praying that Ballas returns instead.
+
+### Archimedean Records
+
+This section is transcluded from Garuda/Main § Lore. To change it, please edit the transcluded page.
+
+Garuda's lore can be found across several tablets, located in Pontis Tower after completing Jade Shadows: Constellations.
+
+- Tablet 1: On the windowsill near Vena.
+- Tablet 2: On the barrel just after entering the Marrowbone's dry dock area.
+- Tablet 3: Behind the Vasca Kavat sitting on a crate on the dry dock.
+- Tablet 4: Near the ceiling, behind the teleporter after going through it.
+
+View Archimedean Records List▾▾
+
+Archimedean Record 1/4 ▾▾
+
+> “The air in the atrium was soaked in scent, a drowsy, giddying lilac.
+
+> Servants worked with panicky haste to deck the columns with feather-bursts; gold, purple, crimson, like festive wreaths. Little beaked skulls formed the centre of each.
+
+> Sweat-pearled women ripped the plumage from Voscrix after Voscrix and tossed them, struggling and shrieking, into golden wirework bins.
+
+> "You are the Archimedean she sent for?"
+
+> The speaker was Orokin, a lean-smiling jackal of a man who strode across the mirrored flags as if he were floating above them.
+
+> "I am, sir."
+
+> He looked me up and down. "Former Lorist aide, I believe. Extensive combat experience. Scraped our troops back together at significant personal risk. No stranger to carnage... well, that'll help you keep your head in this place. The Executor has a certain reputation."
+
+> "I'm aware."
+
+> He glanced over at the squirming, plucked birds. Eyes maddened by pain goggled back at him.
+
+> "What do you think of today's whimsy? Be honest."
+
+> I hesitated. "It seems like a waste."
+
+> The Orokin cocked his head and pursed his lips, and at once I regretted my asinine comment.
+
+> "And I thought Archimedeans were schooled in aesthetics alongside cold science," he sighed. "Do you mean to tell me the delicious irony is lost on you?"
+
+> "Perhaps you could explain it," I answered, hoping my crude appeal to his vanity would pay off.
+
+> He gestured with a languid, taloned hand. "Birds are her current obsession. The tail of the cock-Voscrix is a mating display, one of the most spectacular in nature, and she has ripped them out and discarded the bird itself. Do you see?"
+
+> "I think so. They expect to mate and die, but live in agony instead."
+
+> He saw me, then, for the first time.
+
+> He reached into the folds of his leminya and withdrew a blackly iridescent phial.
+
+> "Pinch of Ophilum? It eases the nerves."
+
+> I declined. My senses were swimming already. I did not dare face the Executor with my mind addled.
+
+> He shrugged. "As you wish. Await her by the pool and study what you find there. A word of advice? Whatever requests she makes of you, however impossible or repugnant they may seem, swear to grant them. She is not accustomed to being refused."”
+
+Archimedean Record 2/4 ▾▾
+
+> “The carving was an ancient one, held in a null-field to keep it from collapsing into sour dust. I studied the bulging eyes, the claws, the colourful paint on the wooden feathers still gleaming vividly after who knows how many centuries. It must have been a god, or a demon.
+
+> "Garuda."
+
+> A voice of milk and venom. She was behind me. Her hand settled on my shoulder and I fought the urge to shrug it off.
+
+> "A relic of old Earth," I guessed.
+
+> "A purer time. How imaginations must have soared, when we were still confined to that one orb. I sometimes wish I had lived then."
+
+> She gripped my shoulders and roughly turned me around to face her. I tensed involuntarily at the sight of those eyes, that mouth.
+
+> She must have felt my shoulders stiffen, for she let out a giggle and spun me around again and again on the spot until I was giddy and reeling.
+
+> I fought to stay upright. Thank the Void, I did not lurch into her body. If I had accepted the Ophilum...
+
+> She clapped her mismatched hands together. "I want a Warframe," she said. "You are going to make one for me, Archimedean."
+
+> I swallowed. My throat seemed full of little dry bones.
+
+> "The process... You must be aware, Executor, that Warframes are created from human subjects?"
+
+> "Well, of course I am aware of that," she said smoothly. "You are very rude."
+
+> "I... I meant no..."
+
+> "To call him, my own consort, a 'subject'! I should have you flayed and tossed in splintered glass." She yawned. "Perhaps later."
+
+> Two expressionless Dax were striding towards me. I immediately braced myself to fight, thinking they were coming to drag me to the cells, but forced myself to stay calm. I was here for a purpose. I had a use. She would not discard me yet.
+
+> The Executor spread her arms out like wings. "Witness him! Garuda, king of birds, prey-ripping prince! My consort is to be my Garuda. I want him clawed, gore-thirsty, proud in his plumage! You can deliver him for me, lovely Archimedean. You can do this. Yes?"
+
+> "Yes," I croaked. I struggled to cough the words out and they came all at once, like a pellet. "But he will not be himself! The Warframes are beset by madness, all of them. Perhaps, if I deliberately impede the neuroptics, I may be able to temper it in the forge..."
+
+> She gripped me by the throat.
+
+> "You will do no such thing," she breathed, and I felt the hot stink of her, charnel and close. "The madness is the best part."”
+
+Archimedean Record 3/4 ▾▾
+
+> “The two Dax remained outside the laboratories, courteously guarding against any disturbance.
+
+> Within, I brewed Helminth cultures and prepared technocyte infusions according to the Ainikki method. I had heard of Executor Ballas's subtle innovations, but since he had not shared them with the Collegium I had no access to them.
+
+> I had no visitors other than the Executor's consort, who would arrive, collect my reports, talk of unimportant issues, and leave. If he knew what I was working on, he gave no sign. Either he was indifferent, or ignorant, or a supreme play-actor.
+
+> My ghastly creation, 'Garuda', took shape in the rendering solution. A few drops on the predictive lens, commingled with the samples of the consort's own blood that the Executor had provided, allowed the device to model what manner of entity would ultimately result. Tall, regal, hideous.
+
+> The Executor would be pleased. I had no doubt of that. Her consort would become a sleek, scarlet death-bird, clawed with repurposed ulna, a fit assassin for the gore-queen.
+
+> And then? Did she mean to keep him as a freakish pet? Did she aspire to be butchered by him as the climax of some depraved courtship, before sliding her ego into a fresh and prepared Yuvan?
+
+> What use would I be to her, once the project was complete?
+
+> I thought of her birds, plucked, ruined, struggling. Still alive.”
+
+Archimedean Record 4/4 ▾▾
+
+> “I am losing my voice. Soon I will be unable to utter more than a harsh scream. The transformation is well underway. It will be impossible to hide it for long.
+
+> The consort suspects. I know this. But he will not betray me.
+
+> I have delivered him from a grotesque fate. He would have been like the birds, mutilated, undying. I cannot know if I have merely saved him for something worse. But this way, he has a chance.
+
+> When the day of my hatching comes, I pray he is far away.
+
+> For nine days I have been injecting myself with the Garuda serum. The Dax guards believe I am engaged in especially dangerous work and must not be disturbed.
+
+> I have sealed up the inner doors of the chamber with chymical burners. It is well. By the time they break in upon me, the transformation should be complete.
+
+> There is no regret. I was a condemned woman from the moment I arrived. My only freedom is to secure my own execution.
+
+> The agony is exquisite. Marching ants inch through my veins. My skin blisters and sloughs off in plasticated scrolls.
+
+> The madness is not so bad. There is a fierce joy to it. I shed a humanity I never truly prized.
+
+> I have been used all my life. Caged by these proud golden birds. But in accepting this bitter blessing, I will finally fly free. What do I care if my freedom lasts no longer than the dawn? I shall know it, taste it, in all its fleeting reality.
+
+> I am no Orokin. I will not leave them tormented and twisting, beaks gaping, gasping and screaming. I will bring decisive death. Swift and sweet. Final.
+
+> The Executor will have her assassin, but not the one she imagined. They will break down the door, Garuda will unfurl her claws, and the crimson thirst, oh, it shall be legendary. I shall stride through her hall clotted with gore and feathers.
+
+> I wonder how many I will slaughter before they take me down.
+
+> I wonder if one of them will be her.
+
+> The Executor wanted blood. And she shall have it.”
+
+Purely on a whim, one of the Orokin Executors (implied to be Nitokh) tasked an unnamed female Archimedean with the creation of Garuda, based on an ancient depiction of either a god or demon from the "old Earth" before the Orokin, using the Executor's own consort (likely Roathe). The Archimedean then went about creating the Warframe strain, using the Ainikki Method as Ballas never shared his innovations, and also a sample of blood from the intended subject; the technology she had would simulate what a Warframe would look like before the transformation was started.
+
+Eventually the Archimedean realized that when the process was complete and the Executor would have her Warframe, she would have been likely painfully discarded like the Voscrix birds that the Executor uses for decorations: plucked for her knowledge, then left to writhe in pain for years to come. She decided, instead, to inject herself with the Garuda strain and become the Warframe. She would shed her humanity and secure the Executor's death through the Warframe, and the eventual execution that would come from denying the Executor her Warframe. She even hoped that by transforming, by becoming Garuda and tearing through the Orokin halls, she might even kill the Executor and leave no one else alive to bring her back.
+
+## Trivia
+
+A line painting of Nitokh can be seen in Follie's Hunt. Her crumbled statue can also be seen in the Update 42.0 (2026-03-25) remastered Awakening quest.
+
+  - Operation: Atramentum sells a Decoration featuring Nitokh's statue.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

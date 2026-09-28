@@ -1,0 +1,47 @@
+{
+ "key": "ollie",
+ "name": "Ollie",
+ "page": "Ollie",
+ "group": "1999（Höllvania）",
+ "group_key": "g11-1999-h-llvania",
+ "summary": "アーケードゲーム Ollie's Crash Course の主人公",
+ "wiki": {
+  "title": "Ollie",
+  "url": "https://wiki.warframe.com/w/Ollie",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "James Conlin [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Ollie / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-hex",
+   2,
+   2
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “\"You can't handle the heat!\"”",
+   "> —Ollie",
+   "> Ollie is the titular character of Ollie's Crash Course, an arcade game located within Höllvania Central Mall. He is heard responding to Arthur during 1999."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Ollie is played by James Conlin, who made his voice acting debut with Warframe via the Make-A-Wish program. James was present at TennoCon 2024 and was able to hear his voice alongside his fellow Tenno."
+    ]
+   ]
+  ]
+ }
+}

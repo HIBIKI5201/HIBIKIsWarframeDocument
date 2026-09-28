@@ -1,0 +1,57 @@
+{
+ "key": "palladino",
+ "name": "Palladino",
+ "page": "Palladino",
+ "group": "シンジケートの顔役",
+ "group_key": "g14",
+ "summary": "Red Veil のメンバー。Chains of Harrow に登場",
+ "wiki": {
+  "title": "Palladino",
+  "url": "https://wiki.warframe.com/w/Palladino",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Red Veil"
+  ],
+  [
+   "声優",
+   "Lori Caulfield"
+  ],
+  [
+   "Quotes",
+   "Palladino / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Holy Speaker of the Veil"
+  ]
+ ],
+ "quests": [
+  [
+   "chains-of-harrow",
+   42,
+   51
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “I am Palladino. Holy speaker of the Veil, like my mother, and hers before... We speak to the other side, to him. Without his focus, I pray... I pray he answers.”",
+   "> —Palladino during Chains of Harrow",
+   "> Palladino is a member of the Red Veil syndicate, appearing during the Chains of Harrow quest. She serves as a ritualistic speaker for Rell, a cast-out Tenno who sealed himself away.",
+   "> Following the events of Chains of Harrow, she resides in Iron Wake where she performs her ritualistic duties under the protection of the Steel Meridian. She sells Rell's Donda, an Orbiter decoration for 25, and Rell's Emotiles for 5 Riven Sliver each. She can also trade Riven Slivers for two Riven Mods, Endo, Credits, Requiem Relics, Veiled Riven Cipher, Riven Transmuter, and Kuva weekly."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Palladino's name may be based on the Italian word paladino, meaning paladin.",
+     "- Unlike other NPCs who interact differently with Warframes whom they have special relationships with (such as Baro Ki'Teer with Inaros, Roky with Yareli and Quinn with Gyre), Palladino has no special interactions whenever she is visited by the Operator/Drifter in Harrow's form, possibly because she knows Rell no longer inhabits the vessel."
+    ]
+   ]
+  ]
+ }
+}

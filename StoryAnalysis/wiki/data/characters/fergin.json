@@ -1,0 +1,31 @@
+{
+ "key": "fergin",
+ "name": "Fergin",
+ "page": "Fergin",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Lonesome Outlook の端に komi 台が残る",
+ "wiki": {
+  "title": "Fergin",
+  "url": "https://wiki.warframe.com/w/Fergin",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Fergin / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “'You ever do requests? You do? Go to the edge and jump!' That's what he'd say. Every day.”",
+   "> —Pip, describing his brother",
+   "> Fergin was a resident of Duviri. His komi table can be found on the edge of Lonesome Outlook.",
+   "> Fergin is the brother of Pip, a shawzinist in Duviri. He would often ridicule his brother's shawzin playing, stating that komi was superior. However, Fergin mysteriously went missing one day, and never came back."
+  ],
+  "sections": []
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "key": "sprodling",
+ "name": "Sprodling",
+ "page": "Sprodling",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Deepmines にいる小さなキノコ",
+ "wiki": {
+  "title": "Sprodling",
+  "url": "https://wiki.warframe.com/w/Sprodling",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Update 40.0 (2025-10-15)"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> For Nokko's Sprodling form, see Nokko/Abilities/Passive.",
+   "> “Good as the day they sprouted. Bounce on little ones.”",
+   "> —Nightcap",
+   "> Sprodlings are tiny baby mushrooms that inhabit the Deepmines beneath the Orb Vallis and Nightcap's base of operations in The Airlock of Fortuna. They are also sometimes featured as objectives in Deepmines Bounties and can generally be heard as part of Deepmines Bounty progression and completion sound effects."
+  ],
+  "sections": [
+   [
+    "Appearance",
+    [
+     "Sprodlings are small, squishy mushrooms with tiny appendages and an overall resemblance in color to Nokko. They are curious and carefree creatures who enjoy bouncing around their environment, but can also be spotted dancing or lazing about. They make squishing noises when they jump off the ground and land, and can often be heard singing happily."
+    ]
+   ],
+   [
+    "Lore",
+    [
+     "[PH] Any lore summary if applicable."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- During development, the Sprodlings were internally referred to as \"Nokko babies\" or \"Tiny Nokko\" before they were given an official name, and had become an inside meme between the developers.",
+     "",
+     "To the right of the Fortuna main elevator near Eudico, there is a lone Sprodling in an open cart that serves as an alternative to access Deepmines Bounties without having to go to Nightcap directly. This only appears once Nightcap is interacted with at least once.",
+     "",
+     "  - Declining the Sprodling's Bounties triggers one of Nightcap's dialogues.",
+     "- Nokko (and by extension, the Sprodlings) is the first Warframe to vocalize his own name; As a Sprodling, he sings \"Nokko Nokko Nokko!\"",
+     "- The Sprodling Ephemera can be bought from the Market for 95, or as part of the Nokko Bundle for 815. This summons three Sprodlings that bounce and follow the player character, with their appearance changes according to the assigned Warframe's colors."
+    ]
+   ]
+  ]
+ }
+}

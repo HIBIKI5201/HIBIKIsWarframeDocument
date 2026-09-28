@@ -1,0 +1,31 @@
+{
+ "key": "mother-opa",
+ "name": "Mother Opa",
+ "page": "Mother Opa",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "商人姉妹 Calaventi の一員",
+ "wiki": {
+  "title": "Mother Opa",
+  "url": "https://wiki.warframe.com/w/Mother_Opa",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Mother Opa / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Mother Opa of the Calaventi",
+   "> As bitter as her wine was sweet” —Mother Opa's tombstone epitaph",
+   "> Mother Opa was a member of the Calaventi merchant sisterhood of Duviri.",
+   "> The Calaventi sisterhood had villas on the Island of Manipura. There their tenant farmers grew grapes and turned them into wine, which was taken as tribute to be shared among the Dax. Thinking themselves reflections of the 'true' Orokin, they held no respect for Dominus Thrax. Their servants eventually alerted the king to their masters' insolence."
+  ],
+  "sections": []
+ }
+}

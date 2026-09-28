@@ -1,0 +1,100 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Nora Night
+
+[キャラクター一覧](../../characters.md) › [中立](g13.md) ・ ← [Neewa](neewa.md) ・ [Arcane Machine](arcane-machine.md) →
+
+## 概要
+
+海賊ラジオ Nightwave の声
+
+> “If nothing saves us from death, may love at least save us from life.”
+> —Nora Night
+> Nora Night is a mysterious character who acts as the voice of the pirate radio station Nightwave. Her broadcasts can be heard at random on the Orbiter's Radio Scanner.
+
+- グループ: [中立](g13.md)
+- 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nora_Night)（英語・出典） / [全文検索](../../search.html?q=Nora%20Night)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 声優 | Sheryl Mebane |
+| Quotes | Nora Night / Quotes |
+| Alias(es) | Nora / Naughty Nora (by Nihil ) |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [新たな大戦](../quests/the-new-war.md) | 3 | 5 |
+| [ベールブレイカー](../quests/veilbreaker.md) |  | 2 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore & History
+
+### General
+
+Little is known about Nora's history or background, but as the host of Nightwave, Nora has access to stories and events across the Origin System. It is implied that she travels around in her ship, the Nightwave, which may be how she has first-hand knowledge of current events. She is aware of the existence of the Tenno, calling them "Dreamers"; whether or not this is in reference to the true nature behind the Warframes is unknown. She is, however, aligned with their cause, sympathizing the Tenno's efforts to bring balance and justice to the Origin System. She states that she doesn't have a radio line, most likely because it may compromise her position and allow the Corpus and Grineer to more easily find her.
+
+Nora also appears to have knowledge of the Orokin and their judiciary system. As a child, her grandmother would often tell tales of how the Glassmaker, Nihil, would vitrify her and put her in a bottle.
+
+### The Wolf of Saturn-Six
+
+Main article: Nightwave/Series 1
+
+### The Emissary of Eris
+
+Main article: Nightwave/Series 2
+
+### The Glassmaker
+
+Main article: Nightwave/Series 3
+
+In the final episode of Nightwave Series 3, she was glassed by Nihil himself after helping the Tenno find the Glassmaker. Her consciousness was trapped in the Memory Weave until the Tenno defeated Nihil in combat, freeing her and other glassed victims from eternal prison. Nora Night delivered the oubliette containing the Glassmaker to the Tenno, entrusting them to ensure the Glassmaker is never set loose again.
+
+### The New War
+
+Main article: The New War
+
+Nora managed to evade Narmer for some time, broadcasting messages of endurance and hope to those few who remained free. Nora eventually learned of a lone agent harrying and resisting Narmer like the Tenno once would have. Dubbing this individual "the Drifter", Nora broadcast their successes to the rest of the Origin System, such as the destruction of the Veil factories and the defeat of the Archons.
+
+### Transcripts of Unauthorized Broadcasts
+
+In the leadup to TennoCon 2023, Nora, during a slow and uneventful night, finally decides to open her own call line, conversing with three unknown callers over the course of three days.
+
+#### Transmission Origin: [DATA CORRUPTED] / Time Since Intercept - 43 Hours
+
+The first caller is Latrox Une, calling from the Infested moon of Deimos. During the call, Latrox explains his purpose on the moon, and how he was employed by the Entrati to study its ecosystem by harvesting and collecting Infested samples. He then confesses that Deimos has almost 'changed' in a way; the capillaries are pumping blood faster than normal, and the local flora appears to be dull and discolored, almost as if the Infestation is scared of something and is attempting to be less noticeable. Additionally, Latrox says that an incessant knocking sound has been keeping him up. Nora takes an interest in this, and asks Latrox to send her all of his data.
+
+#### Transmission Origin: [UNKNOWN VARIABLE] / Time Since Intercept - 21 Hours
+
+The second caller is a Dr. Fidelia "Delia" Scorse, presumably calling from Mars. The doctor treats a small mining colony, small enough that it hasn't been noticed by the Grineer. She states that she received a patient with damaged fingernails, which appeared to be caused by repeated stress instead of weak keratin. The patient also had a big grin on his face, saying that he never felt better, and that he needed to get back to work immediately. More patients began arriving, all with bruised hands and broken fingers, and suffering from insomnia, dehydration, malnutrition, and extreme exhaustion.
+
+Then all of a sudden, patients stopped arriving completely. Fidelia says that when she went down into the mine, she saw the entire colony digging in a twisting direction with just their hands, and all had wide grins on their faces. When she asked what they were doing, the miners merely stated that they were just digging. The doctor then confessed that, earlier in the morning before making the call, she loaded the entire shaft with explosives, accidentally killing three colonists in the process. She states that the rest of the colonists are referring to it as just another accident. After hearing Latrox's call, Fidelia then theorizes that the colonist weren't digging to reach something underground, but to reach something on the other side of the planet, stating that they were attempting to reach Deimos by digging straight through Mars.
+
+#### Transmission Origin: [CRITICAL ERROR] / Time Since Intercept - 9 Hours
+
+The third caller is the Entrati servant, Loid (wishing to remain anonymous, he instead uses the name "Bones".) He states that something not intended to happen to his kind has occurred, and that he feels compelled to share it, but doesn't know who to share it with. Loid then reveals that his partner, presumably Otak, has abruptly gone missing, and that he is now alone. Nora attempts to console Loid, asking if there is anyone he can ask for help. Loid then realizes that they both know someone capable of dealing with the unknown, and states that they must be summoned immediately.
+
+## Trivia
+
+- Nora wears the Nightwave Suit and Earpieces.
+- "If nothing saves us from death, [...]" is a quote by the Chilean poet Pablo Neruda.
+- "For ten years I have been polishing this sword. [...]" is a quote by the Chinese poet Jia Dao.
+- "It never troubles the wolf how many the sheep may be." is an attribution by English philosopher Francis Bacon to the Roman poet Virgil.
+- "You live with wolves you better act like one." is a paraphrasing of an old Russian proverb: "To live with wolves is to howl like wolves."("С волками жить — по-волчьи выть."). It is commonly misattributed to Soviet politician Nikita Khrushchev.
+- "The Red King is at the dance," while possibly an allusion to Hunhow, it's also a reference to Stephen King's "The Dark Tower" saga, in which the main antagonist, The Crimson King, is pulling the strings from the shadows, in order to destroy all the universes connected to the Tower. One of the ways he does this is by a group of mounted robots known as Grey Wolves.
+- "Virtue, integrity and courage are my priorities. I can be approached, but never pushed; befriended but never coerced; killed but never shamed." is a quote by the Korean admiral and military general Yi Sun-sin, which in of itself is a quote from the Chinese classic, the Book of Rites.
+- "With the impossible behind you, all that remains is what is necessary." may be a paraphrasing of a quote spoken by Arthur Conan Doyle ("When you have eliminated the impossible, whatever remains, however improbable, must be the truth.").
+- As confirmed on Devstream 124, Nora Night's character was inspired by D.J. (Lynne Thigpen) from the cult-classic crime film The Warriors (1979).
+- Nora Night is voiced by Sheryl Mebane.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

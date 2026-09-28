@@ -1,0 +1,57 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Arcane Machine
+
+[キャラクター一覧](../../characters.md) › [中立](g13.md) ・ ← [Nora Night](nora-night.md) ・ [Railjack Crew](railjack-crew.md) →
+
+## 概要
+
+出自不明の装置。The New Strange に登場
+
+出自のわからない謎めいた装置。新たな怪奇の Chroma との戦いでは防衛対象として 2 台目が登場し、奪われた野望にはスキャンできない版が登場する。スキャンできない版が流すメッセージは新たな怪奇でも示される。Codex の説明は「保護が必要な Orokin の遺物」。
+
+- グループ: [中立](g13.md)
+- 登場: 台詞全文では見つからない
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Arcane_Machine)（英語・出典） / [全文検索](../../search.html?q=Arcane%20Machine)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Tenno |
+| Quotes | Arcane Machine / Quotes |
+
+## 経歴
+
+### 奪われた野望
+
+> 「すべては、すべては静まり……静まり、空っぽ……空っぽなのは、は、は、空の胎。すべては静まり、穏やかである。空の胎は静まり、空っぽである」（Codex から流れた謎のメッセージ）
+
+Arcane Codices は 6 つに分かれた機械語のコードの一式。Grineer はクローン劣化症の治療法が入っていると信じ、Corpus は失われた Orokin の財宝につながると考えていた。
+
+Tyl Regor は、Infested に侵された廃船の機械から Codex を取り出すよう Maroo を雇った。しかし彼女は Regor を裏切り、Codex を Corpus に売った。
+
+Tenno が Codex 一式を Arcane Machine に読み込ませると、古代の機械から出てきたのは予想外のものだった。謎めいたメッセージが流れた後、Arcane Infested の一団が襲いかかってきた。戦いの後、Lotus はすぐに「この機械が何をしているにせよ、我々のためではない」と結論づけた。
+
+### 新たな怪奇
+
+Grineer に捕らわれた Sentinel を取り戻した後、Lotus は監獄の警備記録の中に「生体署名の断片」を見つける。Ordis が記録を再生すると、Arcane Machine と似た声の謎の通信が流れる。
+
+> （激しい銃声が爆発音で途切れ）「ここで我らは探し、見つける。夜を飲み干す昼の目を」（戦闘の音が再び続く）
+
+Simaris はこの件への回答を拒み、生体署名の解読と引き換えに Synthesis を手伝えと言う。手伝いを終えると、署名は Tenno 由来だと明かし、その存在を追跡するビーコンの設計図を渡す。ビーコンを作ると、Arcane Machine からの送信が届く。
+
+> 「すべては穏やかさの中で静まっている。空の胎は静まり、空っぽである」
+
+Lotus によれば、この存在は Arcane Codices が見つかった場所を巡り、誰かの痕跡を消すかのように Grineer と Corpus を虐殺していた。Corpus のネットワークから情報を引き出すと、正体は、どの Tenno にも操られていない暴走した Warframe、Chroma だとわかる。
+
+追跡は Arcane Machine へと戻り、Tenno は機械を破壊した敵対的な Chroma と対峙する。Chroma は一度スキャンされただけで Synthesis から逃れる。そこで Simaris は自分も Codex の一片を持っていると明かし、Arcane Machine のある別の場所を教える。Chroma をその機械へおびき寄せて Synthesis に成功し、Tenno は Chroma の設計図を得る。Lotus も Tenno も知らないが、この 2 台目の Arcane Machine には Sentient の遺物の像が映し出されていて、今後の出来事をほのめかしている。
+
+## トリビア
+
+- Arcane Machine のメッセージは、キチェ・マヤの神話と歴史を記した「ポポル・ヴフ」冒頭の一節の英訳によく似ている。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

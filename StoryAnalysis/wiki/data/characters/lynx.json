@@ -1,0 +1,135 @@
+{
+ "key": "lynx",
+ "name": "Lynx",
+ "page": "Lynx",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Orokin Sabotage に出るフィールドボス",
+ "wiki": {
+  "title": "Lynx",
+  "url": "https://wiki.warframe.com/w/Lynx",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus"
+  ],
+  [
+   "Mission Type(s)",
+   "Grineer Spy / Help Clem / Orokin Sabotage"
+  ],
+  [
+   "種類",
+   "Field Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Gatling Guns"
+  ],
+  [
+   "Abilities",
+   "Stomp Shockwave / Launch Turret / Launch Lynx Osprey"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "1000"
+  ],
+  [
+   "Health",
+   "1000"
+  ],
+  [
+   "Armor",
+   "150"
+  ],
+  [
+   "Dmg. Reduction",
+   "21.21 %"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Body Multipliers",
+   "Head: 1.0x"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "0"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 15.0 (2014-10-24)"
+  ],
+  [
+   "Mod Drops",
+   "Organ Shatter 1.14% / Stormbringer 0.66% / 15 Endo 1.14% / 80 Endo 0.06%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 97.42% / Orokin Cell 2.58%"
+  ],
+  [
+   "Sigil Drops",
+   "Lynx Sigil 100.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> The Lynx is a Corpus Field Boss. It is encountered in Orokin Sabotage (The Archwing or Marduk) where Corpus are the dominant enemy, guarding a Void Key necessary to close the Void Portal. It is also encountered in Grineer Spy, either purchased or stolen from the Corpus, detailing as one of the Spy room's centerpiece and becomes active if the room's alarm was tripped. It can also appear in Clem's weekly Survival mission in Corpus-controlled environments after five minutes.",
+   "> It resembles a smaller Jackal with blue armor, and has the ability to deploy Lynx Osprey drones and Lynx Turrets to assist it in combat."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Lynx is a genus for the species of medium-sized cats, larger than housecats but smaller than the big cats of the genus Panthera such as lions and tigers.",
+     "- The Lynx as a whole is a call back to the Hyena Pack prior to their revamp in Update 12.0 (2014-02-05), which was essentially a single, scaled-down Jackal rather than a pack of uniquely designed machines.",
+     "- The Lynx's appearance in Grineer Spy missions is another reference to an earlier build of the game, where an inert Jackal can be seen suspended from the ceiling of one Spy 1.0 room layout.",
+     "- When a player kills The Lynx, in their profile may appear that they have killed the Hyena Pack."
+    ]
+   ]
+  ]
+ }
+}

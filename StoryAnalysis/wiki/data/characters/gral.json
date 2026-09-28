@@ -1,0 +1,50 @@
+{
+ "key": "gral",
+ "name": "Gral",
+ "page": "Gral",
+ "group": "外伝・イベント初出",
+ "group_key": "g19",
+ "summary": "Nightwave: Series 3 で登場した退役 Grineer",
+ "wiki": {
+  "title": "Gral",
+  "url": "https://wiki.warframe.com/w/Gral",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Gral / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Trooper 67229"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Gral born big. Big Gral follow. Small slugs hide. Big Gral find. Big kill small. Now Gral is small. No more follow/find/kill.”",
+   "> —Gral",
+   "> “Colonial after-action report: Colonial Killsquad Trooper 67229 reported crossfire confusion. Is that true? Killsquad casualties were total with only Trooper 67229 returning. Trooper 67229 scheduled for recondition spiking at Saturn Five. Demotion to maintenance tier effective immediately.”",
+   "> Gral is a retired Grineer trooper introduced in Nightwave: Series 3 - The Glassmaker. He was vitrified after the Glassmaker deemed his actions to be \"chaotic\" to his fellow Grineer."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "As with most Grineer, Gral was a common soldier before an unspecified incident led to his unit being wiped out. Though Gral claimed \"crossfire confusion\" was at fault, the fact he was suspiciously the only survivor led to his immediate demotion to maintenance duty. Subsequently, Gral lived in an abandoned undersea Grineer outpost and, after picking up writings from either New Loka, The Perrin Sequence, or Steel Meridian, decided to tap into secure Grineer communication lines and warn Solaris United of upcoming attacks. Ultimately the Glassmaker found and subsequently vitrified him, with the Glassmaker blaming the Tenno for Gral's insubordination.",
+     "",
+     "Gral's Solaris United handler was Cutter, who was actually a Corpus mole who turned against Solaris United. Cutter's data logs reveals that he used Gral who encrypted a broadcasting device that was invented by Shigg and built by Bak Vondu to release the Glassmaker across the Origin System, before all of them were glassed by the Glassmaker."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Gral was known to own a collection of floofs consisting of a Tusk Thumper Bull, Kubrodon Incarnadine, and a Delicate Pobber, albeit visibly well-worn and dirty. These floofs were made available to players following Nightwave Intermission III in the cred offerings shop."
+    ]
+   ]
+  ]
+ }
+}

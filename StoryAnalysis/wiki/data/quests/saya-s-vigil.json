@@ -1,0 +1,79 @@
+{
+ "key": "saya-s-vigil",
+ "name": "Saya's Vigil",
+ "page": "Saya's Vigil",
+ "ja": "Sayaの眼",
+ "group": "サイドクエスト",
+ "summary": "Cetus の Saya の頼みで、夫 Onkko と Gara の伝説を追う",
+ "wiki": {
+  "title": "Saya's Vigil",
+  "url": "https://wiki.warframe.com/w/Saya's_Vigil",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Saya's_Vigil/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 22.0 (2017-10-12)"
+  ],
+  [
+   "種類",
+   "Side Quest"
+  ],
+  [
+   "条件",
+   "Completed Vor's Prize / At least 1 bounty completed"
+  ],
+  [
+   "報酬",
+   "Gara Blueprint / Access to Shrine Defense mission ( Koumei )"
+  ],
+  [
+   "台詞全文",
+   "Saya's Vigil / Transcript"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "saya",
+   35,
+   0
+  ],
+  [
+   "lotus",
+   23,
+   0
+  ],
+  [
+   "konzu",
+   20,
+   33
+  ],
+  [
+   "councilor-vay-hek",
+   10,
+   16
+  ],
+  [
+   "onkko",
+   0,
+   34
+  ],
+  [
+   "grineer-queens",
+   0,
+   17
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Plains of Eidolon に長年埋もれてきた謎を追い、Ostron の長老たちと、行方不明になった Eidolon の研究者の真相に迫るサイドクエスト。ソロ専用で、Update 22.0（2017-10-12）で追加された。"
+  ],
+  "sections": []
+ }
+}

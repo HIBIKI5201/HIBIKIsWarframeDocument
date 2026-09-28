@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 新たな怪奇（The New Strange）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › Warframe 入手クエスト ・ ← [嵐を呼ぶ者テンペスタリ](call-of-the-tempestarii.md) ・ [グラスト・ギャンビット](the-glast-gambit.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Cephalon Simaris と出会い、Chroma と Arcane Machine の謎を追う
 
 奪われた野望の続きとして、Cephalon Simaris とともに謎の声の出どころを探すサイドクエスト。Update 16.0（2015-03-19）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_New_Strange) / [台詞全文](https://wiki.warframe.com/w/The_New_Strange/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_New_Strange)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_New_Strange/Transcript) / [日本語 Wiki「新たな怪奇」](https://warframe.fandom.com/ja/wiki/%E6%96%B0%E3%81%9F%E3%81%AA%E6%80%AA%E5%A5%87) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-new-strange.md) / [全文検索](../../search.html?q=The%20New%20Strange)
 
 ## 基本情報
 
@@ -28,35 +28,17 @@ Cephalon Simaris と出会い、Chroma と Arcane Machine の謎を追う
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Cephalon Simaris](../../wiki/characters/g02-cephalon.md#cephalon-simaris) | 1 | 47 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 40 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 8 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 7 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 7 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Cephalon Simaris](../characters/cephalon-simaris.md) | Cephalon | 34 | 46 |
+| [Ordis](../characters/ordis.md) | Cephalon | 23 | 38 |
+| [Lotus](../characters/lotus.md) | Tenno | 19 |  |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 4 |
+| [Corpus Commander](../characters/corpus-commander.md) | Corpus |  | 2 |
+| [Corpus Captain](../characters/corpus-captain.md) | Corpus |  | 2 |
+| [Natah](../characters/natah.md) | Sentient |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 生き物をデータとして永遠化し知識にしようとする Cephalon Simaris が、Grineer に捕らわれた自分の Sentinel を取り戻すよう Tenno に頼む。救出後、Lotus は監獄の警備記録の中に「生体署名の断片」を見つける。Ordis が記録を再生すると、奪われた野望の最後に Arcane Machine から流れたのと似た声で、謎のメッセージが流れる。
 
@@ -66,7 +48,11 @@ Simaris はこの件への回答を拒み、生体署名の解読と引き換え
 
 Lotus によれば、この存在は Arcane Codices が見つかった場所を巡り、誰かの痕跡を消すかのように Grineer と Corpus を虐殺していた。誰かが Codex や Arcane Machine の存在を知られたくないのだ。Corpus のネットワークから情報を引き出すと、その正体は、どの Tenno にも操られていない暴走した Warframe、Chroma だとわかる。Tenno は Arcane Machine に戻り、機械を破壊した敵対的な Chroma と対峙する。Simaris はその異常な振る舞いを Synthesis したがるが、Chroma は一度スキャンされただけで逃げてしまう。そこで Simaris は自分も Codex の一片を持っていると明かし、Arcane Machine のある別の場所を教える。Chroma をその機械へおびき寄せて Synthesis に成功し、Tenno は Chroma の設計図を得る。Lotus も Tenno も知らないが、この 2 つ目の Arcane Machine には Sentient の遺物の像が映し出されていて、今後の出来事をほのめかしている。
 
-### トリビア
+## トリビア
 
 - Arcane Machine のメッセージは、キチェ・マヤの神話と歴史を記した「ポポル・ヴフ」冒頭の一節の英訳によく似ている。
 - 送信元を調べるミッションでは、脱出地点の近くに Chroma が一瞬現れ、Warframe の自己蘇生のような動きをしてから消える。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

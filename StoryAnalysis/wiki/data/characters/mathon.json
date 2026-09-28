@@ -1,0 +1,42 @@
+{
+ "key": "mathon",
+ "name": "Mathon",
+ "page": "Mathon",
+ "group": "Tenno",
+ "group_key": "g01-tenno",
+ "summary": "Zariman Ten Zero に乗っていた子供の一人",
+ "wiki": {
+  "title": "Mathon",
+  "url": "https://wiki.warframe.com/w/Mathon",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Orokin"
+  ],
+  [
+   "First Appearance",
+   "The New War"
+  ],
+  [
+   "Quotes",
+   "Mathon / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-new-war",
+   1,
+   2
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Mathon was one of the children and passengers aboard the Zariman Ten Zero during the Void Jump Incident."
+  ],
+  "sections": []
+ }
+}

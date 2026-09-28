@@ -1,0 +1,59 @@
+{
+ "key": "executor-tormis",
+ "name": "Executor Tormis",
+ "page": "Executor Tormis",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "The Seven の一員",
+ "wiki": {
+  "title": "Executor Tormis",
+  "url": "https://wiki.warframe.com/w/Executor_Tormis",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Executor Tormis / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Executor Tormis was an Orokin Executor and member of The Seven."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "> “VM: CONNECTION",
+     "",
+     "> Transcript: When the Sentients completed the Solar Rail to Tau, there was no grand ceremony. It simply began to work.",
+     "",
+     "> Ceremony was hastily created, of course, for no true Orokin can blow his nose without observing some pomp and circumstance.",
+     "",
+     "> A great fuss was made over the First Transport to make the Crossing.",
+     "",
+     "> It was Executor Tormis’s stately cruiser, and in the choice of Tormis as expeditionary could be read a collective rebuke to Executor Tuvul for the grotesque mishap of the Zariman Ten Zero.",
+     "",
+     "> Out Tormis went and back Tormis came, carrying wondrous bejewelled memories of a new System and new worlds to settle.",
+     "",
+     "> Within days a flotilla of colonist ships had departed, eager to set foot on the virgin shore.",
+     "",
+     "> The Sentient attack that followed rather spoiled the mood.” —Roathe",
+     "",
+     "### Kinemantik Instant Messenger",
+     "",
+     "Main article: Kinemantik Instant Messenger/Roathe",
+     "",
+     "According to Roathe, he was part of the first expeditionary crew to the Tau System after the completion of the Solar Rail connecting it to the Origin System.",
+     "",
+     "His leadership over the expedition to Tau is said to be a consequence of the Zariman Ten Zero incident, whom which Executor Tuvul was a patron to.",
+     "",
+     "There are no records about his fate after the fall of the Orokin Empire, but he is presumed dead."
+    ]
+   ]
+  ]
+ }
+}

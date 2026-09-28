@@ -1,0 +1,35 @@
+{
+ "key": "gerivaine",
+ "name": "Gerivaine",
+ "page": "Gerivaine",
+ "group": "Deimos・Entrati・Cavia",
+ "group_key": "g17-deimos-entrati-cavia",
+ "summary": "Albrecht の亡き妻。Euleria（Mother）の実母",
+ "wiki": {
+  "title": "Gerivaine",
+  "url": "https://wiki.warframe.com/w/Gerivaine",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Gerivaine / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Gerivaine is the late wife of Albrecht Entrati, and the blood mother of Euleria Entrati. She is mentioned only in conversations, and does not make any official appearance in-game."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Gerivaine is the late wife of Albrecht Entrati, and the blood mother of Euleria Entrati. Her marriage with the Entrati scientist is known to be an arranged business with no love involved at all, purely due to how compatible their genes were to birth a genius offspring. Gerivaine, however, would pass away early on, leaving Albrecht to raise Euleria mostly by himself (With some help from Loid) inconsistently."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "key": "parvos-granum",
+ "name": "Parvos Granum",
+ "page": "Parvos Granum",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Orokin 時代の Corpus 創始者。Specter 技術の発明者",
+ "wiki": {
+  "title": "Parvos Granum",
+  "url": "https://wiki.warframe.com/w/Parvos_Granum",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus"
+  ],
+  [
+   "First Appearance",
+   "The Deadlock Protocol"
+  ],
+  [
+   "声優",
+   "Ed Kelly [ 1 ] [ 2 ]"
+  ],
+  [
+   "Quotes",
+   "Parvos Granum / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "jade-shadows",
+   0,
+   3
+  ],
+  [
+   "the-deadlock-protocol",
+   16,
+   35
+  ],
+  [
+   "call-of-the-tempestarii",
+   1,
+   4
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “The System shall change. No more clutching at sunk costs, imposed ideals, hand-me-down hopes. No, we are better than that. The Corpus shall know a violent restructuring, but with time enough to face the impending threat from Tau with renewed and absolute vigor.",
+   "> Or not. Perhaps the rot is too deep. Perhaps the father should abandon his children. Perhaps it is time for a new philosophy.",
+   "> Life's just a bargain like any other. Yours is no different. Would you like a seat at my new table? Perhaps with your... masked friends alongside? The Business, was it? A curious name. And Eudico too, of course. All people who know what they want.",
+   "> I know what they want. But what about you? Tell me, friend: What is it you Desire?” —Parvos Granum"
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### Origin and the Corpus Tenets",
+     "",
+     "Main article: Fragments/The Tenets",
+     "",
+     "> “\"Fear not poverty. Poverty is the bitter soil in which sweet desire blossoms.\"",
+     "",
+     "> \"Fortune despises the idle man. Stasis is death. Always move forward.\" \"Be envious. Covet. Then take what you desire.\" \"Deception is the sword of wisdom. Be wise.\" \"Beware the idle man who would lull you back into idleness.\" \"Contentment is idleness. Desire inspires action. Nurture all desires.\" \"Money begets money.\" \"Charity is power. More charity is more power.\" \"Shun sentimentality. It is a weakness that binds the idle man.\" \"Fulfill desire and others will follow.\" \"We are desire. Ours is the grasping golden hand. We. are. Corpus.\"” —The Tenets",
+     "",
+     "Parvos Granum grew up during the height of the Orokin era, together with his brother Cladius, who he admired for his physical strength while being frustrated with his naiveté and lack of ambition, occasionally imagining he had a clever sister instead. They lived with their father on a small farm as grain farmers, the same as dozens of generations of their family before them. After years and years of back-breaking manual labor, one-day Parvos left for the nearby Orokin city. He was awestruck by the decadent splendor of their gem-encrusted gold and ivory architecture, flaunting their wealth accrued through their greed upon the simple living people like himself and his family. As he shouted \"I take what I am owed!\" he ripped a handful of Rubedo jewels from the gates and tried to run, but was promptly caught by the Orokin servants which dragged him to the town square. As punishment for theft, his left hand was cut off with a plasma dagger but while the gathered crowd cheered he managed to swallow one of the Rubedo gemstones.",
+     "",
+     "With the Rubedo burning up inside him Parvos managed to crawl back to the farmstead, where his father and brother found him collapsed and near death. After coming back to his senses he threw up the molten Rubedo, a feat that Parvos affirms would have killed any man of lesser conviction, and that the single stone was worth more than ten generations' farm work.",
+     "",
+     "The next day Parvos returned to the city, pawning the gem for a financial loan. His newfound wealth in hand he then loaned parts of it to other poor folk like him, who desired more of their life. With each new investment or associate, Parvos taught each one of them his philosophy of the evils of contentment and idleness as well the gift of Desire, while his partners themselves went on to further loan their money to others and spread his teachings, gathering more followers with each transaction.",
+     "",
+     "In time his fortune had multiplied exponentially and he commissioned a golden prosthesis for his missing left hand.",
+     "",
+     "One day during his journeys news reached him that his father had finally collapsed under the toiling farm work. Parvos rushed back to his home to find his father had already died.",
+     "",
+     "Committed to ending the history of his family's brutal and extorted labor, he gave the order to flatten and demolish the farmstead and the surrounding fields, despite Cladius' protests. In their place, he erected a new city of the future called \"Corposium\", where even the smallest of men would be welcome to apply his wit and desire to make his own wealth.",
+     "",
+     "### Specter Particle Theory",
+     "",
+     "> “Some doors ought to remain closed? That's not in my world view. Fire. Fusion. Void. Progress always comes entangled with risk, with violence. With the precious sample obtained, development is accelerating. The Entrati have kept their secrets long enough.",
+     "",
+     "> I am calling it the Specter Particle. As my Archimedian explains, mimicry is in its nature. An echo. Exposed to precept circuits, we are able to imprint behaviors! Like an infant mirroring her surrogate. Only this infant can set the world on fire.",
+     "",
+     "> The palace birds think they can control us. They hit our research site with a Warframe assault team. Of course they did. I baited them to do it. The whole site lite up. Eighty mega-therm bloom. The whole lab, vaporized, those Warframes with it. Fire. Fusion. Void.” —Parvos Granum",
+     "",
+     "One of Parvos Granum's accomplishments was the creation of the Specter Particle Theory which would set the foundation for Specter technology that enables the imprinting of rudimentary behavior into bodies.",
+     "",
+     "### Protea and Disappearance",
+     "",
+     "> “At last. Esteemed Parvos. Tell me what you desire and we shall furnish you.",
+     "",
+     "> My desire is well known to you. Assemble what I have designed, and I shall be on my way.",
+     "",
+     "> Potent weaponry, exquisite anatomy, those are trivial. But temporal manipulation? Even the Entrati-",
+     "",
+     "> The Entrati have violated time, and I have violated them.",
+     "",
+     "> What shall we name her then - this child of two fathers?",
+     "",
+     "> Protea.” —Ballas and Parvos Granum on Protea Prime",
+     "",
+     "Having acquired the Entrati's research into time, Parvos Granum conceived the designs for the Protea Warframe to serve as his bodyguard. As part of an undisclosed deal, Ballas obliged into creating the time-manipulating \"child of two fathers.\"",
+     "",
+     "Granum was later betrayed by the Corpus Board of Directors, whose assassins sabotaged his transport's Void drive. However, he was saved by Protea's time powers, but this resulted him being trapped within a part of the Void which would later be known as the Granum Void.",
+     "",
+     "### The Deadlock Protocol",
+     "",
+     "> “'My name'. Hmm... I have watched you. Monuments to narcissism. Demanding others sweat in your stead. Gorging upon that which you have not earned. Watched... as you claimed for yourself my teachings of self-reliance, perverting them into a flaccid philosophy of sloth. Of... Idleness. Is that you, my son?",
+     "",
+     "> No, that must be a different son.” —Parvos Granum's disapproval of Nef Anyo's actions in the Corpus.",
+     "",
+     "As the Corpus Board of Directors continuously reach a voting impasse, Nef Anyo invokes The Deadlock Protocol, a contingency initiative to instate a successor to the Founder. Nef Anyo makes the claim that he himself is the genetic heir which, if true, would give him total control over the Board. He intends to prove this by searching for traces of Protea, using Solaris workers as a sacrifice for Void-temporal jumps to reach the Granum Void.",
+     "",
+     "In an effort to thwart Nef Anyo's plans, the Tenno aids Solaris United and gets to the Granum Void before Nef Anyo's henchmen do. There, they discover that Parvos Granum had survived from Protea's sacrifice by trapping them in a temporal prison, at the cost of Protea becoming a Specter of herself. The Warframe Specter becomes hostile and sends its Errant Specters throughout Nef Anyo's fleet; Parvos Granum does not deny Nef Anyo being his son but is disgusted with his twisted and slothful methods within the Corpus, stating he simply used him to summon the Tenno to reignite Protea into action.",
+     "",
+     "Angered by this deception and the threat of the Protea Specter, Nef Anyo calls truce with Solaris United and delivers the Tenno the blueprint to the Xoris, a glaive fashioned with Parvos Granum's Specter Particle Theory. Seeing Parvos Granum's high intelligence being a threat, Solaris United reluctantly accept the weapon. However, as the Errant Specters overrun Nef Anyo's fleet, he quickly breaks the truce and decides to self-destruct his ships. The Tenno jump into Granum Void once more and use the Xoris to save the trapped Solaris workers, and Parvos uses the chance to escape to real-space. He remarks dryly that the destruction of Anyo's fleet has left the Tenno trapped in the Void with the Protea Specter, but wishes them a polite goodbye during their final battle.",
+     "",
+     "In the aftermath, Parvos Granum is unfazed by the defeat of the Protea Specter, sending the Tenno an inbox message stating he intends to restructure the Corpus to counter the impending threat from Tau. Otherwise, he will abandon his children to create a new doctrine, inviting the Tenno and Solaris United a seat next to him.",
+     "",
+     "### Corpus Proxima",
+     "",
+     "All Corpus space territory in the Venus Proxima, Neptune Proxima, Pluto Proxima, and Veil Proxima are claimed to be \"Granum space\" by their Corpus Captains.",
+     "",
+     "### Call of the Tempestarii",
+     "",
+     "Vala Glarios claims to be a servant of Parvos Granum in her quest for vengeance against the Tempestarii, an Old War Railjack that left her stranded in an attack. The Tenno thwarts Vala's efforts, using a Tempestarii ordinance to banish her into the Void. She appears in the Granum Void and collapses, where she is greeted by Parvos Granum who extends his golden hand to her.",
+     "",
+     "### Sisters of Parvos",
+     "",
+     "Seeking to fulfill his desire of having a reliable sister, Parvos Granum recruits Candidates to rise above the masses and become his Sister, providing them Hound companions, Warframe Specter guardians, and latent technological weapons in the form of Tenet weaponry. Vala Glarios serves as his right-hand woman, overseeing the growth of the Sisters.",
+     "",
+     "### Angels of the Zariman",
+     "",
+     "After The New War, the long-lost Orokin colony ship Zariman Ten Zero reappeared from the Void. Immediately, both Parvos Granum and the Grineer Worm Queen sent their loyal subordinates to claim the legendary vessel in their name. Power aboard the Zariman periodically shifts in either side's favor as both the Tenno and the beings now inhabiting the ship strike back at them to protect their home.",
+     "",
+     "### Dante Unbound",
+     "",
+     "Main article: Leverian#Dante",
+     "",
+     "Main article: Disruption/Quotes#On Deimos",
+     "",
+     "Seeking to acquire artifacts pertaining to Albrecht Entrati, Parvos Granum hired Leverian curator Drusus for assistance. Desperate from lack of visitors and low donations, Drusus signed a deal, but when he failed to make payment on time, Dante's Leverian was seized as compensation. Drusus was forced to turn to the Tenno behind Parvos's back for assistance.",
+     "",
+     "### Belly of the Beast",
+     "",
+     "Desiring to weaponize Jade, Parvos Granum's forces assault the Stalker on Uranus and seize Jade's Volatile Motes to create an army of Jade Light Eximus. He recognizes Ordis' former identity as Ordan Karris, believing the Cephalon's efforts to help Jade are squandered and offers to restore Ordan Karris to his former glory.",
+     "",
+     "### Jade Shadows: Constellations",
+     "",
+     "> “Whispers from a future we must never allow to pass. Whispers of a Cephalon Parvos. A Plague.”",
+     "",
+     "> —Hunhow",
+     "",
+     "While investigating the twenty-year later future that Vena and Future Orion came from, a \"Cephalon Parvos\" is briefly mentioned.",
+     "",
+     "Vena's Gemini Skin voicelines allude to being in Cephalon Parvos' employ, and that he informed her of the side effects of Transference involving two intact minds."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Parvos Granum is voiced by Ed Kelly.",
+     "",
+     "Parvos Granum's name in Latin means \"small grain\", but is correctly spelled \"Parvum Granum\". As mentioned in the Codex Fragment \"Humble Beginnings\", he and his family grew up collecting grain for the Orokin.",
+     "",
+     "  - The name can also mean \"small seed\", possibly alluding to his philosophy's role as the origin of the Corpus. Either translation also sheds further light into the naming of the Black Seed group.",
+     "- Granum once tried to hire Cavalero as an enforcer, who flatly refused his offer.",
+     "- Parvos Granum narrates the trailer for Protea Prime alongside Ballas, and is the first and currently only one to have someone other than Ballas as a narrator.",
+     "- Parvos is known to have spoken the enigmatic Voidtongue on at least one occasion."
+    ]
+   ]
+  ]
+ }
+}

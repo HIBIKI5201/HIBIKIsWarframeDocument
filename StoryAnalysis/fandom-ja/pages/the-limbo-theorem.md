@@ -6,6 +6,8 @@
 
 > コミュニティが書いた記事で、ゲームの最新の内容や公式の日本語訳と違うことがある。
 
+このサイトのクエストのページ: [Limbo セオリム](../../wiki/quests/the-limbo-theorem.md)（英語版 Wiki を元にした最新の情報）
+
 LIMBO セオリム（The Limbo Theorem）は、 アップデート15 で実装されたLimbo取得クエスト。
 
 ## ガイド

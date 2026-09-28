@@ -1,0 +1,112 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Corrupted Vor
+
+[キャラクター一覧](../../characters.md) › [Grineer](g03-grineer.md) ・ ← [Captain Vor](captain-vor.md) ・ [Councilor Vay Hek](councilor-vay-hek.md) →
+
+## 概要
+
+Void で変異した Captain Vor
+
+> “I was cut in half, destroyed, but through its Janus Key, the Void called to me. It brought me here and here I was reborn.”
+> —Vor
+> For his normal version, see Captain Vor.
+> Corrupted Vor is Captain Vor after becoming corrupted and the boss of the Orokin Void, found as an encounter in the high-level Void missions (Level ≥40), in The Circuit during Exterminate objectives, as well as occasionally in The Descendia. After being revived by his own Void Key sometime after his defeat at the hands of the Tenno, Vor has abandoned his ties to the Grineer and since turned into the guardian of the Void. Vor will make his presence known via a taunting transmission, after which he will appear near players to engage them in battle.
+
+- グループ: [Grineer](g03-grineer.md)
+- 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Corrupted_Vor)（英語・出典） / [全文検索](../../search.html?q=Corrupted%20Vor)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Orokin |
+| Planet(s) | Void |
+| Mission Type(s) | Level ≥40 Orokin Void missions |
+| Tile Set(s) | Orokin Tower / The Undercroft |
+| 種類 | Field Boss |
+| Weapon(s) | Nervos Mines / Orokin Key |
+| Abilities | Teleport / Golden Eruption |
+| Damage Type Modifiers | ++ ++ |
+| Affinity | 1,500 |
+| Shield | 1500 |
+| Health | 1,500 |
+| Armor | 250 |
+| Dmg. Reduction | 27.39 % |
+| Overguard | 0 ++ |
+| Base Level | 1 |
+| Spawn Level | 40-50 |
+| Effective Hit Points (EHP) | –– |
+| Selected Level | –– |
+| Eximus | –– |
+| Steel Path | –– |
+| Empowered Enemies | –– |
+| Player Count | –– |
+| Codex Scans | 3 |
+| 声優 | Kol Crosbie (aka [DE]Skree) |
+| Mod Drops | Pistol Pestilence 25.00% / Virulent Scourge 25.00% / Toxic Barrage 25.00% / Malignant Force 25.00% |
+| Resource Drops | Argon Crystal 50.00% / Orokin Cell 50.00% |
+| Sigil Drops | Vor Sigil 100.00% |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [内なる紛争](../quests/the-war-within.md) |  | 2 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore & History
+
+For his complete lore, see Captain Vor.
+
+### The Rebirth
+
+After an indeterminate amount of time, Vor was revived by the Janus Key in his possession, which linked his broken body back together via a swirling mass of energy, becoming Corrupted Vor. In his current, Corrupted state of mind, Vor leads the other Corrupted defenders of the Void against all intruders. He displays a religious reverence for the Void, claiming to know its "true" power and declaring that the Tenno are "trespassers" being led by a "false prophet". It is unknown whether this is a revelation brought about by his revival, or simply brainwashing by the Key or the Orokin Neural Sentry.
+
+In The Rebirth trailer, the newly revived Captain Vor is seen marching his way through Grineer troops to demonstrate the power of his Janus Key, possibly leading his soldiers into the Void and corrupting them in the process.
+
+He ultimately became the guardian of the Sedna branch of the Void, continuously re-confronting any Tenno that dare enters his territory from time to time.
+
+### Duviri
+
+Corrupted Vor makes an appearance in Duviri's Undercroft during an Exterminate mission, further taunting the Tenno and preaching more of the Void before stating that a "wall of bone" waits for his joining.
+
+## Appearance
+
+Corrupted Vor still resembles an aged light Grineer in unique brown armor, with the exception of his torso being separated from his legs, linked solely by the energies of his Orokin Key manifesting as a swirling mass of light in what used to be his abdomen.
+
+## Trivia
+
+Captain Vor supposedly proclaims himself as energy, an immortal being incapable of destruction. It was initially theorized that this made him equivalent to the Seven Executors, who were stated by Ordis to be immortal themselves and incapable of dying.
+
+  - With more information having come to light, it is more likely that Ordis was referring to the fact that the Orokin had the privilege of Continuity through usage of Kuva. If anything, this would indicate Vor is above the Seven due to his literal immortality: despite being "killed" by the Tenno again, he remains conscious and fully able to speak.
+- At the same time, abilities that Vor possesses are very similar to Operator abilities: he can attack his enemies with energy beams and pulses and can teleport quite quickly - this is similar to the operator quickly entering Void Mode, dashes and leaving Void mode.
+
+Vor previously had the unique distinction of being both the lowest level Boss (on Tolstoj, Mercury), and the highest level boss in-game at the same time. This was changed in Update: Specters of the Rail 0.0 (2016-07-08), which changed map progression such that Jackal on Venus became the lowest level Boss.
+
+  - He is also the only boss character with three separate and distinct instances active simultaneously, being present in Mercury, Ceres, and the Void, making him the most ubiquitous character in the game.
+- Vor is the first boss to drop Event mods.
+
+Although labeled as being 'corrupted' by his Void key, the Codex does not classify him as part of the Corrupted or Orokin faction and instead still resides as Grineer. This may be a mistake on DE's part to categorize him, or he is indeed still of the Grineer faction and not entirely consumed by his key's corrupting influence.
+
+  - The theory of corruption is further cemented by a trailer that shows a room of Grineer kneeling before Corrupted Vor.
+  - Despite the 'Grineer' classification in the Codex, Corrupted Vor is counted as Orokin in mission, and will take increased damage from Faction Damage Mods like Bane of Orokin, but not from ones targeting Grineer.
+- Vor's voice lines are triggered by spawning, a certain loss of health and shields and death.
+
+In his Corrupted form, Vor has a distinct echo effect added to his voice, making him seem more otherworldly as a result.
+
+  - Due to Vor's long lines, he used to continue speaking long after he was killed. This was considered a bug until DE added a few lines referencing the fact that, because Vor can not be destroyed, he continues to speak — likely as a joke referencing the bug and a means by which to make it seem intentional without actually fixing it.
+  - In the Circuit, defeating Vor when he speaks will cut his dialogue; conversely, if Vor is defeated before he started speaking, he will still make his speech and will continue even when the player has left the Undercroft. (can also cause Teshin's dialogue to be greatly delayed)
+  - The labeling of his Orokin Key as a "Janus Key" could be a reference to Janus, the ancient Roman god of beginnings and transitions (doors, passages etc.).
+- Corrupted Vor calls Lotus "an impostor who knows not the secrets of the Void". In Chains of Harrow she was revealed to be indeed an impostor Margulis, who adopted this personality through the Tenno memories. She also refused to acknowledge The Man in The Wall's existence, dismissing all known reports as symptoms of a Void-induced mental illness.
+- In the Undercroft, Corrupted Vor has the longest dialogue of all bosses which spans 50 seconds. Due to the lengthy dialogue, defeating him during his speech cuts off the rest.
+- In Fables & Frontiers, Corrupted Vor is depicted as an undead named "Commander Nach", whose head is detatched from his body and monologues about his "Bifron Key".
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

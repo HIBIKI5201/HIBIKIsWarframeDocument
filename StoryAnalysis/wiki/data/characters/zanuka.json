@@ -1,0 +1,115 @@
+{
+ "key": "zanuka",
+ "name": "Zanuka",
+ "page": "Zanuka",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Warframe の部品で作られた Alad V のペット",
+ "wiki": {
+  "title": "Zanuka",
+  "url": "https://wiki.warframe.com/w/Zanuka",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus Amalgam"
+  ],
+  [
+   "Planet(s)",
+   "Jupiter"
+  ],
+  [
+   "Mission Type(s)",
+   "Assasination / Themisto"
+  ],
+  [
+   "Tile Set(s)",
+   "Corpus Gas City"
+  ],
+  [
+   "Abilities",
+   "Dispel / Frost Bomb / Missile Strike"
+  ],
+  [
+   "Damage Type Modifiers",
+   "−− ++ ++"
+  ],
+  [
+   "Affinity",
+   "1000"
+  ],
+  [
+   "Shield",
+   "15000"
+  ],
+  [
+   "Health",
+   "1000"
+  ],
+  [
+   "Armor",
+   "25"
+  ],
+  [
+   "Dmg. Reduction",
+   "8.66 %"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "20"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 11.0 (2013-11-20)"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> For the Assassin, see Zanuka Hunter",
+   "> For the variant found in The Index with its Helios Companion, see Lockjaw & Sol",
+   "> —Alad V",
+   "> Zanuka is Alad V's robotic pet created with parts of various Warframes, serving as his proudly announced product of the Zanuka Project. Both Alad V and Zanuka are encountered together on Themisto, Jupiter."
+  ],
+  "sections": []
+ }
+}

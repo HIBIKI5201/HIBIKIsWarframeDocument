@@ -1,0 +1,79 @@
+{
+ "key": "mask-of-the-revenant",
+ "name": "Mask of the Revenant",
+ "page": "Mask of the Revenant",
+ "ja": "Revenantの仮面",
+ "group": "Warframe 入手クエスト",
+ "summary": "Plains of Eidolon の Nakak と Eidolon の伝承から Revenant を手に入れる",
+ "wiki": {
+  "title": "Mask of the Revenant",
+  "url": "https://wiki.warframe.com/w/Mask_of_the_Revenant",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Mask_of_the_Revenant/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 23.5 (2018-08-24)"
+  ],
+  [
+   "種類",
+   "Side Quest Warframe Quest"
+  ],
+  [
+   "条件",
+   "Observer rank with The Quills"
+  ],
+  [
+   "報酬",
+   "Revenant blueprint"
+  ],
+  [
+   "台詞全文",
+   "Mask of the Revenant / Transcript"
+  ],
+  [
+   "再プレイ",
+   "❌"
+  ]
+ ],
+ "characters": [
+  [
+   "nakak",
+   20,
+   22
+  ],
+  [
+   "mukha",
+   0,
+   7
+  ],
+  [
+   "onkko",
+   0,
+   4
+  ],
+  [
+   "konzu",
+   0,
+   2
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Cetus の商人 Nakak が謎の仮面を売り、その仮面が見せる幻を通じて、Sentient の Eidolon の復活を防ぐために残された Warframe の物語が明かされるサイドクエスト。Update 23.5（2018-08-24）で追加された。"
+  ],
+  "sections": [
+   [
+    "トリビア",
+    [
+     "- Update 23.10 より前は Codex に載っていなかった。",
+     "- Mukha（मुख）はサンスクリット語で「顔」。Nakak のいとこという立場にぴったりだが、台詞の中でしか出てこないのは皮肉でもある。",
+     "- ミッションで見える Eidolon の影と、手に入る断片は Ropalolyst を描いている。Ropalolyst は Update 25.0 で登場する前、もともと Eidolon として構想されていた（Devstream 100）。",
+     "  - Nakak は Revenant の力が必要だと言うが、実際の Ropalolyst 戦に Revenant は関係ない。"
+    ]
+   ]
+  ]
+ }
+}

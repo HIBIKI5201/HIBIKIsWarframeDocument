@@ -1,0 +1,88 @@
+{
+ "key": "marie",
+ "name": "Marie",
+ "page": "Marie",
+ "group": "1999（Höllvania）",
+ "group_key": "g11-1999-h-llvania",
+ "summary": "Marie Leroux 修道女。Wisp の特性を持つ Protoframe。Devil's Triad の一員",
+ "wiki": {
+  "title": "Marie",
+  "url": "https://wiki.warframe.com/w/Marie",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Update 41.0 (2025-12-10)"
+  ],
+  [
+   "声優",
+   "Elsa Pérusin"
+  ],
+  [
+   "Quotes",
+   "Marie / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-old-peace",
+   1,
+   4
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “\"What do I care for my scars, when I can dance upon the air?\"”",
+   "> —Marie",
+   "> Sister Marie Leroux is a Protoframe possessing Wisp traits. A member of the Devil's Triad alongside Lyon and Roathe, Marie is a nun that worships Sol, and was tasked by Albrecht Entrati to monitor the devil Roathe. She can be encountered in La Cathédrale after completion of The Old Peace quest.",
+   "> Marie sells Tektolyst Artifacts, as well as Antique Mods and Arcane Enhancements, and resources obtained from The Descendia and The Perita Rebellion."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### Background",
+     "",
+     "Marie Leroux was originally born to an affluent and influential family in Gaule, though with malformed feet, rendering her unable to walk. With her parents' efforts not remedying the situation, and to keep up appearances, Marie's mother took her to Cité de la Lumière and abandoned her there, still at a young age. Marie then turned to live with the other orphaned children in the city, where she would use her disability to her advantage to make money as a beggar.",
+     "",
+     "After some time, one of the Sisters of Sol found Marie and offered to take her in at La Cathédrale, which she accepted. At the cathedral, Marie would be educated and become a nun herself. Even in her new position, she would donate what she could to the children, who would eventually find their own way through life when they survived their circumstances. It was in La Cathédrale that Marie met Lyon Allard, and quickly became his close friend for how they understood each other.",
+     "",
+     "When Albrecht Entrati traveled to Marie's time and became \"Cardinal Dimanche\", Marie felt blessed to hear his passionate sermons, and was taken by his treatment of her, which subconsciously reminded her of the father that abandoned her. These feelings became a passionate belief in Entrati, and blinded Marie to the full picture of his character. Entrati would later reveal the truth to Marie and Lyon, give them Protoframe serums, and leave Roathe — who had just become a Protoframe himself and lost many of his memories — in their care. Marie took the serum alongside Lyon, gaining Wisp's traits. Later, Roathe developed a Helminth from samples of Protoframe blood, and the Devil's Triad found their way to the present time, bringing a copy of La Cathédrale's basement with them.",
+     "",
+     "### Kinemantik Instant Messaging",
+     "",
+     "Main article: Kinemantik Instant Messaging/Marie",
+     "",
+     "When the Devil's Triad arrives in the present time, Loid calls for the Drifter's \"specialty\" to converse with them over text chat. Marie and Roathe agree to speak with the Drifter, but Lyon only agrees to speak after being convinced by Marie that the Drifter is trustworthy. Marie is initially concerned with the future that she finds herself in and with the Drifter themselves, warning them to be wary of Roathe.",
+     "",
+     "Marie takes interest in Otak, and feels sad for his circumstances. What the Drifter tells her of Otak reminds her of a fellow nun named Cécilia, who suffered from some form of dementia, and the time she sat with her for some tea with cushions that Cécilia thought were children. Marie also takes interest in the Entrati family, who are oblivious to the happenings in the Sanctum Anatomica, and particularly in reconciling them. She is initially against involving Roathe, but later concedes that all of the Devil's Triad may be necessary to persuade Loid to go upstairs.",
+     "",
+     "Marie later has a loud argument with Tagfer regarding Albrecht, where Marie holds steadfast faith in him and Tagfer holds only resentment. The Drifter can explain the Cavia's situation to her, which allows her to see a broader side of the picture surrounding Albrecht. When she later returns to the topic with the Drifter, she expresses how she wishes others would abandon their hatred of him because she knows firsthand how capable he is of good. Depending on how the Drifter handles this conversation and previous ones, she will leave in anger from their arguments, only to return the next day after pondering their words, with the Drifter helping her realize that, while Albrecht's treatment of her was genuine, he is also a very complicated man and not a saint as she believed. Marie can then renounce her blind faith in Albrecht, which is necessary to have her join the plan alongside Lyon and Roathe to reunite Loid with the Entrati family. Depending on how The Drifter handles conversations with her, they can confess their feelings for her, to which she will happily accept to date them if asked.",
+     "",
+     "She seems to hold some animosity towards Fibonacci for giving her a headache, and seems to be on good terms with Bird 3. Regardless of this and her argument with Tagfer, should she be convinced to let go of her blind faith in Albrecht, she will offer to help the Cavia pick a birthday after a conversation with Bird-3 and Loid."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "Marie mentions she was born with feet described as \"twisted\" and unusable. It is possibly she was born with clubfoot.",
+     "",
+     "Even though she was provided with biomechanical prosthetics (Which look like Wisp Prime's boots), she still suffers from chronic pain. She also used a wheelchair for a time into her adulthood.",
+     "",
+     "    - In some of her conversations, she even mentions she had \"no feet\", suggesting she had them amputated at some point. This also suggests the chronic pain she suffers from is related to \"phantom limb pain\", a real-life medical condition.",
+     "- When encountered as a defense target during The Descendia she will wield her Warframe's Signature Weapon, Fulmin, as well as a Protokol Spectre and Tonbo, sharing the latter two with Eleanor.",
+     "- Marie's Reservoirs have a unique appearance that resembles vials of potion.",
+     "- Marie's consent conversation shows she is already sexually interested in the Drifter's other partner just from learning about them, outright declaring the lover of her lover must be her lover as well.",
+     "- Though present in regular gameplay, Marie's veil is missing in her romance cutscene and in transmissions within The Descendia.",
+     "",
+     "Marie speaks both English and French (referred to as Gaullique in-game) and, similarly to Lettie, will frequently mix both languages when speaking or typing, becoming more pronounced if she is currently emotional, particularly when angry or excited about something. She also punctuates her messages the way French speakers do, with a space before any punctuation with at least two parts to it (such as question marks and exclamation points).",
+     "",
+     "  - Though otherwise fluent enough to communicate, Marie occasionally struggles to understand English turns of phrase."
+    ]
+   ]
+  ]
+ }
+}

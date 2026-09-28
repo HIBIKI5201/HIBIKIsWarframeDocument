@@ -1,0 +1,50 @@
+{
+ "key": "hok",
+ "name": "Hok",
+ "page": "Hok",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "鍛冶屋",
+ "wiki": {
+  "title": "Hok",
+  "url": "https://wiki.warframe.com/w/Hok",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Adin Rudd"
+  ],
+  [
+   "Quotes",
+   "Hok / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-new-war",
+   1,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “No, Pedlek, I will not be attending your poetry recital. Hok would rather get a plate in his head and collect magnets. How may I serve?”",
+   "> —Hok, scolding his assistant Pedlek before greeting the Tenno",
+   "> Hok is a middle-aged Ostron blacksmith who runs Hok's Anvil in Cetus, located on the right side of the market, directly across from the gate to the Plains of Eidolon. He mainly sells the parts to create Zaws, modular weapons which can be assembled and gilded at his anvil, and Exodia arcanes which can be used to enhance a Zaw even further. He also offers a daily special product to his customers in the form of a randomized, gilded Zaw for a sum of Platinum, and provides a service to Entitle any max-rank melee weapon for 15 which re-brands said weapon with a customized name.",
+   "> When a Zaw is proven to be worthy and tested in battle (by leveling said weapon to rank 30), a Tenno may also donate it to the blacksmith in exchange for Ostron Standing, to be used by the town's militias."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- While the Plague weapon pieces from Operation: Plague Star are fitted together by Hok into Zaws, he will not sell them, as they were event rewards purchasable from Nakak. However, his Daily Special may include any of them as part of the complete Zaw sold for platinum.",
+     "- In Thai, the word \"Hok\" (หอก) means \"Spear\"",
+     "- He is voiced by Adin Rudd."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 新たな大戦（The New War）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [創造主](the-maker.md) ・ [デュヴィリ・パラドックス](the-duviri-paradox.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Sentient と Narmer の侵攻に対し、太陽系全体を巻き込んだ戦争
 
 Natah、Erra、Ballas に率いられた Sentient が太陽系の完全支配を目指して戻り、Tenno・Grineer・Corpus を相手に総力戦を仕掛けるメインクエスト。ソロ専用で、Update 31.0（2021-12-15）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_New_War) / [台詞全文](https://wiki.warframe.com/w/The_New_War/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_New_War)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_New_War/Transcript) / [全文検索](../../search.html?q=The%20New%20War)
 
 ## 基本情報
 
@@ -29,59 +29,50 @@ Natah、Erra、Ballas に率いられた Sentient が太陽系の完全支配を
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Ballas](../../wiki/characters/g06-orokin.md#ballas) |  | 105 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 96 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 43 |
-| [Hunhow](../../wiki/characters/g07-sentient.md#hunhow) |  | 38 |
-| [Cephalon Cy](../../wiki/characters/g02-cephalon.md#cephalon-cy) |  | 25 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 22 |
-| [Councilor Vay Hek](../../wiki/characters/g03-grineer.md#councilor-vay-hek) |  | 21 |
-| [Little Duck](../../wiki/characters/g19.md#little-duck) |  | 16 |
-| [Konzu](../../wiki/characters/g15-cetus-ostron.md#konzu) |  | 15 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 14 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 12 |
-| [Cephalon Melica](../../wiki/characters/g02-cephalon.md#cephalon-melica) |  | 9 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 9 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 9 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 9 |
-| [Margulis](../../wiki/characters/g06-orokin.md#margulis) |  | 8 |
-| [Praghasa](../../wiki/characters/g07-sentient.md#praghasa) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Jackal](../../wiki/characters/g04-corpus.md#jackal) |  | 6 |
-| [Nora Night](../../wiki/characters/g13.md#nora-night) |  | 6 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Shadow Stalker](../../wiki/characters/g08-stalker.md#shadow-stalker) |  | 5 |
-| [The Man in the Wall](../../wiki/characters/g10-void-murmur-zariman.md#the-man-in-the-wall) |  | 5 |
-| [Ka-Nuteru](../../wiki/characters/g09-narmer.md#ka-nuteru) |  | 4 |
-| [Master Teasonai](../../wiki/characters/g15-cetus-ostron.md#master-teasonai) |  | 4 |
-| [Berryn](../../wiki/characters/g01-tenno.md#berryn) |  | 3 |
-| [Jenva](../../wiki/characters/g01-tenno.md#jenva) |  | 3 |
-| [Terolee](../../wiki/characters/g01-tenno.md#terolee) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Kahl-175](../../wiki/characters/g03-grineer.md#kahl-175) |  | 3 |
-| [Helminth](../../wiki/characters/g05-infested.md#helminth) |  | 3 |
-| [Eudico](../../wiki/characters/g16-fortuna-solaris.md#eudico) |  | 3 |
-| [Archimedean](../../wiki/characters/g20.md#archimedean-perintol) |  | 3 |
-| [Mathon](../../wiki/characters/g01-tenno.md#mathon) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Archon Boreal](../../wiki/characters/g07-sentient.md#archon-boreal) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
-| [Fisher Hai-Luk](../../wiki/characters/g15-cetus-ostron.md#fisher-hai-luk) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Drifter](../characters/drifter.md) | Tenno | 79 |  |
+| [Ballas](../characters/ballas.md) | Orokin | 78 | 104 |
+| [Ordis](../characters/ordis.md) | Cephalon | 69 | 94 |
+| [Operator](../characters/operator.md) | Tenno | 65 |  |
+| [Veso](../characters/veso.md) | Corpus | 43 |  |
+| [Lotus](../characters/lotus.md) | Tenno | 38 |  |
+| [Hunhow](../characters/hunhow.md) | Sentient | 33 | 37 |
+| [Teshin](../characters/teshin.md) | Tenno | 24 | 40 |
+| [Cephalon Cy](../characters/cephalon-cy.md) | Cephalon | 23 | 24 |
+| [Erra](../characters/erra-character.md) | Sentient | 20 |  |
+| [Councilor Vay Hek](../characters/councilor-vay-hek.md) | Grineer | 18 | 20 |
+| [Alad V](../characters/alad-v.md) | Corpus | 16 | 19 |
+| [Little Duck](../characters/little-duck.md) | 外伝・イベント初出 | 13 | 15 |
+| [Konzu](../characters/konzu.md) | Cetus・Ostron | 7 | 14 |
+| [Cephalon Melica](../characters/cephalon-melica.md) | Cephalon | 7 | 8 |
+| [Nora Night](../characters/nora-night.md) | 中立 | 3 | 5 |
+| [Natah](../characters/natah.md) | Sentient | 2 | 10 |
+| [Margulis](../characters/margulis.md) | Orokin | 2 | 7 |
+| [The Man in the Wall](../characters/the-man-in-the-wall.md) | Void・Murmur・Zariman | 2 | 4 |
+| [Berryn](../characters/berryn.md) | Tenno | 2 | 3 |
+| [Jenva](../characters/jenva.md) | Tenno | 2 | 3 |
+| [Terolee](../characters/terolee.md) | Tenno | 2 | 3 |
+| [Master Teasonai](../characters/master-teasonai.md) | Cetus・Ostron | 1 | 3 |
+| [Mathon](../characters/mathon.md) | Tenno | 1 | 2 |
+| [Unum](../characters/unum.md) | Orokin | 1 |  |
+| [Hok](../characters/hok.md) | Cetus・Ostron | 1 |  |
+| [Praghasa](../characters/praghasa.md) | Sentient |  | 7 |
+| [Railjack Crew](../characters/railjack-crew.md) | 中立 |  | 7 |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 5 |
+| [Jackal](../characters/jackal.md) | Corpus |  | 5 |
+| [Corpus Commander](../characters/corpus-commander.md) | Corpus |  | 4 |
+| [Corpus Captain](../characters/corpus-captain.md) | Corpus |  | 4 |
+| [Shadow Stalker](../characters/shadow-stalker.md) | Stalker |  | 4 |
+| [Ka-Nuteru](../characters/ka-nuteru.md) | Narmer |  | 3 |
+| [Solaris United Agent](../characters/solaris-united-agent.md) | Fortuna・Solaris |  | 3 |
+| [Kahl-175](../characters/kahl-175.md) | Grineer |  | 2 |
+| [Helminth](../characters/helminth.md) | Infested |  | 2 |
+| [Archon Boreal](../characters/archon-boreal.md) | Sentient |  | 2 |
+| [Eudico](../characters/eudico.md) | Fortuna・Solaris |  | 2 |
+| [Archimedean Perintol](../characters/archimedean.md) | 名前だけ出てくる人物 |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 Ballas と Erra が率いる Sentient が、太陽系への全面侵攻を始める。Tenno は共通の敵に立ち向かうため、Grineer や Corpus と手を組まざるを得なくなる。しかし Grineer の Kahl-175、Corpus の Veso、Teshin の奮闘もむなしく太陽系は陥落し、Ballas は Lotus とオペレーターを Void のポータルへ追放する。
 
@@ -91,7 +82,7 @@ Tenno を失った太陽系は Sentient の前に崩れ、Ballas が新たな支
 
 Narmer が揺らいだことで、太陽系はゆっくりと回復し始める。Tenno は Lotus をルアに連れ帰る。彼女は自分の中に Lotus、Natah、Margulis という相反する人格があることを明かし、Tenno はその中から一つの声を選んで他を導かせることになる。
 
-### トリビア
+## トリビア
 
 - Narmer が支配した後の星図は赤みがかった背景になり、ほとんどの惑星のノードが Narmer の紋章に置き換わり、軌道上に Murex が停泊する。
   - Relay や Grineer の艦、Corpus 船など Sentient 以外の宇宙構造物は Narmer 版の星図から消えている。
@@ -113,3 +104,7 @@ Narmer が揺らいだことで、太陽系はゆっくりと回復し始める�
 - このクエストは多くの前例を作った。Tenno 以外の操作キャラが初めて登場し、クエストの長さや虐待などの描写について同意書に署名させた初めてのクエストでもある。大型アップデートの後に内容を補強する「Echoes」アップデート（Update 31.1「Echoes of War」）もここから始まった。「幕（Act）」で区切られる唯一のクエスト。
 - Orb Vallis のパートに出る Coolant Raknoid は Narmer と敵対し、Narmer の装飾もない。
 - TennoLive 2015 の「Tombs of the Sentient」トレーラーに出た名前のない Sentient の降下艇が、ゲーム内に登場するのはこのクエストだけ。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

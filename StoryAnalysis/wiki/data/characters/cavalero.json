@@ -1,0 +1,64 @@
+{
+ "key": "cavalero",
+ "name": "Cavalero",
+ "page": "Cavalero",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Holdfasts の武器商。元 Zariman の警備員",
+ "wiki": {
+  "title": "Cavalero",
+  "url": "https://wiki.warframe.com/w/Cavalero",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "The Holdfasts"
+  ],
+  [
+   "声優",
+   "Brent Mukai [ 1 ] [ 2 ]"
+  ],
+  [
+   "Quotes",
+   "Cavalero / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "angels-of-the-zariman",
+   9,
+   10
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “You're natural. Now, I'm sure you want to go crazy building armaments all over, but you cannot do that. You need to use sockets. Go find the socket that appeals to you the most - your socket, the socket that was meant for you - and build something dangerous in it.”",
+   "> —Cavalero during Angels of the Zariman",
+   "> For the Warframe whose name is sometimes pronounced similarly, see Kullervo.",
+   "> Cavalero is the arms-dealer of The Holdfasts and former security personnel of the Zariman Ten Zero ship. He offers Incarnon weapon blueprints and unique Arcane Enhancements. He is located in the center of the Chrysalith."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### General",
+     "",
+     "As a security personnel, Cavalero was tasked with maintaining peace and order aboard the Zariman Ten Zero. Parvos Granum once tried to hire Cavalero as his enforcer with a big payout, but he turned down the offer.",
+     "",
+     "### The Void-Jump Accident",
+     "",
+     "Prior to the Void Jump Accident, under Quinn's orders he violently rounded up those who protested against a long unsafe void jump and executed their leaders.",
+     "",
+     "Cavalero was one of the few adults on the Zariman who didn't get affected and driven insane from Void exposure before their death during the Void Jump Accident. After he'd witnessed Hombask's demise by the other adults who went insane, he blew himself and the approaching attackers up with a grenade.",
+     "",
+     "### Rebirth",
+     "",
+     "As the Zariman reappeared through the Void, Cavalero and four others were revived through the Void's mysterious powers. Now Conceptual Embodiments of their former selves, most of their memories have eroded away. As the player ranks up in the Holdfasts syndicate, they will slowly begin to remember who they were and the events that took place before and after the void jump."
+    ]
+   ]
+  ]
+ }
+}

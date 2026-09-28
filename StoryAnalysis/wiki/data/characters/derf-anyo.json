@@ -1,0 +1,45 @@
+{
+ "key": "derf-anyo",
+ "name": "Derf Anyo",
+ "page": "Derf Anyo",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Nef Anyo の息子（甥）",
+ "wiki": {
+  "title": "Derf Anyo",
+  "url": "https://wiki.warframe.com/w/Derf_Anyo",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus"
+  ],
+  [
+   "Quotes",
+   "Derf Anyo / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Derf Anyo is the son/nephew of Nef Anyo. First coined as a joke concept on the Forums, he was revealed in Devstream 30 as a new combat support unit for the then-recent ideas for the planned rework for Nef Anyo.",
+   "> The original concept on the forums can be found here. While the Nef Anyo rework never came to pass, elements of the Derf Anyo design were repurposed for the Scrambus units and the Corpus Commander character."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Derf Anyo's name originally came from the fact that Nef Anyo (prior to being split from The Sergeant) was considerably weaker than most bosses, leading to nicknames such as \"Derp Anyo\" or \"Nerf Anyo\". At some point the names were combined into Derf and became a separate fan-character.",
+     "- Derf Anyo is the second official concept which was inspired largely from a community-run gag, the first was A Favor For Darvo and third was A Man of Few Words.",
+     "",
+     "In the original concept, Derf Anyo is Nef's son rather than his nephew.",
+     "",
+     "  - This is the second character introduced to be directly related to another, the first being Darvo and Frohd Bek."
+    ]
+   ]
+  ]
+ }
+}

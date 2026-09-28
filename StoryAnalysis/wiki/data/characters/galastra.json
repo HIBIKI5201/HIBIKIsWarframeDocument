@@ -1,0 +1,69 @@
+{
+ "key": "galastra",
+ "name": "Galastra",
+ "page": "Galastra",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "Anarchs のリーダー",
+ "wiki": {
+  "title": "Galastra",
+  "url": "https://wiki.warframe.com/w/Galastra",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Anarchs"
+  ],
+  [
+   "First Appearance",
+   "The Old Peace"
+  ],
+  [
+   "声優",
+   "Gina Scarpa [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Galastra / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-old-peace",
+   0,
+   37
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “No history taught in those Tenno schools? Peace cannot abide the machines.”",
+   "> —Galastra",
+   "> Galastra is the leader of the Anarchs, a separatist faction that refused the peace between the Orokin and Sentient during The Old Peace."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The Old Peace ARG",
+     "",
+     "### The Old Peace",
+     "",
+     "Galastra is first heard giving orders on the battlefield and then deprives a Dactolyst of Xenoflora, a Tau native plant that grants them individuality, causing it to turn hostile and force the Operator to kill it.",
+     "",
+     "Galastra's forces then make an attempt on Ballas's life by using a Typholyst, as having a Sentient kill an Executor would be a surefire way to restart the war, but is thwarted by the Operator.",
+     "",
+     "Margulis then condemns Galastra to death for harming her loved ones and delivers the Operator an Ayatan containing kill-codes to destroy the Anarch's bases. After fighting off Commandeered Prime Warframes and installing the kill-codes, Galastra stumbles toward the Operator and Adis restrains her. Galastra attempts to coerce Adis to kill her and complete his \"final evolution\", but he refuses, and the duo abandon her to her self-destructing base."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Galastra once called Valdur her \"old pet\", implying he may previously served under her before her defection from the Orokin."
+    ]
+   ]
+  ]
+ }
+}

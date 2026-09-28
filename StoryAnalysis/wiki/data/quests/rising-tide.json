@@ -1,0 +1,79 @@
+{
+ "key": "rising-tide",
+ "name": "Rising Tide",
+ "page": "Rising Tide",
+ "ja": "流転する形勢",
+ "group": "メインストーリー",
+ "summary": "Railjack を建造して艦隊戦に備える",
+ "wiki": {
+  "title": "Rising Tide",
+  "url": "https://wiki.warframe.com/w/Rising_Tide",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Rising_Tide/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 26.1 (2019-11-22)"
+  ],
+  [
+   "種類",
+   "Main Quest"
+  ],
+  [
+   "条件",
+   "Completed The War Within"
+  ],
+  [
+   "報酬",
+   "Railjack"
+  ],
+  [
+   "台詞全文",
+   "Rising Tide / Transcript"
+  ],
+  [
+   "前のクエスト",
+   "The War Within"
+  ],
+  [
+   "次のクエスト",
+   "Chains of Harrow"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "cephalon-cy",
+   2,
+   2
+  ],
+  [
+   "railjack-crew",
+   0,
+   35
+  ],
+  [
+   "ordis",
+   0,
+   6
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Sentient の脅威に備え、Old War 時代の Orokin の戦闘艦 Railjack を組み立てるメインクエスト。Update 26.1（2019-11-22）で追加された。"
+  ],
+  "sections": [
+   [
+    "あらすじ",
+    [
+     "Veil Proxima に Sentient の異常が現れるなか、プレイヤーは Old War を戦った Orokin 時代の Cephalon、Cy を復元する。太陽系中を巡って古代の戦闘艦 Railjack の部品を探すうちに、Cy はかつての乗員たちの記憶に苦しめられる。彼らは Old War で Sentient 艦隊の首を取ろうとして全滅したのだ。Railjack を指揮できる Cephalon を必死に探した末、Cy は、自分ほどの専門知識と経験で Tenno の宇宙部隊を古き敵との戦いに導ける者は他にいないと悟る。Railjack が修復され、Tenno は Veil Proxima の Sentient に立ち向かう準備を整える。"
+    ]
+   ]
+  ]
+ }
+}

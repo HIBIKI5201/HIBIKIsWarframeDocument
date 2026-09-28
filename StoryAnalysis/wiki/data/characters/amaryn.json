@@ -1,0 +1,53 @@
+{
+ "key": "amaryn",
+ "name": "Amaryn",
+ "page": "Amaryn",
+ "group": "シンジケートの顔役",
+ "group_key": "g14",
+ "summary": "New Loka のリーダー",
+ "wiki": {
+  "title": "Amaryn",
+  "url": "https://wiki.warframe.com/w/Amaryn",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "New Loka"
+  ],
+  [
+   "Quotes",
+   "Amaryn / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-silver-grove",
+   35,
+   38
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "New Loka シンジケートのリーダー。地球の人類の過去を取り戻すことが太陽系の救いになると信じている。",
+   "",
+   "> 「New Loka は、真の人間性こそが、この苦しみから我らを清める唯一の道だと信じています」（Amaryn）"
+  ],
+  "sections": [
+   [
+    "経歴",
+    [
+     "### 銀の果樹園",
+     "",
+     "> 「銀の果樹園をご存じですか。地球で最も古く、最も純粋な森です。我らの最も神聖な祠があります。あのねじれた忌まわしき Grineer どもが、そこに工場を建てようとしていると知りました。Grineer の Scorch 部隊が送り込まれ、我らの祝福された銀の果樹園を灰にしようとしています」（Amaryn）",
+     "",
+     "地球の森を本来の輝きに戻すことを願う Amaryn は、地球を荒らす Grineer を退け、地球最古の森「銀の果樹園」の守りを目覚めさせる Apothic の材料を集めるよう Tenno に頼む。",
+     "",
+     "Tenno が果樹園の中心の祠に強力な Apothic を捧げていくにつれ、Amaryn は地球の森が自然にできたものではなく、Orokin の技術の産物だったことを知る。腐敗した Orokin 帝国とつながっていたことに罪悪感を覚えるが、最も古い生きた木に転移した Orokin の Archimedean、Silvana は、地球の自然を守ろうとする善意を持っていたことも知る。自らの「不純さ」と折り合いをつけた彼女は、自分のシンジケートが崇めているのは、穢れた帝国の種から育った自然なのだと受け入れる。"
+    ]
+   ]
+  ]
+ }
+}

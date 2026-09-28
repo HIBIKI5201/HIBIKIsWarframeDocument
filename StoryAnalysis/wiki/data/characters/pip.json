@@ -1,0 +1,38 @@
+{
+ "key": "pip",
+ "name": "Pip",
+ "page": "Pip",
+ "group": "Duviri",
+ "group_key": "g12-duviri",
+ "summary": "Shawzin 弾き。「孤独」の化身",
+ "wiki": {
+  "title": "Pip",
+  "url": "https://wiki.warframe.com/w/Pip",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Pip / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “To the Void with you, Fergin! The King says I can play as loud as I like! What I wouldn't give to hear his grumpy old voice again.”",
+   "> —Pip",
+   "> Pip is a Duviri Shawzinist and the avatar of loneliness. He can be found near his house located near the edge of Lonesome Outlook, leaning against a tree, playing his Shawzin.",
+   "> Pip had a brother named Fergin, who preferred to play Komi, and would always ridicule Pip's Shawzin playing. However, Fergin mysteriously went missing one day. Despite his brother's ridicule, Pip states that he misses him."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Pip plays a unique Lonesome Shawzin that has the sound of the Courtly Shawzin."
+    ]
+   ]
+  ]
+ }
+}

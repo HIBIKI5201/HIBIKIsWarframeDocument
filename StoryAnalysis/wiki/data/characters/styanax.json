@@ -1,0 +1,21 @@
+{
+ "key": "styanax",
+ "name": "Aria / Darro",
+ "page": "Styanax",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Styanax の伝承に出てくる（Styanax のページにリンク）",
+ "wiki": {
+  "title": "Styanax",
+  "url": "https://wiki.warframe.com/w/Styanax",
+  "exists": true
+ },
+ "link_only": true,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": null,
+  "summary": [],
+  "sections": []
+ }
+}

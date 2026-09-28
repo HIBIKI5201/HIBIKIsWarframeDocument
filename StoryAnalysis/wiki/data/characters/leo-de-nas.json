@@ -1,0 +1,26 @@
+{
+ "key": "leo-de-nas",
+ "name": "Leo De Nas",
+ "page": "Leo De Nas",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Wiki にも説明がほとんどない",
+ "wiki": {
+  "title": "Leo De Nas",
+  "url": "https://wiki.warframe.com/w/Leo_De_Nas",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Leo De Nas / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [],
+  "sections": []
+ }
+}

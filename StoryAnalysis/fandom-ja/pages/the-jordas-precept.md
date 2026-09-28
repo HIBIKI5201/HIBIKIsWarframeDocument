@@ -6,4 +6,6 @@
 
 > コミュニティが書いた記事で、ゲームの最新の内容や公式の日本語訳と違うことがある。
 
+このサイトのクエストのページ: [Jordas の教訓](../../wiki/quests/the-jordas-precept.md)（英語版 Wiki を元にした最新の情報）
+
 JORDASの教訓（The Jordas Precept）は、アップデート 17.5で実装されたATLAS取得クエスト。

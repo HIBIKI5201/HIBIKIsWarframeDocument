@@ -1,0 +1,28 @@
+{
+ "key": "cephalon-acetuma",
+ "name": "Cephalon Acetuma",
+ "page": "Cephalon Acetuma",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Cephalon Melica が言及",
+ "wiki": {
+  "title": "Cephalon Acetuma",
+  "url": "https://wiki.warframe.com/w/Cephalon_Acetuma",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Cephalon Acetuma / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Cephalon Acetuma is a Cephalon mentioned by Cephalon Melica. They were a fellow teaching cephalon for children. It is unclear whether they taught children on the Zariman or another ship."
+  ],
+  "sections": []
+ }
+}

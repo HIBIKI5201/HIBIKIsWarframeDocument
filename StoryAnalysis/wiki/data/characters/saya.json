@@ -1,0 +1,53 @@
+{
+ "key": "saya",
+ "name": "Saya",
+ "page": "Saya",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Onkko の妻",
+ "wiki": {
+  "title": "Saya",
+  "url": "https://wiki.warframe.com/w/Saya",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Saya / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "saya-s-vigil",
+   35,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Oh... Onkko. You always told me I should try following my heart... instead of my head.",
+   "> Sho-lah. I guess it's time I did.” —Saya, talking to Konzu",
+   "> Saya is an elderly Ostron who lives in the outskirts of Cetus, distraught over the loss of her husband Onkko for five years. After the players have finished Saya's Vigil, she can be seen standing besides Konzu, just across the gate to the Plains of Eidolon."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### Saya's Vigil",
+     "",
+     "In the past, Saya was a close friend to both Onkko and Konzu; both men proposed marriage to her, and she decided to marry Onkko. The marriage did not last for long, as five years ago, during Konzu and Onkko's excursion out in the Plains, the latter mysteriously disappeared leaving Saya to mourn her loss.",
+     "",
+     "Five years later, Konzu hears from The Quills of the Grineer finding leads on Onkko, which prompts him to ask a favor for the Tenno: to watch over Saya, lest she act recklessly. Initially, Saya blamed Konzu for her husband's disappearance, citing the man's motive being her rejection of his marriage proposal, along with his Iron Flower. Eventually however, as the Tenno discover more clues about Onkko's research, she comes to terms with his death and eventually accepts Konzu's feelings after rediscovering the iron flower, which had been kept safe inside Onkko's coffer all along.",
+     "",
+     "### Fate Dream",
+     "",
+     "Main article: Shrine Defense/Quotes",
+     "",
+     "Saya receives nightmares of Infested emerging from the ocean waters and raiding Cetus, all while Councilor Vay Hek gloats. She believes this to be a premonition from Koumei and urges the Tenno to enter the Fate Dream in order to avert this disastrous fate."
+    ]
+   ]
+  ]
+ }
+}

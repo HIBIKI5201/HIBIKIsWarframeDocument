@@ -1,0 +1,30 @@
+{
+ "key": "shigg-s-friend",
+ "name": "Shigg's Friend",
+ "page": "Shigg's Friend",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Shigg の友人",
+ "wiki": {
+  "title": "Shigg's Friend",
+  "url": "https://wiki.warframe.com/w/Shigg's_Friend",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Shigg's Friend / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Shigg- Have you dropped your mind? We've chipped on those scaffolds together since we were kids. Filled your empty bowl with half of mine. Every time. That is our way, our law. I'm giving you until moonfall before Elder Konzu hears you've been skimming.”",
+   "> —Havera/Kaleet/Prageshta",
+   "> Shigg's friend is a minor character introduced in Nightwave: Series 3 - The Glassmaker. Their only mention is a burned note at the Glassmaker crime scene."
+  ],
+  "sections": []
+ }
+}

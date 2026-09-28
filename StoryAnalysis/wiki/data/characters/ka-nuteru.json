@@ -1,0 +1,59 @@
+{
+ "key": "ka-nuteru",
+ "name": "Ka-Nuteru",
+ "page": "Ka-Nuteru",
+ "group": "Narmer",
+ "group_key": "g09-narmer",
+ "summary": "Narmer に染まった Grineer の兵士",
+ "wiki": {
+  "title": "Ka-Nuteru",
+  "url": "https://wiki.warframe.com/w/Ka-Nuteru",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Narmer"
+  ],
+  [
+   "First Appearance",
+   "The New War"
+  ],
+  [
+   "Quotes",
+   "Ka-Nuteru / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-new-war",
+   0,
+   3
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Disciple Ka-Nuteru is a Grineer soldier who is under the influence of Narmer."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The New War",
+     "",
+     "During the events of the quest, Ka-Nuteru and her squad of Grineer were stationed in the sealabs of Uranus. They were hunting the Stalker, who was slowly thinning down the Grineer until only Ka-Nuteru was left. Despite her faith, the disciple is the last to fall, fearfully muttering \"all as one\" twice before being cut off.",
+     "",
+     "Once the Drifter arrives at the sight of the scuffle, they can see the disciple's body impaled to the wall, killed by Stalker like the rest of her troops."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- While Ka-Nuteru's design implies she is either a Drekar Ballista or Heavy Gunner, she sports a unique black primary color with purple and white accents that do not match any of the Drekar units on Uranus."
+    ]
+   ]
+  ]
+ }
+}

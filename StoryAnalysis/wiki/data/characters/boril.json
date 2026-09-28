@@ -1,0 +1,32 @@
+{
+ "key": "boril",
+ "name": "Boril",
+ "page": "Boril",
+ "group": "Grineer",
+ "group_key": "g03-grineer",
+ "summary": "降格した Vor の後任として提督に任命された人物",
+ "wiki": {
+  "title": "Boril",
+  "url": "https://wiki.warframe.com/w/Boril",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Boril is a Grineer character that was appointed to replace the then-Admiral Vor after his demotion by the Twin Queens. Vor encountered him when traveling to Earth to look for Tenno, where Boril attempted to scare him away, saying that the Tenno found there were his prize. Vor responded by attacking him with a Nervos, knocking him out."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- There is some confusion as to the identities of Boril and Sergeant Zek as they effectively have exactly the same role and exact same dialogue in both The Call trailer and the Tutorial before Starchart 2.0 while appearing on different planets. In a post-Devstream Trailer, the Queens order Vor to \"take the Rail to Pluto\" and that Boril is now in command, suggesting that Boril was the Grineer he encountered and assaulted in The Call.",
+     "- However, as Boril's name is given via captions in the most recent, Earth-based iteration of the Tutorial (the Vor's Prize quest) is appears that Boril was encountered on Earth while Sergeant Zek was encountered on Pluto, where he might have been acting on Boril's behalf.",
+     "- Boril's rank is never given, but as he was placed in command after Vor was demoted it is possible he was an Admiral, or elevated to the position by the Queens in place of Vor."
+    ]
+   ]
+  ]
+ }
+}

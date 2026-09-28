@@ -1,0 +1,128 @@
+{
+ "key": "ven-kra-tel",
+ "name": "Ven'kra Tel",
+ "page": "Ven'kra Tel",
+ "group": "Grineer",
+ "group_key": "g03-grineer",
+ "summary": "フィールドボス。Operation Gate Crash で初登場",
+ "wiki": {
+  "title": "Ven'kra Tel",
+  "url": "https://wiki.warframe.com/w/Ven'kra_Tel",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Grineer"
+  ],
+  [
+   "Mission Type(s)",
+   "Formido / Orokin Sabotage / Stribog"
+  ],
+  [
+   "種類",
+   "Field Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Avex"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "50"
+  ],
+  [
+   "Health",
+   "400"
+  ],
+  [
+   "Armor",
+   "150"
+  ],
+  [
+   "Dmg. Reduction",
+   "21.21 %"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Body Multipliers",
+   "Head: 2x"
+  ],
+  [
+   "Base Level",
+   "10"
+  ],
+  [
+   "Spawn Level",
+   "16"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 14.7 (2014-09-17)"
+  ],
+  [
+   "Mod Drops",
+   "Organ Shatter 0.76% / Stormbringer 0.33% / Continuous Misery 0.76% / Terminal Velocity 0.33% / 15 Endo 0.76% / 80 Endo 0.06%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 100.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “You will be led by pairs of my newest, most vicious clones. Go now, for the Queens!”",
+   "> —Councilor Vay Hek, in his Operation Gate Crash Address.",
+   "> Ven'kra Tel is a special Grineer Field Boss unit first introduced in Operation Gate Crash and now regularly encountered in Orokin Sabotage missions where Grineer are the dominant enemy. She, along with Sprag, guard a Void Key necessary to close the Void Portal. She was later captured by Narmer and forced into their service.",
+   "> She possesses a blue jet pack identical to that used by Hellions that grants her excellent mobility, and can use her Avex and other ranged special abilities to engage Tenno from afar."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Ven'kra Tel's Codex entry shows her wearing a green jet pack identical to that of the Frontier Hellions.",
+     "- Prior to Update 32.1 (2022-11-02), Ven'kra Tel originally wielded a white Vulkar.",
+     "- Ven’kra Tel, along with her sister, might possibly have a relation to Vay Molta, for she is also said to be one of Vay Hek’s most vicious clones."
+    ]
+   ]
+  ]
+ }
+}

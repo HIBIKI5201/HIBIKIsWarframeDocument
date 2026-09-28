@@ -1,0 +1,63 @@
+{
+ "key": "daklo",
+ "name": "Daklo",
+ "page": "Daklo",
+ "group": "Cephalon",
+ "group_key": "g02-cephalon",
+ "summary": "Tauron Academy にいる Cephalon",
+ "wiki": {
+  "title": "Daklo",
+  "url": "https://wiki.warframe.com/w/Daklo",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Orokin"
+  ],
+  [
+   "First Appearance",
+   "The Old Peace"
+  ],
+  [
+   "声優",
+   "Kevin Cherry [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Daklo / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-old-peace",
+   6,
+   6
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Daklo is a Cephalon stationed on Tauron Academy. Debuting in The Old Peace, Daklo openly shows his disdain toward the Sentients."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The Old Peace",
+     "",
+     "Daklo does not hide his dislike towards the Sentients; he refers to Caliban Prime as \"Orokin gold - wasted!\" and an \"aberration\", and openly insults Adis by calling him \"void-lugger\". He later approaches the Operator as they try to find Adis, who was saddened by them killing a controlled Dactolyst, expressing his confusions that the Sentients wish to be human.",
+     "",
+     "Despite this, Daklo is shocked to witness the Grineer forces immediately turning on the Sentients the moment Ballas breaks the treaty. The Operator, on a blind rage, can choose to spare or attack Daklo."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Daklo's Sentinel body resembles Ordis' with an owl-like head"
+    ]
+   ]
+  ]
+ }
+}

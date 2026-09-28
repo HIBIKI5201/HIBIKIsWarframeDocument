@@ -1,0 +1,210 @@
+{
+ "key": "excalibur-umbra",
+ "name": "Excalibur Umbra",
+ "page": "Excalibur/Umbra",
+ "group": "Tenno",
+ "group_key": "g01-tenno",
+ "summary": "Excalibur の Umbra 版。The Sacrifice で登場",
+ "wiki": {
+  "title": "Excalibur/Umbra",
+  "url": "https://wiki.warframe.com/w/Excalibur/Umbra",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "1st Ability",
+   "Slash Dash"
+  ],
+  [
+   "2nd Ability",
+   "Radial Howl"
+  ],
+  [
+   "3rd Ability",
+   "Radial Javelin"
+  ],
+  [
+   "4th Ability",
+   "Exalted Blade"
+  ],
+  [
+   "Sex",
+   "Male"
+  ],
+  [
+   "Mastery Rank Requirement",
+   "0"
+  ],
+  [
+   "Max Rank",
+   "30"
+  ],
+  [
+   "Health",
+   "270 (370 at Rank 30)"
+  ],
+  [
+   "Shields",
+   "270 (370 at Rank 30)"
+  ],
+  [
+   "Armor",
+   "315"
+  ],
+  [
+   "Energy",
+   "175 (225 at Rank 30)"
+  ],
+  [
+   "Starting Energy",
+   "100"
+  ],
+  [
+   "Sprint Speed",
+   "1"
+  ],
+  [
+   "Playstyle",
+   "Damage"
+  ],
+  [
+   "Exilus Polarity",
+   "None"
+  ],
+  [
+   "初登場",
+   "Update 23.0 (2018-06-15)"
+  ],
+  [
+   "Themes",
+   "Shadow, Swordsman"
+  ],
+  [
+   "Progenitor Element",
+   "Electricity"
+  ],
+  [
+   "Tactical Ability",
+   "Radial Howl"
+  ],
+  [
+   "Augment Shops",
+   "Arbiters of Hexis , Red Veil , Steel Meridian"
+  ],
+  [
+   "Sell Price",
+   "0"
+  ]
+ ],
+ "quests": [
+  [
+   "the-sacrifice",
+   2,
+   5
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> For the China-exclusive variant, see Excalibur/Umbra Prime.",
+   "> From the shadow of the long night emerges a new Excalibur.",
+   "> “Ferocious and untamed, Umbra’s fury is second only to his mastery of the blade.”",
+   "> — Introduction of Umbra"
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The Sacrifice",
+     "",
+     "> “But you won't have to imagine. A lovingly cultured Infestation swarms within your blood. Your transformation has begun, reshaping you into a sacred surrogate of the unholy Tenno... A Warframe with but a Single. Burning. Memory. It is... a miracle! But all miracles require sacrifice.”",
+     "",
+     "> —Ballas",
+     "",
+     "Excalibur Umbra was originally an Orokin Dax soldier who was punished by Ballas for attempting to interfere with his betrayal. Similar to the description of the Warframe creation process previously recorded by Ballas in the Vitruvian, he was shown to be exposed to the Infestation to become an anti- Sentient weapon - a Warframe. However, it was a \"miracle\" that required the \"sacrifice\" of Umbra's son Isaah, at his own hands, forced by Ballas through a unique Transference Bolt. This memory of filicide was permanently stored in Umbra to be replayed endlessly as punishment for spying on Ballas.",
+     "",
+     "As a result of Umbra's torment, he retains most of his sentience and is capable of acting on his own without the Tenno's control, even initially rejecting the Operator's Transference and going rogue. Umbra also carries the memories of his final moments before transforming into a Warframe, which the Operator discovers to contain codes that unlock Ballas's Vitruvian recordings of the Sentient's betrayal, the creation of Warframes, and the Tenno.",
+     "",
+     "Umbra is first seen in a courtyard on Earth battling his creator and his allied Sentients, but due to Transference influence he is unable to disobey Ballas, leading him to be easily destroyed by Natah. The Operator discovers Umbra's remains on Earth, which leads them to a containment cell on Lua housing Ballas's Vitruvian, allowing the Operator to rebuild Umbra from the contained data. However, Umbra immediately goes rogue and flees across the solar system, but not before the Operator taps into his memories.",
+     "",
+     "> “--We had created monsters we couldn't control. We drugged them, tortured them, eviscerated them... We brutalized their minds... but it did not work. Until they came. And it was not their force of will - not their Void devilry - not their alien darkness... It was something else. It was that somehow, from within the derelict-horror, they had learned a way to see inside an ugly, broken thing-- And take away its pain.”",
+     "",
+     "> —Ballas",
+     "",
+     "After seeing all of Umbra's memories, the Operator reassures Umbra that they will fight Ballas together. In a strange and surreal sequence in his mind, Umbra calms down and finally accepts the Operator's Transference. Together they battle Ballas on Earth, whose attempts to subdue Umbra prove futile when the Operator's Transference overpowers Ballas's control, allowing Umbra to significantly wound his creator.",
+     "",
+     "### Jade Shadows: Constellations",
+     "",
+     "When Stalker found himself being hunted by Sirius and Orion, his paradoxical sons from doomed futures, he realised he would need help. Unwilling to ask the Operator for their help again, he instead turned to Umbra for assistance.",
+     "",
+     "Stalker evaded Ordis to meet with Umbra on board the Operator's Orbiter, where he was keeping himself occupied by playing his shawzin in the Personal Quarters. Despite Ordis's objections, Umbra - once a father himself, albeit having already lost his son - agreed to assist him. The pair first went to a Corpus outpost to intercept their transmissions in order to track down Sirius and Orion's respective locations, before returning to Hunhow's lair. While Stalker set out to track down the mentors of his future sons, Umbra remained behind to protect the infant son and comfort him. He also allowed Stalker to use his weaponry ( Paris Prime, Aklex Prime, and Skiajati) for the second of the two hunts.",
+     "",
+     "When both Sirius and Orion arrived, Umbra held both of them off briefly until Stalker returned. Afterwards, he was last seen in the entrance of Pontis Tower, unconscious on the ground."
+    ]
+   ],
+   [
+    "Known Bugs",
+    [
+     "Due to Umbra's sentient passive, the following bugs can be observed:",
+     "",
+     "Most subsumed duration, charge, and channeling abilities are removed when transferring out of Umbra when sentience is enabled.",
+     "",
+     "This does not include Exalted Blade, but if the Umbra Sentience specter runs out of energy when Exalted Blade is active, it will be lost as expected.",
+     "",
+     "    - A strange exception to this is when using Remedium where Umbra's sentience will immediately decast Exalted Blade like he used to.",
+     "    - This effect can be mitigated by using starting energy like from Amber Archon Shards or Preparation. A lot of energy sources do not apply to the specter, but effects like Rage do work to prevent Exalted Blade’s removal if the specter is taking sufficient damage.",
+     "    - If going into Operator form while Exalted Blade is cast and Umbra Sentience runs out of energy, Exalted Blade will be cast by the sentience if enough energy is recovered throughout Rage or Hunter Adrenaline (Currently Broken as Jade's Shadow Constellations Update - Since it wasn't announce on the patch notes it is likely it is an unintended change)",
+     "- There’s a small chance that when transferring back into Umbra, both the 1st and 2nd ability will be permanently disabled for the rest of the mission. This may be induced by transferring back into Umbra too quickly.",
+     "",
+     "Occasionally, maximum health will be reduced down to the base 370 when transferring back into Umbra. The workaround for this is to transfer out and back in.",
+     "",
+     "  - Once this bug is triggered in a mission, it will reoccur for the rest of the mission at a moderate chance.",
+     "- If the Umbra specter is downed as you go to transfer in, there’s a small chance that the player will be stuck kneeling like what Umbra’s specter does after lethal damage. The current workaround is to get downed by enemies.",
+     "- If Mania applies the Lifted status effect on Umbra while Exalted Blade is active and the player switches to Operator and back into Umbra, he will be unable to use both Exalted Blade and the equipped melee weapon. Only the first few frames of the animation will play out, before the attack is canceled.",
+     "",
+     "If the Combo Counter is built with Weeping Wounds, Blood Rush or the Gladiator Set bonus and Power Spike is used to maintain it, once the player switches to Exalted Blade and hits at least one enemy then let its combo duration reset, either on its own over time or by using a Heavy Attack, he will lose the Gladiator set bonus applying to Exalted Blade in addition to Weeping Wounds, Blood Rush and the Gladiator set bonus applying to the equipped melee weapon, even if combo remains on it. This seems to be the case for all exalted weapons.",
+     "",
+     "  - In order for those mods to begin working properly again, the player must either use a Heavy Attack on the equipped melee weapon to lose all combo or wait for Power Spike to drop the combo to its previous multiplier. Another solution is to use negative combo duration mods so that combo is never built up on the Exalted weapon.",
+     "- If the Operator goes through a Conduit in Sanctuary Onslaught but Umbra does not, switching back to Umbra after the Conduit has closed will make Umbra invisible and unable to use his abilities or Transference, weapons are unaffected.",
+     "- Furious Javelin bonus isn't carried over if Umbra Sentience uses Radial Javelin while the augment is equipped. Radiant Finish and Purging Slash and their effects still work"
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "Umbra is the Latin word for \"shadow\".",
+     "",
+     "  - It is currently unknown if \"Umbra\" is his original name or a title given by Ballas.",
+     "- Excalibur Umbra is the first Umbra variant of a Warframe to be released in WARFRAME.",
+     "- Excalibur Umbra is the only quest Warframe that cannot be purchased from the Market or be sold.",
+     "- Excalibur Umbra's Agile and Noble animation sets are the only animation sets that are able to be used on other Warframes without prior purchase.",
+     "- According to its Codex entry, the Skiajati, Umbra's signature weapon, is a Nikana \"grafted\" from Umbra's flesh.",
+     "- In the Chinese build, Excalibur Umbra originated as part of their Founder's pack exclusive, as Excalibur Umbra Prime, gameplay-wise identical to Excalibur Prime. The pack also included the Nikana Prime and the Spira Prime, as well as the Gauvan Prime Sekhara, a shoulder accessory obtainable only through that Founder pack.",
+     "- Upon release, Excalibur Umbra had the passive ability of Prime Warframes to gain energy from Orokin Void Death Orbs, as an erroneous leftover from his data origins as Excalibur Umbra Prime. This was later removed in Hotfix 23.0.3 (2018-06-19).",
+     "- Umbra utilizes a different sword design for his Exalted Blade, which is named Exalted Umbra Blade. The stats for both weapons, however, are identical.",
+     "- Upon completion of The Sacrifice quest, players will receive an Excalibur Umbra-exclusive Excalibur Umbra Sunder Helmet in their inbox, which is a battle-damaged version of the regular Umbra helmet.",
+     "",
+     "Excalibur Umbra is a frame released with the first quest that confirmed Warframes to originally be \"human beings\". He is also the first frame to have had his face exposed due to self-inflicted damage to his helmet in the Arsenal area.",
+     "",
+     "  - Ballas confirms that Warframes were originally designed from human subjects as Infested-hybrids cultivated by the Helminth.",
+     "  - Aside from his facial features exposed from his damaged helmet, Xaku is the second Warframe that also has facial features when using the ability, The Vast Untime.",
+     "- When interacting with Baro Ki'Teer, Baro will treat Umbra as he would be any other non-Prime frame.",
+     "- Umbra's scarf and torso lining, along with his Orokin ornaments, remain visible when other Excalibur skins are equipped, similar to the Prime details of Prime Warframes when using TennoGen skins. Hotfix 25.4.1 (2019-07-24) added a \"Toggle Prime Details\" option, which removes his scarf, torso lining and ornaments on other skins when toggled on.",
+     "- Looking closely, Shadow Stalker uses a unique variant of Excalibur Umbra's body, which lacks the Orokin ornaments and Umbra's signature scarf, along with a different loincloth design.",
+     "- In the \"The Sacrifice\" teaser of TennoCon 2017, Umbra wielded a regular Nikana on the Orokin Moon tileset.",
+     "- It was revealed at TennoCon 2018's Sound Panel that Excalibur Umbra's howls were voiced by [DE]Steve Sinclair, Game Director of Warframe.",
+     "- Before Update 24.6 when DE introduced the Two-Energy Colors, Excalibur Umbra used to have gold energy on Radial Howl and Exalted Umbra Blade. The gold energy can still be seen on Radial Howl when using different colors. This can be seen in The Sacrifice quest when Umbra goes berserk when equipping him the first time and also only in public sessions.",
+     "- Despite having sentience, Umbra will become immobile during cutscenes of most cinematic quests, using Transference inside the Orbiter and when approaching Orphix fields like any other Warframes. This is likely to avoid any pressure to use Umbra in such quests and due to the additional animation work.",
+     "",
+     "Although Excalibur Umbra can only be obtained once per account, it is possible to own multiple Excalibur Umbra through merging accounts.",
+     "",
+     "  - If an account that does not have an Excalibur Umbra is merged with an account that has one an the player choose the former as their primary account, they will be able to do The Sacrifice to get another, resulting in another unranked Umbra. (Note: the player cannot use their original Excalibur Umbra until they complete The Sacrifice)",
+     "- As a Dax, Umbra notably has a unique crest not seen in any other older male Daxes such as the likes of Teshin (more notable during the Awakening opening cutscene and the Erra quest, though it could be possible that the identical Daxes' appearances were merely asset reuses), as seen in his helmet's concept art as well as his portrait. Anything that the crest possibly signifies in the lore is currently unknown.",
+     "- Ordis' dialogue during Jade Shadows while tracking down an infiltrated Stalker seems to imply that Umbra roams around the Orbiter off-screen, which was proven true in Jade Shadows: Constellations where he is introduced sitting at the Personal Quarters and playing his Shawzin.",
+     "- Umbra was shown with his Sunder Helmet during Jade Shadows: Constellations when recruited by The Stalker, suggesting this is his canonical look in-lore. However, this contradicts how he was portrayed in The Sacrifice, as in that quest, his helmet regenerated after being torn."
+    ]
+   ]
+  ]
+ }
+}
