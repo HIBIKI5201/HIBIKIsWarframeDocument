@@ -54,7 +54,7 @@
       const hits = index.filter((e) => e.n.includes(term));
       count.textContent = hits.length + " 件";
       list.innerHTML = hits.slice(0, 200).map((e) =>
-        `<li><a href="${e.u.replace("#", "?q=" + encodeURIComponent(gq.value.trim()) + "#")}"><b>${escape(e.h)}</b>` +
+        `<li><a href="${e.u}"><b>${escape(e.h)}</b>` +
         `<small>${escape(e.p)}</small></a><p>${snippet(e.t, term)}</p></li>`).join("");
     };
     gq.addEventListener("input", run);
