@@ -15,14 +15,6 @@ https://hibiki5201.github.io/HIBIKIsWarframeDocument/
 `main` の `StoryAnalysis/` に変更を push すると、GitHub Actions（`.github/workflows/pages.yml`）が自動でビルドして更新する。
 Actions タブの「Publish StoryAnalysis to GitHub Pages」から手動でも実行できる。
 
-## スマホで見る（claude.ai アーティファクト）
-
-TODO とストーリー資料を 1 つにまとめたページを claude.ai に非公開で載せている（ヘッダーの「TODO / ストーリー」で切り替え）。
-https://claude.ai/artifact/M4pp71NGmLe6bvUcTkySPb
-
-内容は載せた時点のもの。更新するときは `python scripts/build_artifact.py` で `build/artifact/` を作り、
-Claude Code に「アーティファクトを更新して」と頼む（上の URL のまま差し替える）。
-
 ## 権利・ライセンス
 
 このリポジトリは個人が作成した**非公式のファンプロジェクト**で、Digital Extremes Ltd. とは関係ありません。
@@ -39,4 +31,3 @@ Warframe および関連する名称・ロゴ・ゲーム内テキスト・画�
 
 権利者の方から掲載内容について削除や修正の依頼があれば、対応します。[Issues](https://github.com/HIBIKI5201/HIBIKIsWarframeDocument/issues) からご連絡ください。
 
-上の「スマホで見る」のアーティファクトは作者専用の非公開ページで、ほかの人は開けません。
