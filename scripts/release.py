@@ -60,7 +60,7 @@ def cmd_merge(branch: str | None, push: bool) -> None:
     if not branch and git("rev-list", "--count", f"{MAIN}..origin/{MAIN}") == "0":
         ahead = [b for b in git("branch", "-r", "--format=%(refname:short)").splitlines()
                  if b not in (f"origin/{MAIN}", "origin/HEAD", "origin")
-                 and git("rev-list", "--count", f"{MAIN}..{b}") != "0"]
+                 and any(l.startswith("+") for l in git("cherry", MAIN, b).splitlines())]
         sys.exit("マージするブランチを --branch で指定してください。main より進んでいるブランチ:\n"
                  + ("\n".join(f"  {b}" for b in ahead) or "  （なし）"))
     ref = None
