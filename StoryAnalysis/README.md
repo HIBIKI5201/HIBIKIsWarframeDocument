@@ -21,7 +21,7 @@ Markdown・テンプレートの変更を検知して自動で再ビルドする
 ## 構成
 
 - `sources/`: ゲーム内のストーリー関連テキスト（英語原文）。考察の根拠はここから引用する。詳細は [sources/README.md](sources/README.md)。
-- `glossary.md`: 英語 ⇔ 日本語の用語対応表。
+- `glossary.md`: 英語 ⇔ 日本語の用語対応表。`data/terms.json` の用語から `scripts/terms.py` で自動生成する（日本語はゲームの公式訳）。
 - `scripts/build_sources.py`: `sources/` の自動生成スクリプト。
 - `scripts/build_site.py` / `scripts/serve.py`: Markdown → HTML の変換とローカルサーバー。
 - `site/`: HTML のテンプレートと CSS / JS。
@@ -43,6 +43,22 @@ python StoryAnalysis/scripts/build_sources.py --refresh
 ```sh
 python StoryAnalysis/scripts/build_wiki.py
 ```
+
+## 用語と翻訳の確認
+
+用語対応表の日本語は、ゲームの日本語ローカライズから自動で引いている（手で訳さない）。
+用語を足すときは `data/terms.json` に英語（と、単独の公式訳がない語だけ候補の日本語）を書いて、次を実行する。
+
+```sh
+python StoryAnalysis/scripts/terms.py
+```
+
+`glossary.md` を作り直したあと、手書きの日本語（`data/ja/`、`data/*.json` の概要、考察ファイル）を公式表記と照らして、次の点を表示する。
+
+- `data/quests.json` のクエスト名が公式のクエスト名と違う
+- 公式訳がある用語（例: Orokin → オロキン）を英字のまま書いている（括弧内の原語・リンク・コードは除く）
+
+`--strict` を付けると、指摘があれば終了コード 1 になる。
 
 ## 関連資料
 
