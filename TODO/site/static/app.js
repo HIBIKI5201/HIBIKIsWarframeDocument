@@ -9,7 +9,8 @@
   const editBtn = document.getElementById("edit-mode");
   const editHint = document.getElementById("edit-hint");
   const toast = document.getElementById("toast");
-  let cat = new URLSearchParams(location.search).get("cat") || "";
+  // ?cat=<id> のほか、クエリを渡せない環境向けに #<id> でも受け付ける
+  let cat = new URLSearchParams(location.search).get("cat") || decodeURIComponent(location.hash.slice(1));
 
   const load = (k) => { try { return localStorage.getItem(k); } catch { return null; } };
   const save = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
