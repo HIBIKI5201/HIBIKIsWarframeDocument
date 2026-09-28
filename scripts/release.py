@@ -38,6 +38,18 @@ def git(*args: str, check: bool = True) -> str:
     return r.stdout.strip()
 
 
+def merge_ref(ref: str, title: str) -> None:
+    r = subprocess.run(["git", "merge", "--no-ff", "-m", f"{title}\n\n{TRAILER}", ref], cwd=ROOT,
+                       capture_output=True, text=True, encoding="utf-8")
+    if r.returncode != 0:
+        conflicts = git("diff", "--name-only", "--diff-filter=U", check=False)
+        if conflicts:
+            print("衝突しました。解決して `git commit --no-edit` してから再実行してください:\n" + conflicts)
+            sys.exit(2)
+        sys.exit(r.stderr.strip())
+    print(f"マージしました: {ref} -> {MAIN}")
+
+
 def cmd_merge(branch: str | None, push: bool) -> None:
     dirty = git("status", "--porcelain", "--untracked-files=no")
     if dirty:
@@ -45,32 +57,29 @@ def cmd_merge(branch: str | None, push: bool) -> None:
     git("fetch", "-q", "origin")
     current = git("rev-parse", "--abbrev-ref", "HEAD")
     branch = branch or (current if current != MAIN else None)
-    if not branch:
+    if not branch and git("rev-list", "--count", f"{MAIN}..origin/{MAIN}") == "0":
         ahead = [b for b in git("branch", "-r", "--format=%(refname:short)").splitlines()
                  if b not in (f"origin/{MAIN}", "origin/HEAD", "origin")
                  and git("rev-list", "--count", f"{MAIN}..{b}") != "0"]
         sys.exit("マージするブランチを --branch で指定してください。main より進んでいるブランチ:\n"
                  + ("\n".join(f"  {b}" for b in ahead) or "  （なし）"))
-    ref = branch
-    if git("rev-parse", "--verify", "--quiet", branch, check=False) == "":
-        ref = f"origin/{branch.removeprefix('origin/')}"
+    ref = None
+    if branch:
+        ref = branch
+        if git("rev-parse", "--verify", "--quiet", branch, check=False) == "":
+            ref = f"origin/{branch.removeprefix('origin/')}"
     if current != MAIN:
         git("checkout", "-q", MAIN)
-    git("pull", "-q", "--ff-only", "origin", MAIN)
-    if git("rev-list", "--count", f"{MAIN}..{ref}") == "0":
-        print(f"{ref} は main に取り込み済みです")
-    else:
-        name = ref.removeprefix("origin/")
-        msg = f"[merge]{name}をmainにマージ\n\n{TRAILER}"
-        r = subprocess.run(["git", "merge", "--no-ff", "-m", msg, ref], cwd=ROOT,
-                           capture_output=True, text=True, encoding="utf-8")
-        if r.returncode != 0:
-            conflicts = git("diff", "--name-only", "--diff-filter=U", check=False)
-            if conflicts:
-                print("衝突しました。解決して `git commit --no-edit` してから再実行してください:\n" + conflicts)
-                sys.exit(2)
-            sys.exit(r.stderr.strip())
-        print(f"マージしました: {ref} -> {MAIN}")
+    # origin/main に先行コミットがあれば取り込む（分岐していてもマージで合流させる）
+    if git("rev-list", "--count", f"{MAIN}..origin/{MAIN}") != "0":
+        merge_ref(f"origin/{MAIN}", f"[merge]origin/mainを取り込み")
+    if ref:
+        # ハッシュが違っても同じ変更が main にあれば取り込み済みとみなす
+        pending = [l for l in git("cherry", MAIN, ref).splitlines() if l.startswith("+")]
+        if not pending:
+            print(f"{ref} は main に取り込み済みです")
+        else:
+            merge_ref(ref, f"[merge]{ref.removeprefix('origin/')}をmainにマージ")
     if push:
         git("push", "-q", "origin", MAIN)
         print("push しました: origin/main")
