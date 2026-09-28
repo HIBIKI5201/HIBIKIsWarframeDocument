@@ -1,0 +1,59 @@
+{
+ "key": "the-jordas-precept",
+ "name": "The Jordas Precept",
+ "page": "The Jordas Precept",
+ "ja": "Jordas の教訓",
+ "group": "Warframe 入手クエスト",
+ "summary": "Infested に侵された Cephalon Jordas と対峙し、Atlas を手に入れる",
+ "wiki": {
+  "title": "The Jordas Precept",
+  "url": "https://wiki.warframe.com/w/The_Jordas_Precept",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/The_Jordas_Precept/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 17.5 (2015-10-01)"
+  ],
+  [
+   "種類",
+   "Side Quest Warframe Quest"
+  ],
+  [
+   "条件",
+   "Pluto to Eris Junction"
+  ],
+  [
+   "報酬",
+   "Atlas Blueprint / Jordas Golem Assassination"
+  ],
+  [
+   "台詞全文",
+   "The Jordas Precept / Transcript"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "cephalon-jordas",
+   47,
+   65
+  ],
+  [
+   "ordis",
+   33,
+   37
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "船全体を Infested に侵された Cephalon を救いたいと願う Ordis の頼みで、苦しむ Cephalon のために感染の駆除に挑むサイドクエスト。Update 17.5（2015-10-01）で追加された。"
+  ],
+  "sections": []
+ }
+}

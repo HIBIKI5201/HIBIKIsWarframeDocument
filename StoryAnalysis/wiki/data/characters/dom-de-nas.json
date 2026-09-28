@@ -1,0 +1,26 @@
+{
+ "key": "dom-de-nas",
+ "name": "Dom De Nas",
+ "page": "Dom De Nas",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Orokin 側の人物。Wiki にも説明がほとんどない",
+ "wiki": {
+  "title": "Dom De Nas",
+  "url": "https://wiki.warframe.com/w/Dom_De_Nas",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Dom De Nas / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [],
+  "sections": []
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "key": "dax-menz",
+ "name": "Dax Menz",
+ "page": "Dax Menz",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Orokin 側の人物。Wiki にも説明がほとんどない",
+ "wiki": {
+  "title": "Dax Menz",
+  "url": "https://wiki.warframe.com/w/Dax_Menz",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Dax Menz / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [],
+  "sections": []
+ }
+}

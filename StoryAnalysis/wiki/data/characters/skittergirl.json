@@ -1,0 +1,69 @@
+{
+ "key": "skittergirl",
+ "name": "Skittergirl",
+ "page": "Skittergirl",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Zariman に出る Void の具現。不安が形になったもの",
+ "wiki": {
+  "title": "Skittergirl",
+  "url": "https://wiki.warframe.com/w/Skittergirl",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "0"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “I'm so very sorry about this. One of the fears the Void likes to manifest is childhood anxiety. Meet the repressed fears of teenage Yonta. I call her 'Skittergirl'. She's a thief.”",
+   "> —Archimedean Yonta",
+   "> Skittergirl is a Void manifestation that haunts the Zariman Ten Zero, born from the embodiment of Archimedean Yonta's teenage anxiety. While normally benign, Skittergirl becomes a nuisance during Void Floods as she steals Vitoplast and Energy from targeted players."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Peculiar Audience has a chance to produce Skittergirl's laugh upon killing an enemy."
+    ]
+   ]
+  ]
+ }
+}

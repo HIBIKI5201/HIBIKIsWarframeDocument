@@ -1,0 +1,87 @@
+{
+ "key": "eudico",
+ "name": "Eudico",
+ "page": "Eudico",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Solaris United のリーダー。Nef Anyo の「忠実な」フロアボス",
+ "wiki": {
+  "title": "Eudico",
+  "url": "https://wiki.warframe.com/w/Eudico",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Tamara Fritz"
+  ],
+  [
+   "Quotes",
+   "Eudico / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "FB-9 / Eudi / Vox Solaris / Vox"
+  ]
+ ],
+ "quests": [
+  [
+   "vox-solaris",
+   47,
+   77
+  ],
+  [
+   "the-new-war",
+   0,
+   2
+  ],
+  [
+   "the-deadlock-protocol",
+   33,
+   36
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Outworlder. We gonna do this?”",
+   "> —Eudico",
+   "> Eudico FB-9 is the leader of Solaris United and the \"loyal Floor Boss\" of Nef Anyo. She offers Bounties to the Tenno, limited-time missions out in the Orb Vallis which can be accomplished to earn Solaris United Standing and other rewards as provided in the bounty rewards. She is located just across the elevator door to the Orb Vallis, sitting on a chair and holding a large welding gun.",
+   "> Players must first complete the Vox Solaris quest before they can access Orb Vallis bounties and earn standing for Solaris United."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### General",
+     "",
+     "Eudico secretly led Solaris United against Nef Anyo under the name of Vox Solaris, or just Vox for short. The rebellion was eventually crushed in an event known as the \"Deck 12 Incident\" which resulted in the death of many Solaris and the devastation of Deck 12 at the hands of the Exploiter Orb. Eudico felt responsible and blamed herself, working now to appease Nef Anyo's mercy as Vox \"disappeared.\"",
+     "",
+     "The Tenno's arrival on Fortuna helps reignite the rebellion, bringing about the return of Vox and Solaris United, with Eudico continuing to spearhead the force in secrecy.",
+     "",
+     "### Fortuna Fragments",
+     "",
+     "Eudico originally founded Solaris United on the day a series of unexpected events have occurred, including her mother's death. On that same day, she sold her heart to buy herself a gun and create the force. The Business showed up and taught the Solaris members to fight both economically and intelligently, giving them various activities and jobs to ensure they can build a big resistance.",
+     "",
+     "When the Deck 12 Incident happened, however, Eudico became traumatized to the point she cannot sleep whatsoever and blamed (and still blames) herself for the crushing of the resistance. The only survivors of the incident were her, The Business, Little Duck, Rude Zuud, and a very small amount of Solaris members, workers, and vendors.",
+     "",
+     "### Solaris United ARG",
+     "",
+     "During the ARG, The Business unveiled some Corpus intel on Eudico:",
+     "",
+     "Title: Projekt Solaris Name: FB-9 Alias: Eudico Race: Solaris Lokation: Fortuna, Orb Vallis, Venus (Graph Title) Profit Traking Job: Floor Boss Debt: Low Punishment: — Records: - Kommendations For Effisiensy And Personnel Management Notes: - No Family Status: Employed, Loyal"
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Eudico is voiced by Tamara Fritz, who also voices the Profit-Taker Orb.",
+     "- Her FB-9 designation probably stands for \"Floor Boss of Deck 9\".",
+     "- Eudico gives the player the nickname \"Sparky\".",
+     "- Eudico's welding gun has lights that flashes in conjunction to her voice whenever she speaks, implying it is directly connected to her systems in some way."
+    ]
+   ]
+  ]
+ }
+}

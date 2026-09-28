@@ -1,0 +1,47 @@
+{
+ "key": "myrmidon",
+ "name": "Myrmidon",
+ "page": "Myrmidon",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "Ivara の Leverian に記録された、Warframe を狩る獣",
+ "wiki": {
+  "title": "Myrmidon",
+  "url": "https://wiki.warframe.com/w/Myrmidon",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Orokin"
+  ],
+  [
+   "Quotes",
+   "Myrmidon / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> The Myrmidon was a \"preternatural beast-figure\" recorded in the Ivara Leverian, a hunter of Warframes. Ivara was said to have defeated this creature after witnessing the deaths of her two unnamed Warframe comrades at his hands."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "The Myrmidon wielded a wrist-worn device of Orokin origin that enabled him to disintegrate Warframes with a mere touch, most likely by harnessing the destructive power of the emerald Jade Light. This same device also enabled the Myrmidon to disable Warframe powers from a distance with only a gesture of his hand.",
+     "",
+     "After defeating and subduing him, Ivara dragged the Myrmidon before the assembled Orokin Council of Executors to face judgement, only for him to be revealed as merely a vessel controlled remotely via Transference by one of the Executors. Ballas then revealed that the entire hunt was merely a test of Ivara's battle prowess and loyalty - one which she had passed while her compatriots had failed."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Ivara's animated fight with Myrmidon can be seen in brief glimpses in the Ivara Collector's Statue trailer."
+    ]
+   ]
+  ]
+ }
+}

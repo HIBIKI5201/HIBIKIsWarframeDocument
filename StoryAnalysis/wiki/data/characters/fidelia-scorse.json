@@ -1,0 +1,39 @@
+{
+ "key": "fidelia-scorse",
+ "name": "Fidelia Scorse",
+ "page": "Fidelia Scorse",
+ "group": "外伝・イベント初出",
+ "group_key": "g19",
+ "summary": "Transcriptions of Unauthorized Broadcasts（Nightwave）に登場",
+ "wiki": {
+  "title": "Fidelia Scorse",
+  "url": "https://wiki.warframe.com/w/Fidelia_Scorse",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Fidelia Scorse / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Dr. Fidelia \"Delia\" Scorse is a character in the second of the Transcriptions of Unauthorized Broadcasts."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "Fidelia Scorse calls Nightwave late at night, following the call between Nora Night and Latrox Une. She introduces herself, saying that she is a doctor working for a mining colony, small enough to have evaded the attention of the Grineer. Scorse recounts the time when a miner's wife dragged her husband into her clinic due to cracked fingernails. She inferred that the nails weren't weak, but damaged from stress. The miner, with an \"idiot grin\" on his face, said he felt fine and that he had to go back to digging. Without cause to keep him, the doctor let him go.",
+     "",
+     "Throughout a single week, nearly every miner had seen Dr. Scorse due to several other symptoms, including injured hands, insomnia, exhaustion, dehydration and malnutrition. Following this, she suddenly found herself without any more patients. Lacking any other options, Scorse investigated the mine herself, and found the whole colony there, obsessively digging a winding tunnel to the point of injuring and neglecting themselves. Nora tries to interrupt her story at this point, but Scorse reveals that she had already blown up the mine with a large yield of explosives, killing three miners who she could not lock out or drag out with sedatives. The incident was deemed an accident, and the colony was set to move operations somewhere else.",
+     "",
+     "Scorse then says that she had a revelation about the mine while listening to the previous call. The mine's path was seemingly spiraling and nonsensical, but it was because the miners were constantly digging towards an object in orbit that they could never reach: Deimos."
+    ]
+   ]
+  ]
+ }
+}

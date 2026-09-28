@@ -1,0 +1,72 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Nihil
+
+[キャラクター一覧](../../characters.md) › [Cephalon](g02-cephalon.md) ・ ← [Otak](otak.md)
+
+## 概要
+
+連続殺人鬼「Glassmaker」。元 Orokin の処刑人
+
+> “I am Nihil. Glassmaker. Order. Shall be. Restored.”
+> —Nihil
+> “See, in the old days, crime and punishment was all in the hands of those Orokin judges, the Seven. Mercy was a quick flash of the Jade light... But - if they wanted to make an example, they'd suck up your soul and make you a prisoner of the glass, forever.
+> Seems like magic to us nowadays, but dreamers... someone's got it puzzled out again. Waves are buzzing, new glass is showing up. Souls getting snapped up and trapped up. All we've got to go on is this crime-simula I pulled from the weave. No sign of our killer and not a soul to tell us where they went...” —Nora Night on the Glassmaker
+
+- グループ: [Cephalon](g02-cephalon.md)
+- 登場: 台詞全文では見つからない
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nihil)（英語・出典） / [全文検索](../../search.html?q=Nihil)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Orokin |
+| 声優 | Ryan Laughton [ 1 ] [ 2 ] |
+| Quotes | Nihil / Quotes |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore & History
+
+> “Dreamer, I think I know who the Glassmaker is... or... who he was... Nihil. Every Ceph you ever met was once a person, before they met him. He made them all. For them. For the Orokin. As a punishment that would never end.”
+
+> —Nora Night
+
+> (download, history)
+
+Nihil was the creator of the Cephalons: former humans who violated Orokin law, and were thus punished by being transformed into immortal, digital intelligences after their respective executions. These Cephalons were stripped of their past memories as living beings and were reprogrammed to serve the Orokin in various tasks. On one occasion he threatened to glass an individual for volunteering to become a Warframe, which instead inspired Ballas to create a glass-themed Warframe in spite of him.
+
+There is, however, one instance of voluntary glassing in Cephalon Suda, who chose to become a Cephalon due to her dementia causing memory loss. Whilst not confirmed, it is likely this was undertaken by Nihil like other glassings.
+
+The Glassmaker resurfaced and brought attention to himself after glassing Shigg, an Ostron who attempted to illegally sell material from the Tower of Unum on the black market. His next victim was Bak Vondu, a "selfless" Corpus who attempted a solo gig but accidentally unleashed the Glassmaker in the process. The third known victim was Gral, a Grineer defector who was "chaotic" to Grineer "order". His fourth victim was Cutter, a Solaris United who became a Corpus mole after becoming victim to the Deck 12 incident, and manipulated the other three victims into creating a device to release the Glassmaker across the Origin System. All of the victims shared a pattern: they rebelled against their respective faction's established way of living.
+
+The Tenno work with Nora Night and investigate the Crime-simula she pulls from the Cephalon Weave to investigate the source of the glassing. As they uncover evidence related to the victims, the Tenno enters Nihil's Weave and hears his voice as he explains his motivations for committing the murders; he wants to bring his own form of order to the Sol System.
+
+Nihil is tracked to his former lair, where he proceeds to berate the Tenno for the collapse of the Empire and the subsequent descent of the Sol System into endless chaos and mayhem. In his lair, the Tenno discover a glassed Orokin corpse, realizing the executioner had glassed himself to escape the slaughter of the Orokin by the Tenno and the subsequent collapse of the Empire. Thanks to the actions of his four victims, Nihil is now able to spread his influence across the system and begins glassing numerous victims in an attempt to bring an end to the chaos in his own twisted way. He then glasses Nora Night, before setting his sights on the Tenno. However, the Tenno fight back inside the weave and free the glassed victims, turning them against Nihil and trapping him in his own prison. A freed Nora Night delivers the oubliette containing the Glassmaker to the Tenno, entrusting them to ensure the Glassmaker is never set loose again.
+
+## Trivia
+
+- He wears the Frakta Shoulder Guard.
+- Nihil is voiced by Ryan Laughton, who also voiced Boon.
+- Nihil's name is Latin for "nothing" or "no".
+- Following Nihil's defeat by the Tenno, he is bottled up in glass and is given to the player as an Orbiter decoration, Nihil's Oubliette. After placing the decoration, the Oubliette has a prompt to "Tap", causing a trapped Nihil to speak a small selection of lines, mostly taunting the player that his imprisonment was intentional on his part, or attempting to bribe them to be let out.
+
+Nihil is the second Orokin to be defeated in the playable WARFRAME universe. The first being the Elder Grineer Queen, and the third being Ballas.
+
+  - Nihil is the first Orokin Boss to be fought and defeated outside of a Quest, and is instead fought as a Syndicate Boss.
+- Unlike other bosses, the number under Nihil's health bar does not represent his enemy level, as it decreases every time he loses a health bar.
+- Grandmother's Naberus folktale mentions that Orokin servants are denied possession of Kuva and even them just looking at a flask is punishable by glassing.
+- During the fight, Nora discovers that Nihil is in violation of Orokin law Legem 6-243; "No capital sentence shall be passed without the unanimous consent of the Seven on pain of forfeiture of all tools of office and banishment". This means the Glassmaker is a criminal in the eyes of the society he was a part of, making him a hypocrite.
+
+In Gara Prime's reveal video, Ballas reminisces about Nihil demanding that Gara be punished by glassing for "volunteering willingly" to be turned into a Warframe. However, Ballas recognized her great sacrifice and therefore used special crystals to emulate glass while being more durable, seemingly just to spite Nihil.
+
+  - It is shown Roathe disliked him as well, particularly because of his Cephalon program and specifically when used as a punishment - he considers this to be quite worse than an execution, as for all intents and purposes, memories are all the Orokin were at the end, with everything else being mutable.
+- For the Zariman Ten Zero's journey, the Orokin bestowed Quinn the Crystal Index, a tablet that would allow him to punish convicts by glassing.
+- While Nihil's Oubliette has a "one per account" limit, a player may donate their copy to a Clan Dojo and purchase another when it is on rotation in the Nightwave Cred Offerings.
+- Prior to Hotfix 41.0.1 (2025-12-11), Nihil was incorrectly referred to as "Executor Nihil" by the Drifter in a KIM conversation with Amir.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

@@ -1,0 +1,30 @@
+{
+ "key": "cladius",
+ "name": "Cladius",
+ "page": "Cladius",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Parvos Granum の兄弟",
+ "wiki": {
+  "title": "Cladius",
+  "url": "https://wiki.warframe.com/w/Cladius",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Cladius / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Cladius is Parvos Granum's brother. They grew up together during the height of the Orokin era and Parvos admired his brother for his physical strength but also scorned him for his laziness, naiveté and lack of ambition. The pair lived with their father on a small farm as grain farmers, the same as dozens of generations of their family before them.",
+   "> One day, Parvos grew frustrated and left for the nearby Orokin city, while Cladius and their father continued to toil the fields. When Parvos returned near death, Claudius bemoaned his brother as a fool, but Parvos refused to lay down despite his family's protests and vomited a Rubedo gem that he had swallowed. With a jewel worth more than ten generations farm work, Parvos returned to the city as Cladius and their father pleaded for his return.",
+   "> Their father eventually collapsed in the field and died. Cladius mourned and protested against Parvos' plans to raze their homestead and end their brutal labor, erecting the city of Corposium in its place."
+  ],
+  "sections": []
+ }
+}

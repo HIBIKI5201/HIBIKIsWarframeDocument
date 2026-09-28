@@ -1,0 +1,30 @@
+{
+ "key": "roon",
+ "name": "Roon",
+ "page": "Roon",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Scholar's Landing とともに消えた",
+ "wiki": {
+  "title": "Roon",
+  "url": "https://wiki.warframe.com/w/Roon",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Roon / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Escaped in the night With Scholar's Landing Remembered here” —Roon's tombstone epitaph",
+   "> Roon was a resident of Duviri. According to their epitaph, they disappeared along with Scholar's Landing, one of the Lost Islands of Duviri, when it vanished overnight.",
+   "> Their grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "key": "mathila",
+ "name": "Mathila",
+ "page": "Mathila",
+ "group": "Duviri",
+ "group_key": "g12-duviri",
+ "summary": "いつも上機嫌な住人（The Harbinger of Joy）",
+ "wiki": {
+  "title": "Mathila",
+  "url": "https://wiki.warframe.com/w/Mathila",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "The Duviri Paradox"
+  ],
+  [
+   "声優",
+   "Sara Secora"
+  ],
+  [
+   "Quotes",
+   "Mathila / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "The Harbinger of Joy"
+  ]
+ ],
+ "quests": [
+  [
+   "the-duviri-paradox",
+   9,
+   16
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “There's no excuse for negativity in this wonderful kingdom. I think someone like you wants to be part of the solution, and I'm happy to say I can help.”",
+   "> —Mathila",
+   "> Mathila, also known as The Harbinger of Joy, is a resident of Duviri known for her constant state of happiness. She acts as the courtier and as the Orowyrm boss during the Joy Spiral. During other spirals, she can be found at Mathila's Farm in western Duviri."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Mathila seemingly owns or runs a farm with her two children, Barris and Koral. She believes that happiness is the greatest thing in the world, and wishes to spread it among people whether they want it or not. Mathila displays severe signs of toxic positivity, and will even abandon rationality to prove her ideals of Happiness.",
+     "",
+     "### Lost Islands of Duviri",
+     "",
+     "After Teshin was cast into the Void portal during the events of the New War, he arrived in Duviri. Mathila was the one who found Teshin in a lake on the island known as Hermit's Landing, and was the one who pulled him ashore and nursed him back to health.",
+     "",
+     "Mathila also had a husband, Garmi, but appears to have no recollection of him. Garmi was once the keeper of the Seriglass Lighthouse on Watcher's Island. The lighthouse had no apparent purpose, yet Garmi kept its light burning, stating that he was keeping 'it' at bay. One day, a very disastrous Void Storm struck Duviri, causing great lengths of chain to fall from the sky (presumably the Chains of Harrow, destroyed at the end of their namesake quest). These chains rained down destroying everything and everyone they hit, even Garmi's lighthouse.",
+     "",
+     "Following the incident, Mathila rarely talks about her husband. Whenever Acrithis attempts to bring him up, Mathila merely freezes, unable to speak. Koral mentions that her mother says that Garmi was taken by the sea, implying Mathila does know of his fate and refuses speak of it in public in order to remain happy, and that is why Mathila is always wary of them being near water.",
+     "",
+     "### Tales of Duviri - The Harbinger of Joy",
+     "",
+     "> “To the Happy mind, all things seem simple. Problems could be solved simply by making them go away.”",
+     "",
+     "> —Euleria Entrati",
+     "",
+     "Mathila believed that she knew what would make people happy better than they did. She believed that problems can be solved simply by making them go away.",
+     "",
+     "However, Mathila was a like a child who hid their face playfully, attempting to hide from the truth as nothing but Joy mattered to her.",
+     "",
+     "She did not understand why others were complicated, nor did she understand that making unhappiness a crime was not a way to create happiness. She embraced optimism with a fanatic-like zeal despite her plans failing.",
+     "",
+     "She hid her doubts, and became determined to succeed: however, there was no logic or reason to her plans. No sane person would look at Mathila's work and feel happy, so she abandoned reason and went from being happy to going mad.",
+     "",
+     "### Isleweaver",
+     "",
+     "The Indifference, possessing the body of Major Neci Rusalka, uses Mathila's refusal or ignorance of Garmi's fate to invade Duviri during her spiral, deposing Dominus Thrax and slowly merging it with the greater Void. Despite her unwitting role in the invasion, Mathila periodically aids Thrax and the Drifter in reclaiming Duviri, directing them towards contingencies left behind by Albrecht Entrati."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "Acrithis suggests that the male residents of Duviri could explain why Mathila is always smiling in the morning, though it is unknown whether Mathila truly does have a promiscuous nature or if Acrithis was simply making a crude joke.",
+     "",
+     "  - Brimon occasionally hints at knowing why Mathila is so happy, which may support the notion that she sleeps with him. This may be her means of forgetting about Garmi's existence rather than grieve for him.",
+     "- Orowyrm Mathila is currently the only enemy/boss capable of dealing Tau damage who is not related to the Sentients. However, this is actually a visual bug through Adaptation/ Caliban's passive, with her true element being Void to portray her inability to deal status effects.",
+     "- Mathila may be named after a Malayalam word, 'മതില്‍' (mathil), which means a wall/fence. This would be a reference to her owning a farm.",
+     "- During the Joy Spiral, Mathila has a flower on her forehead in her transmissions.",
+     "- Like all other Duviri residents, Mathila will take cover when the Drifter is in combat, and hide behind her porch.",
+     "- When going into the bush and crouching, nothing happens. But when uncrouching, Mathila hides. Basically the same thing as if the Drifter is in combat."
+    ]
+   ]
+  ]
+ }
+}

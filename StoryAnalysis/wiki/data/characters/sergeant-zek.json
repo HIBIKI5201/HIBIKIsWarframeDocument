@@ -1,0 +1,42 @@
+{
+ "key": "sergeant-zek",
+ "name": "Sergeant Zek",
+ "page": "Sergeant Zek",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Cephalon Cordylon の記録に出てくる Grineer",
+ "wiki": {
+  "title": "Sergeant Zek",
+  "url": "https://wiki.warframe.com/w/Sergeant_Zek",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Sergeant Zek / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Sergeant Zek is a Grineer character identified by Cephalon Cordylon in entry 11."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Sergeant Zek confronted Captain Vor when the latter reached Pluto to search for Tenno and attempt to scare him away, saying that the Tenno found there were his prize. Vor responded by attacking him with two shock grenades, seemingly killing him. Zek survived the encounter, however, his military career was not so fortunate. The humiliation he endured in front of his fellow officers and his inability to show sufficient gains after the debacle that followed Vor's arrival caused him to be demoted. Zek was sent to outpost duty on Mercury, where injuries sustained at Vor's hands only continued to hamper his advancement."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- There is some confusion as to the identities of Sergeant Zek and Boril as they both effectively have exactly the same role and exact same dialogue in both The Call trailer and the Tutorial before Starchart 2.0 while appearing on different planets. In a post-Devstream Trailer, the Queens order Vor to \"take the Rail to Pluto\" and that Boril is now in command, suggesting that Boril was the Grineer he encountered and assaulted in The Call.",
+     "- However, as Boril's name is given via captions in the most recent Earth-based iteration of the Tutorial ( Vor's Prize) it appears that Boril was encountered on Earth while Sergeant Zek was encountered on Pluto, where he might have been acting on Boril's behalf."
+    ]
+   ]
+  ]
+ }
+}

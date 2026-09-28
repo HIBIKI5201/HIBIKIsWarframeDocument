@@ -1,0 +1,42 @@
+{
+ "key": "archimedean",
+ "name": "Archimedean Perintol",
+ "page": "Archimedean",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Archimedean のページにリンク",
+ "wiki": {
+  "title": "Archimedean",
+  "url": "https://wiki.warframe.com/w/Archimedean",
+  "exists": true
+ },
+ "link_only": true,
+ "infobox": [],
+ "quests": [
+  [
+   "the-new-war",
+   0,
+   2
+  ],
+  [
+   "the-old-peace",
+   0,
+   26
+  ],
+  [
+   "angels-of-the-zariman",
+   0,
+   8
+  ],
+  [
+   "the-silver-grove",
+   0,
+   2
+  ]
+ ],
+ "body": {
+  "lang": null,
+  "summary": [],
+  "sections": []
+ }
+}

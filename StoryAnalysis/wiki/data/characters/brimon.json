@@ -1,0 +1,39 @@
+{
+ "key": "brimon",
+ "name": "Brimon",
+ "page": "Brimon",
+ "group": "Duviri",
+ "group_key": "g12-duviri",
+ "summary": "自称最速の Kaithe 乗り。「高慢」の化身",
+ "wiki": {
+  "title": "Brimon",
+  "url": "https://wiki.warframe.com/w/Brimon",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Brimon / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Name's Brimon. Fastest Kaithe rider in the Kingdom. If you think you're faster… prove it.”",
+   "> —Brimon",
+   "> Brimon is the self-proclaimed fastest Kaithe rider in Duviri and the avatar of pride. He is in charge of overseeing the Kaithe Racing objectives, where the Drifter can choose to race against him."
+  ],
+  "sections": [
+   [
+    "General",
+    [
+     "Brimon is a boastful individual, claiming that no one, Dax, demon, or other, can beat him in a race. He also states that Bombastine once raced against him, but ended up losing.",
+     "",
+     "Despite his pride, Brimon will begrudgingly admit defeat when the Drifter wins."
+    ]
+   ]
+  ]
+ }
+}

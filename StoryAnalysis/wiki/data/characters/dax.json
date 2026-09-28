@@ -1,0 +1,72 @@
+{
+ "key": "dax",
+ "name": "Dax",
+ "page": "Dax",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "Orokin に仕えた精鋭部隊（個人ではなく集団）",
+ "wiki": {
+  "title": "Dax",
+  "url": "https://wiki.warframe.com/w/Dax",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Dax / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “\"That which cannot be hit, cannot be killed.\"”",
+   "> —Dax saying",
+   "> The Dax were an elite fighting force who served the Orokin as their soldiers, bodyguards, and commanders. They were considered formidable warriors, and they were more numerous but less effective than Tenno Warframes.",
+   "> In Duviri, skeletal-like imitation Dax appear as the primary enemy force."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### Orokin",
+     "",
+     "Under servitude as the Orokin Empire's elite warriors, the Dax were forced to obey whoever possessed Kuva, as it marked them as an Orokin elite. They were a small core of the army, between the normal foot soldiers and the Tenno. They were relied on due to their ability and often had augments implanted in order to increase their speed and strength to superhuman levels. All Dax uniforms were the same, with rank being indicated by their mechanical helmets which covered most of the face and widened at the top. They also wore bronze chest plates and leg armor. As for their weapons, they all wielded the Nikana or variants of it. Some, like Teshin, possessed the Orvius disk. The Quellor and Pennant were considered standard-issue for Railjack crews during The Old War.",
+     "",
+     "At one point during the Old War, an insurgency occurred on the ancient tower of Altra on Ceres and a Dax battalion was sent by the Orokin as an attempt to recapture the tower. However, the tower's defenses proved to be impenetrable to the battalion. Gauss was then called in to quell the insurgency. With his immense speed, he blitzed through the tower and was able to reclaim it. Near the end of the war, as seen in the Erra quest, a female Dax known as Varzia was seen wearing silver-colored armor instead of bronze-colored. Varzia also wielded the Orvius disk, possibly indicating that all Dax had them.",
+     "",
+     "The Dax were present at the fall of the Orokin, but most of them were killed during or after it, being no real match for the Tenno. The only known survivors were Teshin and Varzia, though it is unknown how they survived. Teshin formed the Conclave in an attempt to train and preserve the fighting ability and honor of the Tenno, though his ideals often clashed with the Lotus. Varzia resides in Maroo's Bazaar as a vendor, retired from fighting and selling Prime gear to the Tenno.",
+     "",
+     "In the Corrupted Ancient Synthesis Imprint, a Dax named Menz was involved with fighting off the Infestation. This was just after the fall of the Orokin leaders, as the Tenno are mentioned as the betrayers. In this, he is the friend and bodyguard of an Orokin Lorist named Ontella. He commands a group of unknown bodyguards, possibly also Dax, but most likely Grineer or Corrupted, and MOAs. He ultimately beat back the Infested, but all of the other guards died.",
+     "",
+     "An unnamed Dax is mentioned in the Guardsman synthesis, and he leads a group of guards around a low-level Orokin named Alarez. However, he was ambushed and cut down by a Grineer named Veytok.",
+     "",
+     "### Duviri",
+     "",
+     "> “In Duviri, our Dax are not flawed, mortal flesh and blood. They are legends given form. A pure ideal smithed into the shape by our King's will. I advise you not to cross them.”",
+     "",
+     "> —Bombastine",
+     "",
+     "Instead of flesh and blood, the Dax of Duviri appear as mighty skeletal enforcers.",
+     "",
+     "### Anarch",
+     "",
+     "Though the Orokin were once at war with the Sentient, a peace treaty was eventually brokered leading to The Old Peace. However, not all agreed with this peace, with Galastra leading the Anarchs as a separatist faction, which is largely comprised of Dax."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- According to Dagath's lore, a Dax engaging in relationships with their Orokin masters was deemed taboo and punishable by execution.",
+     "- During The Duviri Paradox Demo in TennoCon 2022, there was a Dax Gladius known as Denphius who served as Dominus Thrax's \"champion\". However, he never appeared in the final game, and was replaced with a nameless, identical Dax that serves as a tutorial enemy for Drifter melee.",
+     "- Despite the Drifter looting Sirocco from the corpse of a Dax Gladius, none of the Duviri Dax wield firearms.",
+     "",
+     "Considering the naming scheme of the Duviri and Anarch Dax enemies, it may indicate their ranks are assigned based on their main weapons.",
+     "",
+     "  - This may also imply that Teshin and Varzia are belongs to the Gladius rank based on their usage on Nikanas, although it has not been confirmed."
+    ]
+   ]
+  ]
+ }
+}

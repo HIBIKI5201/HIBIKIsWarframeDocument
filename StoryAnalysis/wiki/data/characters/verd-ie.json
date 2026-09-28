@@ -1,0 +1,53 @@
+{
+ "key": "verd-ie",
+ "name": "VERD-IE",
+ "page": "VERD-IE",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Zariman の植物を世話する保守ドローン",
+ "wiki": {
+  "title": "VERD-IE",
+  "url": "https://wiki.warframe.com/w/VERD-IE",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Update 31.5 (2022-04-27)"
+  ],
+  [
+   "声優",
+   "???"
+  ],
+  [
+   "Quotes",
+   "VERD-IE / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “The Vegetation and Environment Regulation Drone - Independent Element faithfully maintained Zariman greenery even after all was lost and is thrilled to have company once again.”",
+   "> —VERD-IE Sentinel Skin Description",
+   "> VERD-IE or Vegetation and Environment Regulation Drone - Independent Element are maintenance drones that tend to the agri-biomes and vegetation aboard the Zariman Ten Zero.",
+   "> A VERD-IE Sentinel skin can be purchased from Hombask in the Chrysalith for 60,000, with related mask, tail, and wing attachments for 10,000 each."
+  ],
+  "sections": [
+   [
+    "General",
+    [
+     "Outfitted with a personal pair of gardening shears and hose, the VERD-IE drones were created by the Orokin to tend to the numerous agri-biomes and vegetation all around the Zariman. After the ship was lost within the Void and the agri-biomes vented into space, the drones worked tirelessly to reseal and replant them, and now are awaiting the next harvest."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- A specific VERD-IE unit, named PRIMM, can be found accompanying Hombask, and will occasionally make chattering and beeping sounds.",
+     "- \"VERD-IE\" is derived from the word \"verdant\" meaning \"lush with green vegetation.\""
+    ]
+   ]
+  ]
+ }
+}

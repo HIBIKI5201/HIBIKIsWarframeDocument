@@ -1,0 +1,38 @@
+{
+ "key": "palanquin",
+ "name": "Palanquin",
+ "page": "Palanquin",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "The Old Peace に登場する Orokin の輿",
+ "wiki": {
+  "title": "Palanquin",
+  "url": "https://wiki.warframe.com/w/Palanquin",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Blanche Anderson [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Palanquin / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-old-peace",
+   24,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Palanquin is an Orokin chariot that makes an appearance during The Old Peace."
+  ],
+  "sections": []
+ }
+}

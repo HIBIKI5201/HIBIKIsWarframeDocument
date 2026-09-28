@@ -6,6 +6,8 @@
 
 > コミュニティが書いた記事で、ゲームの最新の内容や公式の日本語訳と違うことがある。
 
+このサイトのクエストのページ: [Octaviaの賛美歌](../../wiki/quests/octavia-s-anthem.md)（英語版 Wiki を元にした最新の情報）
+
 OCTAVIAの賛美歌（Octavia's Anthem）は、アップデート20で実装されたOctavia取得クエスト。
 
 ## 概要

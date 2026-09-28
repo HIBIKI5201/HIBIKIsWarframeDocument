@@ -1,0 +1,145 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Nef Anyo
+
+[キャラクター一覧](../../characters.md) › [Corpus](g04-corpus.md) ・ ← [Mutalist Alad V](mutalist-alad-v.md) ・ [Derf Anyo](derf-anyo.md) →
+
+## 概要
+
+取締役会の一員。富豪
+
+> “The Void has chosen me as it's prophet. A prophet of profit. Isn't that wonderful?”
+> —Nef Anyo
+> Nef Anyo is a Corpus plutocrat and a member of the Corpus Board of Directors introduced during Operation False Profit in Update 16.4 (2015-04-23). Though he has yet to be directly confronted by the Tenno, his pursuits in the name of profit have motivated the Tenno to action against him several times.
+> His main base of operations is the Orb Vallis on Venus, where his Terra Corpus research both Orokin and Sentient technology, while exploiting the labor of the citizens of Fortuna.
+
+- グループ: [Corpus](g04-corpus.md)
+- 登場: 5 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nef_Anyo)（英語・出典） / [日本語 Wiki「Nef Anyo」](https://warframe.fandom.com/ja/wiki/Nef_Anyo) / [日本語 Wiki の取り込み](../../fandom-ja/pages/nef-anyo.md) / [全文検索](../../search.html?q=Nef%20Anyo)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Corpus |
+| 声優 | Lucas Schuneman [ 1 ] |
+| Quotes | Nef Anyo / Quotes |
+| Alias(es) | Neffy |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [師範](../quests/the-teacher.md) |  | 3 |
+| [Vox Solaris](../quests/vox-solaris.md) | 19 | 34 |
+| [デッドロック・プロトコル](../quests/the-deadlock-protocol.md) | 28 | 38 |
+| [グラスト・ギャンビット](../quests/the-glast-gambit.md) | 31 | 42 |
+| [ウェーブライダー](../quests/the-waverider.md) | 5 | 6 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore
+
+### General
+
+A narcissistic, slothful man, Nef Anyo uses others as a stepping stone to achieve his high position in the Corpus.
+
+Nef Anyo claims to be one of the sons of the Great Corpus Founder, Parvos Granum, stating that his birth mother was a surrogate for a secret succession program.
+
+Aside from his bombastic persona and his status as a member of the Corpus Board of Directors, little is known about Nef Anyo. Anyo himself claims that the Void has chosen him to be its prophet (fancying himself as a "prophet of profit"), though it's likely that his claims are false. Ultimately, Nef Anyo is motivated by his greed, be it scamming the Origin System at large or removing any threat to his position in the Board. Solaris United, led by Vox (completely unaware of her true identity as Eudico), constantly try to disrupt his plans often involving the threatening of the Orb Vallis' ecosystem or the capture of Solaris themselves.
+
+### Operation False Profit
+
+Nef Anyo announces his presence to the residents of the Origin System, convincing them to offer money to the Void and claiming that they'd be "rewarded a hundredfold", while secretly pocketing the money for himself. Although initially not dangerous by himself, his ill-gotten gains would have bankrolled a new line of Bursa assault robots. This caught the Lotus's attention, realizing the project as a threat to the system.
+
+In order to prevent further production, the Lotus formulates a plan to bankrupt Nef Anyo by emulating a security error in the Corpus banking system, tricking his bank account to pay the transaction tax without actually receiving the offering exchange. The Tenno were then sent all across the system to perform the fraud transaction, gradually draining his finances. Eventually, his fortune ceases to raise any further and ultimately exhausts his bank account, stopping his project.
+
+### Operation: Tubemen of Regor
+
+As part of his efforts to repair the Grineer's genetic degradation, Tyl Regor has built secret underwater research facilities on the moons of Uranus, and his research soon bears fruit in the form of "tubemen", specimens of Grineer that are stronger and healthier than normal Grineer. Tyl Regor's research however attracts the attention of Alad V, who now seemingly seeks to undo the Infestation he is afflicted with and sees Regor's research as the key to his cure. Alad V sends a message to the Lotus and wishes the Tenno to obtain Tyl Regor's research before sabotaging the lab to potentially find himself a cure of the plague, to purify his Infested self and to redeem himself of his mistake. Nef Anyo, however, sees his plea to the Lotus as a threat to his position in the Corpus board and immediately broadcasts his alternate proposition to pay the Tenno to destroy Tyl Regor's lab, wanting to prevent Alad V from obtaining the cure and regain power in the board.
+
+As both sides offer the locations of the underwater labs to do their bidding, the Lotus refuses to sway the Tenno into a specific choice, and it is ultimately up to themselves to decide which of the two is the lesser evil. Alad V was ultimately victorious (on PS4, Nef Anyo was the one victorious).
+
+### Divine Will Tactical Alert
+
+Nef Anyo broadcasted a boastful message across the system, announcing his most recent developed proxy, Razorback whom he claimed to have been imbued with the power of the Void (although it is most likely a fabricated statement) and challenges anyone in the system to take them down, including rivaling Corpus board, the Grineer empire and even the Tenno themselves.
+
+Through this publicity stunt, the conman had hoped to prove to the system that the Void is with his side to further cement his legitimacy as the prophet of profit, though he ironically failed when the Tenno utilized his own past creation, Bursas, to fight against the proxy, obliterating most of his fleet in the process.
+
+Presumably enraged by the Tenno's incursion, Nef Anyo now occasionally deploys a Razorback fleet to attack one of the Tenno Relays, triggering a global event known as the Razorback Armada.
+
+### The Glast Gambit
+
+Nef Anyo serves as the primary antagonist during the events of The Glast Gambit. Having raided the Mycona Colony in the sector of Monolith, Phobos; the conman has taken not only the Myconian's resources but also their children, including Neewa. This prompts Ergo Glast, the leader of The Perrin Sequence, to petition the Lotus for the Tenno's aid.
+
+Initially, Nef Anyo was not interested in the ransom the Syndicate was willing to provide, implying the children were worth more than they seem to be. In turn, Glast and the Tenno decided to move against his weakness and guilty pleasure instead: Gambling. By becoming a broker of Nef Anyo's Index, the Perrin Sequence aims to earn the attention of the Corpus Aristocrat, wagering all of his titles and holding, baiting him to wager the Myconian children and in turn Neewa herself. Nef Anyo was not willing to take any chances and rigged the game itself, forcing his side victorious. Having both the Tenno and the Syndicate lost the wager, the Lotus confirms that Nef Anyo was indeed cheating during the match. She then assigns the Tenno to steal the control codes for his cheat in order to render them unusable.
+
+After this, Glast comes back to the Index to challenge Nef Anyo one last time. Enticing the conman with a wagered Myconian Old Relic, the Syndicate leader managed to bait him to wager for one last round—a fair one. The wager ultimately ended up with a victory for the Tenno and Syndicate, rightfully obtaining Neewa and all of Glast's titles and holdings back; and in turn, a devastating defeat for Nef Anyo. His final attempt to bait Ergo Glast back with his own holding proved to be futile, as the Syndicate leader cuts off his transmission.
+
+### The Teacher
+
+With the death of Captain Vor at the hands of the Tenno, Corpus forces led by one of Nef Anyo's treasurers begin raiding his former holdings in search of Orokin era technology he had previously hoarded. Specifically a mod segment that could be used to enhance Corpus weaponry.
+
+Attempts to seize the item are thwarted as a Tenno arrives to it first and repels the attackers before they and the item are both taken out of the area by Teshin Dax. The pair are later tracked to orbit where the latter had converted a grineer facility into a hideout. While the mod segment is again lost, Teshin Dax is captured. An attempt is made to use him as a bargaining chip to extract the mod segment from the Tenno as ransom, but the Treasurer decides to instead capture the Tenno when they board the Corpus Obelisk to rescue him. Specifically commenting that Nef Anyo will pay good money for the both of them.
+
+The plan ultimately fails with the tenno extracting Teshin Dax and destroying the vessel's reactor causing it to explode. Troubled by the series of events, Teshin then directs the Tenno to Fortuna to speak with a man named The Business to further investigate Nef Anyo and his activities.
+
+### Vox Solaris
+
+> “We are the used. The mutilated. The indebted. We are Solaris United. And this Tenno is our messenger. Hello, Nef.”
+
+> —Vox
+
+> “Solaris United? I know that voice. I killed that voice! You are... a ghost. But. I. Don't. Believe in ghosts!”
+
+> —Nef Anyo, shocked by the return of Vox.
+
+Nef Anyo spearheads the terraforming operation in Orb Vallis using the indebted slaves of Fortuna, occasionally threatening with repossession of their body parts –mechanical and organic– if their workers fail to meet his demands. Unhappy with their poverty, the people of Fortuna rose up in rebellion under the name of Solaris United, led by Floor Boss Eudico under the name of Vox Solaris. Nef Anyo eventually crushed the rebellion by having the Exploiter Orb destroy Deck 12, their former home base. Traumatized at the loss of many Solaris, Eudico willingly surrendered to Nef Anyo's might and had Vox secretly disappear in hopes of preventing another disaster, although Nef Anyo had never uncovered Vox's true identity.
+
+The Tenno help reignite the rebellion and signals Vox's return. They send a message to Nef Anyo by repossessing an Orokin terraforming coolant tower and threaten its destruction, right in front of his investors. Nef Anyo eventually relents and is forced to acknowledge the work of the Solaris. With the rebellion revived, Solaris United works again to liberate themselves from Nef Anyo's clutches.
+
+Alad V mentions in his logs that Nef Anyo's terraforming project won the favor of Chairman of Corpus Board of Directors Frohd Bek.
+
+### The Waverider
+
+Having acquired a locked Graphica dubbed Waverider #1, which depicts Yareli, and a potential buyer, Nef Anyo brokered a deal to Roky: He would release the Ventkids debt for squatting in his ventilation shafts in exchange for the unlocked Graphica. However, Roky mortally injured herself, prompting the Tenno to unlock the Graphica in her stead. Nef Anyo catches wind of Roky's injury and promptly taunts the Ventkids, revealing their deal and promising to heal Roky once he receives the completed Graphica.
+
+Once the Graphica is completed, the buyer suddenly backs out, leaving Nef with an unsellable comic he deems useless. Instead, the buyer bought out the ventilation shafts where the Ventkids live, suggesting to salvage Roky and sell her for parts to pay off their new landlady. However, unbeknownst to Nef, Boon discovered the buyer was Grandmother who received a copy of the Graphica from the Ventkids in exchange for an elixir to heal Roky and removing their debts. Grandmother expresses to the Tenno her disappointment at Nef's greed and his dismissal of commoner art, revealing the completed Graphica of Waverider #1 contains a blueprint for the Yareli Warframe.
+
+### The Deadlock Protocol
+
+> “Seven for, seven against. Cast and recast, seven times. So, it is decided. The fleet has been retrofitted and redeployed to begin at once. New lanes, trawling for old things. By profit and Void, by the blessed handless founder... we hereby invoke The Deadlock Protocol.”
+
+> —Nef Anyo invoking The Deadlock Protocol
+
+> “'My name'. Hmm... I have watched you. Monuments to narcissism. Demanding others sweat in your stead. Gorging upon that upon which you have not earned. Watched... as you claimed for yourself my teachings of self-reliance, perverting them into a flaccid philosophy of sloth. Of... Idleness. Is that you, my son?
+
+> No, that must be a different son.” —Parvos Granum's disapproval of Nef Anyo's actions in the Corpus.
+
+As the Corpus Board of Directors continuously reach a voting impasse, Nef Anyo invokes "The Deadlock Protocol", a contingency initiative to instate a successor to the Founder, Parvos Granum. Nef Anyo makes the claim that he himself is the genetic heir which, if true, would give him total control over the Board. He intends to prove this by searching for traces of Protea, Parvos' bodyguard, using Solaris workers as a sacrifice for Void-temporal jumps to reach the Granum Void, a pocket dimension created by Protea herself.
+
+In an effort to thwart Nef Anyo's plans, the Tenno aids Solaris United in order to enter the Granum Void before Nef Anyo's henchmen do, and rescue the Solaris prisoners. There, they discover that Parvos Granum has survived from Protea's sacrifice by trapping them in a temporal prison, at the cost of Protea becoming a Specter of herself. The Warframe Specter becomes hostile and sends its Errant Specters throughout Nef Anyo's fleet; Parvos Granum does not deny Nef Anyo being his son, but is disgusted with his twisted and slothful methods within the Corpus, stating he simply used him to summon the Tenno to reignite Protea into action.
+
+Angered by this deception and the threat of the Protea Specter, Nef Anyo calls truce with Solaris United and delivers the Tenno the blueprint to the Xoris, a glaive fashioned with Parvos Granum's Specter Particle Theory. Seeing Parvos Granum's high intelligence being a threat, Solaris United reluctantly accept the weapon. However, as the Errant Specters overrun Nef Anyo's fleet, he quickly breaks truce and decides to self-destruct his ships, abandoning the Tenno to their fate.
+
+The Tenno, however, manage to survive by entering the Granum Void before the ship explodes, and after rescuing the captivated Solaris manage to defeat the out of control Protea Specter, although Parvos Granum himself manages to escape from the time prison. The Tenno is then brought back to the now freed Ship, right before Nef activates the self-destruction sequence, much to his confusion, leaving him to wonder where Parvos Granum has gone.
+
+### The Vallis Undermind
+
+With Narmer overtaking the Orb Vallis, Nef Anyo has abandoned Fortuna and seeks to rebuild his palace of prosperity by eradicating the fungal growths of the Deepmines beneath the surface. Nef Anyo's efforts are met with resistance from Nokko, Nightcap, and the Tenno.
+
+## Trivia
+
+- Nef Anyo is voiced by Lucas Schuneman, or better known by his alias VoiceActingNinja, who also provided the voice for Tyl Regor, Ghoul Rictus, and Treasurer.
+- Nef Anyo had his own forum account, established during Operation: Tubemen of Regor to counter Alad V's use of the forums to aid the latter's cause.
+- Nef Anyo's persona seems to be based on Televangelists preaching the "prosperity gospel" or "seed faith".
+- The painted/tattooed facial markings above his lips are reminiscent of an Imperial mustache, often worn by Western European aristocracy during the late 19th Century. The style is also commonly associated with the "Moustache Twirling Villain" trope.
+- Vox, Eudico's disguise as the leader of Solaris United, appears as a mask worn by her true face that crudely resembles Nef Anyo, as if mocking him by portraying him in debt like his slaves.
+- His name used to be part of the now called The Sergeant boss. Rather than having his boss battle reworked the name was taken and used for another character, the now called Nef Anyo, with the old Nef Anyo being renamed in the process.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

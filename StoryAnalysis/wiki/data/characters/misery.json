@@ -1,0 +1,136 @@
+{
+ "key": "misery",
+ "name": "Misery",
+ "page": "Misery",
+ "group": "Stalker",
+ "group_key": "g08-stalker",
+ "summary": "同上",
+ "wiki": {
+  "title": "Misery",
+  "url": "https://wiki.warframe.com/w/Misery",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Stalker"
+  ],
+  [
+   "種類",
+   "Field Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Ether Reaper"
+  ],
+  [
+   "Abilities",
+   "Shadows of the Dead / Soul Punch"
+  ],
+  [
+   "Affinity",
+   "750"
+  ],
+  [
+   "Shield",
+   "1500"
+  ],
+  [
+   "Health",
+   "2500"
+  ],
+  [
+   "Armor",
+   "50"
+  ],
+  [
+   "Dmg. Reduction",
+   "12.25 %"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Body Multipliers",
+   "Head: 1.0x"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "0"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Hotfix 18.4.1 (2016-01-25)"
+  ],
+  [
+   "Mod Drops",
+   "Primary Merciless 16.67% / Primary Dexterity 16.67% / Primary Deadhead 16.67% / Secondary Merciless 16.67% / Secondary Dexterity 16.67% / Secondary Deadhead 16.67%"
+  ],
+  [
+   "Resource Drops",
+   "2 Steel Essence 100.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Misery is one of Shadow Stalker's acolytes. He takes the form of Nekros with an Immortal Skin, wearing Stalker's helmet and Oberon's loincloth, as well as modified Warframe Cosmetics including a Kyroptera Syandana and Daedalus Chest Plate codpiece.",
+   "> Misery first appeared in Operation: Shadow Debt and, as of Update 29.5 (2020-11-19), now spawns in The Steel Path missions."
+  ],
+  "sections": [
+   [
+    "Quotes",
+    [
+     "- \"Enough! You will regret your past crimes...\" (download, history)",
+     "- \"The Shadow commands us. Betrayers will die. Orokin blood will dry.\" (download, history)",
+     "- \"Those who oppose will be consumed. Emotion drives us. Blood divides us.\" (download, history)",
+     "- \"These children will not stop us from punishing you. The Shadow commands it.\" (download, history)",
+     "- \"We asked... what is thy will, Shadow? Punishment was his call.\" (download, history)",
+     "- \"We serve the Shadow, the Stalker, the truth.\" (download, history)",
+     "- \"The Shadow is pure, undreaming, untainted.\" (download, history)"
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Misery is the only known Acolyte capable of speaking in coherent sentences. However, when re-introduced in Update 29.5 (2020-11-19), his audio is replaced with the same whispers as his fellow male Acolytes instead."
+    ]
+   ]
+  ]
+ }
+}

@@ -51,6 +51,9 @@ def link(href: str) -> str:
     if re.match(r"^[a-z]+:", href):
         return esc(href) + '" target="_blank" rel="noopener'
     path, _, frag = href.partition("#")
+    if "?" in path:  # 検索ページなどへのクエリ付きリンク
+        name, _, query = path.partition("?")
+        return esc(link(name) + "?" + query + (f"#{frag}" if frag else ""))
     if path and not path.endswith(".md") and current_src is not None:
         # サイトに含まれないファイル・フォルダ（例: archive/pixiv/）は GitHub 上の場所へリンクする
         target = (current_src.parent / path).resolve()
@@ -231,15 +234,25 @@ def toc_html(headings: list[tuple[int, str, str]]) -> str:
     return f'<details class="toc"><summary>目次（{len(items)}）</summary><ul>{lis}</ul></details>'
 
 
+KINDS = [("wiki/characters/", "キャラ"), ("wiki/quests/", "クエスト"), ("characters.html", "キャラ"),
+         ("quests.html", "クエスト"), ("glossary.html", "用語"), ("sources/", "資料"), ("fandom-ja/", "日本語Wiki")]
+
+
+def kind_of(rel: str) -> str:
+    return next((k for prefix, k in KINDS if rel.startswith(prefix)), "考察")
+
+
 def search_entries(rel: str, page_title: str, body: str) -> list[dict]:
     """見出し単位の全文検索インデックス。"""
     entries = []
+    kind = kind_of(rel)
     for m in re.finditer(r'<h(\d) id="([^"]+)">(.*?)</h\1>(.*?)(?=<h\d id=|\Z)', body, re.S):
         text = html.unescape(re.sub(r"<[^>]+>", " ", m.group(4)))
         text = re.sub(r"\s+", " ", text).strip()
         entries.append({
             "u": f"{rel}#{m.group(2)}",
             "p": page_title,
+            "k": kind,
             "h": html.unescape(re.sub(r"<[^>]+>", "", m.group(3))),
             "t": text,
         })
@@ -260,7 +273,7 @@ def build() -> None:
     base = Template((TEMPLATES / "base.html").read_text(encoding="utf-8"))
     built = datetime.now().strftime("%Y-%m-%d %H:%M")
     nav = [("index.html", "ホーム"), ("characters.html", "キャラ"), ("quests.html", "クエスト"), ("glossary.html", "用語"),
-           ("sources/index.html", "資料"), ("search.html", "検索")]
+           ("sources/index.html", "資料"), ("fandom-ja/index.html", "日本語Wiki"), ("search.html", "検索")]
 
     index: list[dict] = []
     global current_src
@@ -284,6 +297,21 @@ def build() -> None:
     (SITE / "static" / "search-index.js").write_text(
         "window.SEARCH_INDEX = " + json.dumps(index, ensure_ascii=False, separators=(",", ":")) + ";\n",
         encoding="utf-8")
+    (SITE / "static" / "entities.js").write_text(
+        "window.ENTITIES = " + json.dumps(entities(), ensure_ascii=False, separators=(",", ":")) + ";\n",
+        encoding="utf-8")
+
+
+def entities() -> list[dict]:
+    """検索ページの「キャラクター・クエスト」欄に出す一覧（wiki/data/ から）。名前・日本語名・記事名で引く。"""
+    out = []
+    for kind, label in (("characters", "キャラ"), ("quests", "クエスト")):
+        for f in sorted((ROOT / "wiki" / "data" / kind).glob("*.json")):
+            r = json.loads(f.read_text(encoding="utf-8"))
+            names = list(dict.fromkeys(filter(None, [r["name"], r.get("ja"), r["page"]])))
+            out.append({"n": names, "u": f"wiki/{kind}/{r['key']}.html", "k": label, "g": r["group"],
+                        "s": r["summary"], "c": len(r.get("quests") or r.get("characters") or [])})
+    return out
 
 
 def analyses_html() -> str:

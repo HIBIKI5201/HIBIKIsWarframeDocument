@@ -17,6 +17,17 @@ python StoryAnalysis/scripts/serve.py --open --lan
 Markdown・テンプレートの変更を検知して自動で再ビルドする（ブラウザは手動リロード）。
 ビルドだけなら `python StoryAnalysis/scripts/build_site.py`（出力は `StoryAnalysis/build/site/`、Git 管理外）。
 各ページ上部の入力欄でページ内を絞り込め、「検索」ページでは全資料を横断検索できる。
+どちらも URL で指定できるので、リンクやブックマークに使える。
+
+| URL | 内容 |
+| --- | --- |
+| `characters.html?q=Grineer` | キャラクター一覧を、表の行単位で絞り込む（`quests.html` やほかのページも同じ） |
+| `search.html?q=Margulis` | 全文検索。名前が一致するキャラクター・クエストはページへの近道を上に出す |
+| `search.html?q=Margulis&type=クエスト` | 種類（キャラ・クエスト・用語・資料・日本語Wiki・考察）で絞り込む |
+
+キャラクター・クエストは 1 件 1 ページ（`wiki/characters/<名前>.html`・`wiki/quests/<名前>.html`）で、
+各ページから前後の項目・グループ・登場クエスト（キャラクター）・Wiki の記事・日本語 Wiki・全文検索へ移れる。
+用語対応表の English 列からも各ページへ飛べる。
 
 ## 構成
 
@@ -39,11 +50,22 @@ python StoryAnalysis/scripts/build_sources.py --refresh
 新しいクエストが増えたときは、スクリプト内の `QUEST_ORDER` と `STORY_NAMESPACES` に追記する。
 
 キャラクター・クエストのページ（`characters.md`・`quests.md`・`wiki/`）は WARFRAME Wiki から自動生成している。
-一覧の日本語の概要は `data/characters.json`・`data/quests.json` を編集し、次のコマンドで作り直す（`--refresh` で Wiki を取り直す）。
+データとページは分けていて、次の 2 段階で作る。
+
+| 段階 | スクリプト | 入力 | 出力 |
+| --- | --- | --- | --- |
+| 取得・抽出 | `build_wiki.py` | Wiki、`data/characters.json`・`data/quests.json`（一覧・日本語の概要）、`data/ja/`（日本語訳） | `wiki/data/characters/<key>.json`・`wiki/data/quests/<key>.json`（基本情報・登場関係・本文） |
+| ページ生成 | `render_wiki.py` | `wiki/data/`、`fandom-ja/terms.json` | `characters.md`・`quests.md`・`wiki/characters/*.md`・`wiki/quests/*.md` |
+
+概要や訳を直したら `build_wiki.py` を実行する（最後に `render_wiki.py` も実行される。`--refresh` で Wiki を取り直す）。
+ページの見た目だけを変えるときは `render_wiki.py` だけでよい（ネットワークに出ない）。
 
 ```sh
 python StoryAnalysis/scripts/build_wiki.py
+python StoryAnalysis/scripts/render_wiki.py
 ```
+
+登場クエスト・登場キャラクターは、クエストの台詞全文（Transcript）で話者として出てくる回数と、本文中で名前が出る回数から数えている。
 
 日本語版 Wiki（[Warframe日本語 Wiki](https://warframe.fandom.com/ja/wiki/)、Fandom）の用語とストーリー関連ページは、次のコマンドで `fandom-ja/` に取り込む（`--refresh` で Wiki を取り直す）。
 

@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 二番目の夢（The Second Dream）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [Natah](natah.md) ・ [内なる紛争](the-war-within.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Hunhow と Stalker からリザーバーを守り、Tenno の本当の姿（オ�
 
 Sentient Hunhow が Stalker と手を組み、Tenno の本当の姿を暴いて滅ぼそうとするメインクエスト。Update 18.0（2015-12-03）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Second_Dream) / [台詞全文](https://wiki.warframe.com/w/The_Second_Dream/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Second_Dream)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Second_Dream/Transcript) / [日本語 Wiki「二番目の夢」](https://warframe.fandom.com/ja/wiki/%E4%BA%8C%E7%95%AA%E7%9B%AE%E3%81%AE%E5%A4%A2) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-second-dream.md) / [全文検索](../../search.html?q=The%20Second%20Dream)
 
 ## 基本情報
 
@@ -29,41 +29,21 @@ Sentient Hunhow が Stalker と手を組み、Tenno の本当の姿を暴いて�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Lotus](../../wiki/characters/g01-tenno.md#lotus) | 59 |  |
-| [Operator](../../wiki/characters/g01-tenno.md#operator) | 44 |  |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) | 37 | 41 |
-| [Hunhow](../../wiki/characters/g07-sentient.md#hunhow) | 31 | 49 |
-| [Stalker](../../wiki/characters/g08-stalker.md#stalker-2) | 12 |  |
-| [Ballas](../../wiki/characters/g06-orokin.md#ballas) | 6 | 8 |
-| [Margulis](../../wiki/characters/g06-orokin.md#margulis) | 5 | 12 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) | 2 | 9 |
-| [Shadow Stalker](../../wiki/characters/g08-stalker.md#shadow-stalker) |  | 16 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 9 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 8 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 6 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Lotus](../characters/lotus.md) | Tenno | 59 |  |
+| [Operator](../characters/operator.md) | Tenno | 44 |  |
+| [Alad V](../characters/alad-v.md) | Corpus | 37 | 38 |
+| [Hunhow](../characters/hunhow.md) | Sentient | 31 | 48 |
+| [Stalker](../characters/stalker.md) | Stalker | 12 |  |
+| [Ballas](../characters/ballas.md) | Orokin | 6 | 7 |
+| [Margulis](../characters/margulis.md) | Orokin | 5 | 11 |
+| [Ordis](../characters/ordis.md) | Cephalon | 2 | 7 |
+| [Shadow Stalker](../characters/shadow-stalker.md) | Stalker |  | 15 |
+| [Natah](../characters/natah.md) | Sentient |  | 6 |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 5 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 眠りから目覚めた Sentient Hunhow は、Old War での行いへの復讐を Tenno に誓う。Stalker と手を組んだ彼は、「空の胎（womb in the sky）」を破壊しようとする。それは Tenno の弱点、つまり Lotus が Sentient から守るために Void の中に隠したルアのリザーバーだった。
 
@@ -75,7 +55,7 @@ Sentient Hunhow が Stalker と手を組み、Tenno の本当の姿を暴いて�
 
 > 「これが本当のあなた。Tenno。人間を超えた存在……けれどかつては、どこにでもいる子どもだった」（Lotus）
 
-### トリビア
+## トリビア
 
 - Update 14.0 以降、Ordis が時々「夢を分かつな」と口にしており、これが最初の伏線だった。クエストの公開後、この台詞は言わなくなった。Natah でも Lotus が「Tenno を二番目の夢の中に隠した」と語っている。
 - WARFRAME で最初のシネマティッククエスト。
@@ -84,3 +64,7 @@ Sentient Hunhow が Stalker と手を組み、Tenno の本当の姿を暴いて�
   - 輸送船 Zariman とその子どもたちの話は、Ember Prime の Codex で初めて触れられ、Rhino Prime の Codex にも出てくる。
   - クエスト中に声が聞こえる Orokin の男 Ballas は、Orokin の執政官会議の一員である Executor Ballas で、Crewman の Synthesis で初めて名前が出ていた。
 - Keith Power によると、このクエスト専用の曲の一つでは Jen McMillan が聖歌隊の声を担当している。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

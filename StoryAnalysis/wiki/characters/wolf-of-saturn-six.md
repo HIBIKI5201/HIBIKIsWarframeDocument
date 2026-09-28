@@ -1,0 +1,118 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Wolf of Saturn Six
+
+[キャラクター一覧](../../characters.md) › [Grineer](g03-grineer.md) ・ ← [Boril](boril.md) ・ [Valdur](valdur.md) →
+
+## 概要
+
+Nightwave: Series 1 の敵役
+
+> The only lunatic fearsome enough to have escaped the Saturn Six Max-Pen.
+> —Wolf of Saturn Six spawn announcement
+> —Sentient-Hybrid Wolf of Saturn Six spawn announcement
+> The Wolf of Saturn Six is a rogue Grineer criminal introduced as an antagonist in Nightwave: Series 1 – The Wolf of Saturn Six. Formerly a model prisoner of the previously undisclosed Saturn Six penitentiary, the Wolf escaped along with his "pack" of Saturn Six Fugitives. He later underwent Sentient hybridizing after being enslaved by Alad V and sent to hunt down the Tenno. He eventually broke free once again and disappeared alongside his comrades. However, he is once again captured and forced into serving Narmer after they took control of the system.
+
+- グループ: [Grineer](g03-grineer.md)
+- 登場: 台詞全文では見つからない
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Wolf_of_Saturn_Six)（英語・出典） / [全文検索](../../search.html?q=Wolf%20of%20Saturn%20Six)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Unaffiliated |
+| Mission Type(s) | Nightwave / Series 1 |
+| 種類 | Melee |
+| Weapon(s) | Wolf Sledge |
+| Damage Type Modifiers | ++ ++ |
+| Affinity | -1 |
+| Health | 1500 |
+| Armor | 200 |
+| Dmg. Reduction | 24.49 % |
+| Overguard | 0 ++ |
+| Body Multipliers | Head: 2.0x |
+| Base Level | 1 |
+| Spawn Level | 0 |
+| Effective Hit Points (EHP) | –– |
+| Selected Level | –– |
+| Eximus | –– |
+| Steel Path | –– |
+| Empowered Enemies | –– |
+| Player Count | –– |
+| Codex Scans | 3 |
+| 初登場 | Update 24.3 (2019-02-27) |
+| Mod Drops | Eleventh Storm 18.33% / Molten Impact 18.33% / North Wind 18.33% / Shocking Touch 18.33% / Fever Strike 18.33% / Tempo Royale 2.78% / Target Acquired 2.78% / Spinning Needle 2.78% |
+| Resource Drops | Region Resource 4.87% / Nitain Extract 0.13% |
+| Blueprint/Item Drops | Wolf Sledge Blueprint (25%) / Wolf Sledge Handle (25%) / Wolf Sledge Head (25%) / Wolf Sledge Motor (25%) |
+| Other Drops | Saturn Six Mask (2%) |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore
+
+### Nightwave
+
+Imprisoned in the Grineer Max-Pen called Saturn Six, previously undisclosed and named for being "some six leagues deep in the gas", the Wolf served as a model prisoner until he suddenly broke out alongside a group of fugitives, forming a "wolf pack". Instead of fleeing, the Wolf hacked into the Corpus communications network on Jupiter and sent them a demand to "DELIVER GHARN", the Warden of Saturn Six, who had been selling off Grineer inmates for Corpus experiments. Presumably, it was finding out about this trafficking of his comrades that turned the Wolf from a model prisoner into a renegade escapee.
+
+Alad V replied "GHARN IS YOURS", drawing the Wolf out only to imprison him again as an experiment for his Amalgam project, with him and his pack becoming infused with Sentient hybridization, and then sent him to hunt down the Tenno. However, the Wolf broke free from Alad's control and shortly thereafter disappeared.
+
+#### Introduction to The Wolf of Saturn Six
+
+> “It's a bad moon, Dreamers. Can you feel it? Hm. From my perch, at Nightwave, I listen at the windows of the wealthy and well-to-do. Ever heard of Saturn Six? News to me too. Turns out the Grineer have a Max-Pen floating some six leagues deep in the gas. No one knew about it... 'cause no one ever busted out. Until now, right? Some Grineer meathead they started calling 'The Wolf'. On account of him taking up howlin' at night. Decrypts say he was a model prisoner, doing the time. Fabbin' bombs with the rest of his con brothers. Apple of the Warden's eye even. But something cracked, and now he's out there on the loose... the so called Wolf of Saturn Six.”
+
+> —Nora Night
+
+(download, history)
+
+#### Nightwave Second Diorama
+
+> “It's late. You still with me, Dreamers? Soon we'll see the sun curve over the Venusian sky. A hot blue taste. What's keeping you up? For me, it's the gap-waves, all abuzz with the doings of a certain big, bad, Wolf. Why didn't he run? Why didn't he hit that Solar Rail as far as it would take him? Instead, he's stalking those soul-bare, money-huggers 'round Jupiter. My birds are sayin' the Corpus net got flipped. A system-wide message from the Wolf. DELIVER GHARN. Where'd a meathead learn a trick like that? And who's Gharn? Baby, you can guess... he's the Warden of Saturn Six! A big man, too well dressed for his station, too well fed for his rank. And he's in the solar wind too... think he knows how the Wolf came to howlin'?”
+
+> —Nora Night
+
+(download, history)
+
+#### Nightwave Third Diorama
+
+> “An ice-night in Neptune, Dreamers. Hmm. Hold yours close and true, and hey... if you're between stops... Nora knows that mood. But our Wolf... he's not alone tonight. Add this with me: the howler breaks out of Saturn Six. But get this... the howling doesn't stop... someone else takes to singing that cruel song. The Wolf knows why, and it called him back to the scene of the crime. Warden Gharn's little side business. Mmm. Sellin' Grineer lemons for a Corpus squeeze. So freedom's got no hold on the Wolf, does it? No. It's the sisters and brothers from the joint that matter to him.. The pack. We both know what happens next... when a Wolf finds its pack... they hunt.”
+
+> —Nora Night
+
+(download, history)
+
+#### Nightwave Fourth Diorama
+
+> “The message read: GHARN IS YOURS. An anonymous gift. I know what this looks like. But the Wolf's too cold for revenge. The Grineer appoint Wardens for life. The Wolf had no choice but to shorten the term. Not payback, just 'never again'. But it was too easy. Days like these, an easy meal means you're taking someone's bait. Alad V's. The devil in a Corpus cloak. Got the Wolf in an all-new prison, baby. Only this one's not made of bars, it's made of chemicals... hmmm...guess we all know someone like that. The whole lot has been transformed into these 'Amalgam Dogs'... his words. Hybridized, juiced on some Sentient strain. No nice way to put it. I think the pack is coming after you, Dreamers.”
+
+> —Nora Night
+
+(download, history)
+
+#### Nightwave Fifth Diorama
+
+> “Passing by that Mercury Junction... shimmering hot, tonight. Word on the grid is the devil's got his due... hmm. Should have known. We saw the signs, didn't we? Sure. The Wolf got tough... tougher. But more than that, the Wolf got smart. Got a pack together. Worked the Corpus crypto. He's his own man now. Leavin' no more tracks. Is this the end? Dreamers, I hope so... but if I were you, I'd keep an ear out... 'cause one of these days you just might hear that howl come round your shoulder. This is Nora Night, signing off. Stay deadly, Dreamers.”
+
+> —Nora Night
+
+(download, history)
+
+### Veilbreaker
+
+> “Brother in pain. Kahl do what Kahl must.”
+
+> —Kahl-175
+
+Captured by Narmer, the Veiled Wolf of Saturn Six intercepts Kahl-175 aboard a Murex. Learning of his trauma from Daughter, Kahl decides to kill the Wolf and finally end his suffering, but the Wolf slips away just before he can finish him off.
+
+## Trivia
+
+His codex icon shows him wearing an alternative helmet called the Sentient Mask inside the game files, along with Gas City files, making him a possible introduction to the new Gas City rework.
+
+  - The Sentient mask was revealed to be a product of Alad V's research in the fourth Nightwave cinematic.
+- In order to nearly guaranteed at least one rare drop of either Tempo Royale or Target Acquired, the player would have to defeat him 162 ± 54 times. If the player wanted to nearly guarantee at least one of each rare drop though, they would need to defeat him 180 ± 54 times. And, if the player has no regard for which one is obtained, they would only have to defeat him 79 ± 26 times to nearly guarantee at least one rare mod drops.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

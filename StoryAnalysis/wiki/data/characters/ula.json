@@ -1,0 +1,31 @@
+{
+ "key": "ula",
+ "name": "Ula",
+ "page": "Ula",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Lake Verula に関わる住人",
+ "wiki": {
+  "title": "Ula",
+  "url": "https://wiki.warframe.com/w/Ula",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Ula / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Loved the rainbow eels Died Of a broken heart She sings with them now” —Ula's tombstone epitaph",
+   "> Ula was a resident of Duviri.",
+   "> Lake Verula, one of the Lost Islands of Duviri, was once home to singing rainbow eels. At some point a portal to the Undercroft had formed at the bottom of the lake, and Golden Maws that came out of it devoured all the eels and then each other. The loss must have been too much to bear for Ula.",
+   "> Her grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

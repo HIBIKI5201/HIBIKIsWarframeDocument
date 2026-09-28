@@ -1,0 +1,47 @@
+{
+ "key": "roky",
+ "name": "Roky",
+ "page": "Roky",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Ventkids の Vent Pobbers のリーダー",
+ "wiki": {
+  "title": "Roky",
+  "url": "https://wiki.warframe.com/w/Roky",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Tiffany Grant [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Roky / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-waverider",
+   4,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “I run the Vent Pobbers, we make the boards. You buyin'? Need a plank? Once a cycle I got somethin' dog. Best prices, too, glinty. Mates rates, chek?”",
+   "> —Roky",
+   "> Roky is the leader of the Vent Pobbers, a subdivision of the Ventkids gang in Fortuna. She is in charge of selling and assembling K-Drives."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- The K-Drive that Roky is holding is the same as the K-Drive on sale as that day's special. Except, of course, properly dinged and scraped, as befits a proper Pobber!"
+    ]
+   ]
+  ]
+ }
+}

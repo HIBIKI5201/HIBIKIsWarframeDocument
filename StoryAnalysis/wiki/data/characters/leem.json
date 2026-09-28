@@ -1,0 +1,31 @@
+{
+ "key": "leem",
+ "name": "Leem",
+ "page": "Leem",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Lost Islands の一つ Necropolis の看守",
+ "wiki": {
+  "title": "Leem",
+  "url": "https://wiki.warframe.com/w/Leem",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Leem / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Leem, corpse-warden of Necropolis",
+   "> A poor bed For a life lived Among the dead ” —Leem's tombstone epitaph",
+   "> Leem was the warden of Necropolis, one of the Lost Islands of Duviri.",
+   "> His grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

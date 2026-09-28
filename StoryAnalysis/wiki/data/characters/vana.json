@@ -1,0 +1,31 @@
+{
+ "key": "vana",
+ "name": "Vana",
+ "page": "Vana",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Titan's Rest に墓があるが、そこには埋葬されていない",
+ "wiki": {
+  "title": "Vana",
+  "url": "https://wiki.warframe.com/w/Vana",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Vana / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Vana. Heard the song",
+   "> Of the Golden Hive She does not lie here” —Vana's tombstone epitaph",
+   "> Vana was a resident of Duviri.",
+   "> Her grave can be seen in Titan's Rest, alhough she is not buried there. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

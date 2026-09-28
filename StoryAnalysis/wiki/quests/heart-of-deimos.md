@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # ダイモスの心臓（Heart of Deimos）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [博士の計略](once-awake.md) ・ [アークウイング](the-archwing.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Deimos の Entrati 家と出会い、Necralisk と Cambion Drift の秘密に触
 
 Infested に覆われた Deimos の奥にある「心臓（Heart）」と、それを守ろうとする Orokin の一族 Entrati を描くメインクエスト。ソロ専用で、Update 29.0（2020-08-25）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Heart_of_Deimos) / [台詞全文](https://wiki.warframe.com/w/Heart_of_Deimos/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Heart_of_Deimos)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Heart_of_Deimos/Transcript) / [日本語 Wiki「ダイモスの心臓」](https://warframe.fandom.com/ja/wiki/%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9%E3%81%AE%E5%BF%83%E8%87%93) / [日本語 Wiki の取り込み](../../fandom-ja/pages/heart-of-deimos.md) / [全文検索](../../search.html?q=Heart%20of%20Deimos)
 
 ## 基本情報
 
@@ -29,40 +29,24 @@ Infested に覆われた Deimos の奥にある「心臓（Heart）」と、そ�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Loid](../characters/loid.md) | Deimos・Entrati・Cavia | 36 |  |
+| [Loid（人間時代）](../characters/loid-original.md) | Deimos・Entrati・Cavia | 36 |  |
+| [Father](../characters/father.md) | Deimos・Entrati・Cavia | 30 |  |
+| [Mother](../characters/mother.md) | Deimos・Entrati・Cavia | 26 |  |
+| [Daughter](../characters/daughter.md) | Deimos・Entrati・Cavia | 23 |  |
+| [Otak](../characters/otak.md) | Cephalon | 18 |  |
+| [Son](../characters/son.md) | Deimos・Entrati・Cavia | 12 |  |
+| [Grandmother](../characters/grandmother.md) | Deimos・Entrati・Cavia | 3 |  |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 Tenno は従者の Loid と Otak に呼ばれて Deimos に降り立ち、Entrati 家と出会う。Void を研究する Orokin の一族だが、今は体の一部が Infested に侵されている。一族の長 Mother は、Warframe を含む太陽系中の Void 装置の動力源である Deimos の心臓を修理したいと考えている。しかし一家はバラバラで、Father は手を貸そうとせず、Daughter と Son は対立している。
 
 心臓にたどり着くと、Old War で使われた戦闘用機体 Necramech の暴走機が襲いかかり、心臓を壊してしまう。これをきっかけに Entrati の一家は対立を脇に置いて団結する。機能を失いつつある Warframe に代わり、Tenno は貸し出された Necramech に乗り込み、心臓を修理して暴走機を倒す。
 
-### トリビア
+## トリビア
 
 - Father の Necramech の名前が Snake で、Necramech に乗ったプレイヤーが倒れると Father が「Snake? SNAAAAAAKE!!!!」と叫ぶのは、メタルギアソリッドシリーズのパロディ。
 - ムービーの敵 Necramech は Cortege を持ち、Mausolon のような全自動射撃をしている。実際の戦闘では Mausolon を持ち、心臓を狙うホーミングミサイルを撒く。
@@ -71,3 +55,7 @@ Tenno は従者の Loid と Otak に呼ばれて Deimos に降り立ち、Entrat
 - メインクエストになる前は、二番目の夢をクリアしていない状態で Necraloid の奥の部屋に入ると、Loid が「まだ早い」と Necramech に乗せたがらない特別な台詞があった。
 - Entrati 家のシンジケートのランクが 0 より上なら、再プレイしても一家の新しい名前は引き継がれる。
 - KIM で Loid と Entrati の和解を実現し、ランク 5 に達していると、ムービー中も Roathe が Mother のそばに残る。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

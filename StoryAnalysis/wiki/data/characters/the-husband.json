@@ -1,0 +1,38 @@
+{
+ "key": "the-husband",
+ "name": "The Husband",
+ "page": "The Husband",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Zariman の事故直後に最期を記録した生存者",
+ "wiki": {
+  "title": "The Husband",
+  "url": "https://wiki.warframe.com/w/The_Husband",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Zariman ARG"
+  ],
+  [
+   "声優",
+   "David Autovino [ 1 ] [ 2 ]"
+  ],
+  [
+   "Quotes",
+   "The Husband / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “These last few weeks have been rough, but... we just need to hold out a little longer. One jump and we'll be in paradise, right? Okay! I'll be home late. Love you, my angel.”",
+   "> —The Husband",
+   "> The Husband is the alias for an unnamed survivor of the early events during Void-Jump Incident who recorded his final moments on Zariman logs. The logs were recovered during the Zariman ARG by a Void manifestation of Kira, his wife gone insane from void exposure and killed at the hands of a Tenno. Due to the events of the Zariman ARG, Kira became the Void Angel seen in the Angels of the Zariman quest."
+  ],
+  "sections": []
+ }
+}

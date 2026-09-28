@@ -1,0 +1,51 @@
+{
+ "key": "cephalon-simaris",
+ "name": "Cephalon Simaris",
+ "page": "Cephalon Simaris",
+ "group": "Cephalon",
+ "group_key": "g02-cephalon",
+ "summary": "Sanctuary で生物を「永遠化」しようとする Cephalon",
+ "wiki": {
+  "title": "Cephalon Simaris",
+  "url": "https://wiki.warframe.com/w/Cephalon_Simaris",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [
+  [
+   "chains-of-harrow",
+   0,
+   2
+  ],
+  [
+   "the-new-strange",
+   34,
+   46
+  ],
+  [
+   "octavia-s-anthem",
+   18,
+   28
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Through synthesis we can rebuild and preserve. Create memory-immortals within this data oasis. Will you become enlightened Tenno? Will you hunt for me?”",
+   "> —Cephalon Simaris",
+   "> Cephalon Simaris (or referred to as Irmis by Cephalon Suda) is a Cephalon construct that resides within the Sanctuary Enclave, a room found in all Tenno Relays, which is accessible by visiting any Relay and then using Fast Travel from the Main Menu: default Esc → FAST TRAVEL → CEPHALON SIMARIS. A seeker of knowledge, his ultimate goal is to \"immortalize\" creatures through the process known as Synthesis, that deconstructs a being and preserves them as data for further research within the Sanctuary."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Amusingly, his placeholder description before his release had read out, \"Do books even still exist in this universe? Just plug that shit directly into my brain. While I prefer librarians with glasses, a sentient group of trapezoids will have to do.\"",
+     "- Cephalon Simaris is voiced by Ross Huguet.",
+     "- During Octavia's Anthem, Cephalon Suda refers to Simaris as \"Irmis\", however it is unknown whether this is an actual name from his past or just a mistake due to Suda's mind being affected.",
+     "- Speaking to Simaris in the Sanctuary is oddly tricky to do, as the only location where the \"Talk\" prompt will appear is actually rather far away from where his \"body\" appears to be located, due to him \"zooming in\" when the player approaches. The correct location is half way down the 4-segment walkway in front of him."
+    ]
+   ]
+  ]
+ }
+}

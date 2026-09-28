@@ -1,0 +1,57 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Belric & Rania
+
+[キャラクター一覧](../../characters.md) › [Orokin](g06-orokin.md) ・ ← [Executor Tuvul](executor-tuvul.md) ・ [Bekran Zaft](bekran-zaft.md) →
+
+## 概要
+
+Deimos で Infested を解き放った 2 人の技術者
+
+腕利きの鋳造所の操業者 Belric と、名高い Void 技術者 Rania。Deimos に Infested を解き放った二人の Orokin の技術者で、二人の亡骸は火星 Tyana Pass の Mirror Defense ミッションの防衛対象になっている。
+
+> 「勇敢な Belric、賢い Rania。Deimos に Infested を永遠に解き放った」（Tyl Regor が口にする童謡）
+
+- グループ: [Orokin](g06-orokin.md)
+- 登場: 台詞全文では見つからない
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Belric_%26_Rania)（英語・出典） / [全文検索](../../search.html?q=Belric%20%26%20Rania)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Orokin |
+| 声優 | David Autovino (Belric) / Cat Protano (Rania) |
+| Quotes | Belric & Rania / Quotes |
+
+## Codex
+
+> 「結晶化した、鋳造所の達人 Belric の亡骸。Old War の間、Belric と Rania、そして二人を守る Warframe の Citrine は、戦略的に重要な小惑星への Sentient の猛攻に対する最後の防衛線だった。目撃者がいないため、最期の瞬間に何が起きたかは推測と色鮮やかな神話に委ねられている。わかっていることは？生物爆弾が小惑星に Infested を解き放ち、Sentient の進撃を止め、ひどく変異した環境を生み出した。Belric と Rania については、Citrine によって結晶に変えられたことを示す証拠がある。最期の瞬間、Warframe は逃げるのではなく、残った力を使って二人を最後の抱擁のまま、ともに保存することを選んだのだ」
+
+> 「結晶化した、名高い Void 技術者 Rania の亡骸。伝説となった出来事の中で、Rania はかつての夫 Belric とともに、誓いを立てた守護者、Warframe の Citrine によって結晶に変えられた。はるかに悲惨な運命から二人を救った、慈悲ある最期だった。二人の結晶は最近までともにあった。密輸業者たちは、それが実に奇妙な性質を持つことに気づいた。引き離されると、Rania の結晶は Void のトンネルを通じて Belric の結晶とつながったままになるのだ。どうして？おそらく最期の瞬間、強い感情が Void の基層を歪め、二人を永遠に結びつけたのだろう。永遠に結ばれた、悲運の恋人たち。Citrine の最後の願い」
+
+## 経歴
+
+### Old War
+
+Sentient が Deimos への侵攻を始めると、Belric と Rania は Infested を集めて生物爆弾を作り、その進撃を止めようとした。爆弾が起爆する前の最後の 1 分、二人は最後の乾杯を交わした。爆弾が起爆して Deimos に Infested が解き放たれ、月はひどく変異した環境になった。爆発で死ぬ代わりに、二人を守る Warframe の Citrine は自らを犠牲にすることを選び、爆弾が起爆する瞬間、Preserving Shell で Belric と Rania を 2 つの結晶に変えた。
+
+### Deimos の再出現
+
+Old War と崩壊からずっと後、Deimos は再び火星の軌道に戻り、探検と宝探しの新たな標的になった。持ち去られた品の中に、Belric と Rania の亡骸もあった。
+
+結晶を盗んだ密輸業者たちは、二つを引き離すと間に Void のトンネルができ、現実の構造を越えて Belric と Rania を結びつけることに気づいた。この現象はおそらく、互いへの二人の愛の概念の具現化だった。Void のエネルギーに晒されると、二人の愛の感情は自然の法則を曲げるほど強くなるのだ。
+
+### Mirror Defense
+
+Rania の亡骸は火星の Tyana Pass に、Belric の亡骸は金星に隠された。現在、Grineer の遺伝学者 Tyl Regor が、より強い Grineer の兵士を作るため、二人の結晶を割って遺伝子コードを採取しようとしている。
+
+## トリビア
+
+- Belric と Rania の功績は太陽系中でよく知られているらしく、Loid や Entrati 家は苦々しく思っている。
+- Crystal Bastion Collection を買うと、二人の結晶の装飾品「Belric & Rania Reunited」が手に入る。結晶に触れると、結晶化される前の二人の最後の言葉の録音が流れる。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

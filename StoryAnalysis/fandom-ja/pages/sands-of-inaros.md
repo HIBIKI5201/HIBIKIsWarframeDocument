@@ -6,4 +6,6 @@
 
 > コミュニティが書いた記事で、ゲームの最新の内容や公式の日本語訳と違うことがある。
 
+このサイトのクエストのページ: [Inaros の砂嵐](../../wiki/quests/sands-of-inaros.md)（英語版 Wiki を元にした最新の情報）
+
 INAROSの砂嵐（Sands of Inaros）は、アップデート18.5で実装されたWarframeのInaros取得クエスト。

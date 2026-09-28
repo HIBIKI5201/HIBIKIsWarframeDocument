@@ -1,0 +1,30 @@
+{
+ "key": "er-phryah",
+ "name": "Er-Phryah",
+ "page": "Er-Phryah",
+ "group": "Cetus・Ostron",
+ "group_key": "g15-cetus-ostron",
+ "summary": "Ostron の民話（Tale of the Woman of the Earth…）の人物",
+ "wiki": {
+  "title": "Er-Phryah",
+  "url": "https://wiki.warframe.com/w/Er-Phryah",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Er-Phryah is a prominent figure from Ostron folklore as told in Tale of the Woman of the Earth and the Husband of the Sea. She is a young Ostron woman from the yingbindunyai clade, \"a very old and wealthy compact of bonded families\", who is in love with a young cladeless Ostron man named Mer-Sah."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Er-Phryah's Vigil on the Plains of Eidolon shares her namesake."
+    ]
+   ]
+  ]
+ }
+}

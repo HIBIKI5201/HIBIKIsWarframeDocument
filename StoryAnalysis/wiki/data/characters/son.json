@@ -1,0 +1,113 @@
+{
+ "key": "son",
+ "name": "Son",
+ "page": "Son",
+ "group": "Deimos・Entrati・Cavia",
+ "group_key": "g17-deimos-entrati-cavia",
+ "summary": "Entrati 家の息子。研究者・生物学者",
+ "wiki": {
+  "title": "Son",
+  "url": "https://wiki.warframe.com/w/Son",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Entrati"
+  ],
+  [
+   "First Appearance",
+   "Heart of Deimos"
+  ],
+  [
+   "声優",
+   "Justin Gross"
+  ],
+  [
+   "Quotes",
+   "Son / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Kermerros"
+  ]
+ ],
+ "quests": [
+  [
+   "heart-of-deimos",
+   12,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “I was to be a scientist. Now I see the shortsightedness of mere intellect. Provide me samples. Soon my parents can come crawling to me to beg for my data.”",
+   "> —Son",
+   "> Son is the alias of the son of House Entrati. He is a partially-infested Orokin researcher and biologist, who resides within an infested flower inside the Necralisk, a Void research enclave located on Deimos. Son provides conservation tools which the Tenno can use to catch wildlife and turn in their tags for decorative floofs as well as restoring wounded Predasites and Vulpaphyla as companions."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### General",
+     "",
+     "Son belongs to the Entrati family, who were highly regarded since the Orokin Era for being the first ones to create technologies that harnessed the power of the Void.",
+     "",
+     "Before the Collapse, Son would have been married, and sometimes wishes that he could have been with his fiancée before the Tenno hunted down the remaining Orokin.",
+     "",
+     "### The Infestation of Deimos",
+     "",
+     "After the Collapse of the Orokin Empire, there were no Dax or Tenno left to assist in the protection of Deimos, which resulted in the gradual decline of the Entrati family and abandonment of their subterranean Isolation Vaults, after the encroaching Infested Grey Strain started to increase.",
+     "",
+     "As the safe zone on Deimos gradually shrunk further and further, Son was stuck with his dysfunctional family inside the Necralisk. His mother and father did not pay particularly close attention to him, and he was left with the impression they favored his sister over him. He would steal his sister's collection of Orokin fish, replacing them with a box of cremated ash and bone as a birthday present. When not at home, Son would attempt to find solitude in adventuring around the Cambion Drift, dressing up Infested lifeforms as his mother and father. The mother-creature would end up falling into a pit, with the father-creature soon following, lured in by the other's pheromones. Father, seeing this as an act of deliberate mockery, executed Son's infested 'pets', as per normal anti-Infestation protocols.",
+     "",
+     "However, Son would ultimately break containment protocol, allowing some Infested beasts to follow him home into the Necralisk. This caused spores to make their way inside, contaminating and infesting the rest of the family. As punishment, Son was banished from the family archives and fitted with a collar, stripping him of his Entrati command words. The family quickly succumbed to the encroaching Infestation, losing their bodies and much of their memories, though they held onto their identities.",
+     "",
+     "### The Re-emergence of Deimos",
+     "",
+     "Main article: Heart of Deimos",
+     "",
+     "Due to the Heart currently failing, the Entrati had no choice but to re-phase Deimos back into Martian orbit. The Necraloid Loid, loyal assistant of House Entrati, would then go on to contact the Tenno for assistant in repairing the Heart and mending the bonds between the family members. After descending into the depths of Deimos to repair the Heart, the Tenno come across Son in the tunnels, who shares his current status and how he was the one to infest the whole family. Son exhibits a small desire to let the Infestation win, stating how it might not be the 'abomination' the Tenno thinks it is. Fortunately, Son is able to put his squabbles aside, and provides assistance to his family and the Tenno in repairing the Heart.",
+     "",
+     "Unlike the rest of his family, Son is fully accepting of his Infested nature. He now seeks to understand the moon's unique processes and function by studying its wildlife, and will reward the Tenno if they bring him intact samples and specimens.",
+     "",
+     "### Mending the Bonds",
+     "",
+     "As the Tenno rank up with the Entrati family, Son can be seen attempting to mend his relationship with parents and sister.",
+     "",
+     "Rank 1 - Stranger Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 1 - Stranger with the Entrati, a cutscene plays in which Son begins to reconcile with Daughter. Giving her a descendant of her original collection, Son reveals that he didn't actually destroy her collection of fish. Instead, he dumped them in the exocrine rivers of Deimos, where they still remain. He states that he only wanted to \"wound, not maim\", and that they are still able rebuild her collection.",
+     "",
+     "Following this revelation, Son gives his sister the name Kaelli, meaning \"water scourge\". This name replaces Daughter's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.",
+     "",
+     "Rank 3 - Associate Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 3 - Associate with the Entrati, a cutscene plays with a conversation between Son and Mother. Mother admits that her son works well alone, and reveals that she indeed was worried about him after he contaminated the family, wanting nothing more than to protect him from the Infestation. Son acknowledges her recognition and Mother eases his restrictions, albeit slightly.",
+     "",
+     "Shortly after, Mother names him Kermerros, meaning \"the runner who outstrips his own shadow\". This name replaces Son's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.",
+     "",
+     "Rank 4 - Friend Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 4 - Friend with the Entrati, a cutscene plays with a conversation between Kermerros and Vilcor. Kermerros reminisces over the time he first bred Infested, and how they would play with them for hours. Vilcor admonishes his for this, stating that dressing them up as members of the family and giving them names of honor was a deliberate insult. Kermerros then reveals the true intention behind his Infested breeding was to create targets for Vilcor's weapons, stating \"What good is a weapons expert without something to kill?\".",
+     "",
+     "Rank 5 - Family Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 5 - Family with the Entrati, a cutscene plays with a conversation between the entire Entrati family. Vilcor presents Mother with another Seriglass Shard, with Grandmother stating that her's is nothing special, just one of thousands. Vilcor convinces Mother to let go of the shard that binds her to Grandfather, letting her live for the sake of the living.",
+     "",
+     "Following this, Vilcor gives Mother the name Gomaitru, meaning \"the goblet refilled\". This name replaces Mother's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.",
+     "",
+     "The Entrati then thank the Tenno for bringing them together again, and fully welcome them into the family under the name Ayatan.",
+     "",
+     "### The New War",
+     "",
+     "Main article: Veilbreaker",
+     "",
+     "As Narmer and the Sentients invade the Origin System, gaining control of most of the planets, Son, along with the rest of the Entrati, were ordered by Mother to remain hidden on Deimos in order to protect the Heart."
+    ]
+   ]
+  ]
+ }
+}

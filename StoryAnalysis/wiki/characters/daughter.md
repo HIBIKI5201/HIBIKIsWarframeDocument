@@ -1,0 +1,116 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Daughter
+
+[キャラクター一覧](../../characters.md) › [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md) ・ ← [Son](son.md) ・ [Grandmother](grandmother.md) →
+
+## 概要
+
+Entrati 家の娘
+
+> “I do know, you know. What we look like. I always did. But you didn't hesitate, did you? To help us.”
+> —Daughter
+> Daughter is the alias of the daughter of House Entrati. She is a partially-infested Orokin researcher and biologist, who resides within an Infested flower inside the Necralisk, a Void research enclave located on Deimos. Daughter mainly provides Fishing tools and blueprints which the Tenno can use to craft decorative trophies to showcase their catches.
+
+- グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
+- 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Daughter)（英語・出典） / [全文検索](../../search.html?q=Daughter)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Entrati |
+| First Appearance | Heart of Deimos |
+| 声優 | Kim Ramón |
+| Quotes | Daughter / Quotes |
+| Alias(es) | Kaelli / Blue Girl (by Kahl-175 ) |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [ダイモスの心臓](../quests/heart-of-deimos.md) | 23 |  |
+| [ベールブレイカー](../quests/veilbreaker.md) | 37 |  |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore & History
+
+### General
+
+Daughter belongs to the Entrati family, who were highly regarded since the Orokin Era for being the first ones to create technologies that harnessed the power of the Void.
+
+As a biologist and researcher, Daughter specializes in xenobiology and xenobotany, with a special focus in synergetic Void harmonics. Additionally, she states that she was disqualified from applying to the Archimedean Collegium "on a technicality".
+
+### The Infestation of Deimos
+
+After the Collapse of the Orokin Empire, there were no Dax or Tenno left to assist in the protection of Deimos, which resulted in the gradual decline of the Entrati family and abandonment of their subterranean Isolation Vaults, after the encroaching Infested Grey Strain started to increase.
+
+Daughter was not originally scheduled to accompany her family to Deimos, but stowed away to join them nonetheless. On Deimos she was tasked with genetic engineering and experimentation on several genera of fish. Trapped in the Necralisk with her neglectful parents and an envious brother, things became strained pretty quickly. Eventually her brother stole her fish, leaving behind a box of ash to make her believe he'd killed them, and broke the containment protocols to let the Infested in. The Entrati became infested themselves in short order, slowly losing their memories though not their identities.
+
+### The Re-emergence of Deimos
+
+Main article: Heart of Deimos
+
+Recently, Daughter has been engrossed in her research into the nature of the Infestation and its hive mind. She tasks the Tenno with bringing her samples of Infested fish for study, as she fears that they will all eventually surrender their individuality to the encroaching Infestation and be assimilated. Through her observations of the giant infested wyrms, Fass and Vome, and their fighting amongst themselves which determines the time of day on Deimos, as well as her observations on the Infested fish of the Cambion Drift, Daughter hopes to find a way to preserve her family's independent consciousnesses and wills before they fully succumb.
+
+Along with Loid, Daughter is also tasked with securing nutrition and preparing simple food that the rest of the family can ingest in their Infested state, such as stew made from Infested body parts. However, Daughter instead has gained a taste Fungal Polyps; Infested masses of fungus that, when fermented in the digestive system of a Juggernaut, give psychedelic dreams when consumed, and tasks and nearby Tenno to forage for them, despite Mother's disagreements.
+
+### Naberus Night
+
+Main article: Nights of Naberus
+
+During the Naberus holiday, Daughter will celebrate by dressing up for the occasion and selling the family's themed decorations for Mother Tokens.
+
+During the Orokin Era, before the infestation of Deimos, Daughter would often dress up Otak with black roses. She would attempt to do the same to Loid, despite him refusing.
+
+### Mending The Bonds
+
+As the Tenno rank up with the Entrati family, Daughter can be seen attempting to mend her relationship with her brother and father.
+
+Rank 2 - Acquaintance Spoilers ▾▾
+
+When the player reaches Rank 2 - Acquaintance with the Entrati, a cutscene plays in which Father and Kaelli discuss the time he made her a Claw weapon, which she later attacked him with. She stated that the disciplinary rituals they performed were stupid and insane, and questioned Father why he made them do them.
+
+He expressed that that claw he gave her was to protect her from Void-horrors, and that he had them perform the rituals because he had no idea what else to do, and didn't want to be useless. Kaelli assures him that she never believed he was useless, but simply misguided in trying to impress his family.
+
+After this, she names him Vilcor, meaning "the whip in its moment of striking". This name then replaces his previous name in-game from that point on. This new name can be hidden if Creator Mode in Settings is enabled.
+
+Rank 5 - Family Spoilers ▾▾
+
+When the player reaches Rank 5 - Family with the Entrati, a cutscene plays with a conversation between the entire Entrati family. Vilcor presents Mother with another Seriglass Shard, with Grandmother stating that her's is nothing special, just one of thousands. Vilcor convinces Mother to let go of the shard that binds her to Grandfather, letting her live for the sake of the living.
+
+Following this, Vilcor gives Mother the name Gomaitru, meaning "the goblet refilled". This name replaces Mother's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.
+
+The Entrati then thank the Tenno for bringing them together again, and fully welcome them into the family under the name Ayatan.
+
+#### The Rise of Narmer
+
+Main article: The New War
+
+As Narmer and the Sentients invade the Origin System, gaining control of most of the planets, Daughter, along with the rest of the Entrati, were ordered by Mother to remain hidden on Deimos in order to protect the Heart.
+
+### Veilbreaker
+
+Intrigued by Narmer's new leader, Pazuul, Daughter intercepts a distress beacon from a Murex above Deimos and sends the Tenno to investigate. After triangulating the signal, Daughter is shocked that the owner belongs to a "vat rat" Grineer, Kahl-175. Referring to Daughter as "Blue Girl", Kahl manages to strike a deal with the Orokin, and she reluctantly agrees to help Kahl free his brothers in exchange for information on Pazuul.
+
+Initially, their relationship starts off rocky, with Kahl initially trying to set up base on Deimos, which alerted Mother, as well as Daughter taking offense to Kahl's no-nonsense attitude. However, as they continue to fight Narmer together, Daughter is impressed and grows to respect the Grineer's loyalty and tenacity.
+
+Daughter now regularly checks in with the Garrison, and even sends them packages of Deimos resources, such as Fungal Polyps and Cryptosuctus.
+
+## Trivia
+
+Daughter can be seen wearing what appears to be Orokin-fashioned earphones. Following Update 36.1 (2024-08-21), the song PARTY OF YOUR LIFETIME by the 1999-band On-lyne can faintly be heard whenever Daughter is out of her Infested flower.
+
+  - Prior to Update 36.1 (2024-08-21), Daughter listened to one of two tracks. Audio Director George Spanos posted snippets of the unprocessed versions of those tracks on his Twitter.
+- Daughter seems to be quite the capable caricaturist, making cartoonish illustrations of Kahl-175 and his Garrison and signing them as "B.G." for "Blue Girl". These caricatures are shown whenever the Tenno opens the weekly Break Narmer mission window by talking to Kahl.
+- According to writer Adrian Bott, Kaelli's name is inspired by the song Kayleigh by British rock band Marillion (whose lead singer at the time was Derek William "Fish" Dick, tying back to Kaelli's fascination with the Deimos fish).
+- Rarely, Daughter can be seen yawning. This is also the case with Mother.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

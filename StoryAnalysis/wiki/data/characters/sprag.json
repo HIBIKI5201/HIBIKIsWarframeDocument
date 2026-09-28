@@ -1,0 +1,129 @@
+{
+ "key": "sprag",
+ "name": "Sprag",
+ "page": "Sprag",
+ "group": "Grineer",
+ "group_key": "g03-grineer",
+ "summary": "フィールドボス。Operation Gate Crash で初登場",
+ "wiki": {
+  "title": "Sprag",
+  "url": "https://wiki.warframe.com/w/Sprag",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Grineer"
+  ],
+  [
+   "Mission Type(s)",
+   "Formido / Orokin Sabotage / Stribog"
+  ],
+  [
+   "種類",
+   "Field Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Renok"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "1000"
+  ],
+  [
+   "Health",
+   "600"
+  ],
+  [
+   "Armor",
+   "150"
+  ],
+  [
+   "Dmg. Reduction",
+   "21.21 %"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Body Multipliers",
+   "Head: 2x"
+  ],
+  [
+   "Base Level",
+   "10"
+  ],
+  [
+   "Spawn Level",
+   "16"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 14.7 (2014-09-17)"
+  ],
+  [
+   "Mod Drops",
+   "Organ Shatter 0.76% / Stormbringer 0.33% / Continuous Misery 0.76% / Terminal Velocity 0.33% / 15 Endo 0.76% / 80 Endo 0.06%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 100.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “You will be led by pairs of my newest, most vicious clones! GO NOW! For the Queens!”",
+   "> —Councilor Vay Hek, in his Operation Gate Crash Address.",
+   "> Sprag is a Grineer Field Boss unit first introduced in Operation Gate Crash and now regularly encountered in Orokin Sabotage missions where Grineer are the dominant enemy. She, along with Ven'kra Tel, guard a Void Key necessary to close the Void Portal. She is later captured by Narmer and forced into their service.",
+   "> She possesses a jet pack identical to that used by Hellions that grants her excellent mobility, and can use her Renok Hammer and special melee abilities to engage Tenno in close combat."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Prior to Update 32.1 (2022-11-02), Sprag originally wielded a red Manticore.",
+     "- Sprag, along with her sister, might possibly have a relation to Vay Molta, for she is also said to be one of Vay Hek’s most vicious clones.",
+     "- Her name most likely comes from sprag; which is a metal bar or stake used to keep vehicles from rolling away.",
+     "- Several of her attack animations and patterns during Break Narmer's Junk Run seems to be taken from the Wolf of Saturn Six, sharing the same charge and throw attacks like he has."
+    ]
+   ]
+  ]
+ }
+}

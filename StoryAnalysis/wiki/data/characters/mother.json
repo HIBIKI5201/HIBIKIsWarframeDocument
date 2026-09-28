@@ -1,0 +1,131 @@
+{
+ "key": "mother",
+ "name": "Mother",
+ "page": "Mother",
+ "group": "Deimos・Entrati・Cavia",
+ "group_key": "g17-deimos-entrati-cavia",
+ "summary": "Entrati 家の家長",
+ "wiki": {
+  "title": "Mother",
+  "url": "https://wiki.warframe.com/w/Mother",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Entrati"
+  ],
+  [
+   "First Appearance",
+   "Heart of Deimos"
+  ],
+  [
+   "声優",
+   "Keaton Talmadge [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Mother / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Euleria Entrati (pre-Infested) / Gomaitru (renamed)"
+  ]
+ ],
+ "quests": [
+  [
+   "heart-of-deimos",
+   26,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Of course this place is harsh. It's testing us. You have to be harsher still. Look it in the eye.”",
+   "> —Mother",
+   "> Mother is the alias of the leader of House Entrati. She is a partially-infested Orokin scientist, mathematician, and philosopher who resides within an infested flower inside the Necralisk; a Void research enclave located on Deimos. She offers Bounties to the Tenno, limited-time missions out in the Cambion Drift which can be accomplished to earn Entrati Standing and other rewards as provided in the bounty rewards."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### Early life",
+     "",
+     "Formerly named Euleria Entrati, she was born to the Orokin Entrati family to her parents Albrecht and Gerivaine, alongside many siblings. Euleria would inherit her mother's eyes. Gerivaine, however, would pass away early on, leaving Albrecht to raise Euleria all by himself inconsistently.",
+     "",
+     "During Euleria's childhood, Albrecht would come up with a certain cast of characters and tell her stories for her entertainment.",
+     "",
+     "### The First Void Expedition",
+     "",
+     "Main article: Albrecht Entrati",
+     "",
+     "During the first voyage into the Void, Mother was the one to start the experiment, opening the Wall of Lohk for her father to journey into with the use of a Seriglass Bell. Albrecht would ultimately be successful, but not without consequence. As he tumbled back out of the Wall, he would command Mother to close and deactivate the gate in order to prevent an unknown eldritch entity from fully emerging. However, when closing the Wall, she would inadvertently sever some of the entity's fingers.",
+     "",
+     "### Zariman Ten-Zero",
+     "",
+     "With the severed digits, both Albrecht and Euleria would both study all they could of the Void, and would aid the Orokin in constructing the Zariman Ten Zero; a large colonist ship that was intended to travel and colonize the Tau System. Additionally, Euleria herself would provide instructional presentations to the children aboard the Zariman, with some notable subjects being Temporal Axioms and the Theories of Time; Presentism and Eternalism.",
+     "",
+     "Euleria would later write \"The Palimpsest of Spacetime\" alongside her father. Additionally, she would author the storybook, \"Tales of Duviri\", based on the stories that her father told in her childhood. Set in the kingdom of Duviri, the book itself was created to teach children emotional control and regulation in the event of Void exposure. The story focuses on child-king, Dominus Thrax, and his five courtiers, who each represent one of his emotions. The Drifter, a survivor aboard the Zariman Ten Zero, would inadvertently recreate Duviri and its tales within the Void as a result of their trauma, which they had since long forgotten while trying to escape it.",
+     "",
+     "Sometime after the Zariman was constructed, Euleria's father would mysteriously disappear, prompting her to begin her search in finding him. However, this deed would soon turn into obsession.",
+     "",
+     "Around this time, Euleria would be courted by Quinn, although Quinn's efforts never went anywhere, as Euleria later chose to marry Petros Vorten instead. Recognizing Euleria's low morale amidst her father's disappearance, Petros would try to console her.",
+     "",
+     "### The Infestation of Deimos",
+     "",
+     "Main article: Citrine",
+     "",
+     "After a bio-bomb was detonated in Deimos in an attempt to repel the Sentients, the entire moon was overrun with Infested. The Entrati had no choice but to lock themselves in the Necralisk and use it as a makeshift safehouse. After the Collapse of the Orokin Empire, there were no Dax or Tenno left to assist in the protection of moon, which resulted in its gradual decline and the abandonment of the Entrati's subterranean Isolation Vaults, after the Grey Strain began to encroach upon the Cambion Drift. Due to Son's habit of interacting with the Infested animals, he would inadvertently break containment protocol and allow Infested spores to make their way inside the Necralisk. With the entire Entrati family infected, Euleria lost her name to the Infested hivemind and became known as Mother.",
+     "",
+     "Mother's relationship with the rest of the family was highly emotionally abusive. In general, she did not seem to value her marriage, nor pay much attention to her husband and children, often disregarding or belittling them. Additionally, she often believed she could hear her father Albrecht tapping from beyond the Wall, and with only a shard of his Seriglass Bell, Mother would continuously attempt to look into the Void to find him, even as the Necralisk succumbed to the Infestation. She would often order the rest of the family to help her with her search, and became increasingly paranoid as time went on, even believing that they were conspiring against her.",
+     "",
+     "Her husband, Father, would attempt to console her, telling her to put the shard away and move on. However, Mother angrily attacked him, repeatedly cutting and lacerating him with the shard while the children looked on. Due to the previous contamination of the Necralisk, Mother would soon become infected, along with the rest of the family.",
+     "",
+     "As punishment, Mother collared Son, stripping him of his command words and banishing him from the family archives. The Entrati would then slowly start succumbing to the Infestation, losing many of their memories.",
+     "",
+     "### The Re-emergence of Deimos",
+     "",
+     "Main article: Heart of Deimos",
+     "",
+     "Recently, Mother noticed the Heart was beginning to break down. Her husband is the only one with the expertise to repair it, however he was nowhere to be found, so with the assistance of a the family's loyal Necraloid servant, Loid, she sends out a distress call for any available Tenno to come and aid in its repair.",
+     "",
+     "When the Tenno arrive, Mother is first to greet them. She states how her daughter is an entitled, self-pitying whelp, her son, an arrogant upstart, and her husband, a mealy-mouthed relic of his old self, believing that every single one of them has let her down. Barely finding them tolerable, Mother instead intends to work with the Tenno in understanding and taming the Infestation of Deimos, and provides them with bounties when exploring the Cambion Drift.",
+     "",
+     "### Mending the bonds",
+     "",
+     "As the Tenno rank up with the Entrati family, Mother can be seen attempting to mend her relationship with the rest of the family.",
+     "",
+     "Rank 3 - Associate Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 3 - Associate with the Entrati, a cutscene plays with a conversation between Son and Mother. Mother admits that her son works well alone, and reveals that she indeed was worried about him after he contaminated the family, wanting nothing more than to protect him from the Infestation. Son acknowledges her recognition and Mother eases his restrictions, albeit slightly.",
+     "",
+     "Shortly after, Mother names him Kermerros, meaning \"the runner who outstrips his own shadow\". This name replaces Son's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.",
+     "",
+     "Rank 5 - Family Spoilers ▾▾",
+     "",
+     "When the player reaches Rank 5 - Family with the Entrati, a cutscene plays with a conversation between the entire Entrati family. Vilcor presents Mother with another Seriglass Shard, with Grandmother stating that her's is nothing special, just one of thousands. Vilcor convinces Mother to let go of the shard that binds her to Grandfather, letting her live for the sake of the living.",
+     "",
+     "Following this, Vilcor gives Mother the name Gomaitru, meaning \"the goblet refilled\". This name replaces Mother's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.",
+     "",
+     "The Entrati then thank the Tenno for bringing them together again, and fully welcome them into the family under the name Ayatan.",
+     "",
+     "### The Rise of Narmer",
+     "",
+     "Main article: The New War",
+     "",
+     "As Narmer and the Sentients invade the Origin System, gaining control of most of the planets, Mother ordered the rest of the Entrati family to remain hidden on Deimos in order to protect the Heart."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- While still searching for Albrecht, Mother would later meet her husband, Father. Despite what Father says, this is later contradicted by both seemingly, Son , Daughter and Loid (original)",
+     "- Euleria's namesake comes from the Swiss mathematician Leonhard Euler.",
+     "- Rarely, Mother can be seen yawning. This is also the case with Daughter."
+    ]
+   ]
+  ]
+ }
+}

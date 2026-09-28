@@ -6,6 +6,8 @@
 
 > コミュニティが書いた記事で、ゲームの最新の内容や公式の日本語訳と違うことがある。
 
+このサイトのクエストのページ: [ダイモスの心臓](../../wiki/quests/heart-of-deimos.md)（英語版 Wiki を元にした最新の情報）
+
 - ネタバレ警告！ この記事には来たるエピソードについての物語の筋の詳細が含まれています。
 
 Deimos emerges in Martian orbit, completely overrun by the Infestation... yet among the writhing mass, a distress call comes over a most ancient carrier wave...

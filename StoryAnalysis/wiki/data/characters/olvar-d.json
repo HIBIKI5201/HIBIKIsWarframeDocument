@@ -1,0 +1,48 @@
+{
+ "key": "olvar-d",
+ "name": "Olvar D",
+ "page": "Olvar D",
+ "group": "Kahl's Garrison",
+ "group_key": "g18-kahl-s-garrison",
+ "summary": "Kahl-175 を支える Corpus の乗組員",
+ "wiki": {
+  "title": "Olvar D",
+  "url": "https://wiki.warframe.com/w/Olvar_D",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus (Formerly) / Tenno"
+  ],
+  [
+   "声優",
+   "Trent Martin"
+  ],
+  [
+   "Quotes",
+   "Olvar D / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Corpus Boy (by Horrek )"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Olvar D is a Corpus Crewman that supports Kahl-175. He joins Kahl's Garrison at Rank 4 - Settlement with the Syndicate.",
+   "> He provides no services nor can he be directly spoken to, acting as an aesthetic to Kahl's growing camp."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Because Olvar shows surprise when learning that the Solaris do not like what they experience, as well as singing a line from We All Lift Together, it is likely that prior to the New War, he was stationed at Fortuna under the employ of Nef Anyo."
+    ]
+   ]
+  ]
+ }
+}

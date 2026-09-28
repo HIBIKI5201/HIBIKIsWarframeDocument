@@ -1,0 +1,40 @@
+{
+ "key": "bren-terrasiam",
+ "name": "Bren Terrasiam",
+ "page": "Bren Terrasiam",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "陶芸家。Gallixware の作者",
+ "wiki": {
+  "title": "Bren Terrasiam",
+  "url": "https://wiki.warframe.com/w/Bren_Terrasiam",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Bren Terrasiam is an Orokin ceramic artist, and the creator of the Gallixware series of fine ceramics."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Renowned for his precision, Terrasiam was admired for his master of the ancient art of ceramic making. His Gallixware series consists of one amphora, three vases, one plate, and one bowl.",
+     "",
+     "All known ceramics make up the Xaku Kagura Skin, albeit broken and shattered."
+    ]
+   ],
+   [
+    "Known Creations",
+    [
+     "Terrasiam's Gallixware ceramics can be acquired by purchasing the Golden Mend Collection in the Market for 430.",
+     "",
+     "- Gifting the bundle to another player will receive an extra Gallixware Ceramics Bundle in return."
+    ]
+   ]
+  ]
+ }
+}

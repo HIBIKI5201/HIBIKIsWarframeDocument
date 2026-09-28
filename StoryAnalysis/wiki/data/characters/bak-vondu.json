@@ -1,0 +1,48 @@
+{
+ "key": "bak-vondu",
+ "name": "Bak Vondu",
+ "page": "Bak Vondu",
+ "group": "外伝・イベント初出",
+ "group_key": "g19",
+ "summary": "Nightwave: Series 3 で登場した Corpus の技術者",
+ "wiki": {
+  "title": "Bak Vondu",
+  "url": "https://wiki.warframe.com/w/Bak_Vondu",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Bak Vondu / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Nightwave: Series 3「The Glassmaker」で登場した Corpus の技術作業員。Glassmaker を解き放った張本人で、後にその自警行為の犠牲者になった。",
+   "",
+   "> 「たった一つの過ちで、私の人生の帳簿は差し引き赤字になった。私は太陽系に旋風を解き放ってしまった。あらゆる命が、その狂った怒りの眼差しの下にさらされる。死に怒る死者。すべての命から意味を奪おうとする迷い子。古代の破滅。私はそれを招き入れてしまった」（Bak Vondu）",
+   "",
+   "> 「Bak Vondu、ファイバー屋。私の Corpus 文字の読みが正しければ、こいつは腕の立つ技術者だった」（Nora Night）"
+  ],
+  "sections": [
+   [
+    "経歴",
+    [
+     "Vondu は他の Corpus とは違うファイバー屋（通信配線の技術者）だった。「無私」であるとして Corpus の教義を拒み、Solaris United を助け、債務収容所のコロニーにまで手を貸していた。あるとき彼は Ostron と取引をし、高価な品を積んだ Corpus の A 列車で一人きりの仕事を請け負った。その中に大きな危険が潜んでいるとは知らずに。Vondu は仕事に必要なものをすべて持っていた。ヘルメット、ID バッジ、高級品カタログのパッド、放射線計測データのパッド、そして暗号のかかっていない個人的な日記だ。日記には、自分がこんな人間になったことへの深い後悔が綴られ、「今の自分を見たら」母を失望させるだろうと書かれていた。それでも彼は仕事をやり遂げたが、古代の破滅である Glassmaker をうっかり太陽系に解き放ち、後に Glassmaker によってガラスに変えられた。",
+     "",
+     "Cutter のデータログによれば、Cutter は Bak Vondu を使って、Shigg が発明した放送装置を作らせ、Glassmaker を太陽系中に解き放った。その放送は Gral が暗号化した。その後、彼らは全員 Glassmaker にガラスにされた。"
+    ]
+   ],
+   [
+    "トリビア",
+    [
+     "- ID バッジでは名前が「Balu Vomdu」になっていて、役職もファイバー屋ではなく出荷手順管理者になっている。",
+     "- 高級品カタログの手がかりには、売りに出されている Corpus の製品が並んでいる。Coildrive が 350 万クレジット、個人用の飛行機が 3 種類で 75 万、82 万 5000、100 万未満の不明な額。"
+    ]
+   ]
+  ]
+ }
+}

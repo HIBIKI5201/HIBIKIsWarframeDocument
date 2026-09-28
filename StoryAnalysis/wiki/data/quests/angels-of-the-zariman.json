@@ -1,0 +1,121 @@
+{
+ "key": "angels-of-the-zariman",
+ "name": "Angels of the Zariman",
+ "page": "Angels of the Zariman",
+ "ja": "Zarimanの天使",
+ "group": "メインストーリー",
+ "summary": "Void から戻った Zariman Ten Zero を探索し、船の生き残りと出会う",
+ "wiki": {
+  "title": "Angels of the Zariman",
+  "url": "https://wiki.warframe.com/w/Angels_of_the_Zariman",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Angels_of_the_Zariman/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 31.5 (2022-04-27)"
+  ],
+  [
+   "種類",
+   "Main Quest"
+  ],
+  [
+   "条件",
+   "Completed The New War"
+  ],
+  [
+   "報酬",
+   "1 Voidplume Pinion / Operator Voidshell Set / Drifter Voidshell Set / Access to the Dormizone / Access to The Holdfasts Syndicate / Access to Chrysalith Bounties ( Gyre )"
+  ],
+  [
+   "台詞全文",
+   "Angels of the Zariman / Transcript"
+  ],
+  [
+   "前のクエスト",
+   "The New War"
+  ],
+  [
+   "再プレイ",
+   "❌"
+  ]
+ ],
+ "characters": [
+  [
+   "quinn",
+   35,
+   53
+  ],
+  [
+   "operator",
+   26,
+   0
+  ],
+  [
+   "drifter",
+   26,
+   0
+  ],
+  [
+   "cavalero",
+   9,
+   10
+  ],
+  [
+   "archimedean-yonta",
+   7,
+   11
+  ],
+  [
+   "margulis",
+   3,
+   6
+  ],
+  [
+   "hombask",
+   2,
+   4
+  ],
+  [
+   "natah",
+   1,
+   6
+  ],
+  [
+   "lotus",
+   1,
+   0
+  ],
+  [
+   "grineer-queens",
+   0,
+   9
+  ],
+  [
+   "archimedean",
+   0,
+   8
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "The New War の後、現実世界に姿を現した Zariman Ten Zero に乗り込み、過去の悪夢と向き合うメインクエスト。ソロ専用で、Update 31.5（2022-04-27）で追加された。"
+  ],
+  "sections": [
+   [
+    "あらすじ",
+    [
+     "The New War の影響で、Zariman Ten Zero に現実世界から入れるようになった。伝説の船の出現は Worm Queen の Grineer と Parvos Granum の Corpus を引き寄せ、船内から響く奇妙な歌は Tenno と Lotus の注意を引く。",
+     "",
+     "船に乗り込んだ Tenno は、Grineer に先を越されていたこと、Lotus との通信が途絶えることを知り、死んだはずの乗員の最後の生き残り The Holdfasts と出会う。Quinn が率いる彼らは生と死のはざまの存在で、Void そのものを含む、船を滅ぼそうとするものから Zariman を守っている。彼らによると、船では現実そのものを脅かす Void Cascade が起きており、かつて Holdfasts の一員だった Kira のような Void Angel がそれを加速させている。",
+     "",
+     "Tenno は自身の力で Void Cascade を止めるが、Angel たちは Albrecht 膜を破って Void Flood を起こす。これを封じると、侵入した Grineer と Kira が Void Armageddon を起こし、船の動力源であるレリクアリ・ドライブを直接狙ってくる。Holdfasts の Cavalero によれば、Zariman は植民船で武装はなかったが、レリクアリ・ドライブだけは無防備にできず、自動生成兵装（Auto-Fabricating Armaments）が備えられていた。Tenno はこれを使ってドライブを守り抜き、Kira を倒して歌と脅威を止める。",
+     "",
+     "Quinn は、失われたすべての人を悼む記念碑を Kira の好きだった場所に作ろうと提案し、Tenno もそこを訪れる。Holdfasts は Tenno に、これからも Zariman を守り、Void と敵の両方に対する新しい家・砦として使うよう勧める。"
+    ]
+   ]
+  ]
+ }
+}

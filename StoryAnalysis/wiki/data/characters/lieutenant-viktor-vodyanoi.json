@@ -1,0 +1,79 @@
+{
+ "key": "lieutenant-viktor-vodyanoi",
+ "name": "Lieutenant Viktor Vodyanoi",
+ "page": "Lieutenant Viktor Vodyanoi",
+ "group": "1999（Höllvania）",
+ "group_key": "g11-1999-h-llvania",
+ "summary": "Scaldra の副官",
+ "wiki": {
+  "title": "Lieutenant Viktor Vodyanoi",
+  "url": "https://wiki.warframe.com/w/Lieutenant_Viktor_Vodyanoi",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Scaldra"
+  ],
+  [
+   "First Appearance",
+   "The Hex"
+  ],
+  [
+   "声優",
+   "Neil Newbon [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Lieutenant Viktor Vodyanoi / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "\"Shitbird\" (by Flare )"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Some see the Techrot as a disaster. I see the opportunity to remake this city, my city. No more of the laziness, the blasphemy, the mental rot. This is my chance to purge, to cleanse, to make this city powerful once again.”",
+   "> —Lieutenant Viktor Vodyanoi",
+   "> Lieutenant Viktor Vodyanoi is the second-in-command of the Scaldra and leads them in Major Neci Rusalka's absence. A cruel, egotistical man, prone to fits of anger, who believes that Höllvania is his to remake, actively using the Techrot outbreak as the perfect excuse to purge what he interprets as undesirable traits from the city."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The Hex",
+     "",
+     "Shortly after the Drifter's arrival in Höllvania and capture by The Hex, a likewise captured Albrecht Entrati was being interrogated by Viktor in one of the Scaldra's interrogation cells. Despite receiving a considerable beating, Albrecht staunchly refused to divulge any information to Viktor, prompting Major Rusalka to step in and dismiss Viktor from the room. This caused him to miss Rusalka revealing herself to be under the control of the Indifference, as it taunts Albrecht just after Viktor left the room.",
+     "",
+     "Later in the night, the celebration of New Year's Eve was threatened by the city's nuclear power plant about to explode thanks to Y2K, something Viktor was unaware of. Desperate to stop it, the Hex tried to enter the Princess Lucina Zoological Gardens so Eleanor could gain control of the Techrot and break through Scaldra's defenses around the reactor. Viktor took notice, but disregarded Arthur's claims that the reactor would go off and would ultimately call his troops back, claiming it was a waste of his time, allowing the Hex to pass through.",
+     "",
+     "When the Hex made their move to assault the power plant directly, a Scaldra Eradicator called Viktor for reinforcements due to Eleanor and Leticia breaching the underground, but Viktor believed this to be a ruse and ordered them to hold their positions, as Arthur, Aoi, Amir and Quincy were also busy battling the Scaldra troops at the plant's entrance. He instead sent reinforcements to the battle on the streets, including a H-04 Efervon Tank. While the tank succeeded in killing Quincy, the rest made it into the reactor control chamber.",
+     "",
+     "### Bounties",
+     "",
+     "After the Hex's failure to stop the reactor meltdown, the Drifter used their time power acquired in Duviri to reset the year back to January and gain more time to prepare for a second attempt. With Major Rusalka seemingly missing, Viktor is in charge of the Scaldra forces in her place. Over the course of the in-game year, Viktor would enact greater restrictions upon Höllvania's populace, as indicated by announcements made over speakers across the city.",
+     "",
+     "In one particular loop, Viktor and a squad of Scaldra were hunted by a Voruna Prime after ambushing Leticia. Despite his best efforts, he was killed, his skull and spine ripped out of his body as a grisly trophy for the canine Warframe."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "Vodyanoy is a male water spirit in Slavic Mythology.",
+     "",
+     "  - Vodyanoi shares his namesake with an Arena node on Sedna.",
+     "- The Roman numerals tattooed onto his upper chest spell out \"1999\".",
+     "- Viktor makes references to an Eight Squad within the Scaldra, which was the same name as Kahl-175's unit from The New War.",
+     "- He is voiced by Neil Newbon, who also voices Fibonacci, Astarion in Baldur's Gate 3 and Karl Heisenberg in Resident Evil Village.",
+     "- According to Arthur, Viktor is unaware of Transference and has not seen two Warframes at the same time. This has resulted in Viktor becoming extremely paranoid with the belief that an army of psychotic super-soldiers is running amok in the Hex, which Arthur finds rather amusing.",
+     "- A romanced Eleanor agrees that, while she likes Viktor's body tattoos, he has a terrible personality.",
+     "- Viktor's death in Voruna Prime's Prime Access trailer is a reference to Sub-Zero's infamous \"Skull Rip\" Fatality finisher from the Mortal Kombat franchise. The shot of her holding it aloft references the Predator franchise, particularly it's second installement."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "key": "drusus",
+ "name": "Drusus",
+ "page": "Drusus",
+ "group": "Cephalon",
+ "group_key": "g02-cephalon",
+ "summary": "Drusus Thelonius Leverian。博物館 Leverian の館長・語り手",
+ "wiki": {
+  "title": "Drusus",
+  "url": "https://wiki.warframe.com/w/Drusus",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Update 35.5 (2024-03-27)"
+  ],
+  [
+   "声優",
+   "Martin Oldfield [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Drusus / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Drusus Thelonius Leverian, or simply Drusus, is the mysterious curator and narrator of the Leverian; a little-known museum dedicated to recording the stories and historical feats of the Tenno and their Warframes."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### General",
+     "",
+     "An avid historian and storyteller, Drusus is a humble man who only seeks to preserve history and share it with future generations. Despite losing his body and becoming a Cephalon, he is still able to fulfill his duties to the Leverian. Before being cephalized, Drusus was a long-standing associate of Albrecht Entrati's assistant, Loid; a friendship that continues to exist even in the present day.",
+     "",
+     "Even though Drusus acts as the main curator of the Leverian, it is only due to the efforts of its one and only chronicler, and dearest friend of Drusus, the Warframe Dante, that much of the museum's exhibits even exist in the first place.",
+     "",
+     "### Dante Unbound",
+     "",
+     "Threatened with bankruptcy from the Leverian's lack of visitors and low donations, Drusus reluctantly agrees to help Parvos Granum in collecting artifacts pertaining to Albrecht Entrati. But when failing to make payment on time, the artifacts from Dante's gallery are confiscated as compensation, forcing Drusus to turn to the Tenno for assistance. With the help of Drusus' old friend Loid, the Tenno use Albrecht's old Arterial Conduit network to gather enough artifacts."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "When narrating the Leverian, Drusus is only shown as subtitles. He was not shown until Update 35.5 (2024-03-27), contacting the Tenno to assist Deimos Disruption and revealing himself with what appears to be a Cephalon with an avatar resembling a face.",
+     "",
+     "Prior to his reveal as a Cephalon, Drusus made comments alluding to not being human:",
+     "",
+     "    - When donating 1 million Credits, he may comment \"Ahh... with that... I could buy my bod-\".",
+     "    - In the end of Styanax's Leverian entry, Drusus says, \"I would visit Aria's temple myself, but I am indisposed at present... a... long-standing condition.\"",
+     "- Drusus is voiced by Martin Oldfield."
+    ]
+   ]
+  ]
+ }
+}

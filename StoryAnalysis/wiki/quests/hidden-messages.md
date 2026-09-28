@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 隠されたメッセージ（Hidden Messages）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › Warframe 入手クエスト ・ ← [Inaros の砂嵐](sands-of-inaros.md) ・ [Revenantの仮面](mask-of-the-revenant.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 謎めいた詩を読み解き、謎を解いて Warframe の Mirage を探すサイドクエスト。Update 14.0（2014-07-18）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Hidden_Messages) / [台詞全文](https://wiki.warframe.com/w/Hidden_Messages/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Hidden_Messages)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Hidden_Messages/Transcript) / [日本語 Wiki「隠されたメッセージ」](https://warframe.fandom.com/ja/wiki/%E9%9A%A0%E3%81%95%E3%82%8C%E3%81%9F%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8) / [日本語 Wiki の取り込み](../../fandom-ja/pages/hidden-messages.md) / [全文検索](../../search.html?q=Hidden%20Messages)
 
 ## 基本情報
 
@@ -27,27 +27,11 @@
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 24 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 6 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Lotus](../characters/lotus.md) | Tenno | 10 |  |
+| [Ordis](../characters/ordis.md) | Cephalon | 9 | 22 |
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

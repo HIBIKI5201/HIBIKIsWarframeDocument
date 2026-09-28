@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # デュヴィリ・パラドックス（The Duviri Paradox）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [新たな大戦](the-new-war.md) ・ [壁の中の囁き](whispers-in-the-walls.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 矛盾した存在である Drifter が、Duviri の王国で繰り広げる旅を描くメインクエスト。ソロ専用で、Update 33.0（2023-04-26）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Duviri_Paradox) / [台詞全文](https://wiki.warframe.com/w/The_Duviri_Paradox/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Duviri_Paradox)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Duviri_Paradox/Transcript) / [全文検索](../../search.html?q=The%20Duviri%20Paradox)
 
 ## 基本情報
 
@@ -27,42 +27,19 @@
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 85 |
-| [Dominus Thrax](../../wiki/characters/g12-duviri.md#dominus-thrax) |  | 50 |
-| [Bombastine](../../wiki/characters/g12-duviri.md#bombastine) |  | 22 |
-| [Lodun](../../wiki/characters/g12-duviri.md#lodun) |  | 21 |
-| [Mathila](../../wiki/characters/g12-duviri.md#mathila) |  | 17 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Acrithis](../../wiki/characters/g12-duviri.md#acrithis) |  | 4 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Luscinia](../../wiki/characters/g12-duviri.md#luscinia) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 2 |
-| [Cephalon Melica](../../wiki/characters/g02-cephalon.md#cephalon-melica) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Barris](../../wiki/characters/g12-duviri.md#barris) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Teshin](../characters/teshin.md) | Tenno | 66 | 82 |
+| [Drifter](../characters/drifter.md) | Tenno | 65 |  |
+| [Dominus Thrax](../characters/dominus-thrax.md) | Duviri | 46 | 49 |
+| [Bombastine](../characters/bombastine.md) | Duviri | 14 | 21 |
+| [Lodun](../characters/lodun.md) | Duviri | 13 | 20 |
+| [Mathila](../characters/mathila.md) | Duviri | 9 | 16 |
+| [Lotus](../characters/lotus.md) | Tenno | 7 |  |
+| [Acrithis](../characters/acrithis.md) | Duviri |  | 3 |
+| [Luscinia](../characters/luscinia.md) | Duviri |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 Void の中で終わりのないループに閉じ込められた Drifter は、時間を巻き戻す狂王 Dominus Thrax に何度も死刑を宣告され、Duviri からの脱出に失敗し続けていた。そのせいで無気力になり、自分が誰なのかも忘れていた。ある日、刺されたような奇妙な感覚の後、謎の手が現れて Drifter に不思議な力を与える。手に導かれた先にいたのは年老いた賢者 Teshin だった。彼は、Void でできた「牢獄」の「壁」の向こうから助けが届いたのだと説明し、絵本『デュヴィリの物語（Tales of Duviri）』をもとに、パラドックスを通じて助けとして送られてくる Tenno と Warframe について少しずつ教えていく。
 
@@ -72,7 +49,7 @@ Drifter は「パラドックス」によって放棄された廃船に一瞬移
 
 Duviri に縛られなくなった Drifter は、恩返しのために太陽系へ向かうことを選べる。Teshin は、もし去るなら、今のあなたではなく、かつてのあなたになるだろうと警告する。
 
-### トリビア
+## トリビア
 
 - TennoCon 2019 の「Empyrean」デモの最後で、Railjack を操縦するオペレーターが Void の波に襲われて転移を解除され、画面が暗転してから Duviri Paradox のトレーラーが流れた。ただし最終的に Railjack と Duviri のゲームプレイは無関係になった。
 - 最初は「Planes of Duviri」（存在の次元）として発表された。
@@ -92,3 +69,7 @@ Duviri に縛られなくなった Drifter は、恩返しのために太陽系�
 - Zarimanの天使以降、ドーミゾーンの Vista Suite の右の扉に Teshin の剣やモノクロのエネルギー、Duviri の音楽が仕込まれていた。この扉が Duviri への入口だと Devstream 168 で明かされた。
 - 公開前の 5 日間、公式 SNS のアイコンとバナーが Dominus Thrax の 5 つの気分（怒り、嫉妬、悲しみ、恐れ、喜び）の順に日替わりで変わった。
 - 当初は「Paradox Path」として WARFRAME のもう一つの始まり方になる予定だったが、混乱を招いたため Vor の秘宝の後の任意クエストに移され、その後ジャンクションの位置も変わり、Update 38.0 で再びメインクエストになって The Hex の前提になった。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

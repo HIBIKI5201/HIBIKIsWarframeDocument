@@ -1,0 +1,31 @@
+{
+ "key": "yimi",
+ "name": "Yimi",
+ "page": "Yimi",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Duviri の住人",
+ "wiki": {
+  "title": "Yimi",
+  "url": "https://wiki.warframe.com/w/Yimi",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Yimi / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Heeded not the warnings Of the Lorn shrines Haunted to her death” —Yimi's tombstone epitaph",
+   "> Yimi was a resident of Duviri.",
+   "> The Island of Lorn, one of the Lost Islands of Duviri, was notable for its shrines, many of which were dismantled, but can still be reassembled. This is not advisable, however, because it risks a local outbreak of ghosts and is thus an offense punishable by death. Despite all this, Yimi did not heed the warnings, and was slain by the ghosts.",
+   "> Her grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "key": "executioner-gorth",
+ "name": "Executioners",
+ "page": "Executioner/Gorth",
+ "group": "Grineer",
+ "group_key": "g03-grineer",
+ "summary": "Kela De Thaym 配下の処刑人たち（Dhurnam, Dok Thul, Garesh, Gorth, Harkonar, Nok, Reth, Vay Molta, Zura）",
+ "wiki": {
+  "title": "Executioner/Gorth",
+  "url": "https://wiki.warframe.com/w/Executioner/Gorth",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Grineer"
+  ],
+  [
+   "Planet(s)",
+   "Sedna"
+  ],
+  [
+   "Mission Type(s)",
+   "Arena"
+  ],
+  [
+   "種類",
+   "Field Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Ogris / Ack & Brunt / Cryo Grenade"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "-1"
+  ],
+  [
+   "Shield",
+   "800"
+  ],
+  [
+   "Health",
+   "500"
+  ],
+  [
+   "Armor",
+   "325"
+  ],
+  [
+   "Dmg. Reduction",
+   "31.22 %"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Body Multipliers",
+   "Head: 2x"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "0"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "5"
+  ],
+  [
+   "初登場",
+   "Update 18.10 (2016-04-29)"
+  ],
+  [
+   "Mod Drops",
+   "15 Endo 15.18% / 50 Endo 4.42% / 80 Endo 0.40%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 7.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Gorth was a distinguished member of the Nightwatch Corps, but when he unwittingly killed a close ally of Lech Kril for stealing supplies he faced political fallout that destroyed his career. Exiled from military service, Gorth now seeks to redeem his honor as an Executioner of Rathuum.",
+   "> Executioner Gorth is one of Kela De Thaym's Executioners; elite Grineer troops that fight within the pits of Rathuum to judge defected Grineer and other enemies of the Empire."
+  ],
+  "sections": [
+   [
+    "History",
+    [
+     "### Project Undermine",
+     "",
+     "> “The interloper has been arrested but refuses to reveal the location of the missing blueprints. Should I apply the pain sequence? - Gorth, Nightwatch Corps”",
+     "",
+     "> —Decoded message",
+     "",
+     "After Maroo started a skirmish between the Corpus and the Grineer near Mars, the Nightwatch Corps arrived to aid in the fight. Maroo was captured and held prisoner on Ceres. Gorth was present during this event, and was the one was going to torture Maroo for the location of missing blueprints. The Tenno ultimately took out the squad of Nightwatch troops and rescued Maroo.",
+     "",
+     "### Becoming an Executioner",
+     "",
+     "At some point during his distinguished career, Gorth killed a thief only to discover they were a close ally of Lech Kril. The political fallout from this scandal destroyed Gorth's career, and he was exiled from active military service. Gorth was instead offered a position as an Executioner of Rathuum, and now seeks to redeem his lost honor."
+    ]
+   ]
+  ]
+ }
+}

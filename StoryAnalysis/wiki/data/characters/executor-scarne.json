@@ -1,0 +1,59 @@
+{
+ "key": "executor-scarne",
+ "name": "Executor Scarne",
+ "page": "Executor Scarne",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "The Seven の一員",
+ "wiki": {
+  "title": "Executor Scarne",
+  "url": "https://wiki.warframe.com/w/Executor_Scarne",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Executor Scarne / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Executor Scarne was an Orokin Executor and member of The Seven."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "> “VM: PUNISHMENT",
+     "",
+     "> Transcript: It was Scarne, testy, cerebral and acerbic, who had first mooted the Plan back in the days before the War. \"We must fly the nest, for the nest is on fire.\"",
+     "",
+     "> Through over-exploitation and reckless experiment, we had fouled the System beyond hope of regeneration.",
+     "",
+     "> Expansion to new horizons was our only option now.",
+     "",
+     "> He, too, inaugurated the cowardly Towers in the Void.",
+     "",
+     "> The dread of a Sentient return was so strong in him that he could only imagine retreat to islands within the Void-sea.",
+     "",
+     "> How little credit we gave the Sentients for courage.",
+     "",
+     "> They willingly endured the Void’s scalding fire purely for the chance to punish us.” —Roathe",
+     "",
+     "### Kinemantik Instant Messenger",
+     "",
+     "Main article: Kinemantik Instant Messenger/Roathe",
+     "",
+     "According to Roathe, he was was the first to discuss the idea that was to be become the Plan, saying \"We must fly the nest, for the nest is on fire.\".",
+     "",
+     "It is also learned that during the events of The Old Peace Scarne was the guiding force for the pacifists. His reason for doing so isn't confirmed, but likely out of his fear for the sentients to rebel once again as he also inaugurated several Towers in the Void.",
+     "",
+     "There are no records about his fate after the fall of the Orokin Empire, but he is presumed dead."
+    ]
+   ]
+  ]
+ }
+}

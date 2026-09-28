@@ -1,0 +1,90 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# J3-Golem
+
+[キャラクター一覧](../../characters.md) › [Corpus](g04-corpus.md) ・ ← [Arn Etina](arn-etina.md) ・ [Corpus Commander](corpus-commander.md) →
+
+## 概要
+
+木星の旧ボス
+
+> For the Archwing Infested Boss, see Jordas Golem.
+> J3-Golem was the final boss of the planet Jupiter. It was found on the mission Themisto. After defeating it and finishing the mission, players received a Volt Helmet, Chassis or Systems blueprint. As of Update 11.0 (2013-11-20), Volt's component blueprints no longer drops from Golem, but can be researched via the Clan Dojo's Tenno Lab since Update 12.0 (2014-02-05). Upon death, J3-Golem had a chance of dropping Neural Sensors.
+
+- グループ: [Corpus](g04-corpus.md)
+- 登場: 台詞全文では見つからない
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/J3-Golem)（英語・出典） / [全文検索](../../search.html?q=J3-Golem)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Infested |
+| Planet(s) | None |
+| Mission Type(s) | None |
+| Overguard | 0 ++ |
+| Base Level | 1 |
+| Spawn Level | 0 |
+| Effective Hit Points (EHP) | –– |
+| Selected Level | –– |
+| Eximus | –– |
+| Steel Path | –– |
+| Empowered Enemies | –– |
+| Player Count | –– |
+| Codex Scans | 3 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## History
+
+In Update 10.0 (2013-09-13), Lephantis was planned to replace J3-Golem, but DE decided to keep Golem and moved Lephantis to the Orokin Derelict. J3-Golem was kept as a place for Volt blueprints to be obtained since Lephantis drops the Nekros blueprints.
+
+In Update 11.0 (2013-11-20), Alad V replaced J3-Golem as the boss of Jupiter. J-3 Golem was originally planned to appear in Invasion missions on a boss nodes (Tolstoj, Fossa, Everest, etc.) so players could still receive Volt blueprint components from him. Instead, Update 11.1 (2013-11-27) scattered Volt blueprint components across the Solar System in Survival missions, leaving J3-Golem's current location unknown. Update 11.3 (2013-12-12) implemented permanent Invasion missions, but left Phorid as the boss when the Infested reach a boss node. As of the current update, J-3 Golem does not appear in any missions.
+
+In Devstream 40, J3-Golem will make its return as a fully-reworked boss, home to the Infested Ship tileset as a full-fledged Archwing boss. This was, again scrapped with the Mutalist Alad V taking over Eris.
+
+In Devstream 51, it is said that this boss will be the final boss of the second Trial in WARFRAME, home to the Eris.
+
+In Update 17.5 (2015-10-01), this boss is once readded into the game as an Archwing boss, albeit was renamed to Jordas Golem.
+
+## Appearance
+
+The J3-Golem used Ancient Disruptor's pre-Update 9 model, which resembled a deformed Corpus Crewman with multiple tumors around its body.
+
+The J3-Golem, like many bosses, has unique taunts. Here is a list of them:
+
+- "Unburden yourself from this mortal coil, <player name>. Join Us."
+- "Why do you destroy us? We are your flesh."
+- "We are countless. Consume us. Be reborn."
+- "We embrace you. Why do you defile us?"
+
+## General
+
+J3-Golem has no shields, but it makes itself up by having a large amount of health which can regenerate. All Toxic damage inflicted by it ignores shields and deals damage to health directly, just like the poison from Toxic Ancients and Toxic Crawlers.
+
+J3-Golem is threatening in close ranged encounter. Although, unlike the rest of the Infesteds, J3-Golem will not charge towards you and will instead use Pull attack similar to Mag's Pull against mid-range targets. This will pull the player close to the Golem, and will immediately release a cloud of poison in its vicinity.
+
+Against long range targets, the Golem will toss projectiles that explode into toxic gases (similar to Torid's projectile), dealing poison damage on hit or if the player walks into the gases.
+
+Against many opponents, he will use Miasma, which clouds the area around him in poisons. His short animation while using Miasma makes it more threatening as it leave only little span of time to escape.
+
+## Trivia
+
+- J3-Golem was the first Infested boss, and was the only Infested boss before Update 6.0 (2013-01-29), which added Phorid.
+
+J3-Golem is supposedly centuries old, which would probably make it one of the oldest boss in the game lore-wise.
+
+  - Despite this, his model was that of a pre-Update 9 Ancient Disruptor; an oversized Infested Crewman, which suggests Corpus' existence centuries ago.
+
+It is said that J3-Golem was first created by the Orokin themselves as a weapon in an ancient war against "The Sentients" (the name Sentients leads us to believe that they were some type of machine or alien life from another system or perhaps the Void), it is possible that J3-Golem was created by the Orokin and then infected by the Technocyte Plague as we know (as of Dark Sector lore) the origins of the plague to be cold war Russia.
+
+  - The J3-Golem might be partially made from consumed Tenno as one of its quotes claims that "[...] We are your flesh." Alternatively, the Tenno themselves could be infected with the Technocyte virus, much like Hayden Tenno (who was confirmed to be the first Tenno in Livestream 10) or less interestingly it could just mean flesh as in human flesh.
+- J3-Golem was renamed as the "Ancient Infestoid" if encountered in an Alert mission.
+- As of Update 9.0 (2013-07-13), J3-Golem could be found in the Grineer Asteroid Base.
+- The J3-Golem can presumably be seen in the Clan Dojo's Bio Lab, in the first tube on the right.
+- J3-Golem has now been reworked as the Jordas Golem.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

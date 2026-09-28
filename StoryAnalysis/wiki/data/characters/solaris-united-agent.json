@@ -1,0 +1,69 @@
+{
+ "key": "solaris-united-agent",
+ "name": "Solaris United Agent",
+ "page": "Solaris United Agent",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Orb Vallis で依頼を出す人員",
+ "wiki": {
+  "title": "Solaris United Agent",
+  "url": "https://wiki.warframe.com/w/Solaris_United_Agent",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "声優",
+   "Cam Rogers"
+  ],
+  [
+   "Quotes",
+   "Solaris United Agent / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-teacher",
+   0,
+   2
+  ],
+  [
+   "vox-solaris",
+   0,
+   29
+  ],
+  [
+   "once-awake",
+   0,
+   2
+  ],
+  [
+   "the-new-war",
+   0,
+   3
+  ],
+  [
+   "the-deadlock-protocol",
+   0,
+   13
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Weather like this, I do not miss my organics.”",
+   "> —Solaris United Agent",
+   "> Solaris United Agents are located around Corpus bases in the Orb Vallis and provide access to Fortuna's bounties."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- The Solaris United Agent next to the elevator to Fortuna is a dad with kids.",
+     "- Upon reaching Old Mate with Solaris United, the Solaris United Agent's chest cavity will open also.",
+     "- The Solaris United Agent is voiced by Cam Rogers."
+    ]
+   ]
+  ]
+ }
+}

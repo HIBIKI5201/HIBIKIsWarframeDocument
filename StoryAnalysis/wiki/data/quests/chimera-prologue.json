@@ -1,0 +1,77 @@
+{
+ "key": "chimera-prologue",
+ "name": "Chimera Prologue",
+ "page": "Chimera Prologue",
+ "ja": "キメラプロローグ",
+ "group": "メインストーリー",
+ "summary": "The New War へ向けて Sentient と Ballas の動きが描かれる短いクエスト",
+ "wiki": {
+  "title": "Chimera Prologue",
+  "url": "https://wiki.warframe.com/w/Chimera_Prologue",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Chimera_Prologue/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 23.10 (2018-10-12)"
+  ],
+  [
+   "種類",
+   "Main Quest"
+  ],
+  [
+   "条件",
+   "Completed The Sacrifice"
+  ],
+  [
+   "報酬",
+   "Paracesis blueprint / Ropalolyst unlocked"
+  ],
+  [
+   "台詞全文",
+   "Chimera Prologue / Transcript"
+  ],
+  [
+   "次のクエスト",
+   "Erra"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "ballas",
+   40,
+   42
+  ],
+  [
+   "natah",
+   1,
+   2
+  ],
+  [
+   "lotus",
+   1,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "サクリファイスの後の Ballas の行方を描く短いメインクエストで、Prelude to War の第 1 幕。Update 23.10（2018-10-12）で追加された。Natah が Amalgam を作ろうとしていることを予感させる。"
+  ],
+  "sections": [
+   [
+    "あらすじ",
+    [
+     "オービターの個室に壁の中の者が現れ、背信のプロローグで落ちた Lotus のヘルメットへ Tenno を誘う。ヘルメットに触れるとルアへ移され、壁の中の者の後をついてリザーバーを抜け、Lotus の部屋へ入る。部屋の奥のポータルは、Sentient の組織に体を侵された Ballas が囚われている Sentient の部屋につながっていた。",
+     "",
+     "Ballas は自分を欺いたと Lotus を呪いながら、Lotus の監視の目を盗んで「Sentient を殺すもの」をひそかに作っていた。Tenno は伝説の武器 Paracesis の像をつかみ、その設計図を手に入れる。新たな大戦が迫っている。"
+    ]
+   ]
+  ]
+ }
+}

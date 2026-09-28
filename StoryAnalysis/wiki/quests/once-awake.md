@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 博士の計略（Once Awake）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [Vox Solaris](vox-solaris.md) ・ [ダイモスの心臓](heart-of-deimos.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Grineer と Corpus の争いに関わる初期のクエスト
 
 Infested という勢力と、スパイ・防衛ミッションを新人プレイヤーに紹介するメインクエスト。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Once_Awake) / [台詞全文](https://wiki.warframe.com/w/Once_Awake/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Once_Awake)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Once_Awake/Transcript) / [日本語 Wiki「博士の計略」](https://warframe.fandom.com/ja/wiki/%E5%8D%9A%E5%A3%AB%E3%81%AE%E8%A8%88%E7%95%A5) / [日本語 Wiki の取り込み](../../fandom-ja/pages/once-awake.md) / [全文検索](../../search.html?q=Once%20Awake)
 
 ## 基本情報
 
@@ -29,34 +29,18 @@ Infested という勢力と、スパイ・防衛ミッションを新人プレ�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 19 |
-| [Dr. Tengus](../../wiki/characters/g20.md#dr-tengus) |  | 8 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 5 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 5 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Lotus](../characters/lotus.md) | Tenno | 14 |  |
+| [Ordis](../characters/ordis.md) | Cephalon | 3 | 3 |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 15 |
+| [Dr. Tengus](../characters/dr-tengus.md) | 名前だけ出てくる人物 |  | 8 |
+| [Solaris United Agent](../characters/solaris-united-agent.md) | Fortuna・Solaris |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 Grineer の医師 Dr. Tengus が何らかの生物兵器を研究しており、プレイヤーはその調査を命じられる。調べるうちに、それが Old War を生き延びた Infested の株だとわかる。実験室での失敗から Infested が隔離を破り、水星の Grineer の前哨基地や艦を侵食した。太陽系全体に広がる危険があるため、Lotus は駆除を命じる。プレイヤーは Void エネルギーを込めた Cascade Bomb で感染源の根絶に成功する。ただし Dr. Tengus の研究は続いており、今後の感染拡大の恐れは消えていない。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

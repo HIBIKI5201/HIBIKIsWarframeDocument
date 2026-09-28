@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 壁の中の囁き（Whispers in the Walls）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [デュヴィリ・パラドックス](the-duviri-paradox.md) ・ [ロートパゴス](the-lotus-eaters.md) →
 
 ## 概要
 
@@ -12,7 +12,7 @@ Albrecht Entrati の研究所で Murmur と壁の中の者の謎に迫る
 
 > 「Loid は奇妙な夢を見ていて、どうしてもあなたに見せたいものがある」（クエスト説明）
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Whispers_in_the_Walls) / [台詞全文](https://wiki.warframe.com/w/Whispers_in_the_Walls/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Whispers_in_the_Walls)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Whispers_in_the_Walls/Transcript) / [全文検索](../../search.html?q=Whispers%20in%20the%20Walls)
 
 ## 基本情報
 
@@ -31,39 +31,19 @@ Albrecht Entrati の研究所で Murmur と壁の中の者の謎に迫る
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Albrecht Entrati](../../wiki/characters/g06-orokin.md#albrecht-entrati) |  | 31 |
-| [Fibonacci](../../wiki/characters/g17-deimos-entrati-cavia.md#fibonacci) |  | 22 |
-| [The Man in the Wall](../../wiki/characters/g10-void-murmur-zariman.md#the-man-in-the-wall) |  | 14 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 6 |
-| [Tagfer](../../wiki/characters/g17-deimos-entrati-cavia.md#tagfer) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Bird 3](../../wiki/characters/g17-deimos-entrati-cavia.md#bird-3) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Loid](../characters/loid.md) | Deimos・Entrati・Cavia | 26 |  |
+| [Loid（人間時代）](../characters/loid-original.md) | Deimos・Entrati・Cavia | 26 |  |
+| [Fibonacci](../characters/fibonacci.md) | Deimos・Entrati・Cavia | 18 | 21 |
+| [The Man in the Wall](../characters/the-man-in-the-wall.md) | Void・Murmur・Zariman | 13 | 13 |
+| [Albrecht Entrati](../characters/albrecht-entrati.md) | Orokin | 5 | 30 |
+| [Tagfer](../characters/tagfer.md) | Deimos・Entrati・Cavia | 5 | 5 |
+| [Bird 3](../characters/bird-3.md) | Deimos・Entrati・Cavia | 4 | 4 |
+| [Aoi](../characters/aoi.md) | 1999（Höllvania） | 3 |  |
+| [Arthur](../characters/arthur.md) | 1999（Höllvania） | 1 | 4 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 The New War で Ballas が前例のない規模で Void のポータルを開こうとしたため、無関心（The Indifference）はますます落ち着きを失っていた。これを受けて Loid は「Kalymos Sequence」の準則を起動し、Tenno を Deimos へ急がせる。Entrati 家に内緒で、Loid は Necralisk の地下に隠された Albrecht の研究所へ Tenno を案内し、Albrecht Entrati が無関心の軍勢 Murmur と戦い続けていたことを明かす。
 
@@ -71,7 +51,7 @@ The New War で Ballas が前例のない規模で Void のポータルを開こ
 
 Albrecht のメッセージを追ううちに、Tenno は Cavia の Void 語を自動翻訳する Jahu Gargoyle を作れるようになる。Cavia は、Loid が捨ててしまった Albrecht の最後のメッセージを明かす。そこには Loid の献身をたたえる Albrecht の言葉があり、Loid が長く求めてきた愛情が示されていた。これが無関心を鎮める。決意を新たにした Loid は、Tenno を 1999 年に送り Albrecht を探す準備を始める。
 
-### トリビア
+## トリビア
 
 - TennoCon 2023 に向けて、Nora Night のもとに 3 つの無許可の通信が届いた。
   - 1 人目は Latrox Une。Deimos の生態系が、まるで Infested が怯えているかのように変わったと話し、1・2・3 のリズムで繰り返すノックの音について語った。
@@ -89,3 +69,7 @@ Albrecht のメッセージを追ううちに、Tenno は Cavia の Void 語を�
 - このクエストの 1999 の場面の Albrecht は灰色がかった白い目だが、The Hex では濃い青灰色の目をしている。ただしこのクエストの Albrecht（顔の映らない冒頭を除く）は、無関心が Albrecht の姿をまとったものだと強くほのめかされている。
 - Arthur も当初は The Hex での細部（Hex のワッペンの下の階級章、足の防具）がなかったが、後の修正で The Hex と同じ姿になった。
 - 人間の Loid を目覚めさせた後、混乱を避けるため、機械の Loid はクエストの残りの間「Necraloid」と表示される。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

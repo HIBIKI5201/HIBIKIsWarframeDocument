@@ -1,0 +1,37 @@
+{
+ "key": "cressa-tal",
+ "name": "Cressa Tal",
+ "page": "Cressa Tal",
+ "group": "シンジケートの顔役",
+ "group_key": "g14",
+ "summary": "Steel Meridian のリーダー",
+ "wiki": {
+  "title": "Cressa Tal",
+  "url": "https://wiki.warframe.com/w/Cressa_Tal",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Cressa Tal / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Cressa Tal is the leader of the Steel Meridian Syndicate. She is a Grineer defector that seeks to protect those who cannot defend themselves, and also works to shelter other defectors."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The Pyrus Project",
+     "",
+     "Wanting to repay the Tenno for their aid, Cressa Tal begins a campaign project to rebuild the Relays destroyed by Councilor Vay Hek's Balor Fomorians during Operation: Eyes of Blight. This, however, earns the ire of General Sargas Ruk, who reveals that Cressa Tal previously served him and harbors a strong grudge for her betrayal, and leads a siege on the rebuilt Relay."
+    ]
+   ]
+  ]
+ }
+}

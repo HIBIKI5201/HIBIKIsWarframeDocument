@@ -1,0 +1,28 @@
+{
+ "key": "arn-etina",
+ "name": "Arn Etina",
+ "page": "Arn Etina",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "冥王星の旧ボス（黒い MOA）",
+ "wiki": {
+  "title": "Arn Etina",
+  "url": "https://wiki.warframe.com/w/Arn_Etina",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Arn Etina / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "かつて冥王星の最後のボスだった黒い MOA の名前。Hades にいて、倒すと Excalibur を作るのに必要な部品を落とすことがあった。Update 6.0（2013-01-29）で名前が Ambulas に変わった。MOA なのに通信では人間のような画像を使っていて、その画像と見た目は後に Darvo に使い回された。"
+  ],
+  "sections": []
+ }
+}

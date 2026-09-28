@@ -1,0 +1,31 @@
+{
+ "key": "jinn",
+ "name": "Jinn",
+ "page": "Jinn",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "Inversion Tree の幻視で狂い、亡くなった",
+ "wiki": {
+  "title": "Jinn",
+  "url": "https://wiki.warframe.com/w/Jinn",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Jinn / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Jinn. Five nights hung",
+   "> Upon the Inversion Tree What she saw Driven to recount Jinn. Five nights hung Upon the Inversion Tree Went to her end Chattering Recount not What was relayed ” —Jinn's tombstone epitaph",
+   "> Jinn was a resident of Duviri. Jinn was driven mad by visions from the Inversion Tree, which eventually led to her death.",
+   "> Her grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}

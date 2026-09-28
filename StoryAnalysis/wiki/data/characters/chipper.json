@@ -1,0 +1,39 @@
+{
+ "key": "chipper",
+ "name": "Chipper",
+ "page": "Chipper",
+ "group": "Fortuna・Solaris",
+ "group_key": "g16-fortuna-solaris",
+ "summary": "Narmer に捕まった Solaris の労働者",
+ "wiki": {
+  "title": "Chipper",
+  "url": "https://wiki.warframe.com/w/Chipper",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Chipper / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Kahl new brother Sol-ar-is. That him there. Kahl find stuff, Chipper hand stuff out. Chipper tough like Grineer, but... not as smart. Chipper cut off own arms, legs, head. Over there good place for Chipper.”",
+   "> —Kahl-175",
+   "> Chipper is a Solaris worker that was captured by Narmer. After Kahl-175 removes his Narmer Veil, he joins the Grineer at the Drifter's Camp and supports Kahl's Garrison, appearing at Rank 2 - Encampment with the Syndicate. Chipper exchanges unique items for Stock. He also serves as the Defense target during Archon Hunts."
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Chipper's voice line \"Most a these jokers just want somethin' that goes bang on one end and boom where they point it.\" references a long-running gag in the community where Area of Effect weapons were a largely dominant playstyle since Update 27.2 (2020-03-05) before being toned down in Update 32.0 (2022-09-07), the same update that introduced Chipper.",
+     "- Once Chipper is saved, he does not appear in any future Sneaky Sabotage missions, and is replaced with a generic veiled Solaris.",
+     "- During Archon Hunt Defense missions he will have a Kitgun with the Rattleguts Chamber, Haymaker Grip, and Bellows Loader equipped by default."
+    ]
+   ]
+  ]
+ }
+}

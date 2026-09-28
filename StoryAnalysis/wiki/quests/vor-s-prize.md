@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # Vorの秘宝（Vor's Prize）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [目覚め](awakening.md) ・ [師範](the-teacher.md) →
 
 ## 概要
 
@@ -12,7 +12,7 @@ WARFRAME の 2 番目のメインクエスト。目覚めの直後に始まり�
 
 > 「数世紀の眠りから、あなたは目覚めた。Warframe の装甲は弱く、技はほとんど忘れ去られている。Grineer の将軍 Vor があなたを見下ろす。『お前は俺のものだ、Tenno！』」（クエスト説明）
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/Vor's_Prize) / [台詞全文](https://wiki.warframe.com/w/Vor's_Prize/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Vor's_Prize)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Vor's_Prize/Transcript) / [日本語 Wiki「Vorの秘宝」](https://warframe.fandom.com/ja/wiki/VOR%E3%81%AE%E7%A7%98%E5%AE%9D) / [日本語 Wiki の取り込み](../../fandom-ja/pages/vor-s-prize.md) / [全文検索](../../search.html?q=Vor%27s%20Prize)
 
 ## 基本情報
 
@@ -31,36 +31,17 @@ WARFRAME の 2 番目のメインクエスト。目覚めの直後に始まり�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 37 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 27 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 26 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 16 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 16 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Captain Vor](../../wiki/characters/g03-grineer.md#captain-vor) |  | 5 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Councilor Vay Hek](../../wiki/characters/g03-grineer.md#councilor-vay-hek) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Lotus](../characters/lotus.md) | Tenno | 54 |  |
+| [Ordis](../characters/ordis.md) | Cephalon | 24 | 35 |
+| [Darvo](../characters/darvo.md) | 中立 | 9 | 24 |
+| [Captain Vor](../characters/captain-vor.md) | Grineer | 3 | 4 |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 23 |
+| [Corpus Commander](../characters/corpus-commander.md) | Corpus |  | 11 |
+| [Corpus Captain](../characters/corpus-captain.md) | Corpus |  | 11 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 Captain Vor を止める戦いを続ける目覚めたばかりの Tenno は、オービターを修理する部品を求めて地球を巡る。船の舵を取る Cephalon Ordis の助けを借り、Tenno に肩入れしたとして Grineer に囚われていた Corpus の闇商人 Darvo を救い出す。Darvo は、マーケットや鋳造所など船の基本機能を使えるようにする船の部品の回収を手伝う。
 
@@ -68,8 +49,12 @@ Captain Vor を止める戦いを続ける目覚めたばかりの Tenno は、�
 
 Lotus は、Tenno が星図を巡り、Grineer と Corpus が支配する太陽系に均衡をもたらしてくれることを期待する。
 
-### トリビア
+## トリビア
 
 - Update 9.0（2013-07-13）の時点で、プロフィールの画面から見られるジオラマ（Void キーを手に笑う Vor）として一部が予告されていた。このジオラマは、Update 23.0 でログイン画面が刷新されるまでログイン画面にも使われていた。
 - 最初の 2 つのミッションでは、プレイヤーが完全には死なないようになっている。この仕組みは開発ビルドやティザー用で、通常のプレイヤーが使えるのはこのミッションだけ。
 - クエストには含まれないが、水星 Tolstoj での Vor の暗殺ミッションが、再戦と彼の死を描くこのクエストの正式な続きにあたる。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

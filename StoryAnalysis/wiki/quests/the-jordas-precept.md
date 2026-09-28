@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # Jordas の教訓（The Jordas Precept）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › Warframe 入手クエスト ・ ← [Limbo セオリム](the-limbo-theorem.md)
 
 ## 概要
 
@@ -10,7 +10,7 @@ Infested に侵された Cephalon Jordas と対峙し、Atlas を手に入れる
 
 船全体を Infested に侵された Cephalon を救いたいと願う Ordis の頼みで、苦しむ Cephalon のために感染の駆除に挑むサイドクエスト。Update 17.5（2015-10-01）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Jordas_Precept) / [台詞全文](https://wiki.warframe.com/w/The_Jordas_Precept/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Jordas_Precept)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Jordas_Precept/Transcript) / [日本語 Wiki「JORDASの教訓」](https://warframe.fandom.com/ja/wiki/JORDAS%E3%81%AE%E6%95%99%E8%A8%93) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-jordas-precept.md) / [全文検索](../../search.html?q=The%20Jordas%20Precept)
 
 ## 基本情報
 
@@ -27,27 +27,11 @@ Infested に侵された Cephalon Jordas と対峙し、Atlas を手に入れる
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 67 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 39 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 4 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Cephalon Jordas](../characters/cephalon-jordas.md) | Cephalon | 47 | 65 |
+| [Ordis](../characters/ordis.md) | Cephalon | 33 | 37 |
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

@@ -1,0 +1,44 @@
+{
+ "key": "cutter-character",
+ "name": "Cutter",
+ "page": "Cutter (Character)",
+ "group": "外伝・イベント初出",
+ "group_key": "g19",
+ "summary": "Nightwave: Series 3 で登場。Solaris に化けた Corpus の内通者",
+ "wiki": {
+  "title": "Cutter (Character)",
+  "url": "https://wiki.warframe.com/w/Cutter_(Character)",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Nightwave Series 3"
+  ],
+  [
+   "Quotes",
+   "Cutter (Character) / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “We had it good under the Corpus. Debt in check. A future. Then Solaris United got into Mum and Dad's heads. And then Deck 12. They're gone, and I'm here, with all their debt and mine as well. I hear Vox knew Deck 12 was a risk, and Vox sent them all down there anyway. To burn.”",
+   "> —Cutter",
+   "> “I'm not proud. Never have been. Just angry. It's all I ever had, and now I can let it go, knowing I made this happen. The System took it all from me so the balance is squared. Let Nihil do what he will. His version of order can't be any worse than debt or war.",
+   "> The traitors, the deceivers, will all get their time before him. Myself included - the Solaris turncoat."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Cutter's parents were killed during the Deck 12 incident. Believing that Vox knowingly sent them to their deaths, Cutter defected from Solaris United. Having studied Parvos Granum's old philosophies, Cutter decided to work as a mole for the Corpus, identifying and rounding up Solaris United operatives.",
+     "",
+     "Cutter's revenge soon turned toward the entire Origin System. He manipulated Shigg, Bak Vondu, and Gral to invent, build and encrypt a broadcasting device to release the Glassmaker. When the Glassmaker turned to judge Cutter, he almost considered sparing his life. After all, you can't really betray what you never truly belonged to. However, the Glassmaker turned against Cutter when he started pleading for his life, decided this was him being a traitor to himself, a crime no less heinous in the Glassmaker's eyes and turned him to glass, but Cutter harbored no regrets and accepted the Glassmaker to sow \"order\" in the system."
+    ]
+   ]
+  ]
+ }
+}

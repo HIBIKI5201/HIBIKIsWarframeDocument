@@ -1,0 +1,105 @@
+{
+ "key": "loid",
+ "name": "Loid",
+ "page": "Loid",
+ "group": "Deimos・Entrati・Cavia",
+ "group_key": "g17-deimos-entrati-cavia",
+ "summary": "Necraloid の代表",
+ "wiki": {
+  "title": "Loid",
+  "url": "https://wiki.warframe.com/w/Loid",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Entrati"
+  ],
+  [
+   "First Appearance",
+   "Heart of Deimos"
+  ],
+  [
+   "声優",
+   "Kieran Flitton [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Loid / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Necraloid (by Mother ; post- Whispers in the Walls ) / Construct (By Loid )"
+  ]
+ ],
+ "quests": [
+  [
+   "heart-of-deimos",
+   36,
+   0
+  ],
+  [
+   "whispers-in-the-walls",
+   26,
+   0
+  ],
+  [
+   "the-old-peace",
+   19,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> For the original Loid found in Albrecht's Laboratories, see Loid (Original).",
+   "> “Be pragmatic in all aspects of life.”",
+   "> —Loid",
+   "> Loid is the representative of the Necraloid syndicate within the Necralisk on Deimos. He is a Cephalon construct, made by Albrecht Entrati, who is integrated into a Necraloid along with Otak, serving as a loyal, life-long servant to the Entrati family. He is located in the Necralisk's backroom and sells Necramech parts and weapons."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### General",
+     "",
+     "Loid is a Necraloid, an Orokin Cephalon created by Albrecht Entrati in order to serve his family. Unlike most Cephalons, who are digital constructs without a physical form, Loid is installed within a floating Sentinel-like shell.",
+     "",
+     "Some time after the infestation of Deimos, Loid attempted to assist Otak, another Cephalon in service to the Entrati, by uploading what remained of Otak's personality into his own shell. However, part of the defragmentation process failed, leaving Otak irreparably damaged. While the two Cephalons are mostly capable of switching between each other, Otak occasionally interrupts Loid with erratic, whimsical remarks.",
+     "",
+     "### The Infestation of Deimos",
+     "",
+     "### Transcripts of Unauthorized Broadcasts",
+     "",
+     "In the lead-up to TennoCon 2023, Nora Night, during a slow and uneventful night, finally decides to open her own call line, conversing with three unknown callers over the course of three days.",
+     "",
+     "Transmission Origin: [CRITICAL ERROR] / Time Since Intercept - 9 Hours The third caller is Loid, attempting to remain anonymous by using the alias \"Bones\". He states that something not intended to happen to his kind has occurred, and that he feels compelled to share it, but doesn't know who to share it with. Loid then reveals that his partner, presumably Otak, has abruptly gone missing, and that he is now alone. Nora attempts to console Loid, asking if there is anyone he can ask for help. Loid then realizes that they both know someone capable of dealing with the unknown, and states that they must be summoned immediately.",
+     "",
+     "### Whispers in the Walls",
+     "",
+     "As the threat of The Indifference grows, Loid becomes aware of a previously-hidden precept known as the Kalymos Sequence. He asks the Tenno to meet him in the Necralisk and leads them beneath it into the Sanctum Anatomica and Albrecht's Laboratories. There they fulfill the first step of the Sequence by awakening 'the Sleeper' - revealed to be the original, human Loid, who the Necraloid was created in order to accompany and assist. However, the human Loid shows disdain towards his Cephalon replica and opts to send him back up to the Necralisk to ensure the rest of the family remains asleep and unaware of the laboratories.",
+     "",
+     "After completing the quest, Necraloid can ask about the progress of the Kalymos Sequence if spoken to in the Necralisk. He additionally implies he had forced Otak into slumber to keep him away from the labs, believing that the truth of the situation might harm him. It is unclear whether this is a separate incident to the disappearance he had earlier discussed with Nora Night, or if the two are the same and he opted to lie about the situation.",
+     "",
+     "### Deep Archimedea",
+     "",
+     "After Loid and the Cavia settled into the laboratories, Necraloid began splitting his time between his duties in the Necralisk and helping in the Sanctum Anatomica by running Deep Archimedea, a set of volatile experiments with strict parameters. Failure of said experiments would risk the Entrati family becoming aware of the existence of Albrecht's Laboratories, so Loid tasked his Necraloid self with ensuring all went smoothly."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Loid is the only NPC in Necralisk who doesn't have his own Entrati Family Token, presumably due to him being his own syndicate instead of a member of the Entrati syndicate.",
+     "- Loid (and Otak) are the first NPC to have a companion skin, the second of which being Ordis.",
+     "- After the original Loid's awakening in Whispers in the Walls, Loid is referred to in subtitles as \"Necraloid\" for the remainder of the quest to prevent confusion. This does not apply to his appearances in the Necralisk or the Cambion Drift.",
+     "",
+     "While discussing Dante, the original Loid mentions having had his skull replicated. As all other known instances of Cephalon creation have involved the death of the subject, it is almost certainly this replica from which Necraloid was created.",
+     "",
+     "  - This is further supported in a KIM chat with Marie wherein she recounts an exchange involving Loid and Necraloid, with Necraloid referring to 'his' skull vs. the 'original', while Loid refers to Necraloid as a replica.",
+     "  - This implies that Necraloid is a Cephalon copy of Loid— a construct born from Loid's cloned mind. Apparently, creating Cephalons this way was always possible, but the Orokin insisted on glassing the original person, an insistence Albrecht and Loid had no respect of. Presumably Otak is a true Cephalon, however."
+    ]
+   ]
+  ]
+ }
+}

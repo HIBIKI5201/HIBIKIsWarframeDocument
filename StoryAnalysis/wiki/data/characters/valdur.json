@@ -1,0 +1,73 @@
+{
+ "key": "valdur",
+ "name": "Valdur",
+ "page": "Valdur",
+ "group": "Grineer",
+ "group_key": "g03-grineer",
+ "summary": "The Old Peace で登場。Old War 休戦期の Prime Grineer 指揮官",
+ "wiki": {
+  "title": "Valdur",
+  "url": "https://wiki.warframe.com/w/Valdur",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Grineer"
+  ],
+  [
+   "First Appearance",
+   "The Old Peace"
+  ],
+  [
+   "声優",
+   "Richard Reed [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Valdur / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "the-old-peace",
+   17,
+   20
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “We're pinned down, Tenno. Can you give us a miracle?”",
+   "> —Valdur",
+   "> Valdur is a Prime Grineer debuting in The Old Peace. During the brief peace between the Orokin and Sentient, he was a commander that led Tauron Academy's defense forces against the Anarchs."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The Old Peace",
+     "",
+     "Valdur worked alongside the Operator and Adis to fight off the Anarchs in The Perita Rebellion.",
+     "",
+     "However, Ballas tasked Valdur to oversee the peace treaty's dissolution, including framing the Operator and Adis as the saboteurs of the World-Seeder. Valdur admitted to the Operator that he could not bring himself to carry out this order, and was apologetic for Adis' death. The Operator instructed Valdur to bury Adis' body and to not return to the Tauron Academy, despite being explicitly told to take him back.",
+     "",
+     "His final fate is unknown.",
+     "",
+     "### The Perita Rebellion",
+     "",
+     "Like in The Old Peace quest, Valdur (along with Adis) provides commands to the Tenno as they transit through the Perita moon."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Valdur's name might be based on \"Baldur\", a god in Germanic mythology.",
+     "- Galastra once called Valdur her \"old pet\", implying he may previously served under her before her defection from the Orokin.",
+     "- As a pre-Collapse Grineer, Valdur resembles to the Grineer soldiers shown in Warframe's 2019 Cinematic Trailer."
+    ]
+   ]
+  ]
+ }
+}

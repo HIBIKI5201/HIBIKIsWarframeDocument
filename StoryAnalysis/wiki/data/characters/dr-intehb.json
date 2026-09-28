@@ -1,0 +1,51 @@
+{
+ "key": "dr-intehb",
+ "name": "Dr. Intehb",
+ "page": "Dr. Intehb",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Howl of the Kubrow で名前が出る",
+ "wiki": {
+  "title": "Dr. Intehb",
+  "url": "https://wiki.warframe.com/w/Dr._Intehb",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus"
+  ],
+  [
+   "Quotes",
+   "Dr. Intehb / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Dr. Intehb is a very briefly mentioned character, first noted in the Howl of the Kubrow quest. They are presumably Corpus, and had some involvement with Frohd Bek. They studied Orokin incubators in an attempt to recreate a Kubrow for Bek."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Upon beginning the Howl of the Kubrow quest, the player will receive an intercepted message in the Inbox. It provides some background lore on what the Corpus was doing with the Incubation module and is currently the only place where Intehb is mentioned.",
+     "",
+     "> “INTERCEPTED CORPUS MESSAGE: Where is my Kubrow?",
+     "",
+     "> Dr. Intehb,",
+     "",
+     "> You have had the Orokin Incubator Segment for months and still you've produced nothing but genetic rejects. You promised me a Kubrow worthy of an Orokin prince, not a misshapen ball of hair and teeth.",
+     "",
+     "> At great expense, I have procured another batch of eggs from the forests of Earth. They will reach your facility on Elara shortly. Do not waste these as you did the last ones.",
+     "",
+     "> I will have my Kubrow of my own. If you are not up to the task, I will find someone who is.",
+     "",
+     "> Frohd Bek”"
+    ]
+   ]
+  ]
+ }
+}

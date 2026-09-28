@@ -1,0 +1,59 @@
+{
+ "key": "hidden-messages",
+ "name": "Hidden Messages",
+ "page": "Hidden Messages",
+ "ja": "隠されたメッセージ",
+ "group": "Warframe 入手クエスト",
+ "summary": "謎の暗号を解いて Mirage を手に入れる",
+ "wiki": {
+  "title": "Hidden Messages",
+  "url": "https://wiki.warframe.com/w/Hidden_Messages",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Hidden_Messages/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 14.0 (2014-07-18)"
+  ],
+  [
+   "種類",
+   "Side Quest Warframe Quest"
+  ],
+  [
+   "条件",
+   "Sedna Junction"
+  ],
+  [
+   "報酬",
+   "Mirage Neuroptics / Mirage System / Mirage Chassis"
+  ],
+  [
+   "台詞全文",
+   "Hidden Messages / Transcript"
+  ],
+  [
+   "再プレイ",
+   "❌"
+  ]
+ ],
+ "characters": [
+  [
+   "lotus",
+   10,
+   0
+  ],
+  [
+   "ordis",
+   9,
+   22
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "謎めいた詩を読み解き、謎を解いて Warframe の Mirage を探すサイドクエスト。Update 14.0（2014-07-18）で追加された。"
+  ],
+  "sections": []
+ }
+}

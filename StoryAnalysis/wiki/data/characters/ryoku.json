@@ -1,0 +1,63 @@
+{
+ "key": "ryoku",
+ "name": "Ryoku",
+ "page": "Ryoku",
+ "group": "1999（Höllvania）",
+ "group_key": "g11-1999-h-llvania",
+ "summary": "Ash の特性を持つ Protoframe。破滅した未来から来た。Jade Shadows: Constellations で登場",
+ "wiki": {
+  "title": "Ryoku",
+  "url": "https://wiki.warframe.com/w/Ryoku",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Jade Shadows: Constellations"
+  ],
+  [
+   "声優",
+   "Jimmie Yamaguchi"
+  ],
+  [
+   "Quotes",
+   "Ryoku / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "jade-shadows-constellations",
+   3,
+   7
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “The fiercest strike is the one unseen. I was not looking for an apprentice when I found the boy. It was a sign: to secure the future, one final death will pay for all.”",
+   "> —Ryoku, \"SIRIUS\" animated short description.",
+   "> Ryoku is a Protoframe possessing Ash's traits. Debuting in Jade Shadows: Constellations, he is from a doomed future at least twenty years from the present where he raised Stalker's son Sirius, and seeks to retrieve the father for their own ends."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### Jade Shadows: Constellations",
+     "",
+     "Ryoku arrives from the future with his mentee, Sirius, to the present Origin System to capture the Stalker, as their only option to save their doomed future. Concurrently, Vena and Orion, the latter also being Stalker's son due to Eternalism, arrive as well, for the same purpose. Both sides clash over who gets to capture Stalker and take him to the future. As part of Hunhow's plan to end the sons' eternal feud, Stalker ends up incapacitating both mentors in order to lure the sons together, where Hunhow sacrifices his memories to end their feud, creating Pontis Tower as a safe haven.",
+     "",
+     "Despite the peace created by Hunhow, Ryoku's rivalry with Vena has not dissipated and they remain eager to fight each other again, only this time both of them excuse it as means to entertain the now-senile Sentient, with their real motivation being their love for battle."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Ryoku expresses a dislike of summoned vehicles such as the Atomicycle, as their noise disrupts his preferred method of stealthy approaches.",
+     "- Ryoku is the Japanese word for strength.",
+     "- Yaiba is the Japanese word for blade."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,405 @@
+{
+ "key": "lephantis",
+ "name": "Lephantis",
+ "page": "Lephantis",
+ "group": "Infested",
+ "group_key": "g05-infested",
+ "summary": "Old War のために作られた多頭の Infested",
+ "wiki": {
+  "title": "Lephantis",
+  "url": "https://wiki.warframe.com/w/Lephantis",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Infested"
+  ],
+  [
+   "Planet(s)",
+   "Deimos"
+  ],
+  [
+   "Mission Type(s)",
+   "Assassination / Magnacidium"
+  ],
+  [
+   "Tile Set(s)",
+   "Orokin Derelict"
+  ],
+  [
+   "種類",
+   "Boss"
+  ],
+  [
+   "Abilities",
+   "Rippling Shockwave"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "3500"
+  ],
+  [
+   "Health",
+   "3000"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "30"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 10.0 (2013-09-13)"
+  ],
+  [
+   "Mod Drops",
+   "Stabilizer 2.01% / Spare Parts 22.11% / Rebound 37.94% / Quick Return 37.94%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 97.42% / Orokin Cell 2.58%"
+  ],
+  [
+   "Sigil Drops",
+   "Lephantis Sigil 100.00%"
+  ],
+  [
+   "所属",
+   "Infested"
+  ],
+  [
+   "Planet(s)",
+   "Deimos"
+  ],
+  [
+   "Mission Type(s)",
+   "Magnacidium"
+  ],
+  [
+   "Tile Set(s)",
+   "Orokin Derelict"
+  ],
+  [
+   "種類",
+   "Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Spawn Infested Pod / Toxin Grenade"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "1000"
+  ],
+  [
+   "Health",
+   "1200"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "30"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 10.0 (2013-09-13)"
+  ],
+  [
+   "Mod Drops",
+   "Pressure Point 38.72% / Parry 38.72% / Provoked 7.52% / Equilibrium 7.52% / Eleventh Storm 7.52%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 7.00%"
+  ],
+  [
+   "所属",
+   "Infested"
+  ],
+  [
+   "Planet(s)",
+   "Deimos"
+  ],
+  [
+   "Mission Type(s)",
+   "Magnacidium"
+  ],
+  [
+   "Tile Set(s)",
+   "Orokin Derelict"
+  ],
+  [
+   "種類",
+   "Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Scythe"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "1000"
+  ],
+  [
+   "Health",
+   "1200"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "30"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 10.0 (2013-09-13)"
+  ],
+  [
+   "Mod Drops",
+   "Pressure Point 38.72% / Parry 38.72% / Provoked 7.52% / Equilibrium 7.52% / Eleventh Storm 7.52%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 7.00%"
+  ],
+  [
+   "所属",
+   "Infested"
+  ],
+  [
+   "Planet(s)",
+   "Deimos"
+  ],
+  [
+   "Mission Type(s)",
+   "Magnacidium"
+  ],
+  [
+   "Tile Set(s)",
+   "Orokin Derelict"
+  ],
+  [
+   "種類",
+   "Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Sticky Bombs"
+  ],
+  [
+   "Damage Type Modifiers",
+   "++ ++"
+  ],
+  [
+   "Affinity",
+   "1000"
+  ],
+  [
+   "Health",
+   "1200"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "30"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Update 10.0 (2013-09-13)"
+  ],
+  [
+   "Mod Drops",
+   "Pressure Point 38.72% / Parry 38.72% / Provoked 7.52% / Equilibrium 7.52% / Eleventh Storm 7.52%"
+  ],
+  [
+   "Resource Drops",
+   "Region Resource 7.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Functioning agents of the Infestation appear in a variety of horrific forms. While some infested organisms take the relative shape and physical properties of a newly acquired host, older entities have taken unique and transformative shapes of their own, adapting to their environment over time, and absorbing new victims to feed their evolution.”",
+   "> —Lephantis Fragment",
+   "> “Deep within this millennia old Orokin-turned Infested ship lurks a creature created to fight in the Old War.”",
+   "> —Lotus"
+  ],
+  "sections": [
+   [
+    "Trivia",
+    [
+     "- Lephantis was previously known as the J-2000 Golem. It was originally going to replace the now retired J3-Golem boss on Jupiter, but was moved to the Orokin Derelict tileset instead.",
+     "- Lephantis was the first boss to not directly drop a blueprint. Players would always get a blueprint for one of Nekros's components as a mission reward once they reach extraction. Later updates have since applied this to the other bosses.",
+     "- Underneath the Infested Grineer head there is a person's face, akin to Dark Sector boss Mezner who also is fought in a large arena-type area and whose face is distorted and stretched over the Infested creature.",
+     "- Lephantis' taunt sounds are similar to those of Lieutenant Lech Kril, albeit more distorted.",
+     "- Originally upon defeating the three heads in Phase 1, the ceiling would break causing the floor to crumble from the falling debris. This was changed in favor of Lephantis breaking the ground directly.",
+     "",
+     "Lephantis is currently the second-largest Assassination boss in the game, beaten only by the Jordas Golem.",
+     "",
+     "  - Coincidentally, both are Infested bosses.",
+     "- A hologram of Lephantis can be seen in the Dojo Bio Labs. Furthermore, to the left of the hologram one of Lephantis' legs is enclosed within one of the containers.",
+     "- Each head of Lephantis may be a reference to The Three Wise Monkeys, with the Infested Ancient head covering the sides (which could represent ears), the Infested Grineer head covering an eye-like stalk, and the Infested Corpus head covering its mouth.",
+     "",
+     "The Sacrifice Spoilers ▾▾",
+     "",
+     "- Lephantis' line \"Why do you destroy us? We are your flesh\" heavily alluded to Warframes being Infested. This was in the game for 5 years before it was confirmed to be true in The Sacrifice.",
+     "- In Duviri, inside the Archarbor, a zariman tablet aludes to the murder of Marcellus Ambrosius Lephantis as an answer to the question \"What event concluded the Eighteenth Radiation War?\" though this answer is incorrect."
+    ]
+   ]
+  ]
+ }
+}

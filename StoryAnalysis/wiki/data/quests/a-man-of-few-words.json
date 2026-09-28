@@ -1,0 +1,75 @@
+{
+ "key": "a-man-of-few-words",
+ "name": "A Man of Few Words",
+ "page": "A Man of Few Words",
+ "ja": "寡黙な人物",
+ "group": "サイドクエスト",
+ "summary": "Clem と Darvo にまつわる小話",
+ "wiki": {
+  "title": "A Man of Few Words",
+  "url": "https://wiki.warframe.com/w/A_Man_of_Few_Words",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/A_Man_of_Few_Words/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Hotfix 17.4.3 (2015-09-16)"
+  ],
+  [
+   "種類",
+   "Side Quest"
+  ],
+  [
+   "条件",
+   "Talk with Darvo in any Relay"
+  ],
+  [
+   "報酬",
+   "Exilus Adapter / Clem Clone Blueprint / Help Clem Unlocked"
+  ],
+  [
+   "台詞全文",
+   "A Man of Few Words / Transcript"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "darvo",
+   47,
+   52
+  ],
+  [
+   "clem",
+   14,
+   0
+  ],
+  [
+   "grineer-queens",
+   0,
+   5
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Darvo の頼みで、処刑されかけている Grineer の協力者 Clem を救い出すサイドクエスト。Hotfix 17.4.3（2015-09-16）で追加された。"
+  ],
+  "sections": [
+   [
+    "トリビア",
+    [
+     "- プレイヤーが生み出した人気キャラクター Clem の、公式での初登場。",
+     "  - Clem の生みの親はプレイヤーの Datareaper（近接武器 Kronen のデザインコンテスト優勝者でもある）。Clem が愛用する Twin Grakatas も、Datareaper の漫画がきっかけと思われる。",
+     "  - コミュニティのネタから生まれた公式コンテンツとしては、A Favor For Darvo、Derf Anyo に続く 3 例目。",
+     "- 武器を取り返しに行く後半で Clem が Latron を使うのは、元の漫画で Tenno が Clem に Latron を使えと迫ったネタにちなむ。",
+     "- 耐久ミッションで Darvo が口にする「Potent Orokin Technical Augmentation and Tactical Offensive device」の略は「POTATO」。見た目がジャガイモに似ている Orokin リアクター／カタリストのファンの通称にかけている。"
+    ]
+   ]
+  ]
+ }
+}

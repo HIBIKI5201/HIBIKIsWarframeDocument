@@ -1,0 +1,134 @@
+{
+ "key": "mania",
+ "name": "Mania",
+ "page": "Mania",
+ "group": "Stalker",
+ "group_key": "g08-stalker",
+ "summary": "同上",
+ "wiki": {
+  "title": "Mania",
+  "url": "https://wiki.warframe.com/w/Mania",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Stalker"
+  ],
+  [
+   "種類",
+   "Field Boss"
+  ],
+  [
+   "Weapon(s)",
+   "Lacera"
+  ],
+  [
+   "Abilities",
+   "Switch Teleport / Turbulence"
+  ],
+  [
+   "Affinity",
+   "750"
+  ],
+  [
+   "Shield",
+   "1500"
+  ],
+  [
+   "Health",
+   "2500"
+  ],
+  [
+   "Armor",
+   "50"
+  ],
+  [
+   "Dmg. Reduction",
+   "12.25 %"
+  ],
+  [
+   "Overguard",
+   "0 ++"
+  ],
+  [
+   "Body Multipliers",
+   "Head: 1.0x"
+  ],
+  [
+   "Base Level",
+   "1"
+  ],
+  [
+   "Spawn Level",
+   "0"
+  ],
+  [
+   "Effective Hit Points (EHP)",
+   "––"
+  ],
+  [
+   "Selected Level",
+   "––"
+  ],
+  [
+   "Eximus",
+   "––"
+  ],
+  [
+   "Steel Path",
+   "––"
+  ],
+  [
+   "Empowered Enemies",
+   "––"
+  ],
+  [
+   "Player Count",
+   "––"
+  ],
+  [
+   "Codex Scans",
+   "3"
+  ],
+  [
+   "初登場",
+   "Hotfix 18.4.1 (2016-01-25)"
+  ],
+  [
+   "Mod Drops",
+   "Primary Merciless 16.67% / Primary Dexterity 16.67% / Primary Deadhead 16.67% / Secondary Merciless 16.67% / Secondary Dexterity 16.67% / Secondary Deadhead 16.67%"
+  ],
+  [
+   "Resource Drops",
+   "2 Steel Essence 100.00%"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Mania is one of Shadow Stalker's acolytes, first introduced during Operation: Shadow Debt. He takes the form of Loki with an Immortal Skin, wearing Stalker's helmet and a Daedalus Shoulder Plate.",
+   "> As of Update 29.5 (2020-11-19), Mania can now spawn in The Steel Path missions."
+  ],
+  "sections": [
+   [
+    "Quotes",
+    [
+     "- \"I see you are still their servants.\"",
+     "- \"Who do you hunt?\"",
+     "- \"Our fight is not with you Tenno.\"",
+     "- \"We will return. We will complete this judgement.\""
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Mania's Lacera uses its Acolyte Skin, while Mania himself uses Loki's Immortal Skin and Stalker's helmet.",
+     "- If Mania is using Turbulence but gunfire is forced to hit Mania through extraneous circumstances, Turbulence will manifest as an invisible wall, complete with bullet hole decals similar to when gunfire hits the environment."
+    ]
+   ]
+  ]
+ }
+}

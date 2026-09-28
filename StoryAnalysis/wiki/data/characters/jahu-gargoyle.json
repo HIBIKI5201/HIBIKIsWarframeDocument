@@ -1,0 +1,61 @@
+{
+ "key": "jahu-gargoyle",
+ "name": "Jahu Gargoyle",
+ "page": "Jahu Gargoyle",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Whispers in the Walls で作られた正体不明の像",
+ "wiki": {
+  "title": "Jahu Gargoyle",
+  "url": "https://wiki.warframe.com/w/Jahu_Gargoyle",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Jahu Gargoyle / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “A curious blueprint found in the memory banks of Albrecht Entrati's Pom-2.”",
+   "> —Albrecht's Blueprint",
+   "> The Jahu Gargoyle is a mysterious statue of unknown nature that was crafted during Whispers in the Walls. Additionally, a new variant of the statue known as the Vigile Jahu Gargoyle is introduced as a Clan Dojo decoration during Operation: Gargoyle's Cry.",
+   "> Crafting of the initial Jahu Gargoyle during Whispers in the Walls is titled Albrecht's Blueprint."
+  ],
+  "sections": [
+   [
+    "Lore & History",
+    [
+     "### Overview",
+     "",
+     "Named after the Requiem word for 'Form', the Jahu Gargoyle appears to be a chimerical amalgamation of the three main members of the Cavia, possessing Fibonacci's head, Bird 3's wings and hind talons, and Tagfer's body and forelimbs. It was presumably designed by Albrecht Entrati before he traveled back to the year 1999.",
+     "",
+     "### Albrecht's Curio",
+     "",
+     "Main article: Whispers in the Walls",
+     "",
+     "To complete The Kalymos Sequence, the Tenno is instructed by Albrecht Entrati to construct the Gargoyle, whose blueprint was stored within his Pom-2 console. After placing it within the Sanctum Anatomica and activating it, the Gargoyle automatically translates the Cavia's incoherent Voidtongue, allowing them to communicate with the Tenno and Loid.",
+     "",
+     "As the Murmur began to break into and corrupt the Sanctum, the Tenno is prompted to let Albrecht's Grimoire \"speak with its own voice\" in order to defeat The Fragmented Suzerain. Upon interacting with the Jahu Gargoyle, the Tenno places the book in front of the statue. It then opens up on its own, almost as if the Gargoyle itself is 'reading' the Grimoire.",
+     "",
+     "### Murmur Telemetry Chorus",
+     "",
+     "Main article: Operation: Gargoyle's Cry",
+     "",
+     "To prevent the Murmur from further pervading reality, Fibonacci has devised a solution to detect their influence. He requests each of the Tenno Clans to construct a Vigile Jahu Gargoyle within their Dojo to create a 'living', system-wide surveillance system known as the Murmur Telemetry Chorus. However, a last-minute re-calibration necessitates the Tenno to hunt down The Fragmented and collect their Curses to ensure the system can warn of both incoming and outgoing threats."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- When crafting the Jahu Gargoyle during the quest, the credit cost and build time appear to create the number '1999'.",
+     "- A gargoyle that does not also act as a water spout, like the Jahu Gargoyle itself, is actually called a grotesque. This term is referenced in Operation: Gargoyle's Cry, where the player can spend currency called Grotesque Splinters to purchase items from the Vigile Jahu Gargoyle."
+    ]
+   ]
+  ]
+ }
+}

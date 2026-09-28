@@ -1,0 +1,77 @@
+{
+ "key": "veso",
+ "name": "Veso",
+ "page": "Veso",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Veso-R。The New War で登場した技術者",
+ "wiki": {
+  "title": "Veso",
+  "url": "https://wiki.warframe.com/w/Veso",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus"
+  ],
+  [
+   "声優",
+   "Calvin Joyal"
+  ],
+  [
+   "Quotes",
+   "Veso / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Veso-R / Veko / Teko / Teso / Viko"
+  ]
+ ],
+ "quests": [
+  [
+   "the-new-war",
+   43,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “--Fleet control... Firing sync reengaged. Authorization: Corpus Tech First Class Veso-R. Take your shot. For Profit.”",
+   "> —Veso",
+   "> Veso, also known as Veso-R, is a Corpus Tech First Class introduced in The New War."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### The New War",
+     "",
+     "Veso is a Corpus Tech during the Sentient invasion of the Origin System. Serving under Alad V in a Corpus fleet engaged in combat with the Sentients, Veso contacts him after Alad V asks for any remaining Techs aboard to narrow-band him at once. Alad V tasks him with breaking fire control from the fleet as his command overrides aren't working, getting Veso's name wrong and calling him \"Veko\" in the process. After correcting Alad's mistake, Veso heads to a trace conduit. Using his Data Pad, he breaks through the ship's wreckage using an explosive Breacher MOA. He then encounters rogue MOAs that are under Sentient control and informs Alad that their grid has been breached. Alad says that he'll send some \"meat-crews\" to aid Veso, adding that he still needs the override while forgetting Veso's name again.",
+     "",
+     "Fighting past more rogue robotics, he successfully hacks one of the override conduits using another Breacher MOA. While heading to the next conduit, he encounters more of the ship that has been taken over by Sentient control. After breaking through more wreckage with the help of a Shield Drone and a Striker MOA, he is contacted again by Alad. Getting Veso's name wrong yet again, Alad is dismayed that \"Teko\" has not yet disengaged the fire control. Veso begins to question his orders and gets confused over Alad's repeated desire to disengage the fire control. Alad responds by saying that they're about to be under \"new management\" (in reference to the Sentient invasion), and threatens to replace Veso with a \"more forward-thinking replacement\" if he doesn't comply.",
+     "",
+     "Veso continues through the ship, encountering Crewmen engaging the rogue Corpus robotics. After fighting past some of the robotics with them, his path is then blocked by a rogue Jackal, with Alad V questioning \"Teso\" his plan to fight it. After its destruction and Alad V congratulating \"Viko\", Veso engages the final override, allowing the nearest Sentient Murex to dock. During Alad V's following speech claiming to have negotiated an alliance with the Sentients, Veso realizes that Alad V intends to betray the Corpus Board of Directors and angrily reactivates the entire fleet's weapons, ordering the Corpus to \"Take [their] shot. For Profit.\" The ship fires into the heart of the Murex, destroying it as the resulting shockwave causes the Corpus Ship to break apart, killing Veso.",
+     "",
+     "### Veilbreaker",
+     "",
+     "> “I will never forget the man who gave his life for us. The man whose sacrifice showed us the way. We honor his name. Veko.”",
+     "",
+     "> —Olvar D",
+     "",
+     "Olvar D mentions that \"Veko\" is remembered as a hero among the Corpus."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Veso was first revealed in the Gameplay Trailer for The New War at TennoCon 2021, where the final confrontation was against a Bursa blockade. The Bursa encounter is absent in-game.",
+     "- Veso has markings on his helmet similar to Corpus Tech Eximus units and The Sergeant.",
+     "- A running gag with Veso has other characters pronounce his name incorrectly. Alad V refers to Veso by four different names, and not once does he get his name right. Olvar D idolizes Veso for his sacrifice, but also gets his hero's name wrong."
+    ]
+   ]
+  ]
+ }
+}

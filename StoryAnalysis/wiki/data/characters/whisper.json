@@ -1,0 +1,47 @@
+{
+ "key": "whisper",
+ "name": "Whisper",
+ "page": "Whisper",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Albrecht の Grimoire から現れる Murmur",
+ "wiki": {
+  "title": "Whisper",
+  "url": "https://wiki.warframe.com/w/Whisper",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Whisper / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Much has unfolded within the confines of Albrecht’s Laboratories and he made sure to document the events of his research in great detail. These notes are bound tightly within his Grimoire, which can materialize in the Laboratories, but be forewarned… unbinding it and looking into Albrecht’s lost notes summons something that cannot be easily banished. If you are successful in eliminating it, a note from Albrecht’s Grimoire may be left behind in its stead.”",
+   "> —Update 35: Whispers in the Walls - Codex Fragments: Albrecht's Notes",
+   "> Whispers are unique Murmur entities that can manifest from Albrecht Entrati's Grimoire. Copies of his eldritch book may sometimes spontaneously materialize within his Laboratories, and looking too deeply into its pages may summon a dark mimic, which will then punish the reader harshly for their meddling."
+  ],
+  "sections": [
+   [
+    "Overview",
+    [
+     "Whispers are shadowy mimics that copy the appearance of whoever unbound them from their tome. Seething with contempt, they mock whoever was unfortunate enough to unbind them. Tagfer will alert the Tenno when a Whisper-possessed grimoire is nearby, and will instruct them on how to defeat once it's unbound.",
+     "",
+     "Once unbound, a doppelgänger of the Tenno's Operator will crawl up from the ground, and will then mimic the appearance of the Warframe. During battle, the Whisper will use numerous abilities from various other Warframes, all while laughing gleefully. Once the Whisper's first health bar is depleted, a Whisper Grimoire must be found, marked by a white icon. Once located, the tome must be destroyed to fully banish the entity. As a last resort, it will take on the form of the Operator and use a Void Beam to deter any from destroying its tome. If players take too long to destroy the Grimoire, the doppelgänger will recover.",
+     "",
+     "Void damage and Amps are recommended, as they will deal devastating damage to the tome. Defeating a Whisper awards a Melee Arcane Enhancement and an Albrecht's Notes Fragment."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- After fully damaging a Whisper Grimoire, the Operator's doppelgänger will then begin hovering above it, attempting to prevent its banishment as it's sucked back into the disappearing tome."
+    ]
+   ]
+  ]
+ }
+}

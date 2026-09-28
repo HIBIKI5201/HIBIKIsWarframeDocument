@@ -1,0 +1,84 @@
+{
+ "key": "the-silver-grove",
+ "name": "The Silver Grove",
+ "page": "The Silver Grove",
+ "ja": "銀の果樹園",
+ "group": "Warframe 入手クエスト",
+ "summary": "Archimedean Silvana の伝説と Titania を追う",
+ "wiki": {
+  "title": "The Silver Grove",
+  "url": "https://wiki.warframe.com/w/The_Silver_Grove",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/The_Silver_Grove/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update: The Silver Grove (2016-08-19)"
+  ],
+  [
+   "種類",
+   "Side Quest Warframe Quest"
+  ],
+  [
+   "条件",
+   "The Second Dream Complete / Mastery Rank 7"
+  ],
+  [
+   "報酬",
+   "Titania Blueprint & Parts"
+  ],
+  [
+   "台詞全文",
+   "The Silver Grove / Transcript"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "amaryn",
+   35,
+   38
+  ],
+  [
+   "silvana",
+   30,
+   35
+  ],
+  [
+   "ordis",
+   8,
+   12
+  ],
+  [
+   "lotus",
+   1,
+   0
+  ],
+  [
+   "grineer-queens",
+   0,
+   4
+  ],
+  [
+   "margulis",
+   0,
+   3
+  ],
+  [
+   "archimedean",
+   0,
+   2
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "New Loka に頼まれて Grineer の侵攻から聖なる森を守るが、森の本当の姿と向き合うことになるサイドクエスト。Update: The Silver Grove（2016-08-19）で追加された。Tenno は New Loka とともに、地球に眠る古代の謎の力を探る。"
+  ],
+  "sections": []
+ }
+}

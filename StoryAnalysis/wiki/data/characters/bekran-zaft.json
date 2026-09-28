@@ -1,0 +1,28 @@
+{
+ "key": "bekran-zaft",
+ "name": "Bekran Zaft",
+ "page": "Bekran Zaft",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "Dabaoth-Kra で Lavos の虐殺を生き延びた床磨き",
+ "wiki": {
+  "title": "Bekran Zaft",
+  "url": "https://wiki.warframe.com/w/Bekran_Zaft",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Bekran Zaft / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Lavos による虐殺の後、Dabaoth-Kra でただ一人生き残った Orokin の床磨き。"
+  ],
+  "sections": []
+ }
+}

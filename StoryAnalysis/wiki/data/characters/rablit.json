@@ -1,0 +1,59 @@
+{
+ "key": "rablit",
+ "name": "Rablit",
+ "page": "Rablit",
+ "group": "Duviri",
+ "group_key": "g12-duviri",
+ "summary": "ウサギに似た生き物。Teshin も一匹飼っている",
+ "wiki": {
+  "title": "Rablit",
+  "url": "https://wiki.warframe.com/w/Rablit",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "The Duviri Paradox"
+  ],
+  [
+   "Quotes",
+   "Rablit / Quotes"
+  ],
+  [
+   "Alias(es)",
+   "Sol / Terra / Lua"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Oh! And this is... well, it was you that named her... remember?”",
+   "> —Teshin",
+   "> Rablits are rabbit-like creatures that roam Duviri. One is owned by Teshin, whom the Drifter dubs Sol (Sun), Terra (Neutral), or Lua (Moon)."
+  ],
+  "sections": [
+   [
+    "General",
+    [
+     "Appearance-wise, Rablits bear a close resemblance to the ancient rabbits of pre-Orokin Earth. Unlike rabbits, who have four legs, Rablits walk exclusively on their hind legs, while their frontal limbs have developed into full-blown arms. Rablits also have a pair of metallic antlers.",
+     "",
+     "Unlike most Rablits, who have brown bodies, exposed eyeless skulls and ribs, Teshin's Rablit has a pale blue body, and flesh covers all of her bones. This also leads to her uniquely having a fleshy face, with eyes and a nose. Her left horn is also broken and a strip of cloth hangs from the right horn.",
+     "",
+     "Despite their small stature, Rablits can become ferocious if provoked and are capable of killing Dax. They are often preyed upon by Kexats."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- When engaging in Komi during The Duviri Experience, Teshin's Rablit spectates the board game match on the table, or presumably is the Drifter's opponent.",
+     "- Once all six stages of a Mood Spiral is complete, Teshin's Rablit appears at the nearest Materlith carrying his Orvius. When the Drifter equips the Orvius to trigger the Orowyrm Grand Boss fight, the Rablit then burrows underground to retreat back to Teshin's Cave.",
+     "- Teshin's Rablit's names are all feminine in origin. Sól is the Norse goddess of the Sun, Terra is the Roman personification of the Earth, and Lua is the Portuguese and Galician word from the Latin Luna, the Roman personification of the Moon.",
+     "- The Rablits' design seems to be similar to the jackalope, a mythical animal described as a hare with antlers.",
+     "- During the final dialogue with Teshin in the end of The Duviri Paradox quest, the scenery changes depending on the choice for the name of the Rablit."
+    ]
+   ]
+  ]
+ }
+}

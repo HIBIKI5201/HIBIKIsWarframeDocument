@@ -1,0 +1,35 @@
+{
+ "key": "javi",
+ "name": "Javi",
+ "page": "Javi",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "Dabaoth-Kra に囚われていた Archimedean",
+ "wiki": {
+  "title": "Javi",
+  "url": "https://wiki.warframe.com/w/Javi",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Javi / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Javi was an Orokin Archimedean and prisoner in Dabaoth-Kra."
+  ],
+  "sections": [
+   [
+    "General",
+    [
+     "Javi was described as a scrawny, hairless man who suffered from a dry skin disease and had tattoos of two serpents spiraling around each of his arms. As a former Archimedean, Javi was permitted to wear his white robe while imprisoned and was given a ceremonial hood during his execution."
+    ]
+   ]
+  ]
+ }
+}

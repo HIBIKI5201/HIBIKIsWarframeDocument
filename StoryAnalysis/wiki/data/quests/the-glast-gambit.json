@@ -1,0 +1,79 @@
+{
+ "key": "the-glast-gambit",
+ "name": "The Glast Gambit",
+ "page": "The Glast Gambit",
+ "ja": "グラスト・ギャンビット",
+ "group": "Warframe 入手クエスト",
+ "summary": "Nef Anyo の賭けに巻き込まれ、Nidus を手に入れる",
+ "wiki": {
+  "title": "The Glast Gambit",
+  "url": "https://wiki.warframe.com/w/The_Glast_Gambit",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/The_Glast_Gambit/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 19.5 (2016-12-22)"
+  ],
+  [
+   "種類",
+   "Side Quest Warframe Quest"
+  ],
+  [
+   "条件",
+   "Completed The War Within"
+  ],
+  [
+   "報酬",
+   "Nidus blueprint"
+  ],
+  [
+   "台詞全文",
+   "The Glast Gambit / Transcript"
+  ],
+  [
+   "再プレイ",
+   "❌"
+  ]
+ ],
+ "characters": [
+  [
+   "ergo-glast",
+   59,
+   67
+  ],
+  [
+   "nef-anyo",
+   31,
+   42
+  ],
+  [
+   "lotus",
+   21,
+   0
+  ],
+  [
+   "neewa",
+   7,
+   47
+  ],
+  [
+   "corpus-commander",
+   0,
+   7
+  ],
+  [
+   "corpus-captain",
+   0,
+   7
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Nef Anyo が Mycona Colony の子どもたちをさらった。Tenno は The Index で Nef に挑み、Mycona Colony と Infested にまつわる謎を暴きながら、彼の企みを止めるサイドクエスト。Update 19.5（2016-12-22）で追加された。"
+  ],
+  "sections": []
+ }
+}

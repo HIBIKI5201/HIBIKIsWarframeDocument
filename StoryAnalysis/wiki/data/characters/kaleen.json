@@ -1,0 +1,37 @@
+{
+ "key": "kaleen",
+ "name": "Kaleen",
+ "page": "Kaleen",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Ember Prime の Codex に出てくる",
+ "wiki": {
+  "title": "Kaleen",
+  "url": "https://wiki.warframe.com/w/Kaleen",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Kaleen is a character mentioned in the Ember Prime Codex entry.",
+   "> Three figures waited behind a simple table. Their attention on a single chair, bathed in light. An old woman's voice from the shadow: 'Send her in'. Across the room a security officer, stern and plain, opened the door. The outline of a young woman appeared at the door. She hesitated, but only for an instant, then crossed the room and sat.",
+   "> There was a gasp as the light hit her face. Her right eye was bright and blinking, but her left was a greasy slit. Her skin had been burned moon-white. Her mouth was a sagging gash without lips or expression. Her military beret was pulled snug over a scarred and hairless scalp.",
+   "> The old voice: 'Your name is Kaleen.' Kaleen nodded. 'You were the principal investigator of the Zariman?' Kaleen's voice was a jagged whisper, a rigid face. 'Yes.'"
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "Kaleen was the principal investigator assigned by an unknown military group to investigate the disappearance of the Zariman Ten Zero, lost during \"the fold from Saturn to the Outer gates\", in a time known as the Void Era. She initially concluded that its disappearance was due to mechanical failure and closed the case after notifying the families of the crew who had been aboard, but when the Zariman mysteriously returned days later she reopened it and began to inspect the ship.",
+     "",
+     "During her personal inspections of the ship she found no trace of the original crew but came across children on board the ship, one of whom burned Kaleen, horribly disfiguring her face in the process, when she attempted to \"violate procedure\" to comfort the children. The burns left her skin moon white, her mouth a sagging gash without expression, her head scarred and hairless, and she lost her left eye. She was brought before a military tribunal where she explained the story before being escorted away.",
+     "",
+     "Her ultimate fate is unknown."
+    ]
+   ]
+  ]
+ }
+}

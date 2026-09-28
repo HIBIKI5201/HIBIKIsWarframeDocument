@@ -1,0 +1,29 @@
+{
+ "key": "lorist-remballa",
+ "name": "Lorist Remballa",
+ "page": "Lorist Remballa",
+ "group": "Orokin",
+ "group_key": "g06-orokin",
+ "summary": "治癒の力を持つ Lorist。Infested に感染した",
+ "wiki": {
+  "title": "Lorist Remballa",
+  "url": "https://wiki.warframe.com/w/Lorist_Remballa",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Lorist Remballa / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Remballa is a Lorist in the Orokin Empire. She can heal wounds with her powers but was infected by The infestation and turned into an Ancient Healer.",
+   "> See this page for more information"
+  ],
+  "sections": []
+ }
+}

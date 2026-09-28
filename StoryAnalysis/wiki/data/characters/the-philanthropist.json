@@ -1,0 +1,29 @@
+{
+ "key": "the-philanthropist",
+ "name": "The Philanthropist",
+ "page": "The Philanthropist",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "地球に隠れ家を作った Corpus の離反者",
+ "wiki": {
+  "title": "The Philanthropist",
+  "url": "https://wiki.warframe.com/w/The_Philanthropist",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "The Philanthropist / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> The Philanthropist was a renegade member of the Corpus who established his own hidden colony on Earth, an apparent paradise where rescued orphans would worship him as their savior, but which was secretly a front to acquire test subjects for his horrific experiments with the Infestation.",
+   "> He has only one appearance in the Ascension Day animated short."
+  ],
+  "sections": []
+ }
+}

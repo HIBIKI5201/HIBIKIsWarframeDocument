@@ -1,0 +1,57 @@
+{
+ "key": "hombask",
+ "name": "Hombask",
+ "page": "Hombask",
+ "group": "Void・Murmur・Zariman",
+ "group_key": "g10-void-murmur-zariman",
+ "summary": "Holdfasts の Dormizone 商人。元 Zariman の農夫",
+ "wiki": {
+  "title": "Hombask",
+  "url": "https://wiki.warframe.com/w/Hombask",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "First Appearance",
+   "Angels of the Zariman"
+  ],
+  [
+   "声優",
+   "Cara Volchoff [ 1 ] [ 2 ]"
+  ],
+  [
+   "Quotes",
+   "Hombask / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "angels-of-the-zariman",
+   2,
+   4
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “Everything you need to be comfortable and well dressed on a floating space tomb.”",
+   "> —Hombask",
+   "> Hombask is the Dormizone vendor of The Holdfasts and former farmer aboard the Zariman Ten Zero ship. She sells Decorations for the player's Dormizone housing. She is located in front of the Dormizone elevator on the left-side of the Chrysalith."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### General",
+     "",
+     "Hombask was appointed to be in charge of homesteading when the Zariman Ten Zero reached Tau System.",
+     "",
+     "During the unrest among the colonists before the Void Jump Accident, she deliberately sabotaged the ship's agricultural biomes in hope that the Orokin would reconsider the order to perform a long void jump to Tau. This attempt backfired as the Orokin became even more determined, and the children on board began to starve due to impeded food production.",
+     "",
+     "After the accident, Hombask was one of the few adults on the Zariman who didn't get affected and driven insane from Void exposure before their death during the Void Jump Accident. During the attempt to save the children, she was torn to pieces by the adults that had gone insane and become feral."
+    ]
+   ]
+  ]
+ }
+}

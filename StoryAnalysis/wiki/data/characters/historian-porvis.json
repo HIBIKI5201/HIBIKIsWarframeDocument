@@ -1,0 +1,26 @@
+{
+ "key": "historian-porvis",
+ "name": "Historian Porvis",
+ "page": "Historian Porvis",
+ "group": "名前だけ出てくる人物",
+ "group_key": "g20",
+ "summary": "Orokin の歴史家。Leverian の記録に名前が出る",
+ "wiki": {
+  "title": "Historian Porvis",
+  "url": "https://wiki.warframe.com/w/Historian_Porvis",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Historian Porvis / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [],
+  "sections": []
+ }
+}

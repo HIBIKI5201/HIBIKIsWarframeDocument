@@ -1,0 +1,65 @@
+{
+ "key": "xeto",
+ "name": "Xeto",
+ "page": "Xeto",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Parvos 配下の船長。Jade Shadows で登場",
+ "wiki": {
+  "title": "Xeto",
+  "url": "https://wiki.warframe.com/w/Xeto",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Corpus"
+  ],
+  [
+   "First Appearance",
+   "Jade Shadows"
+  ],
+  [
+   "声優",
+   "Elsie Lovelock [ 1 ]"
+  ],
+  [
+   "Quotes",
+   "Xeto / Quotes"
+  ]
+ ],
+ "quests": [
+  [
+   "jade-shadows",
+   17,
+   0
+  ]
+ ],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> Xeto is a Corpus captain who serves Parvos Granum. Debuting in Jade Shadows, she discovers the Stalker pilfering from the Corpus and tracks him down, believing what he has in his possession will make her eligible for a Candidate."
+  ],
+  "sections": [
+   [
+    "Lore",
+    [
+     "### Jade Shadows",
+     "",
+     "Stalker's attempts to seize Bioplasma from the Corpus are immediately noticed by Xeto, who orders the Corpus Commander to track him down. After he acquires Cortichrome from the Infested, Xeto realizes he is attempting to nurse a Warframe and contacts Vala Glarios.",
+     "",
+     "The Corpus track Stalker down to Uranus, discovering Jade's newborn child in his arms. Xeto's forces open fire, but when the baby cries at Stalker's grazed injury, Xeto immediately orders cease fire and allows the Stalker to pass."
+    ]
+   ],
+   [
+    "Trivia",
+    [
+     "- Xeto's voice actress, Elsie Lovelock, would later voice Major Neci Rusalka.",
+     "- She has unique dialogue if the player fails one of the data vaults, frustrated and confused by the sensors reading a failed data breach.",
+     "- Xeto shares the same idle animation as Vala Glarios."
+    ]
+   ]
+  ]
+ }
+}

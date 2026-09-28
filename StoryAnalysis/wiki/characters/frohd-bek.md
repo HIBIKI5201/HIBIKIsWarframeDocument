@@ -1,0 +1,92 @@
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
+
+# Frohd Bek
+
+[キャラクター一覧](../../characters.md) › [Corpus](g04-corpus.md) ・ ← [Cladius](cladius.md) ・ [Alad V](alad-v.md) →
+
+## 概要
+
+Corpus 取締役会の会長。Darvo の父
+
+> “The Tenno are too dangerous, too profitable, to provoke!”
+> —Frohd Bek
+> Frohd Bek is the current Chairman of the Corpus Board of Directors and the father of Darvo. Though players have yet to directly encounter him, Bek's interactions with the Tenno have been the catalyst for several events.
+
+- グループ: [Corpus](g04-corpus.md)
+- 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Frohd_Bek)（英語・出典） / [日本語 Wiki「Frohd Bek」](https://warframe.fandom.com/ja/wiki/Frohd_Bek) / [日本語 Wiki の取り込み](../../fandom-ja/pages/frohd-bek.md) / [全文検索](../../search.html?q=Frohd%20Bek)
+
+## 基本情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 所属 | Corpus |
+| Quotes | Frohd Bek / Quotes |
+
+## 登場クエスト
+
+台詞全文（Transcript）での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
+
+| クエスト | 台詞 | 言及 |
+| --- | --- | --- |
+| [アークウイング](../quests/the-archwing.md) | 2 | 3 |
+
+以下の章は Wiki の英語原文（日本語訳はまだない）。
+
+## Lore
+
+### General
+
+Unlike other members of the Corpus Board, Frohd Bek tries his best to maintain a neutral relationship with the Tenno, fully aware that their wrath would be best avoided. As such, he typically prefers to stay out of their way unless a mutually beneficial proposal can be agreed on. He is still a Corpus businessman at heart and will oppose anyone, Tenno included, if he feels that he has an advantage, as demonstrated in Operation: Ambulas Reborn.
+
+### The Hunt For Alad V
+
+After the Corpus's defeat during The Gradivus Dilemma, Frohd Bek tracks down Alad V to Jupiter in order to claim Alad's debts generated from both the Dilemma and the Zanuka Project. Alad retaliates by diverting the Infested to Frohd's ships, impeding his progress. Frohd Bek contacts the Lotus and proposes that the Tenno help him clear out the Infestation in exchange for Alad's location, revealing his own motivations for tracking Alad down; to prevent him from getting more power in the Board via the Zanuka Project. The Lotus reluctantly agrees to Bek's offer, as Alad has a captive Warframe in his possession and The Lotus wishes to rescue her. The Tenno clear out the Infestation, confront Alad, and rescue the Warframe, allowing Bek to safely collect Alad's debts.
+
+### Ties That Bind
+
+Darvo contacts the Tenno to rescue him from the Corpus, and during the escape Frohd Bek contacts Darvo, pleading his son to stay with him. He had been grooming Darvo to take a seat in the Board (most likely Alad's then-vacant position) and is angered when Darvo refuses, forcing Frohd to detain him. During his pleas, Frohd mentions that "Project Tethra" will be the death of them, which was later revealed to be Councilor Vay Hek's attempts to rebuild the Fomorian fleet in order to force the Corpus into submission.
+
+### The Archwing
+
+Searching for information regarding Hek's Fomorians, the Lotus sends the Tenno to a Corpus ship (with Frohd Bek onboard) in order to find more details. The investigation is cut short when Hek ambushes Bek with his Fomorian Fleet, forcing the Tenno to retreat. During the ambush, Hek boastfully severs his business contracts with the Corpus, though it is unknown if they were reinstated following Hek's defeat during Operation: Eyes of Blight. Frohd Bek presumably escapes the Fomorian attack.
+
+### Black Seed Scourge Tactical Alert
+
+Frohd Bek contacts the Tenno regarding the Black Seeds, a splinter group of Corpus merchants that seek to undermine the Board's efforts. He explains that the Black Seeds have raided Alad V's Mutalist labs and have stolen Juggernaut spores, intending to unleash these spores on Bek's facilities. Frohd Bek asks the Tenno to halt the spread of the spores by capturing key Black Seed Operatives to narrow down the Juggernaut's location and destroy it. The Tenno succeed at halting the spread and the Black Seeds are forced into hiding, though as Bek thanks the Tenno he warns them that some of the Juggernaut spores may have been released to the wild, urging them to stay on alert.
+
+### Operation: Ambulas Reborn
+
+Frohd Bek, with the help of numerous investors, decides to revamp the Ambulas proxy and makes use of an AI processor called Animo, which learns from encounters in the field and effectively makes future Ambulas proxies harder to fight against. Fearing that Animo's uncontrolled learning could lead to another rampant AI problem like the Sentients before it, Ergo Glast, leader of The Perrin Sequence and Animo's creator, contracts the Tenno to defeat Ambulas units on the field (having anonymously invested in the Ambulas project to know of its whereabouts) and collect the Animo Nav Beacons that drop on the proxy's defeat, both to stifle Animo's learning and to figure out Animo's location. Eventually, when enough Animo Nav Beacons are collected, Ergo Glast concludes that Animo is located on Frohd Bek's capital ship, currently in orbit over the Ambulas manufacturing site on Pluto.
+
+As the Tenno battle Ambulas proxies and the Corpus units sent to reinforce them, Frohd Bek reveals Ergo Glast's past apprenticeship to him, and further taunts Glast over his stubborn dedication to his anti-Corpus ideals and the corruption of Animo's intended purpose. Under Glast's orders, the Tenno hack into incoming Ambulas proxies and trick Bek's forces into delivering the compromised proxies to Bek's ship. Once enough proxies are on board, Glast uses them as Trojan horses to activate Animo's self-destruct sequence, destroying Bek's capital ship in the process. As the ship explodes, Frohd Bek orders his ship's bridge module to be ejected, leaving his ultimate fate a mystery.
+
+### Partnership Fragments
+
+Frohd Bek is mentioned in Alad V's Partnership Fragments, where Nef Anyo's Orb Vallis terraforming project has earned the Chairman's favor.
+
+## Trivia
+
+Frohd Bek had a cameo appearance in The Profit (Trailer), during Alad V's Zanuka Project auction. He was one of the four revealed Corpus board members, on the third slot from left to right.
+
+  - Curiously, what appears to be a Locust Drone also makes an appearance projecting the hologram of the Corpus Board Members, almost a year before it was added in the game.
+- In one of Bek's taunts during The Hunt For Alad V, he mentions Alad throwing his research down the Void. This is a possible reference to the Arid Fear Event, considering it was Alad V who ordered his scouts to travel in the void.
+- "Ties That Bind" reveals that Darvo is almost 105 years old, suggesting that Frohd Bek is a great deal older than that. This could explain his hoarse voice and difficulty speaking.
+- Bek appears to be incredibly overbearing, at least in regards to his son, Darvo, who refers to him as a "neck breathing control freak" at the end of "Ties that Bind".
+- Humorously, Frohd Bek is mentioned during the Howl of the Kubrow quest after the player locates the Incubator Segment. In an intercepted message, Bek argues with a "Dr. Intehb", revealing that Bek has been attempting (and failing) to get a Kubrow of his own.
+- Frohd Bek is possibly an allusion to the word fraud.
+- Frohd Bek's voice changes upon his return in Operation: Ambulas Reborn, where it went from raspy whispering to relatively normal, albeit still raspy. The cause of it was his larynx being rebuilt, which he is delighted about.
+
+During Operation: Ambulas Reborn, it was revealed that Ergo Glast was Frohd Bek's past apprentice.
+
+  - The event was also the very first instance that Bek had a direct conflict with the Tenno, of whom he tried cautiously not to get hostile with. However, Bek still treated the Tenno in a rather "friendly" manner during the entire event - he called them "volunteers" when Ambulases were deployed, and he blamed Glast and the Perrin Sequence for "bringing them to danger" during the last battle - signifying that he may still wish to have a mutually beneficial relationship with the Tenno.
+
+Curiously, for a high-ranking Corpus official, Bek's outfit resembles an orange version of the ones worn by a standard Crewman, which is in direct contrast to the outlandish outfits worn by Nef Anyo and Alad V, or even the unique gilded look of the legendary John Prodman.
+
+  - During the fight with Ambulas, Bek implies that he was once a lowly crewman who "worked (his) way to the top of the board from nothing". This suggests that the reason why he still wears a crewman's outfit is to serve as a constant reminder that he has built and earned everything from scratch.
+- Frohd Bek, or perhaps a reuse of his model, appears in Gauss Prime's trailer, as evidenced by the markings on his head. However, his voice is that of a generic Corpus grunt rather than his own.
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

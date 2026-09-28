@@ -1,8 +1,8 @@
-<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+<!-- scripts/render_wiki.py で自動生成。手で編集しない（概要は data/*.json、訳は data/ja/ を編集して build_wiki.py を実行する）。 -->
 
 # 古の同盟（The Old Peace）
 
-詳細は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に日本語でまとめたもの。ライセンスは [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)。出典は各項目のリンク先。
+[クエスト一覧](../../quests.md) › メインストーリー ・ ← [ヘックス](the-hex.md) ・ [翡翠の影](jade-shadows.md) →
 
 ## 概要
 
@@ -10,7 +10,7 @@ Old War の休戦期、Tau 星系での Orokin・Sentient・Tenno の関係が�
 
 Tau 星系へ逃れた Albrecht Entrati の足取りを追うため、オペレーターが忘れていた Tau の記憶に潜るメインクエスト。Update 41.0（2025-12-10）で追加された。
 
-出典: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Old_Peace) / [台詞全文](https://wiki.warframe.com/w/The_Old_Peace/Transcript)
+リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Old_Peace)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Old_Peace/Transcript) / [全文検索](../../search.html?q=The%20Old%20Peace)
 
 ## 基本情報
 
@@ -28,52 +28,32 @@ Tau 星系へ逃れた Albrecht Entrati の足取りを追うため、オペレ�
 
 台詞全文での登場。台詞は話者として出てくる回数、言及は本文中で名前が出る回数。
 
-| キャラクター | 台詞 | 言及 |
-| --- | --- | --- |
-| [Operator](../../wiki/characters/g01-tenno.md#operator) | 12 |  |
-| [Daklo](../../wiki/characters/g02-cephalon.md#daklo) | 4 | 6 |
-| [Loid](../../wiki/characters/g17-deimos-entrati-cavia.md#loid) | 4 |  |
-| [Loid (Original)](../../wiki/characters/g17-deimos-entrati-cavia.md#loid-3) | 4 |  |
-| [Valdur](../../wiki/characters/g03-grineer.md#valdur) | 2 | 20 |
-| [The Man in the Wall](../../wiki/characters/g10-void-murmur-zariman.md#the-man-in-the-wall) | 2 | 6 |
-| [Lotus](../../wiki/characters/g01-tenno.md#lotus) | 2 |  |
-| [Ballas](../../wiki/characters/g06-orokin.md#ballas) | 1 | 17 |
-| [Marie](../../wiki/characters/g11-1999-h-llvania.md#marie) | 1 | 5 |
-| [Lyon](../../wiki/characters/g11-1999-h-llvania.md#lyon) | 1 |  |
-| [Galastra](../../wiki/characters/g06-orokin.md#galastra) |  | 37 |
-| [Itzam](../../wiki/characters/g07-sentient.md#itzam) |  | 32 |
-| [Archimedean](../../wiki/characters/g20.md#archimedean-perintol) |  | 27 |
-| [Grineer Queens](../../wiki/characters/g03-grineer.md#grineer-queens) |  | 18 |
-| [Margulis](../../wiki/characters/g06-orokin.md#margulis) |  | 10 |
-| [Railjack/Crew](../../wiki/characters/g13.md#railjack-crew) |  | 7 |
-| [Parvos Granum](../../wiki/characters/g04-corpus.md#parvos-granum) |  | 6 |
-| [Kuva Lich](../../wiki/characters/g03-grineer.md#kuva-lich) |  | 5 |
-| [Sisters of Parvos](../../wiki/characters/g04-corpus.md#sisters-of-parvos-3) |  | 5 |
-| [Corpus Commander](../../wiki/characters/g04-corpus.md#corpus-commander) |  | 5 |
-| [Corpus Captain](../../wiki/characters/g04-corpus.md#corpus-captain) |  | 5 |
-| [Teshin](../../wiki/characters/g01-tenno.md#teshin) |  | 3 |
-| [Cephalon Jordas](../../wiki/characters/g02-cephalon.md#cephalon-jordas) |  | 3 |
-| [Alad V](../../wiki/characters/g04-corpus.md#alad-v) |  | 3 |
-| [Albrecht Entrati](../../wiki/characters/g06-orokin.md#albrecht-entrati) |  | 3 |
-| [Natah](../../wiki/characters/g07-sentient.md#natah-2) |  | 3 |
-| [Roathe](../../wiki/characters/g11-1999-h-llvania.md#roathe) |  | 3 |
-| [Solaris United Agent](../../wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) |  | 3 |
-| [Ordis](../../wiki/characters/g02-cephalon.md#ordis) |  | 2 |
-| [Cephalon Suda](../../wiki/characters/g02-cephalon.md#cephalon-suda) |  | 2 |
-| [Mutalist Alad V](../../wiki/characters/g04-corpus.md#mutalist-alad-v) |  | 2 |
-| [Ambulas](../../wiki/characters/g04-corpus.md#ambulas) |  | 2 |
-| [Executor Nitokh](../../wiki/characters/g06-orokin.md#executor-nitokh) |  | 2 |
-| [Arthur](../../wiki/characters/g11-1999-h-llvania.md#arthur) |  | 2 |
-| [Eleanor](../../wiki/characters/g11-1999-h-llvania.md#eleanor) |  | 2 |
-| [Leticia](../../wiki/characters/g11-1999-h-llvania.md#leticia) |  | 2 |
-| [Quincy](../../wiki/characters/g11-1999-h-llvania.md#quincy) |  | 2 |
-| [Darvo](../../wiki/characters/g13.md#darvo) |  | 2 |
-| [Tagfer](../../wiki/characters/g17-deimos-entrati-cavia.md#tagfer) |  | 2 |
-| [Little Duck](../../wiki/characters/g19.md#little-duck) |  | 2 |
+| キャラクター | グループ | 台詞 | 言及 |
+| --- | --- | --- | --- |
+| [Operator](../characters/operator.md) | Tenno | 104 |  |
+| [Adis](../characters/adis.md) | Sentient | 63 |  |
+| [Palanquin](../characters/palanquin.md) | Orokin | 24 |  |
+| [Loid](../characters/loid.md) | Deimos・Entrati・Cavia | 19 |  |
+| [Loid（人間時代）](../characters/loid-original.md) | Deimos・Entrati・Cavia | 19 |  |
+| [Valdur](../characters/valdur.md) | Grineer | 17 | 20 |
+| [Lotus](../characters/lotus.md) | Tenno | 13 |  |
+| [Ballas](../characters/ballas.md) | Orokin | 7 | 16 |
+| [Margulis](../characters/margulis.md) | Orokin | 6 | 9 |
+| [Daklo](../characters/daklo.md) | Cephalon | 6 | 6 |
+| [The Man in the Wall](../characters/the-man-in-the-wall.md) | Void・Murmur・Zariman | 5 | 5 |
+| [Marie](../characters/marie.md) | 1999（Höllvania） | 1 | 4 |
+| [Natah](../characters/natah.md) | Sentient | 1 | 1 |
+| [Tagfer](../characters/tagfer.md) | Deimos・Entrati・Cavia | 1 | 1 |
+| [Anarchs](../characters/anarchs.md) | Orokin | 1 |  |
+| [Lyon](../characters/lyon.md) | 1999（Höllvania） | 1 |  |
+| [Galastra](../characters/galastra.md) | Orokin |  | 37 |
+| [Itzam](../characters/itzam.md) | Sentient |  | 31 |
+| [Archimedean Perintol](../characters/archimedean.md) | 名前だけ出てくる人物 |  | 26 |
+| [Grineer Queens](../characters/grineer-queens.md) | Grineer |  | 14 |
+| [Albrecht Entrati](../characters/albrecht-entrati.md) | Orokin |  | 2 |
+| [Executor Nitokh](../characters/executor-nitokh.md) | Orokin |  | 2 |
 
-## 詳細
-
-### あらすじ
+## あらすじ
 
 Albrecht Entrati が Tau 星系へ逃れたため、Lotus はオペレーターに Dark Refractory を使わせ、手がかりを求めて深い記憶をたどらせる。Old War の記憶に潜ったオペレーターは、自分が衛星 Perita に置かれた Tauron Academy の生徒で、Adis という Sentient と親友だったことを思い出す。Tau に生える Xenoflora（異星植物）は Sentient に個性を与え、集合意識から切り離す。そのおかげで Sentient と Orokin の間に和平条約が結ばれていた。しかしこの和平は、Galastra 率いる分離派 Anarchs に脅かされていた。
 
@@ -81,7 +61,7 @@ Albrecht Entrati が Tau 星系へ逃れたため、Lotus はオペレーター�
 
 オペレーターは Uriel を使って Ballas を探しに Tauron Academy へ乗り込むが、そこにいたのは Margulis だった。彼女はオペレーターを守るため、Tau での日々を忘れさせる。Lotus は、Tau はもう目前だが、記憶の中の Tau とは違うだろうと告げる。
 
-### トリビア
+## トリビア
 
 - Founder プログラムの終了以来初めて、Excalibur Prime を誰でも操作できるクエスト。所有していれば Config A の見た目が使われる。
 - Dactolyst を倒した後、オペレーターは「私が彼を殺した」と打ち明ける。サクリファイスで Excalibur Umbra への転移に成功した後、Isaah を殺したと言ったときと同じ台詞。
@@ -91,3 +71,7 @@ Albrecht Entrati が Tau 星系へ逃れたため、Lotus はオペレーター�
 - Palanquin の護衛ミッションでは、輿がオペレーターに「緊急 Continuity」を行う権限があると言う。乗っている者の命を救うため、近くにいる唯一の生き物がオペレーターだからだ。
 - Murmur の侵食で Cavia が知性のない動物に戻ってしまったのは一時的なもので、クエスト後は元どおりになっている。
 - TennoCon 2025 のデモと最終版の違いはわずか。Adis が「Truth Bloom」と呼ばれたときの返しが「Adis。」から「Adis は名前を選んでいない！」に変わり、Caliban Prime と Daklo を調べる前の Margulis の登場場面が追加され、Dactolyst 戦の前に Adis と Galastra の台詞が増えた。
+
+---
+
+このページの詳細・基本情報は [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。出典は「リンク」の記事。

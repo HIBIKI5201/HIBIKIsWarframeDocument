@@ -1,0 +1,108 @@
+{
+ "key": "vox-solaris",
+ "name": "Vox Solaris",
+ "page": "Vox Solaris (Quest)",
+ "ja": "Vox Solaris",
+ "group": "メインストーリー",
+ "summary": "Fortuna の地下組織 Vox Solaris と接触し、Solaris の解放に手を貸す",
+ "wiki": {
+  "title": "Vox Solaris (Quest)",
+  "url": "https://wiki.warframe.com/w/Vox_Solaris_(Quest)",
+  "exists": true
+ },
+ "transcript": "https://wiki.warframe.com/w/Vox_Solaris_(Quest)/Transcript",
+ "infobox": [
+  [
+   "初登場",
+   "Update 24.0 (2018-11-08)"
+  ],
+  [
+   "種類",
+   "Main Quest"
+  ],
+  [
+   "条件",
+   "Talk with Eudico in Fortuna"
+  ],
+  [
+   "報酬",
+   "K-Drive Launcher / Garuda Blueprint / Access to Solaris United syndicate / Access to Fortuna bounties"
+  ],
+  [
+   "台詞全文",
+   "Vox Solaris (Quest) / Transcript"
+  ],
+  [
+   "前のクエスト",
+   "The Teacher"
+  ],
+  [
+   "次のクエスト",
+   "Once Awake"
+  ],
+  [
+   "再プレイ",
+   "✔️"
+  ]
+ ],
+ "characters": [
+  [
+   "eudico",
+   47,
+   77
+  ],
+  [
+   "nef-anyo",
+   19,
+   34
+  ],
+  [
+   "the-business",
+   13,
+   0
+  ],
+  [
+   "vox",
+   7,
+   0
+  ],
+  [
+   "legs",
+   1,
+   0
+  ],
+  [
+   "solaris-united-agent",
+   0,
+   29
+  ],
+  [
+   "corpus-commander",
+   0,
+   11
+  ],
+  [
+   "corpus-captain",
+   0,
+   11
+  ]
+ ],
+ "body": {
+  "lang": "ja",
+  "summary": [
+   "Fortuna の人々が、Corpus の富豪 Nef Anyo に対する Solaris United の抵抗運動を再び燃え上がらせるのを Tenno が手助けするメインクエスト。ソロ専用で、Update 24.0（2018-11-08）で追加された。",
+   "",
+   "> 「Eudico は民を守るためなら何でもする。だが Nef Anyo に立ち向かえるのか？」（クエスト説明）"
+  ],
+  "sections": [
+   [
+    "トリビア",
+    [
+     "- クエストをクリアすると、Solaris United のシンジケートの説明が、運動の復活を反映したものに変わる。クリア前は、Solaris の人々と彼らの債務奴隷の状態を一般的に説明した文になっている。",
+     "",
+     "> 「Corpus の年季奉公労働者。金星における Corpus のビジネスモデルに欠かせない屋台骨。工場や鉄道牽引車、鉱山で働き、働くために買った人工の体（リグ）の代金を払い続けている」"
+    ]
+   ]
+  ]
+ }
+}

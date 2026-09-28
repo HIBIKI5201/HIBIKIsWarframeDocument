@@ -1,0 +1,38 @@
+{
+ "key": "popcorn",
+ "name": "Popcorn",
+ "page": "Popcorn",
+ "group": "Corpus",
+ "group_key": "g04-corpus",
+ "summary": "Jackal の登場シーンで潰された試験用 MOA",
+ "wiki": {
+  "title": "Popcorn",
+  "url": "https://wiki.warframe.com/w/Popcorn",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "所属",
+   "Tenno / Corpus (formerly)"
+  ],
+  [
+   "First Appearance",
+   "Update 28.0 (2020-06-11)"
+  ],
+  [
+   "Quotes",
+   "Popcorn / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> “I expected it to be... bigger.”",
+   "> —Lotus, mistaking Popcorn for the Jackal",
+   "> Popcorn is a Test MOA that was crushed by the Jackal during its introduction cutscene, but was later saved and relocated to Iron Wake as Clem's new friend. Similar to Clem and John Prodman, Popcorn has her roots as a meme within the WARFRAME community."
+  ],
+  "sections": []
+ }
+}

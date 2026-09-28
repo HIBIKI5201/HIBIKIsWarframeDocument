@@ -1,0 +1,30 @@
+{
+ "key": "caxa",
+ "name": "Caxa",
+ "page": "Caxa",
+ "group": "Duviri の故人・墓碑",
+ "group_key": "g21-duviri",
+ "summary": "彫刻家",
+ "wiki": {
+  "title": "Caxa",
+  "url": "https://wiki.warframe.com/w/Caxa",
+  "exists": true
+ },
+ "link_only": false,
+ "infobox": [
+  [
+   "Quotes",
+   "Caxa / Quotes"
+  ]
+ ],
+ "quests": [],
+ "body": {
+  "lang": "en",
+  "summary": [
+   "> You added to the world By taking from it” —Caxa's tombstone epitaph",
+   "> Caxa was a sculptor in Duviri.",
+   "> Their grave can be seen in Titan's Rest. You can read the epitaph by interacting with the tombstone."
+  ],
+  "sections": []
+ }
+}
