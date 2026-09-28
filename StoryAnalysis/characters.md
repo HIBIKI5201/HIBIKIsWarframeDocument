@@ -1,353 +1,396 @@
+<!-- scripts/build_wiki.py で自動生成。手で編集しない（概要は data/*.json を編集する）。 -->
+
 # キャラクター一覧
 
-WARFRAME Wiki に載っているキャラクターを全部並べたもの（2026-09-28 時点）。
-元にしたのは [Characters](https://wiki.warframe.com/w/Characters) ページ、Wiki のキャラクター一覧テンプレート（CharacterNav と拠点ごとの一覧）、Category:Characters の 3 つ。
-分類は Wiki の一覧テンプレートの分け方に合わせた。説明は各ページ冒頭の要約を短く訳したもの。台詞集があるキャラは [sources.md](sources.md) の「台詞集」も見る。
+WARFRAME Wiki のキャラクター 285 件。名前から詳細（基本情報・登場クエスト・Wiki の経歴など）へ飛べる。
+概要は `data/characters.json` に書いたもの、詳細は Wiki から自動で取り込んだ英語の本文。
 
 ## Tenno
 
-- [Operator](https://wiki.warframe.com/w/Operator): プレイヤー自身である Tenno。Void の力を扱う
-- [Drifter](https://wiki.warframe.com/w/Drifter): 実現しなかった可能性から来た、別世界の Tenno
-- [Lotus](https://wiki.warframe.com/w/Lotus): Tenno を導く謎の女性
-- [Teshin](https://wiki.warframe.com/w/Teshin): Teshin Dax。Tenno の師。Conclave を管理している
-- [Rell](https://wiki.warframe.com/w/Rell): 歴史から消えた Tenno。Void の研究が Red Veil 設立につながった
-- [Berryn](https://wiki.warframe.com/w/Berryn): Zariman Ten Zero に乗っていた子供の一人
-- [Jenva](https://wiki.warframe.com/w/Jenva): Zariman Ten Zero に乗っていた子供の一人
-- [Mathon](https://wiki.warframe.com/w/Mathon): Zariman Ten Zero に乗っていた子供の一人
-- [Terolee](https://wiki.warframe.com/w/Terolee): Zariman Ten Zero に乗っていた子供の一人
-- [Excalibur Umbra](https://wiki.warframe.com/w/Excalibur/Umbra): Excalibur の Umbra 版。The Sacrifice で登場
-- [Baro Ki'Teer](https://wiki.warframe.com/w/Baro_Ki%27Teer): Void Trader。Orokin の品と贅沢を好む商人
-- [Varzia](https://wiki.warframe.com/w/Varzia): Varzia Dax。元 Dax の兵士。Maroo's Bazaar で Prime Resurgence を運営
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Operator](wiki/characters/g01-tenno.md#operator) | プレイヤー自身である Tenno。Void の力を扱う | 4 クエスト |
+| [Drifter](wiki/characters/g01-tenno.md#drifter) | 実現しなかった可能性から来た、別世界の Tenno | 1 クエスト |
+| [Lotus](wiki/characters/g01-tenno.md#lotus) | Tenno を導く謎の女性 | 5 クエスト |
+| [Teshin](wiki/characters/g01-tenno.md#teshin) | Teshin Dax。Tenno の師。Conclave を管理している | 45 クエスト |
+| [Rell](wiki/characters/g01-tenno.md#rell) | 歴史から消えた Tenno。Void の研究が Red Veil 設立につながった |  |
+| [Berryn](wiki/characters/g01-tenno.md#berryn) | Zariman Ten Zero に乗っていた子供の一人 | 1 クエスト |
+| [Jenva](wiki/characters/g01-tenno.md#jenva) | Zariman Ten Zero に乗っていた子供の一人 | 1 クエスト |
+| [Mathon](wiki/characters/g01-tenno.md#mathon) | Zariman Ten Zero に乗っていた子供の一人 | 1 クエスト |
+| [Terolee](wiki/characters/g01-tenno.md#terolee) | Zariman Ten Zero に乗っていた子供の一人 | 1 クエスト |
+| [Excalibur Umbra](wiki/characters/g01-tenno.md#excalibur-umbra) | Excalibur の Umbra 版。The Sacrifice で登場 | 1 クエスト |
+| [Baro Ki'Teer](wiki/characters/g01-tenno.md#baro-ki-teer) | Void Trader。Orokin の品と贅沢を好む商人 | 1 クエスト |
+| [Varzia](wiki/characters/g01-tenno.md#varzia) | Varzia Dax。元 Dax の兵士。Maroo's Bazaar で Prime Resurgence を運営 |  |
 
 ## Cephalon
 
-- [Ordis](https://wiki.warframe.com/w/Ordis): オービターに仕える Orokin 由来の Cephalon
-- [Cephalon Cy](https://wiki.warframe.com/w/Cephalon_Cy): Railjack の航法士・副長
-- [Cephalon Melica](https://wiki.warframe.com/w/Cephalon_Melica): The New War の回想で教師として登場
-- [Cephalon Simaris](https://wiki.warframe.com/w/Cephalon_Simaris): Sanctuary で生物を「永遠化」しようとする Cephalon
-- [Cephalon Suda](https://wiki.warframe.com/w/Cephalon_Suda): 同名シンジケートのリーダー
-- [Cephalon Jordas](https://wiki.warframe.com/w/Cephalon_Jordas): Corpus の Cephalon。The Jordas Precept で初登場
-- [Cephalon Sark](https://wiki.warframe.com/w/Cephalon_Sark): The Index の司会。Cephalon Capture にも登場
-- [Cephalon Apnar](https://wiki.warframe.com/w/Cephalon_Apnar): Conclave の Cephalon Capture に登場
-- [Cephalon Vull](https://wiki.warframe.com/w/Cephalon_Vull): Conclave の Cephalon Capture に登場
-- [Daklo](https://wiki.warframe.com/w/Daklo): Tauron Academy にいる Cephalon
-- [Drusus](https://wiki.warframe.com/w/Drusus): Drusus Thelonius Leverian。博物館 Leverian の館長・語り手
-- [Otak](https://wiki.warframe.com/w/Otak): Necralisk の商人の Cephalon
-- [Nihil](https://wiki.warframe.com/w/Nihil): 連続殺人鬼「Glassmaker」。元 Orokin の処刑人
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Ordis](wiki/characters/g02-cephalon.md#ordis) | オービターに仕える Orokin 由来の Cephalon | 44 クエスト |
+| [Cephalon Cy](wiki/characters/g02-cephalon.md#cephalon-cy) | Railjack の航法士・副長 | 4 クエスト |
+| [Cephalon Melica](wiki/characters/g02-cephalon.md#cephalon-melica) | The New War の回想で教師として登場 | 2 クエスト |
+| [Cephalon Simaris](wiki/characters/g02-cephalon.md#cephalon-simaris) | Sanctuary で生物を「永遠化」しようとする Cephalon | 4 クエスト |
+| [Cephalon Suda](wiki/characters/g02-cephalon.md#cephalon-suda) | 同名シンジケートのリーダー | 44 クエスト |
+| [Cephalon Jordas](wiki/characters/g02-cephalon.md#cephalon-jordas) | Corpus の Cephalon。The Jordas Precept で初登場 | 44 クエスト |
+| [Cephalon Sark](wiki/characters/g02-cephalon.md#cephalon-sark) | The Index の司会。Cephalon Capture にも登場 |  |
+| [Cephalon Apnar](wiki/characters/g02-cephalon.md#cephalon-apnar) | Conclave の Cephalon Capture に登場 |  |
+| [Cephalon Vull](wiki/characters/g02-cephalon.md#cephalon-vull) | Conclave の Cephalon Capture に登場 |  |
+| [Daklo](wiki/characters/g02-cephalon.md#daklo) | Tauron Academy にいる Cephalon | 1 クエスト |
+| [Drusus](wiki/characters/g02-cephalon.md#drusus) | Drusus Thelonius Leverian。博物館 Leverian の館長・語り手 |  |
+| [Otak](wiki/characters/g02-cephalon.md#otak) | Necralisk の商人の Cephalon |  |
+| [Nihil](wiki/characters/g02-cephalon.md#nihil) | 連続殺人鬼「Glassmaker」。元 Orokin の処刑人 |  |
 
 ## Grineer
 
-- [Grineer Queens](https://wiki.warframe.com/w/Grineer_Queens): Grineer を統べる双子の女王
-- [Captain Vor](https://wiki.warframe.com/w/Captain_Vor): ゲーム冒頭でプレイヤーを目覚めさせた Grineer 将校
-- [Corrupted Vor](https://wiki.warframe.com/w/Corrupted_Vor): Void で変異した Captain Vor
-- [Councilor Vay Hek](https://wiki.warframe.com/w/Councilor_Vay_Hek): 地球の Grineer ボス
-- [General Sargas Ruk](https://wiki.warframe.com/w/General_Sargas_Ruk): 土星の Grineer ボス
-- [Lieutenant Lech Kril](https://wiki.warframe.com/w/Lieutenant_Lech_Kril): 火星の Grineer ボス
-- [Kela De Thaym](https://wiki.warframe.com/w/Kela_De_Thaym): セドナのボス。闘技場 Rathuum の主
-- [Tyl Regor](https://wiki.warframe.com/w/Tyl_Regor): 天王星のボス。クローン劣化の治療を研究
-- [Kahl-175](https://wiki.warframe.com/w/Kahl-175): The New War で登場した Grineer Lancer。Kahl's Garrison のリーダー
-- [Kuva Lich](https://wiki.warframe.com/w/Kuva_Lich): Kuva で強化された Grineer の宿敵
-- [The Grustrag Three](https://wiki.warframe.com/w/The_Grustrag_Three): Vay Hek がよく使う 3 人組の暗殺者
-- [Sprag](https://wiki.warframe.com/w/Sprag): フィールドボス。Operation Gate Crash で初登場
-- [Ven'kra Tel](https://wiki.warframe.com/w/Ven%27kra_Tel): フィールドボス。Operation Gate Crash で初登場
-- [Garv](https://wiki.warframe.com/w/Garv): Deimos に派遣された Grineer の兵士
-- [Boril](https://wiki.warframe.com/w/Boril): 降格した Vor の後任として提督に任命された人物
-- [Wolf of Saturn Six](https://wiki.warframe.com/w/Wolf_of_Saturn_Six): Nightwave: Series 1 の敵役
-- [Valdur](https://wiki.warframe.com/w/Valdur): The Old Peace で登場。Old War 休戦期の Prime Grineer 指揮官
-- [Executioners](https://wiki.warframe.com/w/Executioner/Gorth): Kela De Thaym 配下の処刑人たち（Dhurnam, Dok Thul, Garesh, Gorth, Harkonar, Nok, Reth, Vay Molta, Zura）
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Grineer Queens](wiki/characters/g03-grineer.md#grineer-queens) | Grineer を統べる双子の女王 | 44 クエスト |
+| [Captain Vor](wiki/characters/g03-grineer.md#captain-vor) | ゲーム冒頭でプレイヤーを目覚めさせた Grineer 将校 | 1 クエスト |
+| [Corrupted Vor](wiki/characters/g03-grineer.md#corrupted-vor) | Void で変異した Captain Vor | 1 クエスト |
+| [Councilor Vay Hek](wiki/characters/g03-grineer.md#councilor-vay-hek) | 地球の Grineer ボス | 5 クエスト |
+| [General Sargas Ruk](wiki/characters/g03-grineer.md#general-sargas-ruk) | 土星の Grineer ボス |  |
+| [Lieutenant Lech Kril](wiki/characters/g03-grineer.md#lieutenant-lech-kril) | 火星の Grineer ボス |  |
+| [Kela De Thaym](wiki/characters/g03-grineer.md#kela-de-thaym) | セドナのボス。闘技場 Rathuum の主 |  |
+| [Tyl Regor](wiki/characters/g03-grineer.md#tyl-regor) | 天王星のボス。クローン劣化の治療を研究 | 2 クエスト |
+| [Kahl-175](wiki/characters/g03-grineer.md#kahl-175) | The New War で登場した Grineer Lancer。Kahl's Garrison のリーダー | 1 クエスト |
+| [Kuva Lich](wiki/characters/g03-grineer.md#kuva-lich) | Kuva で強化された Grineer の宿敵 | 44 クエスト |
+| [The Grustrag Three](wiki/characters/g03-grineer.md#the-grustrag-three-3) | Vay Hek がよく使う 3 人組の暗殺者 |  |
+| [Sprag](wiki/characters/g03-grineer.md#sprag) | フィールドボス。Operation Gate Crash で初登場 |  |
+| [Ven'kra Tel](wiki/characters/g03-grineer.md#ven-kra-tel) | フィールドボス。Operation Gate Crash で初登場 |  |
+| [Garv](wiki/characters/g03-grineer.md#garv) | Deimos に派遣された Grineer の兵士 |  |
+| [Boril](wiki/characters/g03-grineer.md#boril) | 降格した Vor の後任として提督に任命された人物 |  |
+| [Wolf of Saturn Six](wiki/characters/g03-grineer.md#wolf-of-saturn-six) | Nightwave: Series 1 の敵役 |  |
+| [Valdur](wiki/characters/g03-grineer.md#valdur) | The Old Peace で登場。Old War 休戦期の Prime Grineer 指揮官 | 1 クエスト |
+| [Executioners](wiki/characters/g03-grineer.md#executioners) | Kela De Thaym 配下の処刑人たち（Dhurnam, Dok Thul, Garesh, Gorth, Harkonar, Nok, Reth, Vay Molta, Zura） |  |
 
 ## Corpus
 
-- [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum): Orokin 時代の Corpus 創始者。Specter 技術の発明者
-- [Cladius](https://wiki.warframe.com/w/Cladius): Parvos Granum の兄弟
-- [Frohd Bek](https://wiki.warframe.com/w/Frohd_Bek): Corpus 取締役会の会長。Darvo の父
-- [Alad V](https://wiki.warframe.com/w/Alad_V): 取締役会の一員。Grineer 担当
-- [Mutalist Alad V](https://wiki.warframe.com/w/Mutalist_Alad_V): Infested に侵された Alad V
-- [Nef Anyo](https://wiki.warframe.com/w/Nef_Anyo): 取締役会の一員。富豪
-- [Derf Anyo](https://wiki.warframe.com/w/Derf_Anyo): Nef Anyo の息子（甥）
-- [Vala Glarios](https://wiki.warframe.com/w/Vala_Glarios): Parvos 配下の船長。Tempestarii への復讐を狙う
-- [Xeto](https://wiki.warframe.com/w/Xeto): Parvos 配下の船長。Jade Shadows で登場
-- [Veso](https://wiki.warframe.com/w/Veso): Veso-R。The New War で登場した技術者
-- [Latrox Une](https://wiki.warframe.com/w/Latrox_Une): Deimos に取り残され Entrati に雇われた研究者
-- [Sisters of Parvos](https://wiki.warframe.com/w/Sisters_of_Parvos): Parvos に仕える Corpus の宿敵
-- [The Sergeant](https://wiki.warframe.com/w/The_Sergeant): フォボスのボス（旧 Sgt. Nef Anyo）
-- [Ambulas](https://wiki.warframe.com/w/Ambulas): 冥王星のボス。AI「Animo」を積む
-- [Jackal](https://wiki.warframe.com/w/Jackal): 金星のボス
-- [Hyena Pack](https://wiki.warframe.com/w/Hyena_Pack): 海王星のボス。4 体組
-- [Raptors](https://wiki.warframe.com/w/Raptors): エウロパのボス
-- [Lynx](https://wiki.warframe.com/w/Lynx): Orokin Sabotage に出るフィールドボス
-- [Zanuka](https://wiki.warframe.com/w/Zanuka): Warframe の部品で作られた Alad V のペット
-- [Zanuka Hunter](https://wiki.warframe.com/w/Zanuka_Hunter): Alad V が操る Zanuka（旧 Harvester）
-- [Exploiter Orb](https://wiki.warframe.com/w/Exploiter_Orb): Orb Vallis の大型 Raknoid
-- [Profit-Taker Orb](https://wiki.warframe.com/w/Profit-Taker_Orb): Orb Vallis の大型 Raknoid
-- [Popcorn](https://wiki.warframe.com/w/Popcorn): Jackal の登場シーンで潰された試験用 MOA
-- [Arn Etina](https://wiki.warframe.com/w/Arn_Etina): 冥王星の旧ボス（黒い MOA）
-- [J3-Golem](https://wiki.warframe.com/w/J3-Golem): 木星の旧ボス
-- [Corpus Commander](https://wiki.warframe.com/w/Corpus_Commander): Archwing Rush に出る脇役
-- [Corpus Captain](https://wiki.warframe.com/w/Corpus_Captain): Empyrean で見られる Corpus の船長
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Parvos Granum](wiki/characters/g04-corpus.md#parvos-granum) | Orokin 時代の Corpus 創始者。Specter 技術の発明者 | 44 クエスト |
+| [Cladius](wiki/characters/g04-corpus.md#cladius) | Parvos Granum の兄弟 |  |
+| [Frohd Bek](wiki/characters/g04-corpus.md#frohd-bek) | Corpus 取締役会の会長。Darvo の父 | 2 クエスト |
+| [Alad V](wiki/characters/g04-corpus.md#alad-v) | 取締役会の一員。Grineer 担当 | 44 クエスト |
+| [Mutalist Alad V](wiki/characters/g04-corpus.md#mutalist-alad-v) | Infested に侵された Alad V | 44 クエスト |
+| [Nef Anyo](wiki/characters/g04-corpus.md#nef-anyo) | 取締役会の一員。富豪 | 6 クエスト |
+| [Derf Anyo](wiki/characters/g04-corpus.md#derf-anyo) | Nef Anyo の息子（甥） |  |
+| [Vala Glarios](wiki/characters/g04-corpus.md#vala-glarios) | Parvos 配下の船長。Tempestarii への復讐を狙う | 2 クエスト |
+| [Xeto](wiki/characters/g04-corpus.md#xeto) | Parvos 配下の船長。Jade Shadows で登場 |  |
+| [Veso](wiki/characters/g04-corpus.md#veso) | Veso-R。The New War で登場した技術者 |  |
+| [Latrox Une](wiki/characters/g04-corpus.md#latrox-une) | Deimos に取り残され Entrati に雇われた研究者 |  |
+| [Sisters of Parvos](wiki/characters/g04-corpus.md#sisters-of-parvos-3) | Parvos に仕える Corpus の宿敵 | 44 クエスト |
+| [The Sergeant](wiki/characters/g04-corpus.md#the-sergeant) | フォボスのボス（旧 Sgt. Nef Anyo） |  |
+| [Ambulas](wiki/characters/g04-corpus.md#ambulas) | 冥王星のボス。AI「Animo」を積む | 44 クエスト |
+| [Jackal](wiki/characters/g04-corpus.md#jackal) | 金星のボス | 1 クエスト |
+| [Hyena Pack](wiki/characters/g04-corpus.md#hyena-pack) | 海王星のボス。4 体組 |  |
+| [Raptors](wiki/characters/g04-corpus.md#raptors) | エウロパのボス |  |
+| [Lynx](wiki/characters/g04-corpus.md#lynx) | Orokin Sabotage に出るフィールドボス |  |
+| [Zanuka](wiki/characters/g04-corpus.md#zanuka) | Warframe の部品で作られた Alad V のペット |  |
+| [Zanuka Hunter](wiki/characters/g04-corpus.md#zanuka-hunter) | Alad V が操る Zanuka（旧 Harvester） |  |
+| [Exploiter Orb](wiki/characters/g04-corpus.md#exploiter-orb) | Orb Vallis の大型 Raknoid |  |
+| [Profit-Taker Orb](wiki/characters/g04-corpus.md#profit-taker-orb) | Orb Vallis の大型 Raknoid | 1 クエスト |
+| [Popcorn](wiki/characters/g04-corpus.md#popcorn) | Jackal の登場シーンで潰された試験用 MOA |  |
+| [Arn Etina](wiki/characters/g04-corpus.md#arn-etina) | 冥王星の旧ボス（黒い MOA） |  |
+| [J3-Golem](wiki/characters/g04-corpus.md#j3-golem) | 木星の旧ボス |  |
+| [Corpus Commander](wiki/characters/g04-corpus.md#corpus-commander) | Archwing Rush に出る脇役 | 44 クエスト |
+| [Corpus Captain](wiki/characters/g04-corpus.md#corpus-captain) | Empyrean で見られる Corpus の船長 | 44 クエスト |
 
 ## Infested
 
-- [Helminth](https://wiki.warframe.com/w/Helminth): オービターの Helminth Infirmary に住む存在
-- [Lephantis](https://wiki.warframe.com/w/Lephantis): Old War のために作られた多頭の Infested
-- [Fass](https://wiki.warframe.com/w/Fass_(Deimos)): Cambion Drift の空にいる巨大な雄の虫
-- [Vome](https://wiki.warframe.com/w/Vome_(Deimos)): Cambion Drift の夜を表す巨大な雌の Infested
-- [Zealoid Prelate](https://wiki.warframe.com/w/Zealoid_Prelate): Nightwave: Series 2 で登場した Infested のボス
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Helminth](wiki/characters/g05-infested.md#helminth) | オービターの Helminth Infirmary に住む存在 | 5 クエスト |
+| [Lephantis](wiki/characters/g05-infested.md#lephantis) | Old War のために作られた多頭の Infested |  |
+| [Fass](wiki/characters/g05-infested.md#fass) | Cambion Drift の空にいる巨大な雄の虫 |  |
+| [Vome](wiki/characters/g05-infested.md#vome) | Cambion Drift の夜を表す巨大な雌の Infested |  |
+| [Zealoid Prelate](wiki/characters/g05-infested.md#zealoid-prelate) | Nightwave: Series 2 で登場した Infested のボス |  |
 
 ## Orokin
 
-- [Ballas](https://wiki.warframe.com/w/Ballas): Executor で The Seven の一員。Warframe を生み出した人物
-- [Margulis](https://wiki.warframe.com/w/Margulis): Archimedean。Zariman の子供たちの養母
-- [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati): 初めて Void に到達した Orokin の科学者
-- [Silvana](https://wiki.warframe.com/w/Silvana): Infested を研究した Archimedean
-- [Isaah](https://wiki.warframe.com/w/Isaah): The Sacrifice に登場する Dax の兵士
-- [Dax](https://wiki.warframe.com/w/Dax): Orokin に仕えた精鋭部隊（個人ではなく集団）
-- [Myrmidon](https://wiki.warframe.com/w/Myrmidon): Ivara の Leverian に記録された、Warframe を狩る獣
-- [Executor Avantus](https://wiki.warframe.com/w/Executor_Avantus): The Seven の一員
-- [Executor Karishh](https://wiki.warframe.com/w/Executor_Karishh): The Seven の一員。崩壊を逃れたが Grendel に討たれた
-- [Executor Nitokh](https://wiki.warframe.com/w/Executor_Nitokh): The Seven の一員。Roathe の愛人
-- [Executor Scarne](https://wiki.warframe.com/w/Executor_Scarne): The Seven の一員
-- [Executor Tormis](https://wiki.warframe.com/w/Executor_Tormis): The Seven の一員
-- [Executor Tuvul](https://wiki.warframe.com/w/Executor_Tuvul): The Seven の一員
-- [Belric & Rania](https://wiki.warframe.com/w/Belric_%26_Rania): Deimos で Infested を解き放った 2 人の技術者
-- [Bekran Zaft](https://wiki.warframe.com/w/Bekran_Zaft): Dabaoth-Kra で Lavos の虐殺を生き延びた床磨き
-- [Javi](https://wiki.warframe.com/w/Javi): Dabaoth-Kra に囚われていた Archimedean
-- [Bren Terrasiam](https://wiki.warframe.com/w/Bren_Terrasiam): 陶芸家。Gallixware の作者
-- [Holsom Yurr](https://wiki.warframe.com/w/Holsom_Yurr): Orokin 時代の傭兵・略奪者
-- [Lorist Remballa](https://wiki.warframe.com/w/Lorist_Remballa): 治癒の力を持つ Lorist。Infested に感染した
-- [Palanquin](https://wiki.warframe.com/w/Palanquin): The Old Peace に登場する Orokin の輿
-- [Orowyrm](https://wiki.warframe.com/w/Orowyrm): Orokin が設計した巨大な生体機械
-- [Unum](https://wiki.warframe.com/w/Unum): Plains of Eidolon の外の塔に宿る意識
-- [Anarchs](https://wiki.warframe.com/w/Anarchs): The Old Peace の Perita Rebellion に出る、和平を拒んだ分離派
-- [Galastra](https://wiki.warframe.com/w/Galastra): Anarchs のリーダー
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Ballas](wiki/characters/g06-orokin.md#ballas) | Executor で The Seven の一員。Warframe を生み出した人物 | 10 クエスト |
+| [Margulis](wiki/characters/g06-orokin.md#margulis) | Archimedean。Zariman の子供たちの養母 | 11 クエスト |
+| [Albrecht Entrati](wiki/characters/g06-orokin.md#albrecht-entrati) | 初めて Void に到達した Orokin の科学者 | 5 クエスト |
+| [Silvana](wiki/characters/g06-orokin.md#silvana) | Infested を研究した Archimedean | 1 クエスト |
+| [Isaah](wiki/characters/g06-orokin.md#isaah) | The Sacrifice に登場する Dax の兵士 | 1 クエスト |
+| [Dax](wiki/characters/g06-orokin.md#dax) | Orokin に仕えた精鋭部隊（個人ではなく集団） |  |
+| [Myrmidon](wiki/characters/g06-orokin.md#myrmidon) | Ivara の Leverian に記録された、Warframe を狩る獣 |  |
+| [Executor Avantus](wiki/characters/g06-orokin.md#executor-avantus) | The Seven の一員 |  |
+| [Executor Karishh](wiki/characters/g06-orokin.md#executor-karishh) | The Seven の一員。崩壊を逃れたが Grendel に討たれた |  |
+| [Executor Nitokh](wiki/characters/g06-orokin.md#executor-nitokh) | The Seven の一員。Roathe の愛人 | 1 クエスト |
+| [Executor Scarne](wiki/characters/g06-orokin.md#executor-scarne) | The Seven の一員 |  |
+| [Executor Tormis](wiki/characters/g06-orokin.md#executor-tormis) | The Seven の一員 |  |
+| [Executor Tuvul](wiki/characters/g06-orokin.md#executor-tuvul) | The Seven の一員 |  |
+| [Belric & Rania](wiki/characters/g06-orokin.md#belric-rania) | Deimos で Infested を解き放った 2 人の技術者 |  |
+| [Bekran Zaft](wiki/characters/g06-orokin.md#bekran-zaft) | Dabaoth-Kra で Lavos の虐殺を生き延びた床磨き |  |
+| [Javi](wiki/characters/g06-orokin.md#javi) | Dabaoth-Kra に囚われていた Archimedean |  |
+| [Bren Terrasiam](wiki/characters/g06-orokin.md#bren-terrasiam) | 陶芸家。Gallixware の作者 |  |
+| [Holsom Yurr](wiki/characters/g06-orokin.md#holsom-yurr) | Orokin 時代の傭兵・略奪者 |  |
+| [Lorist Remballa](wiki/characters/g06-orokin.md#lorist-remballa) | 治癒の力を持つ Lorist。Infested に感染した |  |
+| [Palanquin](wiki/characters/g06-orokin.md#palanquin) | The Old Peace に登場する Orokin の輿 |  |
+| [Orowyrm](wiki/characters/g06-orokin.md#orowyrm) | Orokin が設計した巨大な生体機械 |  |
+| [Unum](wiki/characters/g06-orokin.md#unum) | Plains of Eidolon の外の塔に宿る意識 |  |
+| [Anarchs](wiki/characters/g06-orokin.md#anarchs) | The Old Peace の Perita Rebellion に出る、和平を拒んだ分離派 |  |
+| [Galastra](wiki/characters/g06-orokin.md#galastra) | Anarchs のリーダー | 1 クエスト |
 
 ## Sentient
 
-- [Hunhow](https://wiki.warframe.com/w/Hunhow): 天王星の海底で見つかった巨大な Sentient
-- [Natah](https://wiki.warframe.com/w/Natah): Lotus として Tenno を導いていた Sentient
-- [Erra](https://wiki.warframe.com/w/Erra_(Character)): Sentient の高位指揮官
-- [Praghasa](https://wiki.warframe.com/w/Praghasa): Sentient の母艦
-- [Archon Amar](https://wiki.warframe.com/w/Archon_Amar): Erra の Archon。狼の頭と Rhino Prime の体
-- [Archon Boreal](https://wiki.warframe.com/w/Archon_Boreal): Erra の Archon。梟の頭と Loki Prime の体
-- [Archon Nira](https://wiki.warframe.com/w/Archon_Nira): Erra の Archon。蛇の頭と Mag Prime の体
-- [Adis](https://wiki.warframe.com/w/Adis): The Old Peace で登場した若い Sentient
-- [Itzam](https://wiki.warframe.com/w/Itzam): The Old Peace で登場した師
-- [The Hunra](https://wiki.warframe.com/w/The_Hunra): Tau の都市 Fornax を仕切る犯罪組織の首領
-- Raspos / Tolvenar / Jeldrin / Zoff / Larynde: Wiki のナビに名前があるが、個別ページはまだない
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Hunhow](wiki/characters/g07-sentient.md#hunhow) | 天王星の海底で見つかった巨大な Sentient | 7 クエスト |
+| [Natah](wiki/characters/g07-sentient.md#natah-2) | Lotus として Tenno を導いていた Sentient | 45 クエスト |
+| [Erra](wiki/characters/g07-sentient.md#erra-3) | Sentient の高位指揮官 |  |
+| [Praghasa](wiki/characters/g07-sentient.md#praghasa) | Sentient の母艦 | 1 クエスト |
+| [Archon Amar](wiki/characters/g07-sentient.md#archon-amar) | Erra の Archon。狼の頭と Rhino Prime の体 |  |
+| [Archon Boreal](wiki/characters/g07-sentient.md#archon-boreal) | Erra の Archon。梟の頭と Loki Prime の体 | 1 クエスト |
+| [Archon Nira](wiki/characters/g07-sentient.md#archon-nira) | Erra の Archon。蛇の頭と Mag Prime の体 |  |
+| [Adis](wiki/characters/g07-sentient.md#adis) | The Old Peace で登場した若い Sentient |  |
+| [Itzam](wiki/characters/g07-sentient.md#itzam) | The Old Peace で登場した師 | 1 クエスト |
+| [The Hunra](wiki/characters/g07-sentient.md#the-hunra) | Tau の都市 Fornax を仕切る犯罪組織の首領 |  |
+| Raspos / Tolvenar / Jeldrin / Zoff / Larynde | Wiki のナビに名前があるが、個別ページはまだない |  |
 
 ## Stalker
 
-- [Stalker](https://wiki.warframe.com/w/Stalker): Tenno を付け狙う復讐者
-- [Shadow Stalker](https://wiki.warframe.com/w/Shadow_Stalker): Sentient の力で強化された Stalker
-- [Protector Stalker](https://wiki.warframe.com/w/Protector_Stalker): Jade Shadows 後の Stalker
-- [Angst](https://wiki.warframe.com/w/Angst): Shadow Stalker の Acolyte。Operation: Shadow Debt で初登場
-- [Malice](https://wiki.warframe.com/w/Malice): 同上
-- [Mania](https://wiki.warframe.com/w/Mania): 同上
-- [Misery](https://wiki.warframe.com/w/Misery): 同上
-- [Torment](https://wiki.warframe.com/w/Torment): 同上
-- [Violence](https://wiki.warframe.com/w/Violence): 同上
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Stalker](wiki/characters/g08-stalker.md#stalker-2) | Tenno を付け狙う復讐者 | 1 クエスト |
+| [Shadow Stalker](wiki/characters/g08-stalker.md#shadow-stalker) | Sentient の力で強化された Stalker | 5 クエスト |
+| [Protector Stalker](wiki/characters/g08-stalker.md#protector-stalker) | Jade Shadows 後の Stalker |  |
+| [Angst](wiki/characters/g08-stalker.md#angst) | Shadow Stalker の Acolyte。Operation: Shadow Debt で初登場 |  |
+| [Malice](wiki/characters/g08-stalker.md#malice) | 同上 |  |
+| [Mania](wiki/characters/g08-stalker.md#mania) | 同上 |  |
+| [Misery](wiki/characters/g08-stalker.md#misery) | 同上 |  |
+| [Torment](wiki/characters/g08-stalker.md#torment) | 同上 |  |
+| [Violence](wiki/characters/g08-stalker.md#violence) | 同上 |  |
 
 ## Narmer
 
-- [Pazuul](https://wiki.warframe.com/w/Pazuul): Ballas の後を継いだ Narmer の現リーダー
-- [Ka-Nuteru](https://wiki.warframe.com/w/Ka-Nuteru): Narmer に染まった Grineer の兵士
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Pazuul](wiki/characters/g09-narmer.md#pazuul) | Ballas の後を継いだ Narmer の現リーダー | 1 クエスト |
+| [Ka-Nuteru](wiki/characters/g09-narmer.md#ka-nuteru) | Narmer に染まった Grineer の兵士 | 1 クエスト |
 
 ## Void・Murmur・Zariman
 
-- [The Man in the Wall](https://wiki.warframe.com/w/The_Man_in_the_Wall): 「Indifference」。Void に結びつく存在で Murmur の創造者
-- [The Murmur](https://wiki.warframe.com/w/The_Murmur): Albrecht の研究所に出る敵勢力
-- [Whisper](https://wiki.warframe.com/w/Whisper): Albrecht の Grimoire から現れる Murmur
-- [Jahu Gargoyle](https://wiki.warframe.com/w/Jahu_Gargoyle): Whispers in the Walls で作られた正体不明の像
-- [Skittergirl](https://wiki.warframe.com/w/Skittergirl): Zariman に出る Void の具現。不安が形になったもの
-- [The Husband](https://wiki.warframe.com/w/The_Husband): Zariman の事故直後に最期を記録した生存者
-- [Quinn](https://wiki.warframe.com/w/Quinn): Holdfasts のリーダー。元 Zariman の遠征指揮連絡官
-- [Cavalero](https://wiki.warframe.com/w/Cavalero): Holdfasts の武器商。元 Zariman の警備員
-- [Archimedean Yonta](https://wiki.warframe.com/w/Archimedean_Yonta): Holdfasts の Archimedean
-- [Hombask](https://wiki.warframe.com/w/Hombask): Holdfasts の Dormizone 商人。元 Zariman の農夫
-- [Kira](https://wiki.warframe.com/w/Kira): 元 Zariman の乗客。Holdfasts のかつての 5 人目
-- [VERD-IE](https://wiki.warframe.com/w/VERD-IE): Zariman の植物を世話する保守ドローン
-- [Raff Seglass](https://wiki.warframe.com/w/Raff_Seglass): Dormizone の Vistagraph と Audioscape の作者
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [The Man in the Wall](wiki/characters/g10-void-murmur-zariman.md#the-man-in-the-wall) | 「Indifference」。Void に結びつく存在で Murmur の創造者 | 5 クエスト |
+| [The Murmur](wiki/characters/g10-void-murmur-zariman.md#the-murmur) | Albrecht の研究所に出る敵勢力 |  |
+| [Whisper](wiki/characters/g10-void-murmur-zariman.md#whisper) | Albrecht の Grimoire から現れる Murmur |  |
+| [Jahu Gargoyle](wiki/characters/g10-void-murmur-zariman.md#jahu-gargoyle) | Whispers in the Walls で作られた正体不明の像 |  |
+| [Skittergirl](wiki/characters/g10-void-murmur-zariman.md#skittergirl) | Zariman に出る Void の具現。不安が形になったもの |  |
+| [The Husband](wiki/characters/g10-void-murmur-zariman.md#the-husband) | Zariman の事故直後に最期を記録した生存者 |  |
+| [Quinn](wiki/characters/g10-void-murmur-zariman.md#quinn) | Holdfasts のリーダー。元 Zariman の遠征指揮連絡官 | 1 クエスト |
+| [Cavalero](wiki/characters/g10-void-murmur-zariman.md#cavalero) | Holdfasts の武器商。元 Zariman の警備員 | 1 クエスト |
+| [Archimedean Yonta](wiki/characters/g10-void-murmur-zariman.md#archimedean-yonta) | Holdfasts の Archimedean | 1 クエスト |
+| [Hombask](wiki/characters/g10-void-murmur-zariman.md#hombask) | Holdfasts の Dormizone 商人。元 Zariman の農夫 | 1 クエスト |
+| [Kira](wiki/characters/g10-void-murmur-zariman.md#kira) | 元 Zariman の乗客。Holdfasts のかつての 5 人目 |  |
+| [VERD-IE](wiki/characters/g10-void-murmur-zariman.md#verd-ie) | Zariman の植物を世話する保守ドローン |  |
+| [Raff Seglass](wiki/characters/g10-void-murmur-zariman.md#raff-seglass) | Dormizone の Vistagraph と Audioscape の作者 |  |
 
 ## 1999（Höllvania）
 
-- [Arthur](https://wiki.warframe.com/w/Arthur): Arthur Nightingale。The Hex の隊長
-- [Eleanor](https://wiki.warframe.com/w/Eleanor): Eleanor Nightingale。The Hex の心理戦担当で Arthur の姉
-- [Aoi](https://wiki.warframe.com/w/Aoi): Aoi Morohoshi。The Hex の整備士・副隊長
-- [Amir](https://wiki.warframe.com/w/Amir): Amir Beckett。The Hex の技術者・ハッカー
-- [Leticia](https://wiki.warframe.com/w/Leticia): Leticia "Lettie" Garcia。The Hex の衛生兵
-- [Quincy](https://wiki.warframe.com/w/Quincy): Quincy Isaacs。The Hex の狙撃手
-- [Kaya](https://wiki.warframe.com/w/Kaya): Kaya Velasco。Nova の特性を持つ Protoframe
-- [Flare](https://wiki.warframe.com/w/Flare): Flare Varleon。Temple の特性を持つ Protoframe。喋るギター Lizzie を持つ
-- [Minerva](https://wiki.warframe.com/w/Minerva): Minerva Hendricks。Saryn の特性を持つ Protoframe。Velimir の妻
-- [Velimir](https://wiki.warframe.com/w/Velimir): Velimir Volkov II。Frost の特性を持つ Protoframe
-- [Roathe](https://wiki.warframe.com/w/Roathe): Uriel の特性を持つ Protoframe
-- [Lyon](https://wiki.warframe.com/w/Lyon): Lyon Allard 神父。Harrow の特性を持つ Protoframe。Devil's Triad の一員
-- [Marie](https://wiki.warframe.com/w/Marie): Marie Leroux 修道女。Wisp の特性を持つ Protoframe。Devil's Triad の一員
-- [Ryoku](https://wiki.warframe.com/w/Ryoku): Ash の特性を持つ Protoframe。破滅した未来から来た。Jade Shadows: Constellations で登場
-- [Vena](https://wiki.warframe.com/w/Vena): Garuda の特性を持つ Protoframe。20 年後の破滅した未来から来た
-- [Scaldra](https://wiki.warframe.com/w/Scaldra): The Hex で登場した敵勢力
-- [Major Neci Rusalka](https://wiki.warframe.com/w/Major_Neci_Rusalka): Scaldra の指揮官
-- [Lieutenant Viktor Vodyanoi](https://wiki.warframe.com/w/Lieutenant_Viktor_Vodyanoi): Scaldra の副官
-- [Techrot](https://wiki.warframe.com/w/Techrot): Infested の前身にあたる敵勢力
-- [Technocyte Coda](https://wiki.warframe.com/w/Technocyte_Coda): 音楽の力を持つ Techrot の宿敵
-- [DJ RoM](https://wiki.warframe.com/w/DJ_RoM): ボーイバンド On-lyne のメンバー
-- [Drillbit](https://wiki.warframe.com/w/Drillbit): On-lyne のメンバー
-- [Harddrive](https://wiki.warframe.com/w/Harddrive): On-lyne のメンバー
-- [Packet](https://wiki.warframe.com/w/Packet): On-lyne のメンバー
-- [Zeke](https://wiki.warframe.com/w/Zeke): On-lyne のメンバー
-- [Drippy](https://wiki.warframe.com/w/Drippy): K.O.L.（Kinemantik Online）のアシスタント
-- [Ollie](https://wiki.warframe.com/w/Ollie): アーケードゲーム Ollie's Crash Course の主人公
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Arthur](wiki/characters/g11-1999-h-llvania.md#arthur) | Arthur Nightingale。The Hex の隊長 | 44 クエスト |
+| [Eleanor](wiki/characters/g11-1999-h-llvania.md#eleanor) | Eleanor Nightingale。The Hex の心理戦担当で Arthur の姉 | 44 クエスト |
+| [Aoi](wiki/characters/g11-1999-h-llvania.md#aoi) | Aoi Morohoshi。The Hex の整備士・副隊長 |  |
+| [Amir](wiki/characters/g11-1999-h-llvania.md#amir) | Amir Beckett。The Hex の技術者・ハッカー |  |
+| [Leticia](wiki/characters/g11-1999-h-llvania.md#leticia) | Leticia "Lettie" Garcia。The Hex の衛生兵 | 44 クエスト |
+| [Quincy](wiki/characters/g11-1999-h-llvania.md#quincy) | Quincy Isaacs。The Hex の狙撃手 | 44 クエスト |
+| [Kaya](wiki/characters/g11-1999-h-llvania.md#kaya) | Kaya Velasco。Nova の特性を持つ Protoframe |  |
+| [Flare](wiki/characters/g11-1999-h-llvania.md#flare) | Flare Varleon。Temple の特性を持つ Protoframe。喋るギター Lizzie を持つ |  |
+| [Minerva](wiki/characters/g11-1999-h-llvania.md#minerva) | Minerva Hendricks。Saryn の特性を持つ Protoframe。Velimir の妻 |  |
+| [Velimir](wiki/characters/g11-1999-h-llvania.md#velimir) | Velimir Volkov II。Frost の特性を持つ Protoframe |  |
+| [Roathe](wiki/characters/g11-1999-h-llvania.md#roathe) | Uriel の特性を持つ Protoframe | 44 クエスト |
+| [Lyon](wiki/characters/g11-1999-h-llvania.md#lyon) | Lyon Allard 神父。Harrow の特性を持つ Protoframe。Devil's Triad の一員 | 1 クエスト |
+| [Marie](wiki/characters/g11-1999-h-llvania.md#marie) | Marie Leroux 修道女。Wisp の特性を持つ Protoframe。Devil's Triad の一員 | 1 クエスト |
+| [Ryoku](wiki/characters/g11-1999-h-llvania.md#ryoku) | Ash の特性を持つ Protoframe。破滅した未来から来た。Jade Shadows: Constellations で登場 | 1 クエスト |
+| [Vena](wiki/characters/g11-1999-h-llvania.md#vena) | Garuda の特性を持つ Protoframe。20 年後の破滅した未来から来た |  |
+| [Scaldra](wiki/characters/g11-1999-h-llvania.md#scaldra) | The Hex で登場した敵勢力 |  |
+| [Major Neci Rusalka](wiki/characters/g11-1999-h-llvania.md#major-neci-rusalka) | Scaldra の指揮官 | 1 クエスト |
+| [Lieutenant Viktor Vodyanoi](wiki/characters/g11-1999-h-llvania.md#lieutenant-viktor-vodyanoi) | Scaldra の副官 |  |
+| [Techrot](wiki/characters/g11-1999-h-llvania.md#techrot) | Infested の前身にあたる敵勢力 |  |
+| [Technocyte Coda](wiki/characters/g11-1999-h-llvania.md#technocyte-coda) | 音楽の力を持つ Techrot の宿敵 |  |
+| [DJ RoM](wiki/characters/g11-1999-h-llvania.md#dj-rom) | ボーイバンド On-lyne のメンバー |  |
+| [Drillbit](wiki/characters/g11-1999-h-llvania.md#drillbit) | On-lyne のメンバー | 1 クエスト |
+| [Harddrive](wiki/characters/g11-1999-h-llvania.md#harddrive) | On-lyne のメンバー |  |
+| [Packet](wiki/characters/g11-1999-h-llvania.md#packet) | On-lyne のメンバー |  |
+| [Zeke](wiki/characters/g11-1999-h-llvania.md#zeke) | On-lyne のメンバー |  |
+| [Drippy](wiki/characters/g11-1999-h-llvania.md#drippy) | K.O.L.（Kinemantik Online）のアシスタント |  |
+| [Ollie](wiki/characters/g11-1999-h-llvania.md#ollie) | アーケードゲーム Ollie's Crash Course の主人公 | 1 クエスト |
 
 ## Duviri
 
-- [Dominus Thrax](https://wiki.warframe.com/w/Dominus_Thrax): Duviri の「狂王」
-- [Bombastine](https://wiki.warframe.com/w/Bombastine): Thrax の廷臣（The Covetous Courtier）
-- [Luscinia](https://wiki.warframe.com/w/Luscinia): Thrax の廷臣（The Sorrowful Soprano）
-- [Sythel](https://wiki.warframe.com/w/Sythel): Thrax の廷臣（The Fearful Conspirator）
-- [Lodun](https://wiki.warframe.com/w/Lodun): Duviri の処刑人（The Prince of Fire）
-- [Mathila](https://wiki.warframe.com/w/Mathila): いつも上機嫌な住人（The Harbinger of Joy）
-- [Acrithis](https://wiki.warframe.com/w/Acrithis): 記録係。「好奇心」の化身
-- [Barris](https://wiki.warframe.com/w/Barris): Tamm の世話係の少年。「苛立ち」の化身
-- [Brimon](https://wiki.warframe.com/w/Brimon): 自称最速の Kaithe 乗り。「高慢」の化身
-- [Koral](https://wiki.warframe.com/w/Koral): Conservation 担当の少女。「慈愛」の化身
-- [Pip](https://wiki.warframe.com/w/Pip): Shawzin 弾き。「孤独」の化身
-- [The Warden](https://wiki.warframe.com/w/The_Warden): Kullervo の看守
-- [The Vagabond](https://wiki.warframe.com/w/The_Vagabond): Duviri の各所に現れる謎の放浪者
-- [Rablit](https://wiki.warframe.com/w/Rablit): ウサギに似た生き物。Teshin も一匹飼っている
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Dominus Thrax](wiki/characters/g12-duviri.md#dominus-thrax) | Duviri の「狂王」 | 1 クエスト |
+| [Bombastine](wiki/characters/g12-duviri.md#bombastine) | Thrax の廷臣（The Covetous Courtier） | 1 クエスト |
+| [Luscinia](wiki/characters/g12-duviri.md#luscinia) | Thrax の廷臣（The Sorrowful Soprano） | 1 クエスト |
+| [Sythel](wiki/characters/g12-duviri.md#sythel) | Thrax の廷臣（The Fearful Conspirator） |  |
+| [Lodun](wiki/characters/g12-duviri.md#lodun) | Duviri の処刑人（The Prince of Fire） | 1 クエスト |
+| [Mathila](wiki/characters/g12-duviri.md#mathila) | いつも上機嫌な住人（The Harbinger of Joy） | 1 クエスト |
+| [Acrithis](wiki/characters/g12-duviri.md#acrithis) | 記録係。「好奇心」の化身 | 1 クエスト |
+| [Barris](wiki/characters/g12-duviri.md#barris) | Tamm の世話係の少年。「苛立ち」の化身 | 1 クエスト |
+| [Brimon](wiki/characters/g12-duviri.md#brimon) | 自称最速の Kaithe 乗り。「高慢」の化身 |  |
+| [Koral](wiki/characters/g12-duviri.md#koral) | Conservation 担当の少女。「慈愛」の化身 |  |
+| [Pip](wiki/characters/g12-duviri.md#pip) | Shawzin 弾き。「孤独」の化身 |  |
+| [The Warden](wiki/characters/g12-duviri.md#the-warden) | Kullervo の看守 |  |
+| [The Vagabond](wiki/characters/g12-duviri.md#the-vagabond) | Duviri の各所に現れる謎の放浪者 |  |
+| [Rablit](wiki/characters/g12-duviri.md#rablit) | ウサギに似た生き物。Teshin も一匹飼っている |  |
 
 ## 中立
 
-- [Darvo](https://wiki.warframe.com/w/Darvo): Darvo Bek。Frohd Bek の息子で商人
-- [Clem](https://wiki.warframe.com/w/Clem): Grineer からの離反者。Darvo の協力者
-- [Maroo](https://wiki.warframe.com/w/Maroo): Arcane Codices を探す盗賊
-- [Neewa](https://wiki.warframe.com/w/Neewa): The Glast Gambit に登場
-- [Nora Night](https://wiki.warframe.com/w/Nora_Night): 海賊ラジオ Nightwave の声
-- [Arcane Machine](https://wiki.warframe.com/w/Arcane_Machine): 出自不明の装置。The New Strange に登場
-- [Railjack Crew](https://wiki.warframe.com/w/Railjack/Crew): 雇える Railjack 乗組員
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Darvo](wiki/characters/g13.md#darvo) | Darvo Bek。Frohd Bek の息子で商人 | 44 クエスト |
+| [Clem](wiki/characters/g13.md#clem) | Grineer からの離反者。Darvo の協力者 |  |
+| [Maroo](wiki/characters/g13.md#maroo) | Arcane Codices を探す盗賊 | 1 クエスト |
+| [Neewa](wiki/characters/g13.md#neewa) | The Glast Gambit に登場 | 1 クエスト |
+| [Nora Night](wiki/characters/g13.md#nora-night) | 海賊ラジオ Nightwave の声 | 2 クエスト |
+| [Arcane Machine](wiki/characters/g13.md#arcane-machine) | 出自不明の装置。The New Strange に登場 |  |
+| [Railjack Crew](wiki/characters/g13.md#railjack-crew) | 雇える Railjack 乗組員 | 44 クエスト |
 
 ## シンジケートの顔役
 
-- [Cressa Tal](https://wiki.warframe.com/w/Cressa_Tal): Steel Meridian のリーダー
-- [Ergo Glast](https://wiki.warframe.com/w/Ergo_Glast): The Perrin Sequence のリーダー
-- [Amaryn](https://wiki.warframe.com/w/Amaryn): New Loka のリーダー
-- [Palladino](https://wiki.warframe.com/w/Palladino): Red Veil のメンバー。Chains of Harrow に登場
-- [Aspirant Zorba](https://wiki.warframe.com/w/Aspirant_Zorba): Arbiters of Hexis の商人
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Cressa Tal](wiki/characters/g14.md#cressa-tal) | Steel Meridian のリーダー |  |
+| [Ergo Glast](wiki/characters/g14.md#ergo-glast) | The Perrin Sequence のリーダー | 1 クエスト |
+| [Amaryn](wiki/characters/g14.md#amaryn) | New Loka のリーダー | 1 クエスト |
+| [Palladino](wiki/characters/g14.md#palladino) | Red Veil のメンバー。Chains of Harrow に登場 | 1 クエスト |
+| [Aspirant Zorba](wiki/characters/g14.md#aspirant-zorba) | Arbiters of Hexis の商人 |  |
 
 ## Cetus・Ostron
 
-- [Konzu](https://wiki.warframe.com/w/Konzu): Cetus の長老
-- [Onkko](https://wiki.warframe.com/w/Onkko): 元 Ostron の歴史家。The Quills の窓口
-- [Saya](https://wiki.warframe.com/w/Saya): Onkko の妻
-- [Nakak](https://wiki.warframe.com/w/Nakak): 仮面屋の若い店主
-- [Hok](https://wiki.warframe.com/w/Hok): 鍛冶屋
-- [Old Man Suumbaat](https://wiki.warframe.com/w/Old_Man_Suumbaat): 老いた鉱夫
-- [Fisher Hai-Luk](https://wiki.warframe.com/w/Fisher_Hai-Luk): 漁師
-- [Master Teasonai](https://wiki.warframe.com/w/Master_Teasonai): 動物使い
-- [Horrek](https://wiki.warframe.com/w/Horrek): Kahl-175 を支える料理人
-- [Hinmun](https://wiki.warframe.com/w/Hinmun): Konzu の叔父の商人
-- [Mukha](https://wiki.warframe.com/w/Mukha): Nakak のいとこ
-- [Shigg](https://wiki.warframe.com/w/Shigg): 小悪党。Nightwave: Series 3 で登場
-- [Shigg's Friend](https://wiki.warframe.com/w/Shigg%27s_Friend): Shigg の友人
-- [Mer-Sah](https://wiki.warframe.com/w/Mer-Sah): Ostron の民話の人物
-- [Er-Phryah](https://wiki.warframe.com/w/Er-Phryah): Ostron の民話（Tale of the Woman of the Earth…）の人物
-- [Koumei's Shrine](https://wiki.warframe.com/w/Koumei%27s_Shrine): Warframe Koumei を祀る祠
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Konzu](wiki/characters/g15-cetus-ostron.md#konzu) | Cetus の長老 | 3 クエスト |
+| [Onkko](wiki/characters/g15-cetus-ostron.md#onkko) | 元 Ostron の歴史家。The Quills の窓口 | 2 クエスト |
+| [Saya](wiki/characters/g15-cetus-ostron.md#saya) | Onkko の妻 | 1 クエスト |
+| [Nakak](wiki/characters/g15-cetus-ostron.md#nakak) | 仮面屋の若い店主 | 1 クエスト |
+| [Hok](wiki/characters/g15-cetus-ostron.md#hok) | 鍛冶屋 |  |
+| [Old Man Suumbaat](wiki/characters/g15-cetus-ostron.md#old-man-suumbaat) | 老いた鉱夫 |  |
+| [Fisher Hai-Luk](wiki/characters/g15-cetus-ostron.md#fisher-hai-luk) | 漁師 | 1 クエスト |
+| [Master Teasonai](wiki/characters/g15-cetus-ostron.md#master-teasonai) | 動物使い | 1 クエスト |
+| [Horrek](wiki/characters/g15-cetus-ostron.md#horrek) | Kahl-175 を支える料理人 |  |
+| [Hinmun](wiki/characters/g15-cetus-ostron.md#hinmun) | Konzu の叔父の商人 |  |
+| [Mukha](wiki/characters/g15-cetus-ostron.md#mukha) | Nakak のいとこ | 1 クエスト |
+| [Shigg](wiki/characters/g15-cetus-ostron.md#shigg) | 小悪党。Nightwave: Series 3 で登場 |  |
+| [Shigg's Friend](wiki/characters/g15-cetus-ostron.md#shigg-s-friend) | Shigg の友人 |  |
+| [Mer-Sah](wiki/characters/g15-cetus-ostron.md#mer-sah) | Ostron の民話の人物 |  |
+| [Er-Phryah](wiki/characters/g15-cetus-ostron.md#er-phryah) | Ostron の民話（Tale of the Woman of the Earth…）の人物 |  |
+| [Koumei's Shrine](wiki/characters/g15-cetus-ostron.md#koumei-s-shrine) | Warframe Koumei を祀る祠 |  |
 
 ## Fortuna・Solaris
 
-- [Eudico](https://wiki.warframe.com/w/Eudico): Solaris United のリーダー。Nef Anyo の「忠実な」フロアボス
-- [Vox](https://wiki.warframe.com/w/Vox): Vox Solaris。Eudico の別の顔
-- [The Business](https://wiki.warframe.com/w/The_Business): 漁具を売る自然保護家
-- [Legs](https://wiki.warframe.com/w/Legs): MOA の部品屋
-- [Rude Zuud](https://wiki.warframe.com/w/Rude_Zuud): Kitgun 職人
-- [Smokefinger](https://wiki.warframe.com/w/Smokefinger): 採掘と鉱物の専門家
-- [Ticker](https://wiki.warframe.com/w/Ticker): Solaris の借金返済を仲介
-- [Volan](https://wiki.warframe.com/w/Volan): Ticker の元恋人
-- [Nightcap](https://wiki.warframe.com/w/Nightcap): Deepmines を調べる Solaris
-- [The Prince](https://wiki.warframe.com/w/The_Prince): Nightcap が育てているキノコ
-- [Sprodling](https://wiki.warframe.com/w/Sprodling): Deepmines にいる小さなキノコ
-- [Roky](https://wiki.warframe.com/w/Roky): Ventkids の Vent Pobbers のリーダー
-- [Boon](https://wiki.warframe.com/w/Boon): Ventkids の Kubrodons のリーダー
-- [Chipper](https://wiki.warframe.com/w/Chipper): Narmer に捕まった Solaris の労働者
-- [Solaris United Agent](https://wiki.warframe.com/w/Solaris_United_Agent): Orb Vallis で依頼を出す人員
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Eudico](wiki/characters/g16-fortuna-solaris.md#eudico) | Solaris United のリーダー。Nef Anyo の「忠実な」フロアボス | 3 クエスト |
+| [Vox](wiki/characters/g16-fortuna-solaris.md#vox) | Vox Solaris。Eudico の別の顔 | 1 クエスト |
+| [The Business](wiki/characters/g16-fortuna-solaris.md#the-business) | 漁具を売る自然保護家 | 1 クエスト |
+| [Legs](wiki/characters/g16-fortuna-solaris.md#legs) | MOA の部品屋 | 1 クエスト |
+| [Rude Zuud](wiki/characters/g16-fortuna-solaris.md#rude-zuud) | Kitgun 職人 |  |
+| [Smokefinger](wiki/characters/g16-fortuna-solaris.md#smokefinger) | 採掘と鉱物の専門家 | 1 クエスト |
+| [Ticker](wiki/characters/g16-fortuna-solaris.md#ticker) | Solaris の借金返済を仲介 |  |
+| [Volan](wiki/characters/g16-fortuna-solaris.md#volan) | Ticker の元恋人 |  |
+| [Nightcap](wiki/characters/g16-fortuna-solaris.md#nightcap) | Deepmines を調べる Solaris |  |
+| [The Prince](wiki/characters/g16-fortuna-solaris.md#the-prince) | Nightcap が育てているキノコ |  |
+| [Sprodling](wiki/characters/g16-fortuna-solaris.md#sprodling) | Deepmines にいる小さなキノコ |  |
+| [Roky](wiki/characters/g16-fortuna-solaris.md#roky) | Ventkids の Vent Pobbers のリーダー |  |
+| [Boon](wiki/characters/g16-fortuna-solaris.md#boon) | Ventkids の Kubrodons のリーダー |  |
+| [Chipper](wiki/characters/g16-fortuna-solaris.md#chipper) | Narmer に捕まった Solaris の労働者 |  |
+| [Solaris United Agent](wiki/characters/g16-fortuna-solaris.md#solaris-united-agent) | Orb Vallis で依頼を出す人員 | 44 クエスト |
 
 ## Deimos・Entrati・Cavia
 
-- [Mother](https://wiki.warframe.com/w/Mother): Entrati 家の家長
-- [Father](https://wiki.warframe.com/w/Father): Entrati 家の父。技術者
-- [Son](https://wiki.warframe.com/w/Son): Entrati 家の息子。研究者・生物学者
-- [Daughter](https://wiki.warframe.com/w/Daughter): Entrati 家の娘
-- [Grandmother](https://wiki.warframe.com/w/Grandmother): Entrati 家の祖母
-- [Gerivaine](https://wiki.warframe.com/w/Gerivaine): Albrecht の亡き妻。Euleria（Mother）の実母
-- [Kalymos](https://wiki.warframe.com/w/Kalymos): Albrecht の Kavat
-- [Loid](https://wiki.warframe.com/w/Loid): Necraloid の代表
-- [Loid（人間時代）](https://wiki.warframe.com/w/Loid_(Original)): Albrecht に仕えた人間
-- [Fibonacci](https://wiki.warframe.com/w/Fibonacci): Cavia のリーダー
-- [Bird 3](https://wiki.warframe.com/w/Bird_3): Cavia のメンバー
-- [Tagfer](https://wiki.warframe.com/w/Tagfer): Cavia のメンバー
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Mother](wiki/characters/g17-deimos-entrati-cavia.md#mother) | Entrati 家の家長 |  |
+| [Father](wiki/characters/g17-deimos-entrati-cavia.md#father) | Entrati 家の父。技術者 |  |
+| [Son](wiki/characters/g17-deimos-entrati-cavia.md#son) | Entrati 家の息子。研究者・生物学者 |  |
+| [Daughter](wiki/characters/g17-deimos-entrati-cavia.md#daughter) | Entrati 家の娘 |  |
+| [Grandmother](wiki/characters/g17-deimos-entrati-cavia.md#grandmother) | Entrati 家の祖母 |  |
+| [Gerivaine](wiki/characters/g17-deimos-entrati-cavia.md#gerivaine) | Albrecht の亡き妻。Euleria（Mother）の実母 |  |
+| [Kalymos](wiki/characters/g17-deimos-entrati-cavia.md#kalymos) | Albrecht の Kavat |  |
+| [Loid](wiki/characters/g17-deimos-entrati-cavia.md#loid) | Necraloid の代表 | 1 クエスト |
+| [Loid（人間時代）](wiki/characters/g17-deimos-entrati-cavia.md#loid-3) | Albrecht に仕えた人間 | 1 クエスト |
+| [Fibonacci](wiki/characters/g17-deimos-entrati-cavia.md#fibonacci) | Cavia のリーダー | 1 クエスト |
+| [Bird 3](wiki/characters/g17-deimos-entrati-cavia.md#bird-3) | Cavia のメンバー | 1 クエスト |
+| [Tagfer](wiki/characters/g17-deimos-entrati-cavia.md#tagfer) | Cavia のメンバー | 2 クエスト |
 
 ## Kahl's Garrison
 
-- [Jarka Lar](https://wiki.warframe.com/w/Jarka_Lar): Kahl-175 を支える Grineer の Ballista
-- [Olvar D](https://wiki.warframe.com/w/Olvar_D): Kahl-175 を支える Corpus の乗組員
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Jarka Lar](wiki/characters/g18-kahl-s-garrison.md#jarka-lar) | Kahl-175 を支える Grineer の Ballista |  |
+| [Olvar D](wiki/characters/g18-kahl-s-garrison.md#olvar-d) | Kahl-175 を支える Corpus の乗組員 |  |
 
 ## 外伝・イベント初出
 
-- [Mitsuki](https://wiki.warframe.com/w/Mitsuki): コミック WARFRAME: Ghouls に登場する盲目の Ostron の少女
-- [Little Duck](https://wiki.warframe.com/w/Little_Duck): WARFRAME: Ghouls で登場した Solaris United の工作員。Vox Solaris の窓口
-- [Arlo](https://wiki.warframe.com/w/Arlo): Nightwave: Series 2 で登場
-- [Kenga](https://wiki.warframe.com/w/Kenga): Nightwave: Series 2 で登場。Infested に感染し Arlo に治された
-- [Bak Vondu](https://wiki.warframe.com/w/Bak_Vondu): Nightwave: Series 3 で登場した Corpus の技術者
-- [Cutter](https://wiki.warframe.com/w/Cutter_(Character)): Nightwave: Series 3 で登場。Solaris に化けた Corpus の内通者
-- [Gral](https://wiki.warframe.com/w/Gral): Nightwave: Series 3 で登場した退役 Grineer
-- [Fidelia Scorse](https://wiki.warframe.com/w/Fidelia_Scorse): Transcriptions of Unauthorized Broadcasts（Nightwave）に登場
-- [Gharn](https://wiki.warframe.com/w/Gharn): Saturn Six の看守
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Mitsuki](wiki/characters/g19.md#mitsuki) | コミック WARFRAME: Ghouls に登場する盲目の Ostron の少女 |  |
+| [Little Duck](wiki/characters/g19.md#little-duck) | WARFRAME: Ghouls で登場した Solaris United の工作員。Vox Solaris の窓口 | 6 クエスト |
+| [Arlo](wiki/characters/g19.md#arlo) | Nightwave: Series 2 で登場 |  |
+| [Kenga](wiki/characters/g19.md#kenga) | Nightwave: Series 2 で登場。Infested に感染し Arlo に治された |  |
+| [Bak Vondu](wiki/characters/g19.md#bak-vondu) | Nightwave: Series 3 で登場した Corpus の技術者 |  |
+| [Cutter](wiki/characters/g19.md#cutter) | Nightwave: Series 3 で登場。Solaris に化けた Corpus の内通者 |  |
+| [Gral](wiki/characters/g19.md#gral) | Nightwave: Series 3 で登場した退役 Grineer |  |
+| [Fidelia Scorse](wiki/characters/g19.md#fidelia-scorse) | Transcriptions of Unauthorized Broadcasts（Nightwave）に登場 |  |
+| [Gharn](wiki/characters/g19.md#gharn) | Saturn Six の看守 |  |
 
 ## 名前だけ出てくる人物
 
-- [Dax Menz](https://wiki.warframe.com/w/Dax_Menz): Orokin 側の人物。Wiki にも説明がほとんどない
-- [Dom De Nas](https://wiki.warframe.com/w/Dom_De_Nas): Orokin 側の人物。Wiki にも説明がほとんどない
-- [Leo De Nas](https://wiki.warframe.com/w/Leo_De_Nas): Wiki にも説明がほとんどない
-- [Pilio De Nas](https://wiki.warframe.com/w/Pilio_De_Nas): Scoria の一員
-- [Historian Porvis](https://wiki.warframe.com/w/Historian_Porvis): Orokin の歴史家。Leverian の記録に名前が出る
-- [Lorist Ontella](https://wiki.warframe.com/w/Lorist_Ontella): Orokin の Lorist。Wiki にも説明がほとんどない
-- [Haigos](https://wiki.warframe.com/w/Haigos): Wiki にも説明がほとんどない
-- [Alarez](https://wiki.warframe.com/w/Alarez): Guardsman の Synthesis に出てくる
-- [Bilsa](https://wiki.warframe.com/w/Bilsa): Arid Eviscerator と Guardsman の Synthesis に出てくる
-- [Veytok](https://wiki.warframe.com/w/Veytok): Grineer。Executor Avantus と Alarez を殺した
-- [Corphel & Irilia](https://wiki.warframe.com/w/Corphel_%26_Irilia): Orokin の夫婦
-- [Davis](https://wiki.warframe.com/w/Davis): Rhino Prime の Codex に出てくる
-- [Kaleen](https://wiki.warframe.com/w/Kaleen): Ember Prime の Codex に出てくる
-- [Valeria](https://wiki.warframe.com/w/Valeria): Teshin が語る人物。亡くなった恋人と思われる
-- [Dr. Tengus](https://wiki.warframe.com/w/Dr._Tengus): Grineer の科学者。Grustrag 再調整施設の所長
-- [Dr. Intehb](https://wiki.warframe.com/w/Dr._Intehb): Howl of the Kubrow で名前が出る
-- [Sergeant Zek](https://wiki.warframe.com/w/Sergeant_Zek): Cephalon Cordylon の記録に出てくる Grineer
-- [Sigor Savah](https://wiki.warframe.com/w/Sigor_Savah): Khora の Kavat を見つけて Corpus を離反した研究者
-- [Zyl](https://wiki.warframe.com/w/Zyl): Sigor Savah の処刑を任された Corpus の技術者
-- [The Philanthropist](https://wiki.warframe.com/w/The_Philanthropist): 地球に隠れ家を作った Corpus の離反者
-- [Cephalon Acetuma](https://wiki.warframe.com/w/Cephalon_Acetuma): Cephalon Melica が言及
-- [Cephalon Cordylon](https://wiki.warframe.com/w/Cephalon_Cordylon): コミュニティで知られる Cephalon
-- [Cephalon Samodeus](https://wiki.warframe.com/w/Cephalon_Samodeus): 全ての Mod を作ったとされる Cephalon
-- [Jubb Lott](https://wiki.warframe.com/w/Little_Duck/Quotes): Little Duck の Fortuna Fragments に出てくる（台詞集にリンク）
-- [Pratoo](https://wiki.warframe.com/w/Pratoo): Little Duck の Fortuna Fragments に出てくる Quill
-- [Aria / Darro](https://wiki.warframe.com/w/Styanax): Styanax の伝承に出てくる（Styanax のページにリンク）
-- [Cantis](https://wiki.warframe.com/w/Red_Veil): Red Veil の Trivia に出てくる（Red Veil のページにリンク）
-- [Olemedi](https://wiki.warframe.com/w/Kuria): Kuria の Trivia に出てくる（Kuria のページにリンク）
-- [Sembik Vol / Ur-Hatho](https://wiki.warframe.com/w/Venato_Prime): Venato Prime の説明文に出てくる
-- [Archimedean Perintol](https://wiki.warframe.com/w/Archimedean): Archimedean のページにリンク
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Dax Menz](wiki/characters/g20.md#dax-menz) | Orokin 側の人物。Wiki にも説明がほとんどない |  |
+| [Dom De Nas](wiki/characters/g20.md#dom-de-nas) | Orokin 側の人物。Wiki にも説明がほとんどない |  |
+| [Leo De Nas](wiki/characters/g20.md#leo-de-nas) | Wiki にも説明がほとんどない |  |
+| [Pilio De Nas](wiki/characters/g20.md#pilio-de-nas) | Scoria の一員 |  |
+| [Historian Porvis](wiki/characters/g20.md#historian-porvis) | Orokin の歴史家。Leverian の記録に名前が出る |  |
+| [Lorist Ontella](wiki/characters/g20.md#lorist-ontella) | Orokin の Lorist。Wiki にも説明がほとんどない |  |
+| [Haigos](wiki/characters/g20.md#haigos) | Wiki にも説明がほとんどない |  |
+| [Alarez](wiki/characters/g20.md#alarez) | Guardsman の Synthesis に出てくる |  |
+| [Bilsa](wiki/characters/g20.md#bilsa) | Arid Eviscerator と Guardsman の Synthesis に出てくる |  |
+| [Veytok](wiki/characters/g20.md#veytok) | Grineer。Executor Avantus と Alarez を殺した |  |
+| [Corphel & Irilia](wiki/characters/g20.md#corphel-irilia) | Orokin の夫婦 |  |
+| [Davis](wiki/characters/g20.md#davis) | Rhino Prime の Codex に出てくる |  |
+| [Kaleen](wiki/characters/g20.md#kaleen) | Ember Prime の Codex に出てくる |  |
+| [Valeria](wiki/characters/g20.md#valeria) | Teshin が語る人物。亡くなった恋人と思われる |  |
+| [Dr. Tengus](wiki/characters/g20.md#dr-tengus) | Grineer の科学者。Grustrag 再調整施設の所長 | 1 クエスト |
+| [Dr. Intehb](wiki/characters/g20.md#dr-intehb) | Howl of the Kubrow で名前が出る |  |
+| [Sergeant Zek](wiki/characters/g20.md#sergeant-zek) | Cephalon Cordylon の記録に出てくる Grineer |  |
+| [Sigor Savah](wiki/characters/g20.md#sigor-savah) | Khora の Kavat を見つけて Corpus を離反した研究者 |  |
+| [Zyl](wiki/characters/g20.md#zyl) | Sigor Savah の処刑を任された Corpus の技術者 |  |
+| [The Philanthropist](wiki/characters/g20.md#the-philanthropist) | 地球に隠れ家を作った Corpus の離反者 |  |
+| [Cephalon Acetuma](wiki/characters/g20.md#cephalon-acetuma) | Cephalon Melica が言及 |  |
+| [Cephalon Cordylon](wiki/characters/g20.md#cephalon-cordylon) | コミュニティで知られる Cephalon |  |
+| [Cephalon Samodeus](wiki/characters/g20.md#cephalon-samodeus) | 全ての Mod を作ったとされる Cephalon |  |
+| [Jubb Lott](wiki/characters/g20.md#jubb-lott) | Little Duck の Fortuna Fragments に出てくる（台詞集にリンク） |  |
+| [Pratoo](wiki/characters/g20.md#pratoo) | Little Duck の Fortuna Fragments に出てくる Quill |  |
+| [Aria / Darro](wiki/characters/g20.md#aria-darro) | Styanax の伝承に出てくる（Styanax のページにリンク） |  |
+| [Cantis](wiki/characters/g20.md#cantis) | Red Veil の Trivia に出てくる（Red Veil のページにリンク） |  |
+| [Olemedi](wiki/characters/g20.md#olemedi) | Kuria の Trivia に出てくる（Kuria のページにリンク） |  |
+| [Sembik Vol / Ur-Hatho](wiki/characters/g20.md#sembik-vol-ur-hatho) | Venato Prime の説明文に出てくる |  |
+| [Archimedean Perintol](wiki/characters/g20.md#archimedean-perintol) | Archimedean のページにリンク | 4 クエスト |
 
 ## Duviri の故人・墓碑
 
-- [Caxa](https://wiki.warframe.com/w/Caxa): 彫刻家
-- [Fergin](https://wiki.warframe.com/w/Fergin): Lonesome Outlook の端に komi 台が残る
-- [Garmi](https://wiki.warframe.com/w/Garmi): Mathila の夫。本人は覚えていない
-- [Govio](https://wiki.warframe.com/w/Govio): Hollow Children に殺された
-- [Jinn](https://wiki.warframe.com/w/Jinn): Inversion Tree の幻視で狂い、亡くなった
-- [Leem](https://wiki.warframe.com/w/Leem): Lost Islands の一つ Necropolis の看守
-- [Mother Opa](https://wiki.warframe.com/w/Mother_Opa): 商人姉妹 Calaventi の一員
-- [Pol](https://wiki.warframe.com/w/Pol): Titan's Rest に墓がある
-- [Qig](https://wiki.warframe.com/w/Qig): 墓碑によれば泥棒
-- [Roon](https://wiki.warframe.com/w/Roon): Scholar's Landing とともに消えた
-- [Ula](https://wiki.warframe.com/w/Ula): Lake Verula に関わる住人
-- [Vana](https://wiki.warframe.com/w/Vana): Titan's Rest に墓があるが、そこには埋葬されていない
-- [Velkk](https://wiki.warframe.com/w/Velkk): Titan's Rest に墓がある
-- [Yimi](https://wiki.warframe.com/w/Yimi): Duviri の住人
+| 名前 | 概要 | 登場 |
+| --- | --- | --- |
+| [Caxa](wiki/characters/g21-duviri.md#caxa) | 彫刻家 |  |
+| [Fergin](wiki/characters/g21-duviri.md#fergin) | Lonesome Outlook の端に komi 台が残る |  |
+| [Garmi](wiki/characters/g21-duviri.md#garmi) | Mathila の夫。本人は覚えていない |  |
+| [Govio](wiki/characters/g21-duviri.md#govio) | Hollow Children に殺された |  |
+| [Jinn](wiki/characters/g21-duviri.md#jinn) | Inversion Tree の幻視で狂い、亡くなった |  |
+| [Leem](wiki/characters/g21-duviri.md#leem) | Lost Islands の一つ Necropolis の看守 |  |
+| [Mother Opa](wiki/characters/g21-duviri.md#mother-opa) | 商人姉妹 Calaventi の一員 |  |
+| [Pol](wiki/characters/g21-duviri.md#pol) | Titan's Rest に墓がある |  |
+| [Qig](wiki/characters/g21-duviri.md#qig) | 墓碑によれば泥棒 |  |
+| [Roon](wiki/characters/g21-duviri.md#roon) | Scholar's Landing とともに消えた |  |
+| [Ula](wiki/characters/g21-duviri.md#ula) | Lake Verula に関わる住人 |  |
+| [Vana](wiki/characters/g21-duviri.md#vana) | Titan's Rest に墓があるが、そこには埋葬されていない |  |
+| [Velkk](wiki/characters/g21-duviri.md#velkk) | Titan's Rest に墓がある |  |
+| [Yimi](wiki/characters/g21-duviri.md#yimi) | Duviri の住人 |  |
