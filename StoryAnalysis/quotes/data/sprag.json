@@ -1,0 +1,19 @@
+{
+ "key": "sprag",
+ "title": "Sprag/Quotes",
+ "url": "https://wiki.warframe.com/w/Sprag/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "sprag",
+  "name": "Sprag",
+  "page": "Sprag"
+ },
+ "count": 14,
+ "idle": 0,
+ "sections": [
+  {"path": ["Quotes", "Arriving to Battle"], "idle": false, "lines": [["- Sprag: \"Big mistake! Big mistake!\"", "DIntro011Sprag_en.ogg"], ["- Sprag: \"More bugs! More shiny bugs!\"", "DIntro021Sprag_en.ogg"]]},
+  {"path": ["Quotes", "Taunts"], "idle": false, "lines": [["**General**", null], ["- Sprag: \"Hammer flatten shiny bugs.\"", "DTauntsPaired030Sprag_en.ogg"], ["- Sprag: \"Flat, flat, flat... I make shiny bugs flat.\"", "DTauntsPaired040Sprag_en.ogg"], ["- Sprag: \"I make shiny bugs flat. NOW!\"", "DTauntsPaired050Sprag_en.ogg"], ["- Sprag: \"Make them all flat. FLAT FLAT FLAT!\"", "DTauntsPaired060Sprag_en.ogg"], ["**After Ven'Kra Tel is defeated**", null], ["- Sprag: \"Too many shiny bugs. I kill them.\"", "DTauntsSolo150Sprag_en.ogg"], ["- Sprag: \"My key, not your key.\"", "DTauntsSolo160Sprag_en.ogg"]]},
+  {"path": ["Quotes", "When Ven'Kra Tel is Defeated First"], "idle": false, "lines": [["- Sprag: \"Wake up... Ven'Kra, wake up!\"", "DVenkraKilled210Sprag_en.ogg"], ["- Sprag: \"Nooo... No... No!\"", "DVenkraKilled220Sprag_en.ogg"]]},
+  {"path": ["Quotes", "After Killing Tenno"], "idle": false, "lines": [["- Sprag: \"You are flat now.\"", "DTennoDown170Sprag_en.ogg"], ["- Sprag: \"More dead bugs, yes.\"", "DTennoDown181Sprag_en.ogg"]]}
+ ]
+}

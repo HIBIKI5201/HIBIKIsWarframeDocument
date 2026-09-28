@@ -1,0 +1,23 @@
+{
+ "key": "clem",
+ "title": "Clem/Quotes",
+ "url": "https://wiki.warframe.com/w/Clem/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "clem",
+  "name": "Clem",
+  "page": "Clem"
+ },
+ "count": 8,
+ "idle": 0,
+ "sections": [
+  {"path": ["During A Man of Few Words", "Being Rescued from the Prison"], "idle": false, "lines": [["- \"Clem!\"", "DGCRescue100Clem_en.ogg"]]},
+  {"path": ["During A Man of Few Words", "Being Told to Follow the Tenno"], "idle": false, "lines": [["- \"Mm-hmm, clem.\"", "DGCRescue120Clem_en.ogg"]]},
+  {"path": ["During A Man of Few Words", "Asking Where His Grakatas Are"], "idle": false, "lines": [["- \"Grakata? Grakata?!\"", "DGCRescue130Clem_en.ogg"]]},
+  {"path": ["During A Man of Few Words", "Being Told His Grakatas Are Missing"], "idle": false, "lines": [["- \"Grakata...\"", "DGCRescue150Clem_en.ogg"]]},
+  {"path": ["During A Man of Few Words", "When Downed"], "idle": false, "lines": [["- \"Clem, clem, clem!\"", "DGCRescue070Clem_en.ogg"]]},
+  {"path": ["During A Man of Few Words", "Reclaiming His Grakatas"], "idle": false, "lines": [["- \"Ch-chk. Clem. Grakata.\"", "DGCRetrival220Clem_en.ogg"]]},
+  {"path": ["During A Man of Few Words", "When Asked if Those Grakatas Are His"], "idle": false, "lines": [["- \"Clem.\"", "DGCRetrival240Clem_en.ogg"]]},
+  {"path": ["During A Man of Few Words", "Agreeing with Darvo"], "idle": false, "lines": [["- \"Hmm, clem.\"", "DGCSuvival470Clem_en.ogg"]]}
+ ]
+}

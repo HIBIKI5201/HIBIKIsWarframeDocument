@@ -1,0 +1,14 @@
+{
+ "key": "ghoul-auger",
+ "title": "Ghoul Auger/Quotes",
+ "url": "https://wiki.warframe.com/w/Ghoul_Auger/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 21,
+ "idle": 6,
+ "sections": [
+  {"path": ["Idle"], "idle": true, "lines": [["- Ghoul Auger: \"\" - \"\"", "BbIdleGrinGhoulSarge00200_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbIdleGrinGhoulSarge00210_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbIdleGrinGhoulSarge00220_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbIdleGrinGhoulSarge00230_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbIdleGrinGhoulSarge00240_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbIdleGrinGhoulSarge00241_en.ogg"]]},
+  {"path": ["Player Spotted"], "idle": false, "lines": [["- Ghoul Auger: \"Orre klegre!\" - \"Over there!\"", "BbPlayerSpottedGrinGhoulSarge00400_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbPlayerSpottedGrinGhoulSarge00410_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbPlayerSpottedGrinGhoulSarge00420_en.ogg"], ["- Ghoul Auger: \"Spotter!\" - \"Spotted!\"", "BbPlayerSpottedGrinGhoulSarge00430_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbPlayerSpottedGrinGhoulSarge00440_en.ogg"]]},
+  {"path": ["Attacking"], "idle": false, "lines": [["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00300_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00310_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00320_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00330_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00340_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00350_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00360_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00370_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00380_en.ogg"], ["- Ghoul Auger: \"\" - \"\"", "BbAttackGrinGhoulSarge00390_en.ogg"]]}
+ ]
+}

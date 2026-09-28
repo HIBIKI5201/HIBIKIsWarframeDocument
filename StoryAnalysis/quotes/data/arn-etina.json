@@ -1,0 +1,17 @@
+{
+ "key": "arn-etina",
+ "title": "Arn Etina/Quotes",
+ "url": "https://wiki.warframe.com/w/Arn_Etina/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "arn-etina",
+  "name": "Arn Etina",
+  "page": "Arn Etina"
+ },
+ "count": 14,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Tranmissions during the boss fight.", null]]},
+  {"path": ["During an Assassination Mission", "Lotus Transmissions"], "idle": false, "lines": [["**Mission start**", null], ["- Lotus: \"Corpus Artifact Analyst, Arn Etina is responsible for reverse engineering Orokin weapons. His breakthroughs are mass produced and sold to the Grineer. Eliminate him to give the Tenno an edge in battle.\"", null], ["- Lotus: \"Etina has made quantum leaps in his work as of late. If left to his own devices, there is no telling what secrets may be unlocked. Eliminating him is imperative.\"", null], ["- Lotus: \"The Corpus have a large security force protecting Etina and his research. Getting to him will not be easy.\"", null], ["- Lotus: \"You are nearing Etina's location. It is likely he will be heavily armed.\"", null], ["**During mission**", null], ["- Lotus: \"If left to his own devices, there is no telling what secrets Etina may unlock. Eliminating him is our only option.\"", null], ["- Lotus: \"The Corpus have a large security force protecting Etina and his research. Stay the course.\"", null], ["- Lotus: \"You are nearing Etina's location. It is likely he will be heavily armed with his own discoveries.\"", null], ["- Lotus: \"Eliminating Etina will temporarily impede weapons research. This will buy our spy cells much needed time.\"", null], ["- Lotus: \"Etina is notoriously protective of his research. Eliminating will silence his work forever.\"", null], ["**Assassination complete**", null], ["- Lotus: \"The death of Arn Etina means the Corpus mineral pipeline has been severed. Robotics production will be disrupted for weeks.\"", null]]}
+ ]
+}

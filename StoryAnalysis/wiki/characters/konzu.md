@@ -14,6 +14,7 @@ Cetus の長老
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Konzu/Quotes](../../quotes/konzu.md)（56 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Konzu)（英語・出典） / [全文検索](../../search.html?q=Konzu)
 

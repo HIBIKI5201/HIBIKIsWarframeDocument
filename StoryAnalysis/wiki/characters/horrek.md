@@ -15,6 +15,7 @@ Kahl-175 を支える料理人
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Horrek/Quotes](../../quotes/horrek.md)（16 行、うち独り言など 16 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Horrek)（英語・出典） / [全文検索](../../search.html?q=Horrek)
 

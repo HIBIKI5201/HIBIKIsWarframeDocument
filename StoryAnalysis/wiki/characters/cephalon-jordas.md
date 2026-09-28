@@ -14,6 +14,7 @@ Corpus の Cephalon。The Jordas Precept で初登場
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Cephalon Jordas/Quotes](../../quotes/cephalon-jordas.md)（53 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Jordas)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Jordas)
 

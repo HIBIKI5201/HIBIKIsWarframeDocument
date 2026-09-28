@@ -12,6 +12,7 @@ Steel Meridian のリーダー
 
 - グループ: [シンジケートの顔役](g14.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Cressa Tal/Quotes](../../quotes/cressa-tal.md)（76 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cressa_Tal)（英語・出典） / [全文検索](../../search.html?q=Cressa%20Tal)
 

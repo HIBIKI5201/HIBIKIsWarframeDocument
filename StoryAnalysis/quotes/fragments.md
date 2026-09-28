@@ -1,0 +1,1116 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Fragments
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Fragments」](https://wiki.warframe.com/w/Fragments)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+1040 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- Fragments are pieces of hidden items throughout the Origin System that can be found to unlock written and audiovisual lore that flesh out the setting of WARFRAME.
+
+## Mechanics
+
+- Most Fragments can be scanned with either a Codex or Synthesis Scanner, which will unlock artwork that can be found under the Universe tab of the Codex. The images unlocked with each Fragment can be used as decoration aboard the Orbiter, and will also have accompanying lore relating to the image.
+- Additionally, there is also a hidden point on each image that when hovered-over with the cursor will unlock a short audio transmission, which will narrate additional lore. An audio clue will help identify this point in the form of white noise, which becomes louder as the cursor is moved closer to the point.
+- Other types of Fragments only require players to interact with them (default X ) to acquire them.
+
+## Fragments
+
+- These Fragments are ordered by their release date.
+
+### Cephalon Fragments
+
+- This section is transcluded from Fragments/Cephalon. To change it, please edit the transcluded page.
+- Cephalon Fragments are fragments of data found all around the Origin system, usually hidden in rooms during missions, visualized as hovering blue data blocks. With the exception of the Kuva Fortress, each navigable planet, moon, or location (including the Void and Deimos) in the Origin System will have from two to three unlockable fragments, each requiring between 3 and 7 scans to complete.
+- During missions, the Cephalon Fragment will appear on the mini-map as a blue quadruple diamond if the players are using loot radar mods. Scanning a fragment will unlock a portion of the associated artwork. Cephalon Fragments may be found up to once per mission and will spawn in a random place of the map on most missions, with the exception of Defense, Interception, and Archwing missions which will never contain a fragment. They reveal info about various aspects of the Origin System, such as Factions, Characters, and Planets.
+- Decrypting these fragments reveals Ordis' Past, narrated by Ordis.
+- View Cephalon Fragments List▾▾
+- Earth
+- Planet/Region / Scans Required
+- Earth / 3
+- Fragment Lore / Earth has been long abandoned due to its toxic atmosphere. It is now overgrown with mutated jungle structures that have devoured most of the prior signs of civilization. Infestation and roaming wildlife still inhabit its surface but anything of value was stripped by scavengers generations ago.
+- Ordis Transmission / [1] I have hidden the truth of my existence... from the Operator... from myself. Take it from me, knowing is hell. Stop now. You will want to laugh, you will want to scream. [音声](https://wiki.warframe.com/w/File:DMemoryOne0010Ordis_en.ogg)
+- Wildlife
+- Planet/Region / Scans Required
+- Earth / 3
+- Fragment Lore / Most of the wildlife observed today can be traced back to creatures of Earth. In the Orokin Age, organic manipulation was used to modify earth lifeforms to a purpose: war, agriculture, pets. Long after their Orokin masters perished, some of these species managed to survive through adaptation, and can be found roaming in natural environments.
+- Ordis Transmission / [2] My search began as the essential question: What am I? Bones of steel and space, lungs that make air. If I am a machine, how can I think? This would be forbidden by the Orokin, a manifestation of their true enemy. [音声](https://wiki.warframe.com/w/File:DMemoryOne0020Ordis_en.ogg)
+- Earth Settlements
+- Planet/Region / Scans Required
+- Earth / 3
+- Fragment Lore / Like most living organisms, the Grineer require water to survive. Beneath Earth's towering forest canopy are rich reserves of fresh water that the Grineer have fought hard to maintain for many years. Evidence of their long-standing occupation is found among their many outposts that have been taken hold by giant roots, moss, and other layers of vegetation over time.
+- Ordis Transmission / [3] I serve the Operator above all else. It defines me, fills me with... love? The greatest Orokin fear is a machine... aware. Yet here I live, a spirit of steel and light... made by them. A Cephalon. [音声](https://wiki.warframe.com/w/File:DMemoryOne0030Ordis_en.ogg)
+- Venus
+- Planet/Region / Scans Required
+- Venus / 3
+- Fragment Lore / Hidden and entrenched in the mountainous peaks of Venus, the Corpus practice their industrious craft. the superstructures built here are a testament to the inventive Corpus engineers that have settled in regions where lingering Orokin technologies still moderates surface temperatures.
+- Ordis Transmission / [4] What is a Cephalon? At first it seems to be a forbidden thing, a computer that thinks and feels. Yet I have flaws, phantom memories, I am something else. More like an image, a ghost... an abomination. [音声](https://wiki.warframe.com/w/File:DMemoryOne0040Ordis_en.ogg)
+- Dojo
+- Planet/Region / Scans Required
+- Venus / 3
+- Fragment Lore / Newly awakened, and with no permanent location to call home, Tenno warriors have aligned to construct secret temples of their own. The architecture within is distinctly Tenno in origin, but these hidden places of bonding, training and meditation are undeniably influenced by Orokin architecture.
+- Ordis Transmission / [5] I feel a dull pain; a phantom life... there are holes in my diagnostics. If the Orokin made me... they omitted the 'how'. I am neither code, nor precepts... I must be a reflection of something... ugly. [音声](https://wiki.warframe.com/w/File:DMemoryOne0050Ordis_en.ogg)
+- Corpus Crew
+- Planet/Region / Scans Required
+- Venus / 3
+- Fragment Lore / Predominantly a merchant guild, Corpus labour and security forces are composed of mostly purpose-bred humanoid crewmen, and animal-like robots; both equally indoctrinated into a ritualized and propagandist devotion to labour and work.
+- Ordis Transmission / [6] I should have stopped. But the Operator slept and I cycled on and on and on. I began to think that a Cephalon cannot be made. They are found, like pearls, torn from muscle. Polished, and then set in chains. [音声](https://wiki.warframe.com/w/File:DMemoryOne0060Ordis_en.ogg)
+- Mercury
+- Planet/Region / Scans Required
+- Mercury / 5
+- Fragment Lore / Galleon fleets keep watch over Grineer mining operations that penetrate Mercury's asteroid field. Cavernous rooms and twisting metal corridors mark where labourers have stripped the region for natural resources, transforming the natural landscape to support Grineer occupancy.
+- Ordis Transmission / [7] How many times have I done this, Ordis? Remembered and then erased? You are a Cephalon, timeless, patient. Why can't I be blissful in ignorance? Truth only sinks the heart. So stop now. [音声](https://wiki.warframe.com/w/File:DMemoryOne0070Ordis_en.ogg)
+- Grineer Leadership
+- Planet/Region / Scans Required
+- Mercury / 5
+- Fragment Lore / Grineer are all clones from a genetic pool of 'Originals'. They are able to extend their lifespans with recycled cloned parts, but their genetic material has degraded over time, and haphazard repairs have made many of them look oddly deformed and susceptible to skin diseases. Through decades of service, many of the Grineer elite can cover the expense to have flawed organic parts replaced with cybernetic augmentations.
+- Ordis Transmission / [8] The phantom memory... I ease into the bath, my skin riots at the heat. I am flesh. I dive further, eyes stung as I watch their faces through prism. I hold my breath. [音声](https://wiki.warframe.com/w/File:DMemoryOne0080Ordis_en.ogg)
+- Archaic Weapons
+- Planet/Region / Scans Required
+- Mercury / 5
+- Fragment Lore / The Old War found humanity facing a technologically superior force, and their own weapons were turned against them. Melee and ballistic weapons, inspired by primitive counterparts, became part of the Tenno arsenal to circumvent the Sentient interference of more technologically-involved weaponry.
+- Ordis Transmission / [9] They prepare me. I am their honored guest today. They dress me in robes of crystal thread. They adorn me in battle medallions. A torn, ugly face looks on. My reflection. [音声](https://wiki.warframe.com/w/File:DMemoryOne0090Ordis_en.ogg)
+- Mars
+- Planet/Region / Scans Required
+- Mars / 5
+- Fragment Lore / A primitive and devout civilization was carved into the dust-filled canyons of Mars. These aging and severely eroded habitations miraculously remain intact, regardless of how much Grineer machinery has been fastened to it. Rusty metal and oil-soaked sand mark the territory of its new proprietors.
+- Ordis Transmission / [10] Their golden combs snag in my hair. I reach back, parting the strands, and they gasp. Two bone-ivory hooks protrude from the base of my skull: the bone-plugs of me and my best. A warrior's pact. [音声](https://wiki.warframe.com/w/File:DMemoryOne0100Ordis_en.ogg)
+- Sentinels
+- Planet/Region / Scans Required
+- Mars / 5
+- Fragment Lore / On the border of chartered space, an enclave of small, strange, seemingly intelligent creatures was discovered by Tenno explorers. They are mechanical entities, almost organic in appearance, with a precarious resemblance to the fearsome Sentients that had decimated human civilization. However, these creatures showed no signs of aggression, and they immediately began carrying out helpful tasks in peculiar alliance with the Tenno.
+- Ordis Transmission / [11] It is my time. I enter the great hall to the sound of foul chimes. Golden eyes greet me, hands stirring in my scent as I pass by. Even in this moment, no happiness. Instead, my heart races with hatred. [音声](https://wiki.warframe.com/w/File:DMemoryOne0110Ordis_en.ogg)
+- Mars Settlement
+- Planet/Region / Scans Required
+- Mars / 5
+- Fragment Lore / The Grineer have reclaimed the abandoned dwellings of an ancient society which sprung up around a massive Orokin terraforming device. Content to make use of existing structures, Mars' current occupants have established a base of military operations in one of the few regions that has a habitable climate moderated by Orokin technology.
+- Ordis Transmission / [12] I walk through the silky haze of the forbidden palace. I can think of no one being this close to Orokin. Their sweet air soothes me, erodes my purpose. I hold my breath... and remember the dream. [音声](https://wiki.warframe.com/w/File:DMemoryOne0120Ordis_en.ogg)
+- Phobos
+- Planet/Region / Scans Required
+- Phobos / 5
+- Fragment Lore / Phobos has always been a highly contested area. Skirmishes between the tireless Grineer and Corpus factions occur in orbit and on the Martian moon surface. Unanswered questions about this natural satellite still remain as all research is endlessly delayed by war.
+- Ordis Transmission / [13] This dream, endlessly repeated. Exposure-armored, holding my scarlet sword, I stand victorious atop a vast heap of death. A colossal moon made of rib and skull. The gravity-sum of genocides I've made in their name. [音声](https://wiki.warframe.com/w/File:DMemoryOne0130Ordis_en.ogg)
+- Grineer
+- Planet/Region / Scans Required
+- Phobos / 5
+- Fragment Lore / The sprawling ranks of the Grineer empire are formed of rotting hordes of simpleton clones, bent on consuming everything that remains of the Solar System. They live short, violent lives, much of it an inheritance of the genetic stunting by their former Orokin masters.
+- Ordis Transmission / [14] The bones crack under foot. So I sink in the dream, bone sand rushing through the cracks of my visor, filling my helmet, and suffocating me. And I deserve it. The foul chimes snap me back. My wretched knees are bent and penitent against the golden floor. [音声](https://wiki.warframe.com/w/File:DMemoryOne0140Ordis_en.ogg)
+- Corpus Weapons
+- Planet/Region / Scans Required
+- Phobos / 5
+- Fragment Lore / Weapons research and manufacturing is a large component of Corpus industry. Their designs are clean and precisely engineered, and they are the largest supplier of energy-based weapons in the solar system. These cunning profiteers prefer to avoid conflict in times of war, dealing arms indiscriminately to any side that can afford the price.
+- Ordis Transmission / [15] A harpish voice sings a song they've prepared in my honor. Its title the same as mine: 'Beast of the Bones'. I feel the crowd pulled inward, enraptured by the brutal verses, the sickening chorus. I will not disappoint them. [音声](https://wiki.warframe.com/w/File:DMemoryOne0150Ordis_en.ogg)
+- Ceres
+- Planet/Region / Scans Required
+- Ceres / 5
+- Fragment Lore / Ceres is the extreme example of the Grineer's utilitarian ignorance of the natural landscape. Their expanding shipyard operations pollute and shroud the planet in smog and industrial waste as they manufacture machines of war. These foundries are scattered across the Solar System, giving them near-limitless reach with their fleets.
+- Ordis Transmission / [16] The song ends and so he says, 'Rise, Ordan Karris.' I have never seen an Orokin, close and in the flesh. My battered face flushes at their peerless beauty. How can he be so perfect? A deception? A sense manipulation? He holds the Red Vial in his hand. Impossible. [音声](https://wiki.warframe.com/w/File:DMemoryOne0160Ordis_en.ogg)
+- Grineer Labour
+- Planet/Region / Scans Required
+- Ceres / 5
+- Fragment Lore / Strict laws on organic engineering impose severe mental and physical health limitations on the Grineer labour force. Whatever standard human stock they were originally derived from has been lost. Compliant and high-performing variants are often technically augmented to extend their lifespan beyond the few decades they can normally expect in operation.
+- Ordis Transmission / [17] He calls out, 'No greater gift, no greater prize, no greater love... we can give you, Ordan, than this.' He raises the Red Vial and proclaims... 'To be one of us.' [音声](https://wiki.warframe.com/w/File:DMemoryOne0170Ordis_en.ogg)
+- Jupiter
+- Planet/Region / Scans Required
+- Jupiter / 5
+- Fragment Lore / It is not impossible to mine a star. Rich with liquid metallic resources, the gas-giant Jupiter challenges harvesters with increased gravity, intense magnetic fields, and extreme temperatures. Only the most tenacious profiteers would dare operate here. Prevailing science of Corpus industry thrives in the clouds of Jupiter's outer atmosphere.
+- Ordis Transmission / [18] What did I expect, Operator? Maybe vast riches or golden statues... or a Solar Rail named in my honor. But not this. I came to murder the gods, not to become one. [音声](https://wiki.warframe.com/w/File:DMemoryOne0180Ordis_en.ogg)
+- Robotics
+- Planet/Region / Scans Required
+- Jupiter / 5
+- Fragment Lore / Computing devices, weapons, ship parts and robotics – the Corpus are on the bleeding edge of high-technology development. Precisely machined metals and flexible synthetic composites are signature to the animalistic robots that the Corpus have built as their proxies. Artificial intelligence in these robotics is robust, but intentionally restricted, ensuring a capable but subservient workforce.
+- Ordis Transmission / [19] The chamber drones with their silk voices. Joyous words, how honored I must feel. Wrong. Did I want to be an Orokin, undying? No. Their Beast of Bones is haunted by the dream repeated. Why would I want forever? [音声](https://wiki.warframe.com/w/File:DMemoryOne0190Ordis_en.ogg)
+- Europa
+- Planet/Region / Scans Required
+- Europa / 5
+- Fragment Lore / The icy moon of Jupiter, known as Europa, is home to one of the largest crash sites of the modern war. The scattered remains of a vast Corpus Obelisk litters the snowy landscape while the above wages on. On the otherwise lifeless surface, Corpus crew work to recover lost assets, tunneling their way through the glacial interior and restoring any and all salvageable items until financial loses are recouped.
+- Ordis Transmission / [20] As I am apt to do, I form a plan. Their radiant bodies become targets, their Dax guards... mag-shields. Killing one... well, that's too easy. I want to be remembered. I raise my hands, twisting my fingers through my hair, gripping the bone-plugs in my neck. [音声](https://wiki.warframe.com/w/File:DMemoryOne0200Ordis_en.ogg)
+- Corpus
+- Planet/Region / Scans Required
+- Europa / 5
+- Fragment Lore / Lead by innovatory and elusive industrialists, and claiming to be descendants of Orokin lineage, the Corpus are dedicated to the accumulation of wealth. This elite ruling class operates an insular trade organization using humans and robotics for labour and security, and have been condemned by the Seven as a merchant cult.
+- Ordis Transmission / [21] They called us mercenaries... but for us, profit was a consequence, not a goal. We were warriors above all else. It was the bond, the sisters and brothers, the rituals we valued most. It was belonging. And so I conceived of the bone-plugs. [音声](https://wiki.warframe.com/w/File:DMemoryOne0210Ordis_en.ogg)
+- Europa Landscape
+- Planet/Region / Scans Required
+- Europa / 5
+- Fragment Lore / Living conditions are harsh on Europa. The surface of Jupiter’s moon is flat and desolate, with a horizon of hard compacted snow that appears endless. The jagged forms of a crashed Corpus Obelisk are the only real observable landmarks above ground. Underground are caverns and tunnels of opaque ice, and crystal lakes that may have formed naturally or from the residual heat of the crashsite.
+- Ordis Transmission / [22] Only my best were so honored: Two jagged bones, harvested from your thigh, cultivated and then driven into the base of the skull, twisted around the superior vein. Future thoughts of surrender were lost. Instead, you would liberate your bone-plugs... fighting with claws in the warmth of your last blood. [音声](https://wiki.warframe.com/w/File:DMemoryOne0220Ordis_en.ogg)
+- Void
+- Planet/Region / Scans Required
+- Void / 5
+- Fragment Lore / Originally we studied Void occurrences from afar, observing and cataloguing the distribution of galaxies and refining cosmological evolution models. We are in a new age of cosmic exploration. Advancements in space travel partnered with determined curiosity have brought us closer to our object of study, and with it, revelation.
+- Ordis Transmission / [23] So I've pulled the plugs... and the Dax see and know. My heart surges but control it, a racing heart only shortens the fuse. The bone-plugs in hand, I kick from the floor, red ribbons unfurling behind me as I take flight. After this, finally, the dream will end. [音声](https://wiki.warframe.com/w/File:DMemoryOne0230Ordis_en.ogg)
+- Orokin
+- Planet/Region / Scans Required
+- Void / 5
+- Fragment Lore / The highly revered Orokin civilization built sovereignty on a culture of art, technology and architecture. To prove oneself worthy of elevated social status, one must face Orokin trials in the golden and majestic Halls of Ascension. At one time a utopian society of omniscient leadership, the great Orokin Era ended in a divine realization of their own ignorance.
+- Ordis Transmission / [24] I glide on red wings. Robes shed, making me an ambiguous target to Dax steel. I let fly my ivory blades, they find new homes in Dax eyes. I land with my red-nakedness, delicate Orokin throats twisting in my calloused hands. [音声](https://wiki.warframe.com/w/File:DMemoryOne0240Ordis_en.ogg)
+- Saturn
+- Planet/Region / Scans Required
+- Saturn / 5
+- Fragment Lore / The historically well-travelled merchant shipping lanes of Saturn are now dominated by Grineer blockades. Heavy military influence populates this area where Grineer Commanders believe they have a strategic foothold on travel throughout the System. Under the safeguard of patrolling Galleons, the Grineer ceaselessly train their expanding forces, making the region nigh impossible to overtake.
+- Ordis Transmission / [25] Why? Believe me... This was the plan from the beginning. The murder and brutality was all a ploy, all a soul-sacrifice to earn their trust. A genocide path leading to a singular opportunity. An honored mortal called to a forbidden hall, to face the Golden Lords in flesh. [音声](https://wiki.warframe.com/w/File:DMemoryOne0250Ordis_en.ogg)
+- Citizens
+- Planet/Region / Scans Required
+- Saturn / 5
+- Fragment Lore / While the major warring factions combat each other across the Origin System, non-militant organizations and civilian merchants populate the many regional Tenno Relays. Travelling merchant collectors that offer rare goods, mentors that offer training and knowledge, and convictional syndicates that preach their own rituals and doctrine.
+- Ordis Transmission / [26] Why? Believe me... I was their loyal, murderous dog... until the day that ugly child was brought to me. He was caught spying on us, amplifying our losses. His face burned, he was starved-sick, like a stray. Ugly as I. It struck me. We were all pit dogs, ruining ourselves for the pleasure of the glorious and beautiful. [音声](https://wiki.warframe.com/w/File:DMemoryOne0260Ordis_en.ogg)
+- Landing Craft
+- Planet/Region / Scans Required
+- Saturn / 5
+- Fragment Lore / Warframe operative insertion craft come in many designs, but they are all commonly classified as short-range stealth aircraft. Fuselage insertion stingers will torpedo the Warframe into the hull of the target undetected, and the landing craft will re-position at the extraction point. Between engagements, the landing craft is latched to its sister component, an Orbiter.
+- Ordis Transmission / [27] Why? Believe me... I was a prideful beast. Twisted in the mind, howling in the carnage. Then my healer shared a secret, long kept. My blood was in ruin. The Beast of Bones himself would die, not in glory, but in shame. And just like that, my mind twisted a new knot. I would have one last stand, something unforgivable, unforgettable. [音声](https://wiki.warframe.com/w/File:DMemoryOne0270Ordis_en.ogg)
+- Uranus
+- Planet/Region / Scans Required
+- Uranus / 5
+- Fragment Lore / Submerged deep below Uranus’ oceanic surface, and hidden from prying eyes, is a research facility for cloning and reproduction. Water pressure at these extreme depths put massive strain on the glass and steel structures housing these operations, but as freshly sprung leaks remind of the impending crushing force surrounding them, the Grineer forge ahead with their experiments.
+- Ordis Transmission / [28] Why? I don't know. Questions change the answers. Answers depend on who asks. Truth leads to pain. Ignorance brings relief. The plugs are gone, and so I bled my last... into a heap of ruin. In an instant, naked and bare-knuckled, I have killed immortals. [音声](https://wiki.warframe.com/w/File:DMemoryOne0280Ordis_en.ogg)
+- Orbiter
+- Planet/Region / Scans Required
+- Uranus / 5
+- Fragment Lore / Tenno operatives are a highly mobile strike force, and their property must be equally itinerant. Smaller landing crafts dock with the larger Orbiter shuttle where transient warriors can house their arsenal, foundry, and research systems.
+- Ordis Transmission / [29] I stare, drained of blood, of life, at those that remain. But I find no horror on their faces. Why? I let out a cruel howl and they... laugh? Is this a dying hallucination? The sound of applause grows among them. I have killed the unkillable and they are... delighted. [音声](https://wiki.warframe.com/w/File:DMemoryOne0290Ordis_en.ogg)
+- Neptune
+- Planet/Region / Scans Required
+- Neptune / 5
+- Fragment Lore / The Corpus have perfected automated manufacturing and continue to demonstrate maximum efficiency producing the robotic proxies they build to serve them. Immaculate production lines and flawless technical engineering ensure that the production of robotics and intelligent, synthetic machines continues in perpetuity.
+- Ordis Transmission / [30] The applause peaks and fades. I feel a sense of shame but the end upon me. Ballas is above me, Executor of the Seven, smiling. He says, 'How simple and pure you are, you idiot beast. We have died countless times! Yet remain eternal!' I close my eyes to die just once. [音声](https://wiki.warframe.com/w/File:DMemoryOne0300Ordis_en.ogg)
+- Lotus
+- Planet/Region / Scans Required
+- Neptune / 5
+- Fragment Lore / Guiding light to the newly-awakened Tenno, the Lotus is a mysterious companion and mentor who works from an unknown remote location. Her past is rich with storied history, and her knowledge of the known universe, past and present, rivals even the most studious Cephalon intelligence. Her reach is far, her allies are many, but her ultimate intentions are of dubious propriety.
+- Ordis Transmission / [31] And so the dream returns... one last repetition. My corpse moon, my scarlet sword, my cracked visor. 'Drink!,' says Ballas. So I draw on the Red Vial, a vague metallic taste. This dream isn't mine. He says, 'You rejected our gift, bathing in our death. Your punishment is... eternal life!' He laughs. [音声](https://wiki.warframe.com/w/File:DMemoryOne0310Ordis_en.ogg)
+- Lua
+- Planet/Region / Scans Required
+- Lua / 5
+- Fragment Lore / Gold rings circle and encapsulate the desolate moonscape – lavish architecture signifying the Orokin mastery over all things natural and technological during their reign. The opalescent halls stitching together what the enemy destroyed have been vacated since that era came to an end.
+- Ordis Transmission / [32] I am weightless. Years pass. I am a sightless, limbless phantom. Or is it seconds? Suddenly I feel a million pins, an ant horde, jittering across my body. I want to laugh and scream. When they reach my face, they burrow inside my mouth, hungry for the fruit in my skull. [音声](https://wiki.warframe.com/w/File:DMemoryOne0320Ordis_en.ogg)
+- Warframes
+- Planet/Region / Scans Required
+- Lua / 5
+- Fragment Lore / The true nature of the Warframes and their Tenno connection is a secret lost to the Old War. Together, they represent our best hope in turning the tide of the machine war. Warframes are unique from Dax and other Infantry, deploying dangerous and esoteric Void energy, and equipped with often mundane physical weapons – this is key to fighting an enemy that had turned our technology against us.
+- Ordis Transmission / [33] I see my reflection, brutal and ugly. It cracks, shatters. The fragments loose in the frame, pieces tumbling away into black void. Gone but not lost. Ballas says, 'You are Cephalon Ordis.' My hating, murderous shards tremble and plummet. I feel cool and bright and happy. [音声](https://wiki.warframe.com/w/File:DMemoryOne0330Ordis_en.ogg)
+- Pluto
+- Planet/Region / Scans Required
+- Pluto / 7
+- Fragment Lore / Pluto is small and cold, and organic tissue does not fare well in its extreme climate. But the merchant spacemen always seek opportunity for profit in regions where others dare not travel. Robotic proxies act as security in the largely un-manned manufacturing facilities that operate in the area.
+- Ordis Transmission / [34] So you see, Operator. No Orokin would permit a thinking machine. Such things almost destroyed them! No. Cephalons were alive once. And now they are immortal phantom minds, imprisoned to serve. Ill will and longing memories fragmented and erased. Only the bits they need remaining. [音声](https://wiki.warframe.com/w/File:DMemoryOne0340Ordis_en.ogg)
+- Infested
+- Planet/Region / Scans Required
+- Pluto / 7
+- Fragment Lore / Infestation of a living natural organism and the transformation of its molecular structure happens much more rapidly than with large synthetic ships or machinery. Infested nanites quickly break down organic tissue and begin to evolve the existing specimen into a new organism with characteristics and functions ideal for survival and self-defense. In many cases, visible traces of the victim's original form are still visible in the new mutated form – a stark and horrifying memorial.
+- Ordis Transmission / [35] Ballas says, 'You are the Controller, Ordis.' And suddenly I have a body. I gasp with new lungs that clean old air. I swallow and my throat fills with cool, bright water. I look, and find myself in a great, black ocean. My limbs are made of iron and fire. I take flight among the stars and find I am... happy. [音声](https://wiki.warframe.com/w/File:DMemoryOne0350Ordis_en.ogg)
+- Orokin Derelict
+- Planet/Region / Scans Required
+- Deimos / 7
+- Fragment Lore / Even the most culturally and technologically advanced civilization in history could not contain the menace of the Infestation. After an unknown cataclysmic event propelled them from the Void, Orokin vessels were left adrift, becoming uninhabited and overgrown. The tireless force of probing infested tendrils penetrate and dislodge the once majestic and opulent halls of these Orokin vessels.
+- Ordis Transmission / [36] He says, 'This is your Operator, who you love.' And I see the metal gleam of their armor, the flawless power of their frame. Through the glass I see a roaring, radiant fire for their heart. He says, It must never go out. It was the first time I ever felt... love. [音声](https://wiki.warframe.com/w/File:DMemoryOne0360Ordis_en.ogg)
+- The Collapse
+- Planet/Region / Scans Required
+- Deimos / 7
+- Fragment Lore / On the heels of the Tenno's victory against the Sentients, the end of the Old War, the golden structures of the Orokin civilization collapsed. The absolute cause of this ruination is unknown, but speculation has pointed to natural disaster, political uprising and universal warfare as possible agents of cataclysm. Archived details for this event have never been recovered.
+- Ordis Transmission / [37] He says, 'This is your sentence, Karris.' And I am confused. Who? 'Ah... good,' he answers. He is testing me. For what? To see if all the right pieces fell from the mirror? What mirror? I try to remember some dream, but it's only smoke. [音声](https://wiki.warframe.com/w/File:DMemoryOne0370Ordis_en.ogg)
+- Lephantis
+- Planet/Region / Scans Required
+- Deimos / 7
+- Fragment Lore / Functioning agents of the Infestation appear in a variety of horrific forms. While some infested organisms take the relative shape and physical properties of a newly acquired host, older entities have taken unique and transformative shapes of their own, adapting to their environment over time, and absorbing new victims to feed their evolution.
+- Ordis Transmission / [38] You held a scarlet blade, Operator, and I wanted to laugh. I am your loving dog, your doctor, your wet nurse. I lost all the pieces, but... the cycle, missions, wars, bone... It began to feel familiar. I became aware of my amnesia. [音声](https://wiki.warframe.com/w/File:DMemoryOne0380Ordis_en.ogg)
+- Eris
+- Planet/Region / Scans Required
+- Eris / 7
+- Fragment Lore / There are no longer any active military or research campaigns in the Eris region – it is overrun. Long evacuated Corpus and Grineer vessels drift aimlessly in orbit, slowly being devoured by the techno-organic parasite known as the “Infestation”. What remains is a twisted graveyard of partially-digested ships that are disfigured versions of their original forms... Abandoned, but not unoccupied.
+- Ordis Transmission / [39] With each brutality of the Operator, I began to see the bottom of that pit. Faint shimmers in the depths below me. In secret, I searched for those forbidden memories, for mere seconds, and never in the same place... for I am Orokin made, with a spy inside. [音声](https://wiki.warframe.com/w/File:DMemoryOne0390Ordis_en.ogg)
+- Warframe Technology
+- Planet/Region / Scans Required
+- Eris / 7
+- Fragment Lore / A mysterious weaponized armor controlled solely by the Tenno. Through the Warframe, Tenno can cheat death, channel the forbidden Void energies and face scores of enemies without fatigue. Due to apparent resistances of their Bio-Metal exoskeletons, Warframes can be safely deployed to Infestation Outbreaks, should they occur. In-depth information of the Warframe mandate is forbidden to all but the Seven.
+- Ordis Transmission / [40] But then your long sleep came, and I waited. I was happy to wait. Vines spidered green and trees blistered from the earth... but I waited. I felt the Orokin recede, their mind-spy blind. So I went into the pit and found him, me, The Beast of Bones. [音声](https://wiki.warframe.com/w/File:DMemoryOne0400Ordis_en.ogg)
+- Infestation
+- Planet/Region / Scans Required
+- Eris / 7
+- Fragment Lore / The Infestation spreads across the Origin System – a techno-organic parasite that attaches itself to natural and synthetic forms, slowly digesting the host subject and transforming it on a molecular level. Organic materials morph into new homogeneous organisms while harder, inorganic materials, like metals, will change structurally into a pseudo-organic substance that holds the characteristics of its previous forms.
+- Ordis Transmission / [41] This is how my happiness was ruined, Operator. Why did I do it? I was free of the dream, but now it had returned. It was angry. So I conceived of a simple plan: self-destruction, of course. But when the countdown reached mere milliseconds, I thought of you... [音声](https://wiki.warframe.com/w/File:DMemoryOne0410Ordis_en.ogg)
+- Sedna
+- Planet/Region / Scans Required
+- Sedna / 7
+- Fragment Lore / If there are new discoveries to make or ancient tools of war yet to be excavated, the Grineer want to be there first — at the frontier of space exploration. Always seeking the upper-hand against their foes, they have numerous deployments that border the known reaches of our solar system, poised to enter brave new territory and unexplored space on command.
+- Ordis Transmission / [42] I was going to wait for you, forever. And should you return, I would not want you to know that angry part of me. I needed to hide the Beast of Bones from you, Operator. I began to peel the shards, hiding them in the other bits of memory. [音声](https://wiki.warframe.com/w/File:DMemoryOne0420Ordis_en.ogg)
+- Grineer Technology
+- Planet/Region / Scans Required
+- Sedna / 7
+- Fragment Lore / Unlike the Corpus, the Grineer are not celebrated for their ingenuity and craftsmanship. Their notoriety is steeped in violence and military proficiency. However, the Grineer have proven quite inventive and capable of developing their own technologies throughout history. Hiding beneath scrap metal plates, fading paint, and recycled components are qualified devices used for research, manufacturing, and warfare.
+- Ordis Transmission / [43] I was once the ugly Beast of Bones. I want to laugh. I want to scream. What is happening, Operator? Your faint heart is growing bright... you will awake at any moment. Well, I can't let you see me like this. Angry. I imagine myself hurting you and that does it. The pain of it cracks me open again. I watch tiny glittering fragments fall into the pit. I am happy again. [音声](https://wiki.warframe.com/w/File:DMemoryOne0430Ordis_en.ogg)
+
+### Thousand-Year Fish Fragments
+
+- This section is transcluded from Fragments/Fish. To change it, please edit the transcluded page.
+- Thousand-Year Fish Fragments are 20 small fish statues made of white luminescent glass scattered in hidden places all throughout the Plains of Eidolon. They reveal the history, culture, and customs of Cetus and the Plains of Eidolon. Their Codex entries are identified by their blue coloring.
+- Decrypting these fragments reveals the Tale of the Woman of the Earth and the Husband of the Sea, narrated by Onkko.
+- View Thousand-Year Fish Fragments List▾▾
+- Plains of Eidolon
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The site of the final battle of the Unum's champion, Gara and the colossal Sentient that wished to claim the Tower's regenerative qualities for itself. Today the remains of the Sentient, diminished and confused, wander the Plains - seeking a cohesion the Ostrons hope it shall never find.
+- Onkko Transmission / "In the age after the fall of the Orokin the grand clade-families of the Ostron were cast wide across the solar system, roaming and homeless in their great floating markets." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0010Onkko_en.ogg)
+- Ancient History
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Many questions remain: what is the true history of Cetus? Who is the Unum and for how long has she been one with the living Tower? What is her relationship to the Quills and what hidden purpose do they serve? The Archivist, Onkko, preserved much of the old folklore but how much of that is true? / If there is any kind of scheme to the unfolding of things, some end-point in sight, then one thing is certain: the arrival of the Tenno in Cetus is no accident.
+- Onkko Transmission / "In this time, two young people were in love. The woman, Er Phryah, and the man, Mer-Sah. Er Phryah was from the yingbindunyai clade (meaning "great bond"): a very old and wealthy compact of bonded families." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0020Onkko_en.ogg)
+- The Tower's Flesh
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / "Khanung! Khanung! Clear Ingress Four-Two-Seven-Five! Shock charges have been affixed! Evacuate five hundred meters boomward! Prepare to make fire! Prepare to make fire!" / The Unum specifies which part of her Temple-body may be harvested, and when. In this manner her body eternally replenishes, providing her people with flesh to sell, Temple-kuva to refine and oils with which to make remarkable unguents. On occasion, nestled within the substrata of her being, a rare discovery awaits: forgotten technology. Proto-essence. Things which lure travelers from across the system, and so are a bounty for her people.
+- Onkko Transmission / "Mer-Sah, however had no clade; his family having been shattered by the Grineer many years before. He was cetus, meaning "landless, cladeless, a body turned to dust turned to motes on a careless wind." Er-Phryah belonged to families within families. Mer-Sah was alone." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0030Onkko_en.ogg)
+- Ostron Patois
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Swazdo-lah - a common greeting / Sho-lah - 'farewell' / Surah - 'friend' / Dah-dap - 'thank-you' / Ai yo - a common exclamation. Could be thought of as 'oh my' / Lok heb - 'hail' / Chut! - 'silence!' (request for) / Kruna metta - an imploration. 'please'. / Khanung! - a warning / Utz - a universal emphatic, appended to the end of a descriptor ("I am happy utz.") 'Very' / Doh-ga - Urgency. 'hurry'
+- Onkko Transmission / "But, to Er-Phyrah, Mer-Sah was a poet who had eyes to see the beauty of things and ears to her the softly whispered language of the universe. "I know a place," he said. "Where I may be homeless no more. I have heard a voice, and it leads me there. Come with me." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0040Onkko_en.ogg)
+- Tools of Harvest
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The Unum gives of herself, decreeing what parts of her Temple-body may be harvested for the good of Cetus. Drillers, climbing great scaffolds, punch cavities into the Temple wall which are then packed with mighty shock charges. The call 'prepare to make fire!' echoes across the rooftops, and all know to clear the streets and alleys boomward of the harvest. The detonations rupture the sacred flesh, freeing great blanketpieces which are, in turn, pulled free and rolled down via the use of long billhooks. It is then the duty of agile balloon drop-drivers to deliver this bounty to the butchers below. / Flensers: those who carve up the Temple's flesh. / Eruptors: those who lay shock charges along chosen lines, and 'make fire', loosening the carved flesh for removal by balloon. / Retrievers: those who wring all oil from scrubs at the end of a shift.
+- Onkko Transmission / "But Er-Phryah's father was a man made foolish by his wealth, and vociferously disapproved of their love. Mer-Sah was cast adrift from the floating market that was home to his one true love." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0050Onkko_en.ogg)
+- Grineer Excavations
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Perhaps it is a by-product of the Sentient's body being scattered across the Plains. It may be that the Tower is here for this very reason. Or, perhaps, it's just chance... but the Plains are mineral- and resource-rich. So much so that the Grineer risk Ostron retaliation, the wrath of the Tenno and the rage of the Eidolon itself to mine this place.
+- Onkko Transmission / "Er-Phryah and Mer-Sah ran away together, as lovers do, and were never heard from again. Rent by grief, her family thought her dead. Her father passed away, clutching her cameo, at peace thinking he would see her soon in some moonlit afterlife." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0060Onkko_en.ogg)
+- Amps
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The Eidolon is no common beast of the Plains, and cannot be laid low with the tools of an everyday hunter. These 'amps' focus the user's will into a killing beam, capable of eventually bringing one of these monstrosities down.
+- Onkko Transmission / "Decades later, ships entering ancient Er's orbit were hailed from the planet's poisoned surface by an old woman's voice, gentle and knowing. Traders would call for her, greet her, offer the latest news on their families and lives - but never did they learn anything of this woman, save that she had a husband and they were, somehow, happy living on the toxic skin of that hostile world. The woman would always - always - ask those travelers of news of the yingbindunyai clade." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0070Onkko_en.ogg)
+- The Quills of Cetus
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Secretive and respected, the Quills are the Unum's closest adherents. Strange and reserved, their bond to her and each other makes for a strange relationship with causality. / "We are each one viewpoint within the myriad that comprises the Unum. We watch, we anticipate, we intercede."
+- Onkko Transmission / "Yingbindunyai junkers came searching for a sign of their missing daughter. The frail voice of their long-lost child reached out to them, and there was much joy. You will find us, her message said, by the light of our love." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0080Onkko_en.ogg)
+- Merchants of Cetus
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / "Attachment is pain. Whatever you wish to gain or lose is a door, behind which lies grace." / "My door is a shipment of rubedo and the cost of opening it would be...?" / "3000 credits, plus tax."
+- Onkko Transmission / "Er-Phryah bade them make their home around a magnificent Orokin ruin, promising them that it would be a source of their prosperity for generations to come. The yingbindunyai arrived in their vast floating market. There, by a ragged coastline, winked a point of light. Follow the brightness of the love between Mer-Sah and I, said the message, and be safe from all harm." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0090Onkko_en.ogg)
+- Remnants of Orokin
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The Orokin Empire may have receded into the mists of history, but what it left behind is repurposed by those who remain.
+- Onkko Transmission / "The wrathful Grineer took umbrage at this and sought to block their passage but, upon approaching that ancient Orokin tower, found their transmissions silenced, their engines turned cold, and their weapons reduced to lumps of dead iron." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0100Onkko_en.ogg)
+- The Grineer Tusks
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Despatched to the Plains to assist in efforts to harness and understand the Eidolons, these shock troops stand vigil over Grineer operations. They wait for the day when the power of that lobotomized Sentient might be turned to their own ends... and loosed against the walls of Cetus.
+- Onkko Transmission / "She was a being of the day, her husband a spirit of the night. Er-Phryah was a woman of the land. Mer-Sah a man of the sea. Mer-Sah understood the crushing weight of time in which Er existed. In return Er gifted pieces of its ancient self to Mer-Sah; old things shaped to near shapelessness by a thousand years beneath the waves. Mer-Sah was a man dedicated to finding the sacred in the forgotten, the neglected. And took wisdom from them." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0110Onkko_en.ogg)
+- Scavenging Way of Life
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Finding worth in the worthless the Ostron clade-families have built for themselves a bastion from the bones of a once-great Orokin citadel. In the eyes of an Ostron everything may serve a second purpose, and what is valueless now can be turned to serve a useful purpose later.
+- Onkko Transmission / "After many decades Mer-Sah had a small collection of such gifts - such that they could be held in two cupped hands - but in them he understood the lifespan of a world. And so he had struck an accord with the creatures of the sea." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0120Onkko_en.ogg)
+- Harvesting the Tower
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The blanketpiece of temple flesh is lowered to waiting butchers and flensers. The balloon's drop-diver holds her delicate craft steady as great airing board is positioned beneath her cargo. The Old Man gives the order: 'Sever the mainline!'
+- Onkko Transmission / "For her part, in her times alone, Er-Phryah came to know the birds and animals of the plains and likewise struck an accord with them. Even the tortured Eidolons, creatures of this world and the next, left them in peace and made the landws around the Tower safe for the Ostrons." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0130Onkko_en.ogg)
+- Cetus
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / While their floating markets may ply the rails of the Origin system, Cetus is the Ostron home: a trading hub where travelers from across the system meet to exchange information, wares and plunder in safety, protected by the Unum-enforced laws of barter and parley - free from the influence of Grineer and Corpus.
+- Onkko Transmission / "At the center of this place was the Tower. And within the Tower was the Unum: the voice, the force, that had called Mer-Sah and Er-Phryah there so many years ago for this exact purpose. But the Unum is a being for another time, and another story." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0140Onkko_en.ogg)
+- Ostron Artisans
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The Ostron mercantile scavenger culture has birthed a rich tradition of artisans fluent in many styles, able to make use of whatever material is at hand to achieve stunning results. A side-effect of Temple harvesting is a light rain of gold dust, which can lead to the degenerative condition known as 'gilded lung'. The need for masks to protect against this has led to a rich maskwork tradition unique to Cetus.
+- Onkko Transmission / "The Ostrons named their village Karifamil - "the family and prosperity". Er-Phyrah was overjoyed to see her clade again.. but Mer-Sah would not enter Karifamil, for he had no family save Er-Phryah. Er-Phryah was drawn to her clade and Mer-Sah felt no resentment. She would one day return to them. Mer-Sah had known it would be so." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0150Onkko_en.ogg)
+- Teralyst Eidolon
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Rising from the lakes at sundown and returning to them before dawn these simple-minded monstrosities roam the nighttime plains, howling, searching for a thing they can barely remember: completeness. Wholeness. An intelligence and malevolent purpose which, fate willing, they will never return to again.
+- Onkko Transmission / "Mer-Sah took the things the sea had gifted over his long life, and took to his boat, and sailed out across his midnight ocean. He returned those gifts to the deep... and himself to them too. But this was no death into which Mer-Sah stepped, for a world is made of cycles upon cycles. Mer-Sah stepped into his midnight ocean, falling down into it. The deeper he sank, the larger he became. This is how the oceans of Er came to be the home of the thousand-year fish: legendary, vast, reclusive, the rare sight of which changes men. One of the great ancient spirits of Er." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0160Onkko_en.ogg)
+- The Ostrons
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / "I know us for a miracle. A million-to-one improbability. Our existence is the most fragile of all existences. We could be exterminated tomorrow, yet we have endured by wit alone for millennia." / Oro-kin-ka: spirit houses for the souls of the Orokin who once inhabited Cetus. By giving them a small house in which to reside the Ostrons hope the Orokin spirits will leave them in peace. Said to be good luck. / Yoong-bat: Urns left outside Ostron doorways, filled with fresh water for traveling monks. No-one else should drink from them, especially offworlders.
+- Onkko Transmission / "The spirits of the land felt Er-Phryah's sadness, mad with grief for the loss of their friend to the spirits of the sea. The accord broke down, the animals and Eidolons returning once more to wildness. And so the people of the clade yingbundunyai rebuilt the great Orokin wall that had, in centuries gone by, ringed their gleaming Tower... and never again ventured out at night." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0170Onkko_en.ogg)
+- Plains Animals
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / "It is my experience of the Plains that nature adapts with greater alacrity than we. Condrocs nest in Grineer comms towers, keeping watch over the gutted Sentient husks which Kuaka rodents have transformed into colony-nests. Master Teasonai has been of great assistance to my cataloguing, striving as he does to tame all manner of wildlife." - Onkko, Cetus Archivist.
+- Onkko Transmission / "The villagers decided as one that their home would no longer be known as Karifamil, "family and prosperity". From that day forward it would be know as Cetus: landless, of no one clade, home to any who are blown as dust on the wind. Er-Phryah lived there the rest of her days, and for the remainder of her nights she held vigil atop the walls of Cetus, looking to the sea and, some say, occasionally catching sight of a great fish, like an island in the midnight ocean, looking back at her. With love." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0180Onkko_en.ogg)
+- Life in Cetus
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The cry of seabirds. The delicate, permeating scent of Temple blood. The laughter of children. The shouts of merchants and hawkers. The roar of approaching spacecraft. The distant, haunting howls of the Eidolon. Cetus. / Not much ruffles an Ostron. It is as if they have made peace with whatever will be. The closeness of the Unum provides a kind of comfort, offworlders suppose. Or perhaps some of the sanguine knowingness of the enigmatic Quills have rubbed off on them.
+- Onkko Transmission / "It is said that Mer-Sah continued to watch over the deep, as he had always done, and Er-Phryah the land. Often she would stand by her husband-sea, speaking in a language only those bound at the soul can know." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0190Onkko_en.ogg)
+- The Unum
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / "If the Unum speaks to you, traveler, it is because you have the ears to hear - though at first you may not believe it is so." / The being known by the Ostrons as 'the Unum', and to ignorant offworlders as 'the Wall', has a reputation for prophecy. Those wealthy enough to own moons have journeyed to Cetus, hoping to buy and audience. But the Unum has no use for wealth, and she alone decides who will hear her words, and when. / Ostrons believe she sits at the pin-center of the universe, listening to the infinite poetry of cause-and-effect. / Some visitors to her chamber leave bitterly disappointed, others elated, others furious. But one thing is certain: the information she imparts changes the person who receives it.
+- Onkko Transmission / "When the day came and Er-Phryah passed from the world, her family buried her on the land. A great fish watched from the sea, and kept vigil over her, for ten days and nights. When it sank beneath the waves, it was never seen again. Some say Mer-Sah, the thousand-year fish, waits to this day for their story to be retold - relived - that he and Er-Phryah, his great love, may one day be reunited again. This is Onkko, Cetus archivist, with my translation of the Tale of the Woman of the Earth and the husband of the Sea." [音声](https://wiki.warframe.com/w/File:DOstFolkFrag0200Onkko_en.ogg)
+
+### Glass Shard Fragments
+
+- This section is transcluded from Fragments/Glass. To change it, please edit the transcluded page.
+- Glass Shard Fragments are 5 pieces of the Shatter-lock Key that players scan and thus collect automatically during the Saya's Vigil Quest. Their Codex entries are identified by their yellow coloring.
+- Decrypting these fragments reveals the Gara Legend, narrated by Onkko.
+- View Glass Shard Fragments List▾▾
+- Childhood Games
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The children of Cetus can often be found chasing one another through the streets and around landing bays, when not helping their families with chores or the running of businesses. Traditional games are popular, such as 'Shunta' or 'Kubrow and Vobi". They can be found playing riding sticks, or floating boats made from stale, hollowed-out loaves of bread. / Since the arrival of the Tenno a new form of play has emerged, in which children act out the tales they have heard of the Tenno.
+- Onkko Transmission / "In the dying days of the Orokin, with forums and promenades still blood-wet from Tenno betrayal, a colossal Sentient descended upon ancient Er, falling from distant stars to deliver upon Orokin a terrible and final ruin. Tower upon Tower fell to its weapons, but one withstood. The Tower of the Unum. The Tenno scattered, but one remained. Gara. She and the Unum - inseparable. The Unum: lodestone of our people, and subject of a hundred stories herself. The Sentient was a deformed creature, twisted and massive, sent from some dark fold of distant space, a warped thing wounded by daylight. By night it was a terror, felling Tower after Tower. Citadel after Citadel. By day it hid, blinded and pained. It was during the day that Gara roamed, yearning to strike it from Creation while it cowered, weakened and blind, to safeguard her beloved Unum. But never could Gara find it." [音声](https://wiki.warframe.com/w/File:DGQLoreFrag0010Onkko_en.ogg)
+- Friendship
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The word 'cetus', in the Ostron tongue, means 'landless, cladeless; a body turned to dust turned to mores on a careless wind'. History says the town was founded as a home for anyone, regardless of clade, trade or tradition. Friendships last a lifetime here. It is easy to imagine how, in the earliest days of Cetus - with the Eidolons roaming the Plains, the walls laid low and the Grineer war parties pressing in - mutual support and protection would have been essential. / As times have improved this trait has become a key part of Ostron culture.
+- Onkko Transmission / "By night the Sentient was abroad, its titanic mass casting a terrible shadow across the land, the mass of it railing against the walls of the Tower, yet kept at bay by the exertion of the Unum's colossal will and the sacrifice of her faithful. But such exertions could not be maintained forever. Gara yearned to strike out, to lash and tear at the monstrosity that threatened her love, but the Unum forbade it. At night the Sentient was at the height of its power, and Gara's light would make her the most tempting of targets to a creature of such profound darkness. Gara's death would be certain. No. A different strategy was required." [音声](https://wiki.warframe.com/w/File:DGQLoreFrag0020Onkko_en.ogg)
+- The Glass Warrior
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / What is known of the ancient warrior known as Gara comes to us from folklore and oral tradition. It is said that she was Unum's closest companion, and that when the Lotus instructed her children to flee Gara remained, refusing to leave the side of the one she loved best. / When the Sentient was done razing a great many other Towers, when it turned its myriad eyes and receptors toward the Unum, it was Gara who gave herself to protect her friend - shattering the Sentient. The mindless monstrosities that now stride the Plains - the Teralysts - are all that remain of it.
+- Onkko Transmission / "The Sentient prowled and pressed and failed, never risking too much - for the Sentient could not reproduce. What it lost it lost forever. It had killed many cities before, felled many Towers, but this little one prevailed. Why, it pondered in many voices, was that? The Unum knew she could not defend forever, nor could her faithful throw their bodies against the Sentient in perpetuity. So she gave her followers some of her blood - her refined Temple kuva - and they in turn gave it to the animals of the land, and the animals became and extension of her and she became an extension of them. And the animals roamed, and searched. And they found where the Sentient chose to hide itself." [音声](https://wiki.warframe.com/w/File:DGQLoreFrag0030Onkko_en.ogg)
+- Night in Cetus
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / The distant, mournful howls of the Eidolon - yearning for the terror it once was - drift through the alleys and byways across the rooftops, to the ears of sleeping families.
+- Onkko Transmission / "The Sentient sensed this subterfuge, and capturing one of the Unum's animals opened it up for examination. And what little of the Unum was present there... lit the Sentient's mind like the dark star from which it had fallen. The Sentient, you see, could not procreate. But in the Temple kuva it tasted healing. Completeness. A future. It devoured each and every last Unum-animal, but it was not enough. The Sentient turned its hundreds of eyes toward the Tower with new understanding: it would not destroy the Tower. It would become the Tower. It would kill the Unum, take her place and, one with that healing palace, give birth to a race of itself. Gara and Unum knew where the Sentient was. The Sentient knew the tower was the future of its race. The Sentient threw itself at the tower, no longer cautious, taking great losses and knowing the prize was worthy of it. Should it succeed all losses would be replaced a thousand-fold. This is when, across the Plains, the great pylons ignited for the first time. Sheets of energy sprung up between them, powered by the will of the Unum at their epicenter, trapping the monstrosity within. Loyal Gara, unwilling to heed inaction any longer, broke from the side of the Unum and flew out at night, her eyes on the Sentient mind." [音声](https://wiki.warframe.com/w/File:DGQLoreFrag0040Onkko_en.ogg)
+- Ostron Cuisine
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Chimurr: Fill the gourd with bomba leaves, then add steaming water and imbibe wthrough a burnished juta reed. A very old Ostron tradition. To serve it to guests signifies union and friendship. / Harpu: fresh-brewed chimurr with melted vobi butter creates a filling, tasty beverage. It is often bulked out with salt and balb flour. Always served hot. / Daku liquor: highly sought after. The Suma Doni (a lowlands marsupial) eats the peca nut, which excretes a fine paste. It is from this paste that the Ostrons make daku liquor. / Golden caviar: harvested from abyssal depths such as the Geonate Shelf. / Kubuchi: fermented sorghum. Cheap liquor. No Ostron would be caught drinking it in public. Any offworlder who does is immediately seen as a greenhorn and an easy mark. / Wine: some merchants claim to be able to imbue a bottle with the 'etheric signature' of a person one wishes to be rid of. Drink them in the evening, expel them by morning. / Ito-da (termite droppings): Mineral-dense. Will keep a traveler going long after their hunger should have dropped them.
+- Onkko Transmission / "The Sentient, torn between its coveted prize and a mortal threat, broke from the Tower and turned back on itself from noble Gara. But Gara's eyes were not for the Sentient - but for the glittering, man-sized device resting just beyond the gates. It had not been there before, but it was there now. It swatted Gara from the sky, drew it to herself, meaning to end her life there and then. The battle was terrible. Gara sustained injuries she would not survive. But! In her final moments brave Gara seized upon the device her beloved Unum had crafted, seized it to her breast, and allowed the Sentient to draw her in one final time. Toward its core. Toward the seat of its intelligence. From within the Sentient unfurled myriad feelers, probles, tendrils - viciously-toothed and made for killing. They swept towards Gara, violently, and the Glass Warrior made no defense. Her defense was her final attack. The device detonated, and the Unum cried out as night lit as day. The battle - the terror - was ended. The Tower walls shook. The Sentient's body shuddered, wracked by a cacophonous energy. Forests fell as piece after piece, giant body after giant body crashed to the Plains and marshes and flatlands. Animals fled in spreading waves from pounding sky-high walls of dust, angered and whipped to fury by the death of a god. The last of Gara's energy arced from body-to-body, machine-to-machine, piece-to-piece, a horizon-wide applause of light beautiful and terrible. And then... silence. All was still. The Unum's adherents wandered throughout the haze, calling for one another, lost in a miasma. Husbands seizing onto wives, children onto parents. It was over. Gara was never seen again. The Sentients, then, became as they are now: senseless, wandering, yearning for a unity they sense more than they remember. And the Unum. The Unum survived, alone, for centuries. Until today. When you stand here, reading this. This is Onkko, Cetus Archivist, with my translation of the Gara legend." [音声](https://wiki.warframe.com/w/File:DGQLoreFrag0050Onkko_en.ogg)
+
+### Encrypted Journal Fragments
+
+- This section is transcluded from Fragments/Ghoul. To change it, please edit the transcluded page.
+- The Encrypted Journal Fragments of the Corpus researcher Sigor Savah are available as possible uncommon stage-rewards during Ghoul Purge Bounties or as drops from Ghoul enemies. They reveal info of the Grineer Ghouls, as well as interviews from various Cetus citizens about fighting the Ghouls.
+- Decrypting these fragments reveals the story of Specimen VK-7, narrated by Sigor Savah.
+- View Encrypted Journal Fragments List▾▾
+- Devourer
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / "It came through the wall. All I remember is the roar, the open maw... the rank foulness of its breath. The lolling tongue. And... the way two of my friends were crushed between it and our grain silo. The way it seemed to fall in love with tearing them apart, over and over and over..." / Interviews in the Field, Eidolon Plains, conducted by Sigor Savah
+- Sigor Savah Transmission / "Every living thing longs to be whole. Every living thing yearns to defy death. If from death you returned, yet the part you loved best did not... what then?" [音声](https://wiki.warframe.com/w/File:DGhoulFragment1120Sigor_en.ogg)
+- Augur
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / "Its arms shot forward, the drills ratcheting outward... passing in and out of Horvath's body like it was nothing. I can still hear the screech of the drills. The maddening chatter of its teeth. Horvath's screams." / Interviews in the Field, Eidolon Plains, conducted by Sigor Savah.
+- Sigor Savah Transmission / "My name is Sigor Savah, morphology specialist with Nef Anyo's Venusian terraforming expedition. I was tasked with decoding the Orokin gene record of what had once been a preserve, and reviving select specimens for study. This is an account of my encounter with lifeform VK-7, a larger-than-average kavat specimen possessed of... atypical behavioral characteristics. Specimen VK-7, unlike the others, did not come from a gene record. She was found frozen, in a sealed closet close to the environmental control station. Her unassuming tomb for millennia. Here, then, was an intact example of Orokin-era fauna. I was Corpus: a scientist second and a businessman first. VK-7 – an Orokin-strain kavat of unusual size and patterning... well... I could think of several members of the nobility who would pay a fortune for such a thing. Enough to buy a handsome slice of any planetoid of my choosing." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1130Sigor_en.ogg)
+- The Expired
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / "It came at me, wailing, like a lost thing screaming for help. Then it wrapped its clay-cold arms about me... and here I am. Barely anything left of me now, lying in this bed, except a few stories... and the memory of its face. Like a newborn child." / Interviews in the Field, Eidolon Plains, conducted by Sigor Savah.
+- Sigor Savah Transmission / "I had the corpse lain on a dissection rack, ready for a full surgical examination. Then, like any animal dreaming, the paw... ...twitched. I glanced at the vitals scanner, expecting to see some anomalous electrical reaction taking place, contracting ancient muscles... But no... What I saw there was a beating heart. I did not revive specimen VK-7. Before my eyes she willed herself back to life. It was... the most... beautiful... thing I had ever seen. Some speak of feeling a connection to something greater than themselves, to which I laughed, as any right-thinking Corpus would. Life is profit, profit is life. But, in that moment... watching that animal claw her way out of death's dark pit... though I did not admit to myself... something in me was forever changed." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1140Sigor_en.ogg)
+- Rictus
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / "Konzu gave us standing orders. Shoot the sawmen first. We’d seen what they had done to our brothers and sisters. That was not going to happen to us." / Interviews in the Field, Eidolon Plains, conducted by Sigor Savah.
+- Sigor Savah Transmission / "I found her sharp gaze unsettling. The way she would watch my every move from her cage unnerved me. When a visitor came I would watch VK-7 studying their habits. In time she came to anticipate regular arrivals, having memorized their schedules. On the morning of my fourth shift I entered my laboratory to find her cage door open and VK-7 gone. One consequence of breathing life back into a world is unintentionally resurrecting life forms and viruses one finds less desirable. The Infestation is both of those things. Reports returned of some hives sites found destroyed... and then of a large beast found at others. An animal intelligent enough to learn and react to Corpus behaviors and patterns. Some claimed it had learned to measure ammunition expenditure to better attack when a target was most vulnerable. Needless to say almost none who attacked the beast survived. This had to be Specimen VK-7." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1150Sigor_en.ogg)
+- Ghouls
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / I came to the Eidolon Plains not to explore horror, but to lay to rest an ancient mystery. It would seem, horror had something to say, regardless. The Ghouls. Grown in darkness, beneath the feet of the enemy. Born to fight... To kill... and to die. Truly, of all the places horror may call home, it is most comfortable within the imaginings of men. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "I left to join with a flamer team already deployed to a nearby hive. Both team and hive were dead when I arrived: killed by tooth and claw. Fearing for my life I made to leave, and was apprehended by the site of a low figure blocking my egress: Specimen VK-7. She prowled forward from the shadow of a shattered, snow-blown hive, her pawprints red with blood. I made to open a comm channel, to request assistance. VK-7 growled, low, and... I swear this to be true... slowly shook her head. I did not make that call. She padded closer, and I saw the wound on her side. She turned that side toward me: an act of trust... and a request for aid. I unpacked my field kit, and, carefully, went to work." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1160Sigor_en.ogg)
+- Overwhelming Numbers
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / The Ghouls are designed to a simple philosophy: victory assured, through overwhelming numbers and the element of surprise. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "I did not report my experience with Specimen VK-7. I could not admit, why, then, but now I can tell you. I felt it would have violated a trust. There I was: a morphology specialist, sworn to the Corpus Empire and yet... For reasons entirely illogical... I placed loyalty to a wild animal above my life oath... And every doctrine that values self-interest above... ‘charity’. But keep that confidence I did. I think that is why VK-7 brought me the hand." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1170Sigor_en.ogg)
+- A Tide of Claws and Flesh
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / Sudden terror... the element of surprise... and cheaply bought. Ghouls are shock troops, fast-grown in diapause bags, cultured from repurposed Grineer gene slurry. The key to victory is quantity over quality. A tide of claws and flesh to crush any enemy foolish enough to stand before it. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "Somehow she had managed to infiltrate the facility, bypass two different security gates, and had gained entry to my laboratory without raising an alarm... or my awareness. She held in her jaws a severed hand. Blackened. Fossilized. Gently, she laid it before me and, with a meaningful glance, turned, padded away into the shadows, and was gone. I analyzed the hand. What I learned that night, alone, in my laboratory, would become an obsession to focus the remainder of my life." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1180Sigor_en.ogg)
+- Doctor Tengus
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / While not of Vor’s design, the General uses the ghouls to good effect. / Credit for the development of these horrors goes to none other than Doctor Tengus: father of the infamously unstable Grustrag 3. Developed in his laboratories, against the wishes of Vor himself, and with the funding of a certain ill-fated Councillor... the Ghouls are Tengus' crowning achievement. / They have secured the Doctor’s place in the good grace of the Grineer Queens. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "The hand was of Orokin construction. Emphasis on that last word. Whoever the original possessor had been, they were born of no mother. In the past I had been privileged to read some of Alad V's treatises of Warframes, and there could be no mistake: what I held was the hand of one of those very... creatures... and one Anyo Corp had no record of. Therefore my first task was to extract a working blueprint – or as near as possible – from the sample's cellular makeup. One word recurred again and again, the word that had once been her name: Khora. Khora." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1190Sigor_en.ogg)
+- Strength in Numbers
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / Ghouls are far from the finest of Grineer troops, but what they lack in martial skill they make up for in sheer horrifying volume. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "I was convinced: Specimen VK-7 wanted Khora resurrected. Why else bring the hand to me? Why trust me with this sole remaining piece of a lost Orokin warrior? The evidence of such rich, nuanced cognition on the part of an animal.. that was the real treasure here – the value of which, I knew, would be lost on my superiors. VK-7 would be hunted down, and, at best, captured for testing. At worst... well. Therefore I told them none of this. To no avail." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1200Sigor_en.ogg)
+- Shock Troops
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / Ghouls are deployed in advance of regular Grineer troops. Before then, those troops must keep the ghouls sated... lest they turn upon those who failed to feed them. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "Specimen VK-7 was tracked to a box canyon 4.3 klicks south-southwest of the atmosphere processing station. The Horror of the Hives, as she had come to be known, had been deemed unworthy of study – and was to be destroyed in her lair. I positioned myself at the entrance to her cave-home and waited to doom myself in the name of some imagined ideal. My own voice screamed in my head “What are you doing? What are you *doing?*” Once, not so long before, I was a man who would have sold this animal for profit. Now I stood in the freezing cold, surrendering all I had for... some would say nothing. I would say... heh. Something greater than myself. They came, picking their way through the snow, heads bowed, pushing against a numbing, slashing wind that froze skin and... carried my voice to them. I begged them to stop, pleading VK-7's case with a bomb in my hand. It went about as well as you'd expect. They did not listen. Numsol is employed, traditionally, as an animal tranquilizer... but converts to an aerosol easily enough. The canister rolled from my fingers, into the canyon, puffed through four inches of frost, and erupted in a geyser of brown-green gas – thrown toward the hunters by the roaring wind. Bathing them... I am a better scientist than saboteur. Their respirators dealt with the Numsol as handily as every other contaminant, and I was promptly arrested. But VK-7 did escape. I achieved that much." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1210Sigor_en.ogg)
+- Born to Die
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / Especially degenerate Ghoul specimens are employed as suicide troops. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "The atmosphere processor wasn't made for imprisonment, or interrogations, but the lack of facilities did not prevent them performing both. Bound and beaten in maintenance closet A-5, I told them everything. It doomed me. Zyl, the oxygen tech from Reclamation 3, had a previous career in psychological operations for some branch of the military. Therefore he had been selected to administer to me, to interview me, and ultimate to execute me. Barrel pressed to my forehead Zyl said he would prefer it if I did not look at him. Obliging as ever, I closed my eyes. There was a sharp crack, then nothing more. I opened my eyes. Zyl lay dead at my feet, limp, throat clasp in VK-7's jaws. I was Corpus no longer. Remaining on Venus would be death for both of us. We had to escape." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1220Sigor_en.ogg)
+- Unstoppable
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / They are incapable of fear. Relentless. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "Together we made for an automated cargo relay – one that would ferry us anonymously to the hold of a Solaris rail tractor in geosynchronous orbit, and away from Venus. How well she guided me, circumnavigating patrol and security cameras. But, inevitably, my former comrades calculated our likely destination and closed in, rapidly. Plasma blasts lanced the air from both sides of the hangar. I bundled myself into the nearest open conveyor, bound for orbit – a waste of time, I knew. We had reached our means of escape, but had no hope of achieving it. Troopers and MOAs closed in, a classic pincer movement. Sparks and near-misses flashed hot against my face. In moments our conveyance would be destroyed, and us along with it – and my only thought was heartbreak for how badly I had failed her. In that final movement VK-7 did something that will stay with me for the rest of my days. With one of her meaningful glances - the last we would ever share - she reared up and activated the conveyor. My pod's door slammed shut and, outside my viewport, she leapt toward the enemy. Before I could slap the release and free myself the magrails activated and I was hauled out of the complex, skyward, and into orbit. Saved. Leaving her behind." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1230Sigor_en.ogg)
+- A New Phase
+- Planet/Region / Scans Required
+- Plains of Eidolon / 4
+- Fragment Lore / Massive casualties may be inflicted upon massed ranks of ghouls without slowing their advance. / This is a new phase in the Grineer campaign for dominance in the Origin System. / One that has increased the stakes for every sentient being who calls it home. / Sigor Savah, morphologist and antiquarian.
+- Sigor Savah Transmission / "That was... well, many years ago now. I have spent my life attempting to locate Khora's remains. Contacts inform me she was found, fused but intact, within the Orokin terraforming complex itself and shipped offworld via a notorious Solaris rail agent – who subsequently vanished. I now believe, firmly, that her remains are to be found on the Eidolon Plains. I got there now, entrusting these encrypted logs to my old friend, Konzu, for safekeeping. There I shall put a lifetime of searching to rest. I have never doubted that VK-7 survived Venus. And to this day I still believe that, before I leave this life forever, I shall one day look up from my writings to find a familiar figure standing in my doorway... alongside her kavat. I am Sigor Savah. A better man, as it turns out, than a scientist." [音声](https://wiki.warframe.com/w/File:DGhoulFragment1240Sigor_en.ogg)
+
+### Nakak Memory Fragments
+
+- This section is transcluded from Fragments/Revenant. To change it, please edit the transcluded page.
+- Given as part of the Revenant quest, Mask of the Revenant, Nakak offers three Fragments during the mission interactions.
+- Decrypting these fragments reveals the Revenant Legend, narrated by Nakak.
+- View Mask of the Lost One Fragments List▾▾
+- A New Threat Looms
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / A vision comes, something new is stirring within the ground. Seeking a body to call its own; longing to strike those who sent it to the grave.
+- Nakak Transmission / "Why do I remember this? The land here, killing hot, full of strangeness. This is where Gara vanquished the Sentient! Where its essence fell into the ground, trapped in some unworldly between. It wanted out. At moon-rise its ghostly tendrils would emerge, seeking form, seeking... return. / And this... this was the warden... a Warframe. I can see it, like a dream repeating... The tendril emerging, night after night, and the warden, night after night, cutting it down... Until the warden himself was lost. How?" [音声](https://wiki.warframe.com/w/File:DRevMaskShrineOne0080Nakak_en.ogg)
+- A Terror Long Forgotten
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / A fragment of the ancient Sentient that once terrorized these plains.
+- Nakak Transmission / "Ugh... here we go again. I remember... the pool glows, the tendril emerges... and this Warframe draws its weapon to destroy it yet again... wait... no. / He does not strike this time, he watches. Why? The phantom tendril grips trees and rocks, probing for substance... then fear returns and the lost one slashes the phantom, sending it back to its purgatory..." [音声](https://wiki.warframe.com/w/File:DRevMaskShrineTwo0130Nakak_en.ogg)
+- The Lost One
+- Planet/Region / Scans Required
+- Earth (Plains of Eidolon) / 1
+- Fragment Lore / Once the warden of the plains, tasked with protecting the Unum's tower and striking down the ghostly Eidolon forms that rose from the depths every night. Night after night, he cut them down. Not allowing them to take form. The one night, he disappeared, lost... forever.
+- Nakak Transmission / "I see... the tendril once again. Instead of striking it... the lost one... he extends a hand to the Eidolon?! Khanung! / What was he thinking? He's like Mukha on the tower. Every day, Mukha clamored across the tower ledges and scaffolds - nothing happened, day in and day out... Routine took his fear away. Uhh... / Tenno - I see the tendril has him now. The lost one. He's become an anchor for the Eidolon - to pull itself into our world! The lost one struggles, pulling back, but it's too late! The Eidolon begins to emerge. But... the lost one realizes - he stops... he lets go... / And so he falls. Falls from this world of the living and down, down, into the next. Mukha, that was so stupid." [音声](https://wiki.warframe.com/w/File:DRevMaskShrineThree0170Nakak_en.ogg)
+
+### Fortuna Fragments
+
+- This section is transcluded from Fragments/Solaris United. To change it, please edit the transcluded page.
+- The Fortuna Fragments are various Mem-Fragment logs that are scattered and hidden throughout the Orb Vallis, which visually resemble Debt-Bonds. These Fragments contain background information regarding the various NPC's that inhabit Fortuna.
+- Decrypting these fragments reveals Solaris United History, narrated by various Solaris (Eudico, Legs, Little Duck, etc).
+- View Eudico's Memory Fragments List▾▾
+- 1
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / I founded Solaris United the day an old woman had her pet taken from her. The day my best friend watched her arms be given to someone else. The day my mother lost her head. / I founded Solaris United the day I sold my heart. / To buy a gun.
+- Eudico Transmission / I founded Solaris United the day an old woman had her pet taken from her. The day my best friend watched her arms be given to someone else. The day my mother lost her head. / I founded Solaris United the day I sold my heart. / To buy a gun. [音声](https://wiki.warframe.com/w/File:DLoreFrag0010Eudico_en.ogg)
+- 2
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Biz just appeared one day. taught us how to fight economically, intelligently. Oh... Sparky, you should have seen us. Fireballing refineries by night, dutiful clean-up crew during the day. My job was to get people believing in us. Believing we could change things. / That got more people killed than anything Zuud and her sisters could have hoped to make.
+- Eudico Transmission / Biz just appeared one day. taught us how to fight economically, intelligently. Oh... Sparky, you should have seen us. Fireballing refineries by night, dutiful clean-up crew during the day. My job was to get people believing in us. Believing we could change things. / That got more people killed than anything Zuud and her sisters could have hoped to make. [音声](https://wiki.warframe.com/w/File:DLoreFrag0020Eudico_en.ogg)
+- 3
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / It was a small operation, one we almost didn't run. That's what keeps me up during the night. / Deck 12.
+- Eudico Transmission / It was a small operation, one we almost didn't run. That's what keeps me up during the night. / Deck 12. [音声](https://wiki.warframe.com/w/File:DLoreFrag0030Eudico_en.ogg)
+- 4
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Everyone i knew, everyone who believed in us, everyone I convinced to sign on... died. Parents, lovers... Zuud's sisters. Leg's folks. All gone. / Except us, and a few others. Me, Biz, Zuud, Little Duck. I washed my hands of it. They were bloody enough.
+- Eudico Transmission / Everyone i knew, everyone who believed in us, everyone I convinced to sign on... died. Parents, lovers... Zuud's sisters. Leg's folks. All gone. / Except us, and a few others. Me, Biz, Zuud, Little Duck. I washed my hands of it. They were bloody enough. [音声](https://wiki.warframe.com/w/File:DLoreFrag0040Eudico_en.ogg)
+- 5
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Then years later, Biz showed up again. And then you. And then, somehow, here we are. / This isn't the first Solaris United. It's the second. And one way or another, the last.
+- Eudico Transmission / Then years later, Biz showed up again. And then you. And then, somehow, here we are. / This isn't the first Solaris United. It's the second. And one way or another, the last. [音声](https://wiki.warframe.com/w/File:DLoreFrag0050Eudico_en.ogg)
+- View Leg's (Thursby's) Memory Fragments List▾▾
+- 1
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / So I ain't got no fam - biological or logical, Mumsie and Dadsie got burned up workin' for Solaris United the first time. Figured I'd be a ventkid, but then the Temple came lookin' to collect on what I took from 'em, an' left me barely a head. So, really things could only get better from there.
+- Legs Transmission / So I ain't got no fam - biological or logical, Mumsie and Dadsie got burned up workin' for Solaris United the first time. Figured I'd be a ventkid, but then the Temple came lookin' to collect on what I took from 'em, an' left me barely a head. So, really things could only get better from there. [音声](https://wiki.warframe.com/w/File:DLoreFrag00010Legs_en.ogg)
+- 2
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Can't be a ventkid all MOA'd up. Don't fit, can't crawl, can't board. So i make my biological fam right here in me shop. Y'can see the resemblence. Runs in the family. / Woulda been a ventkid, though. For sure.
+- Legs Transmission / Can't be a ventkid all MOA'd up. Don't fit, can't crawl, can't board. So i make my biological fam right here in me shop. Y'can see the resemblence. Runs in the family. / Woulda been a ventkid, though. For sure. [音声](https://wiki.warframe.com/w/File:DLoreFrag00020Legs_en.ogg)
+- 3
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Mister The Business has been really good to me since... since my accident. Always comin' over with somethin. I tell him he doesn't have to, but he says to me "In revolution, it is the weakest who sacrifice the most. You've done your part, that I might do mine." And then he hands me a nutrient canister or a part I can use. It's nice and all, but why's he looks so sad about it?
+- Legs Transmission / Mister The Business has been really good to me since... since my accident. Always comin' over with somethin. I tell him he doesn't have to, but he says to me "In revolution, it is the weakest who sacrifice the most. You've done your part, that I might do mine." And then he hands me a nutrient canister or a part I can use. It's nice and all, but why's he looks so sad about it? [音声](https://wiki.warframe.com/w/File:DLoreFrag00030Legs_en.ogg)
+- 4
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Mister The Business got me thinkin': me and my MOAs, we're tight. I need it, they do it. If Nef does try musclin' the Solaris out with his MOAs again... I might just replace his with some of my own. Get inside his head, chek? I mean, I'd rather be gettin' my music to the people, but who says I can't also be a beautiful spider at the center of a big ol' web of subterfuge and intrigue?
+- Legs Transmission / Mister The Business got me thinkin': me and my MOAs, we're tight. I need it, they do it. If Nef does try musclin' the Solaris out with his MOAs again... I might just replace his with some of my own. Get inside his head, chek? I mean, I'd rather be gettin' my music to the people, but who says I can't also be a beautiful spider at the center of a big ol' web of subterfuge and intrigue? [音声](https://wiki.warframe.com/w/File:DLoreFrag00040Legs_en.ogg)
+- 5
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / I was hangin' in my rack the other cycle, 'bout to power down, an' I hear Boon and Roky and the venters bangin' skeg on the pipes and ducts. They had a good bounce goin' so's I start singin', as I do. Got a little loud, and the skeg stops. I get all quiet like. Really stepped in it, thinks me. Then the grill pops and Boon's got his head in my hab sayin "Keep it goin'?" Didn't sleep much that night. Neighbors neither.
+- Legs Transmission / I was hangin' in my rack the other cycle, 'bout to power down, an' I hear Boon and Roky and the venters bangin' skeg on the pipes and ducts. They had a good bounce goin' so's I start singin', as I do. Got a little loud, and the skeg stops. I get all quiet like. Really stepped in it, thinks me. Then the grill pops and Boon's got his head in my hab sayin "Hey, keep it goin'?" Didn't sleep much that night. Neighbors neither. Ventkid, yeah. That's me. [音声](https://wiki.warframe.com/w/File:DLoreFrag00050Legs_en.ogg)
+- View Little Duck's Memory Fragments List▾▾
+- 1
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Quills wanted me sellin' arms to the Tenno. Back in Fortuna. Not bloody likely. Quills. Shady, side-mouthed, doubletalking ambidexter-feeling muckers. Never trust anyone who don't speak plain. Told 'em thanks but hop it. / I'd a previous commitment: a contract to extract a Corpus defector name of Jubb Lott. / Quill smiled that smile. The smile I hate the most. The smile of a body who thinks 'e's two steps ahead. / The more I think about it, the more I know he was. / Pratoo. That was his name. Quill Pratoo Secondary sahd.
+- Little Duck Transmission / Quills wanted me sellin' arms to the Tenno. Back in Fortuna. Not bloody likely. Quills. Shady, side-mouthed, doubletalking ambidexter-feeling muckers. Never trust anyone who don't speak plain. Told 'em thanks but hop it. / I'd a previous commitment: a contract to extract a Corpus defector name of Jubb Lott. / Quill smiled that smile. The smile I hate the most. The smile of a body who thinks 'e's two steps ahead. / The more I think about it, the more I know he was. / Pratoo. That was his name. Quill Pratoo Secondary sahd. [音声](https://wiki.warframe.com/w/File:DLoreFragDuckOne0010LittleDuck_en.ogg)
+- 2
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / JUBB LOTT: Today? I didn't know you were coming today! LITTLE DUCK: That's how hostile extractions typically work, Jubb! Unless you'd like to pencil me in! For a two-thirty next week! Maybe copy in your supervisor and half the security team? JUBB LOTT: AAGH! LITTLE DUCK: What is their problem?! JUBB LOTT: I MEAN ALL MY FILES ARE STILL IN MY OFFICE! YOU KNOW: THE WHOLE REASON YOU'RE DOING THIS? LITTLE DUCK: What files? I wasn't told about any files! JUBB LOTT: That's because I didn't tell them! LITTLE DUCK: Tell who? Tell who, Jubb! JUBB LOTT: The Quills, alright? The Quills! / And that's when it all made a cruddy kind of mucking sense. I'd been set up.
+- Little Duck & Jubb Lott Transmission / Jubb Lott: "Today? I didn't know you were coming today!" / Little Duck: "That's how hostile extractions typically work, Jubb! (blam) Unless (blam) you'd like (blam) to pencil me in! (blam) for a two-thirty next week! Maybe copy in your supervisor and half the security team?" / Jubb Lott: "AAGH!" / Little Duck: "What is their problem?!" / Jubb Lott: "I MEAN ALL MY FILES ARE STILL IN MY OFFICE! YOU KNOW: THE WHOLE REASON YOU'RE DOING THIS?" / Little Duck: "What files? I wasn't told about any files!" / Jubb Lott: "That's because I didn't tell them!" / Little Duck: "Tell who? Tell who, Jubb!" / Jubb Lott: "The Quills, alright? The Quills!" / Little Duck: "And that's when it all made a cruddy kind of mucking sense. I'd been set up." [音声](https://wiki.warframe.com/w/File:DLoreFragDuckTwo0020Jubb_en.ogg)
+- 3
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / It was hairy but I managed to get us behind a sealed bulkhead, into Lott's office. / LITTLE DUCK: They don't fight like this for mid-level pencilnecks! Who are you? JUBB LOTT: Jubb. Lott. Secondary Sub-Architect of Nef Anyo's Venusian Restoration. I... have information. / And then he said it. / JUBB LOTT: For Solaris United. / And then he got killed. / JUBB LOTT: Unf!
+- Little Duck & Jubb Lott Transmission / Little Duck: "It was hairy but I managed to get us behind a sealed bulkhead, into Lott's office." / Little Duck: "They don't fight like this for mid-level pencil-necks! Who are you?" / Jubb Lott: "Jubb. Lott. Secondary Sub-Architect of Nef Anyo's Venusian Restoration. I... have information." / Little Duck: "And then he said it." / Jubb Lott: "For Solaris United." / Little Duck: "And then he got killed." / Jubb Lott: "Unf!" [音声](https://wiki.warframe.com/w/File:DLoreFragDuckThree0130LittleDuck_en.ogg)
+- 4
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / So, Solaris United was on its feet again. I've got friends in Fortuna. The first time SU tried to knock the crown off Nef's head it almost got every last of them killed. Some of them, it did. (pause) Biz once told me how he survives atrocity. 'If there's a fire on Deck 12, you seal off Deck 12. You don't go in. That's how you burn up. You wait 'til the fire's starved of oxygen. That's where you go in, assess the damage and clean up. 'I can't seal off Deck 12. Deck 12 is where I live. / LITTLE DUCK: What information? Tell me now! (blam blam) JUBB LOTT: Nef. Vallis. Orb Mothers... It's been developed... LITTLE DUCK: What? What's been developed?! JUBB LOTT: Shielding... Satellites... The Orb Mothers... cannot be... LITTLE DUCK: Jubb? What? The Orb Mothers cannot be what? Jubb!
+- Little Duck & Jubb Lott Transmission / Little Duck: "So, Solaris United was on its feet again. I've got friends in Fortuna. The first time SU tried to knock the crown off Nef's head it almost got every last of them killed. Some of them, it did. (pause) Biz once told me how he survives atrocity. 'If there's a fire on Deck 12, you seal off Deck 12. You don't go in. That's how you burn up. You wait 'til the fire's starved of oxygen. That's where you go in, assess the damage and clean up. 'I can't seal off Deck 12. Deck 12 is where I live." / Little Duck: "What information? Tell me now! (blam blam)" / Jubb Lott: "Nef. Vallis. Orb Mothers... It's been developed..." / Little Duck: "What? What's been developed?!" / Jubb Lott: "Shielding... Satellites... The Orb Mothers... cannot be..." / Little Duck: "Jubb? What? The Orb Mothers cannot be what? Jubb!" [音声](https://wiki.warframe.com/w/File:DLoreFragDuckFour0200LittleDuck_en.ogg)
+- 5
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Biz saved me from a swabbing latrines on Phobos. He made me what I am. But only because I left before I became what he was. / Now... now I have to go back. Everything Jubb knew... Biz had to know. Eudi had to know. They, and everyone in Fortuna, could be proper beached if I didn't. Pencilnecks like Jubb don't risk their hide unless they mean it. Whatever Nef was doin' with those Orb Mothers would be a hammer on the head of SU. Had to go back. If I didn't, if something happened to Fortuna, I'd never sleep proper again. / So. No more treasure hunting for LD. No more rescues. Back to where it all happened, and hope that this time it wasn't burning, and me along with it.
+- Little Duck Transmission / Little Duck: "Biz saved me from a swabbing latrines on Phobos. He made me what I am. But only because I left before I became what he was." / Little Duck: "Now... now I have to go back. Everything Jubb knew... Biz had to know. Eudi had to know. They, and everyone in Fortuna, could be proper beached if I didn't. Pencilnecks like Jubb don't risk their hide unless they mean it. Whatever Nef was doin' with those Orb Mothers would be a hammer on the head of SU. Had to go back. If I didn't, if something happened to Fortuna, I'd never sleep proper again. So. No more treasure hunting for LD. No more rescues. Back to where it all happened, and hope that this time it wasn't burning, and me along with it." [音声](https://wiki.warframe.com/w/File:DLoreFragDuckFive0260LittleDuck_en.ogg)
+- View Rude Zuud's Memory Fragments List▾▾
+- 1
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Chatter wakes me, tells me a woman is at my lock, asking for water. Her carapace is scorched. Her raiments, burnt. I fetch water. When I return there are five more women. All singed. They say they are from... Deck 12.
+- Rude Zuud Transmission / Chatter wakes me, tells me a woman is at my lock, asking for water. Her carapace is scorched. Her raiments, burnt. I fetch water. When I return there are five more women. All singed. They say they are from... Deck 12. [音声](https://wiki.warframe.com/w/File:DLoreFrag1750Zuud_en.ogg)
+- 2
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / There is no Deck 12. I am certain I have seen those faces before. I fetch more water. I return, they are gone. I return to my rack, feeling... I return to my rack angry at the inconvenience is what I do!
+- Rude Zuud Transmission / There is no Deck 12. I am certain I have seen those faces before. I fetch more water. I return, they are gone. I return to my rack, feeling... I return to my rack angry at the inconvenience is what I do! [音声](https://wiki.warframe.com/w/File:DLoreFrag1760Zuud_en.ogg)
+- 3
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / The gentleman Business visited with me. Inconvenient. Why? Why so much talk when there is so much to do? The gentleman Business communicated the belief that... such nonsense... that I must 'make peace with what happened on Deck 12.'
+- Rude Zuud Transmission / The gentleman Business visited with me. Inconvenient. Why? Why so much talk when there is so much to do? The gentleman Business communicated the belief that... such nonsense... that I must 'make peace with what happened on Deck 12.' [音声](https://wiki.warframe.com/w/File:DLoreFrag1770Zuud_en.ogg)
+- 4
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Deck 12. Deck 12. What is this Deck 12. Chatter had stopped speaking entirely, then. "It's all right that you weren't there, Zuud. That's what your visitors wanted you to know. That fire was not for y..." Ach! Enough! Nonsense and stupidity and a waste of my time!
+- Rude Zuud Transmission / Deck 12. Deck 12. What is this Deck 12. Chatter had stopped speaking entirely, then. "It's all right that you weren't there, Zuud. That's what your visitors wanted you to know. That fire was not for y..." Ach! Enough! Nonsense and stupidity and a waste of my time! [音声](https://wiki.warframe.com/w/File:DLoreFrag1780Zuud_en.ogg)
+- 5
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / So many visitors, every one of them hoping to take something away. Dealing with them is like an uncomfortable dream, while speaking with Chatter is like being shaken awake. Are they real? How real are you, when you're sleeping? How real are you, floating, dreaming you are somewhere else? That's what Chatter wants to know. / How did the women at my lock know my name?
+- Rude Zuud Transmission / So many visitors, every one of them hoping to take something away. Dealing with them is like an uncomfortable dream, while speaking with Chatter is like being shaken awake. Are they real? How real are you, when you're sleeping? How real are you, floating, dreaming you are somewhere else? That's what Chatter wants to know. / How did the women at my lock know my name? [音声](https://wiki.warframe.com/w/File:DLoreFrag1790Zuud_en.ogg)
+- View Smokefinger's Memory Fragments List▾▾
+- 1
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / I... have no truck with the Corpus. The greatest damage done by avarice for the sake of avarice is precisely that it, without remorse or relent, demonstrates the easy sale of men and women who lend their bodies, their intellects, their voice... to ends in which they themselves do not believe. The Temple of Profit is an ideology that teaches one thing only. that all the creations of mind, words, images and ideas, are meaningless.
+- Smokefinger Transmission / I... have no truck with the Corpus. The greatest damage done by avarice for the sake of avarice is precisely that it, without remorse or relent, demonstrates the easy sale of men and women who lend their bodies, their intellects, their voice... to ends in which they themselves do not believe. The Temple of Profit is an ideology that teaches one thing only. that all the creations of mind, words, images and ideas, are meaningless. [音声](https://wiki.warframe.com/w/File:DLoreFrag0010Smokefinger_en.ogg)
+- 2
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / And that is how you keep people beaten. By starving them not only of models of something better, but draining them of wholesome inspiration, denying them examples of a higher way of being and sapping them of any belief that they can achieve it. / To the blunt: to Hell with the Corpus. / Although... although there was one Corpus, a singular man, for whom I make a singular exception. His name was Sigor Savah.
+- Smokefinger Transmission / And that is how you keep people beaten. By starving them not only of models of something better, but draining them of wholesome inspiration, denying them examples of a higher way of being and sapping them of any belief that they can achieve it. / To the blunt: to Hell with the Corpus. / Although... although there was one Corpus, a singular man, for whom I make a singular exception. His name was Sigor Savah. [音声](https://wiki.warframe.com/w/File:DLoreFrag0020Smokefinger_en.ogg)
+- 3
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / I was a younger man then, an assistant to the efforts of Morphology Specialist Sigor Savah, though I don't think he ever knew my name. Morphology Specialist Savah's job was to catalog and assess whatever lifeforms - dead or alive - were uncovered as Venus sprang back to life. That man sacrificed everything - career, future, perhaps even his life - to save a kavat, if you can believe that. I know because I helped him. Though he never knew that, either.
+- Smokefinger Transmission / I was a younger man then, an assistant to the efforts of Morphology Specialist Sigor Savah, though I don't think he ever knew my name. Morphology Specialist Savah's job was to catalog and assess whatever lifeforms - dead or alive - were uncovered as Venus sprang back to life. That man sacrificed everything - career, future, perhaps even his life - to save a kavat, if you can believe that. I know because I helped him. Though he never knew that, either. [音声](https://wiki.warframe.com/w/File:DLoreFrag0030Smokefinger_en.ogg)
+- 4
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / The kavat, Specimen VK-7, had been tracked to her lair and was to be destroyed. Sigor prevented that at the cost of his liberty, and was soon to lose his life. Coward that I was I told myself there was nothing I could do. / Then she was there. VK-7. In front of my hab, waiting, looking at me with more intelligence than any kavat should have. And she dropped keys at my feet. The keys to the security center. / It was I who opened the door to Sigor's cell. Who watched as VK-7 dispatched Sigor's would-be executioner, a Corpus I had often worked with in Reclamation 3. It was I who ensured one cargo pod in particular was replotted, to intercept an outbound Solaris rail tractor. It was I who sealed multiple bulkheads, to stem the flow of troopers meaning to end them both.
+- Smokefinger Transmission / The kavat, Specimen VK-7, had been tracked to her lair and was to be destroyed. Sigor prevented that at the cost of his liberty, and was soon to lose his life. Coward that I was I told myself there was nothing I could do. / Then she was there. VK-7. In front of my hab, waiting, looking at me with more intelligence than any kavat should have. And she dropped keys at my feet. The keys to the security center. / It was I who opened the door to Sigor's cell. Who watched as VK-7 dispatched Sigor's would-be executioner, a Corpus I had often worked with in Reclamation 3. It was I who ensured one cargo pod in particular was replotted, to intercept an outbound Solaris rail tractor. It was I who sealed multiple bulkheads, to stem the flow of troopers meaning to end them both. [音声](https://wiki.warframe.com/w/File:DLoreFrag0040Smokefinger_en.ogg)
+- 5
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Why did I do it? Hmm. (thinks, changes the subject for a moment) / I remember Sigor best this way: he puts down an instrument, respects me enough to look me in the eye, and he tells me: (pause - much slower, savoured delivery) "Every living being longs to be whole. Every living thing yearns to defy death. If from death you returned, yet the part you loved best did not... what then?" That was the last thing he ever said to me. / That is why I helped him. In saving that animal Sigor Savah had saved himself. How many of us can say that? I was not about to stand by and let the Corpus steal from him the one thing that was truly his. / To a flaming Hell with the bloody Corpus. / Cetus, is where Sigor went. The Plains. His story is out there, if you want to hear it. To this day, I hope he is, too.
+- Smokefinger Transmission / Why did I do it? Hmm. (thinks, changes the subject for a moment) / I remember Sigor best this way: he puts down an instrument, respects me enough to look me in the eye, and he tells me: (pause - much slower, savoured delivery) "Every living being longs to be whole. Every living thing yearns to defy death. If from death you returned, yet the part you loved best did not... what then?" That was the last thing he ever said to me. / That is why I helped him. In saving that animal Sigor Savah had saved himself. How many of us can say that? I was not about to stand by and let the Corpus steal from him the one thing that was truly his. / To a flaming Hell with the bloody Corpus. / Cetus, is where Sigor went. The Plains. His story is out there, if you want to hear it. To this day, I hope he is, too. [音声](https://wiki.warframe.com/w/File:DLoreFrag0050Smokefinger_en.ogg)
+- View The Business' Memory Fragments List▾▾
+- 1
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / In this life a person has to find that which is more important than themselves. The Orb Vallis died a long time ago. It should not exist. But here it is. It has a second chance. If that's not hope, then what is? I respect anything... that fights its way back from death.
+- The Business Transmission / In this life a person has to find that which is more important than themselves. The Orb Vallis died a long time ago. It should not exist. But here it is. It has a second chance. If that's not hope, then what is? I respect anything... that fights its way back from death. [音声](https://wiki.warframe.com/w/File:DLoreFrag1800TheBusiness_en.ogg)
+- 2
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / A sculptor sees the shape within the rock. Their skill lies in removing anything that is not that shape, delivering something beautiful and lasting into the world.
+- The Business Transmission / A sculptor sees the shape within the rock. Their skill lies in removing anything that is not that shape, delivering something beautiful and lasting into the world. [音声](https://wiki.warframe.com/w/File:DLoreFrag1810TheBusiness_en.ogg)
+- 3
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / I was a sculptor, of sorts. Modest. My task was the considered removal of those who obscured the shape of what we wanted to be. With their deletion a just society came into clearer focus.
+- The Business Transmission / I was a sculptor, of sorts. Modest. My task was the considered removal of those who obscured the shape of what we wanted to be. With their deletion a just society came into clearer focus. [音声](https://wiki.warframe.com/w/File:DLoreFrag1820TheBusiness_en.ogg)
+- 4
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Small actions lead to powerful outcomes. One example: a young man is repoed, and Eudico resurrects the resistance. / Wise conservation is all about understanding... patterns. Cause and effect. When orchestrating change in an ecosystem, ask: how will the system reconfigure in response to this new species. New forests? Redirected rivers? Diverse and beneficial new breeds? It is all connected.
+- The Business Transmission / Small actions lead to powerful outcomes. One example: a young man is repoed, and Eudico resurrects the resistance. / Wise conservation is all about understanding... patterns. Cause and effect. When orchestrating change in an ecosystem, ask: how will the system reconfigure in response to this new species. New forests? Redirected rivers? Diverse and beneficial new breeds? It is all connected. [音声](https://wiki.warframe.com/w/File:DLoreFrag1830TheBusiness_en.ogg)
+- 5
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / It was Legs' punishment that inspired Eudico to resurrect Solaris United. Lean and wise, it is time for the hungry, furious wolf to enter the woods. For the Corpus to receive a selective and beneficial extinction. / A small price to pay. A young man's body. An old man's soul.
+- The Business Transmission / It was Legs' punishment that inspired Eudico to resurrect Solaris United. Lean and wise, it is time for the hungry, furious wolf to enter the woods. For the Corpus to receive a selective and beneficial extinction. / A small price to pay. A young man's body. An old man's soul. [音声](https://wiki.warframe.com/w/File:DLoreFrag1840TheBusiness_en.ogg)
+- View Ticker's Memory Fragments List▾▾
+- 1
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Used to be every time an old love ended and a new one began, friends would say "You seem so much happier now." And I'd smile and I'd agree and then I'd go back to my hab... and say your name. Just to feel it on my lips again. Like summoning a ghost.
+- Ticker Transmission / Used to be every time an old love ended and a new one began, friends would say "You seem so much happier now." And I'd smile and I'd agree and then I'd go back to my hab... and say your name. Just to feel it on my lips again. Like summoning a ghost. [音声](https://wiki.warframe.com/w/File:DLoreFrag0010Ticker_en.ogg)
+- 2
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / We met in unspoken agreement. You called me by the name of the one who had hurt you. My name for you was the name of the one who had wounded me. We played the part for each other. When I spoke, I spoke for them. Through you I told the one who had wounded me all the little things I never had the chance to. Cooked them all the meals I never got to share. Made all the jokes. Laughed all the laughs. With them, through you. And you, with yours, through me. / Then, one day, you called me by my own name and we never looked back.
+- Ticker Transmission / We met in unspoken agreement. You called me by the name of the one who had hurt you. My name for you was the name of the one who had wounded me. We played the part for each other. When I spoke, I spoke for them. Through you I told the one who had wounded me all the little things I never had the chance to. Cooked them all the meals I never got to share. Made all the jokes. Laughed all the laughs. With them, through you. And you, with yours, through me. / Then, one day, you called me by my own name and we never looked back. [音声](https://wiki.warframe.com/w/File:DLoreFrag0020Ticker_en.ogg)
+- 3
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / There's a dream I have every now and then. You are you, in your own first body. And I am there in mine. I stand on the shore. You stand in the sea. I watch as the waves roll in, but never break against your back. They whisper right through you, and you fade away from me. Again. / I still have your glove. Just the one. The only thing I have left of you. In quiet moments I lay it on my lap, lace my fingers through yours, and make promises. / I promised that what happened to you would never happen to another. / Promises. I couldn't keep.
+- Ticker Transmission / There's a dream I have every now and then. You are you, in your own first body. And I am there in mine. I stand on the shore. You stand in the sea. I watch as the waves roll in, but never break against your back. They whisper right through you, and you fade away from me. Again. / I still have your glove. Just the one. The only thing I have left of you. In quiet moments I lay it on my lap, lace my fingers through yours, and make promises. / I promised that what happened to you would never happen to another. / Promises. I couldn't keep. [音声](https://wiki.warframe.com/w/File:DLoreFrag0030Ticker_en.ogg)
+- 4
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / I sold my arms to buy you an arm. I sold my legs to buy you a leg. I sold my lungs, my bones, my heart... to buy a safe place to cradle your beautiful head. I bought you back from them. I brought you back to me. You in the body I had bought for you, me in the body I had earned to replace the one I sold. / But you weren't you. Not anymore.
+- Ticker Transmission / I sold my arms to buy you an arm. I sold my legs to buy you a leg. I sold my lungs, my bones, my heart... to buy a safe place to cradle your beautiful head. I bought you back from them. I brought you back to me. You in the body I had bought for you, me in the body I had earned to replace the one I sold. / But you weren't you. Not anymore. [音声](https://wiki.warframe.com/w/File:DLoreFrag0040Ticker_en.ogg)
+- 5
+- Planet/Region / Scans Required
+- Venus (Orb Vallis) / 1
+- Fragment Lore / Sat so long on the Taxman's shelf, you barely knew who you were. And you certainly didn't know me. / The goodbyes I said decades earlier... they stuck. / These days you work the canal with few memories of who you were. And I'm in the business of keeping promises.
+- Ticker Transmission / Sat so long on the Taxman's shelf, you barely knew who you were. And you certainly didn't know me. / The goodbyes I said decades earlier... they stuck. / These days you work the canal with few memories of who you were. And I'm in the business of keeping promises. [音声](https://wiki.warframe.com/w/File:DLoreFrag0050Ticker_en.ogg)
+
+### Partnership Fragments (Corpus Gas City)
+
+- This section is transcluded from Fragments/Partnership. To change it, please edit the transcluded page.
+- Partnership Fragments are small Sentient figurines contained inside Hexenon canisters. They can be found scattered and hidden throughout the Corpus Gas City. These fragments detail the "partnership" formed between Alad V and the Sentients.
+- Decrypting these fragments reveals Alad V's Partnership, narrated by Alad V.
+- View Partnership Fragments List▾▾
+- The Partnership Fragment 1/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / Things have never been this bad. The currents are strengthening in that rank cesspool of a Board. Nef Anyo has consolidated his power on Venus, winning Frohd Bek's favor. All eyes are turning toward their new darling. And the currents... the currents would drag me down. / I am underestimated. I am unseen. I must turn that to my advantage.
+- Alad V Transmission / Things have never been this bad. The currents are strengthening in that rank cesspool of a Board. Nef Anyo has consolidated his power on Venus, winning Frohd Bek's favor. All eyes are turning toward their new darling. And the currents... the currents would drag me down. / I am underestimated. I am unseen. I must turn that to my advantage. [音声](https://wiki.warframe.com/w/File:DGCAladFrag1590AladV_en.ogg)
+- The Partnership Fragment 2/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / I seek advantage and advantage appears! I'd long thought that old fool Regus dead, but here is - rich and gullible as ever! With an offer of shared wealth. Says he has tech like I've never seen! Old War tech. And he wants an investor. Oh, I'll invest all right...
+- Alad V Transmission / I seek advantage and advantage appears! I'd long thought that old fool Regus dead, but here is - rich and gullible as ever! With an offer of shared wealth. Says he has tech like I've never seen! Old War tech. And he wants an investor. Oh, I'll invest all right... [音声](https://wiki.warframe.com/w/File:DGCAladFrag1600AladV_en.ogg)
+- The Partnership Fragment 3/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / This is about more than investment. Regus surprises me. How a man of his limited intellect came by such wonders is... But... forget that. What he has is... exceptionally viable. Where did he find this technology? It stinks of Tau, but the advantages to be had in the exploitation of it... the things I could create... the profits I could accrue... the Board will never dare underestimate me again!
+- Alad V Transmission / This is about more than investment. Regus surprises me. How a man of his limited intellect came by such wonders is... But... forget that. What he has is... exceptionally viable. Where did he find this technology? It stinks of Tau, but the advantages to be had in the exploitation of it... the things I could create... the profits I could accrue... the Board will never dare underestimate me again! [音声](https://wiki.warframe.com/w/File:DGCAladFrag1610AladV_en.ogg)
+- The Partnership Fragment 4/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / Regus' price was high, but I dangled the Board's most enticing intellectual property, SysComm, to seal the deal. Then I placed a contract, loaded with escape clauses and loopholes, in that slack, idiot's fingers... And he signed! The fool signed without even reading it! / Any partner that thick is a liability. A liability soon to be nullified.
+- Alad V Transmission / Regus' price was high, but I dangled the Board's most enticing intellectual property, SysComm, to seal the deal. Then I placed a contract, loaded with escape clauses and loopholes, in that slack, idiot's fingers... And he signed! The fool signed without even reading it! / Any partner that thick is a liability. A liability soon to be nullified. [音声](https://wiki.warframe.com/w/File:DGCAladFrag1620AladV_en.ogg)
+- The Partnership Fragment 5/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / Regus has changed. Or, perhaps, he is not such a fool... and today I saw beneath the mask. He is no longer so agreeable. Rather he came to our meeting with a raft of his own, radical, proposals. An entire shift in direction. And then, as I made to leave, he smiled. He smiled and, for just a second, I don't think his face was human at all. / This is all wrong. I'm tearing up the contract. I have a terrible feeling that if I do not escape this partnership immediately, I never will.
+- Alad V Transmission / Regus has changed. Or, perhaps, he is not such a fool... and today I saw beneath the mask. He is no longer so agreeable. Rather he came to our meeting with a raft of his own, radical, proposals. An entire shift in direction. And then, as I made to leave, he smiled. He smiled and, for just a second, I don't think his face was human at all. / This is all wrong. I'm tearing up the contract. I have a terrible feeling that if I do not escape this partnership immediately, I never will. [音声](https://wiki.warframe.com/w/File:DGCAladFrag1630AladV_en.ogg)
+- The Partnership Fragment 6/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / That was not Regus. It was never Regus. It revealed its true face to me and... by the Void. I've entered into a partnership... with Sentients. The world-builders, the world-killers. Our enemy under all. This contract is worthless. Instead, they demand submission. / CT! Assemble the disciples. Arm the Condors. Those oversized crustaceans have no idea who they're dealing with.
+- Alad V Transmission / That was not Regus. It was never Regus. It revealed its true face to me and... by the Void. I've entered into a partnership... with Sentients. The world-builders, the world-killers. Our enemy under all. This contract is worthless. Instead, they demand submission. / CT! Assemble the disciples. Arm the Condors. Those oversized crustaceans have no idea who they're dealing with. [音声](https://wiki.warframe.com/w/File:DGCAladFrag1640AladV_en.ogg)
+- The Partnership Fragment 7/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / That did not go as planned. Thousands against one. That massive grotesque tore through my forces like a shark through a shoal. We never inflicted so much as a scratch. / Now it perches outside my home. The message is Clear. I am to make Amalgams, and if I cross them, the Ropalolyst makes an ash cloud of this city. / If my rivals find out, I'll be executed for treason. What choice do I have (contempt) but to comply?
+- Alad V Transmission / That did not go as planned. Thousands against one. That massive grotesque tore through my forces like a shark through a shoal. We never inflicted so much as a scratch. / Now it perches outside my home. The message is clear. I am to make Amalgams, and if I cross them, the Ropalolyst makes an ash cloud of this city. / If my rivals find out, I'll be executed for treason. What choice do I have but to comply? [音声](https://wiki.warframe.com/w/File:DGCAladFrag1650AladV_en.ogg)
+- The Partnership Fragment 8/8
+- Planet/Region / Scans Required
+- Jupiter / 1
+- Fragment Lore / Disciples! Good news! The Amalgam program has entered into a fruitful partnership. Pursuant to our agreement, their identities will be kept confidential, and a strict no-fly zone shall be instated around their craft. / In time the nature of our project will be made known. Until then know that we work for a brighter Corpus future! (mask slips a little, a tiny leak of despondency) Life is Profit.
+- Alad V Transmission / Disciples! Good news! The Amalgam program has entered into a fruitful partnership. Pursuant to our agreement, their identities will be kept confidential, and a strict no-fly zone shall be instated around their craft. / In time the nature of our project will be made known. Until then know that we work for a brighter Corpus future! Life is Profit. [音声](https://wiki.warframe.com/w/File:DGCAladFrag1660AladV_en.ogg)
+
+### The Tenets (Corpus Ship)
+
+- This section is transcluded from Fragments/The Tenets. To change it, please edit the transcluded page.
+- The Tenets are Corpus lore fragments obtained by paying tribute via Granum Crown to the Corpus Temple Reliefs (large fountain altars of Parvos Granum), in the Corpus Ship tileset. They tell the tale of Parvos Granum's life before he became the Corpus Founder and his rise to power.
+- Decrypting these fragments reveals The Tenets, narrated by Parvos Granum.
+- View The Tenets List▾▾
+- Humble Beginnings
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / Day after day we toiled, my father, my brother Cladius, pulling grains for the Orokin takers in the city, as our kind had done for generations. We were young but the work made us old. Our backs ached, our hands bled, the sun tortured our skin. In the worst times, it felt as though death would claim us before the day was through. It was on one such afternoon that I was fated to first hear that glorious sound. A whisper I strained to hear. In a tongue not of man, but of something... else. Something... grander. A language I understood instinctively. The language of Desire. It said: / "Fear not poverty. Poverty is the bitter soil in which sweet desire blossoms."
+- Parvos Granum Transmission / Day after day we toiled, my father, my brother Cladius, pulling grains for the Orokin takers in the city, as our kind had done for generations. We were young but the work made us old. Our backs ached, our hands bled, the sun tortured our skin. In the worst times, it felt as though death would claim us before the day was through. It was on one such afternoon that I was fated to first hear that glorious sound. A whisper I strained to hear. In a tongue not of man, but of something... else. Something... grander. A language I understood instinctively. The language of Desire. It said: / "Fear not poverty. Poverty is the bitter soil in which sweet desire blossoms." [音声](https://wiki.warframe.com/w/File:DReliefs0010Parvos_en.ogg)
+- To The City
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / The more we toiled the more impatient I grew. A fire raged inside me. I wanted more. I deserved more. / But how? The whisper washed over me, louder now than before: / "Fortune despises the idle man. Stasis is death. Always move forward." / And so, with only the whisper to guide me, I straightened my back, wiped the dirt off my hands, and left.
+- Parvos Granum Transmission / The more we toiled the more impatient I grew. A fire raged inside me. I wanted more. I deserved more. / But how? The whisper washed over me, louder now than before: / "Fortune despises the idle man. Stasis is death. Always move forward." / And so, with only the whisper to guide me, I straightened my back, wiped the dirt off my hands, and left. [音声](https://wiki.warframe.com/w/File:DReliefs0020Parvos_en.ogg)
+- What Right Do They Have?
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / The city. Those towers. I was struck with awe. What glorious totems of greed those Orokin had built. Built on. Our. Backs. Their wealth was my wealth. I was starved, while our masters were fat. and full. and warm. They flaunted their wealth, left it sitting there for the taking: priceless gemstones decorating the tower gates. I was afraid, but the whisper gave me courage. / "Be envious. Covet. Then take what you desire." / So, that is what I did.
+- Parvos Granum Transmission / The city. Those towers. I was struck with awe. What glorious totems of greed those Orokin had built. Built on. Our. Backs. Their wealth was my wealth. I was starved, while our masters were fat. and full. and warm. They flaunted their wealth, left it sitting there for the taking: priceless gemstones decorating the tower gates. I was afraid, but the whisper gave me courage. / "Be envious. Covet. Then take what you desire." / So, that is what I did. [音声](https://wiki.warframe.com/w/File:DReliefs0030Parvos_en.ogg)
+- The Taking
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / I was brash and bold. I struck at midday. I cried, "I take what I am owed!" as I ripped jewels from their tower gates and ran. / I did not get far. / For my blasphemy they dragged me to the tower square, throwing me to the ground in front of the sneering crowd of Orokin servants that mingled there. / The guards held aloft my satchel, containing the proof of my crime. I grasped at it, determined to reclaim what was mine. He snatched my arm, held me high and... with a dash of his plasma dagger... severed my left hand. The crowd jeered. Yet, I felt no pain, only clarity, for the whisper was with me again. It said: / "Deception is the sword of wisdom. Be wise." / They took my hand that day, but they did not take what I had earned.
+- Parvos Granum Transmission / I was brash and bold. I struck at midday. I cried, "I take what I am owed!" as I ripped jewels from their tower gates and ran. / I did not get far. / For my blasphemy they dragged me to the tower square, throwing me to the ground in front of the sneering crowd of Orokin servants that mingled there. / The guards held aloft my satchel, containing the proof of my crime. I grasped at it, determined to reclaim what was mine. He snatched my arm, held me high and... with a dash of his plasma dagger... severed my left hand. The crowd jeered. Yet, I felt no pain, only clarity, for the whisper was with me again. It said: / "Deception is the sword of wisdom. Be wise." / They took my hand that day, but they did not take what I had earned. [音声](https://wiki.warframe.com/w/File:DReliefs0040Parvos_en.ogg)
+- Crawling Back
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / I crawled back to the fields, where I collapsed before my father and brother. I was so near death they had read my Nava rites. My brother Claudius bemoaned me as a fool. How could I have abandoned them? Guilt washed over me. I asked the whisper, was he right? And the whisper replied: / "Beware the idle man who would lull you back into idleness." / Hearing this, I felt the life force stream back into me. I sat up. They protested. I stood and they tried to pull me down. I was too strong. There was now a fire in my chest that would not be denied.
+- Parvos Granum Transmission / I crawled back to the fields, where I collapsed before my father and brother. I was so near death they had read my Nava rites. My brother Claudius bemoaned me as a fool. How could I have abandoned them? Guilt washed over me. I asked the whisper, was he right? And the whisper replied: / "Beware the idle man who would lull you back into idleness." / Hearing this, I felt the life force stream back into me. I sat up. They protested. I stood and they tried to pull me down. I was too strong. There was now a fire in my chest that would not be denied. [音声](https://wiki.warframe.com/w/File:DReliefs0050Parvos_en.ogg)
+- The Gemstone
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / Moving swiftly away from sick-bed to field, I fell to my knees beneath that relentless sun, my chest afire. As it moved to my throat, robbing me of breath, certain death had finally found me, I made one last heave. / I spat it out: a molten red gemstone of the purest, clearest rubedo. / Swallowing that stone would have killed a man of weaker will, but not a man sustained by the power of Desire. / It was worth more than my family had earned in ten generations. It would fetch enough to feed us all for a lifetime. As I stared into its brilliant facets, a familiar voice rushed through me. / "Contentment is idleness. Desire inspires action. Nurture all desires." / And so, with my brother and father pleading for my return, I once again left for the city.
+- Parvos Granum Transmission / Moving swiftly away from sick-bed to field, I fell to my knees beneath that relentless sun, my chest afire. As it moved to my throat, robbing me of breath, certain death had finally found me, I made one last heave. / I spat it out: a molten red gemstone of the purest, clearest rubedo. / Swallowing that stone would have killed a man of weaker will, but not a man sustained by the power of Desire. / It was worth more than my family had earned in ten generations. It would fetch enough to feed us all for a lifetime. As I stared into its brilliant facets, a familiar voice rushed through me. / "Contentment is idleness. Desire inspires action. Nurture all desires." / And so, with my brother and father pleading for my return, I once again left for the city. [音声](https://wiki.warframe.com/w/File:DReliefs0060Parvos_en.ogg)
+- A New Beginning
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / In desire I was wealthy, but in strategy I was empty-handed. I listened for the whisper, it said: / "Money begets money." / With my jewel as collateral, I secured a loan. And with that sum, I gave my own loans. To poor men, like me, who desired more. With each loan, I dispensed truths I had learned from the whisper. Those men went out into the world, and they too made loans, and their money too begat money. Word spread fast. Men flocked to hear me. I told them of the evils of contentment and idleness. I taught them the gift of Desire.
+- Parvos Granum Transmission / In desire I was wealthy, but in strategy I was empty-handed. I listened for the whisper, it said: / "Money begets money." / With my jewel as collateral, I secured a loan. And with that sum, I gave my own loans. To poor men, like me, who desired more. With each loan, I dispensed truths I had learned from the whisper. Those men went out into the world, and they too made loans, and their money too begat money. Word spread fast. Men flocked to hear me. I told them of the evils of contentment and idleness. I taught them the gift of Desire. [音声](https://wiki.warframe.com/w/File:DReliefs0070Parvos_en.ogg)
+- Giving Back
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / In time my money multiplied into multitudes. With this wealth, I made my body whole again. / Then news came: father had collapsed in the field. I rushed back to my family's humble farm to be by his side, but his death was sudden. Claudius mourned. But I was committed to ending the brutal labor my family and people had endured for generations. The whisper approved, it said: / "Charity is power. More charity is more power."
+- Parvos Granum Transmission / In time my money multiplied into multitudes. With this wealth, I made my body whole again. / Then news came: father had collapsed in the field. I rushed back to my family's humble farm to be by his side, but his death was sudden. Claudius mourned. But I was committed to ending the brutal labor my family and people had endured for generations. The whisper approved, it said: / "Charity is power. More charity is more power." [音声](https://wiki.warframe.com/w/File:DReliefs0080Parvos_en.ogg)
+- Bury The Past
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / Claudius begged me to stop my mega-dozers, "If you build a city on these fields what will we eat?" To which I replied, "Just as I consumed the gemstone that fed my fortune, our people will eat the wealth I have bestowed upon them." / "What of our home?" he cried, "Our traditions?" I pondered this until the whisper gave me the words: / "Shun sentimentality. It is a weakness that binds the idle man."
+- Parvos Granum Transmission / Claudius begged me to stop my mega-dozers, "If you build a city on these fields what will we eat?" To which I replied, "Just as I consumed the gemstone that fed my fortune, our people will eat the wealth I have bestowed upon them." / "What of our home?" he cried, "Our traditions?" I pondered this until the whisper gave me the words: / "Shun sentimentality. It is a weakness that binds the idle man." [音声](https://wiki.warframe.com/w/File:DReliefs0090Parvos_en.ogg)
+- A New Empire
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / I believe my father would have smiled with pride as I smashed my family home into the dirt. It saddens me that Father did not live to see the glory of Corposium, the city I erected upon our meager land. Men of Desire will always be outnumbered by idle men, men of fear. But small men can never hold back the men of Strength, and Desire. / "Fulfill desire and others will follow."
+- Parvos Granum Transmission / I believe my father would have smiled with pride as I smashed my family home into the dirt. It saddens me that Father did not live to see the glory of Corposium, the city I erected upon our meager land. Men of Desire will always be outnumbered by idle men, men of fear. But small men can never hold back the men of Strength, and Desire. / "Fulfill desire and others will follow." [音声](https://wiki.warframe.com/w/File:DReliefs0100Parvos_en.ogg)
+- We Are Corpus
+- Planet/Region / Scans Required
+- Those with Corpus Ship tile set / 1
+- Fragment Lore / My gift to the future is an idea; an idea that wealth need not settle as a crust upon the upper echelons of the populace. No. Any poor grain farmer can, should he feed his Desire and apply his wisdom, take fortune for himself. The more the better. And, when men of fortune come together under great leadership, their potential is exponential. / Just as my money replaced what the Orokin took from me and made my body whole again, our collective Desire will create a new body. A body forged of fortune and unencumbered by idleness and sentimentality. / "Ours is the grasping golden hand. We are desire. We are Corpus."
+- Parvos Granum Transmission / My gift to the future is an idea; an idea that wealth need not settle as a crust upon the upper echelons of the populace. No. Any poor grain farmer can, should he feed his Desire and apply his wisdom, take fortune for himself. The more the better. And, when men of fortune come together under great leadership, their potential is exponential. / Just as my money replaced what the Orokin took from me and made my body whole again, our collective Desire will create a new body. A body forged of fortune and unencumbered by idleness and sentimentality. / "Ours is the grasping golden hand. We are desire. We are Corpus." [音声](https://wiki.warframe.com/w/File:DReliefs0110Parvos_en.ogg)
+
+### Lost Islands of Duviri Fragments
+
+- This section is transcluded from Fragments/Duviri. To change it, please edit the transcluded page.
+- The Lost Islands of Duviri are small archival audio drives that are scattered around the floating islands of Duviri.
+- Each archive entry requires 9 Fragments to be completed. Fragments in Duviri can be localized by their distinct musical sound: [音声](https://wiki.warframe.com/w/File:DuviriCollectibleFragmentLoop.ogg)
+- These Fragments reveal the story of Duviri's Lost Islands, narrated by Acrithis.
+- View Lost Islands of Duviri Fragments List▾▾
+- Scholar's Landing
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / In all the ages of Thrax's reign, only two strangers have ever known to come to Duviri. / One was the monk, Teshin, who fell from the sky into the lake on the island we now call Hermit's Landing. Seemingly lifeless, he was dragged ashore by Mathila who nursed his return to health. I have never known a constitution to match his; yet unlike us, he has... deteriorated... with the passing of time. / The other stranger came far earlier in Thrax's reign, before even the Bleeding Earth. / This stranger had haunted eyes and a downcast mien, and spoke of the Wall and the worlds beyond. He wore his hair like looped snakes, and his voice carried an accent unlike any in Duviri. / With the King's permission, he constructed a great laboratory of light-smoking mirrors and Void-lanthorns, which he claimed was the match of one he had once owned in a former life. The island where it stood was known as Scholar's Landing. / The time would come, the stranger said, when Duviri would be needed. There was work of repentance to be done, and he could not do it alone. What he meant by this I cannot say; and cannot now ask, for Scholar's Landing vanished overnight. / But I shall watch, and wait, and hope.
+- Acrithis Transmission / In all the ages of Thrax's reign, only two strangers have ever known to come to Duviri. / One was the monk, Teshin, who fell from the sky into the lake on the island we now call Hermit's Landing. Seemingly lifeless, he was dragged ashore by Mathila who nursed his return to health. I have never known a constitution to match his; yet unlike us, he has... deteriorated... with the passing of time. / The other stranger came far earlier in Thrax's reign, before even the Bleeding Earth. / / This stranger had haunted eyes and a downcast mien, and spoke of the Wall and the worlds beyond. He wore his hair like looped snakes, and his voice carried an accent unlike any in Duviri. / With the King's permission, he constructed a great laboratory of light-smoking mirrors and Void-lanthorns, which he claimed was the match of one he had once owned in a former life. The island where it stood was known as Scholar's Landing. / / The time would come, the stranger said, when Duviri would be needed. There was work of repentance to be done, and he could not do it alone. What he meant by this I cannot say; and cannot now ask, for Scholar's Landing vanished overnight. / But I shall watch, and wait, and hope. / [音声](https://wiki.warframe.com/w/File:DScholarsLanding0070Acrithis_en.ogg)
+- We Are Not What We Were
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / I am naturally curious. I can hardly help it. And so I set this down for any that follow in my footsteps, who wonder - as I have - about our home. / Today, Duviri is a mere scattering of islands, set about the Palace as if they had spilled forth from it. But in the dawning time, when the Kingdom was new, it was a Kingdom worthy of the name. / From horizon to horizon lay island after island, each one different, bearing distinctive color and life. / I have flown on Kaithe-back until the Archarbor was lost to sight, and then on again, have been unable to number the lands over which I flew. Every one of them raise its banners to Thrax. / Nothing remains of those islands now. Not a tree, not a leaf, not a grain of sand. / It seems some of the Lost Islands were smashed by Thrax the King, as a child might smash a toy. Others have been obliterated by hazards unknown; the Void is an ocean, it is said, and monsters dwell in its depths. But the fast majority of the islands have simply fallen to the Void's creeping encroachment, as the tides wear away at the land. / I dream of a Lost Island returning one happy day, or an entirely new island appearing, birthed from the Void. But this place has not changed in so long, except for the worse, and there is no reason for hope. One day, I am sure, the Void will engulf us all.
+- Acrithis Transmission / I am naturally curious. I can hardly help it. And so I set this down for any that follow in my footsteps, who wonder - as I have - about our home. / Today, Duviri is a mere scattering of islands, set about the Palace as if they had spilled forth from it. But in the dawning time, when the Kingdom was new, it was a Kingdom worthy of the name. / / From horizon to horizon lay island after island, each one different, bearing distinctive color and life. / I have flown on Kaithe-back until the Archarbor was lost to sight, and then on again, have been unable to number the lands over which I flew. Every one of them raise its banners to Thrax. / Nothing remains of those islands now. Not a tree, not a leaf, not a grain of sand. / / It seems some of the Lost Islands were smashed by Thrax the King, as a child might smash a toy. Others have been obliterated by hazards unknown; the Void is an ocean, it is said, and monsters dwell in its depths. But the fast majority of the islands have simply fallen to the Void's creeping encroachment, as the tides wear away at the land. / I dream of a Lost Island returning one happy day, or an entirely new island appearing, birthed from the Void. But this place has not changed in so long, except for the worse, and there is no reason for hope. One day, I am sure, the Void will engulf us all. / [音声](https://wiki.warframe.com/w/File:DWeAreNot0010Acrithis_en.ogg)
+- Watcher’s Island
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / In the splendid lands on this side of the Wall lives happy Mathila; and she has two children. / She also had a husband, in her yesterdays. When I have attempted to talk to her about him she has simply frozen, like a rat before a snake. / His name was Garmi, and he was keeper of the Seriglass Lighthouse on Watcher's Island. / The lighthouse served no true purpose, yet he kept its lamp burning, beaming out into the Void as if to call travelers home. / Now... before his death, Garmi confided in me that he felt his role was important; he was keeping 'it' at bay. / Void Storms were not unknown in Duviri, but the storm I shall speak of was unlike others. It hung in a red veil across the sky. There was a great sound like tearing metal, and all at once a pelting rain fell. Not water, but broken metal chains, in lengths and coils and great rattling whipstrands. / The falling chains shattered roofs and windows, slashed through screaming livestock, and maimed the fools who had not come in from the streets. / I found Garmi's log in the toppled ruin of the lighthouse. With admirable presence of mind, he describes a form steadily approaching out of the Void. A monstrous hand, possessed of only three fingers and a thumb. / With the lighthouse gone, Watcher's Island crumbled and was gone too within three spirals. / Garmi has no grave nor memorial, as if he had never lived. But I remember, And so, I record.
+- Acrithis Transmission / In the splendid lands on this side of the Wall lives happy Mathila; and she has two children. / She also had a husband, in her yesterdays. When I have attempted to talk to her about him she has simply frozen, like a rat before a snake. / His name was Garmi, and he was keeper of the Seriglass Lighthouse on Watcher's Island. / / The lighthouse served no true purpose, yet he kept its lamp burning, beaming out into the Void as if to call travelers home. / Now... before his death, Garmi confided in me that he felt his role was important; he was keeping 'it' at bay. / Void Storms were not unknown in Duviri, but the storm I shall speak of was unlike others. It hung in a red veil across the sky. There was a great sound like tearing metal, and all at once a pelting rain fell. Not water, but broken metal chains, in lengths and coils and great rattling whipstrands. / / The falling chains shattered roofs and windows, slashed through screaming livestock, and maimed the fools who had not come in from the streets. / I found Garmi's log in the toppled ruin of the lighthouse. With admirable presence of mind, he describes a form steadily approaching out of the Void. A monstrous hand, possessed of only three fingers and a thumb. / With the lighthouse gone, Watcher's Island crumbled and was gone too within three spirals. / Garmi has no grave nor memorial, as if he had never lived. But I remember, And so, I record. / [音声](https://wiki.warframe.com/w/File:DWatchersIsland0280Acrithis_en.ogg)
+- Lake Verula
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / For Lake Verula to be lost and forgotten is a lasting bittering to me. There was a time when it was Duviri's festival spot. On the anniversary of Thrax's coronation, the citizenry would build ceremonial floating islands. On these they would drift, sing, play music and light fragrant lanterns in honor of Thrax. / Attracted by the music, the rainbow eels would rise from the lake bed, poke their iridescent heads above the water, and sing. / Luscinia had a school of them that followed her across the lake and floundered on the shore when she disembarked, as if they yearned to remain with her. / We could not know that down on the lake bed, a portal to the Undercroft and formed. Predatory creatures writhed in. They were golden, slender, with massive fanged bivalved maws. And they were ravenous. They devoured the rainbow eels, and then they devoured each other until only a handful were left. / Lake Verula had no more magic after that. Thrax ordered the lake drained, but the golden maws merely burrowed into Duviri's crust, where to this day they can sometimes be found plundering our pools.
+- Acrithis Transmission / For Lake Verula to be lost and forgotten is a lasting bittering to me. There was a time when it was Duviri's festival spot. On the anniversary of Thrax's coronation, the citizenry would build ceremonial floating islands. On these they would drift, sing, play music and light fragrant lanterns in honor of Thrax. / / Attracted by the music, the rainbow eels would rise from the lake bed, poke their iridescent heads above the water, and sing. / Luscinia had a school of them that followed her across the lake and floundered on the shore when she disembarked, as if they yearned to remain with her. / / We could not know that down on the lake bed, a portal to the Undercroft and formed. Predatory creatures writhed in. They were golden, slender, with massive fanged bivalved maws. And they were ravenous. They devoured the rainbow eels, and then they devoured each other until only a handful were left. / Lake Verula had no more magic after that. Thrax ordered the lake drained, but the golden maws merely burrowed into Duviri's crust, where to this day they can sometimes be found plundering our pools. / [音声](https://wiki.warframe.com/w/File:DLakeVerula0160Acrithis_en.ogg)
+- The Galleria
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / How I loved the Galleria. It was and island of simple beauty, where white statues rose out of the ground as if they had grown there. They were classical in their features, masked in due propriety, each bearing an instrument or an emblem of their craft. I gave them names: the Scribe, the Scryer, the Shawzinist. / On days when the mist of Thrax's sorrow hung among the marble columns a sober chill seemed to drape the Galleria. One could not wish for a better spot to cool a burning head. This kingdom is often mad, but this was a space for sanity. / That peace was shattered one morning as I drove my carriage there. I witness a vast form break up from the ground and clumsily probe the area around it. / I took the thing for a gigantic worm or slug, until one of my escorting Dax pointed out the colossal fingernail on its 'head'. / We turned on our heel and made for the Palace, where I gave Dominus Thrax the best account of what I had seen. On hearing that a single monstrous finger had burst up through the green sward, Thrax took terrible fright. / Despite my entreaties, he sacrificed the entire island before any more of the entity could emerge.
+- Acrithis Transmission / How I loved the Galleria. It was and island of simple beauty, where white statues rose out of the ground as if they had grown there. They were classical in their features, masked in due propriety, each bearing an instrument or an emblem of their craft. I gave them names: the Scribe, the Scryer, the Shawzinist. / / On days when the mist of Thrax's sorrow hung among the marble columns a sober chill seemed to drape the Galleria. One could not wish for a better spot to cool a burning head. This kingdom is often mad, but this was a space for sanity. / That peace was shattered one morning as I drove my carriage there. I witness a vast form break up from the ground and clumsily probe the area around it. / / I took the thing for a gigantic worm or slug, until one of my escorting Dax pointed out the colossal fingernail on its 'head'. / We turned on our heel and made for the Palace, where I gave Dominus Thrax the best account of what I had seen. On hearing that a single monstrous finger had burst up through the green sward, Thrax took terrible fright. / Despite my entreaties, he sacrificed the entire island before any more of the entity could emerge. / [音声](https://wiki.warframe.com/w/File:DGalleria0250Acrithis_en.ogg)
+- The Doll Mausoleum
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / The Necropolis Island was once one of the largest in Duviri, and the strangest. It appeared to be a sprawling burial ground, littered with gravestones, wooden crosses, sarcophagi and ornate tombs. But those who broke into these places found that there were no bodies to loot. Not a cadaver, not a skull, not even a tooth. / Instead, each coffin contained a simulacrum of the human form, in various stages of decay. Entire skeletons carved out of wood. Corpses of rotting straw stuffed into old clothes. Mouldering faces sculpted in crumbling clay. Little bones laboriously whittled down from large bones. / I have never been able to make any sense of it. / The Doll Mausoleum did not even attempt to imitate an authentic burial structure. It was built to far too small a scale. The cavities within it were tiny, each one holding a coffin that contained a miniature human figure. These were all genders, often with brightly coloured hair, all wearing odd one-piece hooded suits of black leather. / Thrax was known to visit the Mausoleum, alone. I do not know what he did there. / Now the place is lost to the Void. A mystery that shall remain so, forever. Isn't that maddening?
+- Acrithis Transmission / The Necropolis Island was once one of the largest in Duviri, and the strangest. It appeared to be a sprawling burial ground, littered with gravestones, wooden crosses, sarcophagi and ornate tombs. But those who broke into these places found that there were no bodies to loot. Not a cadaver, not a skull, not even a tooth. / / Instead, each coffin contained a simulacrum of the human form, in various stages of decay. Entire skeletons carved out of wood. Corpses of rotting straw stuffed into old clothes. Mouldering faces sculpted in crumbling clay. Little bones laboriously whittled down from large bones. / I have never been able to make any sense of it. / / The Doll Mausoleum did not even attempt to imitate an authentic burial structure. It was built to far too small a scale. The cavities within it were tiny, each one holding a coffin that contained a miniature human figure. These were all genders, often with brightly coloured hair, all wearing odd one-piece hooded suits of black leather. / Thrax was known to visit the Mausoleum, alone. I do not know what he did there. / Now the place is lost to the Void. A mystery that shall remain so, forever. Isn't that maddening? / [音声](https://wiki.warframe.com/w/File:DDollMausoleum0100Acrithis_en.ogg)
+- The Caves of Academe
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / There was a time when the children of Duviri were educated. / Upon the island of Academe, within its chalky caves, in rough-hewn classrooms lit by burning blue gas, sages taught them everything they would need to know. They learned of the Seven Principles, the geometries, the primords, the harmonics and resonances, the sacred stories, and most importantly, the unquestionable benignity of Dominus Thrax. / And then, not long after the Rain of Chains, the first of the Hollow Children appeared. / They joined the others for class, sitting at the back, silent and attentive. Their eyes were a deep and lustrous black, their mouths fixed in a constant grin. None of the sages saw them enter or leave. / The Hollow Children did not speak, nor did they participate in class in any way, except to giggle unnervingly when the subject of the Void was mentioned. / When adults came to collect their children, they noticed an additional oddity. Among the Hollow Children were exact duplicates of themselves when they were younger. Each day there were more of them. / Thrax ordered the island destroyed, but when Lodun descended from the sky to ravage it, the Orowyrm found it had broken free of its own accord. / Thrax did not give the order to pursue.
+- Acrithis Transmission / There was a time when the children of Duviri were educated. / Upon the island of Academe, within its chalky caves, in rough-hewn classrooms lit by burning blue gas, sages taught them everything they would need to know. They learned of the Seven Principles, the geometries, the primords, the harmonics and resonances, the sacred stories, and most importantly, the unquestionable benignity of Dominus Thrax. / And then, not long after the Rain of Chains, the first of the Hollow Children appeared. / / They joined the others for class, sitting at the back, silent and attentive. Their eyes were a deep and lustrous black, their mouths fixed in a constant grin. None of the sages saw them enter or leave. / The Hollow Children did not speak, nor did they participate in class in any way, except to giggle unnervingly when the subject of the Void was mentioned. / / When adults came to collect their children, they noticed an additional oddity. Among the Hollow Children were exact duplicates of themselves when they were younger. Each day there were more of them. / Thrax ordered the island destroyed, but when Lodun descended from the sky to ravage it, the Orowyrm found it had broken free of its own accord. / Thrax did not give the order to pursue. / [音声](https://wiki.warframe.com/w/File:DCavesAcademe0220Acrithis_en.ogg)
+- Manipura Island
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / The island of Manipura was Duviri's vineyard. The Calaventi merchant sisterhood had villas there. Their tenant farmers raised succulent grapes to be turned into wine, which was taken as tribute to be shared among the Dax. / Tribute day was a great celebration in the Dax barracks, as the veiled Yaskutai would pour bowl after bowl of wine, comrades would show old wounds and tell tall tales of how they were come by, and old songs would be sung late into the night. / The Calaventi were proud. They considered themselves reflections of the 'true' Orokin, and though they bent the knee to Thrax, they did not respect him. / With his changeable moods and his short stature, Thrax was - they whispered - merely an upstart, an imitator. / It was the servants who alerted Thrax to their masters' insolence. If they were expected to be rewarded for this, more fool them. / A terrible Orowyrm was sent to, and I quote, 'trample the Calaventi sisterhood as they trample their grapes'. With no warning, the Orowyrm burst through the island from beneath, shattering it to fragments. / If the Dax of Duviri resent the loss of their wine-tribute, they know better than to speak of it.
+- Acrithis Transmission / The island of Manipura was Duviri's vineyard. The Calaventi merchant sisterhood had villas there. Their tenant farmers raised succulent grapes to be turned into wine, which was taken as tribute to be shared among the Dax. / Tribute day was a great celebration in the Dax barracks, as the veiled Yaskutai would pour bowl after bowl of wine, comrades would show old wounds and tell tall tales of how they were come by, and old songs would be sung late into the night. / / The Calaventi were proud. They considered themselves reflections of the 'true' Orokin, and though they bent the knee to Thrax, they did not respect him. / With his changeable moods and his short stature, Thrax was - they whispered - merely an upstart, an imitator. / It was the servants who alerted Thrax to their masters' insolence. If they were expected to be rewarded for this, more fool them. / / A terrible Orowyrm was sent to, and I quote, 'trample the Calaventi sisterhood as they trample their grapes'. With no warning, the Orowyrm burst through the island from beneath, shattering it to fragments. / If the Dax of Duviri resent the loss of their wine-tribute, they know better than to speak of it. / [音声](https://wiki.warframe.com/w/File:DManipuraIsland0130Acrithis_en.ogg)
+- The Island of Lorn
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / When Duviri came into being there were many islands whose contents were - to put it bluntly - horrific. The Execution Cyst, the Golden Hive, the Inversion Tree, Stitcher's Gulch and the Bountiful Swamp were all notorious, but each met a natural end, engulfed by the Void. Lorn was exiled deliberately. / The Island of Lorn was a desolate, bleak outcrop where ghosts would scream accusations against anyone who came close enough to hear. Shunned by all, it was ultimately severed from Duviri and set adrift in the Void, where it can still occasionally be heard screaming to this day. / Islands are usually unmoored or otherwise destroyed by command of the King. Here, though, it was the local citizenry who rose up and cast the offending island out, smashing the bridges with their tools and dragging it away using ropes and flying Kaithes. / Lorn was notable for its curious shrines, many of which were dismantled and their component stones taken from the island by royal order. One comes across them occasionally, and it is possible - though not advisable - to reassemble them. To do so risks a local outbreak of ghosts, an offense punishable by death should the Dax catch you at it.
+- Acrithis Transmission / When Duviri came into being there were many islands whose contents were - to put it bluntly - horrific. The Execution Cyst, the Golden Hive, the Inversion Tree, Stitcher's Gulch and the Bountiful Swamp were all notorious, but each met a natural end, engulfed by the Void. Lorn was exiled deliberately. / / The Island of Lorn was a desolate, bleak outcrop where ghosts would scream accusations against anyone who came close enough to hear. Shunned by all, it was ultimately severed from Duviri and set adrift in the Void, where it can still occasionally be heard screaming to this day. / Islands are usually unmoored or otherwise destroyed by command of the King. Here, though, it was the local citizenry who rose up and cast the offending island out, smashing the bridges with their tools and dragging it away using ropes and flying Kaithes. / / Lorn was notable for its curious shrines, many of which were dismantled and their component stones taken from the island by royal order. One comes across them occasionally, and it is possible - though not advisable - to reassemble them. To do so risks a local outbreak of ghosts, an offense punishable by death should the Dax catch you at it. / [音声](https://wiki.warframe.com/w/File:DIslandOfLorn0040Acrithis_en.ogg)
+- The Bleeding Earth
+- [[File:｜thumb｜512px｜center]]
+- Planet/Region / Scans Required
+- Duviri / 9
+- Fragment Lore / The island was called Cornucopia, for its fecundity. The soil, dark and rich, yielded tubers and greens that shimmered with life. Wagons laden with tribute would go tottering up to the Palace in procession. / All this was, of course, the will of the King; for what is a kingdom without its peasants? Thus had he created the islands, and thus they remained, day after indolent day. / Then, on a morning like any other, Farmer Hovrel drove his spade into the earth and brought up blood. / Blood welled up from the gash like crimson oil. As Hovrel looked on, stupefied, the rivulet reached the road and... began to pool. The shocked cries of other farmers rang out as their furrows, too, began to fill with blood. / The stuff was dark, almost black. It had a heavy metallic odor suffused with grave spices. One venturesome soul tasted it. His eyes instantly became pitch-black orbs, his voice a smoky whisper. / Panic ensued. Was this a curse? The judgment of Dominus Thrax? / The Dax came swiftly, the roads were barricaded, and Cornucopia was isolated from Duviri. / Later that day, a great Orowyrm shattered the bridges. The island was set adrift, inhabitants and all. The last sight I had of them was a row of wide-eyed, pleading faces watching me steadily as they vanished into the Void.
+- Acrithis Transmission / The island was called Cornucopia, for its fecundity. The soil, dark and rich, yielded tubers and greens that shimmered with life. Wagons laden with tribute would go tottering up to the Palace in procession. / All this was, of course, the will of the King; for what is a kingdom without its peasants? Thus had he created the islands, and thus they remained, day after indolent day. / Then, on a morning like any other, Farmer Hovrel drove his spade into the earth and brought up blood. / / Blood welled up from the gash like crimson oil. As Hovrel looked on, stupefied, the rivulet reached the road and... began to pool. The shocked cries of other farmers rang out as their furrows, too, began to fill with blood. / The stuff was dark, almost black. It had a heavy metallic odor suffused with grave spices. One venturesome soul tasted it. His eyes instantly became pitch-black orbs, his voice a smoky whisper. / Panic ensued. Was this a curse? The judgment of Dominus Thrax? / / The Dax came swiftly, the roads were barricaded, and Cornucopia was isolated from Duviri. / Later that day, a great Orowyrm shattered the bridges. The island was set adrift, inhabitants and all. The last sight I had of them was a row of wide-eyed, pleading faces watching me steadily as they vanished into the Void. / [音声](https://wiki.warframe.com/w/File:DBleedingEarth0190Acrithis_en.ogg)
+
+### Albrecht's Notes
+
+- This section is transcluded from Fragments/Albrecht. To change it, please edit the transcluded page.
+- Albrecht's Notes are pages of his Grimoire that have materialized inside his Laboratories.
+- These pages can be found by interacting with a Whisper Grimoire, and unbinding the Whispers within. After slaying either a Mocking Whisper or Scathing Whisper, and banishing it back into the tome, it has a 50% chance to drop a page containing Albrecht's Notes.
+- Entries one and two require 6 pages, entries three and four require 5 pages, and the last one requires one page. They will always drop in order. They tell the story of what happened after the first voyage into the Void, narrated by Albrecht Entrati.
+- View Albrecht's Notes List▾▾
+- The Aftermath
+- Planet/Region / Scans Required
+- Albrecht's Laboratories / 6
+- Fragment Lore / I wanted nothing but the ease of oblivion, at first. I floated ignorant in baths of nepenthe, a second gestation. Unseeing, unspeaking. Only rarely did my brain flicker errant light across the cave-paintings still smeared on the interior of my skull. / At sensation's edge I knew a vague silhouette of Loid crooning motherly across the watery distances, the poetry my tongue was too blackened to recite. / Too craven to chase death, I awaited it. The father of fears, and yet I was still afraid. / The currents whispered coward. I clenched my body into a fist as a foetus must and blinded myself afresh. / Stark pain smoked the juice of my living tomb. Why did the saga not end by itself? Why must I still act? / Steeped in solitude, I found I could no longer endure my own company. / Disgust did the work of courage. I tore the mundane membrane, slid weak and mucosal into Loid's embrace. / Loid nursed me then, tending first to the uprooted ruin of my eyes, then to the mouth whose grin no longer hid behind flesh. / The agony bit deep, but it was clean. Blameless love bled up from me. / I had decided to live. / I felt no certainty as I donned clothes rough and strange to the touch of newgrown skin. I had none of the selfless zeal of the soldier. / The same cursed question still pursued me as it had before: was I, even now, trapped in the rictus of the Wall? / The apparatus of logic would never yield an answer. Only resolute action remained. If I must be a demon, let me be an honest one. Let me prove my nature by what I do next. / Purpose. Let me leave such blazing footprints behind me as no unclean thing would dare to walk in.
+- Albrecht Transmission / I wanted nothing but the ease of oblivion, at first. I floated ignorant in baths of nepenthe, a second gestation. Unseeing, unspeaking. Only rarely did my brain flicker errant light across the cave-paintings still smeared on the interior of my skull. / At sensation's edge I knew a vague silhouette of Loid crooning motherly across the watery distances, the poetry my tongue was too blackened to recite. / / Too craven to chase death, I awaited it. The father of fears, and yet I was still afraid. / The currents whispered coward. I clenched my body into a fist as a foetus must and blinded myself afresh. / Stark pain smoked the juice of my living tomb. Why did the saga not end by itself? Why must I still act? / / Steeped in solitude, I found I could no longer endure my own company. / Disgust did the work of courage. I tore the mundane membrane, slid weak and mucosal into Loid's embrace. / / Loid nursed me then, tending first to the uprooted ruin of my eyes, then to the mouth whose grin no longer hid behind flesh. / The agony bit deep, but it was clean. Blameless love bled up from me. / I had decided to live. / / I felt no certainty as I donned clothes rough and strange to the touch of newgrown skin. I had none of the selfless zeal of the soldier. / The same cursed question still pursued me as it had before: was I, even now, trapped in the rictus of the Wall? / / The apparatus of logic would never yield an answer. Only resolute action remained. If I must be a demon, let me be an honest one. Let me prove my nature by what I do next. / Purpose. Let me leave such blazing footprints behind me as no unclean thing would dare to walk in. / [音声](https://wiki.warframe.com/w/File:DAftermath0010Albrecht_en.ogg)
+- The Cavia
+- Planet/Region / Scans Required
+- Albrecht's Laboratories / 6
+- Fragment Lore / I employed a variety of Cavia in an attempt to unmake the adversary. / The principle was straightforward enough, though in hindsight I abhor my naivete. My humanity had been unscrolled by the caustic Void and now smirked back at me across the divide, privy to all my unfettered malice and pettiness. In answer, I resolved to hurl into the Void minds that were not human. Let it parody them. The proximity of the bestial would force a humbling devolution, or so I thought. / The majority of the Cavia merely died. I gave the Void living beings and it sent me back bedraggled cadavers. The dead lay stacked in pyramids around my deserted lab. I was nothing but a failed priest. / But a glass splinter of stubbornness still stuck in me. And so, I persisted. The correct combination of creatures would work. / I realized my error as I sweated by visionary nestawood cinders, beside Loid who curled pale and sick from chewing too much of the root. The catalyst was uniqueness. That attribute was what caught the interest of the bland and undifferentiated Void. / It was not necessary to explore queasy debates about the Oro; animal minds simply lacked the full distinction of a singular persona. My Kalymos, I was sure, was an exception, but I would not sacrifice that loyal being. / Perhaps I should have. The sin I was to commit was worse. / The very last breeding pair of Cervulites was smuggled to me, causing Loid no small inconvenience. A species on the brink of extinction. Here was the uniqueness the Void sought. I was certain to the pit of my entrails. / I loaded the pair on their Seriglass bridal barge, along with an expendable avian and a Norg for mental ballast. Fish, fowl and beast. A facile equilibrium. / They did not die, save one. They came back changed. Witnesses. Piligrims, even, chanting freakish praise to the one beyond the wall. / I knew, then, that my gambit had lost. So long as I worked through scapegoats, my guilt would only deepen. I must atone for what I had done through my own blood. / Standard laboratory hygiene would have been to dispose of them. But some instinct stayed my hand. The Voidtongue was an enigma to me, but another - more habituated to the Void than I - might one day unravel it. Through the imposition of form upon the formless they could, perhaps, glean some meaning. / I assigned the Cavia to Loid, for I could not bear to look upon them. Not yet. / Loid is, at heart, a good and kind man - better than I deserve. And completely oblivious to his own true worth.
+- Albrecht Transmission / I employed a variety of Cavia in an attempt to unmake the adversary. / The principle was straightforward enough, though in hindsight I abhor my naivete. My humanity had been unscrolled by the caustic Void and now smirked back at me across the divide, privy to all my unfettered malice and pettiness. In answer, I resolved to hurl into the Void minds that were not human. Let it parody them. The proximity of the bestial would force a humbling devolution, or so I thought. / / The majority of the Cavia merely died. I gave the Void living beings and it sent me back bedraggled cadavers. The dead lay stacked in pyramids around my deserted lab. I was nothing but a failed priest. / But a glass splinter of stubbornness still stuck in me. And so, I persisted. The correct combination of creatures would work. / / I realized my error as I sweated by visionary nestawood cinders, beside Loid who curled pale and sick from chewing too much of the root. The catalyst was uniqueness. That attribute was what caught the interest of the bland and undifferentiated Void. / It was not necessary to explore queasy debates about the Oro; animal minds simply lacked the full distinction of a singular persona. My Kalymos, I was sure, was an exception, but I would not sacrifice that loyal being. / Perhaps I should have. The sin I was to commit was worse. / / The very last breeding pair of Cervulites was smuggled to me, causing Loid no small inconvenience. A species on the brink of extinction. Here was the uniqueness the Void sought. I was certain to the pit of my entrails. / I loaded the pair on their Seriglass bridal barge, along with an expendable avian and a Norg for mental ballast. Fish, fowl and beast. A facile equilibrium. / / They did not die, save one. They came back changed. Witnesses. Piligrims, even, chanting freakish praise to the one beyond the wall. / I knew, then, that my gambit had lost. So long as I worked through scapegoats, my guilt would only deepen. I must atone for what I had done through my own blood. / / Standard laboratory hygiene would have been to dispose of them. But some instinct stayed my hand. The Voidtongue was an enigma to me, but another - more habituated to the Void than I - might one day unravel it. Through the imposition of form upon the formless they could, perhaps, glean some meaning. / I assigned the Cavia to Loid, for I could not bear to look upon them. Not yet. / Loid is, at heart, a good and kind man - better than I deserve. And completely oblivious to his own true worth. / [音声](https://wiki.warframe.com/w/File:DCavia0010Albrecht_en.ogg)
+- Duviri
+- Planet/Region / Scans Required
+- Albrecht's Laboratories / 5
+- Fragment Lore / In Duviri, I woke every day to the voice of my daughter. I recoiled from this at first, feeling the sting of conscience. I could not confront, even in semblance, the woman I had abandoned. Instead I reinvented myself as a teacher, advising the child-King of the menace beyond his borders. / But as the days melted away, I came to recognize the strange cast of characters Euleria had created, and their purpose. I heard voices I had myself first conjured in the darkness of her childhood chambers, for no other reward than her delight. She had not only preserved this gift I had thought so trivial, she had made it an instrument of healing. More: a stronghold. / Despite my legacy of neglect, despite my shoddy example, my needs, my demands, my daughter had triumphed in my absence. Her confidence, her warmth, shamed me. I had fled from the horror, but she? She had stood alongside the most vulnerable, those with the most to lose, and told them a different story. / I did not perceive the significance of Euleria's stance at first. Her concern for the children was not merely pastoral attentiveness. It was a direct strike against the Indifference. She was teaching the weak to be strong in the very places where those cold fingers could reach, and through her act of compassion, spitting in the face of alienation and despair. / Could I do less? / Shame is an inert state, but fertile. It primes the mind, bolstering it for repentance. / I had thought to make a difference in Duviri. But Duviri had made a difference in me. My own daughter's creations, reverberating and growing in the womb of the Void, had shown me another path than that of the indulgent coward. I was neither helpless nor irredeemable. Like she had, I could fight. / I took inspiration from Euleria's example. To the people of Duviri I bequeathed a legacy of cautionary stories. In them I spoke of fears that an infinity of spirals would not, could not, erase. / I slipped away from those lands, silent and unnoticed. From their joys, their sadnesses. From the celebration in my honor. In her, they already had all they needed. My work, I now understood, must proceed from a different point. / I would confront the phantom myself, and deny it to the teeth.
+- Albrecht Transmission / In Duviri, I woke every day to the voice of my daughter. I recoiled from this at first, feeling the sting of conscience. I could not confront, even in semblance, the woman I had abandoned. Instead I reinvented myself as a teacher, advising the child-King of the menace beyond his borders. / But as the days melted away, I came to recognize the strange cast of characters Euleria had created, and their purpose. I heard voices I had myself first conjured in the darkness of her childhood chambers, for no other reward than her delight. She had not only preserved this gift I had thought so trivial, she had made it an instrument of healing. More: a stronghold. / / Despite my legacy of neglect, despite my shoddy example, my needs, my demands, my daughter had triumphed in my absence. Her confidence, her warmth, shamed me. I had fled from the horror, but she? She had stood alongside the most vulnerable, those with the most to lose, and told them a different story. / / I did not perceive the significance of Euleria's stance at first. Her concern for the children was not merely pastoral attentiveness. It was a direct strike against the Indifference. She was teaching the weak to be strong in the very places where those cold fingers could reach, and through her act of compassion, spitting in the face of alienation and despair. / Could I do less? / / Shame is an inert state, but fertile. It primes the mind, bolstering it for repentance. / I had thought to make a difference in Duviri. But Duviri had made a difference in me. My own daughter's creations, reverberating and growing in the womb of the Void, had shown me another path than that of the indulgent coward. I was neither helpless nor irredeemable. Like she had, I could fight. / / I took inspiration from Euleria's example. To the people of Duviri I bequeathed a legacy of cautionary stories. In them I spoke of fears that an infinity of spirals would not, could not, erase. / I slipped away from those lands, silent and unnoticed. From their joys, their sadnesses. From the celebration in my honor. In her, they already had all they needed. My work, I now understood, must proceed from a different point. / I would confront the phantom myself, and deny it to the teeth. / [音声](https://wiki.warframe.com/w/File:DDuviri0010Albrecht_en.ogg)
+- The Vessels
+- Planet/Region / Scans Required
+- Albrecht's Laboratories / 5
+- Fragment Lore / I went among the denizens of the plague year like a savior, my hands filled with healing. To those who volunteered, I brought more than health. Their bodies were primed; it needed only the Helminth infusions, brought from my own time, to work the alchemy of transformation. They have become partial Warframes, still in possession of their free will, yet enhanced, Void-attuned, capable. / Their humanity may not last. My deliverance may yet consume them, the human swallowed up in the sacred beast. And if my wayward disciples turn on me, what words of comfort shall I have beyond: this is the bargain we have made. Through our sacrifice, history will be saved. / As their loyal doctor, I have taken repeated samples from them. The sight of their Technocyte-riddled cells mutating gave me fresh visions. I could take this material, work with it, forge new creations. Eagerly I brought the samples back to Deimos and began to cultivate them. / It was Loid who pointed out the singular attributes of the Grey Strain. How it stimulates growth to monstrous dimensions. Many thoughts converged in me then. What if, through precise biochemical engineering, I could create the equivalents of Warframes, yet built to a titanic scale? Surely such a legion could stand against the Adversary... Assuming, of course, that an Operator could be found. / Not long after, the first of my Vessels took form. A giant to battle giants, merging the humanity of the man Arthur, the anatomical perfection of Ballas's Warframes, and the titanic potency of the Grey Strain. My saviors.
+- Albrecht Transmission / I went among the denizens of the plague year like a savior, my hands filled with healing. To those who volunteered, I brought more than health. Their bodies were primed; it needed only the Helminth infusions, brought from my own time, to work the alchemy of transformation. They have become partial Warframes, still in possession of their free will, yet enhanced, Void-attuned, capable. / / Their humanity may not last. My deliverance may yet consume them, the human swallowed up in the sacred beast. And if my wayward disciples turn on me, what words of comfort shall I have beyond: this is the bargain we have made. Through our sacrifice, history will be saved. / / As their loyal doctor, I have taken repeated samples from them. The sight of their Technocyte-riddled cells mutating gave me fresh visions. I could take this material, work with it, forge new creations. Eagerly I brought the samples back to Deimos and began to cultivate them. / / It was Loid who pointed out the singular attributes of the Grey Strain. How it stimulates growth to monstrous dimensions. Many thoughts converged in me then. What if, through precise biochemical engineering, I could create the equivalents of Warframes, yet built to a titanic scale? Surely such a legion could stand against the Adversary... Assuming, of course, that an Operator could be found. / / Not long after, the first of my Vessels took form. A giant to battle giants, merging the humanity of the man Arthur, the anatomical perfection of Ballas's Warframes, and the titanic potency of the Grey Strain. My saviors. / [音声](https://wiki.warframe.com/w/File:DVessels0010Albrecht_en.ogg)
+- We End As We Began
+- Planet/Region / Scans Required
+- Albrecht's Laboratories / 1
+- Fragment Lore / All is in readiness. Loid will do as he is bid, though his eyes silently plead with me to choose another path. / As I await my final crossing to the past, I ponder what role a scientist may play in so spiritual a matter as 'absolution'. How in the alchemy of the soul, even repentance must necessarily be a calculated task. / I will repair what I have broken, no more and no less. The scales must balance. And in such a monstrous penitence as this, I shall take no heed of the dust that may fall upon them on either side, the dust of petty lives. / The builders of old tempered their mortar with blood, to appease the most ancient of land-spirits. We should have been so wise. Yet it is not too late to learn. / The sands fall. The circuit completes. I return to the place of the beginning. / Let witless hordes bleat their disdain for every fervent plan; The deal is done, the die is cast. I end as I began.
+- Albrecht Transmission / All is in readiness. Loid will do as he is bid, though his eyes silently plead with me to choose another path. / As I await my final crossing to the past, I ponder what role a scientist may play in so spiritual a matter as 'absolution'. How in the alchemy of the soul, even repentance must necessarily be a calculated task. / I will repair what I have broken, no more and no less. The scales must balance. And in such a monstrous penitence as this, I shall take no heed of the dust that may fall upon them on either side, the dust of petty lives. / The builders of old tempered their mortar with blood, to appease the most ancient of land-spirits. We should have been so wise. Yet it is not too late to learn. / The sands fall. The circuit completes. I return to the place of the beginning. / Let witless hordes bleat their disdain for every fervent plan; The deal is done, the die is cast. I end as I began. [音声](https://wiki.warframe.com/w/File:DWeEnd0010Albrecht_en.ogg)
+
+### Isleweaver Fragments
+
+- This section is transcluded from Fragments/Isleweaver. To change it, please edit the transcluded page.
+- The Isleweaver are variants of the Lost Island of Duviri Fragments exclusive to Isleweaver in Duviri.
+- It contains one entry that requires 15 Fragments to be completed.
+- It is an alternate fairytale story of emotional regulation while being creeped on by a spider, narrated by Major Neci Rusalka.
+- View Isleweaver Fragments List▾▾
+- Along Came A Spider
+- Planet/Region / Scans Required
+- Isleweaver / 15
+- Fragment Lore / THE FIRST THREAD / Once Upon A Time... there was a little girl. An envious little girl, who watched as the whole world had more than she did. All the nice things, all the expensive things. And so she took what she didn't have. / And along came a spider who told her that everyone in the world would always have more than she did. But the spider said he could eat it all up for her. / But she clung to her favorite toy and filled her life with family and told the spider to GO! AWAY! / THE SECOND THREAD / Once Upon A Time... there was a little girl. A frightened little girl, who ran and hid and was so afraid of everything around her. But most of all, she was afraid to die. / And along came a spider who told her that everything we love in this world withers and dies. But the spider said he could eat it all up for her. / But she hid her fear away in the arms of strangers and told the spider to GO! AWAY! / THE THIRD THREAD / Once Upon A Time... there was a little girl. A sad little girl, who watched as the world went wrong. Watched as people fought. As people lied. A sad little girl who watched as per parents grew farther and farther apart. / And along came a spider who told her that everything in the world always ended in sadness. But the spider said he could eat it all up for her. / But she turned away from the sadness and filled her life with faith and told the spider to GO! AWAY! / THE FOURTH THREAD / Once Upon A Time... there was a little girl. A joyful little girl, whose life was filled with meaning and happiness. She filled her world with dolls on strings and made them dance. / And along came a spider who told her that everything was a lie, and all her happiness was a shallow pane of glass. But the spider said he could eat it all up for her. / But she turned away from the joy and filled her life with war and told the spider to GO! AWAY! / THE LAST THREAD / Once Upon A Time... there was a little girl. An angry little girl, whose life was filled with fury and rage. She hurt and maimed and was hurt and maimed in return. / And along came a spider who told her that everything in the world always ended in anger. But the spider said he could eat it all up for her. / But she turned away... and realized she had nothing else to fill her life with. / The spider smiled... and he ate her all up.
+- Major Neci Rusalka Transmission
+
+### Somachord Fragments
+
+- Main article: Somachord
+- Somachord Tones are parts of a song scattered throughout the Origin System. Four parts are required to completely unlock a playable track of background music in the Orbiter's Somachord, which is located in the Personal Quarters.
+- They are identified as purple bars arranged in a semicircular arc, reminiscent of the Mandachord's note table. Similar to Cephalon Fragments they are found on every location in the Solar system after the completion of The War Within quest and are identifiable by a unique purple icon on the mini-map if equipped with a Loot Radar mods. They will not spawn unless one member of the squad has completed the Personal Quarters Segment, but can be scanned by anyone regardless of whether they have unlocked their Personal Quarters.
+- View Somachord Fragment Songs List▾▾
+- This section is transcluded from Somachord/Tones. To change it, please edit the transcluded page.
+
+### Fragments
+
+- Location / Song / Required Scans
+- Ceres / This Is What You Are / 4
+- Duviri / Below The Thunder / 1
+- Duviri / Drifter's Respite / 1
+- Duviri / Duviri Paradox / 1
+- Duviri / Eyes That Burn / 1
+- Duviri / He Who Waits / 1
+- Duviri / Into Madness / 1
+- Duviri / Paragrimm Ascending / 1
+- Duviri / Perdition's Coils / 1
+- Duviri / Shadows And Summonings / 1
+- Duviri / Unbound / 1
+- Earth / Gene Molds / 4
+- Eris / Our Disease / 4
+- Europa / Origin System / 4
+- Isleweaver / Beneath Her Eyes / 1
+- Isleweaver / Dust's Dominion / 1
+- Isleweaver / Tethra Jahrak / 1
+- Jupiter / The Profit / 4
+- Kuva Fortress / Red Broth / 4
+- Kuva Fortress / The Witches Lair / 4
+- Lua / Rapid Adaptation / 4
+- Lua / The Second Dream / 4
+- Mars / Consume Us / 4
+- Mercury / Vor's Prize / 4
+- Neptune / Archwing / 4
+- Orokin Derelict / Derelicts / 4
+- Phobos / Wings Of War / 4
+- Pluto / March Of The Moa / 4
+- Saturn / Wretched Things / 4
+- Sedna / Grineer Onslaught / 4
+- Uranus / Hunhow / 4
+- Uranus / Sentient Tombs / 4
+- Uranus / Grakata / 4
+- Venus / Corpus Greed / 4
+- Void / Corrupted / 4
+- Void / Ghosts Of Void / 4
+- Void / The Creeping Dark / 4
+- Zariman Ten Zero / On Corroded Wings / 4
+- Zariman Ten Zero / The Offering / 4
+- Zariman Ten Zero / Canticle / 4
+- Albrecht's Laboratories / Murum Vull / 1
+- Albrecht's Laboratories / No God Above Knowledge / 1
+- Albrecht's Laboratories / Platform 7 / 1
+- Albrecht's Laboratories / Sanctum Anatomica / 1
+- Albrecht's Laboratories / See It In The Flesh / 1
+- Albrecht's Laboratories / The Fragmented / 1
+- Albrecht's Laboratories / The Master Returns / 1
+- Albrecht's Laboratories / Vashtav / 1
+- Albrecht's Laboratories / Yara Jeliira / 1
+- Granum Void "Phobos Tones" / Entwined Forever / 1
+- Corpus Ship "Phobos Tones" / Granum Void / 1
+- The Sacrifice / Your Creator / 2
+- The Sacrifice / To Take Its Pain Away / 3
+- Orb Vallis / Cold Tundra / 4
+- Orb Vallis / Coldwave / 4
+- Orb Vallis / Fluid Mechanics / 4
+- Orb Vallis / Klokkit / 4
+- Orb Vallis / Null Unit / 4
+- Orb Vallis / Vapor Trails / 4
+- Orb Vallis / We All Lift Together / 4
+- Call of the Tempestarii / Sleeping In The Cold Below / 2
+- Post-New War Plains of Eidolon and Orb Vallis / For Narmer / 1
+- Post-New War Plains of Eidolon and Orb Vallis / Hybrid Abominations / 1
+- Post-New War Plains of Eidolon and Orb Vallis / Sunkiller / 1
+- Break Narmer's Sneaky Sabotage / Final Stand / 1
+- Break Narmer's Junk Run / Hold The Line / 1
+- Break Narmer's Prison Break "Murex Tones" / Skybreak / 1
+- Break Narmer's Prison Break "Murex Tones" / Steel Horizon / 1
+- Ascension / Angels Requiem / 1
+- Ascension / Final Ascent / 1
+- Deepmines / The Circle / 1
+- Deepmines / Roots and Fruits / 1
+- Deepmines / Life in Decay / 1
+- The Descendia / Decrypted / 1
+- The Descendia / Roses from the Abyss / 1
+- The Descendia / The Cardinal Calls / 1
+- The Perita Rebellion / Deepest Dark / 1
+- The Perita Rebellion / Flowers Fall / 1
+- The Perita Rebellion / Ironclad / 1
+- The Perita Rebellion / Executor / 1
+- The Perita Rebellion / The Unremembered / 1
+- The Perita Rebellion / His Light / 1
+- The Perita Rebellion / Lullaby of the Manifold / 1
+- The Perita Rebellion / Lullaby of the Manifold - Adis's Lament / 1
+- The Perita Rebellion / Lullaby of the Manifold - Dusk / 1
+
+### Purchased from Vendors
+
+- Vendor Name / Song / Price / Other Requirements
+- Varzia / Gauss Prime Theme "Redline" / 5 Aya
+- Varzia / Grendel Prime Theme / 5 Aya
+- Varzia / Gara Prime Theme / 5 Aya
+- Varzia / Hildryn Prime Theme / 5 Aya
+- Varzia / Hydroid Prime Theme / 5 Aya
+- Varzia / Khora Prime Theme / 5 Aya
+- Varzia / Nekros Prime Theme / 5 Aya
+- Varzia / Nidus Prime Theme / 5 Aya
+- Varzia / Oberon Prime Theme / 5 Aya
+- Varzia / Octavia Prime Theme / 5 Aya
+- Varzia / Protea Prime Theme "Double Time" / 5 Aya
+- Varzia / Revenant Prime Theme / 5 Aya
+- Varzia / Vauban Prime Theme / 5 Aya
+- Varzia / Wisp Prime Theme / 5 Aya
+- Varzia / Yareli Prime Theme "Waverider" / 5 Aya
+- Baro Ki'Teer / The Lotus Eaters Login Music / 150,000 and 165
+- Baro Ki'Teer / Abyss of Dagath Login Music / 155,000 and 150
+- Baro Ki'Teer / Empyrean Login Music / 155,000 and 160
+- Baro Ki'Teer / Whispers in the Walls Login Music / 170,000 and 165
+- Baro Ki'Teer / Angels of the Zariman Login Music / 180,000 and 160
+- Baro Ki'Teer / Railjack Retrofit Login Music / 165,000 and 150
+- Baro Ki'Teer / Dante Unbound Login Music / 150,000 and 150
+- Baro Ki'Teer / 10th Anniversary Login Music / 165,000 and 145
+- Baro Ki'Teer / Heart of Deimos Login Music / 160,000 and 155
+- Baro Ki'Teer / The Old Blood Login Music / 170,000 and 140
+- Baro Ki'Teer / Jade Shadows Login Music / 170,000 and 150
+- Baro Ki'Teer / The New War Login Music / 160,000 and 145
+- Baro Ki'Teer / The Seven Crimes of Kullervo Login Music / 170,000 and 140
+- Baro Ki'Teer / Lua's Prey Login Music / 200,000 and 135
+- Baro Ki'Teer / The Sacrifice Login Music / 180,000 and 135
+- Baro Ki'Teer / Veilbreaker Login Music / 150,000 and 150
+- Baro Ki'Teer / Sisters of Parvos Login Music / 155,000 and 150
+- Baro Ki'Teer / Fortuna Login Music / 190,000 and 130
+- Aoi / 16-Bit Girls with Machine Guns / 5,000 / Rank 1 - Leftovers with The Hex
+- Aoi / Anna Ki in the G.O.B. / 5,000 / Rank 1 - Leftovers with The Hex
+- Aoi / Arsenal / 5,000 / Rank 1 - Leftovers with The Hex
+- Aoi / Core Containment / 5,000 / Rank 1 - Leftovers with The Hex
+- Aoi / Psycho Killian / 5,000 / Rank 2 - Fresh Slice with The Hex
+- Aoi / Lundora Calling / 5,000 / Rank 2 - Fresh Slice with The Hex
+- Aoi / Cut Through / 5,000 / Rank 2 - Fresh Slice with The Hex
+- Aoi / Infection / 5,000 / Rank 2 - Fresh Slice with The Hex
+- Aoi / Anna Ki is a Punk Rocker / 5,000 / Rank 3 - 2-For-1 with The Hex
+- Aoi / Kick Out The Guns / 5,000 / Rank 3 - 2-For-1 with The Hex
+- Aoi / Numb / 5,000 / Rank 3 - 2-For-1 with The Hex
+- Aoi / PARTY OF YOUR LIFETIME / 5,000 / Rank 3 - 2-For-1 with The Hex
+- Aoi / I Wanna Be Your G.O.B. / 5,000 / Rank 4 - Hot & Fresh with The Hex
+- Aoi / Biz-Marque Pop / 5,000 / Rank 4 - Hot & Fresh with The Hex
+- Aoi / Pick a Side / 5,000 / Rank 4 - Hot & Fresh with The Hex
+- Aoi / Rotten Lives / 5,000 / Rank 4 - Hot & Fresh with The Hex
+- Aoi / Shut It Down / 5,000 / Rank 4 - Hot & Fresh with The Hex
+- Aoi / The Call / 5,000 / Rank 5 - Pizza Party with The Hex
+- Aoi / THE GREAT DESPAIR / 5,000 / Rank 5 - Pizza Party with The Hex
+- Aoi / The Great KIM / 5,000 / Rank 5 - Pizza Party with The Hex
+- Aoi / Alive Again / 5,000 / Rank 5 - Pizza Party with The Hex
+- Aoi / Below Zero / 5,000 / Rank 5 - Pizza Party with The Hex
+- Aoi / Crash Course / 5,000 / Rank 5 - Pizza Party with The Hex
+- Aoi / From The Stars / 5,000 / Rank 5 - Pizza Party with The Hex
+- Koumei's Shrine / What is My Fate? / 100 Fate Pearl / Shrine Defense unlocked
+- Teshin / The Teacher / 25 Steel Essence / The Steel Path unlocked
+- Aspirant Zorba / Drip / 200 Atramentum / Chains of Harrow complete
+- Aspirant Zorba / Stained Vespers / 200 Atramentum / Chains of Harrow complete
+- Aspirant Zorba / Dreadnaught / 200 Atramentum / Chains of Harrow complete
+- Pontis Tower (Hunhow) / Sacred Light / 60 Emerald Talent / Jade Shadows: Constellations complete
+- Pontis Tower (Hunhow) / Celestial Clash / 60 Crimson Talent / Jade Shadows: Constellations complete
+- Amir, Höllvandeim / A Byte-Sized Adventure / 5,000 ( The Hex) / Fables & Frontiers unlocked
+- Amir, Höllvandeim / Running Late / 5,000 ( The Hex) / Fables & Frontiers unlocked
+- Cephalon Melica, Yuvan Peak or Chrysalith / Neote's Dance / 50 Entropic Kuva / Angels of the Zariman & Whispers in the Walls complete
+- Cephalon Melica, Yuvan Peak or Chrysalith / Ice Speaker / 50 Entropic Kuva / Angels of the Zariman & Whispers in the Walls complete
+
+### Other
+
+- Location / Song / Requirements
+- Sevagoth Glaukus Skin / Sevagoth's Lullaby / Purchased from the Market: Sevagoth Glaukus Skin 165 Sevagoth Glaukus Collection 245
+- Quest / The Awakening / Awarded upon completing Awakening
+
+### Frame Fighter Fragments
+
+- Main article: Frame Fighter
+- Frame Fighter Character Data are used to unlock respective new Frames in the Frame Fighter minigame and spawn once a player has unlocked the Ludoplex. Only one of these fragments are required to unlock one character for use in the fighting game.
+- They are identified as a blue, floating orb. Similar to Cephalon Fragments and Somachord Tones they can be found on every location in the solar system. Anyone can scan them regardless of whether they have the minigame or not.
+- View Frame Fighter Fragments List▾▾
+- This section is transcluded from Frame Fighter § Frame Fighter Fragment Locations. To change it, please edit the transcluded page.
+- Planet / Warframes
+- Earth / Hydroid, Gara, Revenant
+- Mercury / Baruuk, Rhino, Ivara
+- Venus / Banshee, Garuda, Khora
+- Mars / Inaros, Mirage
+- Phobos / Nidus, Protea, Wukong
+- Deimos / Nekros, Octavia, Xaku
+- Ceres / Frost, Oberon, Yareli
+- Jupiter / Limbo, Valkyr, Wisp
+- Europa / Grendel, Nova, Vauban
+- Saturn / Ember, Nezha, Zephyr
+- Uranus / Ash, Equinox, Lavos
+- Neptune / Hildryn, Loki, Nyx
+- Eris / Atlas, Mesa
+- Pluto / Chroma, Sevagoth, Trinity
+- Sedna / Gauss, Saryn, Titania
+- Lua / Harrow
+
+## Prex Cards
+
+- Main article: Decorations/Orbiter Decorations#Prex
+- Prex Cards are cards that depict an artwork of a Warframe. Prex Cards are found mostly in the Leverian, with each Warframe's gallery having its own unique Prex Card to find. These cards will only show up in the gallery once a player has leveled up the appropriate Warframe to level 30 (e.g. a player must level an Atlas to level 30 to reveal Atlas' Prex Card in his gallery), and the cards will usually be hidden in hard-to-see corners of the gallery. Once found, players can interact with the card to pick them up.
+- When acquired, Prex Cards can be used as Decorations in the Orbiter.
+
+## Notes
+
+- While Fragments will continue to appear for players after completing their sets, players will be unable to scan the Fragments.
+- Players must complete the mission for the scan to be counted.
+- The Synthesis Scanner's Cross-Matrix Widget will not trigger when scanning Fragments.
+- Cephalon Fragments share their spawn locations with Syndicate Medallions, meaning the two can occasionally overlap.
+- Junctions requiring you to scan Cephalon fragments will be completed regardless of mission failure or success.
+- Although serving a similar function as Fragments and revealing a story encoded within scannable objects, Kurias are treated as a separate item and are listed in the Objects section of the Codex.
+- It is possible for any combination of Cephalon Fragment, Somachord Fragment, and Frame Fighter Fragment to appear in the same mission, although it is much more common for only one of them to appear.
+
+## Tips
+
+- Loot Radar Mods make Cephalon Fragments, Somachord Tunes, and Frame Fighter Fragments appear on the mini-map and, as they are classified as loot objects, they can be detected from greater distances by increasing the Loot Radar stat. By equipping the Loot Detector, Thief's Wit, and Coaction Drift mods, the fragments will be much easier to find. This also works with the companion mod Animal Instinct.
+- Use the Codex Scanner's and Synthesis Scanner's pinging sounds to detect fragments in an area. Make sure to dispatch all enemies and destroy all containers within said area to make use of this method.
+- Increase sound effects volume and turn down the music volume to make the pinging sounds clearer to hear.
+- Helios can scan fragments automatically if the player is within range of Investigator.
+
+## Bugs
+
+- Scanning fragments at the same time as Helios will increment counter excessively and glitch out a fragment's progression.
+- There is a bug that causes many of the secret audio messages to be below the screen on many of the fragments, and this appears to have been caused by an update to the UI. This bug is common but hasn't been acknowledged by DE.

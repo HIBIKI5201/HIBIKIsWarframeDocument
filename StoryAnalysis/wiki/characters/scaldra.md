@@ -15,6 +15,7 @@ The Hex で登場した敵勢力
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Scaldra/Quotes](../../quotes/scaldra.md)（158 行、うち独り言など 24 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Scaldra)（英語・出典） / [全文検索](../../search.html?q=Scaldra)
 

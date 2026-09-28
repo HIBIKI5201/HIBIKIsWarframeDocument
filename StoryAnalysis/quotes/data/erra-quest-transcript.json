@@ -1,0 +1,19 @@
+{
+ "key": "erra-quest-transcript",
+ "title": "Erra (Quest)/Transcript",
+ "url": "https://wiki.warframe.com/w/Erra_(Quest)/Transcript",
+ "kind": "クエスト（台詞全文）",
+ "site": {
+  "key": "erra",
+  "name": "Erra",
+  "page": "Erra (Quest)"
+ },
+ "count": 28,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["← Previous (Chimera Prologue/Transcript)", null], ["Next (The Maker/Transcript) →", null]]},
+  {"path": ["Flashback"], "idle": false, "lines": [["- Lotus: \"Let. Her. Go.\"", "DLuaWarRoomInt0010Lotus_en.ogg"], ["- Erra: \"If I had a heart, it would be broken. If my eyes could weep, I'd be blind. Look at what they've made of you! You're a God. You're a Queen! But somehow the bees have you as a hostage. Do you even recognize me anymore?\"", "DLuaWarRoomInt0020Erra_en.ogg"], ["- Lotus: \"I recognize the enemy.\"", "DLuaWarRoomInt0040Lotus_en.ogg"], ["- Erra: \"No... sister. It's me. Erra-- The Makers caught you. Unravelled your mind. They're using you to kill us! 'The Queen of the Aphids' with her Eye in the Void. But I don't blame you... I blame... them! You believe these are your children... But I'm the only family you've got left! So choose! Our family, our people... or these parasites. Choose Natah! Choose!\"", "DLuaWarRoomInt0050Erra_en.ogg"], ["- Lotus: \"I am not... 'Natah'... I am... THE LOTUS.\"", "DLuaWarRoomInt0080Lotus_en.ogg"], ["- Erra: (screeches)", "DLuaWarRoomInt0072Erra_en.ogg"]]},
+  {"path": ["Present"], "idle": false, "lines": [["- Operator: (gasp)", "DSentThroneRoomOperatorIntro0010OperatorVoiceA_en_new.ogg"], ["- Ballas: (gasp)", "DIntDevourCit0119Ballas_en.ogg"], ["- Erra: \"Reformation is accelerating. Our Condrix are nearly ready. Our rebirth is at hand.\"", "DIntDevourCit0091Erra_en.ogg"], ["- Natah: \"And the Golden Spear... How many battalions?\"", "DIntDevourCit0100Natah_en.ogg"], ["- Erra: \"Still having lapses? Listen to me. That's the past. The Old War. Tell her, Maker!\"", "DIntDevourCit0110Erra_en.ogg"], ["- Ballas: \"Yes! There is no Spear, Lo-- uh... Natah. Erra speaks-- Master Erra. He speaks true. My... The Orokin are gone. The 'bios' are divided. In-fighting over what remains. Only the Tenno--\"", "DIntDevourCit0120Ballas_en.ogg"], ["- Natah: \"The Tenno. The Enemy.\"", "DIntDevourCit0140Natah_en.ogg"], ["- Ballas: \"Yes...\"", "DIntDevourCit0150Ballas_en.ogg"], ["- Natah: \"Made by you... to kill us...\"", "DIntDevourCit0160Natah_en.ogg"], ["- Ballas: \"... Yes.\"", "DIntDevourCit0170Ballas_en.ogg"], ["- Erra: \"But you have something our people have never had before, Natah. You're stained by their wickedness. Use it! Use their sin against them!\"", "DIntDevourCit0180Erra_en.ogg"], ["- Natah: \"They're listening.\"", "DIntDevourCit0190Natah_en.ogg"], ["- Erra: \"Let them.\"", "DIntDevourCit0191Erra_en.ogg"], ["- Natah: \"They know we are building.\"", "DIntDevourCit0200Natah_en.ogg"], ["- Erra: \"It won't matter.\"", "DIntDevourCit0201Erra_en.ogg"], ["- Natah: \"No. It won't.\"", "DIntDevourCit0202Natah_en.ogg"], ["- Erra: \"So what are you waiting for. Sing for us, sister. Call them home.\"", "DIntDevourCit0203Erra_en.ogg"]]},
+  {"path": ["Pre Update 35.5 (2024-03-27)"], "idle": false, "lines": [["- Operator: (gasp)", "DSentThroneRoomOperatorIntro0010OperatorVoiceA_en.ogg"], ["← Previous (Chimera Prologue/Transcript)", null], ["Next (The Maker/Transcript) →", null]]}
+ ]
+}

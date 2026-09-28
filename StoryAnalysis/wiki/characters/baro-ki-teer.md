@@ -14,6 +14,7 @@ Void Trader（Void の商人）とも呼ばれる、異国の品と贅沢、と�
 
 - グループ: [Tenno](g01-tenno.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Baro Ki'Teer/Quotes](../../quotes/baro-ki-teer.md)（206 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Baro_Ki'Teer)（英語・出典） / [全文検索](../../search.html?q=Baro%20Ki%27Teer)
 

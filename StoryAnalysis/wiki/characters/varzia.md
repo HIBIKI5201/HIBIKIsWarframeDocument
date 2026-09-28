@@ -14,6 +14,7 @@ Varzia Dax。元 Dax の兵士。Maroo's Bazaar で Prime Resurgence を運営
 
 - グループ: [Tenno](g01-tenno.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Varzia/Quotes](../../quotes/varzia.md)（69 行、うち独り言など 30 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Varzia)（英語・出典） / [全文検索](../../search.html?q=Varzia)
 

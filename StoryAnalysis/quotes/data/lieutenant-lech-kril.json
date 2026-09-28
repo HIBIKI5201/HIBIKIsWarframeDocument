@@ -1,0 +1,18 @@
+{
+ "key": "lieutenant-lech-kril",
+ "title": "Lieutenant Lech Kril/Quotes",
+ "url": "https://wiki.warframe.com/w/Lieutenant_Lech_Kril/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "lieutenant-lech-kril",
+  "name": "Lieutenant Lech Kril",
+  "page": "Lieutenant Lech Kril"
+ },
+ "count": 18,
+ "idle": 0,
+ "sections": [
+  {"path": ["Lotus Transmissions", "During solo boss fight"], "idle": false, "lines": [["- Lotus: \"Kril is a seasoned war hero with many battles under his belt. His victories are decided by his trusty hammer, one which he wields with brutal consequences.\"", null], ["- \"Kril is highly unpredictable. We suspect he may have other tricks up his sleeve. To survive this battle, you must strike hard and fast.\"", null], ["- \"Eliminating Kril is the only chance for our exposed colony.\"", null], ["- \"You are nearing Kril’s location. Proceed with caution.\"", null], ["- \"Kril is aware of your presence. Strike first.\"", null]]},
+  {"path": ["Lotus Transmissions", "During dual boss fight with Captain Vor"], "idle": false, "lines": [["- Lotus: \"This is your most dangerous assassination yet. Captain Vor has teamed up with Lech Kril to take you down. Let’s show them your true Tenno power.\"", null], ["- \"Vor’s mobility could make him the larger threat. Observe their attack patterns and look for an opportunity to divide and conquer.\"", null]]},
+  {"path": ["Visual Quotes"], "idle": false, "lines": [["- And I will strike down upon [player name] with great vengeance and furious anger!", null], ["- The sound of hammer shattering ice is pure auditory perfection.", null], ["- Beneath those suits exist flesh. Flesh bleeds. [player name] bleeds.", null], ["- I have seen and conquered many clans. [player's clan name] will be next!", null], ["- Does that second skin peel away just as easy as the first?", null], ["- Grineer immortality begins with the strike of my hammer!", null], ["- I forgot my nails... I guess [player name] will have to do!", null], ["- I am Lech Kril. My hammer awaits your skull.", null], ["- Trust me when I say you won't feel a thing.", null], ["- You ever get hammered in that suit?", null], ["- Hold still and I'll make this quick.", null]]}
+ ]
+}

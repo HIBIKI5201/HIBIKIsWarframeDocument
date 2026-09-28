@@ -15,6 +15,7 @@
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Fisher Hai-Luk/Quotes](../../quotes/fisher-hai-luk.md)（42 行、うち独り言など 4 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Fisher_Hai-Luk)（英語・出典） / [全文検索](../../search.html?q=Fisher%20Hai-Luk)
 

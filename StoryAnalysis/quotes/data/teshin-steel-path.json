@@ -1,0 +1,22 @@
+{
+ "key": "teshin-steel-path",
+ "title": "Teshin/Quotes/Steel Path",
+ "url": "https://wiki.warframe.com/w/Teshin/Quotes/Steel_Path",
+ "kind": "キャラクター",
+ "site": {
+  "key": "teshin",
+  "name": "Teshin",
+  "page": "Teshin"
+ },
+ "count": 25,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Teshin dialogue during The Steel Path missions and inbox messages related to the game mode.", null]]},
+  {"path": ["Trailer"], "idle": false, "lines": [["- \"The Origin System is ever-changing. Our enemies grow more powerful. It is time to take on a new challenge. Show me what you have learned. Survive. To the victor, my esteem... and the spoils. I will be waiting. Will you walk the Steel Path?\"", "DTeshinGeneric0220Teshin_en.ogg"]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["When the player is qualified to enable The Steel Path:", null], ["- \"Tenno - you must seek me out to walk THE STEEL PATH. I will be waiting.\"", "DTeshinGeneric0240Teshin_en.ogg"]]},
+  {"path": ["Steel Path?"], "idle": false, "lines": [["- \"The enemy has learned your measure. The lessons you taught have made them wise, their hatred for you making them strong. You are a blade forged and honed, true. But even the sharpest of blades can break. And they must break you, lest you lay them low - now and forever. Show me what you have learned. Survive. To the victor, my esteem... and the spoils.\"", "DTeshinHardIntro0020Teshin_en.ogg"]]},
+  {"path": ["On Mission Start"], "idle": false, "lines": [["- \"Your weapons make music, and the enemy calls for a song.\"", "DHardMissionStart0100Teshin_en.ogg"], ["- \"Accept your death and you may yet avoid it. Trust in your training.\"", "DHardMissionStart0070Teshin_en.ogg"], ["- \"Each enemy is more powerful than before. Only with true mastery of the Tenno Arsenal will you succeed.\"", "DHardMissionStart0060Teshin_en.ogg"], ["- \"The art of combat must be practiced, to truly master the canvas of war.\"", "DHardMissionStart0080Teshin_en.ogg"], ["- \"Their rage is vehement, their focus impressive. Give them a warrior's death.\"", "DHardMissionStart0050Teshin_en.ogg"], ["- \"These foes deserve your respect. Honor them with quick deaths, and I with your victory.\"", "DHardMissionStart0110Teshin_en.ogg"], ["- \"These are worthy foes. Underestimate them at your peril.\"", "DHardMissionStart0090Teshin_en.ogg"], ["- \"Your enemies have grown fierce - use all that you have learned.\"", "DHardMissionStart0040Teshin_en.ogg"]]},
+  {"path": ["On Mission End"], "idle": false, "lines": [["- \"A valuable lesson.\"", "DHardMissionComplete0140Teshin_en.ogg"], ["- \"And so we learn the importance of clarity and purpose.\"", "DHardMissionComplete0190Teshin_en.ogg"], ["- \"As you conquer the foe, so you conquer yourself.\"", "DHardMissionComplete0160Teshin_en.ogg"], ["- \"It is done, Tenno.\"", "DHardMissionComplete0120Teshin_en.ogg"], ["- \"They fought well. Good deaths, all.\"", "DHardMissionComplete0150Teshin_en.ogg"], ["- \"What you have learned here will serve you well.\"", "DHardMissionComplete0130Teshin_en.ogg"], ["- \"You are a blade. You exist to strike. You strike to win. The lesson ends.\"", "DHardMissionComplete0200Teshin_en.ogg"], ["- \"Your will was greater. This is good.\"", "DHardMissionComplete0180Teshin_en.ogg"], ["- \"Very good.\"", "DHardMissionComplete0170Teshin_en.ogg"]]},
+  {"path": ["On Completing All Nodes of a Planet"], "idle": false, "lines": [["> “A Forged Path", null], ["> You have done well, Tenno. As a signifier for your dominance over <PLANET_NAME>, accept these items to show other Tenno that you are ready for whatever comes next on your path. ” —Teshin", null], ["(Attachments: The Steel Path - <PLANET_NAME> Decoration, The Steel Path - <PLANET_NAME> Emote, 2x Steel Essence)", null]]}
+ ]
+}

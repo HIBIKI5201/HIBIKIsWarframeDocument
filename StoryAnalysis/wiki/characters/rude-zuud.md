@@ -14,6 +14,7 @@ Kitgun 職人
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Rude Zuud/Quotes](../../quotes/rude-zuud.md)（102 行、うち独り言など 3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Rude_Zuud)（英語・出典） / [全文検索](../../search.html?q=Rude%20Zuud)
 

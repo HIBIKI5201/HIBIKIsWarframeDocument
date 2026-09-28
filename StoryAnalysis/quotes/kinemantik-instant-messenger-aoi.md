@@ -1,0 +1,2805 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Kinemantik Instant Messenger/Aoi
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Kinemantik Instant Messenger/Aoi」](https://wiki.warframe.com/w/Kinemantik_Instant_Messenger/Aoi)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+2666 行（うち独り言・待機中・雑談など 70 行）。英語原文。
+
+- This article attempts to distill conversations to straight-forward text and may be missing some paths; complete flowcharts for all Aoi conversations are available here in PNG and here in SVG.
+- All ending conversations (where the Hex goes offline) will be marked as {Convo. Ends}
+- A flow chart will be included after all possible choices in the conversation are noted in this page
+- Any glowing, golden text marked in-game will be highlighted here in bold+underlined
+- Indented messages are the continuation after the Drifter (you) selected the chat option
+- All user's choices to be made are marked with a '>' for clarity. Note that available choices in-game are not written in order on this page.
+
+### Conversation 1 (OK I'm bored. Maybe a little curious too ^_^)
+
+- Aoi: Ok I’m bored. Maybe a little curious too ^_^
+- Curious about what?
+- Aoi: do u prefer coffee or tea?
+- Coffee. You?
+- Aoi: both are good! depends on the day.
+- Aoi: would you like milk or sugar in ur caffeinated bevvy?
+- > Both.
+- > I’d prefer black.
+- > Milk.
+- Sugar.
+- Aoi: How sweet of you! ^_^
+- Aoi: ur response has been carefully noted
+- Aoi: have a nice day! {Convo. Ends}
+- Tea. You?
+- Aoi: both are good! depends on the day.
+- Aoi: would you like milk or sugar in ur caffeinated bevvy?
+- Both.
+- Aoi: Best of both worlds, hmm? I respect that.
+- Aoi: ur response has been carefully noted
+- Aoi: have a nice day! {Convo. Ends}
+- I’ve never had either, honestly.
+- Aoi: okay wow so we have to fix that!
+- Aoi: would you like milk or sugar in ur caffeinated bevvy?
+- > Both.
+- I'd prefer black.
+- Aoi: best of both worlds, hmm? I respect that.
+- Aoi: ur response has been carefully noted
+- Aoi: have a nice day! {Convo. Ends}
+- Milk.
+- Aoi: "૮( ˶•⤙•˶ )ა {Notes: 6}
+- Aoi: ur response has been carefully noted
+- Aoi: have a nice day! {Convo. Ends}
+- Sugar.
+- Aoi: How sweet of you! ^_^
+- Aoi: ur response has been carefully noted
+- Aoi: have a nice day! {Convo. Ends}
+- Only boring people get bored.
+- Aoi: if only we could all be as amusing as u :)
+- Sorry. Bad joke. How may I cure your boredom, m'lady?
+- Aoi: (⊃▵^)
+- Aoi: tell me about your day!
+- > Just another typical day of inter-dimensional cosmic warfare. Can't complain.
+- So far, so good. How's your day going?
+- delightful!
+- I'm watching Quincy pretend he's not annoyed that he missed the bullseye during target practice
+- How far off the mark was he?
+- like an inch off the center lol. end of the world, right?
+- oof he's been frowning silently into the void for like 5 mins. I should at least try to cheer him up.
+- we'll chat more later, yah? ^_^ {Convo. Ends}
+- Hey, I get it.
+- (Line required)
+- That would be the day.
+- (Line required)
+- I'm just kidding.
+- (Line required)
+- [Don't respond.]
+- (Line required)
+- -_-
+- Aoi: (⌐■-■)
+- =^•л•^=
+- Aoi: (𓇳ʎ𓇳u)
+- (っ˘ڡ˘ς)
+- (Line required)
+- (づ｡◕‿‿◕｡)づ
+- Aoi: {m‿m}♥ {Notes: 8}
+- Aoi: k thx not bored anymore {Convo. ends}
+- (-_-)Zzzz
+- (Line required)
+- ♫{·‿·}
+- (Line required)
+
+### Conversation 2 (I think you left a fancy energy-blasting pistol thing here)
+
+- Aoi: I think you left a fancy energy-blasting pistol thing here
+- Um, no. All my "fancy energy-blasting pistol things" are accounted for.
+- [Goes the same as below choice]
+- Not mine. Try Quincy
+- Aoi: enh, I guess I'll just leave it
+- Is that all for now?
+- Aoi: should i ask you about the weather?
+- What, like, in space?
+- Aoi: Hmmm lemme think......
+- Aoi: how's the weather on venus? ^_^
+- Depends on what the coolant towers are up to
+- Aoi: uuuuh coolant whatnows?
+- Aoi: I was joking. I thought venus couldn't sustain life lol
+- Oh yeah. I guess you're in the time when Venus was inhospitable... Wild.
+- [Goes the same as below choice]
+- Ah right. In the future, the Orokin come along and invent coolant towers that cool Venus down.
+- [Same as below, from: "Aoi: r uuuu messing with meee?"]
+- I'd have to check. Either kind of cold or super cold. Either way, cold.
+- Aoi: o_O
+- Aoi: isn't venus like... really hot?
+- Aoi: and surrounded by dense gas?
+- Oh yeah. I guess you're in the time when Venus was inhospitable... Wild.
+- [Goes the same as below choice]
+- Ah right. In the future, the Orokin come along and invent coolant towers that cool Venus down.
+- Aoi: r uuuu messing with meee?
+- I'll do you one better. These days, people with robotic body upgrades maintain the towers, and I get along great with them.
+- Aoi: Σ(°o°)
+- Aoi: cool! did we fix jupiter too?
+- There's only so much one can do with a gas giant, but there are stations in its atmosphere
+- Aoi: darn. I guess I'll live with that midnight mind-trap forever.
+- I'd be happy to help free you of that mind-trap if I can.
+- Aoi: Lettie told me if u fell into jupiter, u'd hit a point where the atmosphere is denser than ur body, so u'd bob up and down. stuck. forever falling then getting launched back up between densities
+- Aoi: that is until u disintegrate! plus it's the size of like 1300 earths... long fall... long launch!
+- Aoi: (ó__ò༚)
+- That's... terrifying.
+- Aoi: and it always will be! but it helps to talk about :')
+- Aoi: it's not like I'm an astronaut anyway
+- > A what?
+- is that... another mind- trap?
+- Aoi: oh duh! I guess u wouldn't have astronauts anymore
+- Aoi: the word's kinda meaningless when EVERYONE's an astronaut lol
+- > So an astronaut is someone who lives in space?
+- I still have no idea what you're talking about.
+- Aoi: an astronaut is someone who *explores* space. people can't live there yet, but we visit!
+- That's pretty exciting. Humans are on the cusp of discovering so much, and you get to be right there to see it.
+- Aoi: :) that's a really cool way to look at it
+- Aoi: ummm... I've been enjoying our convo so much that I ignored the fancy energy-blasting pistol thing leaking some kinda green ooze on the floor...
+- Aoi: it's starting to smell weird sooo
+- Aoi: I'm gonna get Quincy to deal with that
+- > Yikes! Good luck. {Convo. ends}
+- > Oh man. Good idea! {Convo. ends}
+- What's it like to be talking to a real live astronaut?
+- Aoi: pretty cool ;) (jump to above answer for same lines)
+- You'd die quickly anyway. Just your body would be floating there, not "you" exactly.
+- Aoi: not super comforting, but I appreciate the effort
+- Aoi: it's not like I'm an astronaut anyway ( jump to above answers for same lines )
+- I don't know if this helps, but size is releative. Earth actually seems pretty small when you live in space.
+- Aoi: that is... oddly comforting
+- Aoi: jupiter would be a nightmare even if it were the size of earth tho
+- Aoi: it's not like I'm an astronaut anyway ( jump to above answers for same lines )
+- Sorry, what kind of trap?
+- Aoi: u know when ur mind settles into the quiet of the night and starts pulling all kinds of crazy things from your subconscious as u try to sleep? mind-traps!
+- Oh. Hah. Yeah, I know what you mean. You have one about Jupiter?
+- [Jumps to above: " Aoi: Lettie told me if u fell into jupiter, u'd hit a point where the atmosphere is denser ..."]
+- I have no idea what you're talking about.
+- {Lines required}
+- Well, What do you mean by "fix"? But not really.
+- [Same as above, from: "Aoi: darn. I guess I'll live with that midnight mind-trap forever."]
+- Not at all. I go there all the time. We created planet-cooling technology ages ago. Lol.
+- [Same as above, from: "Aoi: Σ(°o°)"]
+- I'd rather you didn't.
+- (Line required)
+- > Probably best {Convo. ends}
+
+### Conversation 3 (I spilled bubble tea)
+
+- Aoi: I spilled bubble tea on my PC pls tell me you got this message so I know everything works
+- Nope, it's ruined.
+- (Jump to below branch 'Aoi: omg thank all the gods. ...' )
+- You're safe.
+- Aoi: omg thank all the gods. Amir would never have let me live that down
+- > And just how did you spill tea all over your PC?
+- What kind of tea did you say it was?
+- Aoi: bubble tea! it's a milky tea with chewy little tapioca pearls
+- > Sounds weird.
+- So little of what you just said made sense to me, but I trust your taste.
+- Aoi: (^▽^)
+- Do you still have a few sips left at least?
+- (Jump to below branch 'Aoi: ok don't make fun of me' )
+- And this stuff nearly broke your PC?
+- Aoi: ok don't make fun of me
+- Aoi: I didn't have room on my desk so I sat my drink on the tower. then I was settling in, getting comfy
+- Aoi: when I crossed my legs, my knee hit the bubble tea and BAM. Tea EVERYWHERE. Not a drop left in the cup!
+- The weirdest part of that story was when you sat cross-legged at a computer desk.
+- (Jump to below branch 'Aoi: (ó_ò.)' )
+- > I'm having a really hard time not making fun of you right now.
+- I'll spare you the lecture about caring for your electronics
+- Aoi: (ó_ò.)
+- Aoi: pity meee! I only got like one sip and bubble tea's tough to come by around here!
+- No chance of getting another tea from wherever you got that one then?
+- Aoi: I make it myself. gotta venture into scaldraville to find the ingredients tho
+- > Yeah, I wouldn't do that.
+- > Hey, that's not so bad. I hear Scaldraville's beautiful this time of year.
+- You must really like tea if you go to all that trouble.
+- Aoi: nothing will stop me from treating myself ^_^
+- (Jump to below branch 'Aoi: aE -[$TE) keyboa e rrrrd !!' )
+- Okay, fair enough. That sucks. Silver lining is you didn't break anything though, right?
+- Aoi: I do love a silver lining ^_^
+- And we don't even have to tell Amir.
+- Aoi: thank goodness ur so good at keeping secrets
+- Aoi: and o[' [y]
+- Aoi: oh shio-[3eettq
+- Aoi: aE -[$TE) keyboa e rrrrd !!
+- Looks like there was a little damage after all.
+- (Jump to below branch 'Aoi: grRRr =====: ((( @' )
+- I think you'd better talk to Amir about fixing that
+- Aoi: grRRr =====: ((( @
+- I'd ask if you're okay over there but... it looks like replying will be difficult either way.
+- (Jump to below branch 'Aoi: ...... e3-= q -------' )
+- I don't think typing is good for the keyboard at this point
+- Aoi: ...... e3-= q -------
+- Aoi: qq
+- Aoi:
+- Aoi: GOT IT
+- > What the heck happened?
+- (Jump to below branch 'Aoi: I simply separated the metal in the keyboard from the liquid (and tapioca) then rebuilt it ^_^ good as new!' )
+- Oh! Got what?
+- (Jump to below branch 'Aoi: I simply separated the metal in the keyboard from the liquid (and tapioca) then rebuilt it ^_^ good as new!' )
+- Did Lettie's rats walk all over your keyboard or was that bubble tea damage?
+- Aoi: I simply separated the metal in the keyboard from the liquid (and tapioca) then rebuilt it ^_^ good as new!
+- > I'm surprised you didn't think of that sooner.
+- Damn, your powers are no joke.
+- Aoi: aww shucks ^_^
+- (Jump to below branch 'Aoi: yah sooo I'm totally...' )
+- Wow you did that quickly too.
+- Aoi: you think? ^_^
+- Aoi: yah sooo I'm totally gonna go brag to Amir
+- As you should.
+- Aoi: later! {Convo. Ends}
+- > Alright then.
+- I would, too. :)
+- Aoi: later! {Convo. Ends}
+
+### Conversation 4 (<RETRO_EMOJI_COOLARMSUP> / <RETRO_EMOJI_HAPPYARMSUP>)
+
+- ヽ(･ ‿ ･)ノ {Notes: 2}
+- (Jump to below branch: Aoi: d(￣◊￣)b
+- ヾ(⌐■-■)/ {Notes: 2}
+- Aoi: d(￣◊￣)b {Notes: 3}
+- Is that like… a predasite?
+- Aoi: a what now?
+- Right. You never would have seen an animal on Deimos. Predasites are like infested dogs with big ears. You’d love them.
+- Aoi: big ears are always cute! u see predasites often? ^_^
+- Actually no. They’re hard to get close to… and kinda violent.
+- Aoi: pray tell, why do u need to get close to a wild animal on Deimos?
+- I hunt them.
+- Aoi: is there like… an over-population problem?
+- > I just don’t like them.
+- That was a joke. I’m actually part of a program to conserve them.
+- Aoi: aaah u got me! that‘s lovely ^_^
+- Aoi: that might be my new fave fact about u
+- I’m glad you approve.
+- Aoi: i‘m glad ur not into hunting endangered animals <3
+- Aoi: my first emoticon was supposed to be a thumbs up btw ^_^
+- Oh. Thanks for clearing that up.
+- Aoi: but I’m going to say it’s a predasite from now on!
+- > Perfect :) {Convo. Ends}
+- > Lol. You do whatever you think is best. {Convo. Ends}
+- Ah. It all makes sense now.
+- Aoi: but I’m going to say it’s a predasite from now on!
+- > (Same as above replies)
+- Just wait until you learn even more about me ;)
+- Aoi: lol I look forward to it
+- (Same from "Aoi: but I’m going to say it’s a predasite from now on!")
+- Conservation. I work to preserve Deimos wildlife.
+- Aoi: oh! that is so incredibly lovely ^_^
+- (Same from "Aoi:that might be my new fave fact about u")
+- Yeah! I’m good at sneaking up on them.
+- (Line required)
+- Ah right. You wouldn’t know. It’s an animal on Deimos. Don’t worry your pretty little head over it.
+- (Line required)
+- (𓇳ʎ𓇳u)
+- (Jump to below branch: Aoi: (づ｡◕‿‿◕｡)づ)
+- =^•л•^=
+- Aoi: (づ｡◕‿‿◕｡)づ (Note: 7)
+- (っ ̑ ᴗ ̑ )っ(˵ ̑ ⏑ ̑ ˵)
+- Aoi: ur great at virtual hugs!
+- I'm even better at real ones.
+- Aoi: I'm sure u are!
+- (Jump to below branch with 'Aoi: wut do you think is the secret...' )
+- So are you!
+- Aoi: aaaw <3
+- Aoi: wut do you think is the secret to a perfect hug? ^_^
+- Sincerity.
+- Aoi: I couldn't agree more!
+- Aoi: ur a delight <3 {Convo. Ends}
+- A great body.
+- Aoi: ☉‿☉
+- Aoi: I suppose that helps, ya
+- Aoi: I appreciate ur insight! {Convo. Ends}
+- ▬｜═ﺤ
+- (ó__ò༚)
+- Only one can live. You or your furry companion. You must choose.
+- I don't like this game! {Convo. ends}
+- Don't worry! I just chopped up a tasty meal for our furry companion.
+- (Line required)
+
+### Conversation 1 (do you know where my On-lyne CD ended up?)
+
+- Aoi: do you know where my On-lyne CD ended up?"
+- No, sorry.
+- Aoi: do rats like shiny things? maybe Lettie's rat took it.
+- Maybe the rat's an On-lyne fan too
+- Aoi: we have a primary suspect!
+- (Jump to below branch: Jokes aside, I really hope you find it/Well, good luck with your search.)
+- > Haha I actually think they do. Not sure they could carry a CD in their little paws though.
+- (Jump to above branch: we have a primary suspect! )
+- Nope. Can you track it down with your metal powers?
+- Aoi: LOL I wish!
+- Aoi: the CD's plastic anyway
+- That's too bad. I'm out of ideas.
+- Aoi: it's the thought that counts ^_^
+- (Jump to below branch: Jokes aside, I really hope you find it/Well, good luck with your search.)
+- Oh... Well, metal makes a big comeback in the future
+- Aoi: {Sly, gleeful emoticon}
+- Aoi: then I will dominate the future!
+- Well, good luck with your search.
+- (Jump to below branch: (੭˃ᴗ˂)੭ )
+- Jokes aside, I really hope you find it.
+- Aoi: (੭˃ᴗ˂)੭
+- Aoi: thx! {Convo. Ends}
+
+### Conversation 2 (Arthur says you owe him a drink)
+
+- Aoi: Arthur says you owe him a drink
+- Aoi: something about him "saving your ass"
+- Ha well... He's not wrong.
+- Aoi: wanna talk about it?
+- Nah. It's fine. Just having an off day.
+- Aoi: ok :) no pressure
+- Aoi: but u know, there really is a lot weighing on u. That might be true for all of us, but it doesn't make ur experience any less real
+- Aoi: I just hope u know it's okay to have off days
+- Thanks for saying that.
+- Aoi: anytime <3 {Convo. Ends}
+- Sounds like you might be speaking from experience.
+- Aoi: ha. u ever met anyone who arrived in Höllvania emotionally stable?
+- Aoi: I'll just leave it at that
+- You're more insightful than you let on.
+- Aoi: a girl's gotta have her secrets
+- Aoi: anyway
+- Aoi: thx for caring about us in the hex. it doesn't go unnoticed. really. {Convo. Ends}
+- All right. Let's leave it at that.
+- (Jump to above branch: anyway)
+- I just have a lot going on, but that's true for all of us.
+- Aoi: take ur frustration out on the bad guys! that's what I do ;)
+- Aoi: but u know, there really is a lot weighting on u. That might be true for all of us, but it doesn't make ur experience any less real
+- Aoi: I just hope u know it's okay to have off days
+- Thanks for saying that.
+- Aoi: anytime <3
+- Sounds like you might be speaking from experience.
+- Aoi: ha. u ever met anyone who arrived in Höllvania emotionally stable?
+- Aoi: I'll just leave it at that
+- You're more insightful than you let on.
+- Aoi: a girl's gotta have her secrets
+- Aoi: anyway
+- Aoi: thx for caring about us in the hex. it doesn't go unnoticed. really. {Convo. Ends}
+- Tell him he can shove it.
+- [Jump to below "Aoi: is this like a fun tit-for-tat thing or like an actual frustration thing?"]
+- Tell him he owes *me* a drink for putting up with him.
+- Aoi: is this like a fun tit-for-tat thing or like an actual frustration thing?
+- It's frustration.
+- Aoi: wanna talk about it?
+- [Jump above to "Nah. It's fine. Just having an off day." ; "I just have a lot going on, but that's true for all of us."]
+- It's all good fun, don't worry haha
+- Aoi: gosh. mean humor is so confusing
+- Not your style?
+- Aoi: nah but it's cool if it's yours!
+- Making a mental note not to joke around with you like that then.
+- Aoi: :) I like u more all the time
+- The feeling's mutual
+- lucky me ^_^
+- I bet you say that to all the time travellers.
+- Aoi: just the charming ones
+- Aoi: don't let Arthur give you too much trouble, k? {Convo ends}
+- Good, because I'm definitely going to joke around with you like that.
+- {Lines required}
+- Eh, it's all about intent.
+- Aoi: so... if the intent is to show the person you like them u tell them u don't like them?
+- It only works if everyone knows each other well enough to understand where the lines are. Getting close to the line without crossing it shows you're confortable with each other.
+- Aoi: I appreciate your very clinical explanation of how comedy works
+- Aoi: (not sarcasm)
+- Aoi: Arthur really does want that drink tho lol
+- I hope he knows he's not getting it. ;)
+- (Lines required)
+- And what do you want? You're saving people all the time too.
+- Aoi: hmmmm good question
+- Aoi: I'd settle for a new stereo and world peace
+- I'll see what I can do.
+- Aoi: my hero
+- Aoi: ("´ ^ `")
+- That's a tall order.
+- Aoi? in the wise words of Drillbit, ''dream big. then hustle.''
+- Sure. Let's go with that.
+- Aoi: that is hella confusing to me
+- Aoi: but what matters is it makes sense to you and Arthur!
+- Aoi: Artur really does want that dring tho lol( go back to > And what do you want? You're saving people all the time too.)
+
+### Conversation 3 (Can target practice wait until tomorrow?)
+
+- Aoi: Can target practice wait until tomorrow? I beg of you! I’m trying to sleep!
+- Aoi: uh... that message was meant for Quincy. sry… pls ignore this
+- Quincy’s gunshots keeping you up?
+- Aoi: it’s fiiine. this is a big mall. I can always find somewhere further from Quincy to nap
+- I’m sure he doesn’t need to shoot things at *all* hours.
+- Aoi: nah it’s for the best that I didn’t reach him. he needs to let off steam. I get it.
+- I can say something to Arthur for you, if you want.
+- Aoi: uh... I appreciate the thought, but if that was a good idea, I'd talk to Arthur myself :P
+- [Jump below to "Hey. I get it..." ; "You should really look out for yourself more though."]
+- That’s kind of you.
+- Aoi: why thank u
+- Hey. I get it. I’d never tell Ordis how his jokes keep me up sometimes.
+- Aoi: Ordis a friend of urs?
+- Yeah, he’s the Cephalon intelligence that runs my spacecraft.
+- Aoi: a Cephalon is like… a wut exactly?
+- They’re people whose consciousness was uploaded to virtual space (usually by force.)
+- Aoi: :) I'll have nightmares about that now
+- ... Oops.
+- Aoi: Kidding I'll survive lol
+- Ordis is okay. Trust me.
+- (jump to "well Ordis is lucky to have u")
+- Damn. There I go sabotaging your sleep further.
+- Aoi: u and Quincy are quite the pair :P
+- Aoi: Kidding I'll survive lol
+- Your reaction to things that were normal to the Orokin is a good reality check for me.
+- [Continues from: "Aoi: well Ordis is lucky to have u"]
+- Ordis is okay. Trust me.
+- [Continues from: "Aoi: well Ordis is lucky to have u"]
+- They’re like a digital intelligence.
+- Aoi: oh! like a robot
+- But without a body.
+- Aoi: oh! like the internet
+- (jump to "only hella futuristic")
+- I suppose.
+- Aoi: only hella futuristic
+- > Maybe a little too futuristic to explain, honestly.
+- You get the idea.
+- Aoi: well Ordis is lucky to have u
+- And I’m very lucky to have him.
+- Aoi: ("`ᵕ`")
+- (jump to time for me to go find a nice place to sleep)
+- He knows. Lol.
+- Aoi: (¬‿¬) {Notes: 1}
+- Aoi: time for me to go find a nice place to sleep
+- > Good luck
+- > Sweet dreams {Convo. Ends}
+- No, he’s the Cephalon intelligence that runs my spacecraft.
+- {Jump to : "Aoi: a Cephalon is like… a wut exactly?"}
+- You should really look out for yourself more though.
+- Aoi: who says I don't?
+- You're always thinking about other people. I hope you don't forget about yourself.
+- Aoi: I just don't see looking out for others as separate from looking out for myself
+- Surely there are exceptions to that rule.
+- {Lines required}
+- How so?
+- Aoi: it comes down to respect
+- Aoi: I respect others too much to accept bad behavior from them and respect myself too much to tolerate it
+- What about people you don't respect?
+- Aoi: why? wondering how I might feel about u? ;)
+- I am now
+- Aoi: I respect u enough to let you find ur own answers to existential questions
+- Aoi: anyway none of the cheery talk concerns Quincy :P
+- No, but it does concern you, so it interests me.
+- Aoi: oh u <3
+- Aoi: time for me to go find a nice place to sleep
+- > Good luck {Convo. ends}
+- > Sweet dreams {Convo. ends}
+- Yeah, I guess not.
+- {Lines required}
+- Don't evade the question.
+- {Lines required}
+- Sounds like you're tolerating bad behavior from Quincy.
+- Aoi: u mean target practice? I dunno. sounds like u have a low bar for bad behavior lol
+- You know what I mean.
+- {Lines required}
+- I'm talking about him ignoring the needs of those around him.
+- Aoi: sure, he shoots at odd hours, but I see ignoring it as a chance to do something kind for someone who truly deserves it
+- All right, then. It's clear I can't convince you otherwise.
+- {Lines required}
+- Your outlook does have a certain charm to it.
+- Aoi: ("`ᵕ`")
+- (jump to time for me to go find a nice place to sleep)
+- Maybe I overstepped. It wasn't really my place to say that.
+- Aoi: I just don't see looking out for other as separate from looking out for myself
+- [Jump above to drifter's choices "Surely there are exceptions to that rule." ; "How so?"]
+- {Lines required}
+- As long as you’re getting enough sleep, that’s cool.
+- Aoi: u wouldn't believe how cozy clothing stores can be
+- (rest is same as the tree after "That's kind of you")
+- You can still message him.
+- [Jump to : "Aoi: nah it’s for the best that I didn’t reach him. he needs to let off steam. I get it."]
+- Sounds like you’re having a tough time.
+- [Jump to : "Aoi: it’s fiiine. this is a big mall. I can always find somewhere further from Quincy to nap"]
+- > [Don’t respond.]
+
+### Conversation 4 (u spend a lot of time in that backroom. / how is my fave time traveler?)
+
+- Aoi: how is my fave time traveler?
+- > I'm all right.
+- Thanks for checking in. I'm doing fine.
+- Aoi: pinky swear?
+- Pinky swear.
+- Aoi: good I just wanted to make sure <3
+- [Jumps below to: "Aoi: anything I can do to make ur day better?"]
+- Cute. Lol. Okay, I admit it. I've had better days.
+- Aoi: I see <3
+- [Jumps to below to: "Aoi: anything I can do to make ur day better?"]
+- I don't think pinky swears work online.
+- Aoi: then swear on something important to u!
+- > I can't do that.
+- I swear on the Lotus.
+- Aoi: ^_^ okay i believe u
+- Aoi: anything I can do to make ur day better?
+- You could tell me a joke.
+- Aoi: knock knock
+- Who's there?
+- Aoi: med pack
+- Med pack who?
+- Aoi: med pack ur bags. we're going to the future!
+- Lol! Excellent joke.
+- Aoi: a joke inspired by u! ^_^
+- Aoi: hope u dont mind me getting a bit serious for a sec
+- Aoi: I see you pushing yourself for others without asking for anything in return
+- Aoi: so I just wanna say, if you ever want to share some those burdens u carry, I'm always here
+- I appreciate you saying that, Aoi. I'll keep it in mind.
+- Aoi: ^_^ ok enough serious talk for now
+- Aoi: may the rest of ur day be lovely {Convo. Ends}
+- You should deal with your own issues before trying to take on someone else's.
+- Aoi: I don't think we can help ourselves without helping others too
+- Aoi: but that's a topic for another time
+- Aoi: may the rest of ur day be lovely {Convo. Ends}
+- I bet you say that to everyone.
+- Aoi: only the people I care about
+- Aoi: I'll leave u with that
+- Aoi: may the rest of ur day be lovely {Convo. Ends}
+- I'll take it.
+- [Jumps to above: "Aoi: a joke inspired by u! ^_^"]
+- > Why? Who's been injured?
+- > Aoi, is that you?
+- Please send flowers.
+- Aoi: (flower1)(flower2)(flower3)
+- Thanks. I feel better already.
+- [Same as below]
+- Wow a whole bouquet!
+- Aoi: glad you like them ^_^
+- [Jump above to: "Aoi: hope u dont mind me getting a bit serious for a sec"]
+- Pretty lady like you? I can think of a few things. ;)
+- Aoi: (-‿-") {Notes: 9} {Convo. Ends}
+- I swear on Duviri.
+- Aoi: ^_^ ok I believe u
+- Aoi: anything I can do to make ur day better?
+- You could tell me a joke.
+- Aoi: knock knock
+- Who's there?
+- Aoi: med pack
+- Med pack who?
+- Aoi: med pack ur bags. we're going to the future!
+- Lol! Excellent joke.
+- Aoi: hope u don't mind me getting a bit serious for a sec
+- Aoi: I see u pushing yourself for other s without ever asking for anything in return
+- Aoi: so I just wanna say, if u ever want to share those burdens u carry, I'm always here
+- I appreciate you saying that, Aoi. I'll keep it in mind.
+- Aoi: may the rest of ur day be lovely
+- (end of conversation)
+- > You should deal with your own issue before trying to take on someone else's.
+- {Lines required}
+- > I bet you say that yo everyone.
+- {Lines required}
+- > I'll take it.
+- {Lines required}
+- > Why? Who's been injured?
+- {Lines required}
+- Aoi, is that you?
+- {Lines required}
+- Please send flowers.
+- {Lines required}
+- Pretty lady like you? I can think of a few things. ;)
+- {Lines required}
+- Never been better.
+- Aoi: pinky swear?
+- [Jump above to choices "Pinky swear." ; "Cute. Lol. Okay, I admit it. I've had better days." ; "I don't think pinky swears work online."]
+
+### Conversation 5 (So, what's the situation / Would you be willing to make)
+
+- Would you be willing to make me a metal crane?
+- Aoi: I suppoooose I would, but they're really for me ;)
+- (Jump to below branch with 'Aoi: 1000 cranes grant a wish!' )
+- So, what’s the situation with the metal cranes you make?
+- Aoi: they‘re pretty! and fun! most importantly…
+- Aoi: 1000 cranes grant a wish!
+- I thought that was for *paper* cranes.
+- Aoi: oh yes but *metal* cranes are even more magical (I like to think)
+- Haha, let's hope so.
+- Aoi: I'm sure! cranes have a proven track record, u know
+- (Jump to below branch with 'Aoi: before Jipangu trained their astronauts to go to space, they had candidates fold 1000 cranes. true story!')
+- That's really cool.
+- Aoi: ^_^ I'm glad u think so!
+- Aoi: before Jipangu trained their astronauts to go to space, they had candidates fold 1000 cranes. true story!
+- Ah, interesting. Skill-testing and luck-building all in one. Very wise.
+- Aoi: ya! ^_^ u get it
+- (Jump to below branch "> So, how many have you folded by now?" )
+- What? Where did you hear that?
+- Aoi: I thought it was common knowledge!
+- Actually, come to think of it, I think I did hear that once.
+- (Line required)
+- That doesn’t sound real, but if it makes you happy, that’s cool.
+- (Line required)
+- I’ve never heard that in my life.
+- Aoi: then allow me to fill u in ^_^
+- [Jump below to "Aoi: it’s just what it sounds like!"]
+- First I’m hearing of this. I’d love to know more.
+- Aoi: allow me to grant ur wish ;)
+- Aoi: it’s just what it sounds like! when u fold 1000 cranes, ur supposed to get a wish. traditionally, people fold paper, but I’m sure folding metal works just as well lol
+- So, how many have you folded by now?
+- Aoi: a few hundred. I have a tally tucked somewhere between all my CDs lol
+- How do you not have a precise number? I thought you'd have that memorized haha
+- Aoi: no way! focusing on the end is just overwhelming. the trick is to focus on the moment. one step at a time! then one day u look around and go "oh look at that I'm done" ^_^
+- Seems super inefficient to me.
+- Aoi: ·‿·
+- Aoi: well, the good news is when u fold ur 1000 cranes, u can track them however u want!
+- [Jump below to "I think I'm beginning to understand you a lot better." ; "You're pretty cool, Aoi." ; "I'm just glad you're doing what makes you happy."]
+- Ah, so you're pacing yourself. I guess I can see how raw numbers can take away from the creativity.
+- Aoi: I couldn't have said it better! ^_^
+- (Jump to below branch choice right after: Aoi: ok! I do love a wish guardian ^_^)
+- What will you wish for?
+- Aoi: if I tell u, it won't come tru!
+- My mistake! I should have thought of that. Be sure not to tell me!
+- Aoi: ok! I do love a wish guardian ^_^
+- I think I'm beginning to understand you a lot better.
+- Aoi: back atcha ;)
+- (jump to the branch below starting with "Next time I see you folding those cranes")
+- You're pretty cool, Aoi.
+- Aoi: nah I just wear cool shades
+- Aoi: (⌐■_■)
+- (jump to the branch below starting with "Next time I see you folding those cranes")
+- I'm just glad you're doing what makes you happy.
+- Aoi: it's the one best way
+- (jump to the branch below starting with "Next time I see you folding those cranes")
+- I don't think that rule applies to wishes made of metal and paper.
+- (Line required)
+- I’ve seen you fold a lot. Have you gotten to 1000 before?
+- Aoi: actually yes! that wish wasn’t for me though. time I get a wish for myself, dontcha think?
+- Where’s my wish?
+- Aoi: cranes don't have to be metal. go on, start folding that paper! ^-^ or metal, if u prefer! (tho I think u'll find that much harder)
+- Will you show me how?
+- Aoi: I'd be happy to <3
+- (Jump to branch "> Next time I see you folding those cranes, I’ll have a whole new appreciation."
+- Oh yeah? What lucky someone got that wish?
+- Aoi: weeeell it’s not a very cheery tale. I’d rather not get into it right now
+- Oh. Hey, I’m sorry to hear that.
+- Aoi: it's all good <3
+- (Jump to below branch "Aoi: This next wish will be better anyway" )
+- Are you sure? I’d really like to hear it.
+- Aoi: yes I’m sure.
+- This next wish will be better anyway :P
+- Aoi: haha I hope so
+- Next time I see you folding those cranes, I’ll have a whole new appreciation.
+- Aoi: and next time I see you seeing me fold cranes, I’ll have an appreciation for ur appreciation heehee {Convo. Ends}
+- I’ve gotta run, but I’ll be sending you energy for all that crane-folding.
+- Aoi: wow! I can feel ur energy flowing through the cosmos already <3 {Convo. Ends}
+- Whatever happened, I think it’s cool that you’re making a wish for yourself. Turning it into something happy.
+- Aoi: ^_^ ur making my heart feel very full
+- <3
+- Aoi:꒰꒱♥︎
+- (Jump to above branch '> Next time I see you folding those cranes...' )
+- > Won’t you reconsider telling me? {Convo. Ends}
+
+### Conversation 6 (You're a fan of games / Hey Aoi! You like Amir, right?)
+
+- Hey Aoi! You like Amir, right?
+- yeah!! y?
+- Amir's trying to get a game of "Fables & Frontiers" together. It's a game where we all tell a story together and use chance to add some excitement to it.
+- (jump to below)
+- Amir's trying to get a game of "Fables & Frontiers" together. It's a board game where everybody makes a characters and plays around.
+- Aoi: (emoticon)
+- Aoi: like what kind of play pretend? ... r people gonna make fun of me for playing?
+- > Eg, it's just a silly game. It's a waste of time but I'm trying to be nice.
+- (Lines needed)
+- If they do, they'll have to go through me. (sword/dagger emoticon)
+- Aoi: (nervous emoticon)
+- Aoi: ... i think i'm good...
+- Who cares? It'll be fun! And it'll mean a lot to Amir.
+- Aoi: (happy emoticon)
+- Aoi: count me in!! oh oh oh do you think he'll let me play a character that has pets?
+- LOL. I think you can play as a druid, yeah. They have familiars. Like cats and things.
+- Aoi: =^•ㅅ•^=
+- Aoi: i think it'll mean the world to amir to have everybody around the table playing... he's like me. big heart <3 {Convo Ends.}
+- I'm sure you can.
+- Aoi: i think it'll mean the world to amir to have everybody around the table playing... he's like me. big heart <3 {Convo Ends.}
+- You're a fan of games, right Aoi?
+- Aoi: like what kind?
+- Amir's trying to get a game of "Fables & Frontiers" together. It's a game where we all tell a story together and use chance to add some excitement to it.
+- Aoi: ooooo that sounds fun!
+- (Jump to above branch 'count me in!!' )
+
+### Conversation 1 (after extensive research)
+
+- Aoi: after extensive research, I've determined which beverage to recommend u try ^_^
+- Aoi: an iced matcha chai latte (OR) Aoi: a moon milk latte (OR) Aoi: a smokey earl grey latte (OR) Aoi: a salted honey milkshake
+- Aoi: its flavor profile straddles earthy and spicy much like how u straddle past and future! (OR) Aoi: it's from space. like u! (OR) Aoi: it's as dark and rich as ur beautiful soul (OR) Aoi: sweet and salty. best of both worlds! just the way u like it
+- You've really done your research. I'm flattered. I'll have to try one.
+- Aoi: I doubt we'll find a trendy cafe in Höllvania...
+- Aoi: but let's plan for the future!
+- Aoi: er... the past? wait
+- I guess, personally speaking it's in both our futures.
+- Aoi: even though ur coming to the past?
+- Yeah, we'll drive ourselves crazy trying to make sense of time travel.
+- Aoi: just like a certain doktor I know ^_^
+- It's best if we just focus on our coffee date.
+- [Goes the same as below, from: Aoi: date huh?]
+- Hah. Okay, sassy.
+- Aoi: ... tell me u aren't about to stand up for the doktor of my comic book nightmares
+- He has his moments.
+- Aoi: ʘ◡ʘ
+- Aoi: u'd think i'd be better at spotting sarcasm.
+- (jump below to "Aoi: I'll just look forward to our cafe date")
+- No, he's actually awful.
+- Aoi: phew!
+- Aoi: u'd think i'd be better at spotting sarcasm.
+- (jump below to "Aoi: I'll just look forward to our cafe date")
+- Right? What a psycho.
+- [Goes the same as below, from: "Aoi: I'll just look forward to our cafe date"]
+- We can just focus on our cafe date instead.
+- Aoi: date huh?
+- If that's okay.
+- Aoi: of course it's okay ^_^
+- Aoi: past, present, future. Whenever that trendy cafe finds us, our date there will be awesome <3 {Convo Ends}
+- As friends.
+- (Jump below to "Aoi: cute ^_^ friend date!")
+- That's right.
+- Aoi: I like it ^_^
+- Aoi: past, present, future. whenever that trendy cafe finds us, our date there will be awesome <3 {Convo. Ends}
+- Let's just say going to the past is in my future.
+- Aoi: sounds good to me! ^_^
+- Aoi: I'll just look forward to our cafe date
+- Same here.
+- Aoi: past, present, future. whenever that trendy cafe finds us, our date there will be awesome <3 {Convo Ends}
+- It's not a date.
+- Aoi: ^_^ It's a friend date!
+- Aoi: past, present, future. whenever that trendy cafe finds us, our date there will be awesome <3 {Convo Ends}
+- Date?
+- Aoi: Sure, why not? ^_^
+- Aoi: past, present, future. whenever that trendy cafe finds us, our date there will be awesome <3 {Convo Ends}
+- As friends.
+- Aoi: cute ^_^ friend date!
+- Aoi: past, present, future. whenever that trendy cafe finds us, our date there will be awesome <3 {Convo Ends}
+- If we're meeting in 1999, it's the past for me.
+- Aoi: But for you personnally, it will still be your future, na?
+- Yeah, we'll drive ourselves crazy trying to make sense of time travel.
+- [Goes the same as above, from: "Aoi: just like a certain doktor I know ^_^"]
+- Let's just say going to the past is in my future.
+- [Goes the same as above, from: "Aoi: sounds good to me! ^_^"]
+- We can just focus on our cafe date instead.
+- [Goes the same as above, from: "Aoi: date huh?"]
+- Only an Entrati could ever make sense of this.
+- Aoi: that's probably for the best.
+- [Same options as above after Aoi: even though ur coming to the past?]
+- Is that so? I'd like to try it. We should go out and get some together.
+- [Goes the same as above, from: "Aoi: I doubt we'll find a trendy cafe in Höllvania..."]
+- Look, this whole manic pixie dream girl act is cute and all, but I don't need it in my life.
+- Boolean AoiUpset is now true.
+- Aoi: k. message received. {Convo. Ends}
+- Note that there are other options to add to this.
+
+### Conversation 2 (So, how did you end up in Höllvania?/ How did you meet the Hex anyway?)
+
+- If AoiUpset is false
+- So, how did you end up in Höllvania?
+- (Same as below branch)
+- How did you meet the Hex, anyway?
+- Aoi: that cheery tale begins with the ICR (International Crisis Response) unit I served on with Arthur
+- Aoi: nations united in an endless battle for peace! they sent us to Höllvania
+- So you've known Arthur... a while. Did you guys ever?
+- Aoi: hook up?
+- I was going to put it more delicately but yes.
+- (Same as below branch)
+- You took the words right out of my mouth.
+- Aoi: next question ;)
+- Don't leave me hanging like that.
+- Aoi: hey, I didn't ask you to bring it up
+- Alright, I won't pressure you.
+- Aoi: how noble of u
+- (Jump to below branch 'the irony's not lost on me' )
+- The suspense is killing me.
+- Aoi: then I'll see u on the other side {Convo Ends}
+- Okay, okay.
+- Aoi: ok
+- (Jump to below branch 'the irony's not lost on me' )
+- Fight and peace always look funny when paired in a sentence
+- Aoi: the irony's not lost on me
+- Was it your choice to join the ICR?
+- Aoi: oh definitely
+- Aoi: u ever have someone try to get all philosophical on u, saying something like...
+- Aoi:" we all THINK we'd stand up for what's right, but u never know til ur actually in that moment of truth. u might freeze up! the intensity could totally overwhelm you!"
+- Well, no. With the Orokin, it was always more like "You WILL fight under pain of death!"
+- Aoi: (emoticon here)
+- Aoi: that's horrible!
+- We're in complete agreement about that. Good thing it's in the past
+- Aoi: nobody should be *made* to fight (Jumps to below "Thanks for your sympathy. Really... / Don't worry about it.")
+- No, It's okay! I'm okay. I didn't mean to derail you.
+- Aoi: that's really sad though
+- >Thanks for your sympathy. Really. I'm more interested in you right now though.
+- (Same as below)
+- Don't worry about it. I'd just like to know more about that philosophical conundrum of yours.
+- Aoi: well... ok... so... when it came to the question of fighting for what's right...
+- Aoi: whether I'd answer the call or not was never a question for me. honestly, I spent most of high school just trying not to fight-- or at least trying not to argue
+- > Why hold back?
+- (Jump to below branch 'I always believed in the whole "pick your battles" thing... not that I would admitted it back then.' )
+- Sounds like you were lots of fun to be around.
+- Aoi: ya ya :P even so...
+- (Jump to below branch 'I always believed in the whole "pick your battles" thing... not that I would admitted it back then.' )
+- It seemed normal at the time.
+- (Lines needed
+- Oh yes. I know exactly the type
+- (Jump to below branch 'right? dont you just hate that kinda posturing?' )
+- So, why did you join the ICR?
+- Aoi: hmmm
+- Aoi: u ever have someone try to get all philosophical on you, saying something like...
+- Aoi: "we all THINK we'd stand up for what's right, but u never kno til ur actually in the moment of truth. u might just freeze up! the intensity could totally overwhelm u!!"
+- Oh yes. I know exactly the type.
+- Aoi: right? dont you just hate that kinda posturing?
+- Aoi: whether I'd answer the call or not was never a question for me. honestly, I spent most of high school just trying not to fight- or at least not to argue
+- Why hold back?
+- Aoi: I always believed in the whole "pick your battles" thing... not that I would have admitted it back then
+- Sounds like wisdom beyond your years
+- Aoi: ehh, don't give me too much credit. I still got fired up too easily.
+- Aoi: anything about the strong picking on the weak got under my skin. that and bad leaders.
+- How does Arthur measure up as a leader?
+- he's the gold standard. always puts the team first, never blames someone else for a mistake. we'd all trust him with our lives. he's earned that.
+- > (jump to below "> I'm guessing you've wanted to deck Quincy a few times.")
+- You and Lettie must've clicked right away.
+- Aoi: Lettie understood me faster than anyone else ever has. "fast friends" sums it up perfectly
+- > (jump to below "So, when the chance to fight for peace with the ICR came along, it must've felt natural")
+- > (jump to below "> I think I would have liked having you as a friend growing up")
+- Still kind of hard to believe someone as adorable as you ever wanted to fight ;)
+- Aoi: that's...
+- Aoi: I'm just gonna pretend you never said that
+- Aoi: enlisting in the ICR felt like a way to channel the fire I always had into something meaningful
+- > (jump to below "> No regrets enlisting in the ICR?")
+- No way you were this nice and cute back then right?
+- Aoi: being cute always bought me time to pick my battles
+- Aoi: and being nice? well, it's just the right way to be
+- Something tells me Eleanor appreciates your loyalty to the underdog.
+- Aoi: I think so. when others kept their distance, worried she'd go full-tech-rot, I made sure to spend time with her. couldn't stand the idea of her feeling alone.
+- > (jump to below "> So, when the chance to fight for peace with the ICR came along, it must've felt natural.")
+- > (jump to below "> I think I would have liked having you as a friend growing up.")
+- > (jump to below "> Still kind of hard to believe someone as adorable as you ever wanted to fight. ;)")
+- Makes sense you and Amir would get along well
+- (jump to below "Aoi: we have a blast! everyone else is serious *all the time* lol. honestly, without him, I'd probably feel pretty isolated")
+- What kind of battles are we talking here?
+- Aoi: anything about the strong picking on the weak got under my skin. that and bad leaders
+- Makes sense you and Amir would get along well
+- Aoi: ^_^ we have a blast! everyone else is serious *all the time* lol. honestly, without him, I'd probably feel pretty isolated (continues as below)
+- I'm guessing you've wanted to deck Quincy a few times.
+- Aoi: LOL hey, Quincy's not as mean as he pretends to be. he's always looking out for the underdog, so he's good in my book.
+- So, when the chance to fight for peace with the ICR came along, it must've felt natural.
+- Aoi: exactly
+- Aoi: enlisting in the ICR felt like a way to channel the fire I always had into something meaningful
+- No regrets enlisting in the ICR?
+- Aoi: none. I really believe someone has to fight to protect those who call for peace
+- Aoi: no matter what happens to me, I know I spent my life fighting for that ideal. I'm proud of that
+- > (jump to below ">I'm beginning to see just how exceptional you are. Thank you for letting me in on a deeper level")
+- It's a compelling story, Aoi. I'll give you that
+- [Goes same as below]
+- That's not the answer I expected, but I've come to expect the unexpected from you.
+- Aoi: u know how I love to exceed expectations ;)
+- Aoi: talk more soon?
+- > Yeah, I'd like that.
+- Aoi: (੭˃ᴗ˂)੭ {Convo. End}
+- I think I would have liked having you as a friend growing up.
+- Aoi: cuz u have that fire inside too, don't you? I like that about u
+- Aoi: enlisting in the ICR felt like a way to channel the fire I always had into something meaningful
+- No regrets enlisting in the ICR?
+- Aoi: none. I really believe someone has to fight to protect those who call for peace
+- Aoi: no matter what happens to me, I know I spent my life fighting for that ideal. I'm proud of that
+- > That's not the answer I expected, but I've come to expect the unexpected from you.
+- I'm beginning to see how exceptional you are. Thank you for letting me in on a deeper level.
+- Aoi: only fair, right? since I wanna know you on that deep level too
+- Aoi: talk more soon?
+- Alright then.
+- (Lines needed)
+- Yeah, I'd like that
+- (jump to above)
+- Sure.
+- Aoi: • ᵕ • {Convo. End}
+- If AoiUpset is true
+- So, how did you end up in Höllvania?
+- [Same as below]
+- How did you meet the Hex anyway?
+- Aoi: it doesn't matter
+- > [Don't respond.]
+- You know, I can tell when you're upset.
+- Aoi: of course u can. we manic pixie dream girls wear our hearts on her sleeves
+- Okay, I admit that calling your interest in me a "manic pixie dream girl act" was inconsiderate.
+- Aoi: at least u found it "cute and all"
+- Well, it was. You're cute. I mean unbelievably cute. I just find it hard to believe.
+- Aoi: how am I supposed to receive that?
+- Listen, I think you're amazing. I said that manic pixie crap because I doubt myself, not you. I'm sorry.
+- {Lines required}
+- I'd like it if you received it as me thinking you're awesome.
+- Aoi: I get that u have bad days. who doesn't right?
+- Aoi: but u can't just take it out on me cuz I seem "cute" enough to put up with it
+- You're right. You deserve better. I'll earn back your faith in me. That's a promise.
+- Aoi: I do like the sound of that promise...
+- Aoi: ok let's put this behind us
+- It's a deal.
+- {Lines required}
+- Agreed. :)
+- Aoi: •ᴗ•
+- Aoi: ttyl
+- Aoi: (in case you don't know, ttyl means "talk to you later")
+- If that's what you'd like, it's what I'd like.
+- {Lines required}
+- So you want me to just hide it from you when I've had a bad day?
+- {Lines required}
+- You caught that, huh?
+- {Lines required}
+- When I said that manic pixie thing, I only meant you don't have to put on an act for me.
+- {Lines required}
+
+### Conversation 3.1 (Favorite emoticon. Go!)
+
+- Favorite emoticon. Go!
+- (Jump to below branch 'Aoi: guess ^_^' )
+- What’s your favorite emoticon?
+- Aoi: guess ^_^ {Notes: 4}
+- ʘ◡ʘ
+- Aoi: lol no guess again!
+- [Jump below to "(･ᴗ-)✧" ; "(⌐■_■)" ; "•◡•"]
+- •ᴗ•
+- Jump to below branch 'Aoi: ding ding ding! we have a winner! ...' )
+- ^_^
+- Aoi: good guess! I use that one a lot because it's so darn versatile, but it's not my fave
+- (･ᴗ-)✧
+- Aoi: oooo not quite but that one's up there!
+- I give up
+- (Jump to below branch 'Aoi: •ᴗ•' )
+- •◡•
+- Jump to below branch 'Aoi: ding ding ding! we have a winner! ...' )
+- (⌐■_■)
+- Aoi: u get one more guess, but only cuz ur so cool
+- I give up
+- (Jump to below branch 'Aoi: •ᴗ•' )
+- •◡•
+- Jump to below branch 'Aoi: ding ding ding! we have a winner! ...' )
+- •◡•
+- (Jump to below branch 'Aoi: ding ding ding! we have a winner! ...' )
+- ⸜( ｡͐ ᵕ ͑ )⸝ ♡
+- Aoi: no, but thank u! <3 {Notes: 5}
+- (•ᴗ - ) ✧
+- Aoi: oooo not quite but that one's up there!
+- I give up
+- (Jump to below branch 'Aoi: •ᴗ•' )
+- •◡•
+- Jump to below branch 'Aoi: ding ding ding! we have a winner! ...' )
+- (⌐ n- n)
+- Aoi: u get one more guess, but only cuz ur so cool
+- •ᴗ•
+- Aoi: ding ding ding! we have a winner! how did u know?
+- It’s my favorite too.
+- Aoi: a kindred spirit!!
+- (> Same choices as below branch)
+- It’s just the right mix of cute and witty.
+- Aoi: what a lovely observation!
+- (> Same choices as below branch)
+- Just a hunch.
+- Aoi: how mysterious
+- (> Same choices as below branch)
+- I’ve been paying attention.
+- Aoi: so observant <3
+- Well, now I know something you love, and I'll never forget it.
+- Aoi: whatever I did to deserve u in my life, I hope no time-travelling mischief-maker ever goes back and changes it <3 {Convo. Ends}
+- Another Aoi mystery solved.
+- Aoi: yet there's always more to uncover ;) {Convo. Ends}
+- I give up
+- Aoi: •ᴗ•
+- Ooooh I can see why that would be your favorite.
+- Aoi: it's perfect, right?
+- Another Aoi mystery solved.
+- Aoi: yet there's always more to uncover ;) {Convo. Ends}
+- •ᴗ•
+- (Jump to above branch 'Aoi: ding ding ding! we have a winner! ...' )
+
+### Conversation 3.2 (wait, u taught Arthur)
+
+- Aoi: Wait, u taught Arthur how emoticons work?? THANK U
+- Yep, sat him down and explained the whole thing. He was so confused at first.
+- [Goes same as below]
+- Just doing my part to keep the team literate.
+- Aoi: gosh I am so grateful! now he won't think I'm challenging him to a duel everytime I use ";)"
+- Haha please tell me that didn't really happen.
+- Aoi: oh it REALLY happened
+- Aoi: I can't believe he actually apologized! all thx to u <3
+- Ah, it was nothing
+- [Goes same as below]
+- I live to serve, my lady.
+- Aoi: u srsly might have just saved us from a lifetime of confusion
+- Glad I could help. So, of all emoticons you've memorized, which is your favourite?
+- [Goes same as below]
+- Hey, Arthur was missing out. Your emoticons are fun. Which is your favourite?
+- Aoi: guess ^_^ (see: Favourite emoticon)
+- ヽ( >ᵕ<)ノ♡
+- Aoi: no, but thank u! <3
+- (•ᴗ - ) ✧
+- Aoi: oooo not quite but that one's up there!
+- >I give up
+- • ᵕ •
+- Aoi: ding ding ding! we have a winner! how did u know?
+- It’s my favorite too.
+- (Lines required)
+- It’s just the right mix of cute and witty.
+- Aoi: what a lovely observation!
+- Well, now I know something you love, and I’ll never forget it.
+- Aoi: whatever I did to deserve u in my life, I hope no time-travelling mischief-maker ever goes back and changes it <3 {Convo. Ends}
+- Another Aoi mystery solved.
+- Aoi: yet there's always more to uncover ;) {Convo ends}
+- Just a hunch.
+- (Lines required)
+- I’ve been paying attention.
+- Aoi: So observant <3
+- Well, now i know something you love, and i'll never forget it.
+- (Jump to above branch 'Aoi: whatever I did to deserve u in my life...' ) {Convo. Ends}
+- Another Aoi mystery solved.
+- (lines required)
+- >(⌐■_■)
+- > • ᵕ •
+- ^_^
+- > ⊙‿⊙
+- > • ᵕ •
+- It was the least I could do.
+- (Lines required)
+- Oh Arthur... I guess nobody's perfect.
+- Aoi: nobody but u ;)
+- Aoi: I can't believe he actually apologized! (Same as above)
+
+### Conversation 4 (You know, <\I've been / that arcade>)
+
+- You know, I've been wondering... with your metal-bending skills, why didn't you ever scrap the arcade for parts? It could've been a goldmine for Quincy's ammo or spare supplies.
+- (Jump to below branch 'Aoi: oh, I thought about it. a few times, actually. but...' )
+- You know, that arcade would make a good scrap metal. Could probably build a whole tank out of it. A few atomicycles too. You should re-purpose it.
+- Aoi: oh, I thought about it. a few times, actually. but when it comes to leading people into battle, there's only one thing more important than good gear: good morale.
+- Morale?
+- Aoi: scrapping the arcade would crush Amir. it's not just games to him, u know? it's a reminder of normalcy, something that keeps him smiling.
+- (Jump to below branch 'Aoi: That happiness fuels the whole team...' )
+- Interesting. I suppose I can see that.
+- Aoi: scrapping the arcade would crush Amir. it's not just games to him, u know? it's a reminder of normalcy, something that keeps him smiling.
+- Aoi: That happiness fuels the whole team in ways metal parts never could.
+- I guess I never thought about it like that. You're right though. His joy is pretty infectious.
+- Aoi: sometimes that joy is all that keeps us going
+- I should have known you would have thought about it so carefully.
+- Aoi: hey, we're on the same team ^_^
+- Aoi: plus, how would u have any hope of beating Amir's high score in Ollie's Crash Course if the arcade were gone? :P
+- You caught me. That's what this is really about. I'm a sore loser. :P I must see that game crushed for besting me!
+- Aoi: LOL. save that rage for the Scaldra ;)
+- Aoi: I've gotta run. Promise not to crush any arcade machines while I'm gone?
+- Promise.
+- Aoi: excellent! {Convo. Ends}
+- No promises
+- Aoi: I've got my eye on uuuuuu {Convo. Ends}
+- I wouldn't dream of it.
+- Aoi: ur the best {Convo. Ends}
+- Haha you make a good point.
+- (Jump to above branch 'Aoi: I've gotta run. Promise not to crush...' )
+- I gave up on that dream long ago.
+- Aoi: don't worry we all did lol
+- (Jump to above branch 'Aoi: I've gotta run. Promise not to crush...' )
+- I hope the Hex know how lucky they are to have you.
+- Aoi: we're all lucky to have each other
+- Aoi (that includes u <3)
+- (Jump to above branch 'Aoi: plus, how would u have any hope of beating...' )
+- Well, your bleeding heart might be the death of you, but it's definitely endearing.
+- Aoi: someone without a heart will fall long before someone with a bleeding one
+- Aoi: plus, how would u have any hope of beating Amir's high score in Ollie's Crash Course if the arcade were gone? :P
+- You caught me. That's what this is really about. I'm a osre loser :P I must see that game crushed for besting me!
+- Aoi: LOL save that rage for the Scladra ;)
+- (Jump to above branch 'Aoi: I've gotta run. Promise not to crush...' )
+- Haha you make a good point.
+- (Jump to above branch 'Aoi: I've gotta run. Promise not to crush...' )
+- I gave up on that dream a long ago.
+- (Line required)
+- The way I see it, being sentimental could get you and the Hex killed.
+- Aoi: then I sure am glad Arthur's the one calling the shots here and not u
+- Point taken.
+- (Line required)
+- I feel like I hit a nerve?
+- Aoi: ya I care about Amir's happiness. like a lot.
+- Aoi: that goes for everyone in the Hex
+- Look, I'm glad Amir's happy.
+- Aoi: good cuz if u go after that arcade I'll make every machine in there chase u away!
+- Aoi: it's like the coolest room in the mall!
+- (Jump to above branch 'Aoi: plus, how would u have any hope of beating...' )
+- We'll have to agree to disagree on that one
+- Aoi: u telling me u'd let Amir be miserable as long as it meant u could make urself a shiny new atomicycle?
+- If it gave the Hex an advantage, yeah.
+- (Line required)
+- You're putting words into my mouth.
+- Aoi: so make ur case
+- I was just making a suggestion. You can take it or leave it.
+- (Line required)
+- I'm pretty sure Amir would understand.
+- Aoi: I'm sure he would, but that's not all there is to it
+- Aoi: scrapping the arcade would crush Amir. it's not just games to him, u know? it's a reminder of normalcy, something that keeps him smiling.
+- [Jump above to "Aoi: That happiness fuels the whole team in ways metal parts never could."]
+- Okay, maybe I'm missing something here.
+- (Line required)
+
+### Conversation 5 (You must be from a really nice country. / I'm guessing you're not from Höllvania.)
+
+- I'm guessing you are not from Höllvania
+- Aoi: wut gave it away? my zest for life? ;)
+- I grew up in one of Canata's major cities right on the water, surrounded by mountains. it's beautiful! (albeit expensive)
+- Do you miss it?
+- Aoi: terribly
+- Aoi: but of course it took embarking on a hero's journey to realize that
+- Hero... like in a storybook?
+- Aoi: ya! just like a storybook. gotta leave ur peaceful little village and slay a big dragon so u can truly appreciate the peace, y'know?
+- Haha I don't know much about dragons, but I know a lot about Orowyrms.
+- Aoi: Oro-whats? :O
+- They're the monsters heroes slayed in the storybooks I read growing up.
+- Aoi: That certainly sounds like a dragon!
+- Would you believe I've slain a whole lot of them?
+- Aoi: it wouldn't be the craziest thing I've heard a time-traveler say ;)
+- Aoi: hmm
+- Aoi: so u've already had a heroes journey. here I was thinking u were on that journey with us in the Hex.
+- I feel more like a hero with you and the rest of the Hex by my side, so maybe that's true.
+- Aoi: ur MY hero! ^_^
+- Aoi: hang on. I couldn't tell how serious u were being. have u... literally slain a dragon?
+- Yes, literally. Lol. Did they teach you about conceptual embodiment in school?
+- Aoi: I've never heard that term in my life :O
+- With sufficient emotional intensity, the Void has the power to turn our thoughts into physical beings.
+- Aoi: real dragons?! :O what happened with this "Orowyrm"?
+- They basically went around destroying stuff.
+- Aoi: huh. maybe fairy tales should remain fiction after all.
+- Yes, they definitely should.
+- Aoi: hey, u think I'd make a good damsel in distress?
+- No way. You're way too capable of saving yourself.
+- Aoi: we could both be knights instead!
+- Okay, I like the sound of this fairy tale already.
+- Aoi: ditto
+- Aoi: well, brave hero, we'll have to finish this story later. I've gotta get back to the other adventurers in our troop
+- Say hi to everyone for me.
+- Aoi: will do! {Convo. Ends)
+- I look forward to the next chapter.
+- Aoi: there's so very much to look forward to <3 (Convo. Ends)
+- Let's both be dragons instead.
+- Aoi: even better!
+- (Jump to above branch with 'Aoi: well, brave hero, we'll have...' )
+- We'd be the bravest knights in the realm.
+- Aoi: u know it!
+- (Jump to above branch with 'Aoi: well, brave hero, we'll have...' )
+- Nah, let's both be damsels.
+- Aoi: lol whatever suits ur fancy!
+- (Jump to above branch with 'Aoi: well, brave hero, we'll have...' )
+- Definitely, and you could count on me to save you.
+- Aoi: I think u'd make a good damsel in distress too ^_^
+- Thanks! Would you save me?
+- Aoi: of course! <3
+- (Jump to above branch with 'Aoi: well, brave hero, we'll have...' )
+- Uh...
+- Aoi : (⁠ ⁠˵ ⁠◜⁠‿⁠◝⁠ ˵⁠ ⁠)
+- (Jump to above branch with 'Aoi: well, brave hero, we'll have...' )
+- [Don't respond.]
+- (Line required)
+- You just need to know how to handle them.
+- (Line required)
+- Are you kidding? Watching villages burn was awesome.
+- (Line required)
+- Oh, there was more than one. And I slayed them. For real.
+- Aoi: oh. my. stars.
+- Aoi: I KNOW AN ACTUAL DRAGON SLAYER
+- [Continues the same as above, from: "Aoi: hey, u think I'd make a good damsel in distress?"]
+- I paid zero attention in school, but that term came up a few times. Something about imaginary stuff not being imaginary anymore?
+- Aoi: I'm so confused lol
+- I am too. I was kinda hoping you'd know what it was so you could explain it to me.
+- Aoi: (⁠ ⁠˵⁠ ¬ ᴗ ¬ ⁠˵⁠ ⁠)
+- Aoi: sounds like it involves giving form to... a concept.
+- Aoi: sry that's all I got
+- I think that captures it.
+- Aoi: maybe one of us should have paid attention in school ;)
+- > Hey, it's never too late to start learning
+- (Line required)
+- Ugh. You sound like my teachers.
+- Aoi: ur teachers were right :P
+- [Continues the same as above, from: "Aoi: hey, u think I'd make a good damsel in distress?"]
+- > Nah, it sounds silly when you put it that way.
+- (Line required)
+- The point is I've actually encountered an Orowyrm, yeah
+- (jumps to above branch "Aoi: oh. my. stars.")
+- No, not literally. I just understand the metaphor. I've lost count of how many dragons have crossed my path since I left home on the Zariman.
+- [Jump below to "Aoi: like the man in the wall"]
+- Well, Höllvania is the furthest from home I've ever been, so maybe you're right.
+- Aoi: we're glad u crossed our path, traveler ^_^
+- (jump to above branch "Aoi: hang on. I couldn't tell how serious u were being. have u... literally slain a dragon?")
+- You thought wrong. I've slain more than enough dragons already.
+- Aoi : so I gather!
+- Aoi : hang on. I couldn't tell how serious u were being. have u... literally slain a dragon?
+- > Yes, literally. Lol. Did they teach you about conceptual embodiement in school?
+- (Jump to above branch 'Aoi: I've never heard that term in my life :O' )
+- No, not literally. I just understand the metaphor. I've lost count of how many dragons have crossed my path since I left home on the Zariman.
+- Aoi: like the man in the wall
+- Aoi: right?
+- Yeah. Talk about a dragon attacking a peaceful village.
+- [Same as choice below]
+- Now that's a dragon I'd like to slay.
+- Aoi: we'll get him
+- [Jump above to "Aoi: hey, u think I'd make a good damsel in distress?"]
+- In that case, you could say I've seen more than my fair share of dragons.
+- (Jump to above branch 'Aoi: hmm' )
+- They're an Orokin invention...sort of. Big, golden, flying serpentine beasts.
+- (Jump to above branch 'Aoi: That certainly sounds like a dragon!' )
+- What if the dragon attacks the village? I've seen plenty of that with Orowryms.
+- (Jump to above branch 'Aoi: Oro-whats?' )
+- Hero's journey?
+- (Jump to above branch 'Aoi: ya! just like a storybook.' )
+- So, I gather you prefer it over Höllvania.
+- definitely! it's one of my favorite places on earth.
+- (Jump to above branch 'Aoi: but of course it took embarking on a hero's journey to realize that' )
+- (Sounds like it's worth the expense.)
+- Aoi: (without a doubt)
+- (Jump to above branch 'Aoi: but of course it took embarking on a hero's journey to realize that' )
+- You must be from a really nice country.
+- (Jump to above branch 'Aoi: wut gave it away?' )
+
+### Conversation 6 (<RETRO_EMOJI_MUSIC2> question for u)
+
+- Aoi: (emoticon)♥ ♫♪♬ ♥ question for u
+- (emoticon) Answer 4 U
+- Aoi: so there's sort of this song here that anyone who has been around a piano knows, called "Soul & Heart"
+- Aoi: it's a two person song though, just a few notes (Happy Quirky Loving Emoji)
+- [Jump to : "> Do you need a partner?"]
+- > Yes, Aoi?
+- Aoi: well, i guess first, do u know what a piano is? maybe?
+- A much heavier shawzin?
+- (same as below option)
+- > Yeah, an instrument like my Shawzin.
+- Aoi: oh oh OH! the Shawzin, my ears yearn! won't you play for me one day?
+- I promise I will.
+- Aoi: i'm holding you do that! d(￣◇￣)b
+- (Jump to: Aoi: so there's sort of this song here that anyone who has been around a piano knows, called "Soul & Heart")
+- > I can't - I never really learned.
+- Aoi: oh that's okay, anyway - piano
+- Aoi: so there's sort of this song here that anyone who has been around a piano knows, called "Soul & Heart"
+- Aoi: It's a two person song though, just a few notes
+- Do you need a partner?
+- Aoi: i was thinking it could be fun - find a piano in some abandoned store, if it has metal i can move it carefully..
+- Are pianos made of metal?
+- (emoticon) i don't know actually, BUT
+- in any case - partner. for one song. could be fun right? (Jump to next branch 'I read in an On-lyne interview once')
+- I'd love to see that!
+- Aoi: me too, the guys would freak!
+- Aoi: in any case - partner. for one song. could be fun right?
+- Aoi: i read in an On-lyne interview once that music can be like, therapy. maybe it's something we can both enjoy?
+- I don't think I'm ready for this, but don't stop on my account.
+- Aoi: oh, i see. i know, i do. ok. no sweat, never a prob, let's just listen to a song or two later? {Convo ends}
+- I'd really love that. I know music can let people feel.
+- Aoi: yesss! music is the soundtrack to our lives.
+- Aoi: ok, holdin u to it. in the meantime, remember: 88 keys on a piano, they make different sounds! {Convo ends}
+- Not sure I'll feel much but I'm happy to help you, Aoi.
+- Aoi: okie then, we'll do our best, right? when i feel up for it ill msg u! {Convo ends}
+- Are you offering to be my teacher, Ms. Aoi?
+- Aoi: Σ(°o°)
+- Aoi: Ms. Aoi reporting for duty. First lesson: piano lesson!
+- Aoi: first up: there's lots of keys. 88 at las i counted. each one makes a noise. doh rei mi fa...
+- Doh Rei Mi Fa? This is sounding like Void Tongue...
+- Aoi: oh jeeze, music should not make you think of such things. no fear. only Soul & Heart.
+- Aoi: tell ya what, i'll work on this lesson plan for ya!
+- Aoi and i'll find away to do it that doesn't make you remember anything scary. {Convo ends}
+- Please don't put this on the test, Ms. Aoi!
+- Aoi: my star student, Ms. Aoi expects the best! Now repeat after me: Doh Rei Mi Fa
+- Do Rei Mi Fa-
+- Aoi: A+ for you!
+- Aoi: oh - shoot. gotta run, we'll pick up the lesson another time! {Convo Ends}
+- Rei Rei Rei Rei
+- Aoi: F! See me after class.
+- Aoi: hahaha oml i should never be a teacher. but lets talk about piano again some day, ok? {Convo ends}
+- You don't seem like you'd be a good teacher.
+- Aoi: maybe i can teach you not to be so rude. forget it - your loss. {Convo. Ends}
+- > Not now [end]
+
+### Conversation 1 (Look who's online / So. What's on Aoi's mind today?)
+
+- Look who's online. Anything you want to talk about?
+- (Same as below)
+- So. What's on Aoi's mind today?
+- Aoi: how kind of you to ask! i was wondering about Duviri, if ur willing to share
+- Heh. Right, well, you remember those literal dragons I told you about? That's where they were.
+- Aoi: i really want to see them they sound SO COOL
+- You know how I can use Transference to steer you around? I can use Transference on an Orowyrm too. That is *really* weird.
+- Aoi: (Surprised emoticon)
+- Aoi: what's it like to be a dragon?!?!
+- The turning radius is shokingly *terrible*
+- Aoi: LOL!!!! i'll stick to my atomicycle then <3
+- (continues below "but they sound like")
+- Strange, at first. But getting to fly? That's so much fun.
+- >I just wish it lasted. And that it wasn't trying to actively *kill me*
+- Aoi: but they sound like they'd be fun to fight, though
+- I think with you by my side, nothing could stop us. Not an Orowyrm. Not the Indifference. Nothing.
+- Aoi: ヽ(*´︶`)ノ♡
+- Aoi: u got that right {Convo. Ends}
+- >When you've got family beside you, watching your back? Nobody stands a chance.
+- >Easy there. They're huge. And dangerous.
+- >They can be, when they're not trying to kill you.
+- Duviri can be beautiful but it's... also dangerous, like all storybook worlds. Filled with monsters and lessons to learn.
+- Aoi: oh yeah? like what?
+- We have an evil child king, named Dominus Thrax
+- Aoi: aww... is he really evil tho?
+- Eh... He's just really lonely.
+- Aoi: now i feel bad for him
+- Aoi: (sad crying emoticon)
+- Aoi: he just need friends... and family... like we all do {Convo. Ends}
+- We have a full court of characters, each plagued by their own horrible backstories. Each one represents an emotion.
+- Aoi: sounds... dramatic
+- To put it lightly. But they're the closest thing I ever really had to family that I can really remember...?
+- How sad is that?
+- Aoi: (づ ◕⌣◕ )づ
+- Aoi: it's not sad. u've done the best u can {Convo. Ends}
+- Eh. It's all a metaphor for learning to accept and moderate your emotions without blocking any of them out.
+- The Void just happened to reach into my head and make it real. And... deadly.
+- Aoi:(uncomfortable emoticon)
+- Aoi: i don't think i like the Void very much
+- Aoi: ... maybe I don't want to go to Duviri after all...
+- That's for the best.
+- {Convo. Ends}
+- I think you'd honestly enjoy it- running around, slaying monsters, saving the townsfolk. It's all very Noble.
+- Aoi: (fists raised happy emoticon)
+- Aoi: now that u put it that way, let's go! u n me, against Duviri! {Convo. End}
+- (Different convo topic: Lotus instead of Duviri)
+- Look who's online. Anything you want to talk about?
+- Aoi: how kind of you to ask! I'd love to know more about Lotus, if ur willing to share
+- Sure. I mean... I don't know her very well? The kid knows her better than I do. But she saved my life.
+- Aoi: the kid? what kid?
+- A version of me from this timeline that didn't age because they were stuck in a stasis pod on Lua, which the Lotus, who later saved me, put Lua and the kid into the void for a while, to keep everybody safe--
+- Aoi: (overwhelmed emoticon)
+- Aoi: stopstopstopstop
+- Aoi: (stunned emoticon)
+- Aoi: How do you keep all that straight?!
+- It's... complicated, yeah.
+- no kidding lol
+- soooooo the lotus? she saved u? how?
+- When I was in Duviri, I was... trapped. In apathy. I'd forgotten who I was. Why I was there.
+- And she was the one of the two people who helped pull me out of there.
+- The Lotus and Teshin, my mentor, are the reason why I had the ability and the bravery to escape that place.
+- Without their support? I'd probably still be there. Endlessly looping. Endlessly dying. Indifferent to it all.
+- Aoi: (fists raised happy emoticon)
+- Aoi: when u have people in ur corner, nothing can stop u! n now u got me and the hex backing u up! {Convo. End}
+- They gave me what I needed to achieve victory. Victory over myself. And hopefully, soon... the Indifference.
+- Aoi: (fists raised happy emoticon)
+- Aoi: sounds like nobody can stop u! n now you got me and the hex backing you up! {Convo. End}
+- Sometimes, when you're stuck at the bottom of your life... you just need a helping hand.
+- And she gave me one. Literally
+- {Jump to above "The Lotus and Teshin, my mentor, are the reason why i had the ability and bravery to escape that place."}
+- You get used to it.
+- (lines needed)
+- C'mon dummy, catch up.
+- (lines needed)
+- Right. Yeah. So. Technically, I'm from an alternate timeline. The other version of me didn't age as much because... y'know? It's a long story.
+- (lines needed)
+- I owe her for saving my life. So when she needed me to come here, I answered the call.
+- Aoi: oh? how did she save u?
+- {Jump to above >When I was in Duviri, I was... trapped. In apathy. I'd forgotten who I was. Why I was there.}
+- {Jump to above >Sometimes, when you're stuck at the bottom of your life... you just need a helping hand.}
+- So. What's on Aoi's mind today?
+- {Same responses as ">Look who's online. Anything you want to talk about?" above}
+
+### Conversation 2 (would u believe)
+
+- Aoi: would u believe I just listened to an album that dropped the line "chicks actin dumb" in four different songs?
+- Aoi: straight to the trash is goooes!
+- Besides those lyrics, was the rest of the album okay?
+- {Same as below}
+- Sounds incredibly lame.
+- Aoi: meaning aside, using the same line that many times is TOTALLY unoriginal
+- Aoi: ... but I admit my personal experience might be clouding my judgement. other parts of the album were fine.
+- Aoi: should I fish it out of the trash for u so u can give it an unbiased listen? ^_^
+- I'll pass, but I'd love to hear what personal experience you're referring to.
+- {Same as below}
+- Back up. Personal experience? Who's ever called you a "chick acting dumb?"
+- Aoi: oooh I've heard it aaall
+- Aoi: even when I served with distinction in the ICR. Officer Barnier saw me bopping to a song in my head one time and said, "We need to do something about that one. She's ditzy."
+- What an asshole.
+- Aoi: well, it said more about him than me. he showed me nice and early that he wasn't worth my time
+- Aoi: a blessing in disguise ^_^
+- His loss.
+- Aoi: [complicated emoticon] {Notes: 8}
+- Aoi: I came to the conclusion a long time ago that it's an advantage to be seen as ditzy
+- How so?
+- Aoi: it means I'm being underestimated. I can do anything and nobody will even think to stand in my way
+- Seems kind of sad.
+- Aoi: lemons to lemonade
+- Aoi: (･ᴗ-)✧
+- {Jump below to "Aoi: so do you want me to fish that album out of the trash for u? lol"}
+- You're really something else, Aoi. I mean that in the best way.
+- Aoi: oh I just luv our talks
+- Aoi: ⸜( ｡͐ ᵕ ͑ )⸝ ♡
+- Aoi: so do you want me to fish that album out of the trash for u? lol
+- Nah, you're way too cute for... trash fishing.
+- Aoi: very well! I'm off to clean my brain with Party of Ur Lifetime ^_^
+- > Have fun! {Convo. Ends}
+- > Later, Aoi. {Convo. Ends}
+- Keep in in the trash where it belongs.
+- Aoi: very well! I'm off to clean my brain with Party of Ur Lifetime ^_^
+- > Have fun! {Convo. Ends}
+- > Later, Aoi. {Convo. Ends}
+- Thanks, but I'll stick to shawzin music.
+- Aoi: Aoi: very well! I'm off to clean my brain with Party of Ur Lifetime ^_^
+- > Have fun! {Convo. Ends}
+- > Later, Aoi. {Convo. Ends}
+- > To each their own, I guess.
+- I can see that.
+- {Jump above to "Aoi: it means I'm being underestimated. I can do anything [...]"}
+- You have my attention.
+- {Jump above to "Aoi: it means I'm being underestimated. I can do anything [...]"}
+- Yeah, a guy like that isn't worth anybody's time.
+- Aoi: enh I wish him well but u've gotta pick ur battles.
+- Aoi: I came to the conclusion a long time ago that it's an advantage to be seen as ditzy
+- [same development as picking "His loss."]
+- He was just jealous that you knew how to have fun.
+- [same development as picking "What an asshole."]
+- Would it have killed him to mind his own business?
+- [same development as picking "What an asshole."]
+- > Hah. Non thanks. I hope the next album you listen to is more enjoyable. {Convo. Ends}
+- Yeesh. Say what you will about the Orokin, but you can't deny they wrote more eloquent lyrics than that.
+- (Jump To above branch: Aoi: meaning aside, using the same line that many times is TOTALLY unoriginal)
+
+### Conversation 3 (You've never told me / You know, we've covered)
+
+- You've never told me anything about your family.
+- (Same as below branch)
+- You know, we've covered a lot of topics, but your upbringing is still a mystery to me.
+- Aoi: What would u like to know?
+- Tell me about your parents.
+- Aoi: they were great. just kinda distant
+- Aoi: we didn't always see eye-to-eye
+- About music? :P
+- Aoi: LOL actually yes, but that wasn't a big deal
+- {Jump below to "Aoi: I had a very high risk tolerance for my own life. my parents? not so much"}
+- I'm sure that's true for most kids.
+- Aoi: ur probably right. funny how we can all be so similar yet so different.
+- {Jump below to "Aoi: I had a very high risk tolerance for my own life. my parents? not so much"}
+- About how you should spend your life?
+- Aoi: ya. more or less.
+- Aoi: I had a very high risk tolerance for my own life. my parents? not so much
+- Aoi: they were so upset when I told them I'd enlisted to be a soldier. didn't make much difference to them that it was for peace keeping
+- They were concerned for their daughter's safety.
+- Aoi: definitely. wish I'd been more grateful for that at the time... and more understanding.
+- Aoi: I'm incredibly lucky to have parents who cared as deeply as they did. it's just a shame our family never found a way to show it openly.
+- Aoi: if I get the chance to see them again, I'll make things right. I'll shower them in love haha
+- Good luck with that.
+- Aoi: thx... I think?
+- Aoi: it's nice to reminisce anyway
+- {Jump below to "Aoi: most of the hex get so bummed out remembering home. we don't talk about family much."}
+- You'll see them again one day. I'm sure of it.
+- Aoi: u know, hearing someone else say it makes it feel more true <3
+- Aoi: it's nice to be asked about mom and dad :)
+- Aoi: most of the hex get so bummed out remembering home. we don't talk about family much.
+- Except Arthur and Eleanor, of course.
+- Aoi: of course <3
+- {Jump below to "Aoi: well, I'd better get going for now"}
+- That's too bad. We should keep those memories alive.
+- Aoi: agreed :) but I get where they're coming from
+- Aoi: well, I'd better get going for now
+- Alright. Take care of yourself.
+- Aoi: u too <3 {Convo. Ends}
+- For now?
+- Aoi: ya :) we're definitely gonna talk again soon, silly {Convo. Ends}
+- Thanks for letting me get to know you better.
+- Aoi: it's easy when you make me feel so safe <3 {Convo. Ends}
+- I can understand why they'd feel that way.
+- Aoi: ya. me too.
+- Aoi: well, I'd better get going for now
+- {Jump above to "Aoi: well, I'd better get going for now"}
+- Let's hope you get that chance.
+- Aoi: I'll do everything in my power to make it so
+- Aoi: thx for asking about them
+- {Jump above to "Aoi: most of the hex get so bummed out remembering home. we don't talk about family much."}
+- They underestimated you.
+- Aoi: I wouldn't say that. they just wanted their only daughter to be safe...
+- {Jump above to "Aoi: I'm incredibly lucky to have parents who cared as deeply as they did. [...]"}
+- They should have been proud of you.
+- Aoi: I think they were, but they were concerned too. they didn't want anything to hurt their only daughter.
+- {Jump above to "Aoi: I'm incredibly lucky to have parents who cared as deeply..."}
+- Any siblings?
+- Aoi: nope. just lil ol' me. how about u?
+- I had a sibling.
+- Aoi: past tense... do u mind if I ask what happened?
+- Same thing that happened to my parents. The Man in the Wall.
+- Aoi: u've been through so much.
+- Aoi: I'm sorry
+- Sorry, I didn't mean to make this about me.
+- Aoi: no please it's okay. I'm just happy that ur willing to let me know u on a deeper level
+- {Jump below to choices "Let's get back to you. Your parents still around?" or "That's kind of you. So, ..."}
+- It's okay. I'll get my revenge one day.
+- Aoi: u will. I really believe that.
+- {Jump below to choices "Let's get back to you. Your parents still around?" or "That's kind of you. So, ..."}
+- Everyone's been through a lot. Not just me.
+- Aoi: all the more reason to be there for each other.
+- Let's get back to you. Your parents still around?
+- Aoi: I think so. it's been ages since I heard any kind of update but... ya. they'd be back home.
+- You happy about that?
+- Aoi: lol of course I am
+- {Jump above to "Aoi: they were great. just kinda distant."}
+- Did you get along with them?
+- Aoi: we got along well enough
+- {Jump above to "Aoi: they were great. just kinda distant."}
+- That's kind of you. So, where were we? You were going to tell me about your parents?
+- Aoi: aah the Morohoshi household was a happy one indeed
+- That explains why you're so nice.
+- Aoi: oh that's so sweet of u. heh... is it bad that I was exaggerating a little?
+- Aoi: my parents were...
+- {Jump above to "Aoi: they were great. just kinda distant."}
+- I'd rather not get into it.
+- Aoi: ok. I understand.
+- Did you like being an only child?
+- Aoi: I always imagined it would be better to grow up in a house with other kids
+- Aoi: there was school I guess but that's not the same
+- Aoi: if mom and dad argue, the kids at school aren't *really* in it with u
+- Saves you from fighting with the other kids though. Lol
+- Aoi: true. I appreciate that silver lining lol
+- Did you get along with your parents?
+- {Lines required}
+- What were your parents like?
+- {Jump above to "Aoi: they were great. just kinda distant"}
+- Did you parents fight a lot?
+- Aoi: oh no I didn't mean that
+- {Jump above to "Aoi: they were great. just kinda distant"}
+- That's true. There was always someone there.
+- {Lines required}
+- How about your parents? What were they like?
+- {Jump above to "Aoi: they were great. just kinda distant"}
+
+### Conversation 4 (hey, um...)
+
+- Aoi: hey, um...
+- Aoi : this might sound corny, but it's important to me, so I'm just gonna say it.
+- Aoi : u make me feel like I belong
+- I don't know if I can take credit for that. Someone as incredible as you always belong with good people.
+- Aoi : maybe... in a way
+- Aoi : I mean, I know how to fit in anywhere, but that's not the same as truly belonging.
+- I get that. Being appreciated is one thing. Feeling seen for who you really are is another.
+- Aoi : exactly. and that's what you give me. even when things are chaotic or scary, with you, I feel... hmm...
+- Aoi : at home
+- You've always felt like home to me too. Maybe I just didn't know how to say it until now.
+- Aoi : sorry, I don't want to sound selfish, but... could you expand on that?
+- I like you, Aoi. More than a friend. A lot, actually.
+- Aoi: wow. that could could be lyruc to a On-lyne song.
+- Aoi: sorry was that super weird to say right now?
+- Aoi: my heart is beating really fast
+- Don't apologize. I know you, Aoi. What higher compliment could I get than being compared to an On-lyne song?
+- Aoi: okay, well... I know what those songs are usually about
+- {Jump below to "Aoi: so..."}
+- It's okay. Mine too.
+- Aoi: heh. at least we understand each other.
+- Aoi: so...
+- Aoi: what does this mean for us?
+- {If not in a relationship} > It means I think you're amazing and I'd like to go out with you.
+- Aoi: I
+- Aoi: oml I got so nervous and excited I stopped typing, put my hand over my mouth, and hit send by accident
+- You're so cute it's insane.
+- Aoi: what I mean to say was
+- Aoi: I would love nothing more than that
+- > I'm glad you feel the same way I do.
+- You make me so happy, Aoi. I promise I'll do everything I can to make you feel the same.
+- Aoi: this is even better than a love song. I mean, seriously, ur one of the most incredible people I've ever met
+- Aoi: everything u've been through, everything u are... gosh, I'm so happy
+- Good.
+- {Lines required}
+- Me too.
+- Aoi: heh. Lettie just walked in asking why she heard me shriek
+- Oh dear. I hope she didn't think you were injured.
+- Aoi: haha no it's fine
+- Aoi: I've totally gotta tell her everything tho
+- Okay. I'll be thinking of you.
+- Aoi: I'm always thinking of you ^_^
+- Aoi: wow ur my very own love song
+- Aoi: <3 <3 <3 <3 {Convo. Ends}
+- Haha you'd better go tell her what happened.
+- Aoi: aah! ok ur right I will
+- >You two have fun.
+- {line required}
+- >Talk soon, darling.
+- Aoi: I love the sound of "darling"
+- Aoi: wow ur my very own love song
+- Aoi: <3 <3 <3 <3
+- {If in a relationship} > It means no matter what happens, I'll always have your back. You're the best friend I've ever had.
+- {Jump below to "Aoi: I know you're from so far away <3"}
+- Nothing you say is weird. Not to me anyway.
+- Aoi: that's a relief
+- {Jump above to "Aoi: so..."}
+- I mean, you're my best friend, Aoi. The one who gets me without having to try.
+- Aoi : I know you're from so far away <3
+- Aoi : I mean, literal time travel!
+- Aoi : but just so you know, I'll always do everything I can to be a home for you too
+- You've shown me that since the day we met.
+- Aoi : ur one of my favorite people in the whole world, u know that?
+- Right back at you.
+- Aoi : seriously ur amazing. everything u've faced, everything u've become... I'm so grateful to know u
+- Knowing you have my back, I feel like I can take on the whole world.
+- (Jump to below branch " ^_^ always and forever")
+- And I'm grateful for you. Thanks for being there, Aoi.
+- Aoi : ^_^ always and forever
+- Aoi : now go out and have an awesome day, k? {Convo. Ends}
+- Okay, but only because you asked so nicely.
+- Aoi : • ᵕ • {Convo. Ends}
+- Only if you promise to do the same.
+- Aoi : deal <3 {Convo. Ends}
+- > [Don't respond.]
+- There's no one else quite like you.
+- (Jump to above branch " seriously ur amazing...")
+- Yeah, I know that ;)
+- (Jump to above branch " seriously ur amazing...")
+- Home all the way in 1999? I like the sound of that.
+- (Jump to above branch " ur one of my favorite people...")
+- That's insanely sweet of you, Aoi.
+- Aoi: ur one of my favorite people in the whole world, u know that?
+- Right back at you
+- (Jump to above branch "Aoi: seriously ur amazing...")
+- There's no one else quiet like you
+- (Jump to above branch "Aoi: seriously ur amazing...")
+- > Yeah, I know that ;)
+- You make me feel the same way. No matter what happens, I know I can count on you.
+- (Jump to above branch "sorry, I don't want to sound selfish, but...")
+- You're a rare kind of friend, Aoi. One of the best. I'll always make sure you feel seen.
+- (Jump to above branch "Aoi : I know you're from so far away <3")
+- No, I guess it's not. Belonging is being seen for who you are and knowing that's enough.
+- {Jump above to "Aoi : exactly. and that's what you give me. even when things are chaotic or scary, with you, I feel... hmm..."}
+- Truly belonging is a tall order.
+- Aoi: It sure is. And even so, you make me feel... hmmm...
+- {Jump above to "Aoi: at home"}
+- Me ? But Aoi, everyone in the Hex absolutely adores you. Trust me.
+- Aoi: oh, I know they do <3 and I adore them to but...
+- (Jump to above branch "I mean, I know how to fit in anywhere...")
+- The thought that you don't always feel that way honestly breaks my heart.
+- Aoi : oh it's not like I've ever been excluded or anything!
+- (Jump to above branch "I mean, I know how to fit in anywhere...")
+
+### Conversation 5.1 (just want u to know)
+
+- Aoi: just want u to know I'm thinking of u ^_^
+- It makes my day to hear that
+- Aoi: there's nothing I like more than brightening ur day!
+- >You're a good person.
+- :) Are you having a good day too?
+- Aoi: better now that I talked to u!
+- Aoi: ah! that's Arthur calling me. when the boss calls, I'd better answer, ya?
+- Aoi: until next time!
+- Aoi: ⸜( ,>ᵕ<)⸝ ♡ {Convo. Ends}
+- *Nothing* you like more? I think you might be exaggerating.
+- Aoi: maybe a *little* but only cuz I want to make u smile
+- Aoi: ah! that's Arthur calling me. when the boss calls, I'd better answer, ya?
+- Aoi: until next time!
+- Aoi: ⸜( ,>ᵕ<)⸝ ♡ {Convo. Ends}
+- Weird I was just thinking about you too.
+- Aoi: OML do u think we sensed each other's thoughts?
+- >Definitely not haha
+- (lines needed)
+- Well, if life's taught me one thing it's that the Void makes anything possible.
+- Aoi: ur futuristic insights are always appreciated
+- Aoi: ah! that's Arthur calling me. when the boss calls, I'd better answer, ya?
+- Aoi: until next time!
+- Aoi: ⸜( ,>ᵕ<)⸝ ♡ {Convo. Ends}
+- >Sure, why not?
+- (lines needed)
+- That's weird because I never think of you.
+- Aoi: ☉ ‿ ☉
+- Aoi: ok i'll stop thinking of u now {Convo ends.}
+
+### Conversation 5.2 (ok I'll tell u)
+
+- Aoi: ok I'll tell u
+- Tell me what?
+- Aoi: about me and Arthur
+- Aoi: I've decided I should tell u why Arthur and I ended things
+- You don't owe me an explanation. I really mean that.
+- Aoi: ur someone I trust, someone I want to know on a deep level, it's only right that I share that same depth with you.
+- Aoi: in the future, do u still celebrate venusia? it's the holiday around love and acceptance.
+- > We do, but we call it Star Days.
+- Aoi: it makes me happy to know that people still celebrate things like it in the future ^_^
+- One of my favorite holidays
+- {Jump to "if u managed to pull an explanation out of Arthur..."}
+- Yeah, some people are really into it.
+- Aoi: it was a fight during venusia that ultimately ended things between me and Arthur
+- {Jump below to "Aoi: that was the first time he saw me really upset. I think it took him by surprise."}
+- Well, they certainly do.
+- {Lines required}
+- We call it Star Days, and there's someone on Venus who I think would love to know that they built on an old tradition, even if she didn't realize it.
+- Aoi: I think I'd get along well with that person ^ _ ^
+- She'd adore you. So, what happened between you and Arthur during Venusia?
+- Aoi: if u managed to pull an explanation out of Arthur- and that's a big IF - he'd probably say our fight on venusia ended the relationship
+- Aoi: that was the first time he saw me really upset. I think it took him by surprise.
+- I'd hate to see you really upset.
+- Aoi: and I u <3
+- Aoi: we were out on a peacekeeping missions with the ICR but I still wanted to celebrate venusia in some way.
+- Aoi: so I spent weeks folding 1000 paper cranes for him. they're suppose to be good luck, u know? and 1000 are supposed to grant a wish
+- Aoi: every spare second I had between meals or before bed, I'd sneak off, all excited about how happy a venusia surprise was gonna make him
+- Wow. That's incredibly thoughtful, and takes so much time and skill. Truly, an act of love.
+- Aoi: looking back, it's kind of embarrassing. I had built up his reaction in my head and then when I gave him the cranes...
+- {Jump below to "Aoi: he just said: "thanks, but we really dont have time for this kind of thing.""}
+- Arthur was lucky to be with someone who cared so much about making him happy.
+- Aoi: looking back, it's kind of embarrassing. I had built up his reaction in my head and then when I gave him the cranes...
+- Aoi: he just said: "thanks, but we really dont have time for this kind of thing."
+- I don't want to discount your feelings, but I can see where Arthur was coming from. He was focused on the mission
+- (lines needed)
+- Aoi, I'm so sorry. I can't imagine how much that hurt you.
+- Aoi: u know, I think I needed to hear that more than I realized. thx <3
+- Aoi: it was like something snapped. all this time I'd spent understanding him... had he really done the same for me?
+- Aoi: maybe if I'd taken time to understand myself sooner, I would've reacted in a way I'd be proud of...
+- Uh oh...
+- {Same as below}
+- Feeling upset is nothing be be ashamed of.
+- Aoi: I threw the cranes onto the road. didn't take long for a tank to drive over them.
+- Oh Aoi... all your hard work...
+- Aoi: looking back, destroying those cranes just hurt me more. could have saved that wish for myself ha
+- Aoi: oh well. what's done is done.
+- So, you ended things right there?
+- Aoi: my exact words to Arthur were, "ur right. now that you mention it, we don't have have time for this relationship either."
+- It's admirable that you're still close friends.
+- Aoi: I just realized I couldn't ask him to be someone he wasn't. he was never gonna find joy in simple things with me.
+- Aoi: we couldn't even, say... listen to On-lyne together. even if I convinced him to, he wouldn't enjoy it.
+- Aoi: it's not like I expect my partner to like everything I like, but I need the chance to share happiness
+- Aoi: breaking down a broody facade only to constantly brush off eye rolls and good-natured jokes is... exhausting
+- Aoi: I know Arthur cares about me. we'll always respect each other, but when it comes to love, that's not enough
+- Thank you for opening up to me.
+- Aoi: It's very easy to open up to you :)
+- Aoi: I really didn't expect to feel this good after sharing that story. there's just something about u
+- Aoi: Jump to "thx for listening".
+- You amaze me, Aoi. Someone who truly sees and loves people for who they are deserves a partner who will do the same.
+- Aoi: ur making me blush
+- Aoi: I really didn't expect to feel this good after sharing that story. there's just something about u
+- Aoi: thx for listening
+- I'm always here if you need me.
+- Aoi: <3 {Convo. ends}
+- Anytime.
+- Aoi: <3 {Convo. Ends}
+- I'm sure a lot more than just that one fight led to the breakup.
+- {Jump to "I just realized I couldn't ask him to be someone he wasn't. he was never gonna find joy in simple things with me."}
+- I can imagine the shock on Arthur's face.
+- {Jump to "my exact words to Arthur were, "ur right. now that you mention it, we don't have have time for this relationship either.""}
+- Arthur should have run into the road and picked them up anyway.
+- (lines needed)
+- Okay seems like a bit of an overreaction...
+- Aoi: maybe
+- Aoi: but that's the truth of how it went down. now u know
+- {Jump above to choices "> So, you ended things right there?" or "> I can imagine the shock on Arthur's face."}
+- Whatever happened, I promise it's okay
+- Jump to "I threw the cranes onto the road. didn't take long for a tank to drive over them."
+- ...Wishing I could punch Arthur right now.
+- Aoi: heh... in the moment, I had a similar feeling
+- {Jump above to "Aoi: it was like something snapped. all this time I'd spent understanding him..."}
+- I'm sure he deserved it.
+- Aoi: heh. maybe...
+- {Jump above to "Aoi: we were out on a peacekeeping missions with the ICR but..."}
+- Did something bad happen to you during Venusia?
+- {Jump to "if u managed to pull an explanation out of Arthur..."}
+- I can't deny I'm intrigued.
+- {Lines required}
+- Oh that? I'd totally forgotten. (Kidding I'm really curious)
+- Aoi: (I don't blame u I guess)
+- {Jump above to "Aoi: in the future, do u still celebrate venusia?..."}
+- This ought to be good.
+- Aoi: "good" isn't exaaactly how I'd describe it
+- {Jump above to "Aoi: I've decided I should tell u why Arthur and I ended things"}
+
+### Conversation 6 (u've told me so many awful stories)
+
+- Aoi: u've told me so many awful stories about the Orokin... was there ever anyone who turned their back on their way of life?
+- Most of them ended up dead. But Albrecht Entrati did, in his own way.
+- Aoi: ugh, that guy. always slipping through death's grip.
+- Aoi: and here I was hoping it'd be someone... cooler.
+- Sorry to disappoint. He's your guy. Refused Kuva, which allows them to be immortal. Didn't go for the fashionable long arm. None of it.
+- only to chase after what served him best, I'm sure.
+- What do you really think of Entrati? Beyond the "uncool" verdict.
+- Aoi: I have no respect left to lose for the guy ^_^
+- Aoi: people like him only pretend to be charming when it serves them
+- So you found him charming at some point.
+- Aoi: i wouldn't go that far. more like I was open to respecting him.
+- Aoi: but he threw that away.
+- Aoi: he devours whatever he touches. not even the whole universe would be enough for him.
+- And you knew that early on? You're the most intuitive in the Hex. If anyone would've had a gut feeling, it'd be you.
+- Aoi: thank you ^_^
+- Aoi: not right away, but pretty early, I got this sinking feeling like something bad was about to happen every time he was nice
+- Aoi: and back then, I didn't have the words for it, but it always felt like HE would be the one behind whatever went wrong.
+- Aoi: but when he has everyone around u fooled, what can u really do?
+- Do you think he actually had everyone fooled?
+- Aoi: well, maybe not
+- Aoi: more like everyone was too scared to challenge him
+- Aoi: which annoys me to no end.
+- You're not alone there. He left his mark on everyone.
+- Aoi: ugh, not even the future is safe from that guy.
+- Yeah. He left behind his lover to mend the damage he did to countless people... and animals.
+- Aoi: that's just him. that's what he does.
+- Aoi: he's the only being of emptiness I've ever known.
+- Aoi: when he finds something he wants, he consumes it completely, then tosses it away when it's spent. always in the most heartless, self-serving way.
+- I doubt even the people who like him would deny that.
+- Aoi: give my regards to everyone he hurt in the future.
+- You know it's serious when Aoi starts using periods and stops using emoticons.
+- Aoi: lol u know me so well it's scary
+- Aoi: look, when I think of the doktor, I remember the first time I saw fear in Arthur's eyes
+- Aoi: I think of Amir in total panic, Eleanor unable to speak, Quincy hardening his heart, and Lettie too overwhelmed to save the people around her
+- Aoi: and I know the doktor would smile hearing that...
+- Aoi: but there are also good things too
+- After a list like that, it's hard to imagine what those good things could be.
+- Aoi: I have a collection of metal cranes that might one day grant me a wish
+- Aoi: and every day, I see small acts of defiance from and old, forgotten mall in Höllvania that remind me the human spirit is unbreakable
+- Aoi: and of course, I met u
+- Hmm. If nothing else, your perspective alone proves the human spirit really can't be broken.
+- Aoi: (づ▽^)
+- Aoi: as long as there are people who care for each other, people like Entrati will never consume everything
+- Well, you can count on me to care.
+- Aoi: <3 I've never doubted u {Convo. Ends}
+- Let's make sure Entrati never wins.
+- Aoi: deal <3
+- >You're right. Those are good things. (jump to above branch starting with 'as long as there are people who care for each other, people like Entrati will never consume everything')
+- That list seems pretty weak compared to Albrecht Entrati, Consumer of Worlds.
+- {Jump above to "Aoi: as long as there are people who care for each other, [...]"}
+- Would you count your powers among those good things?
+- Aoi: u know what? I think I would. (jump to above branch starting with 'I have a collection of metal cranes that might one day grant me a wish')
+- Sorry If I dragged up some dark memories.
+- Aoi: no, it's ok... (jump to above branch starting with 'look, when I think of the doktor, I remember the first time I saw fear in Arthur's eyes)
+- We don't have to talk about him ever again.
+- Aoi: no, it's ok... (jump to above branch starting with 'look, when I think of the doktor, I remember the first time I saw fear in Arthur's eyes)
+- Yeah... "uncool" is starting to sound like an understatement.
+- Aoi: LOL. I've never met anyone less cool!
+- Sorry If I dragged up some dark memories.
+- Aoi: no, it's ok... (jump to above branch starting with 'look, when I think of the doktor, I remember the first time I saw fear in Arthur's eyes)
+- We don't have to talk about him ever again.
+- Aoi: no, it's ok... (jump to above branch starting with 'look, when I think of the doktor, I remember the first time I saw fear in Arthur's eyes)
+- > You know it's serious when Aoi starts using periods and stops using emoticons. (look up)
+- >Damn. Hey, don't hold back.
+- > He left behind a daughter who's still trying to fix the pieces he shattered. Angry as she is, I feel like she can't help believing him. (Jump to above branch starting with 'that's just him. that's what he does.)
+- If it's any comfort, he's had the same effect where I'm from too.
+- Aoi: that's... bittersweet, I guess.
+- >He left behind a daughter who's still trying to fix the pieces he shattered. Angry as she is, I feel like she can't help believing him. (jump to above branch starting with 'that's just him. that's what he does.')
+- > Yeah. He left behind his lover to mend the damage he did to countless people... and animals. (see up)
+- I guess you wait for them to see it for themselves.
+- Aoi: ya
+- Aoi: it's kinda my curse, instinctively playing nice
+- Aoi: maybe if i'd said something, more people would've seen through him sooner
+- >If it's any comfort, he's had the same effect where I'm from too. (jump to above branch 'Aoi: that's... bittersweet, I guess.')
+- You're not alone there. He left his mark on everyone.
+- Aoi: ugh. not even the future is safe from that guy
+- {Jump above to choices "> He left behind a daughter who's still [...]" or "> Yeah. He left behind his lover to [...]"}
+- >I'm inclined to agree with you.
+- I don't know. There's an awful lot of universe out there :P
+- Aoi: but he'd try and that's the problem
+- {Jump above to "Aoi: not right away, but pretty early, I got this sinking feeling [...]"}
+- What do you think he's really after?
+- Aoi: control. complete domination.
+- Aoi: not in the fun, pop star world-tour way either.
+- Aoi: he devours whatever he touches. not even the whole universe would be enough for him.
+- > And you knew that early on? You're the most intuitive in the Hex. If anyone would've had a gut feeling, it'd be you. (jump to above branch starting with 'thank you. ^_^')
+- > I'm inclined to agree with you.
+- I don't know. There's an awful lot of universe out there :P
+- {Jump above to "Aoi: but he'd try and that's the problem"}
+- Did you ever respect Entrati?
+- Aoi: hmmm. pulling out the big questions now, huh? I guess u've earned it.
+- Aoi: people like him only pretend to be charming when it serves them.
+- > What do you think he's really after? (see above)
+- > So you found him charming at some point. (see above)
+- Hah. I'm not an Orokin. I'm just from their empire. Very different.
+- Yeah, um... I'll think of a cool Orokin. Give me a minute.
+- Aoi: well, there's u, I guess ^_^
+- >Did you ever respect Entrati? (see above)
+- >What do you really think of Entrati? Beyond the "uncool" verdict. (see up)
+- Hah. I'm not an Orokin. I'm just from their empire. Very different.
+- Aoi: ooooh. confusing
+- Aoi: i really didn't like entrati, though. people like him only pretend to be charming when it serves them
+- > What do you think he's really after? (jump to branch above starting with 'control. complete domination.')
+- Believe it or not, Doctor Albrecht Entrati
+- Aoi: ew
+- Aoi: and here I was hoping it'd be someone... cooler
+- >Sorry to disappoint. He's your guy. Refused Kuva, which allowes them to be immortal. Didn't go for the fashionable long arm. None of it. (see up)
+- >Yeah, um... I'll think of a cool Orokin. Give me a minute. (jump to branch above starting with 'well, there's u, I guess ^_^)
+
+### Conversation 7 (ahem ahem! / may i introduce u / so, i think i have it!)
+
+- Aoi: may I introduce u to a friend? 'Mr Piano' is his name.
+- Sign me up.
+- Aoi: let us begin first with: why music? why piano?
+- Aoi: it's easier to start a piano lesson this way because umm, i can't find a piano. so let's stick to theory.
+- Ok, let's stick to theory.
+- Aoi: yay! so, to really catch you up, music has been really important here for like, ever. guys and girls would sit at a piano instead of a tv and just create.
+- Aoi: playing... writing... really a song is a bit like communicating through music. you don't even need lyrics!
+- Aoi: but imagine it - creating something for this world of ours that can make people cry? dance? sing? it's magic to me.
+- Magic? I don't think so. I do like a good song though.
+- Aoi: Maybe u'll believe me one day. {Convo. Ends}
+- Music has been part of what I've been though. Memories through songs, I get it.
+- Aoi: Please tell me about a song then.
+- Music can define memories. "Smiles from Juran" is a song I heard in mind, the memories, of someone who lost everything.
+- > Picture it. Everything is taken from you - family, life, your own sense of self.
+- > And one song, just one song, is the very groundwork for you to find yourself.
+- > I like to think if I ever lost myself, music would be a way for me to find my way.
+- Aoi: what ur saying...
+- Aoi: it feels like, well, how i feel. that feels like a law of the universe.
+- (Jump to below branch, Aoi: "Music is powerful.")
+- Music can be hopeful. There's something about knowing "We All Lift Together", right?
+- > Finding joy through song, meaning, shared experience.
+- > It's fun. It's hopeful. A lot of us don't get to choose our life circumstances.
+- > But we can still choose to sing together, about it all. About nothing. Just sing.
+- Aoi: Music is powerful.
+- Aoi: this is embarrassing but, i have a similar story. not nearly as heavy but still... maybe you'll understand.
+- Aoi: when i was a kid, like 'kid Aoi', i wanted to be friends with everyone.
+- Sounds like the Aoi I know.
+- Aoi: (੭˃ᴗ˂)੭
+- Aoi: but there was this one kid, who the bullies would ALWAYS pick on. Always.
+- Aoi: and they would sing mean songs about the kid. awful, mean songs.
+- Aoi: and when i saw music being used to cause pain, it broke something in me as a kid. i didn't understand.
+- Aoi: i still don't understand. but i knew then that i could fight back without raising a fist, even if it meant embarrassing myself.
+- So what did you do?
+- Aoi: i sang louder than the bullies. it was a stupid song, i don't even remember how it went.
+- Aoi: but it worked.
+- Aoi: and when they tried to bully me, they would throw CD's at me, but guess what?
+- The CD's were made of metal?
+- Aoi: ha! nope. i got free music! score for Aoi!
+- Aoi: i guess wut i'm hoping you know and everyone here, is that i'd sing louder for all of you.
+- Aoi: always. {Convo. Ends}
+- You crushed them?
+- Aoi: ha! nope. i got free music! score for Aoi!
+- Aoi: i guess wut i'm hoping you know and everyone here, is that i'd sing louder for all of you.
+- Aoi: always. {Convo. Ends}
+- Did you embarrass yourself?
+- (Jump to above branch, Aoi: "i sang louder than the bullies{...}")
+- Really? Aoi being Friendly?
+- Aoi: i'll ignore that!
+- (Jump to above branch, Aoi: "but there was this one kid{...}")
+- Music can be evil, Aoi. These people that I tried to save, they were cursed by song. "For Narmer" they sang out.
+- You don't know what it's like to see that.
+- Aoi: Sol I'm so sorry, please, tell me.
+- Telling you here on this almost feels wrong, I wish I could sing it to you, but if I can say anything it's taht evil...
+- Evil will try and ruin the good. I've seen it happen to music. No one should ever sing praise to the damned.
+- {Jump above to "Aoi: Music is powerful"}
+- How hard did you look?
+- Aoi: well, kinda hard? i wansn't sure about going into empty apartments out there...
+- Aoi: ugh. Scaldra. they probably destroyed them. why would they let something hopeful like an instrument survive this place?
+- Aoi: but wait, let me ask u then, if there is music in the future, maybe there's hope. so...
+- Aoi: Please. tell me about a song then.
+- > Music can define memories. "Smiles from Juran" is a song I heard in mind, the memories, of someone who lost everything.
+- > Music can be hopeful. There's something about knowing "We All Lift Together", right? (Look up)
+- > Music can be evil, Aoi. These people that I tried to save, they were cursed by song. "For Narmer" they sang out.
+- Where would we find a piano?
+- Aoi: hmm, they're big and hard to hide... I doubt that Viktor and Scaldra play.
+- Aoi: ugh. Scaldra. they probably destroyed them. why would they let something hopeful like an instrument survive this place?
+- Aoi: but wait, let me ask u then, if there is music in the future, maybe there's hope. so...
+- Aoi: Please. tell me about a song then.
+- (Jump to Drifter choices "> Music can define memories{...}")
+- > Not right now. [End.]
+
+### Conversation 8 (Hey Aoi! You like Amir, right? / You're a fan of games, right Aoi? / Remember that game)
+
+- Hey Aoi! You like Amir, right?
+- Aoi: yeah!! y?
+- {Jump to choices below}
+- You're a fan of games, right Aoi?
+- Aoi: like what kind?
+- Amir's trying to get a game of "Fables & Frontiers" together. It's a game where we all tell a story together and use chance to add some excitement to it.
+- Aoi: ooooo that sounds fun!
+- Aoi: count me in!! oh oh oh do you think he'll let me play a character that has pets?
+- LOL. I Think you can play as a druid yeah. They have familiars. Like cats and things.
+- Aoi: =^•ᆺ•^=
+- Aoi: i think it'll mean the world to amir to have everybody around the table playing... he's like me. big heart <3
+- I'm sure you can.
+- (i think it'll mean the world to amir to have everybody around the table playiing... he's like me. big heart <3)
+- Amir's trying to get a game of "Fables & Frontiers" together. It's a board game where everybody makes characters and plays pretend.
+- Aoi: [staring emoji]
+- Aoi: like what kind of play pretend? ... r people gonna make fun of me for playing?
+- If they do they'll have to go through me. [knife emoji]
+- Aoi: [frightened emoji]
+- Aoi: ... i think i'm good...
+
+### Conversation 1 (I've never thanked u for being so cool with Eleanor)
+
+- Aoi: I've never thanked u for being so cool with Eleanor
+- Aoi: so thank u <3
+- You don't need to thank me, but I appreciate it.
+- Aoi: u wouldn't have been the first in the Hex to be wary of Eleanor. and, trust me, I love everyone in the Hex, so I would've understood-but also would've worked hard to change your mind.
+- People doubted Eleanor? Seriously?
+- (Same as branch below)
+- I find it hard to believe Arthur ever tolerated people being wary of his sister.
+- Aoi: in the early days , Lettie and Quincy had their doubts. they worried she might go full-tech-rot. Arthur wouldn't hear it, so they kept their concerns quiet, but we all felt it on some level. and if *we* sensed it, imagine how sharp and clear it was to Eleanor
+- Thank Sol for Arthur. He's a good brother.
+- Aoi: he is ,ya. but I think that made things even harder for Eleanor back then. he was desperate to protect her, and she knew that if he ever believed she was suffering too much because of the infestation, he might take matters into his own hands
+- You're saying he might've... killed his own sister?
+- Aoi: I never thought he would kill her, but Eleanor did. why she thought that is between her and Arthur. I'm just glad she doesn't feel that way anymore.
+- It's hard to imagine her carrying that kind of fear on top of everything else.
+- Aoi: after her transformation, Eleanor paid close attention to how everyone reacted. I could see her weighing her options, thinking she might do more harm than good by staying. she wanted to help the Hex, but the way some people looked at her made her wonder if she could help more from a distance.
+- {Jump below to choices "> That's ridiculous. [...]" or "> That's so unfair. [...]"}
+- Did she ever come close to leaving because of it?
+- Aoi: after her transformation, Eleanor paid close attention to how everyone reacted. I could see her weighing her options, thinking she might do more harm than good by staying. she wanted to help the Hex, but the way some people looked at her made her wonder if she could help more from a distance.
+- {Jump below to choices "> That's ridiculous. [...]" or "> That's so unfair. [...]"}
+- The fear of losing control must have been terrifying. Especially with Arthur watching over her like that.
+- {Jump above to "Aoi: I never thought he would kill her, but Eleanor did. [...]"}
+- That must have been unbearable for her, always knowing what people were thinking.
+- Aoi: they were just scared. fear makes people act in strange ways.
+- Clearly, the team has come a long way since then.
+- Aoi: I've heard it said that what really traumatizes people isn't what happens to them, but how they react to it. knowing who Lettie and Quincy are at heart, I'm sure if their fear had led to anything happening to Eleanor , they'd never have forgiven themselves.
+- Did it almost come to that?
+- (same below branch)
+- It's hard to blame them for being human, I guess.
+- Aoi: after her transformation, Eleanor paid close attention to how everyone reacted. I could see her weighing her options, thinking she might do more harm than good by staying. she wanted to help the Hex, but the way some people looked at her made her wonder if she could help more from a distance.
+- That's ridiculous. With psychic powers like hers? She's invaluable.
+- Aoi: she thought she could use her powers from afar, stay connected without burdening us with her presence.
+- (Jump to below choices 'I see.' & 'Being alone in Höllvania' )
+- That's so unfair. They didn't see how much she was willing to give up for the Hex.
+- Aoi: she thought she could use her powers from afar, stay connected without burdening us with her presence.
+- I see. She was willing to sacrifice being with the team just to make them feel safe.
+- (Continue with the branch below)
+- Being alone in Höllvania would have put her in so much danger.
+- Aoi: one night, when even Amir had gone to sleep, she actually did almost leave. quietly, in the dead of night. she didn't want to burden us with goodbyes.
+- That's heartbreaking.
+- Aoi: i hate to imagine what could have happened... I'd been keeping an eye on her tho, trying to be there for her.
+- Aoi: u know that feeling when ur with someone but they're not really there? when their mind keeps drifting, no matter how much they try to stay present? I noticed that...
+- It sounds like you were exactly what she needed in that moment.
+- Aoi: I wasn't sure how much of her distance was just her learning to manage her psychic powers or her consciously checking how people saw her. so, I started keeping tabs on her too.
+- Aoi: the second I sensed her atomicycle booting up, I locked down every atomicycle in the garage and ran on to stop her.
+- So it was you. You're the reason she stayed.
+- Aoi: I would've let her go if that's what she really wanted. but she wasn't leaving without a heart-to-heart with me first, haha.
+- That's so you haha. I'm guessing the heart-to-heart went well?
+- (Like the branch below)
+- I'm glad you were there for her. That night probably changed everything for her.
+- Aoi: oh, we talked until the sun came up. since Amir was asleep, we even played some pinball-just the two of us.
+- Aoi: it was silly and fun, the kind of fun Eleanor desperately needed.
+- How did you convince her that everything was okay?
+- (same as below)
+- Sometimes, the simplest things make the biggest difference.
+- Aoi: I don't think it was any one thing I said. it was just... being there. being a friend.
+- Aoi: it was the first time since her transformation that someone showed her she was more than Arthur's fragile sister to be protected. I think that night helped her see she could carve out her own place in the Hex.
+- I'm glad you did that. She needed it.
+- (Like branch below)
+- That's what true leadership looks like, Aoi.
+- Aoi: I need it too, honestly. we're all stronger when we know we belong.
+- Eleanor's stronger than people give her credit for, but having you by her side made all the difference.
+- Aoi: I guess I just realized, having u join us, we could have relived that whole awful chapter again
+- Aoi: but we didn't have to. u understood right away
+- Aoi: so thank u
+- Eleanor deserves to be seen for the amazing woman she is.
+- (Like branch below)
+- It was nothing. We've got each other's backs.
+- (Like branch below)
+- Thanks for being there for Eleanor.
+- (Like branch below)
+- You're the glue that holds this team together Aoi.
+- Aoi: ur one of my favorite people <3 just so u know {Convo. Ends}
+- Well, I commend you for keeping that team together.
+- Aoi: I guess I just realized, having u join us, we could have relived that whole awful chapter again
+- {Jump above to "Aoi: but we didn't have to. u understood right away"}
+- And that heart-to-heart probably saved her-and the Hex.
+- (Jump to above section 'Aoi: oh, we talked until the sun came up.' )
+- That was brave.
+- {Jump above to "Aoi: I would've let her go if that's what she really wanted. [...]"}
+- When it comes to the team's happiness, nothing gets past you.
+- (Jump to above section 'Aoi: I wasn't sure how much of her distance' )
+- Luckily for everyone, she clearly didn't.
+- Aoi: I hate to imagine what could have happened... I'd been keeping an eye on her tho, trying to be there for her.
+- {Jump above to "Aoi: u know that feeling when ur with someone but they're not really there? [...]"}
+- She must have felt so alone at that moment.
+- (Jump to above section 'Aoi: i hate to imagine what could have happened...')
+- I wish they could have seen past their fear back then.
+- Aoi: I've heard it said that what really traumatizes people isn't what happens to them, but how they react to it. knowing who Lettie and Quincy are at heart, I'm sure if their fear had led to anything happening to Eleanor, they'd never have forgiven themselves.
+- (Jump to above choices 'Did it almost come to that?' & 'It's hard to blame them for being human, I guess.' )
+- I'm really dissapointed in Lettie and Quincy.
+- (Jump to above section 'Aoi: they were just scared. fear makes people act in strange ways.' )
+- Of course. She's part of the Hex.
+- {Jump above to "Aoi: u wouldn't have been the first in the Hex to be wary of Eleanor. [...]"}
+- You were worried I'd be mean to her?
+- (Jump to above section 'Aoi: u wouldn't have been the first in the Hex...'
+
+### Conversation 2 (You know, you've mentioned Lettie / What's the deal with you and Lettie?)
+
+- You know, you've mentioned Lettie a few times, but you've never told me much about your friendship with her.
+- Aoi: huh. I suppose that's true!
+- (if boolean AoiArthurStory is true)
+- Aoi: she was really there for me when Arthus and I broke up
+- I would have thought you'd go to Eleanor for comfort.
+- Aoi: his sister? are u kidding?!
+- > Arthur's brooding got to you?
+- I thought you handled the breakup like a pro.
+- Aoi: weeell, I was kind of embarrassed at first
+- Aoi: u know what they say! don't dip ur pen in the company ink
+- I've never heard that saying in my life.
+- Aoi: right... so that saying doesn't surviv into the future then?
+- (Jump to below 'Aoi: it basically means...')
+- That's gotta be a 1999 thing.
+- Aoi: oh uh yes. sorry, do you even have companies in the future? or... ink?
+- Aoi: it basically means u should never date someone u work with
+- Oh. Make sense.
+- (same as below)
+- That's dumb.
+- {Same as below}
+- Huh. You learn something new every day.
+- Aoi: ya well, I totally started spiraling wondering what everyone thought after Arthu and I broke up... in my very public ground-covered-in-paper-cranes kinda way
+- Aoi: "only a girl as dumb as Aoi would think a relationship with our commander could end well"
+- Aoi: "hey at least we can all stop worrying about her getting special treatment now"
+- Okay whoa. I'm going to stop you right there. How could you think anyone thought that way about you?
+- Aoi: I've lived long enough to figure out how mean and gossipy people can be.
+- For Sol's sake, why spare a thought for people like that? I doubt anybody was thinking mean things about you, but even if they were, they were wrong
+- Aoi: I mean... knowing that is one thing. internalizing it is another.
+- The way you care so much about others is one of your best traits. I hate to think it ever causes you feel so sad.
+- Aoi: that's a really kind thing to say <3 but don't worry. I've come a long way since then.
+- {Jump below to choices "> Did you go to Lettie or did she come to you?" or "> So, what did Lettie do?"}
+- I guess so.
+- (Line required)
+- Aoi, how exceptional you are speaks for itself. Anybody who might have had the audacity to say something like that was just threatened.
+- Aoi: ok maybe but... I want to help people. make them happy. not threaten them.
+- > Not people like that. Screw people like that.
+- > Some people are beyond help
+- You do help people. So many people. Never forget how amazing that makes you.
+- Aoi: u know, I'm glad Lettie was there for me, but u clearly would have been great too <3
+- (jump to below for the responses)
+- Brutal.
+- Aoi: ya. I'm so glad Lettie talked me down.
+- Did you go to Lettie or did she come to you?
+- Aoi: she came looking for me when she heard the news. armed with chocolate.
+- Aoi: when I tell u I bore my soul to her the second she offered me that chocolate ...
+- You clearly needed someone to be there for you.
+- Aoi: there I was putting on a brave face and Lettie disarmed me in a second
+- I'm glad Lettie was there for you.
+- Aoi: and while I had a mouthful of the most delicious chocolate I've had in my life, she told me, "no matter what happened, no matter how it ended, if u did it for love, it was right. never doubt that."
+- Aoi: in that confident tone of hers... it was exactly what I needed to hear. I really held onto that.
+- Damn. How was it seeing Arthur after all that?
+- Aoi: heh. totally weird for like a month. but I was ok.
+- Aoi: Lettie and Amir stuck with me. I never had to endure an awkward silence alone with Arthur or anything like that thanks to them haha
+- Wow. Well, I asked for a picture of your friendship with Lettie. Now I really get it.
+- Aoi: Hey, if you ever go through a breakup, she's the one to talk to.
+- > Even if the breakup is between me and her?
+- I'd rather come to you.
+- Aoi: that would be fine too ^_^
+- There's a lot of history with you Hex. Forms quite a bond.
+- Aoi: hey, there was always a place waiting for u. even when we didn't see it.
+- Aoi: we're in out best chapter yet if u ask me {Convo. Ends}
+- Hard to believe so much happened before I showed up.
+- Aoi: hey, there was always a place waiting for u. even when we didn't see it.
+- Aoi: we're in our best chapter yet if u ask me (convo ends)
+- Clearly.
+- Aoi: or me if u want, but that goes without saying
+- (Same options as '>I'd rather come to you')
+- Sounds like everyone was picking sides.
+- Aoi: Σ(°o°)
+- Aoi: no way, I didn't see it that way at all!
+- Haha you didn't see it that way, because everyone was picking your side.
+- Aoi: (-‿-")
+- {Jump above to choices "> There's a lot of history with you Hex. Forms quite a bond." or "> Hard to believe so much happened before I showed up."}
+- Okay, maybe you're just surrounded by good friends.
+- {Lines required}
+- Yeah, I can't imagine anyone being more reassuring.
+- Aoi: she's the real deal
+- (jump to above 'Aoi: Lettie and Amir stuck with me.')
+- That Lettie knows what she's doing.
+- (same as '> I'm glad Lettie...')
+- Chocolate... made you cry?
+- Aoi: [crying emoticon]
+- Aoi: it sounds totally nuts when u put it like that
+- Aoi: no, Lettie's kindness made me cry
+- {Jump above to choices "> I'm glad Lettie was there for you." or "> That Lettie knows what she's doing."}
+- So, what did Lettie do?
+- (same as "> Did you go to Lettie or did she come to you?")
+- Uh... who says that? And what does it mean?
+- Aoi: everyone with a sense of self-preservation!
+- {Jump above to "Aoi: it basically means u should never date someone u work with"}
+- I was under the impression you and Arthur were really mature about everything.
+- {Jump above to "Aoi: weeell, I was kind of embarrassed at first"}
+- I thought your best pal, Amir would've had your back.
+- Aoi: lol weeell he did, but he wasn't the best at comforting me
+- Aoi: "Amir, I love u, but I need something more than a two-player game of Caliber Chicks to feel better"
+- {Jump above to choices "> Arthur's brooding got to you?" or "> I thought you handled the breakup like a pro." or "> I was under the impression you and Arthur were really mature about everything."}
+- > That sounds just like Lettie.
+- (if boolean AoiArthurStory is false)
+- Aoi: there was this time Arthur and I had a reeeally bad argument
+- Aoi: Lettie was really there for me. Words of wisdom, pounds of chocolate. the whole deal! we all know she can heal wounds, but when she puts her mind to it, she can heal hurt feelings too <3
+- What was the argument about?
+- (Jump to below branch with 'Aoi: oh that? gosh it was so long ago umm...' )
+- How exactly did Arthur hurt your feelings so badly?
+- Aoi: oh that? gosh it was so long ago umm... it was just this little... breakup
+- You and Arthur dated?!
+- (Jump to below branch with 'Aoi: supriiiise ^_^' )
+- Broke up? As in stopped dating? As in you dated ARTHUR?
+- Aoi: supriiiise ^_^
+- You don't have to tell me about it if you don't want to.
+- (Jump to below branch with 'Aoi: ur someone I trust...' )
+- If you're willing to tell me what happened, I'd really like to hear it.
+- (Jump to below branch with 'Aoi: in the future, do you still celebrate venusia?' )
+- Do I ever feel like an idiot for missing this. Want to fill me in?
+- (Line required)
+- Oh. Damn. Sorry, Aoi. That must have been tough.
+- Aoi: it was... for a bit. we're all good now.
+- You don't have to tell me about it if you don't want to.
+- Aoi: ur someone I trust, someone I want to know on a deep level. it's only right that I share that same depth with you.
+- Aoi: in the future, do you still celebrate venusia? it's the holiday around love and acceptance
+- We do, but we call it Star Days.
+- Aoi: it makes me happy to know that people still celebrate something like it in the future ^_^
+- Yeah, some people are really into it.
+- (Jump to below branch with 'Aoi: if u managed to pull an explanation out of Arthur' )
+- We call it Star Days, and there's someone on Venus who I think would love to know that they built on an old tradition, even if she didn't realize it.
+- Aoi: I think I'd get along well with that person ^_^
+- She'd adore you. So, what happened between you and Arthur during Venusia?
+- Aoi: if u managed to pull an explanation out of Arthur - and that's a big IF - he'd probably say our fight on venusia ended the relationship
+- Aoi: that was the first time he saw me really upset. I think it took him by surprise.
+- I'd hate to see you really upset.
+- Aoi: and I u <3
+- Aoi: we were out on a peacekeeping mission with the ICR but I still wanted to celebrate venusia in some way
+- Aoi: so I spent weeks folding 1000 paper cranes for him. they're supposed to be good luck, u know? and 1000 are supposed to grant a wish.
+- Aoi: every spare second I had between meals or before bed, I'd sneak off, all excited about how happy a venusia surprise was gonna make him
+- Wow. That's incredibly thoughtful, and takes so much time and skill. Truly, an act of love.
+- Aoi: yes well...
+- Aoi: looking back, it's kind of embarrassing. I had built up his reaction in my head and then I gave him the cranes...
+- Aoi: he just said, "thanks, but we really don't have time for this kind of thing."
+- ... Wishing I could punch Arthur right now.
+- Aoi: heh... in the moment, I had a similar feeling
+- (Jump to below branch with 'Aoi: it was like something snapped.' )
+- Aoi, I'm sorry. I can't imagine how much that hurt you.
+- Aoi: u know, I think I needed to hear that more than I realized. thx <3
+- (Jump to below branch with 'Aoi: it was like something snapped.' )
+- I don't want to discount your feelings, but I can see where Arthur was coming from. He was focused on the mission.
+- Aoi: I could too, but understanding only gets u so far. when something deep within says something's off, eventually just have to listen
+- Aoi: it was like something snapped. all this time I'd spent understanding him... had he really done the same for me?
+- Aoi: maybe if I'd take the time to understand myself sooner, I would've reacted in a way I'd be proud of...
+- Feeling upset is nothing to be ashamed of.
+- Aoi: I threw the cranes onto the road. didn't take long for a tank to drive over them.
+- Oh Aoi... all your hard work...
+- Aoi: looking back, destroying those cranes just hurt me more. could have saved that wish for myself ha
+- Aoi: oh well. what's done is done.
+- So you ended things right there?
+- Aoi: my exact words to Arthur were, "ur right. now that you mention it, we don't have time for this relationship either."
+- It's admirable that you're still close friends.
+- (Jump to below branch with 'Aoi: I just realized I couldn't ask him' )
+- I'm sure a lot more than just that one fight led to the breakup.
+- Aoi: I just realized I couldn't ask him to be someone he wasn't. he was never gonna find joy in simple things with me.
+- Aoi: we couldn't even, say... listen to On-lyne together. even if I convinced him to, he wouldn't enjoy it.
+- Aoi: it's not like I expect my partner to like everything I like, but I need the chance to share happiness
+- Aoi: breaking down a broody facade only to constantly brush off eye rolls and good-natured jokes is... exhausting
+- I know Arthur cares about me. we'll always respect each other, but when it comes to love, that's not enough
+- Thank you for opening up to me.
+- Aoi: ur very easy to open up to :)
+- Aoi: I really didn't expect to feel this good after sharing that story. there's just something about u
+- Aoi: thx for listening
+- I'm always here if you need me.
+- Aoi: <3 {Convo. Ends}
+- Anytime.
+- Aoi: <3 {Convo. Ends}
+- You amaze me, Aoi. Someone who truly sees and loves people for who they are deserves a partner who will do the same.
+- Aoi: ur making me blush
+- (Jump to above branch with 'Aoi: I really didn't expect to feel this good...' )
+- I can imagine the shock on Arthur's face.
+- (Jump to above line 'Aoi: My exact words to Arthur were' )
+- Arthur should have run into the road and picked them up anyway.
+- Aoi: there wouldn't have been much point. they were soaked and torn - ruined
+- (Jump to above line 'Aoi: oh well. what's done is done' )
+- Whatever happened, I promise it's okay.
+- (Line required)
+- Arthur was lucky to be with someone who cared so much about making him happy.
+- (Line required)
+- I'm sure he deserved it.
+- (Line required)
+- Did something bad happened to you during Venusia?
+- (Line required)
+- What's the deal with you and Lettie? You two get along, right?
+- Aoi: yes! very well!
+- Aoi: not like "rock out to On-lyne and do magazine quizzes together" well
+- Aoi: but we confide in each other
+- {Jump above to "Aoi: she was really there for me when Arthur and I broke up" or "Aoi: there was this time Arthur and I had a reeeally bad argument"}
+
+### Conversation 3 (You've got to be the strongest / I've been thinking, out of everyone)
+
+- You've got to be the strongest hero in the Hex. I mean, considering everyone here is partly metal, you're definitely not one to be messed with.
+- Aoi: haha
+- Aoi: u sound just like Amir
+- (Jump to below branch)
+- I've been thinking, out of everyone on the team, your instinct to always look out for others makes you the most heroic of us all.
+- Aoi: <3
+- Aoi: u sound just like Amir
+- First time in my life I've been told that.
+- really? but u two are so alike ;)
+- (Jump to "It's just that when amir first joined the hex")
+- Why thank you. How so?
+- Aoi: it's just that when Amir first joined the Hex, he'd joke about me being this superhero
+- (Jump to below branch 'Aoi: ... and him being my sidekick' )
+- Really? What makes you say that?
+- Aoi: it's just that when Amir first joined the Hex, he'd joke about me being this superhero
+- Aoi: ... and him being my sidekick
+- Aoi: it was sweet but also a little sad
+- That's surprising. Amir always seems so confident.
+- Aoi: it took time. Amir joined us without any military experience, so the fighting was overwhelming for him
+- Aoi: he just needed to see that being a hero wasn't all about combat
+- (Jump to below branch 'Aoi: I always knew that a hacker...' )
+- A sidekick, huh? That doesn't sound like the Amir I know now. What changed?
+- Aoi: it took time. Amir joined us without any military experience, so the fighting was overwhelming for him
+- Aoi: he just needed to see that being a hero wasn't all about combat
+- {Jump below to "Aoi: I always knew that a hacker as great as him could be a hero in his own way"}
+- Sad? I thought you two were close.
+- Aoi: oh, we are! Amir's my best friend. some of my favorite memories are us in the arcade, gaming and rocking out to On-lyne
+- Aoi: but the whole sidekick thing? I could tell he felt... small.
+- Aoi: I always knew that a hacker as great as him could be a hero in his own way
+- So what changed for him? He doesn't seem like anyone's sidekick now.
+- Aoi: I can't take all the credit, but I was there when he had his breakthrough.
+- Aoi: one day, I caught this wild broadcast from an On-lyne fan who'd pieced together some shady details about HitMaker (that's On-lyne's label)
+- Aoi: she was basically begging for someone to help them, and Amir jumped in without hesitation
+- How'd Amir get involved in something like that?
+- Aoi: I showed him the broadcast. Amir took care of the rest!
+- {Jump below to "Aoi: he hacked into their manager's emails and uncovered [...]"}
+- Amir? I thought it would have been you running to On-lyne's rescue.
+- Aoi: weeell it was a team effort. u could say I was his sidekick ^_^
+- {Jump below to "Aoi: he hacked into their manager's emails and uncovered [...]"}
+- This sounds like a legendary Aoi-Amir team-up to me.
+- Aoi: a super-fan joining forces with a super-hacker? nothing could stop us!
+- Aoi: he hacked into their manager's emails and uncovered a mess of deals with the Scaldra. they'd been cloning the band and putting them in danger, all covered up by their management
+- Aoi: bleh!
+- Aoi: without Amir's skills, none of that would've come to light
+- Wow. That's incredible. Amir really uncovered all that?
+- (Same as below branch)
+- You know, if it's true that knowledge is power, hackers really are powerful.
+- Aoi: u bet. the whole ordeal totally helped him realized he wasn't just a sidekick. he was a hero in his own right ^_^
+- As if there could ever have been any doubt.
+- Aoi: right?
+- {Jump below to "Aoi: ur a hero too, u know <3"}
+- And you still get to rock out in the arcade together
+- Aoi: just two heroes taking a break!
+- Aoi: ur a hero too, u know <3
+- That means a lot coming from you.
+- Aoi: oh u <3 {Convo. Ends}
+- Makes me feel awfully good hearing that.
+- Aoi: good! <3 {Convo. Ends}
+- You charmer.
+- Aoi: guilty ;) {Convo. Ends}
+- And you played a big part in helping him realize that, didn't you?
+- (Jump to above branch 'Aoi: I can't take all the credit...' )
+- Is that a compliment?
+- Aoi: of course it is!
+- {Jump above to "Aoi: it's just that when Amir first joined the Hex, [...]"}
+
+### Conversation 4 (Quincy told me he'd kill me)
+
+- Aoi: Quincy told me he'd kill me if I ever told anyone this story
+- Aoi: but he's all talk and u and I are so very close now so I'm just gonna get it off my chest
+- Aoi: sorry ur involved too now <3
+- Uuh no I'm not. Don't tell me. I'm not signing up for a problem with Quincy.
+- Aoi: u sure? last chance!
+- Who am I kidding? Yes, tell me everything.
+- {Jump below to "Aoi: ok, so we were on this mission to sabotage Scaldra weapon [...]"}
+- I'm sure.
+- Aoi: k! can't say I blame u {Convo. Ends}
+- Tell me everything.
+- Aoi: ok, so we were on this mission to sabotage Scaldra weapon production. I was doing the metalwork, Quincy had my back, watching for any patrols.
+- Aoi: it went supers smoothly! exactly as planned, but on our way back, we got stopped by a bunch of kids. they recognized Quincy instantly.
+- Sorry, was that a typo? I'm sure you meant "we got stopped by a bunch of SCALDRA who recognized Quincy instantly."
+- Aoi: nope, I mean it! kids! cute, smiley, not-at-all-scared-of-Quincy's-angry-mug kids!
+- So, what did he do when they stopped him?
+- (Jump to below branch "guess!")
+- Oh no. These poor kids must have been terrified.
+- Aoi: not quite!
+- > Well, what did he do?
+- Aoi: guess!
+- Used colorful language and no uncertain terms to tell them to get out of his way?
+- Aoi: see, that' s totally what I thought was going to happen but no!
+- (Jump to below branch "he SMILED at them.)
+- > Shoved past them?
+- > Ignored them?
+- Was he... really nice to them?
+- Aoi: why yes he was! you know our Quincy better than I thought <3
+- Aoi: he SMILED at them. it was like he forgot I was there for a sec. dropped the whole tough guy act
+- Those kids must have adored him.
+- Aoi: he knew them by name! "Hey Miko, I found one of those tammpets you told me about. Swiped it for ya."
+- So Quincy went on a side quest to find a tammpet for some Höllvanian kid?
+- Aoi: I swear on Zeke's life!
+- Aoi: Quincy actually pulled one of those little digital pet things out of his pocket and gave it to the kid.
+- Aoi: Sol only knows how long he's had it, or how long he'd spent searching through Höllvania to find it
+- Aoi: once that funny little horned creature appeared on screen, I don't know who was smilling bigger. the kid or Quincy seeing the kid so happy
+- You know, now that I'm picturing it, that really sounds like him.
+- Aoi: u think? either ur hella good at reading people or u and Quincy have a special bond <3
+- Classic Quincy.
+- Aoi: ya <3
+- Aoi: he pretends he's all about the mission, but deep down, he's got a heart of gold. he still goes out sometimes just to bring a bit of happiness to those kids
+- Think he could find me a tammpet?
+- Aoi: LOL maybe! we've gotta find his supplier for sure
+- (Jump to below branch "this tale does arm u with powerful knowledge.")
+- Honestly, it's nice to hear such a happy story about our brooding sniper.
+- Aoi: I knew u'd appreciate it!
+- Aoi: this tale does arm u with powerful knowledge. promise to only use this power for good?
+- Okay. I promise.
+- (Same as below)
+- Pinky swear.
+- Aoi: [happy emoticon] {Notes: 8}
+- Aoi: gosh we make a good team {Convo. Ends}
+- > Nah, I'm going to make fun of him.
+- Aren't you kind of betray his trust telling me all this though?
+- Aoi: aah he knew I'd tell. If he really cared, he would have just asked me not to. not made some empty threat.
+- (Jump to above branch "this tale does arm u with powerful knowledge.")
+- > You risked your life to tell me this story?!
+- Your secret is safe with me.
+- Aoi: aaw it's ok u don't need to keep it secret <3 I'm prepared to face the consequences
+- (Jump to above branch "he pretends he's all about the mission")
+- Looks like you've signed your death warrant.
+- Aoi: at least the story will live on through u ^_^
+- (Jump to above branch "he pretends he's all about the mission")
+- > You'll have to excuse me for finding this story hard to believe.
+- You're lucky you got to see that side of him. I bet few people ever do.
+- Aoi: I know, right? I was stunned.
+- Aoi: of course then he looked me dead in the eye and said, "if u tell anybody about this, I'll kill u"
+- (same options as above)
+- He... said that?
+- (Jump to above branch "I swear on Zeke's life!")
+- You're definitely kidding.
+- (Jump to above branch "I swear on Zeke's life!")
+- They knew him from POSITIVE interactions?
+- (Jump to above branch "Aoe: he knew them by name!")
+- You're kidding.
+- (Jump to above branch "Aoe: he knew them by name!")
+- Kids?
+- Aoi: u heard me!
+- Well, what did he do?
+- (Jump to above branch "guess!")
+
+### Conversation 5 (One thing I really admire / You've got an impressive)
+
+- One thing i really admire about you is your unwavering commitment to building a better world. Where does that come from?
+- Aoi: (same as below)
+- You've got an impressive amount of drive. What lights the fire under you?
+- Aoi: oh wow thank u for saying that. umm... hmm. there's no big defining moment that determined my life path or anything.
+- Aoi: as far as I can tell, I inherited it from my parents. they were practical people, but dreamers too
+- Aoi: I mean, you don't build rockets to explore space if you're not a dreamer.
+- Wait. Your parents built rockets?
+- Aoi: well, dad did. and mom knew how to.
+- (jump to below dialogue: 'Aoi: dad was an aerospace engineer.')
+- That's one hell of a family business. Sounds like they set the bar high.
+- Aoi: ya.... and when I became a soldier, they made it pretty clear it wasn't exactly the life they'd hoped to build for me.
+- Aoi: dad was an aerospace engineer. mom taught space systems design at the university where they met as students.
+- (Proceed as below)
+- That's not exactly a common family legacy. Did they ever talk about what inspired them?
+- Aoi: not much. they weren't big on sharing their dreams out loud. I think they believed their contributions to the world would do the talking for them.
+- Aoi: dad was an aerospace engineer. mom taught space systems design at the university where they met as students.
+- Wow your house was one part think tank, one part launch pad.
+- Aoi: haha not really. mostly, it was just quiet.
+- Aoi: a lot of our conversations were "hey,sweetie" and "hi" in passing. then they'd grab dinner on the way to their offices to work late or whatever
+- (Continue with: "Aoi: they were busy")
+- They must've been fascinating to talk to.
+- (Same as below)
+- They sound like they were brilliant. Must've been incredible to grow up around that.
+- Aoi: yeah, I suppose so
+- Aoi: but most of our conversations were just "hey, sweetie" and "hi" as we passed each other in the kitchen. they'd grab something quick to eat and head back to their offices to work late
+- Aoi: they were busy
+- Aoi: as long as I wasn't getting into trouble, they didn't worry about me much. and despite all the fire I had inside, I was really good at staying out of trouble.
+- I get that. My parents were always busy too. Running the Zariman ship was a full-time effort for everyone. Still, we always made time to sit down for meals together at least.
+- Aoi: that's nice. I'm glad they did that.
+- Aoi: I realize now how important those moments are, but when I was growing up, it didn't feel weird not to have many of them.
+- Aoi: I get why my parents were so focused on their work. in their own way, it was how they showed love. they wanted to provide for me and build technology that could help humanity have a better future
+- Aoi: looking back, it's kind of beautiful
+- Maybe so, but it still doesn't sit right with me that their daughter didn't get more time with them. We only have so much time in this live, you know? We should spend as much of it as we can with the people we love.
+- Aoi: it's the "as much of it as we can" part that's tricky, isn't it? hard to measure
+- Aoi: If I ever see them again, I'll make sure to make up for lost time. I know they will too.
+- Fair enough. Just don't waste time feeling bad about it now. They made their choices, and you've made yours. Looks like you're doing fine with what they gave you.
+- Aoi: I guess so
+- {Jump below to choices "> You've got their brains and drive [...]" or "> It sounds to me like you've grown into the kind of [...]" or "> You've taken everything they gave you and built [...]"}
+- You know, that drive of yours to make the world better... it's deeper than you give yourself credit for. You should take more pride in it.
+- Aoi: oh? how so?
+- (Same options as below: "> You've got their brains and drive")
+- I hope you get that chance. You've got a heart full of hope and strength. I think they'd be proud of who you've become.
+- Aoi: that means a lot to me. I hope so too.
+- You've got their brains and drive, but you've made it your own. That's what counts.
+- Aoi: that's... actually a really cool way to think about it.
+- {Jump below to choices "> Just calling it like I see it." or "> Anytime." or "> You deserve to hear it."}
+- It sounds to me like you've grown into the kind of loving, attentive person you needed when you were younger. That's something worth being proud of.
+- Aoi: I've never thought about it like that before. that's... a really lovely way to see it. thank you.
+- Just calling it like I see it.
+- Aoi: <3 {Convo. Ends}
+- Anytime.
+- Aoi: <3 {Convo. Ends}
+- You deserve to hear it.
+- Aoi: <3 {Convo. Ends}
+- You've taken everything they gave you and built on it-not just with dreams and drive, but compassion too. That's not easy to do.
+- (Same as above)
+- Beautiful, sure, but practical too. They were doing something that mattered, and you don't get much more important than that.
+- Aoi: still, I can't help but think about how we didn't spend much time together.
+- (Continue with above dialogue: "Aoi: If I ever see them again...")
+- It's a powerful kind of love, even if it's not the kind that sits around a dinner table.
+- Aoi: right! not the kind u see in movies, but very real.
+- (Continue with: "Aoi: If I ever see them again...")
+- That makes sense. When work pulls you in that hard, there's not much time left over, but I bet they thought about you constantly.
+- Aoi: maybe
+- Aoi: actually ya, I think that's true :)
+- (Jump to above dialogue: 'Aoi: I get why my parents were so focused')
+- Can't say I blame them. I know firsthand that space travel doesn't leave much room for downtime. Sounds like you made their lives easier by keeping your head down.
+- Aoi: yeah, I guess I did.
+- Aoi: I hope I did.
+- {Jump above to "Aoi: I get why my parents were so focused on their work. [...]"}
+
+### Conversation 6 (I wanted to ask you something about Transference / Can we talk about Transference?)
+
+- I wanted to ask you something about Transference. {Pondrous emoticon}
+- Aoi: go on... u mean when you 'wear' a warframe? like the thing i am or becoming, i guess?
+- Yeah. I don't want to make things weird, but I need to know where you stand. Does it bother you?
+- Aoi: I think the Kind answer to give you is the honest one... .. no. It doesn't at all. BUT it could. If I didn't... know you.
+- Aoi: because I trust you. I trust you wouldn't do anything I wouldn't do.
+- Is there anything you wouldn't do?
+- Aoi: {Quizzical emoticon}
+- Aoi: of course. the list is so long
+- Aoi: i wouldn't leave someone behind if i could save them
+- Aoi: i wuldn't accept a no-win scenario
+- Aoi: shoooooooooould i keep going? i can do this all year
+- Please. Continue.
+- Aoi: i wouldn't spend my downtime trying to see if my partner was testing my values {Convo. Ends}
+- I get it, I get it.
+- Aoi: Are you surrrrrrre? do you not trust me like i trust u?
+- I trust you too.
+- Aoi: do u trust me enough to let me take u out for a spin? if i could, that is.
+- Aoi: picture it. me... controlling you.
+- Aoi: would you let me? in a fight, in an average day...
+- Yes. No hesitation.
+- Aoi: good, cause i might even be better than u at bein' u.
+- Aoi: picture it... boss AOI!
+- Aoi: and as BOSS AOI I have a demand: never doubt my trust in you and don't give me a reason to doubt yours. ok? ok. boss out. {Convo. Ends}
+- Maybe if you told me a little more... detail ;)
+- Aoi: oh i seeeee ur little game here, hmm... well i'd start with hmmm... the tight suit can go. ;)
+- You're the boss.
+- Aoi: and as BOSS AOI I have a demand: never doubt my trust in you and don't give me a reason to doubt yours. ok? ok. boss out. {Convo. Ends}
+- The killing doesn't bother you?
+- Aoi: {knife emoji} that's NOT what I said. of course it bothers me.
+- Aoi: but, i trust u wouldn't do anything i wouldn't do.
+- Aoi: so if that means something gets killed, it's because it had to happen
+- So you believe in means to an end?
+- Aoi: none of that bs pls, i don't prescribe to 1 way to look at the world. life is complicated.
+- Aoi: and the least we can do is face the complications with an open heart and smile.
+- Aoi: no one asked to be born. but here we are.
+- Aoi: but because we're here, let's leave the place a tiny bit better than we found it, right? and stop people from making it worse!
+- Aoi: gooooooooot it? ur smart enough to get it. i think. {Convo Ends}
+- We agree on that!
+- Aoi: then rrllyyy... why are you asking this? what are you asking?
+- Aoi: don't u see how impossible it is for me right now?
+- Aoi: none of my relationship magazines talk about this kind of thing!!!!
+- Aoi: "So the love of my life can take over my body and make me do whatever they want, even kill. a lot"
+- Aoi: the reason i'm ok with that is because i TRUST u.
+- I trust you too.
+- Aoi: do u trust me enough to let me take u out for a spin? if i could, that is.
+- Aoi: picture it. me... controlling you.
+- Aoi: would you let me? in a fight, in an average day...
+- Maybe if you told me a little more... detail ;)
+- Aoi: oh i seeeee ur little game here, hmm... well i'd start with hmmm... the tight suit can go. ;)
+- > You're the boss.
+- Aoi: and as BOSS AOI I have a demand: never doubt my trust in you. and don't give me a reason to doubt yours. ok? ok. boss out. {Convo Ends}
+- > Yes. No hesitation. (jump to above dialogue)
+- Does it make you uncomfortable?
+- Aoi: (line required)
+
+### Conversation 7 (k i knoooow this is sudden but)
+
+- Aoi: k i knoooow this is sudden but
+- Aoi: do u think kindness is a weakness?
+- Aoi: like a for real weakness ▬ι═ﺤ
+- > The strongest people I know are kind.
+- (Another option)
+- Like you, Aoi.
+- Aoi: hmm ok let's see why, i haven't always loved the answers to this. but... go on, m'dear (emoticon)
+- Think of it this way.
+- > You're the first to think of others.
+- > And others think they are kind. But there is a difference between NICE and KIND.
+- > Kindness makes you vulnerable, but not weak. You have the kindest heart of anyone I've met in my travels.
+- And that makes you Aoi. My Aoi. My strong kind Aoi.
+- Aoi: hmm... go on >:}
+- > Uhh.. umm. Be extra kind and just accept what I said?
+- Well... if I must...
+- > I can learn from you. I am learning from you.
+- > And that truly means whatever happens next.
+- Whatever I'm up against, I won't be alone.
+- Aoi: take me with you anywhere.
+- I already do.
+- Aoi: ⸜(｡˃ ᵕ ˂ )⸝♡ (Convo ends)
+- > Well, I have a feeling you're the real boss around here. (boolean = ?)
+
+### Conversation 8 (knock knock! it's meee!)
+
+- Aoi: knock knock! it's meee!
+- Hey, you.
+- (Lines required)
+- Come on in, my love!
+- Aoi: here i was singin' along to my fav tune, lyrics always have a way of making me bounce a bit.
+- Aoi: and i wondered, wouldn't it be fun to write our own lyrics?
+- I'm not much of a writer, but I can try.
+- Aoi: ALLLrighty! Yeah! ok, you pick the genre then, what kind of song will be our first song?
+- Me? I love Pop. Let's get some dance-worthy lyrics written.
+- Aoi: okay YEP! let's start it off then, take it from the top, hun!
+- Oh, oh oh! She made blue my favourite colour.
+- (Lines required)
+- Metal. Chick. Never saw her coming. Magnetic. Wit. Needing all her loving.
+- Aoi: OHH a duet then? Let's see: The Void Touch - it knows what makes a metal end!
+- > And to watch that metal bend but not break, well, let's say we'll find no end.
+- Cause she's my metal girl. She'll pull you in, and make you feel alive.
+- Aoi: I'm a metal girl. I'll grab you once and hold you through the night.
+- Attract. Attract. Attract. There's no turning back.
+- Aoi: Attract. Attract. It's a matter of fact.
+- Aoi: (Emoji text.)
+- Aoi: are we good at this!? i think so... let's finish later, gotta run! (Convo. ends)
+- And holding her so tight each night, it's enough to drive you mad.
+- (Lines required.)
+- Hmm, if there's no kick drum, it's not for me. Let's brood something fierce. Rage anthem!
+- (Lines required)
+- There's a type of song from where I'm from, a Space Sea Shanty... let's try that!
+- Aoi: SPACE...SEA...SHANTY. mayybeee we shuld call Amir? seems very up his alley.
+- Aoi: orr maybe not. ok. you go first then.
+- "So it's into the Void all me girls and me boys"
+- Aoi: hmm... prettttttttttty sure i heard you humming that already, new lyrics only please! (same as below)
+- Dust. Wind. Firm - a new wind blows. Dust. Wind. Firm - a new wind blows.
+- Aoi: okkk okk my turn: We weather, we steer, a path that no one knows!
+- A new wind, pushing at our sails. A new wind, pushing through the rails.
+- Aoi: ok wow ur good. hows.. But we never say 'no more'. We always say... Dust. Wind. a new wind blows!
+- AoI: ok this is actually kinda hard but very fun, i don't want to tire u out though so soon into our first song... i think we did great!
+- Aoi: but i gotta run, sailor! xoxoxoxoXO! (Convo. ends)
+- Lost at sea - lost with the stars. We bow to the wind, we bow!
+- (same as above)
+- I'd be happier if you did it and sang to me, I'm not much for words.
+- (Lines required)
+- > Hmm, I wish I could, not now [End.]
+- > Sorry, no one's home right now [End.]
+
+### Conversation 9 (frozen yogurt y/n)
+
+- Aoi: frozen yogurt y/n
+- (っ˘ڡ˘ς)
+- Aoi: correeeeect
+- Aoi: that is all thank u {Convo. ends}
+- "૮₍ ˶•⤙•˶ ₎ა
+- Aoi: MRROOOOOOOOO
+- Aoi: that is all thank u {Convo. ends}
+- What?
+- (lines required)
+- N
+- (lines required)
+- Y
+- Aoi: ^_^
+- Aoi: that is all thank u {Convo. ends}
+
+### Conversation 1 (today, I finished folding 1000 metal cranes)
+
+- Aoi: today, I finished folding 1000 metal cranes
+- Then it's only a matter of time until we know once and for all whether metal cranes work as well as paper ones.
+- Aoi: want to know what I wished for?
+- If you tell me, won't that prevent it from coming true?
+- Aoi: ordinarily yes, but I made this wish for both of us, so it's different. it's ur wish too. surely u can know the contents of ur own wish ^_^
+- Just to be safe, you'd better not tell me. Any wish you made for must be wonderful. I want it to come true.
+- very well <3 I'll keep our wish safe
+- i can't tell u how much it means to me that u trust me with this... wishes can make things real. i feel like u understand more than most
+- like real literal dragons!! so who's to say that wishes can't come true now, too? especially when u are involved
+- but more than that i guess i just wanted to say... thank u. for being there for me
+- (continues: I feel like I already got my wish, though...)
+- In that case, I'd love to know.
+- Aoi: I wish that no matter what happens, those we love stay safe
+- I will never stop fighting for that to come true. And now I have a very important reason to do so.
+- Aoi: oh yeah?
+- Before I had no one to fight for. Not really. But now? I have people I care about. The Hex. And my best friend... you.
+- Aoi: BESTIES!! ⸜( ｡͐ ᵕ ͑ )⸝ ♡
+- Aoi: I feel like I already got my wish, though. even though it was one I didn't know I wanted to make
+- Aoi: turns out all i ever really needed in my life was someone who saw ME for ME. someone who had my back. someone who was there for me and smiled when i smiled
+- Aoi: and that person...? is u. <3
+- Aoi: so... thank u for being my bestie. and i'll always be there for u, whenever u need me to be
+- Aoi: (づ^ᴗ^)づ(˵^ᴗ^˵) {Convo. Ends}
+- Because now that this is settled? I'm out of here and heading back to the future where I belong.
+- Aoi: ok...
+- Aoi: i gtg {Convo. Ends}
+- That is so beautiful.
+- Aoi: <3
+- (continues: I feel like I already got my wish, though...)
+- Lol. You used a wish on *that*?
+- Aoi: ok...
+- Aoi: i gtg {Convo. Ends}
+- I certainly do.
+- (i hope u don't mind that i made it a wish for both of us!)
+- For real?
+- Aoi: want to know what I wished for?
+- (Same as above or below)
+- Congratulations! That's amazing!
+- Aoi: want to know what I wished for?
+- If you tell me, won't that prevent it from coming true?
+- Aoi: ordinarily yes, but I made this wish for both of us, so it's different. it's ur wish too. surely u can know the contents of ur own wish ^_^
+- Just to be safe, you'd better not tell me. Any wish you made for must be wonderful. I want it to come true.
+- Aoi: very well <3 I'll keep our wish safe
+- Aoi: i can't tell u how much it means to me that u trust me with this... wishes can make things real. i feel like u understand that more than most
+- Aoi: like real literal dragons!! so who's to say that wishes can't come true now, too? especially when u are involved
+- Aoi: but more than that i guess i just wanted to say... thank u. for being there for me
+- Aoi: I feel like I already got my wish, though. even though it was one I didn't know I wanted to make
+- Aoi: turns out all i ever really needed in my life was someone who saw ME for ME. someone who had my back. someone who was there for me and smiled when i smiled
+- Aoi: and that person...? is u. <3
+- (if Dating Aoi [needs Boolean] )
+- Aoi: i'm gonna just come right out and say it, okay?
+- Aoi: *** I love u ***
+- I love you too, Aoi.
+- Aoi: *** emoji emoji ***
+- Aoi: <3<3<3<3<3
+- (MISSING, NEEDS TO BE ADDED OPTION FOR REJECTION)
+- (if Best Friends [needs Boolean] no choice is offered)
+- Aoi: so... thank u for being my bestie. and i'll always be there for u, whenever u need me to be
+- Aoi: (Hug emoticon) {Convo. Ends}
+- In that case, I'd love to know.
+- Aoi: I wished for us to defeat The Man in the Wall
+- > Then your wish has already come true. For me, anyway.
+- That is so beautiful.
+- Aoi: <3
+- Aoi: I feel like I already got my wish, though. even though it was one I didn't know I wanted to make
+- Aoi: turns out all i ever really needed in my life was someone who saw ME for ME. someone who had my back. someone who was there for me and smiled when i smiled
+- Aoi: and that person...? is u. <3
+- Aoi: i'm gonna just come right out and say it, okay?
+- {sakura emoticons} I love u {sakura emoticons}
+- I love you too, Aoi.
+- Aoi: {sakura emoticons}{happy hugging emoticons}{sakura emoticons}
+- <3 <3 <3 <3 <3 {Convo. Ends}
+- I don't think I'm ready for this kind of commitment...
+- (Line required)
+- Whoa whoa - this is just a casual thing for me, sorry.
+- (Line required)
+- Lol. You used a wish on *that*?
+- Aoi: ok...
+- Aoi: i gtg (If dating Aoi, this will force a break-up and prevent you from being able to date her again.)
+- I certainly do.
+- Aoi: i hope u don't mind that i made it a wish for both of us!
+- I trust you with my wishes more than I trust myself.
+- (Jump to above branch "Aoi: I wished for us to defeat The Man in the Wall" )
+- I can't wait to hear this.
+- (same as above)
+- > [Ignore.] {Convo. Ends}
+
+### Conversation 2 (ummmmm y were u on surfboard in a middle of the street)
+
+- Aoi: ummmmm y were u on surfboard in a middle of the street
+- I don't think that was me
+- (line required)
+- That's my K-Drive
+- Aoi: ur wut-wut?
+- Aoi: *** Emoji ***
+- It's... kind of like an atomicycle?
+- Aoi: EXCEPT IT FLOATS
+- Aoi: agggghhh i want onnnneeeee
+- Aoi: the future has all the cooool tooooyyyyyssss
+- Transference solves all problems?
+- Aoi: (Same as below)
+- I'll see what I can do. lol
+- > Aoi: YEEESSSS *** Emoji ***
+- {Convo. Ends}
+- You ride it around. I got it on Venus?
+- (Same as above "EXCEPT IT FLOATS")
+
+### Conversation 3 (pssssst don't tell anybody but im working on a birthday gift 4 quincy)
+
+- Aoi: pssssst don't tell anybody but im working on a birthday gift 4 quincy
+- Aoi: i need 2 borrow ur atomicycle, 187 pizza boxes, and every permanent marker u can find
+- Aoi: n dont let arthur into the building 4 the rest of the day
+- Aoi: dont ask questions {Convo. End}
+- Conversation 4 (What's up between you and Kaya?/How do you feel about Flare?)
+- What's up between you and Kaya?
+- (lines required)
+- How do you feel about Flare?
+- Aoi: they r so much FUUUUUN
+- Aoi: im so glad they're heeere!! a real musician omllll
+- Aoi: ♫꒰•◡•๑꒱
+- Aoi: especially after all they've been thru?! can u even imagine???
+- Aoi: (っᵔ◡ᵔ)っ(˶ᵔ ᵕ ᵔ˶)
+- Aoi: i can... only kind of remember everything that happened to us
+- Aoi: it's like a dream. sometimes i get nightmares about it, u know? but when i wake up, it's all gone, and everybody is still here
+- Aoi: but when they wake up... :(
+- Aoi: i lost a lot of friends in the ICR... like a lot a lot. but u go into fighting knowing thats going 2 happen
+- Aoi: flare's a musician. all they wanted 2 do was create art and make change in the world...
+- Aoi: it makes me wanna do very bad things to viktor when he has keys in his pocket
+- Let me know when. I'll help.
+- Aoi: {P1} ( ੭ >ᴗ< )੭ {P2} viktor ball destruction in T-MINUS 3!!! 2!!!
+- Aoi: OH and the guitar is super weird, isn't she?! she's SUUUUPER sweet when you get past the...
+- Aoi: talking guitar thing...
+- Aoi: (ó﹏ò｡)
+- Aoi: she ate a few of my jewel cases...
+- > The plastic ones?
+- (lines required)
+- Jewel cases?
+- Aoi: lol cd cases like the plastic foldy thingies
+- Aoi: just omnomnom cronch cronch cronch
+- At least it wasn't you? [emoticon]
+- (lines required)
+- You should see what the Helminth eats...
+- Aoi: [crying emoticon]
+- Aoi: yeeeea...
+- Aoi: im just gonna be glad she's on our side {Convo. Ends}
+- o_o; Note to self...
+- (lines required)
+
+### QuincyWingman
+
+- Aoi: quincy said u wanted to talk to me?
+
+### BirthdayConvo 1
+
+- Happy Birthday, Aoi!
+- Aoi: oml you remembered? (Sweet Happy Emoji) thank youuuuu!
+- Hey, Aoi. Happy Birthday. (I know you are always happy, so this is kinda pointless.)
+- Aoi: i'm not and it's not
+- Aoi: bu ty anyway
+
+### BirthdayConvo 2
+
+- Happy Birthday Aoi! Maybe we could clone a Zeke of your very own...
+- Aoi: why would u joke about that??
+- We Come alive, under the neon glow ... it's the party of your BIRTHDAY! <3
+- ahahahaa no parties please but thank u! guess what I'm listening to right now (•̀ ᴗ - ) ✧
+
+### BirthdayConvo 3
+
+- Happy Birthday.
+- Aoi: thx {Convo. Ends}
+- Happy Birthday, Aoi! Hope you're having a great day!
+- Aoi: u know what, I am! {cute cat emoticon} appreciate u! {Convo. Ends}
+
+## Notes
+
+- Aoi and Drifter use emoticons in some of their messages. The following images are included for reference and improvements to the records in this page.

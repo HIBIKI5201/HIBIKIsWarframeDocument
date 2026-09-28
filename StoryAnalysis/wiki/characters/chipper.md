@@ -14,6 +14,7 @@ Narmer に捕まった Solaris の労働者
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Chipper/Quotes](../../quotes/chipper.md)（113 行、うち独り言など 7 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Chipper)（英語・出典） / [全文検索](../../search.html?q=Chipper)
 

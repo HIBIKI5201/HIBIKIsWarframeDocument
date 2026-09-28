@@ -1,0 +1,18 @@
+{
+ "key": "horrek",
+ "title": "Horrek/Quotes",
+ "url": "https://wiki.warframe.com/w/Horrek/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "horrek",
+  "name": "Horrek",
+  "page": "Horrek"
+ },
+ "count": 16,
+ "idle": 16,
+ "sections": [
+  {"path": ["Idle", "Rank 3 - Fort"], "idle": true, "lines": [["- Horrek: \"He likes to crunch the little bones. So we leave those in.\"", "DVeilRankTwoThreeFour1400Horrek_en.ogg"], ["- Horrek: \"Please. No eating out of helmets.\"", "DVeilRankTwoThreeFour1410Horrek_en.ogg"], ["- Horrek: \"We drink Chimurr together. All brothers here.\"", "DVeilRankTwoThreeFour1420Horrek_en.ogg"], ["- Horrek: \"I had a bushel of good Vobi cheeses buried out on the Plains to ripen. Buuut... then the Sentients came and rearranged the Plains. Ah, my poor cheeses.\"", "DVeilRankTwoThreeFour1430Horrek_en.ogg"], ["- Horrek: \"Some men have their destiny written in the stars. Other men drink Kubuchi until the stars dance, because their wife has locked the doors of their home, and they wake up to find three days have come and gone and they are naked but for a bucket and they are now the cook for a Grineer. The Unum alone knows all.\"", "DVeilRankTwoThreeFour1440Horrek_en.ogg"], ["- Horrek: \"It is good just to sit, to rest, to breathe. Haven't we all bled enough?\"", "DVeilRankTwoThreeFour1450Horrek_en.ogg"], ["- Horrek: \"Ach. Let Vay Hek rant as he will. Nobody here cares.\"", "DVeilRankTwoThreeFour1460Horrek_en.ogg"], ["- Horrek: \"If a man can only stay alive for long enough, there is no end to the wonders he may see.\"", "DVeilRankTwoThreeFour1470Horrek_en.ogg"], ["- Horrek: \"Eat, eat. She gives, we live.\"", "DVeilRankTwoThreeFour1480Horrek_en.ogg"], ["Horrek: \"Kahl! When is your blue girl going to send us more polyps? I want my world to undulate again.\"", "DVeilRankTwoThreeFour1490Horrek_en.ogg"], ["- Kahl: \"She say you not allowed. She say 'He knows what he did'.\"", "DVeilRankTwoThreeFour1500Kahl_en.ogg"]]},
+  {"path": ["Idle", "Rank 4 - Settlement"], "idle": true, "lines": [["- Horrek: \"I am glad the Corpus kid wants to make himself useful. But until he can gut and joint a Pobber without fainting, he is useful only as wind break.\"", "DVeilRankThreeFour1510Horrek_en.ogg"]]},
+  {"path": ["Idle", "Rank 5 - Home"], "idle": true, "lines": [["- Horrek: \"That Grineer lass is a strange one. Many times have I seen her paddling. Splashing. Singing about fish.\"", "DVeilRankFour1520Horrek_en.ogg"], ["Olvar D: \"Horrek, would you like help with-\"", "DVeilRankFour1620OlvarD_en.ogg"], ["Horrek: \"NO!\"", "DVeilRankFour1630Horrek_en.ogg"], ["- Olvar D: \"Okay then!\"", "DVeilRankFour1640OlvarD_en.ogg"]]}
+ ]
+}

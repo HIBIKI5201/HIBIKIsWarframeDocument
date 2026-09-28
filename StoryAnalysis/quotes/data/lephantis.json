@@ -1,0 +1,17 @@
+{
+ "key": "lephantis",
+ "title": "Lephantis/Quotes",
+ "url": "https://wiki.warframe.com/w/Lephantis/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "lephantis",
+  "name": "Lephantis",
+  "page": "Lephantis"
+ },
+ "count": 7,
+ "idle": 0,
+ "sections": [
+  {"path": ["Lotus Transmissions"], "idle": false, "lines": [["- Lotus: \"It was difficult to locate the source vector of this sector’s Infestation, but you are finally here.\"", null], ["- \"Deep within this millennia-old Orokin-turned-Infested ship lurks a creature created to fight in the Old War. Make your way to its location and dispatch this monster.\"", null], ["- \"Be wary. The creature has grown unfathomably strong through centuries of absorbing matter and self-replication.\"", null]]},
+  {"path": ["Taunts"], "idle": false, "lines": [["- \"(Unburden yourself from this mortal coil, [player name]. Join us.)\"", null], ["- \"(Why do you destroy us? We are your flesh.)\"", null], ["- \"(We are countless. Consume us. Be reborn.)\"", null], ["- \"(We embrace you. Why do you defile us?)\"", null]]}
+ ]
+}

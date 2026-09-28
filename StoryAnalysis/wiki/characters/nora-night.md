@@ -14,6 +14,7 @@
 
 - グループ: [中立](g13.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Nora Night/Quotes](../../quotes/nora-night.md)（132 行、うち独り言など 35 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nora_Night)（英語・出典） / [全文検索](../../search.html?q=Nora%20Night)
 

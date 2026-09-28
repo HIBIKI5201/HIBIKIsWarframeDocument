@@ -14,6 +14,7 @@ Arcane Codices を探す盗賊
 
 - グループ: [中立](g13.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Maroo/Quotes](../../quotes/maroo.md)（106 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Maroo)（英語・出典） / [日本語 Wiki「Maroo」](https://warframe.fandom.com/ja/wiki/Maroo) / [日本語 Wiki の取り込み](../../fandom-ja/pages/maroo.md) / [全文検索](../../search.html?q=Maroo)
 

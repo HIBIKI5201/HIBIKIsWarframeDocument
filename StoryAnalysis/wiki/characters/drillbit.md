@@ -14,6 +14,7 @@ On-lyne のメンバー
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Drillbit/Quotes](../../quotes/drillbit.md)（32 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Drillbit)（英語・出典） / [全文検索](../../search.html?q=Drillbit)
 

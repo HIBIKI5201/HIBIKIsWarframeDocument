@@ -15,6 +15,7 @@ Thrax の廷臣（The Fearful Conspirator）
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Sythel/Quotes](../../quotes/sythel.md)（92 行、うち独り言など 10 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Sythel)（英語・出典） / [全文検索](../../search.html?q=Sythel)
 

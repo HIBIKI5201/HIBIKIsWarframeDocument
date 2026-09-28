@@ -1,0 +1,13 @@
+{
+ "key": "prime-access-trailer-saryn",
+ "title": "Prime Access Trailer/Saryn",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Saryn",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"Margulis, from your winter ashes, there has sprung a field of flowers. Conceived by me, germinated for deadly purpose. You used to dream of old Earth, didn't you? Bathed in gold and solemn blue. I intend to reclaim it now, from the spores, and the ruin. It came to me like a proverb: fight poison with poison.", null], ["Cure this sick horde with the greatest of plagues. I will call her... Saryn.\"", "BallasSarynPrime.ogg"]]},
+  {"path": ["Music"], "idle": false, "lines": [["- File:SarynPrime.ogg (download, history)", null]]}
+ ]
+}

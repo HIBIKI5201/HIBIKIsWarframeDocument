@@ -26,6 +26,7 @@ Warframe および関連する名称・ロゴ・ゲーム内テキスト・画�
 | --- | --- | --- |
 | ゲーム内テキスト（英語原文・公式の日本語訳） | `StoryAnalysis/sources/`、`StoryAnalysis/glossary.md` の公式訳 | © Digital Extremes Ltd. ストーリー考察のための引用・資料として掲載しています。[warframe-public-export-plus](https://github.com/calamity-inc/warframe-public-export-plus) 経由でゲームデータから抽出しました |
 | WARFRAME Wiki を元にした記事・データ | `StoryAnalysis/wiki/`（`wiki/data/` を含む）、`StoryAnalysis/characters.md`、`StoryAnalysis/quests.md` | [WARFRAME Wiki](https://wiki.warframe.com/) の記事を元に作成しています。Wiki のライセンス（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）に従い、これらのファイルも同じライセンスで提供します（非営利に限る）。出典は各項目のリンク先です |
+| WARFRAME Wiki のセリフ集 | `StoryAnalysis/quotes/` | [WARFRAME Wiki](https://wiki.warframe.com/) の Quotes カテゴリの記事を元にしています（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)、非営利に限る）。セリフ自体の権利は Digital Extremes Ltd. に帰属します。出典は各ページに記載しています |
 | 日本語版 Wiki（Fandom）から取り込んだ資料 | `StoryAnalysis/fandom-ja/`、`StoryAnalysis/glossary.md` の「日本語Wiki」の表記 | [Warframe日本語 Wiki](https://warframe.fandom.com/ja/wiki/)（Fandom）の記事を元にしています。Wiki のライセンス（[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)）に従い、これらのファイルも同じライセンスで提供します。出典（記事・履歴へのリンク）は各ページに記載しています |
 | 作者の考察・過去作品 | `StoryAnalysis/archive/`、`StoryAnalysis/hibiki-works.md`、その他の考察ファイル | © 郷音ヒビキ（[@HIBIKI_5201](https://x.com/HIBIKI_5201)）。無断転載・再配布はご遠慮ください。引用する場合は出典を明記してください |
 | 上記以外（スクリプト・HTML テンプレート・TODO データなど） | `scripts/`、`*/scripts/`、`*/site/`、`TODO/` など | © 郷音ヒビキ。ライセンスは設定していません（すべての権利を留保します） |

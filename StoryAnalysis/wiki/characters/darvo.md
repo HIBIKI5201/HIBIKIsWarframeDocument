@@ -14,6 +14,7 @@ Darvo Bek。Frohd Bek の息子で商人
 
 - グループ: [中立](g13.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Darvo/Quotes](../../quotes/darvo.md)（167 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Darvo)（英語・出典） / [日本語 Wiki「Darvo」](https://warframe.fandom.com/ja/wiki/Darvo) / [日本語 Wiki の取り込み](../../fandom-ja/pages/darvo.md) / [全文検索](../../search.html?q=Darvo)
 

@@ -15,6 +15,7 @@ Tenno を付け狙う復讐者
 
 - グループ: [Stalker](g08-stalker.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Stalker/Quotes](../../quotes/stalker.md)（90 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Stalker)（英語・出典） / [全文検索](../../search.html?q=Stalker)
 

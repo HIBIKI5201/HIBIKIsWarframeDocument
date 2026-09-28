@@ -1,0 +1,526 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# The Hex (Quest)/Transcript
+
+[セリフ集の一覧](README.md) › クエスト（台詞全文）
+
+出典: [WARFRAME Wiki「The Hex (Quest)/Transcript」](https://wiki.warframe.com/w/The_Hex_(Quest)/Transcript) / このサイトのページ: [ヘックス](../wiki/quests/the-hex.md)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+477 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- The Hex (Quest) transcript.
+
+## Quest Description
+
+- “The desperate hunt for Albrecht Entrati has led the Drifter to the city of Höllvania on December 31st, 1999. Despite the Scaldra lockdown in the face of the Techrot menace, the citizens do their best to celebrate. But this has all happened before... and ended in disaster.”
+
+## Inbox Message
+
+- “1999
+- Hey. I think you know where you need to go. I will stay here, I will watch her, them, everyone. I'll be waiting for you to get answers and come back to us. Whatever happens in that year, whatever makes it so important, figure it out.
+- Okay, I guess you should really get going.
+- Please find him.
+> - Operator
+- P.S i don't know how to prove it, but it really is me, not... it. Remember our meal on the Zariman?”
+- (Attachments: The Hex)
+
+## Happy Y2K!
+
+- TV Announcer: "It's December 31st, 1999. Let's SAY GOODBYE to the OLD YEAR with a track you all know and love from GLOBAL sensation On-Lyne!" [音声](https://wiki.warframe.com/w/File:DMall0010TVAnnouncer_en.ogg)
+- HÖLLVANIA CENTRAL MALL REACTOR INCIDENT IN 23 HRS 59 MINS ARTHUR NIGHTINGALE ROLE: SQUAD LEADER BATCH: 'EXCALIBUR'
+- Arthur: "Not again!" [音声](https://wiki.warframe.com/w/File:DMall0020Arthur_en.ogg)
+- UNDR MIRAS AVE 10 MIN DNT B L8
+- Arthur: "Bastard." [音声](https://wiki.warframe.com/w/File:DMall0030Arthur_en.ogg)
+- Amir: "I'm on break, Arthur. Don't mess with my gametime." [音声](https://wiki.warframe.com/w/File:DMall0040Jabir_en.ogg)
+- Arthur: "Need my Tommy keys, Amir. I'm not letting another lead on Entrati go to waste." [音声](https://wiki.warframe.com/w/File:DMall0050Arthur_en.ogg)
+- AMIR BECKETT ROLE: TECHNICIAN BATCH: 'VOLT'
+- Amir: "(Grunts) That, that was cheating." [音声](https://wiki.warframe.com/w/File:DMall0060Jabir_en.ogg)
+- Arthur: "My keys better not be in that mess." [音声](https://wiki.warframe.com/w/File:DMall0070Arthur_en.ogg)
+- Aoi: "Learn to hotwire, geez!" [音声](https://wiki.warframe.com/w/File:DMall0080Aoi_en.ogg)
+- AOI MOROHOSHI ROLE: LOGISTICS BATCH: 'MAG'
+- Arthur: "Did you take my damn keys?" [音声](https://wiki.warframe.com/w/File:DMall0090Arthur_en.ogg)
+- Quincy: "Don't distract me, boyscout." [音声](https://wiki.warframe.com/w/File:DMall0100Quincy_en.ogg)
+- QUINCY ISAACS ROLE: MARKSMAN BATCH: 'CYTE-09'
+- Arthur: "No disrespect, Quincy. Got places to be, is all." [音声](https://wiki.warframe.com/w/File:DMall0110Arthur_en.ogg)
+- Arthur: "Someone is taking my stuff." [音声](https://wiki.warframe.com/w/File:DMall0111Arthur_en.ogg)
+- Arthur: "How's she doing?" [音声](https://wiki.warframe.com/w/File:DMall0120Arthur_en.ogg)
+- Lettie: "If she wasn't your blood, she'd be on her own out there." [音声](https://wiki.warframe.com/w/File:DMall0130Lettie_en.ogg)
+- LETICIA GARCIA ROLE: MEDIC BATCH: 'TRINITY'
+- Arthur: "Got a lead on Entrati. Sewers. Arse deep in Techrot, most likely. I'm going after him, for all our sakes. Lettie, look, if you've taken my keys again..." [音声](https://wiki.warframe.com/w/File:DMall0140Arthur_en.ogg)
+- ELEANOR NIGHTINGALE ROLE: PSYCH-OPS BATCH: 'NYX'
+- Quincy: "Hold up, hero boy. You're going after Doctor E all by yourself?" [音声](https://wiki.warframe.com/w/File:DMall0150Quincy_en.ogg)
+- Aoi: "Or maybe you're gonna bail on us, Arthur? Forget it." [音声](https://wiki.warframe.com/w/File:DMallIntro0170Aoi_en.ogg)
+- Lettie: "We're in this mess because of you." [音声](https://wiki.warframe.com/w/File:DMallIntro0180Lettie_en.ogg)
+- Amir: "I'm coming too! Guys? Uh... am I sensing some tension here?" [音声](https://wiki.warframe.com/w/File:DMallIntro0190Amir_en.ogg)
+- Arthur: "No one's bailing. I got us into this, and if it kills me, I'll get us- fine. Aoi, Amir, Quincy on backup. Lettie, you and Eleanor hold the fort here, keep the gennies running." [音声](https://wiki.warframe.com/w/File:DMallIntro0200Arthur_en.ogg)
+- Major Neci Rusalka: "The Doktor's dashing patient-zero in the flesh?" [音声](https://wiki.warframe.com/w/File:DMissionOne0220Rusalka_en.ogg)
+- MAJOR NECI RUSALKA ROLE: SCALDRA COMMANDER ARMAMENT: EFERVON HARNESS
+- Major Neci Rusalka: "Shame. But my Scaldra have their orders." [音声](https://wiki.warframe.com/w/File:DMissionOne0221Rusalka_en.ogg)
+- Major Neci Rusalka: "Kill. On. Sight." [音声](https://wiki.warframe.com/w/File:DMissionOne0222Rusalka_en.ogg)
+- Major Neci Rusalka: "Pity. We could've been allies, kiddo. My Scaldra. Put that thing down!" [音声](https://wiki.warframe.com/w/File:DMissionOne0270Rusalka_en.ogg)
+- Quincy: "Iced 'em. Too slow, Arthur." [音声](https://wiki.warframe.com/w/File:DMall0225Quincy_en.ogg)
+- Arthur: "I had it under control." [音声](https://wiki.warframe.com/w/File:DStreets0217Arthur_en.ogg)
+- Major Neci Rusalka: "Have it your way. By this time next year, nothing will remain of you slugs." [音声](https://wiki.warframe.com/w/File:DStreets0231Rusalka_en.ogg)
+- Major Neci Rusalka: "Meet the co-star of your grand finale. An H-04 Efervon Tank. Enjoy." [音声](https://wiki.warframe.com/w/File:DStreets0230Rusalka_en.ogg)
+- Arthur: "Requesting assistance!" [音声](https://wiki.warframe.com/w/File:DStreets0238Arthur_en.ogg)
+- Quincy: "The vents above the treads!" [音声](https://wiki.warframe.com/w/File:DStreets0237Quincy_en.ogg)
+- Major Neci Rusalka: "Viktor? Drop them in. NOW." [音声](https://wiki.warframe.com/w/File:DStreets0245Rusalka_en.ogg)
+- Quincy: "Found a hole in its shield, Arthur!" [音声](https://wiki.warframe.com/w/File:DStreets0242Quincy_en.ogg)
+- Arthur: "Thanks, Quincy." [音声](https://wiki.warframe.com/w/File:DStreets0243Arthur_en.ogg)
+- Eleanor: "Wake up, brother. He comes. A crownless king, clad in gold. A pallid beast... tap-tap-tapping." [音声](https://wiki.warframe.com/w/File:DMissionOne0350Eleanor_en.ogg)
+- Aoi: "Arthur! What the hell was that? Where are you? Come in!" [音声](https://wiki.warframe.com/w/File:DStreets0250Aoi_en.ogg)
+- Arthur: "He's here. Deep in the Techrot. I'm going after him." [音声](https://wiki.warframe.com/w/File:DStreets0260Arthur_en.ogg)
+- Arthur: "What in hell..." [音声](https://wiki.warframe.com/w/File:DStreets0265Arthur_en.ogg)
+- Arthur: "Entrati! What devils follow you?" [音声](https://wiki.warframe.com/w/File:DStreets0266Arthur_en.ogg)
+- Arthur: "Bring the hellfire!" [音声](https://wiki.warframe.com/w/File:DStreets0270Arthur_en.ogg)
+- Arthur: "That... was VERY rude." [音声](https://wiki.warframe.com/w/File:DMissionOne0410Arthur_en.ogg)
+- SCALDRA INTERROGATION CELL REACTOR INCIDENT IN 19 HRS 27 MINS
+- Major Neci Rusalka: "Viktor. That's no way to treat our little tourist." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0420Rusalka_en.ogg)
+- Viktor: "He won't talk." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0430Viktor_en.ogg)
+- Major Neci Rusalka: "Oh. Not even to me?" [音声](https://wiki.warframe.com/w/File:DCineInterrogation0440Rusalka_en.ogg)
+- Albrecht Entrati: "Hmph. Not my type." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0450Albrecht_en.ogg)
+- Major Neci Rusalka: "Oh, but we're old friends." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0460Rusalka_en.ogg)
+- The Man in the Wall: "Aren't we, master?" [音声](https://wiki.warframe.com/w/File:DCineInterrogation0470VoidLoid_en.ogg)
+- The Man in the Wall: "Master, my master. Why hast thou abandoned me?" [音声](https://wiki.warframe.com/w/File:DCineInterrogation0480VoidLoid_en.ogg)
+- The Man in the Wall: "All that matters is I'm here now. There, there... my faithful man-cat." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0490VoidAlbrecht_en.ogg)
+- The Man in the Wall: "But is it really you? After all these years I've - UGH! Master! You're hurting me!" [音声](https://wiki.warframe.com/w/File:DCineInterrogation0500VoidLoid_en.ogg)
+- Albrecht Entrati: "Ha! That's it, isn't it? The poison to your plan." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0510Albrecht_en.ogg)
+- The Man in the Wall: "And what is that?" [音声](https://wiki.warframe.com/w/File:DCineInterrogation0520VoidLoid_en.ogg)
+- Albrecht Entrati: "Love." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0530Albrecht_en.ogg)
+- HÖLLVANIA CENTRAL MALL REACTOR INCIDENT IN 19 HRS 10 MINS
+- Amir: "Woah. Like Marty McFlea." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0540Amir_en.ogg)
+- Quincy: "You takin' the piss?" [音声](https://wiki.warframe.com/w/File:DCineInterrogation0550Quincy_en.ogg)
+- Arthur: "If it's bullshit, I'll feed Marty here to the Techrot myself. But the clock's running out." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0560Arthur_en.ogg)
+- Amir: "The nuke kinda makes sense, actually." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0570Amir_en.ogg)
+- Drifter: "Happy New Year." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0580AdultOpA_en.ogg)
+- Arthur: "Well, you're on point, Marty. But you try any of those head games again and there won't be much left for Lettie to stitch back up. You read me?" [音声](https://wiki.warframe.com/w/File:DCineInterrogation0590Arthur_en.ogg)
+- Drifter: "Loud and clear." [音声](https://wiki.warframe.com/w/File:DCineInterrogation0600AdultOpA_en.ogg)
+
+## Ride or Die
+
+- Quincy: "Check me out. Givin' kit to Entrati's Cybercop." [音声](https://wiki.warframe.com/w/File:DHubKitUp0610Quincy_en.ogg)
+- Quincy: "Naw. More like V-1000. Sent to smoke us all, am I right?" [音声](https://wiki.warframe.com/w/File:DHubKitUp0620Quincy_en.ogg)
+- TV Announcer: "Brrr! We got a blizzard coming in! Well, the On-lyne boys had better get their lip balm ready before the big show, or it's gonna be a chappy New Year!" [音声](https://wiki.warframe.com/w/File:DHubKitUp0625TVAnnouncer_en.ogg)
+- Aoi: "So you just puppet this thing? Whole lot of metal in there..." [音声](https://wiki.warframe.com/w/File:DHubKitUp0630Aoi_en.ogg)
+- Aoi: "Arthur's taking a chance on you. You hurt him, and I'll twist you inside out. Try not to scratch the paint." [音声](https://wiki.warframe.com/w/File:DHubKitUp0640Aoi_en.ogg)
+- Aoi: "Lettie, you buying this shit?" [音声](https://wiki.warframe.com/w/File:DMissionTwo0650Aoi_en.ogg)
+- Lettie: "No, Aoi, I am not." [音声](https://wiki.warframe.com/w/File:DMissionTwo0660Lettie_en.ogg)
+- Arthur: "Cut the chatter. 19 hours til we're popping corks, or vaporized. We get Entrati and put a stop to this." [音声](https://wiki.warframe.com/w/File:DMissionTwo0670Arthur_en.ogg)
+- Major Neci Rusalka: "Höllvania. The eve of a new millennium brings with it great change. The war criminal Albrecht Entrati, father of the Techrot plague, has at last been captured. His co-conspirators, the terrorist cell known as 'Hex', will soon be brought to justice. Tonight, we will fill the great... Void of suffering. A New Year... A new era! Höllvania will be great once again!" [音声](https://wiki.warframe.com/w/File:DMissionTwo0680Rusalka_en.ogg)
+- Aoi: "Right, we're the terrorists. Love what you've done with the place, lady." [音声](https://wiki.warframe.com/w/File:DMissionTwo0690Aoi_en.ogg)
+- Quincy: "Lotta heat here in the opp-block, Arthur. You sure Marty's lead isn't just a setup? You holding something back, heroboy?" [音声](https://wiki.warframe.com/w/File:DMissionTwo0700Quincy_en.ogg)
+- Eleanor: "You wouldn't believe it anyway." [音声](https://wiki.warframe.com/w/File:DMissionTwo0710Eleanor_en.ogg)
+- Lettie: "Amir, you said the nuke story made sense. This Y2K shit real?" [音声](https://wiki.warframe.com/w/File:DMissionTwo0720Lettie_en.ogg)
+- Amir: "Of course it's real. Some glitch in the old control software. Probably written in COBOL." [音声](https://wiki.warframe.com/w/File:DMissionTwo0730Amir_en.ogg)
+- Lettie: "¡Ah chingao (Shit)!" [音声](https://wiki.warframe.com/w/File:DMissionTwo0740Lettie_en.ogg)
+- Arthur: "Holding cells ahead. Big moment for you, Marty." [音声](https://wiki.warframe.com/w/File:DMissionTwo0750Arthur_en.ogg)
+- Drifter: "He'll be there." [音声](https://wiki.warframe.com/w/File:DMissionTwo0760AdultOpA_en.ogg)
+- Arthur: "You better have him. Marty? Is Entrati there?" [音声](https://wiki.warframe.com/w/File:DMissionTwo0770Arthur_en.ogg)
+- Drifter: "He's gone. It's broken through already. Changing things." [音声](https://wiki.warframe.com/w/File:DMissionTwo0780AdultOpA_en.ogg)
+- Arthur: "Bollocks! Get your arse out of there! Quincy, Aoi, we need fire support!" [音声](https://wiki.warframe.com/w/File:DMissionTwo0790Arthur_en.ogg)
+- Quincy: "I told you this was a set-up!" [音声](https://wiki.warframe.com/w/File:DMissionTwo0800Quincy_en.ogg)
+
+## Spore Busters
+
+- HÖLLVANIA CENTRAL MALL REACTOR INCIDENT IN 14 HRS 5 MINS
+- Arthur: "So what do you want me to do, Lettie?" [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0810Arthur_en.ogg)
+- Lettie: "Maybe, we cut our losses like we should've done weeks ago. We pack up and get the hell out of this estercolero before it's turned to ash. Just an idea!" [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0820Lettie_en.ogg)
+- Aoi: "You don't have a problem with a few hundred thousand going up in smoke?" [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0830Aoi_en.ogg)
+- Lettie: "Anyone still stuck here is Techrot anyway. Sometimes you have to amputate, Aoi. And cauterize." [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0840Lettie_en.ogg)
+- Quincy: "Didn't come out here to cut an' hide. If Doctor E won't stop this, then I say we do it. Am I right, Amir? AMIR?" [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0850Quincy_en.ogg)
+- Arthur: "So where's Entrati? You said this was a loop." [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0860Arthur_en.ogg)
+- Eleanor: "Not anymore, is it? Your Boogeyman changed the rules. You're toast like the rest of us now." [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0870Eleanor_en.ogg)
+- Drifter: "Seems so. But that means we can change it too." [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0880AdultOpA_en.ogg)
+- Arthur: "Stop the nuke." [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0890Arthur_en.ogg)
+- Quincy: "No one listens." [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0900Quincy_en.ogg)
+- Amir: "Get me wired in." [音声](https://wiki.warframe.com/w/File:DHubTwoSwords0910Amir_en.ogg)
+- Eleanor: "The Techrot's pumping out spores." [音声](https://wiki.warframe.com/w/File:DMissionThree0920Eleanor_en.ogg)
+- Lettie: "I don't want more of that shit in my system!" [音声](https://wiki.warframe.com/w/File:DMissionThree0930Lettie_en.ogg)
+- Arthur: "Slow it, Lettie! Amir. Talk to me. Is your plan ready?" [音声](https://wiki.warframe.com/w/File:DMissionThree0940Arthur_en.ogg)
+- Amir: "Uh... almost. Just needs a transponder onsite. Any Scaldra console down there should do it." [音声](https://wiki.warframe.com/w/File:DMissionThree0950Amir_en.ogg)
+- Amir: "Hell-Scrubbers! Giant air filters to capture Techrot spores. I've commandeered their deployment system. Just need you to keep them pumping." [音声](https://wiki.warframe.com/w/File:DMissionThree0960Amir_en.ogg)
+- Arthur: "Quincy and Marty, keep the air clean while the rest of us search the tunnels for a terminal. You too, Lettie." [音声](https://wiki.warframe.com/w/File:DMissionThree0970Arthur_en.ogg)
+- Lettie: "I start turning like Eleanor, I'll be haunting your ass." [音声](https://wiki.warframe.com/w/File:DMissionThree0980Lettie_en.ogg)
+- Amir: "New Hell-Scrubber inbound!" [音声](https://wiki.warframe.com/w/File:DMissionThree0990Amir_en.ogg)
+- Quincy: "Likkle Amir knows all about these opps and their systems. A proper boss like you is smart enough to figure it out, innit, Marty?" [音声](https://wiki.warframe.com/w/File:DMissionThree1000Quincy_en.ogg)
+- Arthur: "Eleanor, you sensing any civilians down here?" [音声](https://wiki.warframe.com/w/File:DMissionThree1011Arthur_en.ogg)
+- Eleanor: "Not one." [音声](https://wiki.warframe.com/w/File:DMissionThree1012Eleanor_en.ogg)
+- Arthur: "So. Wherever they're hiding out, it's above ground. That's a mercy." [音声](https://wiki.warframe.com/w/File:DMissionThree1013Arthur_en.ogg)
+- Arthur: "Amir! Found a terminal!" [音声](https://wiki.warframe.com/w/File:DMissionThree1014Arthur_en.ogg)
+- Amir: "Coming! What. No no no no no. That's... not a terminal, Arthur. Not any more." [音声](https://wiki.warframe.com/w/File:DMissionThree1015Amir_en.ogg)
+- Arthur: "Oh, shit. Aim for the head!" [音声](https://wiki.warframe.com/w/File:DMissionThree1016Arthur_en.ogg)
+- Lettie: "See this is why the Major wears a freakin' face mask." [音声](https://wiki.warframe.com/w/File:DMissionThree1017Lettie_en.ogg)
+- Eleanor: "Oh, please. You're as infected as the rest of us, Lettie." [音声](https://wiki.warframe.com/w/File:DMissionThree1018Eleanor_en.ogg)
+- Lettie: "Yeah? Look up 'latent infection', bitch." [音声](https://wiki.warframe.com/w/File:DMissionThree1019Lettie_en.ogg)
+- Eleanor: "Hold. Sensing a Scaldra force on the surface." [音声](https://wiki.warframe.com/w/File:DMissionThree1021Eleanor_en.ogg)
+- Lettie: "Even Scaldra got more sense than to come down here." [音声](https://wiki.warframe.com/w/File:DMissionThree1022Lettie_en.ogg)
+- Arthur: "We'll see. Keep us posted." [音声](https://wiki.warframe.com/w/File:DMissionThree1023Arthur_en.ogg)
+- Arthur: "Amir? You in?" [音声](https://wiki.warframe.com/w/File:DMissionThree1050Arthur_en.ogg)
+- Amir: "Root access confirmed. Höllvania Public Utilities I am in you! Huh? MP3s?!-" [音声](https://wiki.warframe.com/w/File:DMissionThree1060Amir_en.ogg)
+- Quincy: "What did you do, Amir? Come in? Comm's dead." [音声](https://wiki.warframe.com/w/File:DMissionThree1070Quincy_en.ogg)
+
+## Shitbox Convoy
+
+- Drifter: "What is going on?" [音声](https://wiki.warframe.com/w/File:DHubCatBack1080AdultOpA_en.ogg)
+- Aoi: "Isn't it great? Amir got these from the hack!" [音声](https://wiki.warframe.com/w/File:DHubCatBack1090Aoi_en.ogg)
+- Arthur: "Amir! Can't hear myself think!" [音声](https://wiki.warframe.com/w/File:DHubCatBack1100Arthur_en.ogg)
+- Amir: "Sorry! Got it!" [音声](https://wiki.warframe.com/w/File:DHubCatBack1110Amir_en.ogg)
+- Aoi: "Awww... come on!" [音声](https://wiki.warframe.com/w/File:DHubCatBack1120Aoi_en.ogg)
+- Drifter: "Kalymos?" [音声](https://wiki.warframe.com/w/File:DCinKalymos1130AdultOpA_en.ogg)
+- Arthur: "She showed up after the hack. Uh. Look. Marty. Maybe we got off on the wrong-" [音声](https://wiki.warframe.com/w/File:DCinKalymos1140Arthur_en.ogg)
+- Arthur: "Entrati." [音声](https://wiki.warframe.com/w/File:DCinKalymos1150Arthur_en.ogg)
+- ENTRATI BACKROOM REACTOR INCIDENT IN 11 HRS 31 MINS
+- Albrecht Entrati: "...T-T-T-Tenno. If you are seeing this your loop has been altered." [音声](https://wiki.warframe.com/w/File:DHubCatBack1170Albrecht_en.ogg)
+- Drifter: "No kidding." [音声](https://wiki.warframe.com/w/File:DHubCatBack1180AdultOpA_en.ogg)
+- Albrecht Entrati: "You and I are trapped here. Soon the Murmur will crawl through the cracks and devour this world and its possibilities." [音声](https://wiki.warframe.com/w/File:DHubCatBack1190Albrecht_en.ogg)
+- Albrecht Entrati: "Our only means of escape... our only hope to contain this horror I have created... will require a spark of energy rare in this timeline. You know what this means." [音声](https://wiki.warframe.com/w/File:DHubCatBack1200Albrecht_en.ogg)
+- Albrecht Entrati: "Do not allow Arthur and the Hex to stop this. I realize what I am asking... but you of all people understand what is at stake. For the sake of everything before and to come... at midnight tonight... the 'bomb' must go off." [音声](https://wiki.warframe.com/w/File:DHubCatBack1210Albrecht_en.ogg)
+- Amir: "We found him, Marty! Come on!" [音声](https://wiki.warframe.com/w/File:DHubTailorShop1230Amir_en.ogg)
+- Drifter: "Who?" [音声](https://wiki.warframe.com/w/File:DHubTailorShop1240AdultOpA_en.ogg)
+- Aoi: "We got chatter on Scaldra comms! They've been moving a V.I.P. at regular intervals. It's gotta be Dr. E, right? Meet me across town." [音声](https://wiki.warframe.com/w/File:DMissionFour1250Aoi_en.ogg)
+- Viktor: "Fences up, Scaldra." [音声](https://wiki.warframe.com/w/File:DMissionFour1270Viktor_en.ogg)
+- Drifter: "That convoy's a trap. I doubt Entrati's even on it." [音声](https://wiki.warframe.com/w/File:DMissionFour1280AdultOpA_en.ogg)
+- Arthur: "If there's a chance he's on it, we have to try. Only he can stop this." [音声](https://wiki.warframe.com/w/File:DMissionFour1290Arthur_en.ogg)
+- Aoi: "Convoy approaching the Mehra Tunnels. That's the place to hit them." [音声](https://wiki.warframe.com/w/File:DMissionFour1330Aoi_en.ogg)
+- Arthur: "No air support. Smart." [音声](https://wiki.warframe.com/w/File:DMissionFour1340Arthur_en.ogg)
+- Aoi: "I'm just a pretty face, Arthur. Oh sh-" [音声](https://wiki.warframe.com/w/File:DMissionFour1350Aoi_en.ogg)
+- Drifter: "Arthur, what if he doesn't know?" [音声](https://wiki.warframe.com/w/File:DMissionFour1300AdultOpA_en.ogg)
+- Arthur: "Just haul arse to Aoi. Rest of us will catch up." [音声](https://wiki.warframe.com/w/File:DMissionFour1320Arthur_en.ogg)
+- Aoi: "Get these assholes off my back." [音声](https://wiki.warframe.com/w/File:DMissionFour1360Aoi_en.ogg)
+- Aoi: "Too. Heavy." [音声](https://wiki.warframe.com/w/File:DMissionFour1370Aoi_en.ogg)
+- Aoi: "Still not used to... whatever this is. Here. Let's ditch the cycles for something less... conspicuous." [音声](https://wiki.warframe.com/w/File:DMissionFour1380Aoi_en.ogg)
+- Aoi: "Thaaaank yoooou!" [音声](https://wiki.warframe.com/w/File:DCineShitbox1410Aoi_en.ogg)
+- MEHRA TUNNELS, HÖLLVANIA REACTOR INCIDENT IN 10 HRS 41 MINS
+- Aoi: "Nice one, Marty!" [音声](https://wiki.warframe.com/w/File:DMissionFour1420Aoi_en.ogg)
+- Aoi: "Wasted!" [音声](https://wiki.warframe.com/w/File:DMissionFour1430Aoi_en.ogg)
+- Aoi: "Pick the bones out of that!" [音声](https://wiki.warframe.com/w/File:DMissionFour1440Aoi_en.ogg)
+- Aoi: "Yeah!!" [音声](https://wiki.warframe.com/w/File:DMissionFour1450Aoi_en.ogg)
+- Aoi: "Eat that, jerk!" [音声](https://wiki.warframe.com/w/File:DMissionFour1451Aoi_en.ogg)
+- Aoi: "Whammo!" [音声](https://wiki.warframe.com/w/File:DMissionFour1452Aoi_en.ogg)
+- Aoi: "That was a good one!" [音声](https://wiki.warframe.com/w/File:DMissionFour1453Aoi_en.ogg)
+- Aoi: "Hah hah hah hah ha." [音声](https://wiki.warframe.com/w/File:DMissionFour1454Aoi_en.ogg)
+- Aoi: "Arthur's caught up!" [音声](https://wiki.warframe.com/w/File:DMissionFour1460Aoi_en.ogg)
+- Major Neci Rusalka: "So you're the new lapdog, kiddo? Tell me, Toto, what's he done to earn your loyalty?" [音声](https://wiki.warframe.com/w/File:DMissionFour1470Rusalka_en.ogg)
+- Aoi: "You know this witch!?" [音声](https://wiki.warframe.com/w/File:DMissionFour1480Aoi_en.ogg)
+- Drifter: "Uh... it's complicated." [音声](https://wiki.warframe.com/w/File:DMissionFour1490AdultOpA_en.ogg)
+- Major Neci Rusalka: "Not the jealous type! But! If I can't have him... you can't either!" [音声](https://wiki.warframe.com/w/File:DMissionFour1500Rusalka_en.ogg)
+- Albrecht Entrati: "Here is the breach. With each cycle, more seeps into her." [音声](https://wiki.warframe.com/w/File:DCineKillHer1510Albrecht_en.ogg)
+- Major Neci Rusalka: "Who... who are you?" [音声](https://wiki.warframe.com/w/File:DCineKillHer1520Rusalka_en.ogg)
+- Albrecht Entrati: "Kill her. Now." [音声](https://wiki.warframe.com/w/File:DCineKillHer1530Albrecht_en.ogg)
+- [Sun] You do it.
+- Drifter: "You do it. I'm not your puppet." [音声](https://wiki.warframe.com/w/File:DCineKillHer1540AdultOpA_en.ogg)
+- [Neutral] It's not really her...
+- Drifter: "But it's not really her that's doing this..." [音声](https://wiki.warframe.com/w/File:DCineKillHer1550AdultOpA_en.ogg)
+- [Moon] I'd be no different.
+- Drifter: "What? Then how would I be any different?" [音声](https://wiki.warframe.com/w/File:DCineKillHer1560AdultOpA_en.ogg)
+- Albrecht Entrati: "If you cannot sacrifice even this much... how will you do what comes next?" [音声](https://wiki.warframe.com/w/File:DCineKillHer1570Albrecht_en.ogg)
+- Arthur: "What's he talking about, Marty?" [音声](https://wiki.warframe.com/w/File:DCineKillHer1580Arthur_en.ogg)
+- Drifter: "Maybe I won't." [音声](https://wiki.warframe.com/w/File:DCineKillHer1590AdultOpA_en.ogg)
+- Albrecht Entrati: "Are you more a child than your other? Do you think I am not haunted by these choices?" [音声](https://wiki.warframe.com/w/File:DCineKillHer1600Albrecht_en.ogg)
+- The Man in the Wall: "(laughs)" [音声](https://wiki.warframe.com/w/File:NinetyNineKillHerKillerRusalkaLaugh.ogg)
+- The Man in the Wall: "XATA FASS XATA." [音声](https://wiki.warframe.com/w/File:DCineKillHer1601Albrecht_en.ogg)
+- Amir: "Wahhh?!?? Marty's legit!" [音声](https://wiki.warframe.com/w/File:DCineKillHer1610Amir_en.ogg)
+
+## The Zoo
+
+- ENTRATI BACKROOM REACTOR INCIDENT IN 4 HRS 52 MINS
+- Quincy: "Nice score you got us here, Arthur. But you know what? I've had by fill of the circus. I'm out." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1620Quincy_en.ogg)
+- Amir: "Quincy... c'mon man! Maybe we don't need Marty to stop this? Don't-" [音声](https://wiki.warframe.com/w/File:DHubTailorShop1640Amir_en.ogg)
+- Arthur: "-North's your best bet. Mountains might be a chance against the fallout." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1650Arthur_en.ogg)
+- Quincy: "Cheers. Look-" [音声](https://wiki.warframe.com/w/File:DHubTailorShop1660Quincy_en.ogg)
+- Arthur: "-Anyone else? No?" [音声](https://wiki.warframe.com/w/File:DHubTailorShop1670Arthur_en.ogg)
+- Lettie: "We'll still follow you, brave king. But this half-assed plan's gone full-guano. Amir's Y2K thing won't even work." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1680Lettie_en.ogg)
+- Amir: "Yeah. I should have said. Controller's air-gapped. Good policy actually." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1690Amir_en.ogg)
+- Arthur: "Air-gapped." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1700Arthur_en.ogg)
+- Lettie: "Off net. We'd have to 'full-on' the reactor and patch it direct. Only about four thousand Scaldra to the six of us. Bad odds güey." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1710Lettie_en.ogg)
+- Aoi: "Five of us. Arthur, maybe it is time to bail." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1720Aoi_en.ogg)
+- Eleanor: "There's an army beneath our feet. You all know it. My loving brother just needs to ask. I know he's itching to." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1730Eleanor_en.ogg)
+- Lettie: "Eleanor... Arthur, don't you dare. She's barely hanging on as it is." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1740Lettie_en.ogg)
+- Arthur: "You said it yourself, Lettie. Bad odds. Eleanor. I'm asking. Please." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1750Arthur_en.ogg)
+- Eleanor: "Please? A grand New Year's Eve, indeed. Okey-dokey, Arthur. Who's on point?" [音声](https://wiki.warframe.com/w/File:DHubTailorShop1760Eleanor_en.ogg)
+- Eleanor: "Princess Lucina Zoological Gardens. Free admission on New Year's Eve... if you can get past the Scaldra." [音声](https://wiki.warframe.com/w/File:DHubTailorShop1770Eleanor_en.ogg)
+- Eleanor: "Scaldra think they've contained the outbreak here. But the Techrot here is different... more... patient... Biding their time..." [音声](https://wiki.warframe.com/w/File:DMissionFive1780Eleanor_en.ogg)
+- Arthur: "They can do that?" [音声](https://wiki.warframe.com/w/File:DMissionFive1790Arthur_en.ogg)
+- Viktor: "Bad form to arrive early. And without your mystery date? I thought they taught Britannic men better..." [音声](https://wiki.warframe.com/w/File:DMissionFive1800Viktor_en.ogg)
+- Arthur: "Viktor, you love this city. Y2K is gonna haywire the plant. Call off your dogs for the night and help us." [音声](https://wiki.warframe.com/w/File:DMissionFive1810Arthur_en.ogg)
+- Viktor: "Y2K? Ozone? Acid rain? And I took you for a warrior. Air support, you are go for drop." [音声](https://wiki.warframe.com/w/File:DMissionFive1820Viktor_en.ogg)
+- Viktor: "Mediocre display. Not worth my time. Enjoy your picnic in the park, children." [音声](https://wiki.warframe.com/w/File:DMissionFive1830Viktor_en.ogg)
+- PRINCESS LUCINA ZOOLOGICAL GARDENS REACTOR INCIDENT IN 2 HRS 50 MINS
+- Eleanor: "Wait here. I do this alone." [音声](https://wiki.warframe.com/w/File:DMissionFive1840Eleanor_en.ogg)
+- Lettie: "I'm sorry we put you up to this." [音声](https://wiki.warframe.com/w/File:DMissionFive1850Lettie_en.ogg)
+- Legacyte: "We've waited. Our Severed. Sister." [音声](https://wiki.warframe.com/w/File:DMissionFive1880ApePrelate_en.ogg)
+- Legacyte: "I Queen of these. First sister from trees." [音声](https://wiki.warframe.com/w/File:DMissionFive1920ApePrelate_en.ogg)
+- Legacyte: "Sisters. Wicked. Always jealous to be queen." [音声](https://wiki.warframe.com/w/File:DMissionFive1890ApePrelate_en.ogg)
+- Legacyte: "Bad. Mad. Sad." [音声](https://wiki.warframe.com/w/File:DMissionFive1930ApePrelate_en.ogg)
+- Lettie: "She won't come back from this." [音声](https://wiki.warframe.com/w/File:DMissionFive1860Lettie_en.ogg)
+- Arthur: "Then none of us will." [音声](https://wiki.warframe.com/w/File:DMissionFive1870Arthur_en.ogg)
+- Legacyte: "Mine! Me! Mine!" [音声](https://wiki.warframe.com/w/File:DMissionFive1940ApePrelate_en.ogg)
+- LEGACYTE PRIMITIVE TECHROT HIVEQUEEN
+- Legacyte: "Me. Help. You. Many friends!" [音声](https://wiki.warframe.com/w/File:DCineNewQueen1950ApePrelate_en.ogg)
+- Eleanor: "Many friends. Yes." [音声](https://wiki.warframe.com/w/File:DCineNewQueen1960Eleanor_en.ogg)
+- Legacyte: "Many." [音声](https://wiki.warframe.com/w/File:DCineNewQueen1970ApePrelate_en.ogg)
+- Eleanor: "Less one." [音声](https://wiki.warframe.com/w/File:DCineNewQueen1980Eleanor_en.ogg)
+
+## ????
+
+- Albrecht Entrati: "Are you more a child than your other? Do you think I am not haunted by these choices?" [音声](https://wiki.warframe.com/w/File:DMissionSix1992Albrecht_en.ogg)
+- Drifter: "Entrati?! Get me out of here!" [音声](https://wiki.warframe.com/w/File:DMissionSix2040AdultOpA_en.ogg)
+- Eleanor: "Shoot us in the back-" [音声](https://wiki.warframe.com/w/File:DMissionSix2000Eleanor_en.ogg)
+- Indifference: "Eleanor is the first to die." [音声](https://wiki.warframe.com/w/File:DMissionSix2010VoidRusalka_en.ogg)
+- Lettie: "Eleanor!" [音声](https://wiki.warframe.com/w/File:DMissionSix2020Lettie_en.ogg)
+- Indifference: "Then Lettie." [音声](https://wiki.warframe.com/w/File:DMissionSix2030VoidRusalka_en.ogg)
+- Quincy: "Peak-a-boo." [音声](https://wiki.warframe.com/w/File:DMissionSix2050Quincy_en.ogg)
+- Quincy: "See ya soon, momma." [音声](https://wiki.warframe.com/w/File:DMissionSix2060Quincy_en.ogg)
+- Drifter: "I've seen enough, Albrecht!" [音声](https://wiki.warframe.com/w/File:DMissionSix2070AdultOpA_en.ogg)
+- Indifference: "Not that old dog. This is me." [音声](https://wiki.warframe.com/w/File:DMissionSix2090VoidRusalka_en.ogg)
+- Aoi: "Arthur! I can't-" [音声](https://wiki.warframe.com/w/File:DMissionSix2110Aoi_en.ogg)
+- Drifter: "(grunts)" [音声](https://wiki.warframe.com/w/File:DMissionSix2081AdultOpA_en.ogg)
+- Indifference: "These gifts you have: a piece of me. Given freely." [音声](https://wiki.warframe.com/w/File:DMissionSix2120VoidRusalka_en.ogg)
+- Indifference: "But those before you were butchers. Flayed flesh... for stolen stars." [音声](https://wiki.warframe.com/w/File:DMissionSix2130VoidRusalka_en.ogg)
+- Amir: "I was... Too. Slow." [音声](https://wiki.warframe.com/w/File:DMissionSix2140Amir_en.ogg)
+- Indifference: "But those before you. They did not ask. They butchered me. My flesh fed their greed." [音声](https://wiki.warframe.com/w/File:DMissionSix2150VoidRusalka_en.ogg)
+- Arthur: "Just... go." [音声](https://wiki.warframe.com/w/File:DMissionSix2160Arthur_en.ogg)
+
+## PARTY OF YOUR LIFETIME
+
+- On-lyne: "(Zeke) How are we doin' Holvaniaahhhhhhh?!?!! (DJ ROM) We can't heeeear you! (Zeke) Yo, sounds like someone's tryna kick off the party without us! (Harddrive) No way, man! Ain't no party 'til I show up! (Drillbit) Let's show 'em how it's really done! (Packet) Höllvania, you ever been in love? (Drillbit) And who's had their heart broken? We feel you. But trust me— stay strong. Time heals everything. And I know you know it, right? 'Cause love... is time." [音声](https://wiki.warframe.com/w/File:DCinePartyLife2171Zeke_en.ogg)
+- HELL. YOU ARE NEVER GETTING OUT ONLY 23 MINUTES LEFT, KIDDO
+- Amir: "Arthur, this place is swarming with Scaldra!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2240Amir_en.ogg)
+- Arthur: "Hold there. She'll get it open." [音声](https://wiki.warframe.com/w/File:DMissionSeven2250Arthur_en.ogg)
+- HÖLLVANIA REACTOR ACCESS THEY ARE ALL DEAD ALREADY
+- Lettie: "Eleanor? You still okay?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2260Lettie_en.ogg)
+- Eleanor: "We are fine." [音声](https://wiki.warframe.com/w/File:DMissionSeven2270Eleanor_en.ogg)
+- Viktor: "What's going on down there. Eight-squad? Eight-squad report! Get Efervon units down there now!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2280Viktor_en.ogg)
+- Eleanor: "Children! NO!!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2290Eleanor_en.ogg)
+- Lettie: "Eleanor, hold here. I'll clear the gas." [音声](https://wiki.warframe.com/w/File:DMissionSeven2300Lettie_en.ogg)
+- Lettie: "Eleanor!" [音声](https://wiki.warframe.com/w/File:DCineQueen2310Lettie_en.ogg)
+- Eleanor: "Shoot us in the back, Lettie?" [音声](https://wiki.warframe.com/w/File:DCineQueen2320Eleanor_en.ogg)
+- Lettie: "Making sure that you are still... you." [音声](https://wiki.warframe.com/w/File:DCineQueen2330Lettie_en.ogg)
+- Eleanor: "Of course, we are." [音声](https://wiki.warframe.com/w/File:DCineQueen2340Eleanor_en.ogg)
+- Eleanor: "And you can be, too." [音声](https://wiki.warframe.com/w/File:DCineQueen2341Eleanor_en.ogg)
+- SNIPER'S NEST TOO LITTLE TOO LATE
+- Scaldra Eradicator: "Sir, the sub-floors have been breached. Requesting backup!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2350ScaldTrooperC_en.ogg)
+- Viktor: "No! This is what they want. Hold!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2360Viktor_en.ogg)
+- Arthur: "What the hell? Wait... Quincy?!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2380Arthur_en.ogg)
+- Quincy: "You are proper shit at directions, Arthur. Heads down while I do my job, arright mate?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2390Quincy_en.ogg)
+- Quincy: "(pop?)" [音声](https://wiki.warframe.com/w/File:DMissionSeven2400Quincy_en.ogg)
+- Quincy: "Got ya." [音声](https://wiki.warframe.com/w/File:DMissionSeven2410Quincy_en.ogg)
+- Quincy: "Peak-a-boo." [音声](https://wiki.warframe.com/w/File:DMissionSeven2420Quincy_en.ogg)
+- Arthur: "Show off. Better make a move, though. They'll get on you." [音声](https://wiki.warframe.com/w/File:DMissionSeven2430Arthur_en.ogg)
+- Quincy: "I'm seeing this through." [音声](https://wiki.warframe.com/w/File:DMissionSeven2440Quincy_en.ogg)
+- Quincy: "Go! I got this." [音声](https://wiki.warframe.com/w/File:DMissionSeven2450Quincy_en.ogg)
+- Quincy: "See ya soon, momma." [音声](https://wiki.warframe.com/w/File:DCutQuincysEnd2460Quincy_en.ogg)
+- REACTOR CONTROL ROOM END OF THE ROAD, KIDDO
+- Amir: "Don't have time for this!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2470Amir_en.ogg)
+- Arthur: "Tell me you got this." [音声](https://wiki.warframe.com/w/File:DMissionSeven2480Arthur_en.ogg)
+- Amir: "I can only type so fast!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2490Amir_en.ogg)
+- Aoi: "Uh. Is that supposed to happen?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2500Aoi_en.ogg)
+- Arthur: "Amir?! Aoi, can you do something?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2510Arthur_en.ogg)
+- Aoi: "What do you want me to do?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2520Aoi_en.ogg)
+- Arthur: "I dunno, hold them in!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2540Arthur_en.ogg)
+- Arthur: "Aoi! Stop!" [音声](https://wiki.warframe.com/w/File:DCineCore2550Arthur_en.ogg)
+- Aoi: "Arthur! I can't! I can't! Arthur! Ar-!" [音声](https://wiki.warframe.com/w/File:DCineCore2560Aoi_en.ogg)
+- Amir: "I was... Too. Slow." [音声](https://wiki.warframe.com/w/File:DCineWeFall2590Amir_en.ogg)
+- Albrecht Entrati: "He's ash in seconds. No need for misery. Come. Now." [音声](https://wiki.warframe.com/w/File:DCineWeFall2600Albrecht_en.ogg)
+- Albrecht Entrati: "Murmur expelled. Tau is in sight. They've given their lives for this. Make it count." [音声](https://wiki.warframe.com/w/File:DCineWeFall2610Albrecht_en.ogg)
+- Arthur: "Just... go." [音声](https://wiki.warframe.com/w/File:DCineWeFall2620Arthur_en.ogg)
+- Drifter: "No. I can save them." [音声](https://wiki.warframe.com/w/File:DCineWeFall2630AdultOpA_en.ogg)
+- Albrecht Entrati: "Not unless you know them." [音声](https://wiki.warframe.com/w/File:DCineWeFall2640Albrecht_en.ogg)
+- Drifter: "(Grunts)" [音声](https://wiki.warframe.com/w/File:DCineWeFall2631AdultOpA_en.ogg)
+
+## Conclusion
+
+- “The triumph of the Indifference falls in snow and ash as the shattered corpses of The Hex lie in the midwinter cold.
+- Only the Drifter's spirit refuses to accept that the story is over. Somehow, the Hex are the key. But once the circle has been broken, what can heal it again?”
+- “What happened?
+- Drifter,
+- I can make no sense at all of these readings. Your site of temporal injection has somehow shifted. Your loop now encompasses the entire year of 1999.
+- Albrecht's interference is to blame, no doubt. What does he feel you need more time to achieve? He surely must have given guidance, however cryptic!
+- I can offer one service, at least. I discovered a clandestine blueprint among Albrecht's personal effects, for a Warframe so secret it was never named. It is yours.
+- Loid”
+- (Attachments: Cyte-09 Blueprint, Magnetic Might, Forma)
+- “A Missive From His Majesty DOMINUS THRAX
+- To the erstwhile traitor and conspirator known by the alias 'Drifter':
+- That profane monstrosity of which the Scholar spoke has sought to claim our throne. It wears a face and puppets a body that knows you.
+- We have confined it in the Apocrypha, the realm of Untold Stories, but you now have a duty to keep it there.
+- If it gains sufficient power, its story will supplant ours!
+- Seek its heretical tale, 'The Triumph of Dust'. Sever it from the true tales of Duviri.
+- His Radiant and Eternal Majesty,
+- DOMINUS THRAX [音声](https://wiki.warframe.com/w/File:DQuestStartInbox0030DomThrax_en.ogg)
+- ”
+
+## Finale
+
+- “Strengthen your connection to the Hex members before revisiting the New Year's Eve disaster.”
+- The Hex: "We're not gonna make it man! I don't... have... time. Maybe, we cut our losses like we should have done weeks ago. What's he talking about, Marty? I told you this was a set-up!. I can't! I can't! I can't!" [音声](https://wiki.warframe.com/w/File:DNYEReprise2651Various_en.ogg)
+- Indifference: "Eleanor is the first to die." [音声](https://wiki.warframe.com/w/File:DNYEReprise2650VoidRusalka_en.ogg)
+- Eleanor: "Shoot us in the back-" [音声](https://wiki.warframe.com/w/File:DNYEReprise2660Eleanor_en.ogg)
+- Lettie: "Eleanor? You still okay?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2260Lettie_en.ogg)
+- Eleanor: "We are fine." [音声](https://wiki.warframe.com/w/File:DMissionSeven2270Eleanor_en.ogg)
+- Viktor: "What's going on down there. Eight-squad? Eight-squad report! Get Efervon units down there now!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2280Viktor_en.ogg)
+- Eleanor: "Children! NO!!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2290Eleanor_en.ogg)
+- Lettie: "Eleanor, hold here. I'll clear the gas." [音声](https://wiki.warframe.com/w/File:DMissionSeven2300Lettie_en.ogg)
+- Lettie: "Eleanor!" [音声](https://wiki.warframe.com/w/File:DCineQueen2310Lettie_en.ogg)
+- Eleanor: "Shoot us in the back, Lettie?" [音声](https://wiki.warframe.com/w/File:DCineQueen2320Eleanor_en.ogg)
+- Lettie: "Making sure that you are still... you." [音声](https://wiki.warframe.com/w/File:DCineQueen2330Lettie_en.ogg)
+- Eleanor: "Of course, we are." [音声](https://wiki.warframe.com/w/File:DCineQueen2340Eleanor_en.ogg)
+- Eleanor: "And you can be, too." [音声](https://wiki.warframe.com/w/File:DCineQueen2341Eleanor_en.ogg)
+- Drifter: "Eleanor, only here to help. It's up to you." [音声](https://wiki.warframe.com/w/File:DCineQueenAlt2680AdultOpA_en.ogg)
+- Lettie: "Eleanor... Eleanor!" [音声](https://wiki.warframe.com/w/File:DCineQueenAlt2690Lettie_en.ogg)
+- Eleanor: "I'm here." [音声](https://wiki.warframe.com/w/File:DCineQueenAlt2700Eleanor_en.ogg)
+- Indifference: "And I thought we were becoming friends." [音声](https://wiki.warframe.com/w/File:DNYEReprise2710VoidRusalka_en.ogg)
+- Scaldra Eradicator: "Sir, the sub-floors have been breached. Requesting backup!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2350ScaldTrooperC_en.ogg)
+- Viktor: "No! This is what they want. Hold!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2360Viktor_en.ogg)
+- Arthur: "What the hell? Wait... Quincy?!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2380Arthur_en.ogg)
+- Quincy: "You are proper shit at directions, Arthur. Heads down while I do my job, arright mate?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2390Quincy_en.ogg)
+- Quincy: "Pop." [音声](https://wiki.warframe.com/w/File:DMissionSeven2400Quincy_en.ogg)
+- Quincy: "Got ya." [音声](https://wiki.warframe.com/w/File:DMissionSeven2410Quincy_en.ogg)
+- Quincy: "Peak-a-boo." [音声](https://wiki.warframe.com/w/File:DMissionSeven2420Quincy_en.ogg)
+- Arthur: "Show off. Better make a move, though. They'll get on you." [音声](https://wiki.warframe.com/w/File:DMissionSeven2430Arthur_en.ogg)
+- Quincy: "I'm seeing this through." [音声](https://wiki.warframe.com/w/File:DMissionSeven2440Quincy_en.ogg)
+- Quincy: "Go! I got this." [音声](https://wiki.warframe.com/w/File:DMissionSeven2450Quincy_en.ogg)
+- Drifter: "See?" [音声](https://wiki.warframe.com/w/File:DNYEReprise2730AdultOpA_en.ogg)
+- Quincy: "Yeah. Yeah, I do." [音声](https://wiki.warframe.com/w/File:DNYEReprise2740Quincy_en.ogg)
+- Quincy: "Not today, momma. Area secure. Godspeed, Amir!" [音声](https://wiki.warframe.com/w/File:DCutGotThis2750Quincy_en.ogg)
+- Indifference: "Did you forget? Albrecht's going to burn them all anyway!" [音声](https://wiki.warframe.com/w/File:DBackZariman2760VoidRusalka_en.ogg)
+- Arthur: "Tell me you got this." [音声](https://wiki.warframe.com/w/File:DMissionSeven2480Arthur_en.ogg)
+- Amir: "I can only type so fast!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2490Amir_en.ogg)
+- Aoi: "Uh. Is that supposed to happen?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2500Aoi_en.ogg)
+- Arthur: "Amir?! Aoi, can you do something?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2510Arthur_en.ogg)
+- Aoi: "What do you want me to do?" [音声](https://wiki.warframe.com/w/File:DMissionSeven2520Aoi_en.ogg)
+- Arthur: "I dunno, hold them in!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2540Arthur_en.ogg)
+- Arthur: "Aoi! Stop!" [音声](https://wiki.warframe.com/w/File:DCineCore2550Arthur_en.ogg)
+- Aoi: "Arthur! I can't! I can't! Arthur! Ar-!" [音声](https://wiki.warframe.com/w/File:DCineCore2560Aoi_en.ogg)
+- Drifter: "You can. You're strong enough." [音声](https://wiki.warframe.com/w/File:DCineCoreReprise2780AdultOpA_en.ogg)
+- Aoi: "Oh. Oh!" [音声](https://wiki.warframe.com/w/File:DCineCoreReprise2790Aoi_en.ogg)
+- Indifference: "None of this matters." [音声](https://wiki.warframe.com/w/File:DAoiLives2800VoidRusalka_en.ogg)
+- Drifter: "Then why are you trying so hard to stop me?" [音声](https://wiki.warframe.com/w/File:DAoiLives2810AdultOpA_en.ogg)
+- Amir: "We're not gonna make it man. I can't even compile in time-" [音声](https://wiki.warframe.com/w/File:DWeFallAlt2820Amir_en.ogg)
+- Arthur: "-Then we go down swinging!" [音声](https://wiki.warframe.com/w/File:DWeFallAlt2830Arthur_en.ogg)
+- Amir: "Not now. Not now." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2840Amir_en.ogg)
+- Drifter: "Amir, slow it down." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2850AdultOpA_en.ogg)
+- Amir: "I don't... have... time." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2860Amir_en.ogg)
+- Drifter: "(Deep breath)" [音声](https://wiki.warframe.com/w/File:DWeFallAlt2870AdultOpA_en.ogg)
+- Amir: "(Deep breath)" [音声](https://wiki.warframe.com/w/File:DWeFallAlt2890Amir_en.ogg)
+- Drifter: "Hold out your hand." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2900AdultOpA_en.ogg)
+- Arthur: "Just... go. Mmm... dnnne." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2910Arthur_en.ogg)
+- Arthur: "Entrati..." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2920Arthur_en.ogg)
+- Drifter: "Bailed." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2930AdultOpA_en.ogg)
+- Arthur: "Sorry... mbout yur hnnd." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2940Arthur_en.ogg)
+- Arthur: "Wha- are you-? Wait. nooo." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2950Arthur_en.ogg)
+- Drifter: "Hey, let's get out of here, Arthur. Both of us. Okay?" [音声](https://wiki.warframe.com/w/File:DWeFallAlt2960AdultOpA_en.ogg)
+- Arthur: "Okay." [音声](https://wiki.warframe.com/w/File:DWeFallAlt2970Arthur_en.ogg)
+- Albrecht Entrati: "Your heart would struggle to move them. It had to grow..." [音声](https://wiki.warframe.com/w/File:DReactor2980Albrecht_en.ogg)
+- Albrecht Entrati: "...the only way it ever does..." [音声](https://wiki.warframe.com/w/File:DReactor2990Albrecht_en.ogg)
+- Albrecht Entrati: "...with others. Carry this power with mercy, Tenno." [音声](https://wiki.warframe.com/w/File:DReactor3000Albrecht_en.ogg)
+- The Hex: "(Laughter)" [音声](https://wiki.warframe.com/w/File:DReactor3010Various_en.ogg)
+- Arthur:: "What a day." [音声](https://wiki.warframe.com/w/File:DReactor3020Arthur_en.ogg)
+- Amir: "Well that burned a few calories!" [音声](https://wiki.warframe.com/w/File:DReactor3030Amir_en.ogg)
+- Quincy: "Man ain't nothin' without his mains. Respec'. [音声](https://wiki.warframe.com/w/File:DReactor3040Quincy_en.ogg)
+- Aoi: "Right here by your side. Now and always." [音声](https://wiki.warframe.com/w/File:DReactor3050Aoi_en.ogg)
+- Eleanor: "I'm not afraid to die... but I'm glad I didn't." [音声](https://wiki.warframe.com/w/File:DReactor3060Eleanor_en.ogg)
+- Lettie: "Hey! After this we go for dinner." [音声](https://wiki.warframe.com/w/File:DReactor3070Lettie_en.ogg)
+- THE SEQUENCE IS COMPLETE
+- “The Hex are united and the reactor is safe. History now follows a new course.”
+- “Hard to believe
+- Drifter,
+- Albrecht's gone. Rusalka too. I can't believe how close we came to oblivion. You showed us what we were missing. For that... thank you.
+- You still need to keep the loop going, though, don't you? Because it's not enough to put things right, is it. We need to keep them right.
+- Soldiers against the tide. Now and forever.
+- Arthur”
+- (Attachments: The Hex Noggle Collection)
+
+## Unsorted
+
+- Eleanor: "Vines feeding it. Maybe I can trace them back?" [音声](https://wiki.warframe.com/w/File:DMissionFive1900Eleanor_en.ogg)
+- Legacyte: "NO... LEAVE..." [音声](https://wiki.warframe.com/w/File:DMissionFive1910ApePrelate_en.ogg)
+- Drifter: "Maybe I won't." [音声](https://wiki.warframe.com/w/File:DMissionSix1990AdultOpA_en.ogg)
+- Arthur: "We're gonna have to risk it!" [音声](https://wiki.warframe.com/w/File:DMissionSeven2370Arthur_en.ogg)
+- Amir: "We're not gonna make it man. I can't even compile in time-" [音声](https://wiki.warframe.com/w/File:DMissionSeven2570Amir_en.ogg)
+- Arthur: "-Then we go down swinging." [音声](https://wiki.warframe.com/w/File:DMissionSeven2580Arthur_en.ogg)
+
+## TennoCon 2024 Gameplay Demo
+
+- (Note: Audio has been provided where available for lines that are different to their state in the quest as released.)
+- TV Announcer: "It's December 31st, 1999. Let's SAY GOODBYE to the OLD YEAR with a track you all know and love from GLOBAL sensation On-Lyne!"
+- ARTHUR NIGHTINGALE ROLE: SQUAD LEADER BATCH: 'EXCALIBUR'
+- Arthur: "Not again!"
+- UNDR MIRAS AVE 10 MIN DNT B L8
+- Arthur: "Bastard."
+- Amir: "I'm on break, Arthur. Don't mess with my gametime."
+- Arthur: "Need my Tommy keys, Amir. I'm not letting another lead on Entrati go to waste."
+- AMIR BECKETT ROLE: TECHNICIAN BATCH: 'VOLT'
+- Amir: "(Grunts) That, that was cheating."
+- Ollie: "Over here! You! Yea, you. My moves are so hot they have their own fans!"
+- Ollie: "You can't handle the heat!"
+- Arthur: "Sol help us if these arcade games wind up Infested." [音声](https://wiki.warframe.com/w/File:DMall0061Arthur_en.ogg)
+- Arthur: "My keys better not be in that mess."
+- Aoi: "Learn to hotwire, geez!"
+- AOI MOROHOSHI ROLE: LOGISTICS BATCH: 'MAG'
+- Arthur: "Did you take my damn keys?"
+- Quincy: "Don't distract me, boyscout."
+- QUINCY ISAACS ROLE: MARKSMAN BATCH: 'CYTE-09'
+- Arthur: "No disrespect, Quincy. Got places to be, is all."
+- Arthur: "Someone is taking my stuff."
+- Arthur: "How's she doing?"
+- Lettie: "If she wasn't your blood, she'd be on her own out there."
+- LETICIA GARCIA ROLE: MEDIC BATCH: 'TRINITY'
+- Arthur: "Got a lead on Entrati. Sewers. Arse deep in Techrot, most likely. I'm going after him, for all our sakes. Lettie, look, if you've taken my keys again..."
+- ELEANOR NIGHTINGGALE ROLE: PSYCH-OPS BATCH: 'NYX'
+- Arthur: "Nah. I'm not going to let this slide that easily..." [音声](https://wiki.warframe.com/w/File:DMall0141Arthur_en.ogg)
+- **KIM Interface**
+- Lettie / We're almost out of gauze.
+- Amir / i fixed the alternator on your...
+- Aoi / heyheyhey! ;D u rdy to go?
+- Quincy / ya sis b givin pagan vibes s...
+- **Lettie's Profile Notes**
+- Her rats love peanut butter.
+- Thank you gifts = broken nose.
+- **Arthur's KIM Chat with Lettie**
+- Lettie: We're almost out of gauze.
+- Your job is to watch her. How is she still stealing my shit?
+- Focus on the patients and not on your pet rats, Lettie.
+- I owe you one less favor, now.
+- Quincy: "Hold up, hero boy. You're going after Doctor E all by yourself?"
+- Aoi: "Yeah, you're not going out without backup, Arthur. Forget it." [音声](https://wiki.warframe.com/w/File:DMall0160Aoi_en.ogg)
+- Lettie: "Yeah, betcha didn't even pack a medkit?" [音声](https://wiki.warframe.com/w/File:DMall0170Lettie_en.ogg)
+- Amir: "I'm coming too. Guys? It won't be like last time, I promise." [音声](https://wiki.warframe.com/w/File:DMall0180Jabir_en.ogg)
+- Arthur: "Okay. Plan A it is. I'll take point, make the rendezvous solo. Aoi, Amir, Quincy on backup. Lettie, you and Eleanor hold the fort here, keep the gennies running."
+- Arthur: "Saddle up. Let's ride the Devil down."
+- Major Neci Rusalka: "A slug dares to show its face at night?" [音声](https://wiki.warframe.com/w/File:DStreets0210Rusalka_en.ogg)
+- MAJOR NECI RUSALKA ROLE: SCALDRA COMMANDER ARMAMENT: EFERVON HARNESS
+- Major Neci Rusalka: "Didn't the bastard Doktor warn you?"
+- Major Neci Rusalka: "I've an order:"
+- Major Neci Rusalka: "Kill. On. Sight."
+- Major Neci Rusalka: "Pity. We could have been allies. My Scaldra: put that thing down!"
+- Lettie: "Watch that Efervon! Shit's corrosive. Some scars I can't heal, you read me?" [音声](https://wiki.warframe.com/w/File:DMall0235Lettie_en.ogg)
+- Quincy: "Iced 'em. Too slow, Arthur."
+- Arthur: "I had it under control."
+- Major Neci Rusalka: "Have it your way. By this time next year, nothing will remain of you slugs."
+- Major Neci Rusalka: "Meet the co-star of your grand finale. An H-04 Efervon Tank. Enjoy."
+- Arthur: "Requesting assistance!"
+- Quincy: "The vents above the treads!"
+- Major Neci Rusalka: "Viktor? Drop them in. NOW."
+- Quincy: "Found a hole in its shield, Arthur!"
+- Arthur: "Thanks, Quincy."
+- Arthur: (laughs) "Don't mind if I do." [音声](https://wiki.warframe.com/w/File:DStreets0237Arthur_en.ogg)
+- Eleanor: "Wake up, brother. He comes. A crownless king, clad in gold. A pallid beast licking his hands."
+- Aoi: "Arthur! What the hell was that? Where are you? Come in!"
+- Arthur: "He's here. Deep in the Techrot. I'm going after him."
+- Amir: "Arthur! You're right by a security terminal - hmmm. I'd bet my butt it's got a Coda worm injector. You wanna risk it to control some Techrot?" [音声](https://wiki.warframe.com/w/File:DStreets0261Jabir_en.ogg)
+- Arthur: "Welll... let's find out, then. Needs must, and all that." [音声](https://wiki.warframe.com/w/File:DStreets0262Arthur_en.ogg)
+- Arthur: "What in hell..."
+- Arthur: "Entrati! What devils follow you?"
+- Arthur: "Bring the hellfire!"
+- YEARS LATER, IN THE ORIGIN SYSTEM CENTURIES LATER, IN THE ORIGIN SYSTEM MILLENIA LATER, IN THE ORIGIN SYSTEM ????????? LATER, IN THE ORIGIN SYSTEM LATER, IN THE ORIGIN SYSTEM
+- Cephalon Cy: "Tenno: welcome back. What took you so long."
+- Cephalon Cy: "Infested music: detected. Our instruments are jammed. Theirs will not shut up. Kill the towers."
+- Zeke: "Please, keep showing us your support."
+- Cephalon Cy: "Sonic overload increasing. Destroy the remaining speaker."
+- Zeke: "If management gives us one more passive aggressive smile, I'm gonna snap!"
+- Cephalon Cy: "Beat drop. Archwing cannon online. Rush the stage."
+- Cephalon Cy: "Slingshot: locked and loaded."
+- Arthur (Gemini Skin): "Let me take care of this."
+- Zeke: "I've got one question for you: are you having a good time?"
+- Zeke: "For Sol's sake, don't take this out on me!"
+- WARFRAME: 1999 COMING WINTER 2024 DON'T BE LATE

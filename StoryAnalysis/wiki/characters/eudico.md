@@ -15,6 +15,7 @@ Solaris United のリーダー。Nef Anyo の「忠実な」フロアボス
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Eudico/Quotes](../../quotes/eudico.md)（130 行、うち独り言など 5 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Eudico)（英語・出典） / [全文検索](../../search.html?q=Eudico)
 

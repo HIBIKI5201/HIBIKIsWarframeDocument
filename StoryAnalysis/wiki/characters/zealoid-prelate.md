@@ -14,6 +14,7 @@ Nightwave: Series 2 で登場した Infested のボス
 
 - グループ: [Infested](g05-infested.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Zealoid Prelate/Quotes](../../quotes/zealoid-prelate.md)（26 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Zealoid_Prelate)（英語・出典） / [全文検索](../../search.html?q=Zealoid%20Prelate)
 

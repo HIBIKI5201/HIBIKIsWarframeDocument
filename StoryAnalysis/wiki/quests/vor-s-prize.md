@@ -12,6 +12,8 @@ WARFRAME の 2 番目のメインクエスト。目覚めの直後に始まり�
 
 > 「数世紀の眠りから、あなたは目覚めた。Warframe の装甲は弱く、技はほとんど忘れ去られている。Grineer の将軍 Vor があなたを見下ろす。『お前は俺のものだ、Tenno！』」（クエスト説明）
 
+- 台詞全文（取り込み）: [Vor's Prize/Transcript](../../quotes/vor-s-prize-transcript.md)（167 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Vor's_Prize)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Vor's_Prize/Transcript) / [日本語 Wiki「Vorの秘宝」](https://warframe.fandom.com/ja/wiki/VOR%E3%81%AE%E7%A7%98%E5%AE%9D) / [日本語 Wiki の取り込み](../../fandom-ja/pages/vor-s-prize.md) / [全文検索](../../search.html?q=Vor%27s%20Prize)
 
 ## 基本情報

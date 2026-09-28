@@ -10,6 +10,8 @@
 
 音楽に興味を持った Cephalon Suda の頼みで Mandachord を作るが、Suda に異常な不具合が起き始めるサイドクエスト。ソロ専用で、Update 20.0（2017-03-24）で追加された。前日譚の Web コミック「What Remains」が公式サイトで公開されている。
 
+- 台詞全文（取り込み）: [Octavia's Anthem/Transcript](../../quotes/octavia-s-anthem-transcript.md)（159 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Octavia's_Anthem)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Octavia's_Anthem/Transcript) / [日本語 Wiki「OCTAVIAの賛美歌」](https://warframe.fandom.com/ja/wiki/OCTAVIA%E3%81%AE%E8%B3%9B%E7%BE%8E%E6%AD%8C) / [日本語 Wiki の取り込み](../../fandom-ja/pages/octavia-s-anthem.md) / [全文検索](../../search.html?q=Octavia%27s%20Anthem)
 
 ## 基本情報

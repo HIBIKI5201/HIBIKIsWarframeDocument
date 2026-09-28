@@ -15,6 +15,7 @@ Infested に侵された Alad V
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Mutalist Alad V/Quotes](../../quotes/mutalist-alad-v.md)（36 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Mutalist_Alad_V)（英語・出典） / [全文検索](../../search.html?q=Mutalist%20Alad%20V)
 

@@ -14,6 +14,7 @@ Solaris の借金返済を仲介
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Ticker/Quotes](../../quotes/ticker.md)（163 行、うち独り言など 21 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Ticker)（英語・出典） / [全文検索](../../search.html?q=Ticker)
 

@@ -1,0 +1,17 @@
+{
+ "key": "granum-void",
+ "title": "Granum Void/Quotes",
+ "url": "https://wiki.warframe.com/w/Granum_Void/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 28,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue spoken while in the Granum Void.", null]]},
+  {"path": ["Using Crown on Golden Hand Tribute"], "idle": false, "lines": [["- Lotus: \"A Granum Void gateway has been opened. It won't last long. Move.\"", null], ["- Lotus: \"Void disturbance. Tenno forces need backup within Granum's Void. Gateway collapse imminent.\"", null], ["- Lotus: \"An expedition to Granum's Void has been initiated. Seconds away until gateway collapse, hurry.\"", null], ["- Lotus: \"A gateway to Granum's Void has opened. Hurry, before it closes.\"", null], ["- Lotus: \"Void rift detected, Granum's realm. It is already closing. If you want in, get moving.\"", null]]},
+  {"path": ["Entering Granum Void"], "idle": false, "lines": [["- Lotus: \"Ready your Xoris if it's equipped. Specter particle spillover imminent. Thin the specters and save any Solaris you can.\"", null], ["- Lotus: \"Free stranded Solaris with the Xoris and destroy Parvos' specters. You don't have long.\"", null]]},
+  {"path": ["Solaris Prisoners"], "idle": false, "lines": [["**On freeing them**", null], ["- Female Solaris Prisoner 1: \"...got me mixed up with someone...! Wait a minute.\"", "BbFreeVdPurgSDFemCaptOne00840_en.ogg"], ["- Female Solaris Prisoner 1: \"Uuugh. Finally. And with that...\"", "BbFreeVdPurgSDFemCaptOne00850_en.ogg"], ["- Female Solaris Prisoner 1: \"I am in your debt. Now, let's... oh what now?\"", "BbFreeVdPurgSDFemCaptOne00860_en.ogg"], ["- Male Solaris Prisoner 2: \"AAAH! AAAH!\"", "BbFreeVdPurgSDMaleCaptTwo00400_en.ogg"], ["- Male Solaris Prisoner 2: \"... wait, wait, wait, wait! Wait.\"", "BbFreeVdPurgSDMaleCaptTwo00410_en.ogg"], ["- Male Solaris Prisoner 2: \"Agh, thank the Void! You're the best, Tenno! THE BEST!\"", "BbFreeVdPurgSDMaleCaptTwo00420_en.ogg"], ["- Male Solaris Prisoner 3: \"Thanks. Time for me t'go.\"", "BbFreeVdPurgSDMaleCaptThree01320_en.ogg"], ["- Male Solaris Prisoner 3: \"I'm gonna kill all a ya fridge-faced...! Wait a minute.\"", "BbFreeVdPurgSDMaleCaptThree01330_en.ogg"], ["- Male Solaris Prisoner 3: \"Right. Let's crack some... hang about...\"", "BbFreeVdPurgSDMaleCaptThree01340_en.ogg"]]},
+  {"path": ["Completing Challenge"], "idle": false, "lines": [["- Lotus: \"Specter particle count is below critical. Good work.\"", null], ["- Lotus: \"Crisis averted. Prepare to disentangle from the Granum Void.\"", null], ["- Lotus: \"They will multiply again, but for now the situation is under control. Come on home.\"", null], ["- Lotus: \"That's enough, particle count dropping sharply on our side. Pulling you back.\"", null], ["- Lotus: \"Particle reads have falling off a cliff. Good work. Prepare to disentangle.\"", null]]},
+  {"path": ["Failing Challenge"], "idle": false, "lines": [["- Lotus: \"Origin side particle count has dropped, but not enough. I will assign a second team.\"", null], ["- Lotus: \"You're disentangling but our target hasn't been hit. Particle count still critical, we can't let up.\"", null], ["- Lotus: \"There's still too many specters, they are pushing through. I'll alert nearby teams.\"", null], ["- Lotus: \"It's not enough, we have to go back.\"", null], ["- Lotus: \"Not enough, get clear. Another team may be able to clamp a lid on this.\"", null]]}
+ ]
+}

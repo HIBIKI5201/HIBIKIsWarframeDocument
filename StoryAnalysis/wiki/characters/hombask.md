@@ -14,6 +14,7 @@ Holdfasts の Dormizone 商人。元 Zariman の農夫
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Hombask/Quotes](../../quotes/hombask.md)（75 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Hombask)（英語・出典） / [全文検索](../../search.html?q=Hombask)
 

@@ -1,0 +1,13 @@
+{
+ "key": "invasion",
+ "title": "Invasion/Quotes",
+ "url": "https://wiki.warframe.com/w/Invasion/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 14,
+ "idle": 0,
+ "sections": [
+  {"path": ["On Orbiter"], "idle": false, "lines": [["**New invasion**", null], ["- Lotus: \"The System continues to fall into chaos. Check navigation for active invasions.\"", "DInvasionUpdate290Lotus_en.ogg"], ["- Lotus: \"Tenno, the balance of power continues to shift. Navigation is marked with new invasions.\"", "DInvasionUpdate300Lotus_en.ogg"], ["- Lotus: \"Navigation has been updated with new invasions. Chaos is spreading.\"", "DInvasionUpdate310Lotus_en.ogg"]]},
+  {"path": ["Infestation Outbreak"], "idle": false, "lines": [["**Introduction**", null], ["- Lotus: \"Wipe out this Infestation.\"", "DInfExtMissionObj010Lotus_en.ogg"], ["- Lotus: \"Nobody deserves the Infestation. Clear it from this node.\"", "DInfExtMissionObj020Lotus_en.ogg"], ["- Lotus: \"Eliminate all Infested threats.\"", "DInfExtMissionObj030Lotus_en.ogg"], ["**During mission**", null], ["- Lotus: \"We must destroy this Infestation before the monsters become entrenched.\"", "DInfExtGoalReinforce040Lotus_en.ogg"], ["- Lotus: \"Containment has become impossible. We must destroy this Infestation node by node.\"", "DInfExtGoalReinforce050Lotus_en.ogg"], ["- Lotus: \"The Infestation is a threat to all life. We have to wipe it out, even if it means working with other factions.\"", "DInfExtGoalReinforce060Lotus_en.ogg"], ["- Lotus: \"Being turned by the Infested is a fate worse than death. Even our enemies don't deserve this.\"", "DInfExtGoalReinforce070Lotus_en.ogg"], ["- Lotus: \"The Infestation cannot be allowed to spread.\"", "DInfExtGoalReinforce080Lotus_en.ogg"]]}
+ ]
+}

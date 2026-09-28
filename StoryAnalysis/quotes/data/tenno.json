@@ -1,0 +1,12 @@
+{
+ "key": "tenno",
+ "title": "Tenno/Quotes",
+ "url": "https://wiki.warframe.com/w/Tenno/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 1,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue spoken by the main character(s):", null]]}
+ ]
+}

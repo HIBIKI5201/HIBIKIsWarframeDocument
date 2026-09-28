@@ -10,6 +10,8 @@ Old War の休戦期、Tau 星系での Orokin・Sentient・Tenno の関係が�
 
 Tau 星系へ逃れた Albrecht Entrati の足取りを追うため、オペレーターが忘れていた Tau の記憶に潜るメインクエスト。Update 41.0（2025-12-10）で追加された。
 
+- 台詞全文（取り込み）: [The Old Peace/Transcript](../../quotes/the-old-peace-transcript.md)（452 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Old_Peace)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Old_Peace/Transcript) / [全文検索](../../search.html?q=The%20Old%20Peace)
 
 ## 基本情報

@@ -15,6 +15,11 @@ Parvos に仕える Corpus の宿敵
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Sisters of Parvos/Quotes/LichA](../../quotes/sisters-of-parvos-licha.md)（157 行）
+- セリフ集: [Sisters of Parvos/Quotes/LichB](../../quotes/sisters-of-parvos-lichb.md)（155 行）
+- セリフ集: [Sisters of Parvos/Quotes/LichC](../../quotes/sisters-of-parvos-lichc.md)（155 行）
+- セリフ集: [Sisters of Parvos/Quotes/LichD](../../quotes/sisters-of-parvos-lichd.md)（154 行）
+- セリフ集: [Sisters of Parvos/Quotes](../../quotes/sisters-of-parvos.md)（81 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Sisters_of_Parvos)（英語・出典） / [全文検索](../../search.html?q=Sisters%20of%20Parvos)
 

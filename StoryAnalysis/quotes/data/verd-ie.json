@@ -1,0 +1,16 @@
+{
+ "key": "verd-ie",
+ "title": "VERD-IE/Quotes",
+ "url": "https://wiki.warframe.com/w/VERD-IE/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "verd-ie",
+  "name": "VERD-IE",
+  "page": "VERD-IE"
+ },
+ "count": 11,
+ "idle": 0,
+ "sections": [
+  {"path": ["Vocalizations"], "idle": false, "lines": [["- VERDE-IE: \"\"", "ZarimanGardenDroneVocalC.ogg"], ["- VERDE-IE: \"Do du do du do!\"", "ZarimanGardenDroneVocalD.ogg"], ["- VERDE-IE: \"Be she di di du di!\"", "ZarimanGardenDroneVocalE.ogg"], ["- VERDE-IE: \"\"", "ZarimanGardenDroneVocalF.ogg"], ["- VERDE-IE: \"Dee di doo!\"", "ZarimanGardenDroneVocalG.ogg"], ["- VERDE-IE: \"Di- di di!\"", "ZarimanGardenDroneVocalH.ogg"], ["- VERDE-IE: \"Beep beep beep beep", "ZarimanGardenDroneVocalI.ogg"], ["- VERDE-IE: \"\"", "ZarimanGardenDroneVocalJ.ogg"], ["- VERDE-IE: \"\"", "ZarimanGardenDroneVocalK.ogg"], ["- VERDE-IE: \"\"", "ZarimanGardenDroneVocalA.ogg"], ["- VERDE-IE: \"(trumpet sound)\"", "ZarimanGardenDroneVocalB.ogg"]]}
+ ]
+}

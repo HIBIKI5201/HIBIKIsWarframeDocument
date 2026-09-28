@@ -15,6 +15,7 @@
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Master Teasonai/Quotes](../../quotes/master-teasonai.md)（168 行、うち独り言など 3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Master_Teasonai)（英語・出典） / [全文検索](../../search.html?q=Master%20Teasonai)
 

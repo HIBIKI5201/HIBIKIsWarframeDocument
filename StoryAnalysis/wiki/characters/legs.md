@@ -14,6 +14,7 @@ MOA の部品屋
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Legs/Quotes](../../quotes/legs.md)（91 行、うち独り言など 4 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Legs)（英語・出典） / [全文検索](../../search.html?q=Legs)
 

@@ -10,6 +10,8 @@ Fortuna の Ventkids と Yareli の伝説に触れる
 
 悲劇に見舞われた Ventkids が、失われた物語に希望を求めるサイドクエスト。ソロ専用で、Update 30.5（2021-07-06）で追加された。K ドライブの元祖で Ventkids の憧れである Warframe、Yareli が主人公のコミック「Graphica」を解き明かす。
 
+- 台詞全文（取り込み）: [The Waverider/Transcript](../../quotes/the-waverider-transcript.md)（95 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Waverider)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Waverider/Transcript) / [全文検索](../../search.html?q=The%20Waverider)
 
 ## 基本情報

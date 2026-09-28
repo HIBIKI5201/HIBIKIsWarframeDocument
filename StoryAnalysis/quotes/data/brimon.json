@@ -1,0 +1,24 @@
+{
+ "key": "brimon",
+ "title": "Brimon/Quotes",
+ "url": "https://wiki.warframe.com/w/Brimon/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "brimon",
+  "name": "Brimon",
+  "page": "Brimon"
+ },
+ "count": 31,
+ "idle": 7,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue spoken by Brimon.", null]]},
+  {"path": ["Idle"], "idle": true, "lines": [["- Brimon: \"My best course yet, my best time yet. Neither Dax nor Demon can beat me.\"", "DRaceIdleBark0010Brimon_en.ogg"], ["- Brimon: \"Mathila says I'm both handsome and swift. Is it true? It's not for me to say.\"", "DRaceIdleBark0020Brimon_en.ogg"], ["- Brimon: \"I'm pretty handy with a blade myself. Makes the Dax jealous.\"", "DRaceIdleBark0030Brimon_en.ogg"], ["- Brimon: \"You handle a Kaithe like you've done it countless times before. Reminds me of myself.\"", "DRaceIdleBark0040Brimon_en.ogg"], ["- Brimon: \"Bombastine tried racing me once. He didn't try again.\"", "DRaceIdleBark0050Brimon_en.ogg"], ["- Brimon: \"You umm... ever wonder why Mathila's so... happy?\"", "DRaceIdleBark0060Brimon_en.ogg"], ["- Brimon: \"This is my favorite course. But there's no shame in you finding it too challenging.\"", "DRaceIdleBark0070Brimon_en.ogg"]]},
+  {"path": ["Kaithe Race", "Request"], "idle": false, "lines": [["- Brimon: \"I say you fancy yourself a rider? Haha, a wager, then! You impress me, and I'll help you out. What do you say?\"", "DRaceRequestHelp0080Brimon_en.ogg"], ["- Brimon: \"Beat the best, or wallow with the rest. Care for a race, Drifter?\"", "DRaceRequestHelp0090Brimon_en.ogg"], ["- Brimon: \"Name's Brimon, fastest Kaithe rider in the kingdom. If you think you're faster... prove it.\"", "DRaceRequestHelp0100Brimon_en.ogg"]]},
+  {"path": ["Kaithe Race", "Request Accepted"], "idle": false, "lines": [["- Brimon: \"We have a challenger.\"", "DRaceAcceptRequest0110Brimon_en.ogg"], ["- Brimon: \"Beat my time? That's rich! Love it.\"", "DRaceAcceptRequest0120Brimon_en.ogg"], ["- Brimon: \"Careful now. Don't hurt yourself.\"", "DRaceAcceptRequest0130Brimon_en.ogg"]]},
+  {"path": ["Kaithe Race", "Request Rejected"], "idle": false, "lines": [["- Brimon: \"I get it. Why race when you know you can't win?\"", "DRaceRejectRequest0140Brimon_en.ogg"], ["- Brimon: \"Probably for the best.\"", "DRaceRejectRequest0150Brimon_en.ogg"], ["- Brimon: \"It's lonely at the top.\"", "DRaceRejectRequest0160Brimon_en.ogg"]]},
+  {"path": ["Kaithe Race", "Start"], "idle": false, "lines": [["- Brimon: \"Ho! And they're off!\"", "DRaceStart0170Brimon_en.ogg"], ["- Brimon: \"Let's see it!\"", "DRaceStart0180Brimon_en.ogg"], ["- Brimon: \"Best of luck! You'll need it!\"", "DRaceStart0190Brimon_en.ogg"]]},
+  {"path": ["Kaithe Race", "Midway"], "idle": false, "lines": [["- Brimon: \"By the King, you are fast!\"", "DRaceMidway0200Brimon_en.ogg"], ["- Brimon: \"Making... good time.\"", "DRaceMidway0210Brimon_en.ogg"], ["- Brimon: \"Not bad. Not bad at all.\"", "DRaceMidway0220Brimon_en.ogg"], ["- Brimon: \"Dear me! Have you been practicing?\"", "DRaceMidway0230Brimon_en.ogg"]]},
+  {"path": ["Kaithe Race", "Win"], "idle": false, "lines": [["- Brimon: \"What? That's impossi... fine. A little something for your trouble.\"", "DRaceSuccess0240Brimon_en.ogg"], ["- Brimon: \"How? I've reached that course a million... oh, very well. Take this.\"", "DRaceSuccess0250Brimon_en.ogg"], ["- Brimon: \"That was... impressive. Here, this is for you.\"", "DRaceSuccess0260Brimon_en.ogg"]]},
+  {"path": ["Kaithe Race", "Lose"], "idle": false, "lines": [["- Brimon: \"No shame in losing to the best, eh?\"", "DRaceFailure0270Brimon_en.ogg"], ["- Brimon: \"Is there nobody capable of challenging me? Huh?\"", "DRaceFailure0280Brimon_en.ogg"], ["- Brimon: \"Aww, almost beat me. Almost.\"", "DRaceFailure0290Brimon_en.ogg"], ["- Brimon: \"Chin up! You'll do better next time. Hopefully.\"", "DRaceFailure0300Brimon_en.ogg"]]}
+ ]
+}

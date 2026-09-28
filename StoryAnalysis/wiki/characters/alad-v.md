@@ -14,6 +14,7 @@ Corpus 取締役会の一員で、Grineer 関係の責任者だった高位の C
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Alad V/Quotes](../../quotes/alad-v.md)（374 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Alad_V)（英語・出典） / [日本語 Wiki「アラド ヴィー」](https://warframe.fandom.com/ja/wiki/Alad_V) / [日本語 Wiki の取り込み](../../fandom-ja/pages/alad-v.md) / [全文検索](../../search.html?q=Alad%20V)
 

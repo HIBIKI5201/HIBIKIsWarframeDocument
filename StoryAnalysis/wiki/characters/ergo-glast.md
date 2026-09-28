@@ -14,6 +14,7 @@ The Perrin Sequence のリーダー
 
 - グループ: [シンジケートの顔役](g14.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Ergo Glast/Quotes](../../quotes/ergo-glast.md)（52 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Ergo_Glast)（英語・出典） / [日本語 Wiki「エルゴ・グラスト」](https://warframe.fandom.com/ja/wiki/Ergo_Glast) / [日本語 Wiki の取り込み](../../fandom-ja/pages/ergo-glast.md) / [全文検索](../../search.html?q=Ergo%20Glast)
 

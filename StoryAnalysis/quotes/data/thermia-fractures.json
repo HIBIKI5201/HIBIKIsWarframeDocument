@@ -1,0 +1,17 @@
+{
+ "key": "thermia-fractures",
+ "title": "Thermia Fractures/Quotes",
+ "url": "https://wiki.warframe.com/w/Thermia_Fractures/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 15,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue during Thermia Fractures.", null]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- Eudico: \"Quick geology lesson: thermal fractures are what you get when you pump too much coolant into the ground too fast. Displaced Thermia has to go somewhere. Now we've got Thermia fractures threatening to roast Fortuna. Nef can fix this, but he won't... instead, he's got that mucking Exploiter Orb harvesting the surface Thermia for quick profit. Get out there, locate a fracture, and I'll help you seal it. Oh, and Sparky: you run into that Exploiter Orb out there, you leg it. Once she ices up, nothing can touch her.\"", "DEventIntro0010Eudico_en.ogg"]]},
+  {"path": ["Approaching Fracture"], "idle": false, "lines": [["**With no coolant canister**", null], ["- Eudico: \"Exploiter loads her Raknoids with refined coolant. They need the thermal regulation when harvesting Thermia. We can use that coolant to dilute the Thermia and seal these fractures. Go crack open a Coolant Raknoid and use its canister on this fracture.\"", "DFractureNoDeepIce0020Eudico_en.ogg"], ["- Eudico: \"We need refined coolant to close the fracture. Find a Coolant Raknoid.\"", "DFractureNoDeepIce0030Eudico_en.ogg"], ["**With a coolant canister**", null], ["- Eudico: \"You ready? Drop that refined coolant into that fracture to get the party started.\"", "DFractureStart0040Eudico_en.ogg"], ["- Eudico: \"If Nef won't do anything about these fractures, we'll do it for him. Let's get this fracture sealed.\"", "DFractureStart0050Eudico_en.ogg"]]},
+  {"path": ["Placing Coolant Canister on Fracture"], "idle": false, "lines": [["- Eudico: \"Keep 'em off the canister while it does its thing.\"", "DFractureHarvestDef0060Eudico_en.ogg"], ["- Eudico: \"Incoming forces. Protect the canister!\"", "DFractureHarvestDef0070Eudico_en.ogg"], ["- Eudico: \"Defensive positions. Do not let them destroy the canister.\"", "DFractureHarvestDef0080Eudico_en.ogg"]]},
+  {"path": ["Closing a Fracture"], "idle": false, "lines": [["- Eudico: \"Done, but there's still coolant in the canister. Grab it and let's find another fracture. This diluted Thermia could come in handy.\"", "DFractureClosed0090Eudico_en.ogg"], ["- Eudico: \"Grab the canister and get to another fracture.\"", "DFractureClosed0100Eudico_en.ogg"], ["- Eudico: \"Fracture sealed. Let's do it again.\"", "DFractureClosed0110Eudico_en.ogg"]]},
+  {"path": ["After Closing Four Fratures"], "idle": false, "lines": [["- Eudico: \"Head to Deck 12 and load the Thermia into the condenser. Then we start planning an attack on the Exploiter.\"", "DFracturePlanitiaOpen0151Eudico_en.ogg"]]}
+ ]
+}

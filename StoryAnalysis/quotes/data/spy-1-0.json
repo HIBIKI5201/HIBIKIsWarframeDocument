@@ -1,0 +1,14 @@
+{
+ "key": "spy-1-0",
+ "title": "Spy 1.0/Quotes",
+ "url": "https://wiki.warframe.com/w/Spy_1.0/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 23,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Lotus transmissions during Spy missions.", null]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- Lotus: \"The intelligence files we need are in the area. Find all four computer access terminals and recover the data units from each of them.\"", null], ["- Lotus: \"Intelligence files are stored on four separate data units in the vicinity. We need all the units before we can begin decryption on the data. Get out there and find them.\"", null], ["- Lotus: \"We need all of the data units being stored in the vicinity. Search the area, find the access terminals, and retrieve each device.\"", null]]},
+  {"path": ["During Mission"], "idle": false, "lines": [["- Lotus: \"Your target is this location's computer system. Find and access the terminals.\"", null], ["**While looking for terminals**", null], ["- Lotus: \"There must be an access terminal around here, keep searching, we need those data units.\"", null], ["- Lotus: \"Its critical that we retrieve that intel. You need to find an access terminal first.\"", null], ["- Lotus: \"We're running out of time, you need to find all the remaining access terminal and get out of there.\"", null], ["- Lotus: \"Keep going, we need all of the data units before you can leave.\"", null], ["**Terminal found**", null], ["- Lotus: \"Here is one of the access consoles, you need to activate it to recover the data unit.\"", null], ["- Lotus: \"You found an access terminal, use it to release the data mass from its storage unit. \"", null], ["- Lotus: \"Activate the access terminal and it should release the data unit. Get the device, and get to extraction.\"", null], ["**After hacking a console**", null], ["- Lotus: \"We don't have all of the logs yet, keep searching for the remaining consoles.\"", null], ["**All data units acquired**", null], ["- Lotus: \"Excellent work Tenno, we've got all the data units now. Time to head for the exits.\"", null], ["- Lotus: \"That was the last data unit we needed. Lets get out of here.\"", null], ["- Lotus: \"With all four data units collected we can now compile the intelligence files. We're done here, get to extraction.\"", null], ["**On an Infested ship**", null], ["- Lotus: \"This looks ominous. Infested or not, we need those data logs. See if you can find any consoles that are still operational.\"", null], ["- Lotus: \"We need all the data logs from any still-functioning consoles aboard this ship. Shouldn't be a problem for you unless the Infested slow you down.\"", null]]}
+ ]
+}

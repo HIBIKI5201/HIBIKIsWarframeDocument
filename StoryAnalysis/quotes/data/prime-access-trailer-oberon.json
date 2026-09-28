@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-oberon",
+ "title": "Prime Access Trailer/Oberon",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Oberon",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"Greed and denial will seduce any destruction... even our own. We're blind to future consequence... casting our debts on those to come. But what if now, the Gray Mother sought revenge?", null], ["A brutal thorn... piercing the gushing ulcers of waste and industry.", null], ["A new green, sown upon sanguine ground. Fertilized with the blood and bone of its defilers. Oberon.\"", "BallasOberonPrime.ogg"]]}
+ ]
+}

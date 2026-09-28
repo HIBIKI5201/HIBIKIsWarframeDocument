@@ -1,0 +1,16 @@
+{
+ "key": "orokin-vault",
+ "title": "Orokin Vault/Quotes",
+ "url": "https://wiki.warframe.com/w/Orokin_Vault/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 14,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Lotus transmissions related to Orokin Vaults.", null]]},
+  {"path": ["Opening a Vault"], "idle": false, "lines": [["- Lotus: \"You've opened an Orokin Vault. It appears unaffected by the Infestation.\"", null], ["- Lotus: \"A pristine Orokin Vault... curious.\"", null], ["- Lotus: \"You've unlocked an Orokin Vault. Its... clean.\"", null]]},
+  {"path": ["Grabbing Artifact"], "idle": false, "lines": [["- Lotus: \"You have the Vault artifact, let's go.\"", null], ["- Lotus: \"You've got it. Something is different about this artifact...\"", null], ["- Lotus: \"Vault artifact acquired. You'll need to extract before we can verify its function.\"", null]]},
+  {"path": ["Warframe Debuff"], "idle": false, "lines": [["- Lotus: \"The artifact you are carrying appears to be affecting your Warframe.\"", null], ["- Lotus: \"Until we get you to extraction, that artifact will continue to affect your Warframe.\"", null], ["- Lotus: \"Your Warframe is being impaired by the artifact.\"", null]]},
+  {"path": ["Corrupted Enemies Spawn"], "idle": false, "lines": [["- Lotus: \"It appears that you've triggered security. The Corrupted are here.\"", null], ["- Lotus: \"Looks like some Corrupted stayed behind to guard the artifact, it must be valuable.\"", null], ["- Lotus: \"The Corrupted will stop at nothing to prevent that artifact from escaping. This won't be easy.\"", null], ["- Lotus: \"Something's wrong...\"", null]]}
+ ]
+}

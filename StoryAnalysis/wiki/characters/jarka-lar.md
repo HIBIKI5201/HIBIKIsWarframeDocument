@@ -13,6 +13,7 @@ Kahl-175 を支える Grineer の Ballista
 
 - グループ: [Kahl's Garrison](g18-kahl-s-garrison.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Jarka Lar/Quotes](../../quotes/jarka-lar.md)（67 行、うち独り言など 4 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Jarka_Lar)（英語・出典） / [全文検索](../../search.html?q=Jarka%20Lar)
 

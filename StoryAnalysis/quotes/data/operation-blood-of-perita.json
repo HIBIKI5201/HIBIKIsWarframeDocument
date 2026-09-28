@@ -1,0 +1,13 @@
+{
+ "key": "operation-blood-of-perita",
+ "title": "Operation: Blood of Perita/Quotes",
+ "url": "https://wiki.warframe.com/w/Operation:_Blood_of_Perita/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 16,
+ "idle": 0,
+ "sections": [
+  {"path": ["Inbox Message", "Event Start"], "idle": false, "lines": [["> “BLOOD OF PERITA: A devil's proposal", null], ["> Greetings, Child.", null], ["> Infuriating, is it not? To one day wake up and find holes poked in what was formerly a perfectly retentive mind.", null], ["> I have no interest in commiseration of your War stories; you did what you did. Instead I come to offer you an incentive, if only for a short while.", null], ["> You know of the Dark Refractory, yes? It allows one to traverse their memories, no matter how inaccessible they may have been rendered.", null], ["> Use it. Explore the deepest depths of your war-torn psyche. Show me the limits of the Device. Do so and you will earn my very own Marks of Valiance. But act with haste, Operator, for my magnanimity sets like Sol itself. Come visit me within \"La Cathédrale\" afterwards, and I shall show you what being in the good graces of an Orokin can buy you.", null], ["> Yours,", null], ["> Vice Regent Grand Carnus Roathe", "DRoatheEventIntroInbox0010Roathe_en.ogg"], ["> ”", null]]},
+  {"path": ["Inbox Message", "Event End"], "idle": false, "lines": [["> “BLOOD OF PERITA: A lamentable ending to our arrangement", null], ["> Greetings once more, Child.", null], ["> Regrettably, for myself at least, this vein of the Dark Refractory has exhausted its gold. As delightful as it has been to watch you trade your mental faculties for the dregs of my once-enviable treasury, it seems there is nothing of any more value for me to glean from that machine. Yes, that means there will be no more Marks of Valiance.", null], ["> Don't stop your mental flagellation on my account, however! I am sure that there is still much for you to gain from your little Tenno war therapy sessions. I already know we lost, after all.", null], ["> Yours,", null], ["> Vice Regent Grand Carnus Roathe", "DRoatheEventOutroInbox0020Roathe_en.ogg"], ["> ”", null]]}
+ ]
+}

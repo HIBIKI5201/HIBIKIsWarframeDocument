@@ -14,6 +14,7 @@
 
 - グループ: [Orokin](g06-orokin.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Albrecht Entrati/Quotes](../../quotes/albrecht-entrati.md)（72 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Albrecht_Entrati)（英語・出典） / [全文検索](../../search.html?q=Albrecht%20Entrati)
 

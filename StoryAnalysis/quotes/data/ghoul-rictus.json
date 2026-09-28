@@ -1,0 +1,14 @@
+{
+ "key": "ghoul-rictus",
+ "title": "Ghoul Rictus/Quotes",
+ "url": "https://wiki.warframe.com/w/Ghoul_Rictus/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 14,
+ "idle": 5,
+ "sections": [
+  {"path": ["Idle"], "idle": true, "lines": [["- Ghoul Rictus: \"???\" - \"\"", "BbIdleGrinGhoulSaw00200_en.ogg"], ["- Ghoul Rictus: \"Groulsar. Groulsar.\" - \"Ghoulsaw. Ghoulsaw.\"", "BbIdleGrinGhoulSaw00210_en.ogg"], ["- Ghoul Rictus: \"???\" - \"\"", "BbIdleGrinGhoulSaw00220_en.ogg"], ["- Ghoul Rictus: \"???\" - \"\"", "BbIdleGrinGhoulSaw00230_en.ogg"], ["- Ghoul Rictus: \"???\" - \"\"", "BbIdleGrinGhoulSaw00240_en.ogg"]]},
+  {"path": ["Player Spotted"], "idle": false, "lines": [["- Ghoul Rictus: \"Spotter!\" - \"Spotted!\"", "BbPlayerSpottedGrinGhoulSaw00400_en.ogg"], ["- Ghoul Rictus: \"???\"", "BbPlayerSpottedGrinGhoulSaw00410_en.ogg"], ["- Ghoul Rictus: \"\" - \"\"", "BbPlayerSpottedGrinGhoulSaw00420_en.ogg"], ["- Ghoul Rictus: \"Gar'gre mune!\" - \"You're mine!\"", "BbPlayerSpottedGrinGhoulSaw00430_en.ogg"]]},
+  {"path": ["Attacking"], "idle": false, "lines": [["- Ghoul Rictus: \"Attaf!\" - \"Attack!\"", "BbAttackGrinGhoulSaw00300_en.ogg"], ["- Ghoul Rictus: \"Sar! Sar!\" - \"Saw! Saw!\"", "BbAttackGrinGhoulSaw00310_en.ogg"], ["- Ghoul Rictus: \"???\"", "BbAttackGrinGhoulSaw00320_en.ogg"], ["- Ghoul Rictus: \"???\"", "BbAttackGrinGhoulSaw00350_en.ogg"], ["- Ghoul Rictus: \"\" - \"\"", "BbAttackGrinGhoulSaw00360_en.ogg"]]}
+ ]
+}

@@ -15,6 +15,7 @@ Shawzin 弾き。「孤独」の化身
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Pip/Quotes](../../quotes/pip.md)（11 行、うち独り言など 11 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Pip)（英語・出典） / [全文検索](../../search.html?q=Pip)
 

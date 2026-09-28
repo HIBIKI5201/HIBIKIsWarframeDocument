@@ -1,0 +1,14 @@
+{
+ "key": "phorid",
+ "title": "Phorid/Quotes",
+ "url": "https://wiki.warframe.com/w/Phorid/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 13,
+ "idle": 0,
+ "sections": [
+  {"path": ["Lotus Transmissions"], "idle": false, "lines": [["- Lotus: \"One of our spy cells has been lost investigating this abandoned Grineer asteroid base. We need you to locate and eliminate whatever is responsible.\"", null], ["- \"This place is crawling with Infested. Unfortunately, something far more ominous awaits. Make your way deeper into the base.\"", null], ["- \"Your target is an aberration of twisted flesh. Put the thing out of its misery.\"", null], ["- \"Elude its bone-chilling shrieks if you wish to stay alive.\"", null], ["- \"The creature is incredibly agile for a deformed quadruped. Keep moving to avoid being crushed.\"", null], ["- \"Listen to its screams. This will mean you are getting close.\"", null]]},
+  {"path": ["Taunts"], "idle": false, "lines": [["- (\"Revoke the frailties of flesh. Let us in.\")", null], ["- (\"We are the vessel through which immortality is achieved. Assimilate, [player name].\")", null]]},
+  {"path": ["Pre-Update 11"], "idle": false, "lines": [["When Phorid was the boss of Eris", null], ["- (\"Through the coalescence of flesh and universal will, we will exist as one.\")", null], ["- (\"Tenuous is your human spirit, [PLAYERNAME]. Let us be your salvation.\")", null], ["**On mission complete**", null], ["- Lotus: \"Infested encounters are beginning to reach nightmare-like proportions. This latest abomination proves that there is no limit to the imagination when dealing with these monsters.\"", null]]}
+ ]
+}

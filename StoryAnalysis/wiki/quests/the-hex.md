@@ -10,6 +10,8 @@
 
 Drifter が 1999 年の大晦日にさかのぼり、Protoframe の部隊 The Hex とともに都市国家 Höllvania で Albrecht Entrati を探すメインクエスト。ソロ専用で、Update 38.0（2024-12-13）で追加された。前日譚の Web コミック「WARFRAME: 1999」がある。
 
+- 台詞全文（取り込み）: [The Hex (Quest)/Transcript](../../quotes/the-hex-quest-transcript.md)（477 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Hex_(Quest))（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Hex_(Quest)/Transcript) / [全文検索](../../search.html?q=The%20Hex)
 
 ## 基本情報

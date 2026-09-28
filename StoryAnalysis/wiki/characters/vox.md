@@ -15,6 +15,7 @@ Vox Solaris。Eudico の別の顔
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Vox/Quotes](../../quotes/vox.md)（18 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Vox)（英語・出典） / [全文検索](../../search.html?q=Vox)
 

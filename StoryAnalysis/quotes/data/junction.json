@@ -1,0 +1,13 @@
+{
+ "key": "junction",
+ "title": "Junction/Quotes",
+ "url": "https://wiki.warframe.com/w/Junction/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 16,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue spoken in Junctions.", null]]},
+  {"path": ["On Entering"], "idle": false, "lines": [["- Specter Guardian: \"This sacred Rail must be protected.\"", "JunctionSpectre1.ogg"], ["- Specter Guardian: \"Leave this place or be returned to the Void.\"", "JunctionSpectre2.ogg"], ["- Specter Guardian: \"I am a Warden of the Solar Rails. I am your death.\"", "JunctionSpectre3.ogg"], ["- Specter Guardian: \"Only the sacred may pass. Heathens will perish.\"", "JunctionSpectre4.ogg"], ["- Specter Guardian: \"How dare you enter my home? I guard the Rail with my shadow-life.\"", "JunctionSpectre5.ogg"], ["- Specter Guardian: \"The Solar Rails bind our System. I will not see it undone.\"", "JunctionSpectre6.ogg"], ["- Specter Guardian: \"Are you seeking a return to the Void? Challenge me and find destruction.\"", "JunctionSpectre7.ogg"], ["- Specter Guardian: \"I am entrusted to protect this most sacred temple. A pathway into the Void. Flee or be consumed.\"", "JunctionSpectre8.ogg"], ["- Specter Guardian: \"I have pledged my shadow-life to defend the Solar Rails.\"", "JunctionSpectre9.ogg"], ["- Specter Guardian: \"I will purge your weakness from my Rail.\"", "JunctionSpectre10.ogg"], ["- Specter Guardian: \"Another intruder... another corpse for the Void.\"", "JunctionSpectre11.ogg"], ["- Specter Guardian: \"Only those worthy may enter. You face certain death to oppose me.\"", "JunctionSpectre12.ogg"], ["- Specter Guardian: \"Your death awaits you.\"", "JunctionSpectre13.ogg"], ["- Specter Guardian: \"I am a being of the Void, created to oppose you. Leave now.\"", "JunctionSpectre14.ogg"], ["- Specter Guardian: \"Come no further if you value your life.\"", "JunctionSpectre15.ogg"]]}
+ ]
+}

@@ -15,6 +15,7 @@
 
 - グループ: [Sentient](g07-sentient.md)
 - 登場: 7 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Hunhow/Quotes](../../quotes/hunhow.md)（257 行、うち独り言など 14 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Hunhow)（英語・出典） / [全文検索](../../search.html?q=Hunhow)
 

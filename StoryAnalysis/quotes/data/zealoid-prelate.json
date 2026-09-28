@@ -1,0 +1,27 @@
+{
+ "key": "zealoid-prelate",
+ "title": "Zealoid Prelate/Quotes",
+ "url": "https://wiki.warframe.com/w/Zealoid_Prelate/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "zealoid-prelate",
+  "name": "Zealoid Prelate",
+  "page": "Zealoid Prelate"
+ },
+ "count": 26,
+ "idle": 0,
+ "sections": [
+  {"path": ["During an Assassination Mission", "Pre-Battle"], "idle": false, "lines": [["- \"Welcome... You are welcome...\"", "DSpwnIn0010ZealPrelate_en.ogg"], ["- \"From Eris... we come...\"", "DSpwnIn0020ZealPrelate_en.ogg"], ["- \"Arlo is with us... Our touch is his word.\"", "DSpwnIn0030ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Mission Node Transmission"], "idle": false, "lines": [["- \"Primordial recollections… lifeforms chiropteran… annihilating darkness…\"", null]]},
+  {"path": ["During an Assassination Mission", "Encounter Phase 1"], "idle": false, "lines": [["- \"You... are beautiful.\"", "DCinLine0250ZealPrelate_en.ogg"], ["- \"You think yourself... subtracted. You are divided... we multiply.\"", "DFightDecodesFrst0190ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Teleporting Away"], "idle": false, "lines": [["- \"Come to me.\"", "DBossAppear0230ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Reaching Boss Room"], "idle": false, "lines": [["- \"A thousand hands wait... to embrace...\"", "DOutsideBossSpwn0040ZealPrelate_en.ogg"], ["- \"We welcome... the myriad you shall become.\"", "DInsideBossSpwn0050ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Encounter Phase 2"], "idle": false, "lines": [["- \"Your strength... valuable. Your self... WORTHLESS.\"", "DFindBoss0200ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "33% Health Gone"], "idle": false, "lines": [["- \"We shall wash the self out of you.\"", "DFightBossThirtyThree0210ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "66% Health Gone"], "idle": false, "lines": [["- \"Bastions! Protect... the congregation.\"", "DFightBossSixtySix0180ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Disappears"], "idle": false, "lines": [["- \"You have not earned his gift.\"", "DBossVanLight0660ZealPrelate_en.ogg"], ["- \"Imposter.\"", "DBossVanLight0670ZealPrelate_en.ogg"], ["- \"His light is not for you...\"", "DBossVanLight0680ZealPrelate_en.ogg"], ["- \"Darkness for you.\"", "DBossVanLight0690ZealPrelate_en.ogg"], ["- \"What you stole... I retrieve...\"", "DBossVanLight0700ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Getting to Arlo's Flame"], "idle": false, "lines": [["- \"Protect Arlo's flame.\"", "DBossProtFlam0590ZealPrelate_en.ogg"], ["- \"Arlo's flame protects us... and us it.\"", "DBossProtFlam0600ZealPrelate_en.ogg"], ["- \"They must not steal our light...\"", "DBossProtFlam0610ZealPrelate_en.ogg"], ["- \"Paradise... comes for you.\"", "DFightDecodesScnd0220ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Healing Phase After Arlo's Flame Breaks"], "idle": false, "lines": [["- \"Bastions, be generous.\"", "DBossAbsHeal0620ZealPrelate_en.ogg"], ["- \"Nourish me.\"", "DBossAbsHeal0630ZealPrelate_en.ogg"], ["- \"Bastions... give... to me...\"", "DBossAbsHeal0640ZealPrelate_en.ogg"], ["- \"I... live... again...\"", "DBossAbsHeal0650ZealPrelate_en.ogg"]]},
+  {"path": ["During an Assassination Mission", "Defeat"], "idle": false, "lines": [["- \"This... is but a breath... before... the next.\"", "DBossDeath0240ZealPrelate_en.ogg"]]}
+ ]
+}

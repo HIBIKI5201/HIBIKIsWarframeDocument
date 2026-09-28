@@ -1,0 +1,2644 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Kinemantik Instant Messenger/Amir
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Kinemantik Instant Messenger/Amir」](https://wiki.warframe.com/w/Kinemantik_Instant_Messenger/Amir)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+2484 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- This article attempts to distill conversations to straight-forward text and may be missing some paths; complete flowcharts for all Amir conversations are available here in PNG and here in SVG.
+- All ending conversations (where the Hex goes offline) will be marked as {Convo ends.}
+- The corresponding flow chart will be included at the end of each conversation.
+- Any glowing, golden text marked in-game will be highlighted here in bold+underlined. Note that such formatted {Convo ends.} represent invisible, in-game chemistry gain.
+- Indented messages represent branching conversation paths, be it user input or conditional dialog (e.g. dialog exclusive to dating).
+- All user input is marked with a '>' for clarity. Note that available choices in-game are not written in order on this page.
+
+### Conversation 1 (hey, future!! pop quiz)
+
+- Amir: hey, future!! Pop quiz
+- Huh?
+- Amir: so, like, the future
+- Ah.
+- [Same as below]
+- Yeah?
+- Amir: what’s it like?! THE FUTUUUURE
+- Where do I even start, man? Pick a topic.
+- Amir: uuuuuh
+- Amir: shit don't do that to me
+- Amir: i can't pick you pick
+- [Choices same as in the "It’s… complicated" branch follow]
+- It’s… complicated.
+- Amir: i fuggin love complicated
+- Amir: i memorized the entire fables & frontiers 87d fablemaster rulebook
+- Amir: Try me i eat this shit UP
+- Okay. The Orokin.
+- They ruled the Origin System. The elites had the privilege of living forever, thanks to this ritual they called Continuity.
+- Where they'd force their consciousness into somebody else's body using this stuff called Kuva.
+- But the Grineer are after Kuva now, because the Orokin were nearly eliminated during the Old War -- there's this one Orokin in particular who was a serious asshole -
+- Named Ballas, who was in charge of the warframes and made most of them, along with Entrati? Who's also Orokin? But he - Ballas - and Margulis were also a thing.
+- Who was the lady that the Lotus resembles, but isn't, because the Lotus is actually a Sentient, which is a kind of artificial race, who are usually kind of evil, but she's -
+- [Conversation continues as below, starting at "{P1} whoaaaaaa NEELLY! {P2} hOL UP"]
+- Well, we’ve got the Grineer
+- Who're this faction of genetically mutated clones, who were originally workers until a new militarized strain was cloned to fight the Sentients -
+- The Sentients are these - uh - a synthetic race who are kind of evil, except for the Lotus, who isn't. But her appearance and part of her persona comes from Margulis, who was an Archimedean.
+- The Orokin is an old race of people who are actually made the Grineer. The Orokin used to rule the Origin System. Anyway.
+- So, the Grineer are these genetic clones that are slowly growing more and more defective and they have this deranged Queen and-
+- [Conversation continues as below, starting at "{P1} whoaaaaaa NEELLY! {P2} hOL UP"]
+- Right. The Corpus.
+- They're this group of robot-loving, profit-obsessed plutocrafts. Whatever gets them a credit, they'll do it.
+- They're currently run by this guy named Parvos Granum, who grew up a poor farmer in the Orokin era but started the Corpus profit cult.
+- He'd be long dead by now, and everybody thought he was assassinated, but he escaped to the "Granum Void" so he's possibly secretly nuts?
+- But one thing's for sure, he wouldn't be above cutting a deal with the Sentients. Another Corpus, Alad V, already did.
+- Oh yeah, the Sentients are this artifical race - you'd call them robots - who are usually evil, but except for the Lotus, who isn't, but is based on -
+- [Conversation continues as below, starting at "{P1} whoaaaaaa NEELLY! {P2} hOL UP"]
+- So, the Sentients.
+- The Sentients are this artificial race, that weren't supposed to be, well, sentient, made by the Orokin, way back in time.
+- I guess not back in time for you? In the future to you? Whatever. Time travel.
+- Anyway, artificial race. They were sent to Tau to terraform it for the Orokin. They thought the Orokin would lay waste to Tau just like they had the Origin System, so they declared war.
+- Only Natah got captured and held prisoner on Lua until Ballas imprinted Margulis's persona and appearance on to her so he could control the Tenno.
+- Because of the kids who were stuck on board of the Zariman and because of her relationship with *him* and -
+- Amir: {P1} whoaaaaaa NEELLY! {P2} hOL UP
+- Amir: i take it all back this shit is way too complicated
+- Amir: we‘re gonna have to take it one thing at a time
+- Amir: i am not gonna retain literally ANY of that
+- It’s a lot
+- [Same as below]
+- Warned you lol
+- Amir: clearly what we need is like… an encyclopedia
+- Amir: somewhere to write all this crap up
+- Amir: OH AND HOSTED ONLINE, AND WE CAN MAKE IT SO MULTIPLE PEOPLE CAN UPDATE IT OOOOOOH
+- Amir: I AM A FUGGIN GENIUS
+- Amir: it needs a cool name… i’m shit at naming things. you name it.
+- Boolean AmirWebsite is now true.
+- Hexionary
+- Boolean AmirHexionary is now true.
+- Amir: fiiiine, we'll share the glory... if we gotta
+- [Conversation continues as below, starting at "::cracks knuckles:: lets DO this baybeeeee"]
+- AMIR4U
+- Boolean Amir4U is now true.
+- Amir: AMIR4U - I'm Here 4 U. ROFL! YES
+- [Conversation continues as below, starting at "SOLD"]
+- Amiracle
+- Boolean Amiracle is now true.
+- Amir: aaaaahahahahahahah
+- [Conversation continues as below, starting at "SOLD"]
+- The Beckettarium
+- Boolean AmirBeckettarium is now true.
+- Amir: awww, you know my last name
+- Amir: SOLD
+- Amir: ::cracks knuckles:: lets DO this baybeeeee {Convo. Ends}
+- I don’t have time for this, sorry. [End]
+- Amir: laaaame {Convo. Ends}
+- Is that my name now?
+- Amir: LOL
+- Amir: IT IS NOW
+- Boolean NameFuture is now true.
+- Amir: no but like i have questions
+- {Jump to branch "what's it like?! THE FUTUUUURE"}
+
+### Conversation 2 (heeeeeey drifter / heeeeeey future)
+
+- Amir: heeeeeey drifter
+- Yeah?
+- Amir: do you have games in the future?
+- No. All games were outlawed in the Great Martian War of 17380.
+- Amir: whoa holy shi-
+- Amir: wait
+- Amir: *BEEP BEEP*
+- Amir: my bullshit-o-meter is going off
+- It was too tempting, sorry. lol
+- Amir: well har-de-har-haar {Convo. Ends}
+- Yes we have games. We’re not *all* robots.
+- Amir: what's your favorite kind of-
+- Amir: wait
+- Amir: ROBOTS
+- Amir: DID YOU JUST FUGGIN SAY ROBOTS
+- We have a lot of robots in the future.
+- > Cephalons, Corpus drones, Sentients, you name it.
+- Amir: ihavesomanyquestionsrightnowican'tevenhandleit
+- Amir: theimplicationsofthisidon'tthinkyoureallyunderstandwhatthismeanstome
+- Don't short out. lol
+- Amir: I MIGHT
+- Amir: wasn'thisbadbeforeandthenallthisshithadtohappenandfffffffff
+- Amir: i'm okay i'm okay
+- So. Games?
+- Amir: games right
+- Amir: no sorry gotta go lay down
+- Amir: or run a few laps of the city
+- Amir: dunnowhichbrb {Convo. Ends}
+- Yeah, why?
+- Amir: well I was wooondering
+- Amir: what‘s your favorite kind of game?
+- Amir: like board? card? arcade? video?
+- I really only had board games. And by that… I mean I really only had one board game.
+- Amir: i love board games – i mean, i love all games, i just never really get a chance to play board games much anymore
+- Amir: since nobody’ll play them with me after the incident with the expansion pack rule book of Ocelots in Space 4
+- Amir: ooh!! how about this – you teach me your game and i‘ll teach you one of mine? :D
+- Sure!
+- Amir: LET’S DO THIS {Convo. Ends}
+- Don’t we have work to do?
+- {Lines required}
+- I don’t have a favorite. I’m not very good at games.
+- Amir: aww! do you wanna learn? i can teach you.
+- I'd like that. :)
+- Amir: AWESOME. nobody lets me play games with them anymore lmao let alone hold the rule book so this is gonna be great I promise you won't regret this at all
+- Uh oh.
+- Amir: NOPE TOO LATE NO TAKEBACKS {Convo. Ends}
+- I'm in!
+- {Lines required}
+- Um... pass. [End.]
+- {Lines required}
+- > [Don’t respond]
+
+### Conversation 3 (ROBOTS ROBOTS ROBOTS ROBOTS)
+
+- Amir: ROBOTS ROBOTS ROBOTS ROBOTS ROBOTS ROBOTS ROBOTS ROBOTS ROBOTS ROBOTS-
+- You okay there?
+- (Jumps to below branch: Amir: tell me they have robots in the future pleeeeeeeeease)
+- Robots... robots?
+- Amir: tell me they have robots in the future pleeeeeeeeease
+- Amir: and not just scary meat stuff like warframes
+- Amir: but like robots robots
+- Amir: ROBOTS ROBOTS ROBOTS
+- > Dear Sol, drink less coffee.
+- Amir: lettie banned me from drinking coffee
+- Amir: said it might make my heart explode
+- Amir: (i think she was lying through, i think she just didn't want to see me even more jacked up lol)
+- Amir: so this is 100% PURE AMIR, BABY
+- I can't say as I blame her.
+- (Jumps to below branch: Amir: fair lol)
+- I... kind of need to see you on coffee, now, though... you know, for science.
+- > But let's do that out another time.
+- Amir: fair lol
+- Wait. The question was about... what again? I missed it. :P
+- Amir: lmao
+- (Jumps to below branch: > So, I think what you're getting at what you say "robots" is like "high tech artificial intelligence," yeah?)
+- Okay, so. Robots.
+- Amir: YES YESYESYESYESYES
+- > So, I think what you're getting at what you say "robots" is like "high tech artificial intelligence," yeah?
+- Amir: oooooh yeah yeah yeah even better
+- There are the Sentients.
+- > An extremely advanced, artificial race of... well, they're not robots. But they're close, I guess.
+- They're extremely adaptable. They were built to terraform a new planet.
+- Amir: whoaaaa
+- Yeah, sadly most of them keep trying to kill us.
+- Amir: aw, why?
+- Because they think we're going to ruin Tau like we ruined Earth.
+- Amir: nngghhh oh sol we're into brain melt territory again aren't we
+- Amir: never mind go back to the cool technology bits lol
+- Amir: keep goin' keep goin'
+- Sure.
+- > (Allows to select the remaining two topics: Cephalons and Drones, so look to those chats)
+- That's enough story time for one day.
+- (line required, but potentially {Convo ends.})
+- Because of the Old War.
+- Same branch as above
+- There are the Cephalons
+- > They aren't robots, but they're high tech
+- > They're a glass brain. Sort of a preserved personality. Mostly.
+- Amir: mostly?
+- > It's complicated. Because Cephalons are digitally preserved life forms, they can get... tweaked.
+- Amir: tweaked. changed? like, personality changed?
+- Yeah.
+- Amir: seems kinda fun!
+- (Jump to Amir: live forever as a big ol glass brain in a jar)
+- It was a punishment. An execution method.
+- Amir: doesn't seem so bad
+- Amir: live forever as a big ol glass brain in a jar
+- > Um...
+- They're not in jars. As far as I can figure, they pick their bodies?
+- Amir: EVEN BETTER I'D WANNA BE A TANK
+- Amir: OR A ROBOT MONGOOSE
+- Amir: CAN I BE A MONGOOSE TANK?!
+- Why a mongoose?
+- Amir: mean. small. bitey. GRRAR
+- Amir: ok gotta go think about this thaaaaaanks {Convo. ends}
+- >...No.
+- I think you're missing the point here.
+- Amir: nah I think i understand it JUST PERFECTLY
+- Amir: ok gotta go think about this thaaaaaanks {Convo. Ends}
+- There are the Corpus drones.
+- > They're "real" robotics. All sorts of fun drones you'd love to play with.
+- > Ospreys, razorbacks, hounds, MOAs, raptors...
+- Amir: SO COOL
+- Yeah, I have a few robotic pets. They help me in fights.
+- Amir: WHAAAAAT
+- Amir: LEAD WITH THAT NEXT TIME HOLY SHIT
+- Amir: it's just like that time i strapped wheels and a knife to my kinegotchi
+- Amir: but like so much better tho
+- Amir: ...quincy was so fuggin mad at me lmao got'em right in the shin
+- Thats *hysterical.*
+- Amir: I THOUGHT SO TOO. And so stinking CUTE too. but NoOoOooooooOoo
+- Amir: everybody got all maaaaaad like we don't frickin' heal stupid fast now
+- Amir: it was SUPER cute too, in that rolling-steak-knife-covered-in-duct-tape kinda way
+- Amir: OH THIS GIVES ME A GREAT IDEA
+- Should i warn the others?
+- Amir: ssssh this'll be great BRB {Convo. Ends}
+- > Oh no...
+- > Ours are a little more advanced.
+- > Yikes...
+- > Yeah, when they're not trying to fricking murder you.
+- > I have better things to do right now, sorry.
+- >Nope.
+
+### Conversation 4 (Tell me a bit about yourself. / So what's the deal between you and Quincy?)
+
+- So what's the deal between you and Quincy?
+- Amir: he's a jerk and a stinkypants... sometimes
+- Amir: other times he's great
+- Amir: i hate him i'd die for him he's basically a brother i wanna stab
+- Amir: slwoly
+- Amir: repeatedly
+- Amir: gleefully
+- Amir: WHY DID YOU SENSE SOME TENSION
+- I just can't figure out why you two don't like each other.
+- Amir: i'm an... acquired taste
+- Amir: like fine wine
+- Amir: if it was filled with hyperactive bees
+- Amir: i annoy him. whiiiiich is kind of the story of my life
+- Yeah, you can be a bit much, but you're also sweet and genuine.
+- Amir: d'awwwwwwuhhh i'm blushing
+- Amir: anyway this gives me a great idea of how to prank quincy brb {Convo ends.}
+- You don't annoy me.
+- Amir: very nice of you to say but lol you ain't seen nothin' yet
+- Amir: anyway this gives me a great idea of how to prank quincy brb {Convo ends.}
+- I don't blame him.
+- {Convo. Ends}
+- Holy shit, dude.
+- Amir: yeahokaywasthattoomuchitwasprobablytoomuchHAHAHAHA
+- Amir: fffhnnghkkkaaahhhtimetogorunthisoff {Convo. Ends}
+- Tell me a bit about yourself.
+- Amir: oh shucks, me? really? ::bats eyes::
+- Amir: i dunno you really know how to trigger a guy's executive dysfunction
+- Amir: and believe me i put the FUN back in DYSFUNCTION
+- Amir: THE HELL WERE WE TALKING ABOUT AGAIN
+- > Holy shit, dude.
+- I was asking something about you. Like, your favorite food?
+- Amir: oh! easy! pad thai! :D ooooh can we go out for some pad thai?!
+- I'd love to go get some pad thai with you.
+- Amir: w00t!! {Convo. Ends}
+- I was asking something about you. Like, your favorite color?
+- Amir: blue! Which is super lucky cuz what with the lightning and all...
+- Amir: why? gonna buy me something nice?
+- Amir: hmmmmmmmmmmmm?
+- > Well, now I guess I have to.
+- Yes, but pretend it was a surprise, okay?
+- Amir: PROMISE
+- Amir: w00t!! {Convo. Ends}
+- > Hells no.
+
+### Conversation 1 (trying to beat my score on caliber chicks ?)
+
+- Amir: trying to beat my score on caliber chicks?
+- Amir: second place ain't bad!
+- It was worth a shot
+- Amir: well you know what they say, practice makes perfect
+- Amir: aaand a whooooole lot of money for the arcade
+- Amir: although now that i figured out i can just zzzap the machine into playing for free?
+- Amir: baaahahahah no more coins for you mr arcade machine!!
+- Amir: which is good seeing as aoi friggin took all the coins and smooshed them all
+- Amir: which was just SUPER FRIGGIN MEAN of her
+- Right? She could have at least left you a few.
+- Amir: exactly!! {Convo. Ends}
+- Not that mean when you think about it.
+- Amir: oh?
+- > She left you all the arcade machines, didn't she? With all their parts.
+- > You certainly don't need arcade machines in a warzone. You'd think they'd be the first things to get scrapped.
+- But she's left them all alone because she knows how much they mean to you. And besides. You don't *need* the coins anymore, do you?
+- Amir: ..........
+- Amir: well now don't i just feel like a friggin piece of shit
+- Amir: brb gotta go hug aoi
+- Amir: ok back hugged aoi
+- Amir: she was super confused but i'll thank her later again
+- Amir: because i forgot to thank you
+- Amir: thanks {Convo. Ends}
+- I'm coming for you, spark plug.
+- Amir: ooooh spark plug, huh? so original
+- Yeah like "Future" is so much better lol
+- Amir: yeah yeah well they didn't hire me for my CREATIVITY so suuuue me
+- Amir: well anyway good job tryin'a come for me with that top spot
+- Amir: but you'll have to try harder!!
+- Amir: or, y'know, become genetically altered freak with crazy super speed super powers FRRNRRYOOOOZZZOOOOM {Convo ends.}
+- How about "Zoomy"?
+- Amir: lol zoomy I like it
+- [Jump above to "well anyway good job"]
+- says the guy who put in his initials as A.S.S.
+- Amir: hahahahahahahahahahahahhahahahaHAHAHAHAHHA
+- Amir: ....
+- Amir: .........
+- Amir: ................
+- Amir: are you joking?
+- Nope. Not joking.:)
+- Amir: ohshitijustrealizedihavetogopickupmydrycleaningwhichisfunnybecauseidon'treallywearpantsanymore
+- Amir: hahahahahanywayigottagoi'lltalktoyoulateranywayokaySORRYBYE {Convo. Ends}
+- Yeah, just playing around.
+- Amir: oh. ok.
+- Amir: anyway good job on the game
+- Amir: i guess {Convo. Ends}
+- yeah yeah, go ahead and gloat.
+- Amir: h'nawwwwww don't feel bad you're up against the best in the region
+- Amir: 14 time champion and that was BEFORE i could play like eight machines at once like a total l337 455 b055
+- Way to be a 50r3 w1nn3r.
+- Amir: wait
+- Amir: you speak l33t?!
+- Amir: how tf does that make any sense, you're from the future?!
+- Amir: ...now that I think about it how do you know about emoticons or any of the rest of this shit either
+- Entrati left these books in the tailor shop here.
+- "K.O.L. for Dummies" and a bunch of notes on "l33t sp33k"
+- >I guess he wanted me to fit in.
+- Amir: the idea of doktor f lurking around on a bunch of hacker message boards lmao
+- Amir: he has seen some *shit* my friend roflmao SERVES HIM RIGHT
+- Amir: ...assclown
+- Amir: ANYWAY i gotta go re-beat my high score gotta go make sure i have more of a buffer between us oKAY BYEEEEEE {Convo ends.}
+- I'm psychic.
+- Amir: har har we already have one
+- Amir: fine. keep your secrets, see if i care
+- Amir: you freaky future person {Convo ends.}
+- They have competitions for Caliber Chicks? Huh.
+- Amir: YEAH!! though i did almost get disqualified that one time because i kept putting my initials in as A.S.S. lolol
+- Would "Sexy Beast" not fit? ;)
+- [Jump above to "hahahahahahahahahahahahhahahahaHAHAHAHAHHA"]
+- ... Are you twelve?
+- Amir: there's a lot in life that's worth taking seriously
+- Amir: death, war, poverty, illness
+- Amir: so yeah y'know what
+- Amir: i'm gonna make myself laugh when i can
+- Amir: so sue me {Convo ends.}
+- Whatever.
+- {Convo ends.}
+- Wasn't me, man. Maybe me in a past loop?
+- Amir! weird. i mean THAT'S RIGHT STAY AWAY FROM MY HIGH SCORE HISSSSS HISSSSS LOL {Convo. Ends}
+
+### Conversation 2.1 (driiiiiiiter, you there?”)
+
+- Amir: driiiiiiiter, you there?
+- What's up, Sexypants?
+- Amir: man you folks in the future SURE have WEIRD ways of greeting people!
+- Amir: hahaha... right?
+- Amir: you're just messing around, right?
+- You're my type, what can I say?
+- Amir: whelpunfortunatelyi'veforgottenthatineedtogodosomethingverycriticallyimportant
+- Amir: i'vealsoforgottenwhatthatthingisbuti'msurei'llrememberwhenigettheregottaGOOOOO
+- I'm just teasing you, don't worry.
+- Amir: oh. ok.
+- What did you want?
+- Amir: nvm {Convo. ends}
+- What's up, Amir?
+- Amir: ROBOTSROBOTSROBOTS
+- Oh by the Void, not again--
+- Amir: JUST JOKING
+- Amir: so the robot pets do they like have personalities? like real ones?
+- Not really. The only real "digital personalities" we have are cephalons.
+- Amir: cephalon?
+- > They're people who had their consciousness ripped out and reprogrammed.
+- As sort of... floating glass brains.
+- Amir: whooooaaaaa what?!?!
+- Amir: can *i* be a floating glass brain? i wanna be a floating glass brain that sounds freaking amazing
+- I don't like were this is going.
+- [Same as below]
+- > I really don't think you do.
+- Amir: well explain to me why it's a bad idea because right now it sounds freakin' awesome
+- Because they've had their entire personalities *edited*.
+- Amir: nope still sounds freakin' badass and amazing
+- Amir: ohthishasmeallampedupigottagothinkbrb {Convo. Ends}
+- Living for thousands of years is really NOT all it's cracked up to be, trust me.
+- [Same as above]
+- Sure, buddy. Whatever you say.
+- {Lines required}
+- I mean, if you count "program them to murder" as a personality, sure.
+- {Lines required}
+- > I don't have time for this right now. [End.]
+- AAAGHHHH
+- {Lines required}
+- I'm going to tranq you like a freaking Kuaka
+- {Lines required}
+
+### Conversation 2.2 (futuuuuure, you there ?)
+
+- Amir: fuuuuuture, you there?
+- > [Ignore]
+- What's up, Sexypants?
+- Amir: man you folks in the future SURE have WEIRD ways of greeting people!
+- Amir: hahaha... right?
+- Amir: you're just messing around, right?
+- You're my type, what can I say?
+- Amir: whelpunfortunatelyi'veforgottenthatineedtogodosomethingverycriticallyimportant
+- Amir: i'vealsoforgottenwhatthatthingisbuti'msurei'llrememberwhenigettheregottaGOOOOO
+- I'm just teasing you, don't worry.
+- Amir: oh. ok.
+- What did you want?
+- Amir: nvm {Convo. ends}
+- What's up, Amir?
+- Amir: i gotta know about these future science robot TECH THINGS
+- Amir: pleeeeeeeeeease
+- > I do not have time for this. [End.]
+- Okay, but you're going to have to narrow it down. lol. What do you want to know about?
+- Amir: ohhhhh ummmmmm... do you have like. artificial intelligence?
+- Amir: i mean like REAL artificial intelligence, not like - just - supercode
+- Well, there are the sentients. They're "synthetic" so they're kind of artificial.
+- Amir: nah i mean more like a COMPUTER that can THINK for itself
+- Closest thing would be cephalons.
+- Amir: what're they like?
+- > They're people who have had their consciousness ripped out and reprogrammed.
+- As sort of... floating glass brains.
+- Amir: whooooaaaaa what?!?!
+- Amir: can *I* be a floating glass brain? i wanna be a floating glass brain that sounds freaking amazing
+- I don't like were this is going.
+- [Same as below]
+- I really don't think you do.
+- Amir: well explain to me why it's a bad idea because right now it sounds freakin' awesome
+- Because they've had their entire personalities *edited*.
+- Amir: nope still sounds freakin' badass and amazing
+- Amir: ohthishasmeallampedupigottagothinkbrb {Convo. Ends}
+- Living for thousands of years is really NOT all it's cracked up to be, trust me.
+- [Same as above]
+- Sure, buddy. Whatever you say.
+- {Lines required}
+- Not really. Even corpus drones are just pre-programmed with precepts.
+- {Lines required}
+- Well, there are cephalons... but they're not "artificial" so much as they're "real"
+- Amir: what do you mean?
+- [Jump above to "They're people who have had their consciousness ripped out and reprogrammed."]
+- Amir: so the cephalo-whoozy-wuzzit-mabobber-thingies (if booleanAmirCephalon(?) is true)
+- lol. Cephalons
+- Amir: yes, that.
+- Amir: QUESTION.
+- Amir: When you become a cephalon.
+- Amir: can you decide what parts of you stay and what has to go?
+- Amir: i mean, Who does that? who codes it?
+- Amir: How all of that WORKS?
+- : Most of the times? it was Nihil, the GlassMaker.
+- Amir: sound like a tough guy lol
+- : yes, if you believe that killing people and suck their souls against their will is cool.
+- Amir: .... oh
+- : Being a cephalon, and becoming one, is neither *nice* nor *fun*.
+- {Lines required}
+- : I don't Want to talk about this [end]
+- {Convo ends}
+- :The Cephalon program was a capital punishment, something even worst than an execution.
+- >: Eternal Servitude, being *Rebuild*. based on the orokin liking.
+- >: Why you ask?
+- Amir: because it sounds like something taken out from a science fiction movie.
+- Amir: sounds like magic and i only want to understand it better.
+- Amir: Technology is my thing.
+- : Is that the only reason?
+- {Lines required}
+- : Sigh, Fine, i'll tell you what i know about the technology. i guess.
+- >: There is "Cephalon tissue" that they are part of; in reality, they don't have a physical body as we imagine.
+- >: They're also programmed with *precepts* or life missions, sometimes they choose them for themselves, and sometimes they find themself... forced to on them.
+- Amir: like whom?
+- : like Ordis.
+- >: He... used to be very different, when he was a person. Very, *VERY* different.
+- >: But when the man he used to be, made the orokin mad, they edited him, and forced him to serve the tenno. To protect the kids like me.
+- Amir: so, the Orokin were the ones who modified the code.
+- Amir: Entrati used to be an orokin, no? or... will be.. was... is...?
+- Amir: damit time travel.
+- Amir: but he knows how.
+- : yes. but he's gone, even if you wanted to him ask about it.
+- yes, but it's possible that he left behind research papers, notes or SOMETHING behind.
+- hmmmmmm
+- i'll be right back.
+- [convo ENDS]
+- : Seriously, why are you so invested into cephalons?
+- {Lines required}
+- : Cephalon Suda.
+- {Lines required}
+- : The Necraloid, for example.
+- {Lines required}
+- He's a Serial asssasin, Amir.
+- {Lines required}
+- : But, Why do you ask, amir?
+- {Lines required}
+- >:I'm Leaving [convo ENDS]
+- I'm going to tranq you like a freaking Kuaka
+- Amir: i have no idea what that is lmao but i'd like to see you tryyyyy
+- Amir: lettie put like 100 ccs of xylazine in my cocoa once and all it did was take the freakin' edge off
+- Amir: ANYWAY
+- Amir: cephawuzzies
+- Cephalons.
+- Amir: RIGHT.
+- Amir: QUESTION
+- Amir: when you get turned into a cephalon
+- Amir: do you get to decide what parts stay and go?
+- Amir: like who does that? who does the coding bit?
+- Most times? It was Nihil. The Glassmaker.
+- Amir: sounds like a badass lol
+- Yeah. If you think slaughtering people and sucking out their souls against their will is badass.
+- Amir: ....oh
+- Cephalons, and being turned into one, isn't *cute* or *fun.*
+- {Lines required}
+- > I don't want to talk about this. {Convo. Ends}
+- The Cephalon program was the ultimate punishment. Something even worse than an execution.
+- > Perpetual servitude. Being *remade.* Edited to the liking of the Orokin.
+- Why?
+- Amir: because it sounds like something out of a scifi movie
+- Amir: it sounds like magic and i just wanna understand it more
+- Amir: tech is my thing
+- Is that the only reason?
+- Amir: (Blank message)
+- > Amir? {Convo. Ends}
+- Sigh. Well, I'll tell you what I know about the tech, I guess.
+- > There's this "Cephalon Weave" that they become a part of. They don't really have physical bodies like we think of.
+- They're also programmed with "precepts" or life missions - sometimes they choose them themselves, other times they're... forced to have them.
+- Amir: like what?
+- Like Ordis
+- >He... used to be very different, when he was a person. Very *very* different.
+- But when the man pissed off the Orikin, they edited him and made him serve the Tenno. Protect the kids like me.
+- Amir: sooo the origin people are the ones who did the code edits
+- Amir: entrati used to be orikin, didn't he? or...will be...or was...or is?
+- Amir: fuggin time travel
+- Amir: but he knows how
+- Yeah, but he took off, even if you wanted to ask him about it.
+- Amir: yeah but he might have left research or notes or SOMETHING kicking around
+- Amir: hmmmmmm
+- Amir: brb {convo ends}
+- Seriously, why're you so interested in cephalons?
+- {Lines Required}
+- > Cephalon Suda
+- {Lines Required}
+- > Necraloid, for example.
+- {Lines required}
+- He's a serial killer, Amir.
+- {Lines required}
+- Why're you asking, Amir...?
+- {Lines required}
+- > I'm out. {Convo. Ends}
+- > I'm out. {Convo. Ends}
+
+### Conversation 3 (So where'd you learn to hack ? / What's your favorite game ?)
+
+- So where’d you learn to hack?
+- Amir: LMAO
+- What?
+- Amir: listen, future, i know you have those cool... stabby wrist thingies that let you be a total l33t h4XX0r without knowing a single line of C++ or python
+- Amir: but like you don't "learn how to hack" you learn how to code lol
+- Amir: even then only like 25% of it's actual code the other 75% is guessing people's stupid passwords
+- Amir: and MAN DO PEOPLE HAVE SOME STUPID FRIGGIN PASSWORDS
+- Amir: like my BOSS at the O.R.O?! the HEAD OF IT, right?! THE GUY IN CHARGE OF IT?! HIS PASSWORD?!
+- Amir: Admin1234!
+- .... BRB gotta go change my passwords...
+- Amir: ROFLMAO
+- [Conversation continues as below, starting at "biometric sensor thingies"]
+- But that ! made it so much more secure, Amir. lol
+- Amir: RIGHT?!
+- Amir: i figure they probably use biometric sensor thingies for you guys in the future, yeah?
+- Amir: probably pretty hard to hack that shit, given how many languages and protocols there are...
+- Amir: i mean, unless you had some sort of like... universal hack translator... thingy...
+- Amir: like a SUPER DUPER FLOPPY DISK or something that you could just shove in there and go WAM lol not like they use floppy disks in the future
+- Amir: anyway yeah so i learned to CODE ever since i was little, knew how to type before i knew how to spell.
+- Amir: the rest you just get from learning to predict how dumb people are with technology
+- Amir: speaking of gotta go hack quincy's account, talk about a shitty password, brb... {Convo. Ends}
+- What’s your favorite game?
+- Amir: ooooh like console, board game, computer, arcade, card, or TTRPG?
+- Computer.
+- (line required)
+- Arcade.
+- Amir: oh well see there’s a caliber chicks with i LOVE but there’s also Van Helsing vs the Countessa which i love because of the art
+- Mmhm. The “art”.
+- Amir: loooook i‘m not gonna lie that i appreciate her art aasssettttts
+- Amir: but its just got the awesome vibe yknow
+- Amir: Besides who doesn’t wanna be a sexy vampire muahahaha V===V
+- Amir: oh that reminds me gotta tell eleanor something brb {Convo. Ends}
+- > Isn’t it just a pinball game?
+- I am suddenly regretting asking.
+- Amir: yeah well your mom's face regrets asking
+- Amir: and NO i have no idea what that means and i don't care {Convo. Ends}
+- What’s a TTRPG?
+- Amir: YOU DON'T KNOW?!?!?! OH MY LUA
+- Amir: it stands for table top role playing game and they are like the best thing EVER
+- Amir: you get to sit around a table and make up characters like dwarves and elves and half-orcs
+- Amir: and you get to be a paladin or a wizard or a knight or whatever, and then the dungeon master tells you a story and you act it out
+- Amir: but like pretend act it out with dice and stuff and usually there's snacks
+- Amir: ...as i'm describing this i realize this makes zero friggin sense, huh?
+- Absolutely zero. lol.
+- (line required)
+- >It sounds fun, actually.
+- Amir: IT IS
+- Amir: and every time I ask the Hex they usually tell me they'd rather lick the floor of the food court clean than play
+- Amir: so Y'KNOW, there's THAT
+- Ah, well. Is there a game the two of us can play?
+- Amir: yeah!! let's do that instead. involves fewer threats of violence lol
+- Maybe I can talk them into it.
+- Amir: you can trrryyyyy but be careful, quincy threatened to shoot me last time i asked
+- Amir: the game is really only good with like... at least four people. so you'll need to say yes, but more is better
+- > Eh, never mind. {End}
+- I'll see what I can do.
+- sw333333t
+
+### Conversation 4 (sup, drifter/ sup, future)
+
+- Amir: sup, drifter (If Amir told you future was your new surname, he will start with "sup, future")
+- Amir: gotta second?
+- > Sorry, talk later. {Convo. ends}
+- Yeah?
+- Amir: ok so don’t laugh but i‘m designing a video game in my spare time
+- You really should get better hobbies, man.
+- Amir: well at least you didn't laugh {Convo. ends}
+- That’s cool!
+- Amir: you... really think so?
+- No. I'm just screwing with you.
+- fell for the football trick again... {End}
+- Yeah, of course.
+- Amir: ... awesome
+- [Conversation continues as "there's this bit" below]
+- Why would I laugh?
+- Amir: i mean i‘m not trying to pop a bottle of bubbly at the pity party
+- Amir: but everybody else does, so why wouldn’t you?
+- Yikes.
+- [Jump below to drifter's question "Anyway. Your game?"]
+- I am not going to judge people for what they do in their spare time, trust me… Don’t get me started on Duviri.
+- > Anyway. Your game?
+- Amir: there‘s this bit of it that i can’t figure out what i wanna do with it
+- Amir: i was wondering if i could talk you through the issue and maybe you can help me come up with a solution
+- Amir: rattle off more ideas at any of the hex i think they’re gonna stuff me in a dumpster lol
+- I’d rather eat my old socks.
+- whatever {Convo. ends}
+- I’d love to help.
+- [Same as "Sure, go ahead."]
+- Sure, go ahead.
+- Amir: sw33t
+- Amir: Soooooo okay i‘ve gotten into this problem with *doors*, right?
+- Go on.
+- [Convo. continues at "OKAY"]
+- Doors…?
+- Amir: THEY’RE SUPER COMPLICATED
+- Amir: OKAY so i want this to be multiplayer but i also want it to be an exploration platformer game so some doors open and some doors don’t but some doors are LOCKED until you have a KEY right?
+- You could try-
+- [Same as "Right...?"]
+- Right...?
+- Amir: okay so how do i communicate what doors are decorative and which ones are just locked and what do i do if one player has a key and the other one doesn’t and what do i do if one player goes through a door and the other one doesn’t do i like teleport that other player?!?!
+- Well,
+- [Same as "I mean-"]
+- I mean-
+- Amir: i guess i could just make KEYS a global state and just make it highest takes precedence, right? like if somebody in your group has a key everybody in your group benefits, it’s kind of an exploit but key it means higher ranked people will just help lower ranked people that’s not a bad thing, power fantasy right
+- Okay, and
+- [Same as "Right, but"]
+- Right, but
+- Amir: and as for communicating locked i guess i could just have a lock show up for a second and a KNOCKKNOCK sound effect play if it’s locked, and if it’s decorative it’s just not interactive, y’know? YEAH that works!!
+- ...
+- [Same as ".........."]
+- .......... {For the record, there are 10 dots. I COUNTED}
+- Amir: AND OH I KNOW if someone is ready to move ahead but somebody else is lagging i can just pop up text that’s like “x number of players are waiting for you.” kind of thing, and just gently nudge the laggers to kind of hurry up. PERFECT!!
+- Amir: THIS HAS BEEN SO HELPFUL, THANKS!! YOU’RE THE BEST!!
+- > You’re… welcome? {Convo. ends}
+- > Yeah, um. Anytime. {Convo. ends}
+
+### Conversation 5 (komi is weiiiiiird but i like it)
+
+- Amir: komi is weiiiiiird but i like it
+- Amir: it's like checkers on neep lol
+- Amir: or like this game that Aoi showed me once but i forget the name of it
+- Well, you should like the game, you kept beating me at it.
+- Amir: yeah well strategy games are kinda my jam, yo
+- Amir: let's play again sometime!!! {Convo ends.}
+- Don't feel too bad about losing all those games. I've had a *lot* of practice at komi.
+- Amir: eh hey y'know it beats 80-million games of Lonestar Hold'em like i usually end up playing all week lol
+- Amir: it's the only game the team'll play with me so i get tons of practice
+- Amir: how's it going, convincing the team to play F&F?
+- Yeah, and I don't think I can convince any others, so we should just play now.
+- (Lines required)
+- Yeah, but I think I can get more of them on board.
+- Amir: Solspeed, buddy {Convo ends.}
+- Thanks for teaching me Lonestar Hold'em
+- Amir: sorry for beating you all those times lmao, at least we weren't playing for actual money
+- Amir: it's the only game the team'll play with me so i get tons of practice
+- Amir: i try to get them to play Fables & Frontiers with me, but they say it's too dorky
+- What's Fables & Frontiers?
+- Amir: RIGHT. SPACE. hahaha you've never heard of a TTRPG. it's a table top roleplaying game.
+- Amir: where you and a bunch of friends sit around and make up characters and fight monsters by rolling dice and tell a story and it's SUPER FUN
+- but the keywords there are "a bunch of friends" and if you don't have a few people to play with it's super lame
+- Aw, well, let's play more games with the two of us, then.
+- i'd like that :D {Convo ends.}
+- Maybe I can talk the Hex into playing. :)
+- Amir: ::snort:: i would love to see you try
+- Amir: no seriously i'd love to see you try that'd be awesome but i wouldn't get your hopes up {Convo ends.}
+- They're just worried about all of the whole "end of the world" stuff.
+- Amir: yeah, but they gotta learn to unwind now and again, y'know? if we all just sit around brooding whats the point of still being alive?
+- Amir: oh well anyway thanks for playing games with me let's do it again soon {Convo ends.}
+- {Convo variation - Not sure the Boolean that triggers it but I think if you have already convinced some of the team to play.}
+- Amir: sorry for beating you all those times lmao, at least we weren't playing for actual money
+- Amir: it's the only game the team'll play with me so i get tons of practice
+- Amir: how's it going, convincing the team to play F&F?
+- Yeah, I don't think I can get anymore to play. {Not exact wording.}
+- (Lines required)
+- Yeah, but I think I can get more of them on board
+- Solspeed, buddy {Convo ends.}
+- {Another convo variation?}
+- Amir: sorry for beating you all those times lmao, at least we weren't playing for actual money
+- Amir: it's the only game the team'll play with me so i get tons of practice
+- Amir: i try to get them to play Fables & Frontiers with me, but they say it's too dorky
+- [Jump to choices above "> Aw, well, let's play more games with the two of us, then. ; > Maybe I can talk the Hex into playing. :) ]
+
+### Conversation 1 (hey hey hey!)
+
+- Amir: hey hey hey!
+- Amir: I'm working on the cephalon entry in <R1;C1's Name choice>
+- Amir: I have more questions
+- > Sorry. We'll talk later. {Convo ends}
+- Hi, hello, I'm good, thanks for asking.
+- Amir: oh sorry lol yeah i do that
+- Amir: hiiiiii how are yooooou?
+- Amir: ok CEPHALONS
+- Amir: you told me a bit about how they were made
+- Amir: the orokin, that it was a punishment, kind of
+- Amir: but they can still *feel* or are they just *lines of code*?
+- Wait back up. "kind of" a punishment?
+- Amir: yeah well right now i really don't see a downside lol
+- Amir: live forever no body
+- Amir: all the worst bits of you fixed
+- Amir: i fail to see the frickin' problem, sign me the hell up i thought you said this was a punishment rofl
+- Amir, no... you don't understand.
+- Amir: explain it to me, then, cuz
+- Amir: you know what my favorite part of code, is?
+- Amir: when it's broken and it doesn't work? i can FIX IT
+- Amir: and even if it doesn't make any sense at the moment?
+- Amir: i just need to figure it out. the answer is there somewhere
+- Amir: code isn't SUBJECTIVE like ART. like PEOPLE
+- Amir: so sometimes i just wish...
+- Amir? You okay?
+- (Lines Required)
+- > People *aren't* code. People *shouldn't be* code. As tempting as it might be. {Convo ends.}
+- You there?
+- (Lines Required)
+- Y'know what, you're right, now that you say it like that.
+- (Lines Required)
+- Holy shit, no. I can't have this conversation. {Convo Ends.}
+- They can still feel. Or so they say. I don't know for sure, I'm not one.
+- (Lines Required)
+- Okay, ask away.
+- Amir: ok CEPHALONS
+- Amir: who made them?
+- Monsters.
+- Amir: look, bippy, if you're not gonna give me real answers
+- Amir: there's a lot of other things i can be doing with my free time
+- Amir: like games
+- Amir: or annoying quincy
+- Amir: which is also basically a game lol
+- Why're you so interested in cephalons?
+- {Lines required}
+- The Orokin *were* monsters, Amir. Like I said earlier, they created cephalons as a punishment worse than death.
+- They stripped out people's souls, edited them to their liking, and forced them into servitude.
+- [Jump below to "Amir: like all the bad code was removed?"]
+- The Orokin. An ancient race that used to rule the Origin System. Well, *will* rule the Origin System.
+- Time travel.
+- Amir: right you said cephalons were a form of punishment worse than death, yeah
+- Amir: so i take it the orokin were total asshats
+- One way of putting it.
+- [Jumps to : "Amir: anyway like okay so the orokin made the cephalons and the orokin were the ones who edited their brains?" immediately]
+- Not all of them were so bad.
+- Amir: that's the case with all groups of people though, innit?
+- Amir: i'm sure even some of the scaldra aren't ALL bad
+- Amir: ... though i really shouldn't think about that too hard
+- Amir: get enough nightmares as it is
+- Amir: ... really not cut out for this soldier shit...
+- (Jump to below Amir: anyways like okay so the oroking made the cephalons and the orokins were the ones who edited their brains?)
+- They thought they were heroes.
+- Amir: most asshats do
+- Amir: look at fuggin vodyanoi
+- Amir: muuuurrrr look at me, i'm all sexy with my fuggin abs and shit
+- Amir: who goes around a battlefield like that, seriously?!
+- Amir: gonna get shot in the nips
+- Amir: nobody wants to get shot in the nips
+- Amir: anyway like okay so the orokin made the cephalons and the orokin were the ones who edited their brains?
+- Amir: like all the bad code was removed?
+- I feel like you are focusing on the wrong part here.
+- [Same as below]
+- And *forced into servitude.*
+- Amir: right okay so maybe the orokin's motives were bad but the method ITSELF isn't bad
+- Amir: like if somebody invented a raygun that cured cancer but also they could use it to turn people into zombies
+- Amir: would you never use it to cure cancer ever again, if you could turn off the "and also zombies" setting?
+- Amir: are cephalons themselves evil? or are they good "people"?
+- Some of them are my best friends.
+- [Same as below]
+- Where are you going with this?
+- Amir: i'm just saying that the monster in the story wasn't evil, the man who made him out of corpses WAS
+- Amir: and neither was the science behind the monster
+- I don't think I like it when you make sense, Amir.
+- Amir: lol arthur says that all the time
+- Amir: gotta think through make some notes talk later {Convo ends.}
+- You don't understand the cost of becoming a cephalon. You really don't.
+- Amir: and you don't like losing an argument to a neeeeeeerrd lol it's okay i don't blame you nobody does
+- Amir: gotta think through make some notes talk later {Convo ends.}
+
+### Conversation 2 (so i have a question but it's attached to a story first so strap in)
+
+- Amir: so i have a question but it's attached to a story first so strap in
+- Amir: so i was taking some notes on some code i was working on on some pieces of paper on my desk right
+- Amir: and quincy came over and took the pieces of paper and used them for target practice because he "didn't see anything important on them"
+- Amir: "just nonsense"
+- Amir: like what
+- Amir: w h a t t h e a c t u a l
+- Amir: fffffff
+- Amir: then he laughed at me when i was upset
+- Amir: this is why i like machines more than people
+- Amir: ... well, except you, you're cool
+- Amir: but you don't count, you spend most of your time INSIDE machines
+- Amir: that... were... people... ANYWAY
+- Amir: um. shit. i forgot my question. gimmie a hot second
+- > Big yikes {End.}
+- I'm fine, thanks for asking. How're you?
+- Amir: oh yeah oops hiiiii sorry how're you i'm upset thanks
+- Amir: i remember my question though
+- Amir: do you have any friendships with the cephalons?
+- Yeah. There's Ordis.
+- He's my helper.
+- (same as below option "Amir: you have a robot butler?!")
+- He's my best friend.
+- He watches over the ship, keeps an eye on things.
+- Amir: you have a robot butler?!
+- Amir: suh-WEEEEET
+- He doesn't have a choice.
+- [Same as below option]
+- Only because he was programmed to be.
+- Amir: yeah but that's just code that can be fixed
+- > I can't do this. {End}
+- Amir, you're not listening to me. Ordis doesn't have a CHOICE.
+- Amir: do all cephalons come pre-programmed like that?
+- No, some choose their own precepts, but you're missing the point.
+- Amir: feelings and immortality and no pesky body AND FREE WILL if it hasn't been overwritten?!?!?!
+- Amir: being a cephalon sounds awesome
+- Amir: just sounds like the orokin are the ones who can't be trusted with the technology is all
+- Amir: more pros in the caphalon column lol {Convo ends}
+- You keep skimming over the horrifying parts of all this.
+- [Jump to above "Amir: being a cephalon sounds awesome"]
+- There's Necraloid & Otak.
+- They try their best, and they care deeply.
+- [Same as below option]
+- They help out on Deimos & where they can.
+- Amir: why're you putting them together like that?
+- Otak was badly damaged and they had to upload him into the same shell Necraloid uses.
+- Amir: ouch... okay, first downside noted
+- Amir: defrag failured is a thing
+- Otak doesn't really seem to notice he's damaged. Ordis, on the other hand...
+- Amir: whats ordis do?
+- [Jump to above line "> He's my helper."]
+- There are a lot more downsides than just the one, Amir. Like being preprogrammed.
+- [Jump to above "Amir: do all cephalons come pre-programmed like that?"]
+- There's Cy.
+- He helps pilot my railjack - one of my spaceships
+- [Same as below]
+- He's a good friend. Helps pilot my jailjack, one of my spaceships
+- Amir: lol casually just gonna drop "ONE OF" MY SPACE SHIPS
+- Amir: HOW MANY SPACE SHIPS DO YOU OWN?!
+- Just the two lol
+- Amir: like the goddamn millionaire "just my two yachts"
+- [Jump to below "Amir: anyway"]
+- Two, but I also have an archwing I can use to get around in space.
+- Amir: ... i wanna PLAY WITH IT
+- Amir: anyway
+- Amir: what's cy's deal?
+- Cy is a Command Cephalon from the Old War. He... was ordered to complete a mission which involved murdering his entire crew.
+- But he was programmed like Ordis
+- Amir: whats ordis do?
+- [Jump to above "> He's my helper."]
+- But he was programmed. I don't think he really had a choice, despite the guilt he carries over it.
+- [Jump to above "Amir: do all cephalons come pre-programmed like that?"]
+- Holy shit, buddy. You okay?
+- Amir: NO i'm upset
+- Amir: i remember my question though
+- Amir: can you have computers as friends in the future? real friends?
+- Kind of. Cephalons aren't exactly "computers" but they're close enough for what you're thinking.
+- Amir: what're cephalons?
+- > Digital glass brains, kind of. A person that was stripped of their body and reprogrammed.
+- > It was an execution method and a fate worse than death, but they're a person preserved as a sort of computer.
+- Amir: ....whoa
+- Amir: that's AWESOME
+- I think you skimmed over some parts of what I typed, Amir.
+- Amir: FLOATY GLASS BRAAAAAIN
+- Amir: i wanna be a floaty glass brain!!
+- Amir: brbholyshitgottagothinkaboutthis {Convo. Ends}
+- Awesome, how?
+- (Same answer as other option)
+
+### Conversation 3 (Hey Amir, you there ? / Hey Sweetcheeks, you there ?)
+
+- Hey Amir, you there?
+- Amir: yeah, what's up?
+- What's with the beef between you and Quincy?
+- Amir: what beef lol i have no idea what you're talking about WHY DO YOU THINK HE DOESN'T LIKE ME LOL
+- Amir: no he just takes himself too seriously, really
+- Amir: i like him just fine i just wish he'd like... laugh once and a while, right?
+- Amir: like not everything has to be macho snarly 'come here pissin' on my patch' bullshit
+- Amir: y'know?
+- On the other side of things, I think he wished you'd take things a bit more seriously.
+- Meet in the middle , sometimes.
+- Amir: yeah you're probably right
+- Amir: i'd say he needed to get laid
+- Amir: but that's not the problem
+- Amir: stupid pretty bastard
+- (Jump to the line below: "Jealous? lol")
+- Yeah, I agree. He needs to lighten up.
+- Amir: i'd say he needed to get laid
+- Amir: but that's not the problem
+- Amir: stupid pretty bastard
+- Jealous? lol
+- Amir: nope
+- Amir: i'm swinnin' in companions
+- Amir: just wake up surrounded by naked beautiful people
+- Amir: i have to beat them off with a stick
+- Amir: wait... that came out wrong
+- Amir: whatever
+- Amir: he can be obnoxious and i can be annoying
+- Amir: faaaaamily {Convo ends}
+- What he does in his own time is his business.
+- Amir: it would be except I HAVE TO LISTEN TO THE THUMPING
+- Amir: IT'S WORSE THAN COLLEGE
+- Have you told him you can hear him? And asked him to go elsewhere?
+- Maybe he doesn't know he's being disruptive.
+- Amir: no haven't done that actually
+- Amir: hmmm okay i'll ask him what's the worst that happens he punches me in the face or laughs at me right {Convo ends}
+- Play loud music?
+- Amir: i've triiiiiiied but sometimes i just want to sleep or focus
+- Amir: oh well whatever
+- Amir: just another DAY IN THE LIFE FOR AMIR {Convo ends}
+- Not everything can be turned into a joke.
+- Amir: lol watch me {Convo ends}
+
+### Conversation 4 (I'm going to just come out and ask. Are you single ? / Where're you from, originally ?")
+
+- I'm going to just come out and ask. Are you single?
+- Amir: like is there only one of me?
+- Amir: honestly i've been wondering that a lot lately, too
+- Amir: since entrati left behind a bunch of his notes and documents and whatever and i've been digging through them
+- Amir: DID YOU KNOW YOU CAN MAKE MORE THAN ONE COPY OF A WARFRAME?!
+- Amir: so there are like multiple volts running around?! i don't know if i like that
+- Amir: so if i'm also part warframe now, does that mean there can be multiple amirs?
+- Amir: would they also have my voice? would they have my personality? would they be a PERSON?!
+- Amir: WHICH ONE IS THE REAL AMIR?! WHICH ONE HAS THE SOUL?! IS THERE EVEN SUCH A THING AS A SOUL?!
+- Amir: AAGGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+- Amir: wait
+- Amir: ...........
+- Amir: that wasn't what you were asking me, was it
+- Actually - um - yes it was. Totally what I was asking. :)
+- Amir: phew because of a second there I thought you were asking me if I was "single" as in like not dating anybody and I had horribly misunderstood the question
+- Amir: and i eeeenntiiiiiiirely put my whole friggin foot in my mouth hahahaha lol
+- Amir: um
+- Amir: i am tho
+- Amir: and also i am
+- Amir: gonna go die of shame
+- Amir: brb {Convo ends.}
+- Holy shit, buddy. No, it wasn't. lol
+- Amir: whep [sic] there i go again being classic ME somebody goes and tries to be flirty
+- Amir: and i eeeenntiiiiiiirely put my whole friggin foot in my mouth hahahaha lol
+- Amir: um
+- Amir: i am tho
+- Amir: and also i am
+- Amir: gonna go die of shame
+- Amir: brb {Convo. Ends}
+- Where're you from, originally?
+- Amir: libertatia, born 'n raised! tha good 'ol U S of L! yeeeehawwww 'TATIA baybee! OORAH
+- Amir: ... you have no idea what i'm talking about, do you
+- No freaking clue.
+- Amir: lol overseas, other continent
+- Amir: biiiiiiig country, made up of a ton of smaller states like this one
+- Amir: you can grow up in two different parts of it and basically feel like you grew up in a different country
+- Amir: i'm from furnace flats on the west coast, lotta technology there, where all the computers really are getting their start
+- Amir: but i'm from a smaller town on the edge called amberstone, it was really nice there growing up
+- Amir: dad ran a restaurant and i'd sit in the back tinkering during the slow hours
+- Amir: where'd you grow up?
+- Um... nowhere nearly as pleasant and nice as that. It was traumatic, actually.
+- [Goes same as below]
+- Long story short? Future Earth, then the Zariman, a ship in space. And then Duviri when all hell broke loose.
+- Amir: .... sounds like a bucket of laughs, yeah...
+- Amir: story for another time, maybe?
+- Sounds like a date. ;)
+- Amir: mmm yes traumatic stories over a big plate of rigatoni so romantic
+- Amir: actually sounds better than MOST of the dates i've had {Convo ends}
+- Sounds good.
+- Amir: coo coo whenever you're ready lemme know {Convo ends}
+- Eh, I'll pass. Sorry.
+- (Lines required)
+- Kind of?
+- [Goes same as above]
+
+### Conversation 5 (Hey Amir, you around?)
+
+- Hey Amir, you around?
+- Amir: Not a good time...
+- What's wrong?
+- Amir: nothing
+- Clearly, something's wrong.
+- Amir: it doesn't fking matter
+- Amir: leave it alone
+- Amir, you can talk to me. Are you okay?
+- Amir: DOESN'T FKING MATTER IF I'M OKAY OR NOT LOOK AROUND.
+- Amir: BOO HOO AMIR THE POOR LIL BABY
+- Amir: LOST IN A WARZONE ON THE WRONG SIDE OF THE TRACKS
+- Amir: I DON'T NEED YOUR FKING PITY
+- Who said anything about pity? You're a grown-ass man who's capable of taking care of himself. But you're also my friend and something's wrong and I'm trying to just HELP my damn FRIEND, ok?!
+- Amir: whatever.
+- Amir: i'mtoowoundupforthisnow {Convo. Ends}
+- > Shit, okay. Sorry [End]
+- I'm just trying to help.
+- Amir: I DON'T NEED THIS SHIT THROWN IN MY FACE
+- Amir: BOO HOO AMIR THE POOR LIL BABY
+- Amir: LOST IN A WARZONE ON THE WRONG SIDE OF THE TRACKS
+- Amir: I DON'T NEED YOUR FKING PITY
+- (Choices same as in the above branch follow)
+- >Ok. [End]
+- > Sorry, I'll leave you alone. [End]
+- >Oh. Sorry to bother you. [End]
+- [Ignore]
+- {Convo End}
+
+### Conversation 6.1 (so i changed the entire genre of the game)
+
+- Amir: so i changed the entire genre of the game
+- Amir: it‘s not an exploration platformer anymore it’s a looter shooter
+- Amir: But that door stuff still was important though so thanks for that lol
+- > I don’t have time right now, sorry. [End]
+- You just really like to skip the “hellos” don’t you.
+- Amir: right yeah sorry lol hi hello yes how are you i‘m good thanks
+- You must’ve been hell on the babysitter.
+- Amir: lol honestly i was great put me down in front of a computer or a choose your own adventure books i'd be good for daaaaaaays
+- Amir: now expect me to sit on the sofa and be quiet with nothing to do for an hour? nother story
+- (Proceeds to "Amir: ok ok ok so the game i figured design what you know, you know?")
+- K. Right. Anyway. Why the change?
+- Amir: ok ok ok so the game i figured design what you know, you know?
+- Amir: and what do i know a lot of right now? running around shooting things and looting things.
+- Amir: but i‘m having a real hard time with the – like – with the getting AROUND the levels right?
+- Right.
+- Amir: like it seems super limiting to just be running around glued to the floor shooting things when there are buildings and cool stuff
+- Amir: and i started this as a sidescroller but there’s some really cool awesome stuff in 3D now which is totally mindblowing and i wanna play with it
+- > Amir {Note: 1}
+- > Amir {Note: 1}
+- Amir: and so i put everything in 3D and the buildings are super cool now but everything feels super claustrophobic being stuck close to the ground but
+- Amir: i dunno what to do instead and it seems really limiting to just do like sprint and double jump and like your usual stamina stuff and
+- > Amir {Note: 1}
+- > Amir {Note: 1}
+- Amir: i feel like the answer is right in front of my face but i‘m missing it somehow lol
+- > AMIR {Note: 1}
+- > AMIR {Note: 1}
+- Amir: WHAT
+- Make them warframes.
+- Amir: … hoshit
+- Amir: GENIUS {Convo. Ends}
+- > I have a sense of how this conversation is about to go.
+- (Jumps to "Amir: like it seems super limiting to just be running around glued to the floor shooting things when there are buildings and cool stuff"
+- What’s a… looter shooter?
+- Amir: it's when you... shoot things... and... loot things?
+- Amir: i don't know how else to describe it lol
+- > (Jumps to "You must’ve been hell on the babysitter.")
+- > (Jumps to "K. Right. Anyway. Why the change?")
+
+### Conversation 6.2 (soooooo don't lauaaaauuuuuugh)
+
+- Amir: soooooo don't lauaaaauuuuuugh
+- Amir: but i'm developing my own video game, right?
+- Amir: AND IT'S GONNA BE SUPER COOL
+- That sounds like a fun project, actually
+- Amir:YEAH, it's great to chew on in between going out and causing rampant property destruction and mass murder hahahahaha I'M FINE
+- Amir: anyway i was wondering if you'd mind helping me with the game?
+- Sure, but I have no idea how to code...
+- Amir: NOT. A. PROBLEM.
+- Amir: all you gotta do is sit there
+- Amir: while i rant at your face at 9000 mph while i talk through problems
+- And this is different from normal... how? :P
+- Amir: ouch lol
+- Amir: TRUE AND FUNNY
+- Amir: but ouch lol
+- Amir: ok ok ok so the game i figured design what you know, you know?
+- Amir: and what do i know a lot of right now? running around shooting things and looting things
+- Amir: but i'm having a real hard time with the - like - with the getting AROUND the levels right?
+- Right.
+- Amir: like it seems super limiting to just be running around glued to the floor shooting things when there are buildings and cool stuff
+- Amir: and i started this as a sidescroller but there's some really cool awesome stuff in 3D now which is totally mindbending and i wanna play with it
+- Amir
+- Amir: and so i put everything in 3D and the buildings are super cool now but everything feels super claustrophobic being stuck to the ground but
+- Amir: i dunno what to do instead and it seems really limiting to just do sprint and double jump like your usual stamina and
+- >Amir
+- Amir
+- Amir: i feel like the answer is right in front of my face but i'm missing somehow but
+- AMIR
+- Amir: WHAT
+- Make them warframes.
+- Amir: ... hoshit
+- Amir: GENIUS {Convo. Ends}
+- >AMIR
+- >Amir
+- I have a sense of how this conversation is about to go.
+- [Go back to above Amir: like it seems super limiting to just be running around glued to the floor shooting things when there are buildings and cool stuff]
+- Sounds like fun
+- Amir: okok here we go
+- [Go back to above Amir: ok ok ok so the game i figured design what you know, you know?]
+- >On second thought... {Convo. Ends}
+- >Sure
+- >Pass. Sorry. {Convo. Ends}
+- >Like you don't have enough weir hobbies?
+
+### Conversation 1 (Sup, Amir / Sup, sweetheart ? / Sup, hotstuff ? / [Ignore])
+
+- Sup, Amir?
+- Amir: not a whole lot
+- Amir: whassup with you?
+- What've you been working on lately?
+- Amir: SO MANY THINGS
+- Amir: gotta fill teh empty space in my brain otherwise the goblins get in and nobody wants brain goblins.
+- That... sounds problematic.
+- Amir: It cam be but that's why I keep busy
+- Amir: keeps the sadness and the fear and other things at bay
+- Amir: y'know?
+- >(jump to below ">Yeah, honestly. I do. I put puzzles all over Duviri to manage my emotions.)
+- No, i find other ways to deal with the "goblins."
+- Amir: you're lucky then {End Conv.}
+- What's a... goblin?
+- Amir: oh!! lol it's a fantasy creature from a table top game i play called fables & frontiers
+- Amir: i'd love to play with the hex but they told me to get lost
+- Sounds Fun. Maybe I can convince them to play :)
+- Amir: OML that would be so much fun!!! good luck
+- Amir: just watch out because last time i asked quincy i had to ask myself the question 'am i faster than a speeding bullet?'
+- Amir: the answer is no
+- Amir: no i am not
+- Amir: but i think he missed on purpose
+- Amir: anyway hf gl dd {End Conv.}
+- I completely forgot what I was going to ask you.
+- Amir: lol happens to me all the time {End Conv.}
+- Sup, hotstuff?
+- {If in a relationship}
+- Amir: GROSS
+- Amir: don't even
+- Amir: you're with somebody else and you're gonna flirt with me?!
+- Amir: GROSS
+- Amir: i'll be nice and not tell them and just assume this was like a horrible drunken mistake {Convo. Ends}
+- {If not in a relationship}
+- Amir: it's fascinating how language changes over time lol because today that's something you call somebody you think is attractive
+- Amir: in the future that must mean something entirely different hahaha
+- The meaning's the same. ;)
+- Amir: ...oh
+- Amir:
+- Amir: dontpanicdontpanicdontpanicdontpanicdontpanicdontpanic
+- Sorry, I don't really know how to *flirt,* my upbringing was... weird.
+- Amir: so you
+- Amir: aren't joking?
+- Amir: tell me you're joking
+- Do you want me to be joking? Because I'm not... [Ask out.]
+- Amir: i
+- Amir: i mean
+- (Path 1) Amir: i
+- Amir: hooooooooooo boy
+- Amir: deepbreathsamirdeepbreathslikelettietaughtyou
+- Amir: shitshitshitshitshitshitshit
+- Ugh. Never mind
+- (lines needed)
+- Take your time. But I really care about you, Amir. So you have nothing to worry about.
+- Amir: LOL NOTHING TO WORRY ABOUT HAVE WE MET
+- Amir: its just that
+- Amir: I don't even know how to describe what the problem is
+- Amir: not that this is a problem it's not a problem OH SOL WHY DID I SAY IT WAS A PROBLEM
+- Amir: i've just never had REAL feelings for some before
+- Amir: i mean i've dated before that's - i'm not a total loser lol
+- Amir: look at everyone else, look at the Hex, how perfect they all are
+- Amir: not a nervous hyperactive twitchy wreck with a confidence issue and nightmares about was
+- Amir: why me?!
+- Because you're amazingly intelligent- I'm in awe of what you come up with.
+- (lines needed)
+- Because you're caring and genuine - you wear your heart on your sleeve, even when it's hurting.
+- and i care about you, Amir
+- Amir: i
+- Amir: i think i'm blushing lol
+- Amir: it's mutual - the - the feelings, i mean
+- Amir: i know we're still getting to know each other and all
+- Amir: but uh... yeah if you wanna give this a go lol let's give this a go!
+- Amir: agggghhh i'm so excited i need to go run this off BRB!!!!! [Convo. End]
+- Because you make me laugh. Even when things are at their darkest, you try to find joy.
+- (lines needed)
+- I want to know what is feels like to make love to someone who goes 9000 mph.
+- (lines needed)
+- Take your time {Maybe something else, to complete}
+- {Lines required}
+- (Path 2) Amir: i mean i'm not saying no
+- Amir: I'M REALLY NOT SAYING NO PLEASE DON'T BE UPSET
+- Amir: imsuperflatteredandohsolthisismakingmealljitteryandfffff
+- Hey! It's okay, I'm not upset. I get it. There's a lot going on.
+- Amir: thanks
+- Amir: that means a ton
+- Amir: quick change the subject before i panic you were gonna ask me about something
+- Amir: whassup?
+- What've you been working on lately?
+- Amir: SO MANY THINGS
+- Amir: gotta fill the empty space in my brain otherwise the goblins get in and nobody wants brain goblins
+- That... sounds problematic.
+- Amir: it can be but that's why i keep busy
+- Amir: keeps the sadness and the fear and the other thing at bay
+- Amir: y'know?
+- Yeah, honestly. I do. I put puzzles all over Duviri to help manage my emotions.
+- Even though I had no idea what I was really doing at the time.
+- Amir: ohhh it almost sounds like you were trapped inside your own game of fables & frontiers
+- Amir: which is a tabletop game i play where you tell a story to people and they play along using dice
+- Amir: i'd love to play with the hex but they've all told me to get lost
+- Sounds fun. Maybe I can convince them to play. :)
+- Amir: OML that would be so much fun!!! good luck
+- Amir: just watch out because last time i asked quincy i had to ask myself the question 'am i faster than a speeding bullet?
+- Amir: the answer is no
+- Amir: no i am not
+- Amir: but i think he missed on purpose
+- Amir: anyway gl hf dd
+- Yep! just kidding. hahaha.
+- (lines needed)
+- Hey calm down I'm just joking around with you.
+- (lines needed)
+- > Never mind. {Convo. End}
+- Um... yeah, that is really fascinating. lol
+- Amir: otherwise i'd think you were like
+- Amir: hitting on me lol
+- Oh, man - whoops! Talk about a misunderstanding! LOL!
+- Amir: RIGHT?!?!?!
+- Amir: anyway
+- Amir: whassup?
+- How's the prep for Fables & Frontiers going?
+- Amir: REALLY GOOD ACTUALLY
+- Amir: i have a rough draft outline for the campaign which i can tweak depending on who picks what for characters and who plays
+- Amir: how goes conning
+- Amir: i mean convincing
+- Amir: the others to join?
+- Yeah, and I have all I think I can get, so let's start.
+- (lines needed)
+- A few, but I can get more. I'm sure of it.
+- Amir: rock on {Convo. End}
+- What've you been working on lately?
+- Amir: SO MANY THINGS
+- Amir: gotta fill the empty space in my brain otherwise the goblins get in and nobody wants brain goblins
+- What's a... goblin?
+- Amir: oh!! lol it's a fantasy creature from a table top game i play called fables & frontiers
+- Amir: i'd love to play with the hex but they've all told me to get lost
+- Sounds fun. Maybe I can convince them to play. :)
+- Amir: OML that would be so much fun!!! good luck
+- Amir: just watch out because last time i asked quincy i had to ask myself the question 'am i faster than a speeding bullet?'
+- Amir: the answer is no
+- Amir: no i am not
+- Amir: but i think he missed on purpose
+- Amir: anyways hf gl dd {Convo. End}
+- But uh - out of curiosity, what if I... was hitting on you, just there?
+- (lines needed)
+
+### Conversation 2 (hey...) follow up to "fight" flag in R3C5
+
+- Amir: hey...
+- Amir: you around?
+- Yeah, Amir?
+- Amir: um, remember that fight we had a while ago.. when i wasn't okay and you asked why i wasn't okay...
+- Amir: and i said it wasn't anything but it obviously WAS and... yeah... that whole thing?
+- > I don'r remember, actually. Why?
+- I remember. Why?
+- Amir: well first i just wanted to say um *sorry* about all that losing my temper shit
+- Amir: it's just that
+- Amir: i'm not
+- Amir: i don't
+- Amir: i don't BELONG here
+- Amir: i'm not a soldier like everyone else, or used to seeing war like eleanor
+- Amir: i don't know how to - to cope - and - and the nightmares...
+- Amir: the scaldra are the baddies
+- Amir: how can i be a hero if i wake up crying
+- Amir: because i see their faces as they're dying
+- Amir: because i killed them
+- Amir: how
+- Amir: please
+- Oh, Sol... Amir... I don't know, and I wish I could tell you. But you belong.
+- > You're doing the best you can. And that's all anybody can ask.
+- > Including yourself.
+- > And I'm going to say it all caps in hopes it sinks in this time.
+- > YOU. BELONG. HERE.
+- > People care about you.
+- (Jump to below branch, "Amir: ::snort::")
+- I've been where you are. I still am where you are, sometimes.
+- > I was just a kid when the Man in the Wall turned the parents on us aboard the Zariman.
+- > And I had to witness the slaughter. And I had to...
+- > And I still have nightmares sometimes. About that.
+- > About what's followed.
+- > And that's okay. Talking about it is... supposed to help. lol.
+- > People care about you.
+- Amir: ::snort::
+- Amir: yeah right
+- Amir: i just get in the way, i'm the annoying little brother on a good day
+- Amir: and the liability on a bad one
+- > *I* care about you, Amir.
+- I mean it, the Hex cares. *We* care.
+- > And I don't know how to prove it to you except to say it.
+- > And to be here when you need me to be here.
+- > So if you get those nightmares again, and you want to talk?
+- > I don't care what time it is.
+- > Come get me.
+- Amir: ... thanks
+- Amir: seriously {Convo. Ends}
+- >Okay, well, Quincy is a special case, but-
+- >Look, Amir. I've tried convincing you, but you're not 12 anymore. This isn't school.
+- Have you talked to Arthur about this?
+- >He cares about you. A lot. Like a little brother.
+- >He might know how to help.
+- Amir: i'm just so embarrassed...
+- Don't be. Everyone needs help sometimes.
+- Amir: yeah...
+- Amir: all right, i'll go talk to arthur even if it's the last thing in the world i wanna do
+- Amir: hngghhhkkkkkkkkk {Convo. Ends}
+- A mentor of mine once said "only a stubborn fool refuses a needed hand to stay seated in the mud."
+- Amir: sounds like an epic dude
+- > He is. And I was a very stubborn fool.
+- Amir: all right, i'll go talk to arthur even if it's the last thing in the world i wanna do
+- Amir: hngghhhkkkkkkkkk {Convo. Ends}
+- It's normal to feel embarrassed.
+- Amir: nothing normal about any of this situation
+- Amir: literally any of it
+- Amir: ::sigh:: thanks for listening... i'll just... go play some more games and go back to bed {Convo. Ends}
+- >I don't think I can help you.
+- Variation to how Amir brings up the subject. The rest is the same as above. (It might depend on a previous dialogue option.) (One way it seems to trigger is if you don't trigger the fight with him in R3C5 via using the >[Ignore] option)
+- Amir: hey...
+- Amir: you around?
+- > Sorry, I'm busy right now. [End.]
+- Yeah, Amir?
+- Amir: i was wondering if you had a second i just need someone to talk to and nobody...
+- Amir: nobody gets it
+- Gets what?
+- {Same as below}
+- I'm here to listen if you need to talk.
+- Amir: i'm not
+- Amir: i don't
+- Amir: i don't BELONG here
+- Amir: i'm not a soldier like everyone else, or used to seeing war like eleanor
+- Amir: i don't know how to - to cope - and - and the nightmares...
+- Amir: the scaldra are the baddies
+- Amir: how can i be a hero if i wake up crying
+- Amir: because i see their faces as they're dying
+- Amir: because i killed them
+- Amir: how
+- Amir: please
+- Oh, Sol... Amir... I don't know, and I wish I could tell you. But you belong.
+- > You're doing the best you can. And that's all anybody can ask.
+- > Including yourself.
+- > And I'm going to say it in all caps in hopes it sinks in this time.
+- > YOU. BELONG. HERE.
+- > People care about you.
+- Amir: ::snort::
+- Amir: yeah right
+- Amir: i just get in the way, i'm the annoying little brother on a good day
+- Amir: and the liability on a bad one
+- *I* care about you, Amir.
+- > As... more than a friend, if I'm being honest...
+- > So, yeah. I care about you.
+- Amir: i...
+- Amir: i can't really process that right now, but...
+- Amir: thank you...
+- > So if you get those nightmares again, and you want to talk?
+- > I don't care what time it is.
+- > Come get me.
+- Amir: ... thanks
+- Amir: seriously {Convo. Ends}
+- I mean it, the Hex cares. *We* care.
+- > And I don't know how to prove it to you except to say it.
+- > And to be here when you need me to be here.
+- > So if you get those nightmares again, and you want to talk?
+- > I don't care what time it is.
+- > Come get me.
+- Amir: ... thanks
+- Amir: seriously {Convo. Ends}
+- > Okay, well, Quincy is a special case, but -
+- > Look, Amir. I've tried convicing you, but you're not 12 anymore. This isn't school.
+- I've been where you are. I still am where you are, sometimes.
+- >I was just a kid when the Man in the Wall turned the parents on us aboard the Zariman.
+- >And I had to witness the slaughter. And I had to...
+- >And I still have nightmares sometimes. About that.
+- >About what's followed.
+- >And that's okay. Talking about it is... supposed to help. lol.
+- >People care about you.
+- (jump to "Amir: ::snort::")
+- Have you talked to Arthur about this?
+- > He cares about you. A lot. Like a little brother.
+- > He might know how to help.
+- Amir: i'm just so embarrassed...
+- Don't be. Everyone needs help sometimes.
+- Amir: yeah...
+- Amir: all right, i'll go talk to arthur even if it's the last thing in the world i wanna do
+- Amir: hngghhhkkkkkkkkk {Convo. Ends}
+- A mentor of mine once said "only a stubborn fool refuses a needed hand to stay seated in the mud."
+- Amir: sounds like an epic dude
+- > He is. And I was a very stubborn fool.
+- Amir: all right, i'll go talk to arthur even if it's the last thing in the world i wanna do
+- Amir: hngghhhkkkkkkkkk {Convo. Ends}
+- It's normal to feel embarrassed.
+- Amir: nothing normal about any of this situation
+- Amir: literally any of it
+- Amir: ::sigh:: thanks for listening... i'll just... go play some more games and go back to bed {Convo. Ends}
+- > I don't think I can help you
+
+### Conversation 3 (hey, uh, futureee? / hey, uh, you there?)
+
+- Amir: hey, uh, futureee? [Alt. start: "hey, uh, you there?"] [Alt. start 2: "hey hey hey!"]
+- Amir: [Alt. 2: "i'm working on the cephalon entry in (AMIR4U)"]
+- Amir: [Alt. 2: "i have more questions"]
+- >[Alt. 2: "Okay, ask away."]
+- Yes'm?
+- Amir: cephalons
+- Amir: [Alt.2 "okay CEPHALONS"] (leads to "who made them?")*1
+- Amir, seriously, you're obsessed.
+- Amir: yeah well it's part of the gig of being me i guess
+- Amir: have a thought and there it is and i'm gonna follow it
+- Amir: there was something you said about them that i NEEEEED to know more about
+- No, and I'm sick of you asking about them. *Stop.*
+- Amir: oh come on
+- Amir: i'm just CURIOUS
+- Clearly, you're not. Clearly, you have something else going on.
+- What are you getting at with all these questions about Cephalons?
+- Amir: like okay we agreed about the whole "cephalons aren't evil the people reprogramming them were"
+- Amir: but i'm curious
+- Amir: do you think people should be able to willingly turn themselves into cephalons?
+- Amir: y'know, be immortal if they want to be? edit themselves?
+- No.
+- Amir: welp ok then {Convo. Ends}
+- > And who gets to decide what the best version of yourself is?
+- > And who gets to decide who lives forever?
+- No. Stop.
+- Amir: whatever
+- Amir: you suck {Convo. Ends}
+- You're not going to let this go, are you?
+- Amir: NOOOOOOPE
+- Amir: who made them?*1
+- Monsters.
+- Amir : look, bippy, if you're not gonna give me real answers
+- Amir: there's a lot of other things i can be doing with my free time
+- Amir: like games
+- Amir: or annoying quincy
+- Amir: which is also basically a game lol
+- Why're you so interested in cephalons ?
+- Amir: you said they used to be people, but are now digital and edited, right?
+- Amir: like all the bad code was removed?
+- I feel like you're focusing on the wrong part here.
+- Amir: right okay so maybe the orokin's motives were bad but the method ITSELF isn't bad
+- Amir: like if somebody invented a ray gun that cured cancer but also they could use it to turn people into zombies
+- Amir: would you never use it to cure cancer ever again, if you could turn off the "and also zombies" setting?
+- Amir: are cephalons themselves evil? or are they good "people"?
+- > Some of them are my best friends.
+- Where are you going with this?
+- Amir: i'm just saying that the monster in the story wasn't evil, the man who made him out of corpses WAS
+- Amir: we can agree on the fact the oro-whoozy-kin-whowevers who did the reprogramming
+- Amir: were probably not the people who should be doing it, yeah? the orokin should NOT have been in charge of of the process
+- Amir: or should be? will be? fuggin time travel ffffk whatever you get where i'm going
+- > I think we can agree on that, yeah.
+- No. I think that cephalons shouldn't ever be made.
+- Amir: but why? think about it
+- Amir: what if you had a terminal illness or were super important and smart
+- Amir: it's like they invented the cure for cancer and used it to torture people how didn't they see what they had?!
+- Amir: it's IMMORTALITY but BETTER
+- Amir: live forever as the best version of yourself
+- Amir: sign. me. up.
+- It does sound kind of awesome now that you put it that way.
+- Amir: RIGHT?
+- Amir: gotta think this through make some notes talk later
+- > And who gets to decide what the best version of yourself is?
+- And who gets to decide who lives forever?
+- Amir: i... dunno?
+- Exactly. The Orokin were ageless. They could transfer their consciousness into new bodies.
+- (lines needed)
+- Every time someone in the Origin System gets to live forever. it goes wrong.
+- The Sentient don't age, and they keep coming back trying to exterminate us.
+- Cephalons are only harmless because they've been *programmed* to be.
+- Neutered. Hollow.
+- Even when they went willingly, like Cephalon Suda, what's left isn't whole.
+- >Just a facsimile. A broken replica. Nothing more.
+- (Line needed)
+- It's like an aging parent or grandparent who has started to forget your name.
+- Missing pieces of that past. Pieces of themselves.
+- That's the immortality you're after, Amir.
+- That's a cephalon.
+- Amir: i...
+- Amir: gotta go think...
+- They're little more than your kinegotchi.
+- (lines needed)
+- >The Orokin got to choose who lived forever. And they were monsters.
+- (lines needed)
+- > Honestly, it was their design. They had the right to use it how they wanted to.
+- > And *forced into servitude.*
+- > The Orokin *were* monsters, Amir. Like I said earlier, they created cephalons as a punishment worse than death.
+- > The Orokin. An ancient race that used to rule the Origin System. Well, *will* rule the Origin System.
+- > Sure.
+- What about them?
+- Amir: there was something you said about them that i NEEEEED to know more about
+- Sure.
+- Amir: who made them?
+- > Monsters.
+- The Orokin. An ancient race that used to rule the Origin System. Well, *will* rule the Origin System.
+- > Time travel.
+- Amir: right you said cephalons were a form of punishment worse than death, yeah
+- Amir: so i take it the orokin were total asshats
+- One way of putting it.
+- Amir: anyway like okay so the orokin made the cephalons and the orokin were the ones who edited their brains?
+- Amir: like all the bad code was removed?
+- > I feel like you're focusing on the wrong part here.
+- And *forced into servitude.*
+- Amir: right okay so maybe the orokin's motives were bad but the method ITSELF isn't bad
+- Amir: like if somebody invented a ray gun that cured cancer but also they could use it to turn people into zombies
+- Amir: would you never use it to cure cancer ever again, if you could turn off the "and also zombies" setting?
+- Amir: are cephalons themselves evil? or are they good "people"?
+- > Where are you going with this?
+- Some of them are my best friends.
+- Amir: i'm just saying that the monster in the story wasn't evil, the man who made him out of corpses WAS
+- Amir: we can agree on the fact the oro-whoozy-kin-whowevers who did the reprogramming
+- Amir: were probably not the people who should be doing it, yeah? the orokin should NOT have been in charge of of the process
+- Amir: or should be? will be? fuggin time travel ffffk whatever you get where i'm going
+- Amir: [Alt.2: "i'm just saying that the monster in the story wasn't evil, the man who made him out of corpses WAS"]
+- Amir: [Alt.2 "and neither was the science behind the monster"]
+- You don't understand the cost of becoming a cephalon. You really don't.
+- Amir: [Alt.2: "and you don't like losing an argument to a neeeeeeerrd lol it's okay i don't blame you nobody does"]
+- Amir: [Alt.2 "gotta think this through make some notes talk later"] {Convo. Ends}
+- I think we can agree on that, yeah.
+- Amir: awesome
+- Amir: because i've been thinking about it, and like -
+- Amir: it's like they invented the cure for cancer and used it to torture people how didn't they see what they had?!
+- Amir: it's IMMORTALITY but BETTER
+- Amir: live forever as the best version of yourself
+- Amir: sign. me. up.
+- And who gets to decide what the best version of yourself is?
+- Amir: uh, the person themselves, obviously
+- Okay, but what if they're wrong?
+- [Continues same as "How would that work"]
+- How would that work?
+- Amir: what do you mean?
+- Say a person suffers from anxiety. So they say "make it so I never feel fear again."
+- [Continues same as "sense of humor"]
+- Say a person suffers from depression. So they say "make it so I never feel sorrow again."
+- [Continues same as "sense of humor"]
+- What if a person is self-conscious about their sense of humor? So they say "make me never feel joy again."
+- > Are they really themselves anymore? Who is left behind?
+- > What if that part of them was actually cherished by everyone who loved them?
+- > And they just couldn't see it through their own self-loathing?
+- > That's the immortality you're after, Amir.
+- > That's a cephalon.
+- Amir: i...
+- Amir: gotta go think... {Convo. Ends}
+- Amir: like okay so we agree about the whole "cephalons aren't evil the people reprogramming them were"
+- Amir: but i'm curious
+- Amir: do you think people should be able to willingly turn themselves into cephalons?
+- Amir: y'know, be immortal if they want to be? edit themselves?
+- And who gets to decide what the best version of yourself is?
+- [Continues from "Amir: uh, the person themselves, obviously"]
+- > Sorry can't chat now. [End.]
+
+### Conversation 4.1 (do you have many friends in the future?)
+
+- Amir: do you have many friends in the future?
+- Amir: like people who're gonna miss you?
+- Maybe. Like Ordis.
+- Amir: whossat
+- He's my friend and helper. ｜ He tries his best to keep me safe.
+- Amir: it sounds like he'll really miss you
+- He's got the kid to worry about.
+- Amir: you two have a kid together?!?!?!
+- What?! NO!! No, I mean there's another version of me! ｜ I'm one half of a paradox that was created a long time ago. ｜ Long story short, I aged and the kid didn't. So Ordis kind of looks over us both.
+- Amir: oh yeah way more normal, can't see why i didn't jump straight to that conclusion
+- Amir: well now that i have a new fun thing to think about including 'paradox mini YOU' stuck in my head
+- Amir: imma go smash some buttons in the arcade 'n we can catch up later {Convo. Ends}
+- Maybe? Like Ordis?
+- amir: whossat
+- He's a cephalon
+- Amir: Cephalon?
+- A sort of disembodied, digital consciousness. A glass brain.
+- Made by the Orokin as a form of ultimate punishment, worse than death.
+- Reprogrammed to the Orokin's whim and liking, and set to serve for eternity.
+- Amir: i dunno, sounds pretty awesome to me
+- >I'm out [end]
+- Explain?
+- (Lines needed)
+- I feel like you didn't read what I wrote there.
+- amir: be immortal, get to edit out the parts of yourself you don't like?
+- amir: sounds like a sweet gig to me
+- amir: just sounds like the guys doing the programming were assholes, right?
+- amir: like, if you had a ray that cured cancer but had an OPTIONAL setting to turn people into zombies
+- amir: would you call the invention a failure because one person kept the OPTIONAL setting on?
+- I... don't like it when you make sense, Amir
+- amir: lol now you sound like arthur
+- amir: imma go have a think we'll talk again soon byyyyeee {Convo. end}
+- I don't think you understand the ramifications of what I'm describing
+- (lines needed)
+- No.
+- {Convo. Ends}
+
+### Conversation 4.2 (can you tell me more about ordis?)
+
+- Amir: can you tell me more about ordis?
+- No.
+- {Convo. Ends}
+- Sure. What do you want to know?
+- Amir: who was he before he was reprogrammed?
+- > Nobody special. Just somebody who pissed off the Orokin real badly.
+- Ordan Karris. The Beast of Bones.
+- Amir: fuggin EEPIIC NAAAAME
+- Amir: i want an epic name like that
+- Amir: AMIR BECKETT THE DEVOURER OF SOULS
+- Lol. Focus.
+- Amir: no fun
+- (jump to below: He was a mercenary in service to the Orokin.)
+- We'll... workshop that.
+- Amir: yeah you're right doesn't really capture my charming personality anyway you were saying?
+- He was a mercenary in service to the Orokin.
+- They brought him to the great chamber, and... offered to make him an Orokin like them.
+- Amir: wow... refused all that power and wealth and immortality? dude was hella dope
+- He just hated them that much.
+- So he killed every single one he could get his hands on. Or so he thought he did. But Orokin are very, very hard to kill.
+- Trust me.
+- So... they glassed him.
+- And made him chipper. And happy. And loyal. And gone is the bloody mercenary that was.
+- Amir: holy shit... so how much of the original ordis is left?
+- He doesn't even remember he used to be someone else.
+- Amir: they can take memories, too? i guess that makes sense... rewrite the code, rewrite the hard drive...
+- Amir: but i still think the concept of cephalons are awesome
+- You're going to give me a drinking problem, I swear...
+- Amir: lol you really DO sound like arthur if he still had a normal liver i'd be murdering it right now
+- Amir: gtg thaaanks {Convo. Ends}
+- Amir, you're STILL missing the point!!
+- (same as above)
+- Fragments. Glitches.
+- Amir : ... wow those orokin people were DICKS
+- (jump to above: Amir : but i still think the concept of cephalons are awesome)
+- Nothing recognizable.
+- (lines needed)
+- He wanted to go out bloody.
+- (same as above, jump to So he killed every single one he could get his hands on. Or so he thought he did. But Orokin are very, very hard to kill.)
+
+### Conversation 5 (Hey, toots! / Hey, Amir! / Hey, sexy!)
+
+- Hey, sexy!
+- {If not in relationship}
+- Amir: ....
+- Amir: ok look i'm gonna need to ask you a real question
+- Amir: are you being real right now? like really really real?
+- Amir: or just joking around like 'hahaha whats up sexy' like it's a joke?
+- >I'm just joking, don't worry. {Convo. Ends}
+- >I really do think you're sexy, Amir. I have feelings for you.
+- >[Topic prompt choice, same as after "you raaaaang?"]
+- {If in relationship}
+- Amir: no stop gross ew
+- Amir: {Depend on the boyfriend/girlfriend} look lettie and i have a weird friendship okay but one thing is very very very clear
+- Amir: she scares the absolute everloving shit out of me
+- Amir: and also i love her like a sister and i would never betray her like that even if you were joking so NO EW GROSS BAD {Convo. Ends}
+- Hey, Amir!
+- Amir: you raaaaang?
+- How'd you end up joining the Hex?
+- Amir: oh sol
+- Amir: this shit
+- Amir: uugghh
+- Amir: doo i gotttaaaa?
+- If you don't trust me, I get it.
+- Amir: oh hell you're worse than my mom
+- Amir: that's some next level passive aggressive bullshit right there
+- Amir: no thank you {Convo. Ends}
+- You don't have to tell me anything you don't want to.
+- Amir:no no it's okay i'll.. i can do this
+- Amir: so i came over here fromn the grand ol' U. S. of L. to work for the 0.R.0. at the reactor
+- Amir: as an internship-to-hire program (hahaha 'work for exposure' riiight)
+- Amir: i didn't realize they were being SUPER FREAKING LITERAL
+- Amir: well information security is still a relatively new field, and there aren't a lot of us in it..
+- Amir: so despite the fact that it isn't really what i wanna do full time, i was really left to my own devices
+- Amir: without a whole lot of supervision or anybody else mucking around in the same databases i was
+- Amir: so when this big...creepy eyeball shows up and i start getting IMPOSSIBLE messages froma dr. and STRAIGHT TO MY DESKTOP
+- Oh no...
+- (same as below option)
+- Shit.
+- Amir: i understand NOW that it was future tech and he was hacking my old school computer like it wa freakin' speak & spell but at the time the only answer i had was FULL ON DEMONIC POSSESSION
+- Amir: and this dr. e wanted specs on the reactor and told me it was a matter of life or death
+- Amir: not just for höllvania
+- Amir:and this dr. e wanted specs on the reactor and told me it was a matter of life or death
+- Amir: or earth
+- Amir: but everyone everywhere FOREVER
+- Amir: HAHAHAH COOL COOL NO PRESSURE
+- What did you do?
+- Amir: I GAVE HIM WHAT HE WANTED
+- Amir: but then the 0.R.0. found out... i don't know how i covered my tracks perfectly i KNOW i did
+- Amir: and they sent scaldra after me because i was a traitor to national security they said
+- Amir: i got a page from a number telling me to go to an address
+- Amir: didn't know what else to do, and... so i went and it was... it was dr. e
+- Amir: he gave me this vial and said if scaldra found me i should inject it and...
+- Amir: And well i'm -- i'm not working at Big Bytes so.
+- Amir: weallknowhowthatwentformedon'twe
+- But how'd you meet the Hex?
+- (same as below)
+- But-how'd you meet the Arthur?
+- Amir: i'msorryithoughticoulddothisandican't {Convo. Ends}
+- You didn't...
+- Amir: OF COURSE I DID
+- (jump to above: "Amir: but then the 0.R.0. found out...")
+- l felt that whine in my soul lol
+- fine then don't worry i'll spare you more of it {Convo. Ends}
+- > Yeah, I was wondering how you met Arthur? (look at: oh sol)
+
+### Conversation 6.1 (so i'm trying to pick / so I caught up on)
+
+- Amir: so I'm trying to pick what I'm gonna make the game about, right?
+- Amir: i decided i wanna make it a looter shooter
+- Sounds fun
+- Amir: right? and kinda topical i figured coda what ya know
+- Amir: but now i can't pick a theme
+- Amir: i can't decide between "code what ya know" and make it about WARFRAMES because that'd be kinda sick
+- Amir: putting all of us into a game and making it about running around saving the world 'n stuff right? lol
+- Amir: or if that's actually SUPER EGOTISTICAL and it really should be about something else like sexy vampire hunters trying to save the world from vampires
+- Amir: agghhhhhhhhh i can't piiiiiiiiiick
+- Amir: YOU PICK
+- > Neither. Make it about cowboys vs flying sharks and set it in a universe made entirely out of candy.
+- Totally warframes. It'll be good for you.
+- Amir: mmm yeppers nothing says "unreolved issues"
+- Amir: like writing yourself into a gaddamn videogame
+- Amir: okiedokie kids lets do this
+- Amir: ... hehehe quincy is gonna love what i do with his character...
+- Amir: THANKS BUDDY{Convo. Ends}
+- > Vampire Hunters.
+- > What's a looter shooter
+- > Sounds boring
+
+### Conversation 6.2 (I dunno about this whole "make them warframes")
+
+- Amir: I dunno about this whole "make them warframes" thing lol it seems kinda egotistical to put yourself into a game
+- Amir: author self-insert nonsense right?
+- Well, you could copy the physics but change the design. Make them vampires or something.
+- > Eleanor would love it.
+- Amir: lol she would (Continues as below)
+- Sure, but it's your game. You get to do what you want.
+- Amir: yeah i think i'll do something else but i love the idea of having them be like... really jumpy and mobile like we are
+- Amir: like... maybe... something supernatural and spooky like.... vampires...
+- Amir: hmmmm vampires... yeah... or vampire HUNTERS i love that pinball game and always wished there was more lore behind it
+- Amir: yeah so like super sexy vampire hunters
+- Amir: and maybe there's one vampire that's a good guy
+- Amir: agghhhhhhhhh i can't piiiiiiiiiick
+- Amir: YOU PICK
+- Neither. Make it about cowboys vs flying sharks and set it in a universe made entirely out of candy.
+- Amir: ... have... have you been getting into lettie's supplies?
+- Amir: cuz that's bonkers.
+- Amir: even coming from me
+- Amir: but ooOoOookaaAAAaayy
+- Amir: candy universe cowboys vs flying sharks it is!
+- Amir: THANKS BUDDY {Convo. Ends}
+- Totally warframes. It'll be good for you.
+- Amir: mmm yeppers nothing says "unresolved issues"
+- Amir: like writing yourself into a gaddamn videogame
+- Amir: okiedokie kids lets do this
+- Amir: ... hehehe quincy is gonna love what i do with his character...
+- Amir: THANKS BUDDY {Convo. ends}
+- Vampire Hunters.
+- Amir: VAAAAAAMPIRES
+- Amir: gonna give them some sick ass whips 'n shit
+- Amir: but also atomicycles
+- Amir: because vampire hunters on atomicycles are just COOL
+- Amir: THANKS BUDDY {Convo. ends}
+- Maybe it'll help you cope with the trauma, though.
+- Amir: WHAT TRAUMA
+- Amir: I'M PERFECTLY FINE
+- Amir: NO CLUE WHAT YOU'RE TALKING ABOUT
+- Amir: HAHAHAHAHAHAHAH ::eyes twitch::
+- Amir: for me it's more about reference material, like i don't have to look too far to figure out how to design things lol
+- {Jump above to "Amir: agghhhhhhhhh i can't piiiiiiiiiick"}
+- > I don't have time for this right now. [End.]
+
+### Conversation 1 (hey... d? / hey... hon?)
+
+- Amir: hey... d?
+- Amir: you around?
+- Amir: having a rough moment and i'd really appreciate someone to talk to
+- > I can't right now. [End.]
+- Of course. What do you want to talk about?
+- Amir: look i know i keep coming back around to them and it's starting to drive you crazy but
+- Amir: cephalons
+- Amir: i just... please? can we just dig into them a little deeper? i just want to know more and it'll give me something else to focus on
+- Amir: something other than the bees in my head
+- No.
+- Amir: um
+- Amir: ok {Convo. Ends}
+- Okay.
+- Amir: thanks
+- Amir: seriously
+- Amir: it's just hard for me to explain why i can't stop fixating on them i guess
+- I get it. You think you'd be better at being in charge of the "programming."
+- Amir: nah i shouldn't have that kind of power i know that
+- Amir: nobody should it seems like absolute power corrupts absolutely yadda yadda
+- Amir: as tempting as it'd be to say otherwise and say OOH YEAH NO I WOULDN'T BE THE BADDIE
+- Amir: who can really say for sure? look at rusalka and vodyanoi. look at entrati. none of them woke up one morning being like Y'KNOW WHAT
+- Amir: I'M GONNA BE THE ASSHOLE FROM NOW ON
+- Amir: i'm gonna bet even the orokin thought they were doing the right thing the whole time
+- Amir: so, nah, my ego's not that big believe me
+- Take your time.
+- Amir: do you know what it's like to live your life knowing your head is broken
+- Amir: knowing that there's something wrong with you that you can't fix without meds that sometimes work and sometimes make everything ELSE so much worse
+- Amir: that people can't stand to be around you because of it
+- Amir: always left wondering are these people really my friends
+- Amir: or
+- Amir: or is it just pity
+- Amir: so yeah i know cephalons are MESSED. UP.
+- Amir: but give the opportunity to go in and... and just...
+- Amir: and just fix myself?
+- Amir: just get into the parts of my code that don't work and just
+- Amir: fix it?
+- Amir: of course i'm gonna be tempted..
+- Amir: so...
+- Amir: so yeah...
+- Amir: that's why...
+- Oh, Amir...
+- Remember Ordis? (If you have talked about Ordis with Amir before)
+- Amir: yeah ordan karris
+- Amir: the beast of bones who got glassed for trying to slaughter a bunch of them
+- > What I didn't tell you earlier?
+- (Jump to "> He was programmed not only to protect and serve the Tenno...")
+- > So, there's a cephalon I know named Ordis. (If you've never talked about Ordis with Amir)
+- > He lives onboard the orbiter and was programmed by the Orokin to protect the Tenno.
+- > But that isn't who he used to be.
+- Amir: oh?
+- Back in the day, he was Ordan Karris, a mercenary who made a name for himself working for the Orokin.
+- > He was programmed not only to protect and serve the Tenno...
+- > But to love us.
+- Amir: oh no...
+- Every time he almost remembers who he was, he forces himself to forget again.
+- Amir: why?!
+- > Because when he starts to recall what it was like to be Ordan, he feels *hate.*
+- > He feels *anger* again.
+- > And he starts to lose the love he feels for the Tenno. For me. For us.
+- > So in a desperate attempt to keep hold of that love, he... deletes those memories.
+- > HE. FIXES. HIMSELF.
+- > And I'm left wondering... is any of it real?
+- Amir: what do you mean...?
+- Would Ordan Karris even be my friend?
+- > Would he even *like* me at all?
+- > I understand wanting to fix the broken parts of yourself.
+- > I truly do. But like *this?* By removing all choice from yourself? All ability to change?
+- > No matter what, Ordis can never *not* be my friend. He will always be forced to love me.
+- > If you reprogrammed yourself to be "perfect...
+- > Would I be left wondering the same thing about you?
+- Amir: i... i'm so sorry...
+- Amir: i really had no idea...
+- Amir: 'n now i'm here sniffling..
+- Amir: yeah i think i... i'm good, and i'm gonna leave this cephalon stuff alone now...
+- Amir: i can just be good 'ol obnoxious amir for the forseeable future of... one... endlessly looping year... forever... um... yeah that didn't help things at all
+- Amir: hey i suddenly need CARBS and i'm betting you might too
+- Amir: let's go grab some munchies, yeah? {Convo. Ends}
+- If someone programs themselves to love you, is it real?
+- > Or is it all just a lie? A fantasy and a fiction?
+- (Jump to above branch "I understand wanting to fix the broken parts of yourself.")
+- > He doesn't have a CHOICE but to be my friend because of what the Orokin did.
+- He was called the Beast of Bones. He was a bloody mass-murderer whose real name was Ordan Karris.
+- (Jump to above branch "He was programmed not only to protect and serve the Tenno...")
+- > Holy shit, are you serious?
+- > What is it, then?
+- I get it. We're all afraid to die.
+- Amir: i get why that's a silly idea and why nobody should live forever
+- Amir: no, that's not it
+- Amir: having a real hard time looking at the mess entrati's made and going yeah good job there buddy
+- Amir: great use of functional immortality
+- Amir: so if he's one of the greatest scientific minds of all time like you said why should i live forever? nah that's not it
+- Amir: and besides now that we're stuck in 1999 forever... i guess we ARE kind of immortal, huh?
+- (Jump to above branch "Take your time."/What is it, then?")
+- I get it. It's nice to think about not being trapped here.
+- Amir:that's not really it, honestly
+- Amir: i know lettie is super bent out of shape about never getting to leave and being stuck in a time loop
+- Amir: but it honestly doesn't bother me much
+- Amir: i have everything i could ever want right here
+- Amir: games, snacks, computers, my new family
+- Amir: one of my closest friends
+- Amir: i'm set here
+- (Jump to above branch "Take your time."/What is it, then?")
+- I get it. You think it'd be fun to be a computer.
+- Amir: beep boop
+- Amir: i mean sure but not really
+- Amir: it's not about it being FUN...
+- Amir: not at all...
+- Amir: it's just...
+- (Jump to above branch "Take your time."/What is it, then?")
+- > I'm not comfortable with how obsessed you are with them.
+
+### Converastion 2 (heeeeeeey d... / heeeeeeey shnoookums)
+
+- Amir: heeeeeeey d...
+- Amir. had another one of those nightmares
+- Amir: and i'd go to talk to arthur about it like last time but um...
+- Amir: he was kinda really IN it and that is kinda awkward t be like 'hey buddy yeah so about this terrible dream i had where you MURDERED ME?'
+- Amir: so i was wondering if we could talk about it... if that's okay...?
+- I'm always here for you.
+- Amir: thanks, that means the world to me.
+- (boolean = ?)
+- Amir: i don't think i ever told you how i got into this mess and if i don't none of this nightmare's gonna make any sense at all so here goes
+- Amir: gonna just try to make this as quick as possible ridgenotes style
+- Amir: so i was an intern for the O.R.O. at the nuclear power plant in the software dev department working on information security
+- Amir: super sexy i know
+- Amir: one day i get these weird hacked messages directly to my desktop with a big red pixelated eyeball asking for intel on the nuclear reactor and saying if i don't the UNIVERSE IS DOOMED
+- Amir: like what was i supposed to do?! no pressure... of course now i know it was doktor f dicking around with me and he was using future tech but at the time i was like ::gasp:: MAGIC!!
+- Amir: sooooo i gave him what he wanted and then the oro found out (still don't know how) and they sent scaldra after me
+- Amir: as i was running for my life i got an address texted to my pager and i went there, and... there was dr. e, vial in hand, and said to use it if shit ever hit the fan
+- Amir: well okay HE didn't say that can you imagine entrati saying "IF THE SHIT HITS THE FAN" lmao
+- Amir: well... shit did hit the fan, and... this is where... this is where it gets really hard to about but i gotta otherwise it won't make any sense...
+- Amir: so here goes
+- (jump to Amir: I shot the vial into my leg...)
+- Amir: so i know when i tried to tell you what happened to me after entrati gave me that vial
+- Amir: i just... couldn't quite get through the story
+- Amir: and i'm so sorry about that it's just so hard for me to talk about
+- Amir: but none of the nightmares will make sense if i don't... tell uou the rest of what happened, so...
+- Amir: so here goes
+- Amir: i shot the vial into my leg
+- Amir: and the *pain*
+- Amir: the memory of it it still wakes me up sometimes
+- Amir: like ants crawling through your veins, under your skin, inside your eyeballs, biting you everywhere
+- Amir: too many legs inside your organs, scratching, skittering, trying to escape
+- Amir: i had to get it OUT
+- Amir: GET THEM ALL OUT OF ME
+- Amir: i don't even really think i saw the scaldra regiment that had me cornered...
+- Amir: not really...
+- Amir: but i could smell them
+- Amir: ever leave a pork chop on the grill for too long?
+- Amir. the smell of charred meat is...
+- Amir: anyway...
+- Amir: icouldn'tstopcouldn'tcomedowncouldn'tgettheSKITTERINGLEGSCRAWLINGTHEBITINGtostop
+- Amir: ididn'tknowwhatwashappeningandiwassoscaredandiwashurtingandnothingwasrealanymoreandeverythingwasTHEhorribleCRACKLINGSKITTERINGandtheSCREAMSthatwereMINEandNOTMINE
+- Stay with me. You're okay. One word at time. Breath.
+- Amir: breatheyeahbreathe okay yeah i can do this thanks yeah okay
+- Amir: then somebody FUGGIN PUNCHED ME IN THE FUGGIN FACE
+- Amir: half an hour earlier and it would've broke my nose or left me sitting on the ground in a heap
+- Amir: but i'm filled with crawling biting skittering insects and i can't stop them and i can't stop the killing and i CAN'T STOP
+- Amir: now, i know it was arthur... but i didn't even see him, then... it was all just a blur...
+- Amir: i remember his voice though "focus on me"
+- Amir: "hit me" "burn me" "i can take it"
+- Amir: i don't... remember a lot of what came after that...
+- Amir: i just remember sitting on the ground in an alley, weeping
+- Amir: arthur holding me tight like i was coming down from some lsd trip
+- Amir: and i remember the charred corpses of the scaldra
+- Amir: staring at me from their empty and burned-out eye sockets
+- Amir: mouths open in screams i can still hear when i'm sleeping
+- Amir: that's... well... a bunch of those scars he has?
+- Yeah...?
+- (jump to Amir: all my fault)
+- Oh, no...
+- Amir: all my fault
+- Amir: in my nightmares last night, we fought like normal, but... instead, i killed him, too
+- Amir: electrocuted him and burned him to bits like the scaldra
+- Amir: but he didn't stay dead, eyes exploded in his sockets, lips blackened, and he kept talking to me
+- Amir: "this is all your fault" "we're all dead because of you" "if only you were smarter" "if only you were faster"
+- Amir: it just kept ringing in my head though, one phrase "all my fault" if i hadn't given entrati the info on the reactor...
+- He would've gotten it another way without you. He set you up for this. I'd bet money he gave you up to the O.R.O.
+- Amir: i wondered that...
+- >I would bet my orbiter that Entrati had you all picked out to be exactly where you are, when you were there, for exactly these reasons.
+- >The only thing we can ever do is the best we can in the moment we're in.
+- Amir: put that on a mug
+- Amir: thanks for just letting me vent and talking me through this
+- Amir: it really really helped
+- Amir: now i gotta go crash i'm fuggin exhausted
+- Amir: smell ya later {Convo. Ends}
+- None of this is your fault, Amir. None of it.
+- Amir: that's not true i know for a fact that if i had done better some of this could have been avoided
+- But that's life. We all make mistakes. We're just unique in the fact that we get a chance for "do-overs." Most people aren't so lucly.
+- (jump to above: > The only thing we can ever do is the best we can in the moment we're in.)
+- Sure, but you're carrying all the guilt on your shoulders when YOU weren't the person pulling the strings.
+- You were thrown into a terrible situation and changed in a way nobody could possibly be prepared for.
+- They don't make a manual for "getting partially turned into a warframe in 1999."
+- Amir: maybe I should make one...
+- Amir: "Handbook for the Recently Warframed"
+- Amir: thanks for just letting me vent and talking me through this
+- Amir: it really helped
+- Amir: now i gotta go crash i'm fuggin exhausted
+- Amir: smell ya later {Convo. Ends}
+- > (jump to above: > The only thing we can ever do is the best we can in the moment we're in.)
+- Holy shit, dude... I'm so, so sorry... was it the electricity?
+- Amir: i'msorryigottago {Convo. Ends}
+
+### Conversation 3 (DRIFT!!! / FUTURE!!! / BABE !!!)
+
+- Amir: <DRIFT!!! / FUTURE!!! / BABE !!!>
+- Amir: i was sitting here thinking to myself "self, you sexy amazing super-smart awesome world-saving badass,"
+- Amir: I'M SUCH A SPACE CADET I REALIZED I'VE NEVER REALLY ASKED YOU ANYTHING ABOUT DUVIRI [Alt: I TOTALLY SPACE CADET'D AND FORGOT TO FOLLOW UP ABOUT DUVIRI]
+- Amir: [Alt: i mean, i told you about the reactor and entrati and everything]
+- Amir: i know i haven't really told you anything about how i got here or my past or whatever
+- Amir: but i realized i don't know anything about what got YOU here not really not anything past 'lol alternate dimension loopy powers'
+- Can you narrow it down? I have a lot of history.
+- Amir: well, like... duviri sounds WILD...
+- Amir: a whole separate DIMENSION?!
+- Amir: looping over and over and over again like a level in a video game with a cheat code for endless lives?!
+- I'm sure you're going to tell me it sounds awesome.
+- Amir: no actually i wasn't but thanks for putting words in my mouth because video game characters don't feel real pain
+- {Jump below to "Amir: ike bruno and vito don't ACTUALLY die and don't ACTUALLY come back to life and have to do it again..."}
+- It was just like that, actually.
+- Amir: yeah except when I accidentally keep throwing the Super Bruno Brothers down a hole THEY DON'T FEEL PAIN
+- Amir: like bruno and vito don't ACTUALLY die and don't ACTUALLY come back to life and have to do it again...
+- Amir: that's horrifying and i'm so, so sorry... how could you even cope?
+- I... just went numb, eventually.
+- (same as below)
+- A lot like you, at first, actually. Nightmares. Too much emotion,
+- Amir: now i feel like a shitheel for bitching about my problems
+- Everybody's shit is relative.
+- {Same as below}
+- It's okay.
+- Amir: guess so
+- Amir: but... yeah... guess we do have something in common...
+- Amir: hey uh next time i have one of these nightmares mind if i come yell PULL IT INTO HUG HARBOR
+- Amir: i feel like we'll both need one
+- > Anytime. {Convo. Ends}
+- > Pass.
+- Amir: what you afraid of cooties? whatever {Convo. Ends}
+- As different as our pasts were, I feel like we actually have a lot in common.
+- Amir: really? how so?
+- > When I was on board at the Zariman, we sort of ran into the Void. The Man in the Wall came.
+- > He - *it* - decided it´d be interesting to see what happened if the parents turned on their children.
+- Then it gifted the children with Void powers and...
+- Amir: ...oh
+- Amir: yeah when i.. have nightmares about all the people i´ve killed, they...
+- Amir: aren´t the faces of my parents staring back at me... that´s... that´s a whole lot...
+- (continues with "Amir: now i feel like a shitheel...", see above)
+- > It's not something I like talking about. [End.]
+
+### Conversation 4 (heeey dee dee guess what lol / futurefuturefuture guess what lol)
+
+- What's up, buddy?
+- Amir: i'm almost ready to start that f&f campaign! any luck getting a group together to play?
+- Yeah, and I have all I think I can get, so let's start. [If you don't get everyone.]
+- Amir: hoshit who said yes?!??!?!
+- Quincy,
+- Amir: bullshit whaaaaat
+- > We shall not speak of what I owe him.
+- Amir: Wow. Anyone else?
+- > Eleanor,
+- Amir: ooooh i wonder what she's going to play...
+- Amir: though she strikes me as more of the fablemaster type than a player
+- Amir: maybe i can teach her if she's into it/she's got the "voice" for it lolol
+- > Aoi,
+- Amir: ... Cleric. Elf cleric. Or dr00d.
+- Amir: but hey can you play with two people so we already had enough with just us!!
+- Amir: so this is gonna be great!! thanks for getting a game together that's super sweet
+- Amir: we're gonna have fun!! promiiiiise
+- Amir: oh crap now i have to go write a campaign
+- Amir: Fffffffffffffffff-----!!!!!
+- Amir: THANKYOOOU {Convo. Ends}
+- >They all said yes. :) (I'm assuming this appears if you got everyone to say 'yes')
+- Amir: WHAAAAAAAAAAAT?!?!?!?!
+- Amir: NO FUGGIN WAY OML HOOOOOW
+- >I can't divulge my secrets. Then I'd have to kill you.
+- Amir: i... holy shit
+- Amir: this might be the nicest thing anybody's ever done for me...
+- Amir: oh crap now i have to go write a campaign
+- Amir: Fffffffffffffffff-----!!!!!
+- Amir: THANKYOUYOU'REAWESOMEOKAYBYE {Convo. Ends}
+- >[Ignore.]
+
+### Conversation 5 (heeeey cuddly-wumpus)
+
+- Amir: heeey cuddly-wumpus, are you more of a cat person or a dog person?
+- Amir: not like i really mind either way and we have that giant freaky mutant that won't leave lmao so it's not like it matters
+- Amir: but i'm curious!! kittehs or puppos?
+- What are "dogs" and "cats?"
+- Amir: uhhhh are you kidding me?
+- I assume they're animals...
+- Amir: oml lol
+- Amir: shit how do I even describe them roflamo
+- Amir: well to start they're pets, four legged animals, cats have fur, well not all cats have fur, dogs have fur, dogs are bigger than cats, well okay some are, some dogs are pretty small
+- Amir: and i had a friend with this big ass maine coon with extra toes that didn't have murder mittens that kitty had friggen murder HAAANDS
+- Ok?
+- Amir: dogs play fetch, well i guess some cats do too, well okay not all dogs play fetch either i guess aagghhhhhhh this is so much harder than i thought it'd be
+- Amir: OKAY KALYMOS IS LIKE A CAT BUT WAY TO BIG AND SCARY AND TOO SMART LIKE A MUTANT
+- Amir: and there other things like kalymos in the future that are LIKE kalymos but NOT like kalymos maybe slightly... more... RRRRRR WOOF WOOF?
+- Oooh, like a kubrow. Kavats and kubrows.
+- Kavats are the... uh... kitties - like Kalymos. And kubrows are like dogs.
+- Amir: soooo which one do you like more?
+- Kavats.
+- (Text needed)
+- I like them both equally.
+- (Text needed)
+- Kubrows.
+- Amir: ME TOOOOO!!
+- Amir: doggos are just so fun and full of life and joy and happiness and love and they just want to PLAAAAY
+- Amir: kind of like me :3
+- Amir: ...and they need to be walked regularly or else they chew on the furniture...
+- Amir: ...also like me...
+- There's about 8,000 naughty things I could say right now... ;)
+- Amir: >:3
+- Amir: i mean who's gonna get you in trouble i'm hex's IT department lmao
+- Amir: but um yeah AHERM let's be adults AHERM
+- Amir: ::cough:: insertleashjokehere ::cough::
+- Amir: okokok i'mdone
+- Amir: hehehe anyway whadya say we go grabe a bite and a brew?
+- Amir: WALKIES!! {Convo. Ends}
+- Lol Why're you asking?
+- Amir: well i realized the other day that we skipped right to "deep seated trauma" and "don't worry i'll save your life!!"
+- Amir: and we skipped right over all the normal shit like oh, i don't know, are you a cat person or a dog person, do you wake up early or late, favorite pizza toppings
+- I'm a morning person.
+- (text needed)
+- I'm a night person.
+- Amir: SAME GOOD AWESOME
+- Amir: OTHERWISE
+- Amir: i'd be up all night wanting to talk to you and be like BAAAAAABE i just thought of something funny and ghghhghgghg you're sleeeeping
+- Amir: and nobody needs me keeping them up all night like that
+- I have other ways you can keep me up all night. ;)
+- Amir:
+- Amir: i'msorryijustbluescreened
+- Amir: ... i am the luckiest man in the city
+- Amir: anyway, uhhhh whadda ya say we go grab a bite and a brew?
+- Amir: and start working on that... sleeping... not sleeping... arrangement? {Convo. Ends}
+- lmao. Good point.
+- (text needed)
+- They don't have pizza in the future.
+- (text needed)
+
+### Conversation 6 (so i've been picking away at that game i've been designing, yeah?)
+
+- Amir: so i've been picking away at that game i've been designing, yeah?
+- Hello to you, too. lol
+- Amir: lol sooorrryyyy too much to think about
+- Amir: well i was working on it and i thought... why?
+- What do you mean?
+- Amir: why bother?
+- Amir: who's it FOR? why'm i even making this stupid thing?
+- For yourself, obviously.
+- Amir: well i know making a game about warframes is supposed to be a kind of therapy or catharsis or something
+- Amir: but i feel like writing down all my feelings in a journal or something would be just as effective and maybe less time consuming lmao
+- Amir: i dunno i'm just staring at this stupid thing i've built and i'm just sitting here going... why? why'm i even BOTHERING?!
+- No, I mean that you're making the game for you, because YOU need to create things. You have that drive to MAKE.
+- Some people have that thing inside them that won't ever stop scratching at the walls until they let it out and make it real.
+- Sometimes it comes out as sculptures, paintings, books, poems, songs... games.
+- Amir: scratching at the walls, huh? and here i thought that was just my crippling anxiety lmao TURNS OUT IT WAS A CREATIVE SPARK THE WHOOOOLE TIME
+- Amir: but... maybe you're right? i've always wanted to make things like games or robots... or silly stories... maybe i am a maker
+- Amir: well, i'm gonna put this aside for a while, then
+- Amir: if it's just for me and i don't wanna work on it, i'm not gonna stress myself out about it, right?
+- Amir: no point in getting anxious for fake reasons i have plenty of real ones lol
+- Amir: thanks! {Convo. Ends}
+- For the Hex,
+- Amir: lmao right because they're all such video game fans
+- Amir: i mean you know how much i love them all and i know now how much they care about me, but - i dunno, why'm i even BOTHERING?
+- You want to make things for the people you care about. Some people buy flowers. You try to code them from scratch.
+- Some people have that thing inside them that won't ever stop scratching at the walls until they let it out and make it real.
+- Sometimes it comes out as sculptures, paintings, books, poems, songs... games.
+- Amir: scratching at the walls, huh? and here i thought that was just my crippling anxiety lmao TURNS OUT IT WAS A CREATIVE SPARK THE WHOOOOLE TIME
+- Amir: but... maybe you're right? i've always wanted to make things like games or robots... or silly stories... maybe i am a maker
+- Amir: and if i'm making things for people, then i should focus on that and make this the best darn game i can for the hex lol
+- Amir: which... means... adding more guns and booze and... smoothing metal lmao
+- (Jump to below: Amir: all right i think i know what to focus on now to get this thing done)
+- You're a storyteller. And you want to tell your stories to your friends to make them laugh, or cry, or think.
+- Some people tell stories with pictures, like Quincy and his photography. Some tell them with words like Eleanor.
+- Some tell them with games, like you.
+- >And stories are meant to be told to other people, wheter they're good or bad.
+- Amir: ...huh... i'm a storyteller
+- Amir: ever have one of those moments where somebody points something out to you about yourself that's so freaking obvious it's painful and yet you've been completely oblivious to it the entire time?
+- Yep. All the time in Duviri
+- Amir: it's a weird frigging feeling, innit
+- Amir: but if i'm using this to tell a story to the hex i should make it a really good one, huh
+- Amir: all right i think i know what to focus on now to get this thing done
+- Amir: back to the design mines i go - thanks! {Convo. Ends}
+- Can't say that I have. lol
+- Amir: well, it's a weird friggin feeling
+- (Jump to above: Amir: but if i'm using this to tell a story to the hex i should make it a really good one, huh)
+- Maybe you can put it online for other people.
+- Amir: y'know there might be a market out there for sexy whip-wielding vampire hunters on atomicycles...
+- Amir: but the idea of putting my stuff out there for the world to see...? oh dear sol that makes me want to hide under my desk
+- Amir: putting it online means people will PLAY IT, and worse that means they''ll FORM OPINIONS ON IT
+- I'm sure people would love it.
+- Amir: i'm sure some will and that's nice and all but you really CAN'T make everyone happy
+- Amir: it's not even nasty reviews that are people just being asshats that'll bother me, that happens everywhere, internet trolls gonna internet troll
+- Amir: it's the bad reviews that are RIGHT that i'm afraid of
+- Amir: the ones that tell you why you suck and are ACCURATE and that you DESERVE TO HEAR... i dunno think i can take that
+- Learning from criticism, even delivered badly, is one of the important skills a person can have.
+- > And when soemone's a creator, it's doubly important.
+- Especially for storytellers like you.
+- Some people tell stories with pictures, like Quincy and his photography. Some tell them with words like Eleanor.
+- Some tell them with games, like you.
+- >And stories are meant to be told to other people, wheter they're good or bad.
+- Amir: ...huh... i'm a storyteller
+- Amir: ever have one of those moments where somebody points something out to you about yourself that's so freaking obvious it's painful and yet you've been completely oblivious to it the entire time?
+- Yep. All the time in Duviri
+- Amir: it's a weird frigging feeling, innit
+- Amir: and... you're right, i'm just scared of what people are gonna think of the game when it's done
+- Amir: that's why i'm having trouble finishing the vertical slice
+- > What's a vertical slice?
+- Wow, you work *fast*
+- Amir: fastes fingers this side of the big muddy river
+- Amir: but i'm scared the game is going to be BAD
+- Amir: actually BAD, not just that people will think it's BAD
+- I'm sure the game is going to be fantastic.
+- Amir: i dunno it's the first time i've done anything like this, odds are good it won't be
+- Amir: but thanks for having so much faith in me
+- Amir: mkay... back to the code mines, thanks {Convo. Ends}
+- > Well, if it is, then learn from it and try again.
+- > If it sucks, fix it and patch it.
+- > Can't say that I have. lol
+- > Yeah, you're probably right. I'd just give up now. Save yourself the pain, or just make the game for yourself and for us.
+- > Are you afraid they won't like it?
+- > I don't know, I still think it's a silly waste of time.
+- If you don't work on it it won't get made.
+- Amir: obviously, duh
+- (loops to "Amir: why bother?")
+- > BRB. {Convo. Ends}
+
+### Conversation 7 (hey babe i got a favor to ask)
+
+- Amir: hey babe i got a favor to ask
+- Yeah, what's up, sweetheart?
+- Amir: soooo i THIIIIIIIINK figured out how to hack K.O.L. lmaooo
+- Amir: and i'm gonna switch authur's username as a test to see if i'm right
+- ROFL. Okay, I'm in.
+- Amir SWEEEEEET
+- Amir: so i figured out how to man-in-the-middle the traffic from us to K.O.L. and mess with people's requests
+- Amir: but i wanna test it on something before i go and do something more interesting
+- Amir: so talk to Arthur tomorrow and see if his username changed, it'll take about 24 hours for the system to update
+- Amir: then report back SECRET AGENT BABE muahahahahahahaha {Convo. Ends}
+
+### Conversation 1.1 (heeeeeeeeeey babe? you around ?
+
+- Amir: heeeeeeeeeey babe? you around? got something important to say
+- Amir: beenworkingupthenerveallafternoonsohiiiiiii
+- That sounds ominous, everything okay?
+- Amir: nono good stuff
+- Amir: it's just gahghghhghhhhhhhhhhffffffffffffefasrdfghgfsREWATGRHGFSED
+- Amir: WHYISTHISSOHAAAAAAAAAAAARD AAAGHHHH
+- Hey, babe. You got this. Slow down.
+- Amir: yeah
+- Amir: yeah
+- Amir: slow
+- Amir: all right here i go ::internally screaming::
+- Amir: no one's ever been there for me like you've been there for me, seriously - like... in my life
+- Amir: i can't explain to you how much you've come to mean to me over these past... i can't even tell you how long it's been lol
+- Amir: stupid time loops screwing with the clocks
+- Amir: but you've done so much for me...
+- Amir: you literally saved all of our lives
+- Amir: and taught me i had the WackyHacky 9000
+- Please don't tell me you're naming the parazon that...
+- Amir: don't interrupt i'll lose my train of thought
+- Amir: for the team, for the city, too - but you've also just... come to MEAN so much to me...
+- Amir: and i've come to rely on you so, SO much...
+- Amir: as a friend, and... and as more than that...
+- Amir: sooooooooooo i guess this is me, just trying to say... um.....
+- Amir: ohmysolamirjustsayitJUSTSAYIT
+- Amir, I love you.
+- Amir: OH. THANK. SOL.
+- Amir: imeaniloveyoutooimeanthat's whatiwastryingtosayijustcouldn'tworkupthenerve
+- Amir: andyetagainyousawthatandyoujustdidthethingineededwithoutmeevenknowingthat'swhatineeded
+- Amir: and that
+- Amir: is why
+- Amir: I LOVE YOU!!
+- Amir: aggghhhhHHHHHH I'M JUST SO HAPPY I COULD RUN AROUND IN CIRCLES
+- Amir: YEAH I'M GONNA HAVE TO DO THAT BUT FIRST LET'S MAKE DINNER PLANS
+- Amir
+- Or you could put all that energy to better use... >:}
+- Amir: haamehrhnghilmm
+- Amir: 404 AMIR NOT FOUND
+- Amir: I AM THE LUCKIEST MAN ALIIIIIIIIIIIIIVE {Convo Ends.}
+
+### Conversation 1.2 (HEEEEEY future / d, you around ?)
+
+- Amir: HEEEEEY d, you around? got something important to say
+- What's up?
+- Amir: y'know i've been thinking' a lot about us and the time we've had since you got here
+- [If boolean AmirRPGCashIn is true]:
+- Amir: convincing the hex to play fables & frontiers with me, HOW AWESOME HAS THAT BEEN?!?!
+- [If boolean AmirGameDevWarframe is true / boolean AmirGameDevVampire is true / boolean AmirGameDevCandy is true]:
+- Amir: and helping me make a game about warframes lmao / and helping me make a game about vampires lmao / and helping me make a game about... cowboys vs flying sharks in candyland for... some... reason
+- [If boolean AmirHexionary is true / boolean Amir4U is true / boolean Amiracle is true / boolean AmirBeckettarium is true:]
+- Amir: you helped me start making the hexionary / you helped me start making Amir4U / you helped me start making Amiracle / you helped me start making the beckettarium
+- [If boolean AmirCephalon4 is true]:
+- Amir: and speaking of helping... sol... i'd be such a wreck without you...
+- Amir: all that shit about cephalons, all that obsession i just... i was trying to cope in the wrong way...
+- [If boolean AmirNightmare3 is true]:
+- Amir: not to mention helping me through my nightmares...
+- [If boolean GoodEnding is true]:
+- Amir: AND WHO COULD FORGET THE LITTLE THING LIKE SAVING MY LIFE
+- Amir: and teaching me about the WackyHacky 9000!
+- Please don't tell me you're naming the parazon that...
+- {Same as below}
+- WackyHacky 9000...?
+- Amir: sssh
+- Amir: i just want to say thank you from the bottom of my infest-an-i-don't-wanna-think-about-what-it-actually-looks-like-now-heart
+- Amir: for... being the best friend a silly guy like me could ever possibly have
+- That... means more to me than you can imagine. And it's mutual. :)
+- Amir: whaddaya say to some pizza, beer, and a couple of round of ollie's crash course? :D
+- Amir: in the words of the immortal quincy, C'MON, FAMALAM {Convo. Ends}
+- Honestly, you're the most annoying thing I've ever met in my LIFE.
+- Amir: .... cool... {Convo. Ends}
+- Boolean AmirNoDate is now true.
+- [Don't answer.]
+- {Convo. Ends}
+
+### Conversation 1.3 (so future...you're from the future right?)
+
+- Amir: so future...you're from the future right?
+- Last time I checked.
+- (lines required)
+- Without getting over my head on Eternalism, yeah, I'm from the future.
+- Amir: tell me about all the aliens
+- What do you mean?
+- Amir: you know, aliens, ufos, friggin probings!
+- I hate to let you down...
+- Amir: no!
+- Amir: not even like a message from a far off solar system?
+- Amir: a 'hello'??
+- Amir: so many years in the future, there has to be something
+- If there was, nobody told me.
+- (Jump to line below: Amir: so it's a conspiracy then)
+- There's the Sentients but I'm pretty sure that's not what you mean.
+- Amir: the sentients came from earth originally though
+- Amir: i'm talking like in planet spacers
+- Amir: funny looking aliens that fly around the galaxy at light speed making friends and fight bad guysAmir: or i don't know, that's why i'm asking
+- If the Orokin discovered aliens, they kept it to themselves.
+- Amir: so it's a conspiracy then
+- Amir: i knew it
+- The Orokin did worse, so...
+- (lines required)
+- I wouldn't go that far.
+- Amir: THE TRUTH IS OUT THERE
+- Amir: dun dun DUH
+- Amir: gotta go
+- Amir: bye {convo ends.}
+- If there was, nobody ever told me.
+- (lines required)
+- Zaznog The Imbiber could drink you under the table.
+- Amir: whoa! really? what does he drink?
+- Glorp Brandy
+- Amir: whoa...
+- Amir: wait? are you messing with me?
+- > Never. (fill in here and further.)
+- Busted.
+- Amir: haha...no really
+- Amir: there must be aliens, tell me about them, i have to know
+- There's the Sentients but I'm pretty sure that's not what you mean.
+- Amir: the sentients came from earth originally though
+- Amir: i'm talking like in planet spacers
+- Amir: funny looking alients that fly around the galaxy at light speed making friends and fight bad guys
+- Amir: or i don't know, that's why i'm asking
+- If the Orokin discovered aliens, they kept it to themselves.
+- Amir: so it's a conspiracy then
+- Amir: i knew it
+- The Orokin did worse, so...
+- Amir: THE TRUTH IS OUT THERE
+- Amir: dun dun DUH
+- Amir: gotta go
+- Amir: bye
+- > (fill in here and further.)
+- > (fill in here and further.)
+- > piston oil (fill in here and further.)
+- > (fill in here and further.)
+
+### Conversation 1.4 (borrrredd)
+
+- Amir: borrrredd
+- Again?
+- Amir: i want you to play the fables & frontiers adventure edition i'm putting together but it needs a bit more work
+- Amir: will you play it when it's ready?
+- Let me know when it's ready.
+- Amir: really?
+- Amir: sweet! I just need to figure some stuff out but it will be ready soon. {Convo. End}
+- > We're so busy, Amir. {Convo. End}
+
+### Conversation 1.5 (Future...)
+
+- Amir: Future...
+- Whats up?
+- Amir: i'mmmmm
+- Amir: booooorrrrreedd
+- Cool...
+- Amir: there's nothing to do
+- Amir: i've done everything
+- Amir: there's nothing left
+- Really?
+- Amir: NOPE
+- Amir: nothing
+- Nothing? You could set a new high score on Caliber Chicks?
+- Amir: first thing i did
+- Ollie's Crash Course?
+- Amir: set the new high score
+- Amir: then beat the score
+- Amir: twice
+- Wanna grab pizza?
+- Amir: i'm so sick of pizza
+- Amir: and we're all out of pineapple
+- Amir: so whats the point
+- Wait? Didn't Arthur ask you to audit the inventory??
+- Amir: maybe
+- Maybe, yes?
+- Amir: maybe it's none of your business
+- Amir: okay!?!
+- You'll be done in, like, two minutes.
+- Amir: i just dont wanna
+- Amir: not feeling it
+- Do it and it'll be done.
+- Amir: it hurts to start
+- Amir: anyway
+- Amir: is that a butterfly??? gotta go byyyyyyeeee {Convo. End}
+- I've seen you do that job in no time at all?
+- Amir: except i can't just do it
+- Amir: so i don't wanna
+- (Jump to above: > Do it and it'll be done)
+- Is there something you're avoiding?
+- Amir: i'm CHOOSING to DEFER arthurs inventory audit to a later date
+- Do that and you wont be bored anymore.
+- Amir: that's literally the most boring thing i could possibly do. nothing, and i mean nothing is more boring than the thing i need to be doing
+- Amir: nothing
+- Amir: nada
+- Amir: zip
+- Amir: zilch
+- (Jump to above: > I've seen you do that job in no time at all?/You'll be done in, like, two minutes)
+- You could work on your Fables and Frontiers expansion campaign?
+- Amir: it's already over a hundred pages
+- Amir: i have enough campaign to get us through the next five loops...
+- Amir: but that's not how loops work you forget everything when the loop is over and i have to rewrite the campaign again
+- Amir: and it's like
+- Amir: what if this is the best one and nobody gets to finish it because it's too long
+- Amir: and then in the next loop my new one sucks and everyone in that loop hates it
+- Amir: then we loop again and nobody can remember that they hated the campaign in the last loop, but there's some subtle imprint on the fabric of spacetime where they intrinsically know my campaign bored them in a previous loop. so they never want to play it again in any loop, ever
+- Amir: so no
+- Amir: i don't want to work on that
+- (Jump to above: > Wait? Didn't Arthur ask you to audit the inventory??)
+- There must be something.
+- (Jump to above: Amir: NOPE)
+- Okay... and?
+- (Jump to above: Amir: there's nothing to do)
+- Yo!
+- {Lines Required}
+
+### Conversation 1.6 (Hey, how goes?)
+
+- (After Future...)
+- Hey, how goes? Did you audit the inventory yet?
+- Amir: audit schmaudit
+- Schmaudit?
+- Amir: nevermind that
+- Amir: you game?
+- Game?
+- Amir: say yes
+- Uh...yes.
+- Amir: "You wake to find yourself in a dark, dank, dungeon cell deep below ground. In the hall beyond the bars a guard snores. Sleep apnea? He should probably have that checked out. You don't remember much, but you know you need to get out"
+- Amir: "What do you do?"
+- > Amir, what is this? {Lines Required}
+- > Wait... How did I get here? {Lines Required}
+- I... Uh... I look around
+- Amir: "The open wall of the cell is blocked by old iron bard, and the door is secured with a rusty old lock. The guard's snoring grows louder, phlegmier"
+- Amir: "In the dim torch light you make out a filthy bucket, a bench, and the barren bones of a long dead cell mate still chained to the wall"
+- Amir: "What do you do?"
+- > Rattle the bars {Lines Required}
+- > What's in the bucket? {Lines Required}
+- Examine the bones.
+- Amir: "The leg bone is as dry as a..." umm
+- Amir: "Dry as a thing that's been sitting there for decades. As you pick it up the shackles crash to the ground and break apart. Among the pieces is a jagged shard of metal"
+- > Thats not going to do me much good {Lines Required}
+- > I wonder if this would make a good weapon? {Lines Required}
+- Can I use that piece of metal to pick the lock?
+- Amir: "You gingerly try and work the lock. Your tools are crude, but you instinctively know whaqt you are doing- you are the master of unlocking."
+- *The* master of unlocking? How convenient.
+- Amir: i thought you were game... roll with it.
+- Sorry, keep going.
+- Amir: "After some struggle you maneuver the last tumbler into position. The mechanism rolls over with a too loud clank."
+- Amir: "Before you know it, the guard is awake. He rushes to the door and you look up to see a massive Grineer towering over you. You reach for your weapon, but then you remember, you're a prisoner and you don't have weapons."
+- Amir: "What do you do now?"
+- > A Grineer? What is this? {Lines Required}
+- > Let's do this bare handed. Punch the bastard. {Lines Required}
+- > Throw the bucket at him. {Lines Required}
+- Stab him!
+- Amir: "The Grineer lunges at you. You jump to the side and drive the metal shank into his leathery neck."
+- Amir: "As he chokes on his own blood, he gargles out his last words."
+- Amir: "You'll never find the Lotus."
+- > The Lotus can take care of herself. {Lines Required}
+- What?! This is awesome.
+- Amir: i'll see you in the next chapter...right after i write it
+- > Oh, yes I will. {Lines Required}
+- > I dont have time for games and you don't either. {Convo. End}
+- Always!
+- {Lines Required}
+- > I dont have time for games and you don't either. {Convo. End}
+
+### ArthurNightmares
+
+- Amir: i talked to arthur about my nightmares
+- Amir: like you suggested
+- Amir: i thought he was gonna laugh at me... or roll his eyes, y'know?
+- Amir: didn't expect him to haul off and... hug me...
+- Amir: big tough arthur, looked like he was gonna cry
+- Amir: told me he had no idea i was hurting that badly...
+- Amir: we sat and talked for a long time about all the shit he's seen in war...
+- Amir: all the nightmares he's had... still has...
+- Amir: so... yeah, thanks drifter.
+- > <3 <3 <3 {Convo Ends.}
+- > Anytime. {Convo Ends}
+- > Of course. {Convo Ends}
+- > Yawn
+
+### Hack2 (ssooooooooo?)
+
+- It worked. He was so, well, broody. LOL.
+- Amir: ::arm pump:: I AM INVINCIBLE!
+- Amir: ok i'll reset his name and now onto the next test
+- Amir: THE GIFTING SYSTEM
+- Infinite presents?!?!
+- Amir: INFINITE PRESENTS!!@$#!
+- Amir: okokokok start small start small
+- Amir: one case of peanut butter crispies for lettie's rats
+- Amir: go check in with her tomorrow and see if she likes her free prezzies :3
+- Amir: even grumpyscarylady can't get mad about free prezzies, right? :3 {Convo Ends.}
+
+### Hack3 (Well... / Sooo....)
+
+- Well...
+- [Same as below]
+- Sooo...
+- Amir: I KNOW
+- Turns out there *is* a kind of "free prezzie" that someone can be mad about...
+- Amir: I KNOOOOOOW
+- Amir: but babe i'm pretty sure i was just a few letters off
+- Amir: the issue is that the items in the store aren't kept in plain text in the database, right?
+- Amir: it's not like OneGiantCaseOfAwesomePeanutButter_1
+- Amir: so i can figure it out it just might take a little trial and error
+- And how many more orders of 500 cases of ketchup packets will we get?
+- Amir: maybe a FEW... but probably not KETCHUP... actually...
+- Amir: yeah, you're right, this is silly but it could get bad
+- Amir: like imagine if i ordered us like 9.000 pounds of LIVE BEEEES
+- Can you even *order* live bees on K.O.L.?
+- Amir: babe you can order everything on the internet and if you can't BEFORE, i probably just willed it into existence by typing that
+- Amir: thanks for playing with me, babe, fun to have a partner in crime ;3 {Convo Ends.}
+
+### QuincyBunk (soooo i told Quincy)
+
+- Amir: soooo i told quincy i could hear him during his *relaaations*
+- How'd he take it?
+- [Same as below, from: "Amir: he huh... actually looked pretty mortified lol"]
+- Do you have a black eye?
+- Amir: no, actually!
+- Amir: he huh... actually looked pretty mortified lol
+- Amir: i expected him to be all "bruv take lessons bruv"
+- Amir: but he apologized and said he had no idea i could hear and that he was keeping me up
+- Amir: so he's gonna take it elsewhere in the mall if he brings people back again
+- Amir: so, thanks for the advice, *famalam* {Convo ends}
+- Did he laugh?
+- [Same as above, from: "Amir: no, actually!"]
+- > BRB {Convo ends}
+
+### QuincyTrick1 (Hey Amir, you there ?)
+
+- Hey Amir, you there?
+- Amir: whazzup homeslice?!?!?!
+- Robots
+- Amir: ROBOTSROBOTSROBOTSROBOTSROBOTSROBOTSROBOTSROBOTSROBOTSROBOTSROBOTSROBOTS
+- Amir: ::cough:: i mean... yeessssss??? what about these robots of which you speeeak?
+- Have I told you about the giant spider robots on Venus?
+- Amir: I THINK I SAW THAT MOVIE ONCE
+- Amir: but it wasn't a scifi movie it was a western. and okay it was pretty crappy overall but honestly i kind of liked it?
+- Amir: i mean, i knew what it was trying to *be.* it didn't take itself too seriously, y'know? like nothing sticks in my craw more than a movie about cowboys that has a giant steampunk spider in it that tries to pass itself off as high art lolol
+- Amir: not that this movie did mind you that's exactly what i'm saying. this movie didn't. but it totally had a giant robotic spider. although i'm sure the ones you're talking about are waaaaaaay higher tech
+- Amir: i'm sorry. you were saying?
+- Amir: wait
+- Amir: do you hear a vacuum cleaner...?
+- Amir: brb {Convo ends}
+- So, have I told you about the robot hounds?
+- Amir: you. have. ROBOT. DOGS?!
+- Amir: i suddenly realize i have a new mission in life. i need to own a robot dog. i need to name it fido. or scrap. or chip. CHIP!! CHIP IS THE BEST NAME FOR A ROBOTIC DOG
+- Amir: AND I WILL FRIGGIN' FIGHT YOU IF YOU SAY OTHERWISE
+- Amir: get it "chip" lol robot dog it's because computers have chips in them, like... a computer chip, get it? ... do computers in your era even have chips anymore?
+- Amir: or are they all based on like weird organic and proto-meat-based-Voidy-woidy-
+- Amir: wait
+- Amir: do you hear a vacuum cleaner...?
+- Amir: brb {Convo. Ends}
+- So... Quincy's playing a prank on you, and I'm the decoy.
+- (lines required)
+
+### QuincyWingman (hey, um. quincy talked to me)
+
+- N/A
+
+### Birthday conversations
+
+- You can activate different options by checking through the calendar versus the KIM list of chats:
+
+### BirthdayConvo1
+
+- Amir! You have successfully completed another circuit around Sol! Congratulations!
+- Amir: Oh PHSAWW! thaaaanks but it was nothing!! the planet did most of the hard work, I was just along for the ride {Convo. Ends}
+- It's your birthday, Amir! Maybe a good time to do some growing up?
+- Amir: GASP!! i can't believe you'd just leave something that lying around where my inner child could read it!! WON'T SOMEBODY THINK OF THE CHILDREN?! {Convo. Ends}
+
+### BirthdayConvo2
+
+- Happy birthday, Amir. I didn't get you anything.
+- Amir: oh. well. it's the thought that counts i guess. ... and the minimal effort. ... thanks {Convo. Ends}
+- Hey, Amir. Happy birthday. Hope you're having fun!
+- Amir: YES I AM TODAY IS BEAUTIFUL I HAVE BEEN UP SINCE LIKE 12.01 WE HAVE BEEN DRINKING ENERGY DRINKS AND PLAYING IN THE ARCADE AND AOI MADE ME A FLOOF ROOM AND I THREW UP IN THE FLOOF ROOM {Convo. Ends}
+
+### BirthdayConvo3
+
+- Hi, Amir. Happy birthday. Bleep bloop or whatever.
+- Amir: amir is not here right now this is a clever firewall program amir wrote to filter out insincere birthday wishes oh look theres one {Convo. Ends}
+- GREETINGS AMIR CONGRATULATIONS ON THE ANNIVERSARY OF YOUR COMMENCEMENT OF EXISTENCE
+- Amir: CULTURALLY APPROPRIATE STATEMENT OF PROFOUND THANKS AND FOND APPRECIATION {Convo. Ends}
+
+### (About Amir and Quincy)
+
+- Hey Amir, you there?
+- Amir: yeah, what's up?
+- What's with he beef between you and Quincy?
+- Amir: what beef lol i have no idea what you're talking about WHY DO YOU THINK HE DOESN'T LIKE ME LOL
+- Amir: no he just takes himself too seriously, really
+- Amir: i like him just fine i just wish he'd like... laugh once and a while, right?
+- Amir: like not everything has to be macho snarly 'come here pissin' on my patch' bullshit
+- Amir: y'know?
+- On the other side of things, I think he wished you'd take things a bit more seriously.
+- >Meet in the middle, sometimes.
+- Amir: yeah you're probably right
+- Amir: i'd say he needed to get laid
+- Amir: but that's not the problem
+- Amir: stupid pretty bastard
+- Jealous? lol
+- Amir: nope
+- Amir: i'm swimmin' in companions
+- Amir: just wake up surrounded by naked beautiful people
+- Amir: i have to beat them off with a stick
+- Amir: wait... that came out wrong
+- Amir: whatever
+- Amir: he can be obnoxious and i can be annoying
+- Amir: faaaamily {Convo. Ends}
+- >What he does in his own time is his business.
+- >Yeah, I agree. He needs to lighten up.
+- >Not everything can be turned into a joke.
+
+## Notes:
+
+- {Note: 1}: This is 100% intentional. The two options are exactly the same, so concluding that the conversation will always go the same way no matter what.

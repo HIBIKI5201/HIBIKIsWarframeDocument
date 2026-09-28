@@ -10,6 +10,8 @@ Lotus（Natah）の行方をめぐる、Kalymos Sequence の一章
 
 Lotus に壁の中の者から呼びかけが届き、Lotus は Drifter だけに応じるよう指示する短いメインクエスト。ソロ専用で、Update 36.1（2024-08-21）で追加された。The Hex の序章にあたる。
 
+- 台詞全文（取り込み）: [The Lotus Eaters/Transcript](../../quotes/the-lotus-eaters-transcript.md)（51 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Lotus_Eaters)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Lotus_Eaters/Transcript) / [全文検索](../../search.html?q=The%20Lotus%20Eaters)
 
 ## 基本情報

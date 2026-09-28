@@ -1,0 +1,25 @@
+{
+ "key": "cephalon-apnar",
+ "title": "Cephalon Apnar",
+ "url": "https://wiki.warframe.com/w/Cephalon_Apnar",
+ "kind": "キャラクター",
+ "site": {
+  "key": "cephalon-apnar",
+  "name": "Cephalon Apnar",
+  "page": "Cephalon Apnar"
+ },
+ "count": 32,
+ "idle": 5,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Cephalon Apnar is one of the Cephalons in the Conclave Cephalon Capture mode. Apnar is characterized as someone with a dismayed view of his own team, leading to his occasional spiteful remarks. He appears to be so distasteful and defective that the personality would rather be captured than contribute to the team. He also seems somewhat obsessed with being on the move, with several lines mentioning how boring he finds being at his team's base.", null]]},
+  {"path": ["Quotes", "When Returned to Base"], "idle": false, "lines": [["- \"Oh good, I'm back where I started.\"", null], ["- \"This is 'not' boring at all. Cephalon Apnar would 'like' to stay immobilized here forever.\"", null], ["- \"Back at base, Operators! Set systems to... tedium.\"", null]]},
+  {"path": ["Quotes", "When Stolen"], "idle": false, "lines": [["- \"Ooh, you seem fast, show Cephalon Apnar!\"", null], ["- \"Apnar is free at last!\"", null], ["- \"Hel-lo friendly movable creature!\"", null], ["- \"Oh, pleased to meet you. I will be your hostage today.\"", null], ["- \"Yes! Now apply: Acceleration!\"", null]]},
+  {"path": ["Quotes", "While Being Held"], "idle": false, "lines": [["- \"Lookin' sharp. Is that a new Warframe?\"", null], ["- \"Ooh, this is nice. We should do this more often!\"", null], ["- \"(Giggles) You're tickling my gyroscopics; stop it!\"", null], ["- \"Cephalon Apnar should not be having fun, BUT IS!\"", null], ["- \"Cephalon Apnar has been accused of wanting to be captured? No comment.\"", null]]},
+  {"path": ["Quotes", "While Being Held", "While The Holder is Idle"], "idle": true, "lines": [["- \"What are you doing? Come on, let's move!\"", null], ["- \"Ugly, ugly thing! You need to move!\"", null], ["- \"A sickening lack of movement!\"", null], ["- \"This is just as boring as the Operators' base!\"", null], ["- \"Drop me. Cephalon Apnar wants off!\"", null]]},
+  {"path": ["Quotes", "While Being Held", "When the Holder Gets a Kill"], "idle": false, "lines": [["- \"Apnar is not one to judge.\"", null], ["- \"You did what you had to; it makes you handsome!\"", null], ["- \"Hoh, what a relief! We can have more time together!\"", null]]},
+  {"path": ["Quotes", "While Being Held", "When the Holder Has Low Health"], "idle": false, "lines": [["- \"Are you OK? Oh, if only Apnar could provide medical subroutines!\"", null], ["- \"Let me apologize for the Operators, they're being very nasty today.\"", null]]},
+  {"path": ["Quotes", "While Being Held", "When the Holder is Killed"], "idle": false, "lines": [["- \"Apnar will miss you!\"", null], ["- \"What a waste of good kinetics.\"", null], ["- \"Well, it was movement while it lasted\"", null], ["- \"Hello gravity! WEEEEE!\"", null], ["- \"Just a temporary set back on my locomotion!\"", null]]},
+  {"path": ["Quotes", "While Being Held", "While Both Cephalons Are Stolen"], "idle": false, "lines": [["- \"Oh, see, you cannot score without your own Cephalon in the 'Boredom' position.\"", null], ["- \"Your missing Cephalon must be back here as well to score a point.\"", null]]},
+  {"path": ["Trivia"], "idle": false, "lines": [["- Cephalon Apnar is voiced by Anthony Sardinha.", null]]}
+ ]
+}

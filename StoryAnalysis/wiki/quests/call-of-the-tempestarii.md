@@ -10,6 +10,8 @@
 
 Corpus の船長 Vala Glarios が、Old War の間に Void へ消えた船 Tempestarii を追うサイドクエスト。ソロ専用で、Update 30.0（2021-04-13）で追加された。
 
+- 台詞全文（取り込み）: [Call of the Tempestarii/Transcript](../../quotes/call-of-the-tempestarii-transcript.md)（82 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Call_of_the_Tempestarii)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Call_of_the_Tempestarii/Transcript) / [全文検索](../../search.html?q=Call%20of%20the%20Tempestarii)
 
 ## 基本情報

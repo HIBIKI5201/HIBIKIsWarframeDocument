@@ -1,0 +1,2690 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Kinemantik Instant Messenger/Quincy
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Kinemantik Instant Messenger/Quincy」](https://wiki.warframe.com/w/Kinemantik_Instant_Messenger/Quincy)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+2554 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- This article attempts to distill conversations to straight-forward text and may be missing some paths; complete flowcharts for all Quincy conversations are available here in PNG and here in SVG.
+- All ending conversations (where the Hex goes offline) will be marked as {Convo. Ends}
+- A flow chart will be included after all possible choices in the conversation are noted in this page
+- Any glowing, golden text marked in-game will be highlighted here in bold+underlined
+- Indented messages are the continuation after the Drifter (you) selected the chat option
+- All user's choices to be made are marked with a '>' for clarity. Note that available choices in-game are not written in order on this page.
+
+### Conversation 1 (oi)
+
+- Quincy: oi
+- > Sorry, brb [End]
+- Um… is that a hello?
+- Quincy: u muppet lol. yeah it’s me seeing if ur there
+- I’m… not exactly up on all my lingo. From the future, remember?
+- Quincy: yeah, yeah. stick w/ me, u'll catch on quick
+- [Jump below to "Quincy: it's y i wanted 2 talk 2 u anyway"]
+- Give me a little time to catch up. How can I help you?
+- Quincy: stick w/ me, ‘n i‘ll be happy to show u the ropes ;)
+- Quincy: it‘s y i wanted 2 talk 2 u anyway
+- Quincy: ur from space. like… space space.
+- As opposed to non-space “space”?
+- Quincy: ROFL yeah ok fair
+- Quincy: not gonna lie, hard 2 wrap my head around that (continues as below)
+- Well, technically I was from Earth, first.
+- Quincy: shiiiit hold up. rq - am i famous in the future? gotta know
+- Yeah, actually. Statues to you everywhere.
+- Quincy: ... do u think i'm stupid? i know when ur lying to me, m8
+- Quincy: just bc i've got eternity in front of me now doesn't mean u can waste my time, chief {Convo. ends}
+- > I don't think so.
+- [Jump to "Quincy: brave enough 2 keep it real. respect. u keep that up, we'll be m8s in no time" and then continues at "Quincy: well, here's the sitch."]
+- You might have been for a while. But I'm from the *really far* future.
+- Quincy: how far we talking? (continues as below)
+- Functionally? Yes.
+- Quincy: fking MENTAL lol
+- Quincy: not gonna lie, hard 2 wrap my head around that
+- Quincy: not only r u from space, but from the future
+- Quincy: how far we talking?
+- Your guess is as good as mine.
+- Quincy: k. u don't wanna talk to me? won't push u. but i know when somebody is holding back, chief, get me?
+- [Jumps to: "Quincy: well, here’s the sitch..."]
+- I have no clue. The Orokin destroyed all records of Ancient Earth.
+- Quincy: that‘s some next shit. who tf are orokin?
+- It’s… a long story. What did you want to talk about?
+- (Lines required)
+- Assholes who thought they were gods and acted accordingly.
+- Quincy: sounds like the more things change, the more they stay the same, huh. dissapointing
+- Quincy: well, here’s the sitch. ur from out of town. n i‘ve been here 4 about 2 years now getting’ the lay of the land ‘n the trust of the ppl on the ground, get me?
+- I… don’t get you, no.
+- Quincy: brave enough 2 keep it real. respect. u keepthat up, we'll be m8s in no time
+- [Jumps to: "what i‘m saying is this..."]
+- Are you threatening me?
+- (Lines required)
+- I think I follow…
+- Quincy: lol let me spell it out 4 u just in case, k?
+- Quincy: what i‘m saying is this: u gotta learn the ropes, future space freak. n i‘m offering 2 take u under my wing
+- > Pardon me while I try *desperately* not to laugh.
+- Teach… me… how to exist in this year? Or…?
+- Quincy: u ever been to a warzone like this? u ever deal with scared civvies, fighting 4 their homes, just trying 2 survive?
+- > I admit the technology – or, um, lack thereof – is weirding me out.
+- > Actually… yes. And it was terrible.
+- Similar, but different… All warzones suck.
+- Quincy: u been to war, space freak? srsly?
+- Quincy: ok, ok… we getting in2 that…
+- Quincy: but i see u trying 2 waving ur hands over the tv remote like its some kinda notion detector light lol
+- Quincy: u need a guide, chief. or u gonna get ur face stuck in a toaster oven if ur not careful.
+- What's a toaster oven...?
+- Quincy: see?! making my case (continues with "so. u help me...")
+- I… see your point.
+- Quincy: so. u help me, i help u, yeah?
+- > Nope. I’m out. I don’t work for you, Quincy.
+- I should’ve known it was going to come with a fee.
+- Quincy: just asking 4 a small favor, nothing big. promise
+- What do you want in exchange?
+- Quincy: mmmmm tbd. a favour. nothing big. promise.
+- > No. Pass.
+- … Fine. But don’t make me regret this.
+- Quincy: BOOM there we gooo, cuz. now we talking
+- Quincy: i‘ll be in touch 4 that favor when i need it {Convo. Ends}
+- > I appreciate that, but I don’t think I need your help.
+- Take me under your wing *how* exactly?
+- Quincy: u really are PROPER dense. look, m8, this ain't ur time. this ain't ur ppl
+- Quincy: u ever been to a warzone like this? u ever deal with scared civvies, fighting 4 their homes, just trying 2 survive? (continues as above)
+- Yeah?
+- go to "Quincy: ur from space. like… space space."
+
+### Conversation 2 (Can... I ask what your problem is with Arthur? )
+
+- [Ignore.]
+- {Convo. ends}
+- Can.. I ask what your problem is with Arthur?
+- Quincy: lmao. u just did u knobhead
+- Quincy: you wanna know what the beef is between me n His Maj? I'll tell u. its 3 things
+- Quincy: 1. heroboy takes himself way 2 fking seriously
+- Quincy: thinks he's still in the army. man has to step back n realize there r no rules in a place like this
+- Quincy: n would it kill him to LAUGH once n a while?! sols tits! n people think I've got a problem
+- It's a lot of stress, being in charge.
+- Quincy: u don't think i don't see that?! I'm not a fool, chief. don't assume shit just by lookin' at me
+- Quincy: what i'm sayin' is that heroboy needs 2 take that stick outta his fking arse
+- Quincy: it ain't doing NOBODY no favours. n is sure as shit driving me mental
+- (Jump to below branch: Quincy: hero boy respects this lux set of skills, get me? its y he keeps me around, otherwise he wouldn't put up with my shit, still)
+- He does like to brood...
+- Quincy: I KNOW. just bc the world's gone 2 shit doesn't mean u can't let off a little steam now n then
+- (Jump to below branch: Quincy: hero boy respects this lux set of skills, get me? its y he keeps me around, otherwise he wouldn't put up with my shit, still)
+- What's the second thing?
+- Quincy: hero boy respects this lux set of skills, get me? its y he keeps me around, otherwise he wouldn't put up with my shit, still
+- Quincy: but he doesn't LISTEN 2 me. thinks i'm only good 4 1 thing. shooting 'n killing
+- Quincy: thinks im just some yute ready to dash at the first sign of trouble. nah, cuz. not about that
+- > I don't know. Would you? {Convo. ends}
+- Why *did* you stick around, when things started to get ugly here?
+- Quincy: when the techrot started? shit. u jumping right 2 the deep end first thing.
+- Quincy: nah. u gotta get up nice n close with me first b4 i start telling u all my secrets. gotta have a good reason 2 whisper in ur ear ;)
+- Bit fast to start flirting with me, don't you think?
+- Quincy: u really are a muppet, u know that? lol. u srsly don't know how to chill, do u
+- My life hasn't exactly been relaxing.
+- Quincy: n u think mine's been, m8?! lmao u don't know the first thing bout me
+- Are... you flirting with me?
+- Quincy: u really are a muppet, u know that? lol. mebbe. mebbe not. which do u want it 2 be?
+- I'm certainly not going to turn it down.
+- Quincy: i knew u saw u some peng goods when u rolled up. n not gonna lie...
+- Quincy: don't mind me the view too much either...
+- Quincy: but we take this slow, yeah? plenty 2 do around here besides each other LMAO {Convo. Ends}
+- I... haven't really made up my mind yey.
+- Quincy: fair 'nuff, fair 'nuff. u tell me when u make up ur mind
+- Quincy: but im not gonna lie, i don't mind the view. u some peng goods, cuz
+- Quincy: but i'll pump the brakes, u tell me when u make up ur mind {Convo. ends}
+- I'd rather you didn't, honestly. No offence.
+- no big, cuz. no big {Convo. ends}
+- Oh, we're flirting now? lol.
+- Quincy: this is just about u n me mutually appreciating some lux goods that's all lol
+- Quincy: if it bothers u, u just let me know n i stop. i know what i got is peng but i know its not 4 everybody
+- (Jump to branch above where player makes choice between three options: "I'm certainly not..." "I... haven't really..." "I'd rather you didn't...")
+
+### Conversation 3 (Where're you from, originally? / What brought you to Höllvania?)
+
+- > [Ignore.]
+- Where're you from, originally?
+- Quincy: y u asking? would you even know where it is on a map if i told u? lol
+- I'm... trying to make conversation?
+- Quincy: well that's fking stupid. don't
+- Quincy: look at me. ive been turned in2 some kinda half man half kitchen appliance monster
+- Quincy: n ur some kind of space freak from the future
+- Quincy: 'conversations' is 4 smalltalk in bars. so unless ur trying 2 pick me up (n doing a proper SHIT job of it)
+- Quincy: what r u really after?
+- Quincy: y u wanna ask me where im from. y's it matter 2 u?
+- Can we back all the way up for a second. *Kitchen appliance?!*
+- Quincy: lmao look at me, chief. i look like my mom fked a godsdamned toaster oven
+- What's a toaster oven?
+- Quincy: oh m8... we really gotta work on getting u sorted
+- Quincy: u need a guide b4 u get ur face stuck in a blender
+- Okay, now what's a *blender?*
+- Quincy: see?! making my case
+- Quincy: so. u help me, i help u, yeah?
+- What do you want in exchange?
+- Quincy: mmmmm tbd. a favour. nothing big. promise
+- ... Fine. But don't make me regret this.
+- Quincy: BOOM there we gooo, cuz. now we talking
+- Quincy: i'll be in touch 4 that favour {Convo ends.}
+- > No. Pass. [End.] {Convo ends}
+- I should've known it was going to come with a fee.
+- Quincy: just asking 4 a small favour, nothing big. promise
+- [Jump above to choices "... Fine. But don't make me regret this." ; "No. Pass. [End.]"]
+- Nope. I'm out. I don't work for you Quincy.
+- (Line required.)
+- I... see your point.
+- [Jump above to "so. u help me, i help u, yeah?"]
+- Well, I think you make a wonderfully sexy toaster oven hybrid.
+- Quincy: damn straight lololol
+- Quincy: don't mind 2 much what this fked up disease did 2 me on the looks dept, not gonna lie
+- Quincy: everything's got its upsides i suppose. tho now i'm really worried 'bout what aoi could do 2 me lol
+- Aoi? She seems so sweet.
+- (Line required.)
+- Yeah... the cute ones will *wreck* you. And now you're at least 68% metal.
+- Quincy: see u get me. mmnuh uh
+- Quincy: sometimes arthur barks at her 'n she gets this look on her face 'n shiiiiit
+- Quincy: u think lettie's scary? or eleanor? naaaaah fam
+- Quincy: don't need her turnin' my bits into paper cranes no THANK u
+- Quincy: n on that lovely note im gonna dash
+- Quincy: speak o the devil n heroboy pagin' me like mad 4 patrol. l8r {Convo. Ends}
+- You wouldn't believe me if I told you, man.
+- {Assuming it continues the same as below}
+- I'm trying to get to know you and I... don't have any clue where else to start.
+- Quincy: ok, realness. respect.
+- Quincy: now i know im a mighty fine piece of merchandise, even tho i've been turned in2 some kinda half man half kitchen appliance monster.
+- Quincy: but i gotta ask - y?
+- I don't like playing games, Quincy.
+- Quincy: then u n me r on the same page
+- [Jump below to "y u wanna ask me where im from. y's it matter 2 u?"]
+- I'm sorry... what?
+- Quincy: what r u really after?
+- Quincy: y u wanna ask me where im from. y's it matter 2 u?
+- Can we back all the way up for a second. *Kitchen appliance?!*
+- [Jump above to "lmao look at me, chief."]
+- You wouldn't believe me if I told you, man.
+- Quincy: seen some real raggo shit in the past year, m8, get me?
+- > Have any bad dreams lately? About dying? [End.]
+- Um... well, you're probably happier not knowing. It's...
+- Quincy: more space freak future shit?
+- No. It's... I feel like you know, deep down, it's personal. And unpleasant.
+- Quincy: yeah u can keep it 2 urself...
+- Quincy: the fk were you even asking me about again?!
+- Where you grew up?
+- Quincy: yeah well fk now i don't wanna talk about that
+- Quincy: bring it up another time. shit {Convo ends.}
+- I honestly forgot. lol
+- Quincy: prolly 4 the best
+- bring it up another time. shit {Convo ends.}
+- More space freak future shit. I know you know. And I'm trying to fix it. We can leave it there.
+- Quincy: then...
+- [Jump above to "yeah u can keep it 2 urself..."]
+- I like you. And I'm *really* shitty at making friends.
+- Quincy: ROFL. clearly. y is that?
+- > I've never had real friends.
+- I spent most of my life stuck in an alternate dimension filled with people who aren't real... but who *were* able to kill me for real.
+- y do i fet the feeling ur so full of space trauma it could be ur name
+- I. Well. ... You're not wrong.
+- Quincy: i know how to read a fellow soldier lol, u seen some serious shit
+- Quincy: n im sure we're gonna get into it
+- Quincy: but i gotta go out on patrol, sry. take it up w/ heroboy [Convo. End]
+- Hey. I earned that space trauma.
+- Quincy: LMAO. i'm sure u did... n i'm sure i'm gonna hear all about it
+- Quincy: but i gotta go out on patrol, sry. take it up w/ heroboy [Convo. End]
+- > I don't need this shit from you. [Convo. End]
+- What bought you to Höllvania?
+- Quincy: same thing as most of the others.
+- Quincy: ICR like lettie, arthur, 'n aoi
+- ICR?
+- Quincy: international crisis response. peacekeeping military organization.
+- Why'd you end up joining a peacekeeping organization?
+- Quincy: what're you trying to say, m8 ?
+- Quincy: be careful with ur next words.
+- Honestly? I see you as someone who could've been a model. Or running a business somewhere.
+- Quincy: heh either ur trying 2 flatter me or u got a brain in ur head, either way. not bad
+- Quincy: reasons i went in2 the army have 2 do with my fam. looking out 4 them. its complicated
+- Quincy: not sure if u know what having that kinda family is like.
+- > I had a family once. They're all dead now.
+- Quincy: .....that got deep real fast didn't it
+- Quincy: wish i could say ur the first person ive met with no fam
+- Quincy: but u ain't even close. cost of living is dying
+- Quincy: i'd ask what happened 2 em but i feel like it's a longass story
+- Long and traumatic.
+- (See above branch: 'Quincy: y do i get the feeling ur so full of space trauma it could be ur name')
+- I.Well. ... You're not wrong.
+- Quincy: i know how to read a fellow soldier lol, u seen some serious shit
+- Quincy: n im sure were gonna get into it
+- Quincy: but i gotta go out on patrol, sry. Take it up w/ heroboy
+
+### Conversation 4 (oi. space trauma. ludston. tower flats / oi. ludston. tower flats. / oi. space trauma, u there? / oi, u there?)
+
+- Quincy: oi, u there?
+- > … Oh look, Arthur needs me for something. {Convo. Ends}
+- Those *are* words.
+- Quincy: told u it wouldn't be any good 2 u. that's where i'm from. u asked, n now i'm telling u
+- Quincy: but the words don't mean nothing without their context, do they. u don't know anything 'bout the *what*
+- No. You're right. I don't know.
+- Quincy: but i know what ur getting at. u wanna know where i came from bc u wanna know who i am
+- Quincy: n this is me telling u there's better ways to get 2 know me than telling u about my nan or all stupid post code war shit
+- What do you suggest?
+- Quincy: well, since ur listening 2 me
+- Quincy: u wanna know who i am? ask me about shit that matters to the NOW, get me? not about some blip on a map u couldn't find if u tried
+- All right. Well. Do you have any family back home still?
+- Quincy: see? that's what u were trying 2 ask me in the first place w/o the bullshit wrapper
+- Noted.
+- Quincy: so next time u wanna learn me, skip 2 the point, yeah? just cuz we're posted up in this stupid mall doesn't mean i appreciate faffing about
+- Quincy: ttys, cuz {Convo. Ends}
+- Is there anything you'd be willing to share?
+- Quincy: dunno. u tell me something greazy 'bout where you grew up first
+- (Same options as "Quincy: gimme something greazy about u n i‘ll give u something ‘bout me")
+- What’s up, Q?
+- Quincy: i see u sniffin’ around with the crew, tryin’a figure out where u land with us all. so i figure i‘ll make it easy on u n start us off, yeah?
+- Quincy: gimme something greazy about u n i‘ll give u something ‘bout me
+- > Is everything a trade with you?. {Convo. Ends}
+- I would if I knew what “greazy” meant.
+- Quincy: yeah i do that, hard habit to break. sorry m8. means serious. tell me something heavy.
+- I escaped a personal hell only to wind up in a system where the universe was overtaken by a madman bent on total domination.
+- I had to fight, largely on my own, to free the Origin System's brainwashed innocents to try to rise up and fight the two lunatics in charge of it.
+- One of whom is the brother of the thing that saved my life. Ultimately... we won. But I still remember the terror... the fear.
+- How’s that for “greazy”?
+- [Same as below, from: "Quincy: i… yep"]
+- I was trapped for untold centuries in an infinitely looping dimension where I was subject to torture and murder at the hands of a child despot.
+- Who, by the way, was a creation of my own memories when the Void reached into my mind and pulled out fragments of a storybook.
+- How’s that for “greazy”?
+- Quincy: i… yep
+- Quincy: holy shit, cuz. u so full of space trauma it could be ur fking name
+- Quincy: n that shit is so far past greazy. its bare mental is what it is
+- Quincy: no wonder u took 2 all this bullshit like it was nbd
+- > It’s definitely not the weirdest or worst thing I’ve dealt with. (Same as below)
+- Add it to pile of… “space trauma” I guess.
+- Quincy:fkin‘ srsly m8. respect where respect is due. n i know we’re just getting’ started
+- Quincy: so here’s what u need 2 know 2 get ur head wrapped around ur 1 and only quincy-k
+- Quincy: i grew up hard, read me? fought 4 everything i got to take home 2 nan ‘n sis w/ tooth n nail. bc whatever u don’t take 4 urself somebody takes from u
+- Quincy: gotta do a little hustle 2 get by at the end of the day if u wanna survive, read me?
+- It’s not a life I’m personally familiar with… but I understand you. And I respect it.
+- Takes a tough soul to do that day in and day out.
+- Quincy: good on u to 2 recognize it when you see it, even if u haven't lived it, cuz. takes real wis, that does [Continues as below.]
+- But I also think there's more to you than just a guy hustling to get by.
+- Quincy: mebbe. mebbe not. u stick along 4 long enough, maybe u'll find out. maybe u won't. but good on u 4 respecting what u don't know [Continues as below.]
+- I wish I could say things have changed much in the future. Been there. Done that.
+- Things have just gotten more complicated, but the bas problems are all the same. People are still people.
+- Quincy: really hoping the future wasn’t a pile of shit, cuz. sorry 2 hear ur past ain’t much diff than mine. we can trade more shit stories later, huh?
+- Quincy: gtg. time 2 shoot some scaldra.
+- Have fun.
+- Quincy: fking oodles {Convo. Ends}
+- Stay safe.
+- Quincy: lol. they ain't got shit on me, cuz. u know that {Convo. Ends}
+- I don’t really buy into that kind of “winner takes all” philosophy, personally. There has to be more to life.
+- Quincy: said like a straight posh. we hustle so we get 2 keep having more 2 life. look down ur nose at it all u want but when u ain't got nothing but scraps, u do what u gotta do
+- Quincy: i know u ain't exactly from around here, n u got some weird shit in ur past. so i'll cut u some slack
+- Quincy: but u gotta understand when u don't know what you don't know, chief. Still {Convo ends}
+- The only place I’ve ever really known as home is a derelict ship trapped like a cork in a rift in dimensions, inhabited by ghosts and terrible memories.
+- > That was the first place I met the Indifference. It wouldn't be the last. But that was where the Man in the Wall took *everything* from me.
+- Quincy: ho shit, what did that thing do 2 u? u got beef with a GOD?! fking hell
+- Quincy: ur gunna ned to talk me thru it next time. but i guess if thats what u had to choose from? there or here?
+- Quicny: at least this shithole as my lux ass classing up the join lmao
+- Quincy'n at least u pick up after urself. fk. somebody teach amir where trash goes. Dutty boy gonna atract more pets for lettie
+- > Somebody needs to stick around and keep you humble.
+- - lines required -
+- > I think that's you saying I'm welcome here?
+- Quincy: not gonna spell it out 4 u, muppet. lol. think real hard u'll get there
+
+### Conversation 1 (got something 4 u if u got a sec.)
+
+- Quincy: got something 4 u if u got a sec. something u can help me with
+- > You can handle yourself, you've made that clear. [End.]
+- Oh? What’s up?
+- Quincy: yeah see i got me a riddle. real head scratcher. n i think u got the answer.
+- Quincy: see, i see u walkin’ around in those luxed up meatsuits of urs, feel me?
+- Quincy: n, i‘m thinking 2 myself, u gotta know what’s up. so spill it, chief
+- You’re a smart guy. You can’t figure it out?
+- Quincy: didn't exactly get a manual when entrati shots us up with his fking serum n turned us into freaks, m8
+- [Same as below, from: "Quincy: i see u struttin’..."]
+- I’m afraid I’m not following. But what do you want to know?
+- Quincy: look m8. we didn't exactly get a manual when entrati shot us up with his fking serum n turned us into freaks
+- [Same as below, from: "Quincy: i see u struttin’..."]
+- What exactly about my warframes are you asking me about?
+- Quincy: something. ANYTHING. we didn’t exactly get a fking manual when entrati turned us into FREAKS, m8
+- Quincy: i see u struttin’ around in shit that looks llike us, but ain’t thinking, feeling, breathing
+- Quincy: n u can pop in n out of them like they’re just a set of wheels to use n ditch like a tommy
+- Quincy: so… wtf, m8. is that what we r 2 that dutty ‘doktor?’ or 2 u?! just something 2 use n throw away when ur done?!
+- Well… I’d hardly describe *you* as a cheap ride, though… I would love to take you around the block…
+- Quincy: ... weird-ass time 2 pick 2 flirt with me, but not a bad move lol
+- Quincy: don't change the subject on me tho, especially when i'm pissed
+- [Jumps to: "Quincy: just tell me this. those frames of urs."]
+- Quincy, don’t worry… you’re not a cheap ride… You’re at *least* mid-grade :P
+- Quincy: i appreciate a good jab as much as the next
+- Quincy: but they gotta be good. n that was shit. 1/10 lol
+- I don't think I want to play.
+- Quincy: then don't swing at the king if u don't wanna get knocked out. n don't change the subject
+- {Jump below to "Quincy: just tell me this. those frames of urs."}
+- Oooh it's a game... I get it. I'm in.
+- Quincy: then work on ur bite, guv. n don't change the subject
+- [Jumps to: "Quincy: just tell me this. those frames of urs."]
+- You mean Transference? I know it’s weird. But the warframes I have are… very different than the Hex.
+- Quincy: just tell me this. those frames of urs.
+- Quincy: were they ppl once?
+- > I’m not doing this. [End.] {Convo. Ends}
+- No.
+- Quincy: i knew it. i knew u were gonna lie RIGHT 2 me
+- Quincy: u think i'm stupid?! u think i can't see what's right in front of my face? proper messed, that is {Convo. Ends}
+- Um… yes.
+- Quincy: n what happened to them?! is that what's gonna happen 2 us?!
+- Quincy: they like shit from those zombie movies when u pop out of them!!
+- Quincy: nah, chief - nah, don't be pranging me out like this, i don't wanna be no zombie meatsuit, chief
+- [Continues same as below choices]
+- Mine aren’t. Well…not really? Mostly aren’t.
+- > It’s complicated, but mine are replicated from blueprints. So they aren’t the originals.
+- Quincy: i don’t give a fk if ur meatsuits r ethically sourced or w/e u gotta tell urself
+- Quincy: point is, the OGs used to BE PPL, n i don’t wanna be no zombie meatsuit, chief
+- Not so tough now, are you?
+- Quincy: PISS. OFF. {Convo. Ends}
+- Hey hey, easy – relax. I don’t think that’s going to happen to you.
+- Quincy: u THINK or u KNOW, cuz?! which fking is it?!
+- [Continues same as below choices]
+- Calm down, Quincy. You aren’t going to turn into a zombie.
+- Quincy: n u know this 4 sure exactly how?!
+- Your infestation has stopped progressing. I don’t know if that’s the fact that the year is looping, or the strain Entrati used.
+- Quincy: so we’re stuck like this bc we’re stuck in time. we ever leave this stupid loop n what? we turn into those blank-ass mfers u got hangin’ in ur closet?!
+- I don’t have the answers for what Entrati did. Why, or if it could get fixed, or what happens next. I’m doing the best I can here, Quincy.
+- Quincy: just know this. u ain’t getting quincy-k easy, u read me? u might have future me like u got future arthur or future aoi
+- Quincy: but i‘m not giving up my mind w/o a fight
+- Why do you assume that’s what I want to do?
+- [Same as below]
+- Turning you into a mindless warframe is the last thing I want, Quincy.
+- Quincy: i ain't being nobody's toy soldier. never again {Convo Ends}
+- You really think I’d make that kind of effort? Have you seen my rigs? lol
+- Quincy: PISS. OFF. {Convo. Ends}
+- I said don’t know. And I mean that. But I think if you were going to get hollowed out like a festive gourd, it would've happened by now.
+- Quincy: just know this. u ain’t getting quincy-k easy, u read me? u might have future me like u got future arthur or future aoi
+- Quincy: but i‘m not giving up my mind w/o a fight
+- Turning you into a mindless warframe is the last thing I want, Quincy.
+- Quincy: i ain't being nobody's toy soldier. never again {Convo Ends}
+- Why do you assume that’s what I want to do?
+- [Same as above]
+- You really think I’d make that kind of effort? Have you seen my rigs? lol
+- Quincy: PISS. OFF. {Convo. Ends}
+- Because if I pop into your heads once and a while, you won’t go insane. That’s what Transference is *for*.
+- Quincy: u think that makes it all okay?u think that makes it better? u fkning kidding me?!
+- No. I know it doesn't make anything better. And I know this is shit. All I'm *trying* to do is say I don't think you're going to get hollowed out like a festive gourd.
+- Quincy: not fking funny. just know this. u ain't getting quincy-k easy, u read me? u might have future me like u got future arthur or future aoi
+- Quincy: but i'm not giving up my mind w/o a fight
+- [Same choices as above]
+- I can't fix what's been done to you. So I'm working with I have. And what I have is Transference and a time loop.
+- Quincy: like u care. don't make me laugh. just know this. u ain't getting quincy-k easy, u read me? u might have future me like u got future arthur or future aoi (Same answer as above)
+
+### Conversation 2 (space trauma, heads up / hey space heads up)
+
+- Quincy: space trauma. heads up
+- Quincy: who in the future do i gotta blame 4 this massive fk up we dealing with rn?
+- Why, are you planning on sending them a bill?
+- Quincy: actually yeh i was gunna, u see these garms? these threads take WORK
+- Quincy: nah, cuz. i just like 2 know who i'm supposed 2 hate just 'n case i find the fker at some point
+- Quincy: tho now that i think 'bout it, we stuck here, the hex 'n me yeah?
+- I think so....
+- Quincy: n the whole outside world? outside this shithole? just stuck loopin' with us? trapped in time...4ever?
+- I'm making this shit up as I go, Quincy. Your guess is as good as mine.
+- Quincy: glad 2 know u dont think ur the boss of everything. well. i guess got a lot of time 2 get perfect at...well...everything. figure thats why u got so many good moves...
+- Quincy: even if it does mean im never going home again, does it...
+- Try to stay focused on the upsides. You seem pretty good at that.
+- Quincy: what else r u gonna do when the world ruins ur life? I didn't choose this. this path was picked 4 me
+- Quincy: all that matters now is what i'm gonna do with what was done 2 me
+- Quincy: m i gonna stand n be angry about it like Lettie? sulfur like His Maj? panic like lil amir? nah... not my style
+- Quincy: look at eleanor. she got turned into a NEXT freak, n u see her crying 'bout it? she tryin 2 make it work. tryin to keep her head high
+- Quincy: wish she'd keep tf out of my head mind u but i can respect the balls she got for facing this shit head on
+- Quincy: bigger set on her than her bro if u ask me. i know which one i'd back in a fight.
+- Quincy: what i'm sayin' is this, cuz. when somebody's done u dirty? u decide how u cope. nobody else
+- I... wish I could introduce you to Teshin. I don't think he'd understand half of what came out of your face, but you two would really get on.
+- Quincy: sounds like my kinda guy {Conv. Ends}
+- I... I've learned that home is relative.
+- Quincy: yeah, except i got a fam back home waiting 4 me. u got that?
+- I have people who have become family to me.
+- Quincy: then y r u still here? nah, calling bullshit on that, m8, sorry. u don't make it subtle. ur name gives it away
+- Quincy: but whatever u gotta tell urself. won't judge. been there
+- ...No.
+- Quincy: i know ur trying 2 cheer me up. tell me 2 appreciate what i got. don't need the help. i know how 2 make the best of things
+- Quincy: what else r u gonna do when the world ruins ur life? i didn't choose this. this path was picked 4 me
+- Quincy: all that matters now is what i'm gonna do with what was done 2 me
+- Quincy: what i'm sayin' is this, cuz. when someboy's done u dirty? u decide how u cope. nobody else
+- Yeah. I've had to learn that lesson... a few times.
+- Quincy: ssaaaame. just bc i know it doesn't mean i don't forget 2 follow it
+- This particular nonsense? I think you can pin it on Entrati.
+- Quincy: already got that one on the list
+- Quincy: can't wait 2 get my chance 2 take that mfer out
+- Quincy: ...tho now that i think 'bout it, we stuck here, the hex 'n me, yeah?
+- I think, if you let me use Transference on you, I could take you into the future. I don't know how long it'd last, but it'd be something.
+- Quincy: what like a mutt on a walk? leashes r usually lettie's thing i hear. but i guess 4 u i could make an exception. ;)
+- You would wear it well. But then again, pretty sure you'd wear anything well. ... And nothing.
+- Quincy: hahaha not sure i come in 'full naked' anymore. still getting used 2 all this... armor. but don't u worry, i'm still packin' heat
+- I really didn't know how to ask that question.
+- Quincy: i don't think u understand how fking nuclear i'd be
+- Quincy: nowhere that shit entrati could hide from me. there are just some. things. u. don't. mess. with. get me?
+- Quincy: u do love changing the subject, dontchu
+- Honestly, it's because I don't know what to tell you. I've been hunting for justice my whole life. And I don't want to get your hopes up.
+- Quincy: appreciate that, but u don't need to protect me from life. seen enough of it, trust me. maybe not as wild as the shit u've seen, but just as brutal
+- Quincy: i just wanna know where 2 point my anger. if it's even got a fking name. entrati's to blame for making us freaks. but who do i gotta blame for the rest?! like the techrot?!
+- Well, the Orokin are to blame for a lot, but... we don't know who to blame for the Infestation.
+- Quincy: oh that's lovely u come back in time 2 spread ur shit plague n u don't even know how it got started in the 1st place
+- Quincy: well im gonna go shoot some shit 2 calm down {Convo ends.}
+- Entrati. The Orokin. The Indifference. Does it matter? It's about saving the universe, not getting revenge.
+- {Lines required}
+- Pretty sure you'd be *way angrier* if you weren't.
+- {Assuming it goes the same as above choice - Need confirmation}
+- Do you mind knocking off the flirting? It's nothing personal, it's just - you're not my type.
+- {Lines required}
+- LOL. You wish. But I'm glad you're trying to look at the upsides.
+- Quincy: what else r u gonna do when the world ruins ur life? i didn't choose this. this path was picked 4 me
+- Quiincy: all that matters now is what i'm gonna do with what was done 2 me
+- Quincy: m i gonna stand around n be angry about it like lettie? sulk like His Maj? panic like lil amir? nah... not my style
+- look at eleanor. she got turned into a NEXT freak, n u see her crying 'bout it? she tryin 2 make it work. tryin to keep her head high
+- I... wish I could have introduce you to Teshin. I don't think he'd understand half of what came out of your face, but you two would really get on.
+- sounds like my kinda guy {Convo ends.}
+- Yeah. I've had to learn that lesson... a few times.
+- {Lines required}
+- I don't really know if I need to be taking advice from you. But thanks.
+- {Lines required}
+- This? I'd blame the Man in the Wall.
+- Quincy: thnx got a name to add 2 the list
+- Quincy: dunno if it'll do any good, shooting a god, but imma try anyway lol
+- Quincy: ...tho now that i think 'bout it, we stuck here, the hex'n me, yeah?
+- I think, if you let me use Transference on you, I could take you into the future. I don't know how long it'd last, but it'd be something.
+- Quincy: what like im a mutt on a walk? leashes r usually lettie's thing i hear. but i guess 4 u i could make an exception. ;)
+- You would wear it well. But then again, pretty sure you'd wear anything well. ... And nothing.
+- Quincy: hahaha not sure i come in 'full naked' anymore. still getting used to all this... armor. but don't u worry, i'm still packin' heat
+- Pretty sure you'd be *way angrier* if you weren't.
+- Quincy: cuz, u have NO idea
+- Quincy: nowhere that shit entrati could hide from me. there are just some. things. u. don't. mess. with. get me?
+- Quincy: u do love changing the subject, dontchu
+- Entrati. The Orokin. The Indifference. Does it matter? It's about saving the universe, not getting revenge.
+- Quincy: stop talking breeze, chief. u sound just like His Maj heroboy himself. can't stand me another one of u kickin' around in here driving me up a wall
+- Quincy: wanna know whose picture i should tape 2 the wall 2 blow some holes in, m8. gotta have somebody 2 blame, somewhere 2 point the rage
+- Quincy: but ur some kinda saint, thats fking fine. good for u. go hang with ur ppl {Convo. Ends}
+- It all starts with the Orokin.
+- Quincy: n are they the geniuses who came up with the techrot?
+- No. But they are responsible for most of the problems you're dealing with.
+- Quincy: any of 'em left 4 me to shoot?
+- Quincy: ..tho now that i think 'bout it, we stuck here, the hex 'n me, yeah?
+- I think, if you let me use Transference on you, I could take you, I could take you into the future. I don't know how long it'd last, but it'd be something.
+- Quincy: what like im a mutt on walk? leashes r usually lettie's thing i hear. but i guess 4 u i could make an excepion. ;)
+- You would wear it well. But then again, pretty sure you'd wear anything well. ... And nothing.
+- {Lines required}
+- Do you mind knocking off the flirting? It's nothing personal, it's just - you're not my type.
+- Quincy: yeah 'course. no prob. cuz i know what i got but i know its not 4 every1
+- Quincy: u do love changing the subject, dontchu
+- Honestly, it's because I don't know what to tell you. I've been hunting for justice my whole life. And I don't want to get your hopes up.
+- Quincy: appreciate that, but u don't need to protect me from life. seen enough of it, trust me. maybe not as wild as the shit u've seen, but just as brutal
+- Quincy: i just wanna know where 2 point my anger. if its even got a fking name. entrati's to blame for making us freaks. but who do i gotta blame for the rest?! like the techrot?!
+- Well, the Orokin are to blame for a lot, but... we don't know who to blame for the Infestation.
+- Quincy: oh thats lovely u come back in time 2 spread ur shit plague n u don't even know how it got started in the 1st place
+- Quincy: well im gonna go shoot some shit 2 calm down
+- (end of conversation)
+- Entrati. The Orokin. The Indifference. Does it matter? It's about saving the universe, not getting revenge.
+- Quincy: stop talking breeze, chief. u sound just like His Maj heroboy himself. can't stand me another one of u kickin' around in here driving me up a wall
+- Quincy: wanna know whose picture i should tape 2 the wall 2 blow some holes in, m8. gotta have somebody 2 blame, somewhere 2 point the rage
+- Quincy: but ur some kinda saint, thats fking fine. ggod for u. go hang with ur ppl
+- (end of conversation)
+- LOL. You wish. But I'm glad you're trying to look at the upsides.
+- {Lines required}
+- I think so...
+- {Lines required}
+- I suspect, though I can't confirm, that it *all* starts with then.
+- {Lines required}
+
+### Conversation 3 (so u got a home or what ? / Hey. Quincy. I'm sorry. / Quincy? We okay?)
+
+- Flags read in this conversation:
+- QuincyDuviry:
+- requirements: talk about duviri with quincy.
+- Default value: FALSE
+- If you are in "good" termins with quincy you may start the conversation with this option:
+- Quincy: so u got a home or what? ur crashing here like my cousin J after getting dumped
+- <Conversation Node 1>
+- Nope. Never have.
+- Quincy: that explains y ur still here w/ us fkers in a warzone
+- Quincy: u srsly that lonely? lol u gotta have people waiting 4 u wherever ur from in the future
+- No. I really don't have anyone.
+- <GO TO Conversation Node 2>
+- Are you going to start laughing at me, Quincy?
+- <GO TO Conversation Node 2>
+- I'm fine.
+- <GO TO Conversation Node 2>
+- <Conversation Node 2>
+- {If QuincyDuviri is TRUE}
+- Quincy: what about that weird place ur from? duvir-w/e
+- > I... don't want to get into this, Quincy. [End.]
+- Did you miss the part about the constant murder and imaginary people?
+- Quincy: just cuz i read it doesn't mean i can wrap my head around it, cuz. fking mental is what that is
+- Quincy: ur gunna need to talk me thru it next time. but i guess if thats what u had to choose from? there or here?
+- Quincy: at least this shithole has my lux ass classing up the joint lmao
+- Quincy: 'n at least u pick up after urself. fk. somebody teach amir where thrash goes. dutty boy gonna attract more pets for lettie
+- I think that's you saying I'm welcome here?
+- Quincy: gj u figured it out. lol. yeah, i'm saying u could be worse company {Convo ends.}
+- Somebody has to stick around to keep you humble.
+- Quincy: HAH. u gonna give up on that real fast, cuz. but u give it a go, i'll love watching u try {Convo ends.}
+- {If QuincyDuviri is FALSE}
+- Quincy: didn't u save everybody? from the cult or w/e?
+- Yeah. I did. And they sent me back here, didn't they?
+- Quincy: wound u up, marched u forward, n left u wherever u fell. do u think they even care if u go back?
+- <Conversation Node 5>
+- No clue.
+- (Jump below to "Quincy: i been that toy soldier b4. been told i was the best. 'the CHAMPION' gonna save the WORLD from BADDIES. fed all the lies")
+- I'm sure they do. But it's not the same. I've never felt like I belong.
+- Quincy: i been that toy soldier b4. been told i was the best. 'the CHAMPION' gonna save the WORLD from BADDIES. fed all the lies
+- Quincy: but when it came down 2 it? when i needed THEM? when i got hurt or needed help? naaaaah fam
+- Quincy: suddenly i'm just a fking number. just time 2 go 2 some office in a hole 2 get told 2 fk off
+- Quincy: u n me got some shit in common, huh. just not the good shit
+- {Convo ends.}
+- They do. But they care about the kid, more. And I get it. That isn't my reality. It's fine.
+- Quincy: maybe. maybe not. or maybe ur just useful to them until ur not. careful, cuz. been there. done that
+- Quincy: free advice. u always find out 2 late who ur real fam is. so keep ur eyes open
+- {Lines required}
+- I... don't want to go into this, Quincy.
+- {Convo ends.}
+- Wow. Ouch. That's harsh.
+- Quincy: not harsh just real
+- {GO TO <Conversation Node 4>}
+- Thanks for asking so nicely, asshole.
+- Quincy: LMAO!!! hahaha yeah yeah I deserve that sry, sry
+- <Conversation Node 4>
+- Quincy: i'm just sittin' here wondering why u don't go home y'know. back 2 where u came from, instead of being stuck here w/ us fkers in a warzone
+- Quincy: lol you gotta have somewhere.
+- Are you going to start laughing at me, Quincy?
+- {GO TO <Conversation Node 2>}
+- No. I really don't.
+- {If QuincyDuviri is TRUE}
+- {Jump above to "Quincy: what about that weird place ur from? duvir-w/e"}
+- {If QuincyDuviri is FALSE}
+- Quincy: that is... mad peak...
+- <Conversation Node 3>
+- I escaped a personal hell only to wind up in a dimension where the system was overtaken by a madman bent on total domination. "Home."
+- > I had to fight, largely on my own, to free the Origin System's brainwashed innocents to try to rise up and the two lunatics in charge of it.
+- Quincy: n those people u saved didn't roll out the red carpet 4 u? do u think they care if you go back?
+- <GO TO Conversation Node 5>
+- The only place I've ever really known as home is a derelict ship trapped like a cork in a rift between dimensions, inhabited by ghosts and terrible memories.
+- > That was the first place I met the Indifference. It wouldn't be the last. But that was where the Man in the Wall took *everything* from me.
+- Quincy: ho shit, what did that thing do 2 u? u got beef with a GOD?! fking hell
+- (Jump to "Quincy: ur gunna need to talk me thru it next time. but i guess if thats what u had to choose from? there or here?")
+- I was trapped for untold centuries in an infinitely looping dimension where I was subject to torture and murder at the hands of a child despot.
+- > Who, by the way, was a creation of my own memories when the Void reached into my mind and pulled out fragments of a storybook.
+- Quincy: wtf did i just read
+- (Jump to "Quincy: ur gunna need to talk me thru it next time. but i guess if thats what u had to choose from? there or here?")
+- I make my home wherever I am.
+- Quincy: respect that. but u here with us 'n we just met, which says 2 me u got nowhere that... matters 2 u. mad peak
+- {GO TO <Conversation Node 3>}
+- I'm out. [End.]
+- {Convo ends.}
+- <These options are only available if you had a discussion with Quincy about making them mindless Warframes in previous conversations.>
+- Quincy? We okay?
+- {Lines required}
+- Hey. Quincy. I'm sorry. I lost my temper.
+- Quincy: i know u been thru some shit in ur life. i ain't gonna question that. so in exchange? what u can do is respect the fact that i don't like the idea of getting turned into one of ur little empty war toys
+- I didn't like being accused of wanting to turn you into one.
+- {Lines required}
+- I know. And I reacted poorly. And I'm sorry.
+- Quincy: ...yeah ok, forgiven, ur new
+- Quincy: while ur here, curious about something. u got a home or what? ur crashing here like ur my cousin J after getting dumped
+- {GO TO <Conversation Node 1>}
+
+### Conversation 4 (hey sweet thing / famalam, u got a second?)
+
+- Quincy: hey famalam, u got a second? / hey sweet thing, u got a second?
+- Famalam, huh? I got promoted. / Sweet thing, huh? ;) I got promoted.
+- Quincy: hahaha yeah
+- Quincy: i was wondering, while ur running 4 every1 doing the bitchwork, if u could do something 4 ur favorite mans over here
+- Of course. What do you need?
+- Quincy: see, there r easier tracks for all this hit, but His Maj heroboy won’t believe me so he got u running laps
+- {Jump below to "Quincy: so here’s the sitch, yeah? moneys no good on the street. [...]"}
+- Wait. Are you just flattering me to ask me for something?
+- Quincy: heey nah famalam u got it wrong. just trying 2 make ur day a little easier. thats what fam is for, yeah?
+- {Jump below to "Quincy: so here’s the sitch, yeah? moneys no good on the street. [...]"}
+- I sense you’re about to ask for something…
+- Quincy: what, i can't just say hi 2 my new favorite resident space freak?
+- Quincy: see, don't think it's fair they got u running around doing everybodys bitchwork, is all. i'm tryina do *u* a favour, really, by asking u to 2 some little things 4 me.
+- I was right. You *are* after something.
+- Quincy: look just bc i need something doesn't mean we can't be helping each other out, u know?
+- Quincy: so here’s the sitch, yeah? moneys no good on the street. but is good in this stupid K.O.L thing
+- Quincy: world might be going to fk but there’s still a buck to be made, so the feds gonna keep pushin’ that buy buy buy
+- Quincy: dont u look at the monster under ur bed that ate ur brotha, naaah fam, buy buy buy, read me? u happy if u got that sweet stereo. distract. divert. spend spend spend
+- Quincy: fking same story everywhere. every time
+- Quincy: but u look like u can get urself some hard cash. n u can get u goods shipped straight to ur mans quincy-k
+- Quincy: then i turn n trade that to the ppl who still think it’ll make their lives a lil less shit. they start seeing us like young loxey, givin 2 the needy
+- Quincy: so what do u say? u buy me some things i can trade, n i make sure the ppl know who got them the goods?
+- I’ll see what I can do. If it helps.
+- Quincy: yeeeaah that’s what i‘m talking about. knew i could count on u to come thru for ur mans {Convo. Ends}
+- I know a guy who thinks money is the answer to everything. You two would love each other. Parvos Granum.
+- Quincy: i know when ur insulting me, m8. don't need the nae 2 know when ur calling me greed. u wanna cling to ur teddy n tell urself stories of good guys n bad guys? u du u
+- Quincy: the rest of us live in the real world. n the real world runs on the haves n have nots. who got money n goods? they rule the streets, n u think they lose sleep over it? nah
+- Quincy: if this parvos guy agrees with me? that means he seen some shit n knows how life rly goes. so get ur head outta yer arse b4 u turn into His Maj over there. {Convo. Ends}
+- You can just ask me for things, Quincy. You don't need the fake flattery.
+- Quincy: y u thinking its fake?
+- Quincy. You want "realness" from me? I want it in return.
+- Quincy: yeah? fine. u want the truth? here. i want whats good 4 me, n if i can get it by tellin u what u wanna hear? i'm gonna say it. doesn't make it fake? means i just know how 2 play the game
+- Quincy: facts: rn what good 4 me is good 4 u. we on the same team. so what u care if i know when 2 smile atchu? the hustle helps u 2
+- Quincy: so whats the fking problem?
+- I wish I could introduce you to Parvos Granum. You two would get along *great.*
+- {Jump above to "Quincy: i know when ur insulting me, m8. don't need the nae 2 know when ur calling me greed. [...]"}
+- Because I don't like getting played, Quincy. If you want something from me, you ask for it. End of the story. Keep it honest.
+- Quincy: ok ok fine. sorry. u hustle all ur life, u get used 2 doing the dance. what i wanted was this. u got cash or can get it. n the greedy shits at kinemantic still shipping goods 2 this shithole
+- {Jump above to "Quincy: world might be going to fk but there's still a buck to be made, so the feds gonna keep pushin' that buy buy buy"}
+- I don't like playing games
+- Quincy: n u think i'm playing them? c'mon cuz, thought we had moved past that shit
+- What're you *really* after, Quincy?
+- Quincy: same thing as every1 else, whether they wanna tell u the truth r not. i want what's good 4 me. n right now? its also good 4 u
+- I'm not going to argue with you. What the hell do you want, Quincy? Just spit it out.
+- glad ur comin' around 2 see sense
+- {Jump to above branch: so here’s the sitch, yeah? moneys no good on the street. but is good in this stupid K.O.L thing}
+- Not worth fighting over... What do you want, Quincy?
+- {Jump above to "so here’s the sitch, yeah? moneys no good on the street. but is good in this stupid K.O.L thing"}
+
+### Conversation 5 (we gotta work on ur garms, m8.)
+
+- Quincy: we gotta work on ur garms, m8. can't have my new project runnin' around looking like a sideshow
+- Garms?
+- Quincy: garms. garments. clothes. whatchu wear when u go out. u know, when ur not wearing a meatsuit
+- {Jump to below branch "Quincy: now we can't all look as good as your mans here, bc u only have so much to work with, but we can polish u up"}
+- I really love getting insulted. It's my favorite thing in the world.
+- Quincy: u srsly gotta learn when 2 chill lol
+- ... I look fine.
+- Quincy: mmmm seeee there's the prob. u THINK u do
+- {Jump below to "Quincy: now we can't all look as good as your mans here,..."}
+- What's wrong with my clothes?
+- Quincy: oh lmao m8. thats so sad it's almost cute
+- Quincy: now we can't all look as good as your mans here, bc u only have so much to work with, but we can polish u up
+- Quincy: u bring me what i need, n i set u up with somethin' that makes u look less like ur out of one of amirs science movies
+- Quincy: i just wanna make sure ur comfy here in ur new digs, n what goes with new digs is new garms. id be a shit guide if i didn't
+- Yeah, but... here we are with you asking something exchange.
+- Quincy: law of the world. u do things 4 me, i do things 4 u. can't be the first time u run into that
+- Quincy: i mean, look at urself. all ur fancy space toys. n did you get any of it 4 free? any of that given 2 u by ppl out of the kindness of their hearts? or did u trade 4 it?
+- Quincy: maybe u did errands. maybe u got goods. maybe u killed. doesn't matter. u provided services. n now look at u
+- Quincy: haves. have nots. like gravity. can't escape it
+- Quincy: sooner u accept that the world only wants 2 buy n sell u, the sooner u stop being so butthurt when the world smacks u with its dick
+- Accepting that's the way the world works means being complicit in it. And I can't do that.
+- Quincy: n then ur gonna just be some miserable fk like His Maj over there. u want that? u do u. not the life 4 me {Convo. Ends}
+- You should go into writing poetry, Quincy. I need that printed on a mug.
+- Quincy: ikr? proper genius, ur man here. if only ppl listened {Convo. Ends}
+- I guess.
+- Quincy: ur coming around. i can feel it. u don't have 2 like it. u just have 2 learn 2 roll with it {Convo. Ends}
+- I was wondering why everyone was looking at me funny...
+- Quincy: lmaooo i didn't know how 2 tell u at first. look, look... its gonna be ok. u might not be able 2 wear it with the same smoothness, but we'll get u sorted.
+- Quincy: but the garms i get ain't cheap. so, u know the drill. u bring me the goods, i get u new threads.
+- And you won't help me out for free because we're friends?
+- Quincy: come on don't tell me ur that much of a muppet. i see u strutting around w/ all ur toys. u didn't get none of that 4 free
+- {Jump above to "Quincy: maybe u did errands. maybe u got goods. maybe u killed. doesn't matter. u provided services. n now look at u"}
+- On it. I could use a new wardrobe anyway. :)
+- Quincy: sweeeeet. bc if ur rolling with me, can't have u looking like ur out of one of amirs freaky scifi movies, read me?
+- Quincy: got me some rep to maintain lmao {Convo. Ends}
+- Will you help me try things on...? ;)
+- if boolean QuincyFlirtMaybe AND QuincyFlirtNo is false:
+- Quincy: i would luv nothing more, if i can get a hot sec away from the floor ;)
+- Quincy: so u hurry up, sweet thing, yeah? don't keep ur mans waiting 4 long {Convo. Ends}
+- if boolean QuincyFlirtNo is true:
+- Quincy: mmm did u change ur mind on the flirting? cuz that sounded like an invitation 2 me
+- Yeah. I changed my mind.
+- Boolean QuincyFlirt is now true
+- Quincy: well. then i'd love nothing more than 2 give u a hand. just don't keep me waiting 4 long. ;) {Convo. Ends}
+- ... Actually, no. That felt gross. Still no flirting.
+- Quincy: had a heater like u once. on off on off lmao. being in ur head must be WILD. glad that shit only goes 1 way {Convo. Ends}
+- I haven't made up my mind. I was just trying it on for size. ... Get it?
+- Boolean QuincyFlirtMaybe is now true
+- Quincy: ... ur fired 4 that joke. but yeah no prob, take ur time on making up ur mind {Convo. Ends}
+- if boolean QuincyFlirtMaybe is true
+- Quincy: this u telling me i'm clear for landing on the whole flirting thing?
+- {Jump to above branch: Yeah. I changed my mind./... Actually no. That felt gross. Still no flirting./I haven't made up my mind. I was just trying it on for size. ... Get it?}
+
+### Conversation 6 (Hey Quincy. I know you're not a large fan of Amir / So if I needed to bribe you into doing something)
+
+- Hey Quincy, I know you're not a huge fan of Amir and all, but.. I have a favor to ask.
+- Quincy: oh yeah? intrigued
+- Okay, so... wait to hear me out before you make up your mind, ok? So.. there's this game.
+- I think it's a fun excuse to get everybody together and hang out.
+- Quincy: i get me plenty of quality time with all u every damn day lol. we all stuck here in case u forgot lmao. so sorry, u yutes have fun
+- (end of conversation)
+- It's all an excuse to chill, lay low, and maybe drink a few beers.
+- So.. it's a really dorky board game. Like *really dorky*.
+- Quincy: like how dorky r we talking?
+- "Rolling dice and pretending to be mages", dorky.
+- Quincy: LMAOOO!! take a look at me m8, do i look like the type 2 wanna do that?
+- No..but.. I can make it worth your while?
+- Quincy: bribing me 2 play some stupid game?! ur seriously mental
+- Quincy: money not good 4 much, n u know that. so if u want me 2 play this silly game with u yutes? ur gunna have to make it somethin' interesting lol. like a favor
+- Quincy: nature tbd, to be collected at a time and place of my choosin', read me?
+- Agghhhhh...fine...
+- Quincy: lmaooo BOOM now we talkin'
+- Quincy: tho. now i gotta do this stupid game, don't i? shit
+- Quincy: not sure who just played who lol
+- Quincy: don't forget about that favor, tho {Convo ends.}
+- I... don't think I like the idea of owing you a favor. Not over this. Never mind.
+- (Lines required)
+- Hear me out. It's called Fables & Frontiers.
+- (Lines required)
+- Morale's low with the team, with everything going on.
+- (Lines required)
+- > (Lines required)
+- So if I needed to bribe you into doing something for me, how much would it cost?
+- Quincy: lol how can i tell u what it costs if i dunno what u want?
+- Okay, so... wait to hear me out before you make up your mind, ok? So...there's this game.
+- (Lines required)
+- So, Amir's trying to get the gang together to play this tabletop roleplaying game.
+- Quincy: LMAO oh HEEEELLLLS no {Convo ends.}
+
+### Conversation 1 (You seem to be the guy to ask about this. / What do you listen to for music, Quincy ?)
+
+- You seem to be the guy to ask about this. Is there more music in this era besides On-Lyne?
+- (same as below)
+- What do you listen to for music, Quincy?
+- Quincy: y? u sick of the booooys n the bars they throwin'? lolol
+- Quincy: no shame to it, srsly tho. not gonna throw shade at nobody who gets 2 do that 4 a livin'
+- Quincy: i know fame n fortune comes at a price, nothin' in life is free, but man. looks nice tho
+- I just need something else to listen to. It's just... not my thing.
+- Quincy: i read u i read u. personally not my taste either, cuz. I'll see what i can do 2 set u up. mf calamity. mos prob. prof dre
+- Quincy: get u proper lean n get some bars cranking n we'll get u converted quick time
+- Sounds like a good time. :)
+- Quincy: damn straight, cuz {Convo. ends}
+- I feel like I just signed myself up to get into trouble.
+- Quincy: best way 2 live life, cuz. i gotchu, dont u worry {Convo ends}
+- I don't think I'd want to do that for a living... too much pressure. Too public.
+- Quincy: srsly? naaah thats the dream 4 me. standing in the lights? mandem, galdem all droolin' over me. money rollin' in, shoobz every night
+- Quincy: fk yes, m8. not gonna happen now tho is it. not unless u got some serious magic tricks up ur sleeve
+- I mean, there is a stage here in the mall...
+- Quincy: lmao im not talkin' about open mic night, but thnx 4 ur vote of confidence...besides, i can't sing 4 shit lmao. got me some rhythm but i know where my skills r
+- Quincy: theres a reason y i got me a gig at the end of a scope lmaooo u don't wanna hear me on a mic. aoi got me proper wavey 1 time in the ICR b4 we all wound up here. we were all on leave, lettie, arthur, aoi, few others, n i. n we did... kereoke? dunno how 2 spell it
+- Quincy: I EMPTIED THE PLACE lmaoooo. u know whose got a set of lungs tho? heroboy. so here's a good story. after every 1 had left.. he's like 5 pints in, yeah?
+- Quincy: he starts thumpin' his fist on his thigh n starts singin' w/o the mic. eyes shut. dunno the tune. but got shivers hearin' the lyrics. like some spook had come back n touched me.
+- Quincy: 'why does u sit upon my gave, an will dead lips 2 speak? why does u weep upon my grave and will not let me sleep?'
+- Quincy: 'my breast it is as cold as clay, my breath is earthly strong. n if u kiss my cold clay lips ur days they won't be long'
+- Quincy: ...fking shivers again just thinkin' about it, shit
+- Quincy: we all just fkin sat there in silence.. starin' at him 4 MINUTES after he finished, not knowing what 2 do
+- Quincy: i was the first 2 say something. i hadda speak up. tell him what i was thinkin
+- What were you thinking?
+- (Same as below)
+- What'd you say?
+- Quincy: 'BUZZKILL!!'
+- Quincy: lmaooo he looked so pissed. laws of the universe, m8. gravity, taxes, money man gonna get his money...
+- Quincy: n His Maj cant take a fkin' joke lol
+- Quincy: speakin' of. he's paging me. gotta dash. ttys
+- I don't think I have *that* kind of magic trick. Sorry.
+- Quincy: eh is ok. just pipe dream shit anyway. i can't sing 4 shit lmao. got me some rhythm but i know where my skills r (Jump to above branch starting 'theres a reason y i got me a gig...')
+- All those adoring fans? All those people wanting a piece of you? That'd be amazing.
+- Quincy: U READ ME. thats the DREAM. standing in the lights. mandem, galdem all droolin' over me? money rollin' in, shoobz every night? (Jump to above branch starting 'fk yes, m8. not gonna happen...')
+- I just wish I could tune them out. I don't know how Aoi stands them.
+- Quincy: dontchu dare look down ur nose at her for what she likes. there's not enough joy in this world 2 go around, don't u try 2 rob her of what little she got
+- Quincy: easiest way 2 piss her off, n make me think u r not all the shit u think u r
+- Yikes... sorry. Sorry. They're just not my thing.
+- {Lines required}
+- I didn't realize you were so protective of her.
+- Quincy: lmaoooo u really DONT know the first thing 'bout having friends do u
+- I... have friends.
+- Quincy: yuhhuh. look m8. plenty of reasons 2 choose ur squad 4 whatever reasons. turning ur nose cuz of music aint it
+- Quincy: aoi gets 2 like what she likes. u don't have to join. just step off the shade
+- Sorry. I'm not trying to pretend I'm better than nobody. That stuff just drives me nuts.
+- {Lines required}
+- Just calling it like i see it, buddy.
+- Quincy: w/e pillock {Convo. Ends}
+- I just wanted to ask you if you had music recommendations. Why are we fighting?
+- {Lines required}
+- > [Ignore.]
+
+### Conversation 2 (hey <space trauma / sexy thing>, u there? / also "question 4 u. personal 1)
+
+- [If Quincy is not currently flirting with the Drifter]
+- Quincy: hey space trauma, u there? u remember when u were telling me about that war u went thru? wondering if u got the time 2 talk war stories with ur favorite lux sniper
+- > [Ignore.]
+- I’ll tell you. But what’s in it for me?
+- Quincy: haha i see u, u wheeler 'n dealer, i see u. alright alright. we trade stories. u tell me about this war of urs, and ill tell u how i joined the Hex tomorrow. deal?
+- {Jump below to choices "> Sure." or "> I’m not in the mood for this right now."}
+- I mean. Sure. But it’s a lot to get into at once.
+- Quincy: no worries m8, u got ur speed, i just know a soldier when i see 1 and i‘m curious is all
+- I’m not in the mood for this right now.
+- {Lines required}
+- Sure.
+- Quincy: BOOM. take it away, bozz
+- When I wound up in the Origin system – things were… completely taken over by this psychopath Orokin and a Sentient.
+- In short, the Orokin decided they were gods. They're enhanced humans who figured out how to live forever. Sentients were created by the Orokin to terraform another solar system, but then turned around and waged war on the Orokin Empire.
+- (Jump to below branch starting 'oh no, the free labor rose up n didn't wanna be pissed on anymore...')
+- Let’s start at the beginning. With Ballas, the Orokin, and the Sentients.
+- > The Orokin Empire were – are? – responsible for a lot of the mess we’re dealing with now. Either directly or indirectly.
+- > Earth and the rest of the system was becoming uninhabitable. And they wanted to ensure the survival of the human race. So they decided to terraform a new solar system and its main planet, Tau.
+- > In order to do that, they created a synthetic race. The Sentients. And then the Sentients came back and waged war on the Orokin Empire about it.
+- Quincy: whoawhoa hol up hol tf up. u gotta give me a 2nd 2 process all that fking nonsense
+- Quincy: … w8 did i just read that right?! lmaooo
+- Quincy: oh no, the free labor rose up n didn’t wanna be pissed on anymore? boo fking hoo. good. hope the orokin ate shit 4 it
+- Didn’t give them the right to come back and start slaughtering innocents over it.
+- {Same as below}
+- I hate the Orokin Empire as much as the next person. Trust me. But the Sentients aren’t saints, either.
+- Quincy: not sayin’ they are, m8. just sayin’ this world got a LOTTA history using people it sees as ‘less than’ as expendable, read me?
+- Quincy: in the future apparently they just come outta… whatever sentients come outta…
+- I try not to think too hard about how they get made, actually… but anyway. You’re right. They shouldn’t have been exploited. But they also shouldn’t have waged war.
+- > One of them named Erra – the brother to the lotus who sent me here – teamed up with Ballas, chief asshole Orokin, and took over the Origin System.
+- > Created these veils that literally brainwashed people. Turned them all into mindless servants to “Narmer”.
+- Quincy: just like what they said tv n games were gonna do 2 us, …tbf, i guess they were kinda right about the techrot lmao
+- Quincy: but ur here, so u won the war. how?
+- Little by little. One by one. One veil at a time. One city at a time. One planet at a time.
+- Quincy: always how its done. everybody forgets the lil guy in the war. thinks the ppl in the boardrooms making the power moves
+- Quincy: nah. 1 bullet becomes 2. becomes 2000. bullets kill armies, m8. its about mass n inertiad
+- Quincy: look at us, getting’ deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we‘ll pick this up l8r
+- Quincy: see ya, cuz {Convo. Ends}
+- I didn’t do it alone. Even enemies like the Corpus or Grineer realized we all had a common foe. Even Erra's father helped me. Hunhow.
+- Quincy: shit. his own dad. that's messed... war does that 2 families, sometimes tho, dunnit. but i bet it's all forgotten now, innit? u all back 2 clappin' each other like its any other day o the week'
+- Some friendships have stayed strong.
+- Quincy: always the case. u end up with a few strays but the course of the river doesn't change does it? that takes real work. real power
+- Quincy: look at us, getting’ deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we‘ll pick this up l8r
+- Quincy: see ya, cuz {Convo. Ends}
+- ... The more things change, the more they stay the same...
+- Quincy: u could tattoo that on my soul, m8. fk. look at us, gettin' deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we'll pick this up l8r
+- Quincy: see ya, cuz {Convo. Ends}
+- People are going to people. No matter how hard you wish they wouldn't.
+- Quincy: u could tattoo that on my soul, m8. fk. look at us, gettin’ deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we’ll pick this up l8r
+- Quincy: see ya, cuz {Convo. Ends}
+- Quincy: hey space trauma, u there? question 4 u. might be a bit of a personal 1, but i think ur tough enough 2 handle it
+- What's up?
+- Quincy: i see the way u walk around this place. super Kaj, like nothing phases u, like ur not in the middle of a warzone. this ain't ur first time in this sitch, is it?
+- Not... it's not my first warzone.
+- {Same as below}
+- All warzones are different. But the looks in their eyes are the same.
+- Quincy: fking feel that, m8. fking feel that. u wanna talk about it?
+- {Jump above to choices "> I’ll tell you. But what’s in it for me?" or"> I mean. Sure. But it’s a lot to get into at once."}
+- > [Ignore.]
+- [If Quincy is currently flirting with the Drifter]
+- Quincy: hey sexy thing, u there? wondering if u got the time 2 talk war stories with ur favorite lux sniper. u started 2 tell me about u saving the universe from some crazies
+- > [Ignore.]
+- I’ll tell you, gorgeous. But what’s in it for me? ;)
+- Quincy: haha i see u, u sexy wheeler n' dealer, i see u. alright alright. we trade stories. u tell me about this war of urs, and ill tell u how i joined the Hex tomorrow. Deal?
+- Sure
+- (jump to below (Quincy: then take it away, sexy thing ;)")
+- >I'm not in the mood for this right now
+- I mean. Sure. But it’s a lot to get into at once.
+- Quincy: then we take it slow, no pressure. i know how 2 be gentle when its needed. ;) u tell me only whatchu wanna tell, ur mans is patient
+- > I’m not in the mood for this right now.
+- Sure.
+- Quincy: then take it away, sexy thing ;)
+- When I wound up in the Origin system – things were… completely taken over by this psychopath Orokin and a Sentient.
+- >In short, Orokin decided they were gods. They're enhanced humans who figured out how to live forever. Sentinels were created by the Orokin to terraform another solar system, but then turned around and waged war on the Orokin Empire.
+- (jump to below "Quincy: oh no, the free labor rose up n didn’t wanna be pissed on anymore? boo fking hoo. good. hope the orokin ate shit 4 it")
+- Let’s start at the beginning. With Ballas, the Orokin, and the Sentients.
+- The Orokin Empire were – are? – responsible for a lot of the mess we’re dealing with now. Either directly or indirectly.
+- Earth and the rest of the system was becoming uninhabitable. And they wanted to ensure the survival of the human race. So they decided to terraform a new solar system and its main planet, Tau.
+- In order to do that, they created a synthetic race. The Sentients. And then the Sentients came back and waged war on the Orokin Empire about it.
+- Quincy: whoawhoa hol up hol tf up. u gotta give me a 2nd 2 process all that fking nonsense
+- Quincy: … w8 did i just read that right?! lmaooo
+- Quincy: oh no, the free labor rose up n didn’t wanna be pissed on anymore? boo fking hoo. good. hope the orokin ate shit 4 it
+- Didn’t give them the right to come back and start slaughtering innocents over it.
+- (Goes the same as below)
+- I hate the Orokin Empire as much as the next person. Trust me. But the Sentients aren’t saints, either.
+- Quincy: not sayin’ they are, m8. just sayin’ this world got a LOTTA history using people it sees as ‘less than’ as expendable, read me?
+- Quincy: in the future apparently they just come outta… whatever sentients come outta…
+- I try not to think too hard about how they get made, actually… but anyway. You’re right. They shouldn’t have been exploited. But they also shouldn’t have waged war.
+- One of them named Erra – the brother to the lotus who sent me here – teamed up with Ballas, chief asshole Orokin, and took over the Origin System.
+- Created these veils that literally brainwashed people. Turned them all into mindless servants to “Narmer”.
+- Quincy: just like what they said tv n games were gonna do 2 us, …tbf, i guess they were kinda right about the techrot lmao
+- Quincy: but ur here, so u won the war. how?
+- Little by little. One by one. One veil at a time. One city at a time. One planet at a time.
+- Quincy: always how its done. everybody forget the lil guy in war. thinks its ppl in the boardrooms making power moves.
+- Quincy: nah. 1 bullet becomes 2. becomes 20000. bullets kill armies. armies kill countries, m8. its about mass n inertia.
+- (Jump to below "Quincy: look at us, gettin' deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we'll pick this up l8r")
+- I didn’t do it alone. Even enemies like the Corpus or Grineer realized we all had a common foe. Even Erra's father helped me. Hunhow.
+- Quincy: shit. his own dad. that's messed... war does that 2 families, sometimes tho, dunnit. but i bet it's all forgotten now, innit? u all back 2 clappin' each other like its any other day o' the week
+- Some friendships have stayed strong.
+- Quincy: always the case. u end up with a few strays but the course of the river doesn't change does it? that takes real work. real power
+- Quincy: look at us, gettin' deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we'll pick this up l8r
+- Quincy: see ya, gorgeous ;) {Convo. Ends}
+- ... The more things change, the more they stay the same...
+- Quincy: u could tattoo that on my soul, m8. fk. look at us, gettin' deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we'll pick this up l8r
+- Quincy: see ya, gorgeous ;) {Convo. Ends}
+- People are going to people. No matter how hard you wish they wouldn't.
+- Quincy: u could tattoo that on my soul, m8. fk. look at us, gettin' deep. lmao. ugh i hate this serious shit, dontchu? lets call this good 4 now. we'll pick this up l8r
+- Quincy: see ya, gorgeous ;) {Convo. Ends}
+
+### Conversation 3 (so... whats with the giant freaky hairless cat monster?)
+
+- Quincy: so... what's up with the freaky hairless cat monster?
+- Do you mean the fact that she's a giant cat monster, or her deal specifically?
+- Quincy: ok, well, now that u say it? lol. both
+- So, as far as I can tell, kavats, which is what Kalymos is, evolved from your "cats", which are smaller.
+- Quincy: awesome. giant murder cat.
+- Quincy: but like i still gotta be concerned that its still working for entrati
+- If you were Entrati's pet, wouldn't you be over his shit, too?
+- Quincy: which means shes smarter than a normal cat tho, doesnt it
+- Quincy: like r we talking human level intelligence here? level with me
+- I mean... Entrati has made animals with human intelligence before. But usually they talk.
+- They're called the Cavia. But I'm sure if Kalymos was one of them, she'd have let us know by now... right?
+- Quincy: lol i could tell u stories about an ex of mine
+- Quincy: used 2 play coy like this all the time. purr purr. then when u least expect it...? MURDER. everybody underestimated her. including me
+- Quincy: never gonna make the same mistake twice. not with a person, not with a giant monster cat.
+- Quincy: i dont plan 2 turn my back on that thing lol, u better keep ur eyes open 2
+- > Sage advice. Thanks. {Convo. Ends}
+- I don't know. I know what it's like to be used and neglected. If she wants to stay? She has a warm bed and as many scritches from me as she wants.
+- Quincy: ... yeah you got a point. we all strays abandoned by that mfer to some degree huh
+- Quincy: just another thing used n thrown away, even if she is a freaky mutant cat. ...if she eats me tho, i want u 2 know its all your fault {Convo. Ends}
+- I think she's just as smart as we are. She's just playing it cool, and I'm not going to confront her about it because I like having a face.
+- [Goes the same as above, from: "Quincy: lol i could tell u stories about an ex of mine"]
+- It's possible? I mean, she's a kavat. They're always a *little* shifty, right? Lol.
+- {Goes the same as below convo choice}
+- I think Kalymos had enough of Entrati's shit, honestly. Like a lot of people.
+- {Goes the same as below convo choice}
+- I think you're asking about Kalymos? Honestly, I'm not sure.
+- Quincy: lmao oh thats a good sign. if u don't know then what're we supposed 2 do?
+- Quincy: i kinda feel like i shouldn't be turning my back on it. like do i got 2 be converned its still working 4 entrati?
+- It's possible? I mean, she's a kavat. They're always a *little* shifty, right? Lol.
+- Quincy: this is EXACTLY y im a dog person, read me? even if cats love u, u cant really trust em
+- Quincy: my nan used 2 leave me with her friend sometimes. nice old lady. she had this cat who was PROPER loony
+- Quincy: used 2 play all nice n sweet n gentle n purr n purr n purr n luv then just when u think u were safe... CLAWS 2 THE FACE, M8
+- Quincy: cats. they r always one good freak out away from taking ur eyes out
+- I love kavats, though. Smart, graceful. They love you because *they* choose to. Kubrows - dogs, sorry - are way more programmed to be that way.
+- Quincy: cats r always up 2 something
+- Quincy: n i feel like that monster cat might mean well now, but shes up 2 something
+- [Same choices as above, from: "> Sage advice. Thanks. {Convo. Ends}"]
+- I'm with you. I'm such a kubrow - sorry, dog - person, too.
+- Quincy: just always happy 2 see u. just want love
+- Quincy: cats r always up 2 something
+- Quincy: n i feel like that monster cat might mean well now, but shes up 2 something
+- [Same choices as above, from: "> Sage advice. Thanks. {Convo. Ends}"]
+- I think Kalymos had enough of Entrati's shit, honestly. Like a lot of people.
+- Quincy: which means shes smarter than a normal cat tho, doesnt it
+- Quincy: like r we talking human intelligence here? level with me
+- Quincy: is she like those cavia lettie was telling me about? she was in a straight tear about 'em, haven't seen her that pissed in a long time {Assuming Boolean "LettieCaviaTrue" must have occurred for that exact line}
+- {Same convo choices as above, when choosing "I mean... Entrati has made animals with human intelligence before. But usually they talk."}
+
+### Conversation 4 (i feel like we gotta work out safewords or something)
+
+- Quincy: i feel like we gotta work out safewords or something
+- Quincy: thats what they call it, innit?
+- Did... you mean to click on Lettie?
+- Quincy: ROFLMAOO
+- Quincy: naaah m8 lmaooo
+- Quincy: thats funny as shit tho
+- Great. Um... What're we talking about?
+- Quincy: u being in my head, cuz.
+- Quincy: n look i know u use them 2 save lives n all. i get it
+- Quincy: but I just keep thinking about the ppl those frames used 2 b...
+- Quincy: n the fact that their minds r gone now... is there really nothing left of them? nothing at all?
+- [Goes the same as below, from: "Quincy: There's... something left of them. It's hard to describe."]
+- You've lost me, Q. What're we talking about?
+- Quincy: u bein in my head, cuz.
+- Quincy: i dont like the fact that u can pop in n out of me like im some cheap rental car.
+- Quincy: n i want 2 set some boundaries on that.
+- I have enough vehicles like that
+- (Lines required)
+- I have plenty of rides to choose from
+- Quincy: ur missing the point
+- Quincy: w/e m8 {Convo. ends}
+- Nah. You're a classy rental. At least mid-grade.
+- Quincy: oh thx
+- Quincy: but i see those frames u ride around, n i know they used 2b ppl like me
+- Quincy: n look i know u use them 2 save lives n all. i get it
+- Quincy: but i just keep thinking about the ppl those frames used 2 be..
+- Quincy: n the fact that their minds r gone now... is there really nothing left of them? nothing at all?
+- > I don’t want to have this conversation {Convo Ends}
+- There's... something left of them. It's hard to describe.
+- > Memores, almost? Bits and pieces of a personality.
+- > When I inhabit them, I can feel myself taking on... parts of who they used to be.
+- > Mannerisms. The way they used to stand. Move Things like that. It's strange.
+- Quincy: gotta a trip when u change genders lol
+- Least weird part about this.
+- [Goes the same as below, from: "Quincy: but thats it tho? just... bits n pieces?! everything else... gone?!"]
+- Lines like that are pretty blurry anyway, when you get down to it.
+- Quincy: but thats it tho? just... bits n pieces?! everything else... gone?!
+- Quincy: and y? if u got ur own ppl suits, y do u even need us?
+- Quincy: y did Entrati even bother w/ making us?
+- I can only guess but... I'm betting he wanted to make sure I had warframes in this timeline that I could use.
+- > Just in case mine didn't come through or... something. He always has backup plans on backup plans.
+- Quincy: ...spares. we're just SPARES?! in case ur other meat suits didn't come thru the talking monster thing?!
+- Quincy: oh thats NEXT MESSED UP
+- Quincy: we r PPL not THINGS
+- Quincy: this is why i left the army in the first place
+- Quincy: 2 get away from assholes like him
+- Quincy: but 1 got me in the end anyway
+- Could be worse. You're a sexy, badass, *sniper* with *super powers.*
+- Quincy: LMAO! look at u appreciating top shelf quality goods here
+- Quincy: yeah. everything about what u make of it. thanks 4 checking me
+- Quincy: but pls. i still want u staying out of my head if i say so when i say so
+- Quincy: n if i'm having *ahem* private time with a friend or 2 u stay outta my head, u read me?
+- What's the protoframe equivalent of a sock on a doorknob?
+- Quincy: LMAO ur smart u can figure something out {Convo. Ends}
+- ... No promises.
+- Quincy: LMAO doesn’t make me come {Convo. Ends}
+- > Lol. Yessir {Convo. Ends}
+- > What *did* happen to you in the army, anyway? You have this whole... "toy soldier" thing you keep bringing up.
+- Quincy: its a long story
+- Quincy: tell it to u another time
+- Quincy: i gotta go sit n have a think n a drink
+- Quincy: lmao. a think n drink {Convo. Ends}
+- Probably for the same reason he does anything- scientific curiosity.
+- Quincy: w/e
+- Quincy: clear that we werent ppl 2 him only THINGS
+- Quincy: shit he could use n discard
+- Quincy: this is why i left the army in the first place
+- Quincy: 2 get away from assholes like him
+- Quincy: but 1 got me in the end anyway
+- Could be worse. You're a sexy, badass, *sniper* with *super powers*
+- [Goes the same as above, from: "Quincy: LMAO! look at u appreciating top shelf quality goods here"]
+- What *did* happen to you in the army, anyway? You have this whole... "toy soldier" thing you keep bringing up.
+- [Goes the same as above, from: "Quincy: its a long story"]
+- He's trying to save the world. The Origin System. Hell, the *universe*. It's going to requiew a little spilled milk.
+- Quincy: yeah I didnt see u with those words when u were facing down entrati
+- Quincy: big words when u sitting at a computer. real different when u gotta back that up with action. {Convo. Ends}
+- You're asking me to try and guess why Entrati does anything? Might as well ask Eleanor to read your cards.
+- [Goes the same as above, from: "Quincy: w/e"]
+- > Nope I'm out. {Convo. Ends}
+
+### Conversation 5 (All right. Gotta fially ask. / What did you want to do? )
+
+- All right. Gotta finally ask. What's up with the photography?
+- Quincy: ur boi cant have hobbies? everybody got hobbies, m8 lol
+- I just really love some of the pictures you've taken. They're gorgeous work.
+- I was wondering where you picked it up from, is all.
+- Quincy: my dad. when he died, we had all his stuff, yeah? lua don't let u take luggage.
+- Quincy: we sold everything of any decent value, ofc. gotta make the rent, cuz. but there were still some boxes of random stuff kickin' around
+- Quincy: 1 day, when i was a kid, im rootin' thru a box n i find this lil neon green rectangular camera
+- Quincy: flash used to make this horrible noise when it charged. think it was the capacitor or w/e
+- Quincy: took shit pictures. sol i loved it tho
+- Quincy: used 2 run round takin shots of EVERYTHING. drove my auntie NUTS lol! best time
+- Quincy: i guess i just got the bug then. ever since it's just a thing i like 2 do when i got the time. takes my mind off the job
+- Quincy: looking down a scope n looking thru a lense aint 2 diff... cept for the endings
+- Quincy: i get 2 capture moments tho. i think i wanted 2 show the world things people might not want 2 see. things they forgot or didnt wanna look at
+- I think that's... really cool, actually.
+- Quincy: thnks m8. ill show u some of my stuff l8r maybe. {Convo. Ends)
+- You should take my picture sometime.
+- With or without clothes is your call. ;)
+- Quincy: HAHAHAAA ooh that was PROPER smooth
+- Quincy: lets see if we cant get some quiet time just 2 ourselves 4 a photoshoot, huh? ;) {Convo. Ends}
+- Not sure if you do many portraits.
+- Quincy: not much but hey always lookin 2 try new skills, n now i got plenty of time 2 master them huh LOL {Convo. Ends}
+- You just don't strike me as the photography type.
+- Quincy: what i gotta be all street all the time?
+- Quincy: shit, cuz. see some depth will u? {Convo. Ends}
+- I'm just really curious.
+- {Jump above to choices "> I was wondering where you picked it up from, is all." or "> You just don't strike me as the photography type."}
+- What did you want to do? Back before... all this happened?
+- Quincy: eeeh i dunno if a man like me ever gets 2 really have dreams 4 the future, m8
+- Quincy: it's not really how life goes 4 ppl like me if u read me. i dreamed of bein' famous someday. of goin' home with fat stacks of Ps for nan and sis
+- Quincy: but now neither of those r gonna happen, r they? i'm here. we're here. loopin'. forever. or until something gets unstuck 'n things fall apart, who knows.
+- You seem to be taking the whole "stuck here forever" thing well.
+- Quincy: can't fix it, y get bent outta shape? n we got things 2 do. n there are upsides
+- Quincy: i'm sure i'll get sick of it n loose my shit eventually but nah. 4 now i'm good. ur mans is tough
+- Quincy: don't think lettie's handling it 2 well tho... or His Maj 4 that matter.
+- At least you all have each other.
+- Quincy: yeh. we do. n ppl adapt, that's the thing innit? no matter what. u drop bombs n ppl n they still like 'oop off 2 go buy bread doo de doo'
+- Quincy: nan showed me pictures of the war when they were all gettin shit dropped on 'em nightly n it's all like 'yeh we just went on like nothin' was wrong'
+- Quincy: n i thought that was PROPER MENTAL when i was a yute, how is that even possible?! then i grew up n went to war n... then i saw all this
+- Quincy: ppl just try to go on livin' even when everything goes tits up
+- Quincy: its the 1 thingu can always count on
+- Quincy: eeeehh fk here i am all waxin' off poetic again y u gotta do this to me, m8? i hate this deep shit lmao
+- LOL. Sorry. Wasn't my intention.
+- Quincy: psshh sure, sure. i see u, pumpin' me for all the juicy deets. :P
+- I'll try to avoid heavy subjects next time.
+- (line required)
+- They'll... settle. I'm sure.
+- (line required)
+- You haven't talked much about your family.
+- Quincy: suppose i haven't. i got a sis, a nan, and an auntie. sis 'n nan r back home. auntie's farther away in xaymaca. this apocalypse picked the wrong fking place to happen. we could've had xaymaca
+- Do you still talk to them? We have phones. KIM.
+- Quincy: yeah i check in. the're ok. the techrot hasn't gotten out there yet. dunno if that changes thru the year or not. hope not
+- Quincy: miss them tons. still good 2 ne able 2 hear thjeir voices. im used 2 not being able to go home, since i haven't walked thru those doors 4 more than a holiday or 2 for yeeeeears
+- Quincy: ... now, lookin' like this? i mean, i don't mind it... n the ladies n gents i bring around here certainly don't mind lolol
+- {Jump below to "Quincy: but my nan? [...]"}
+- Do they at least know you're okay?
+- {Same as above}
+- You must miss them...
+- Quincy: yeah. course i do. but i haven't been home in a long time, cuz. long, long time. between the army, ICR, now this?
+- Quincy: haven't walked thru those doors 4 more than just a holiday or 2 for yeeaaaaaaars
+- Quincy: ... now, lookin' like this? i mean, i don't mind it... n the ladies n gents i bring around here certainly don't mind it lolol
+- Quincy: but my nan? my nan wouldn't understand all this... getup. kinda glad now i can't go home. shit
+- Are you okay?
+- Quincy: don't know. sorry. gonna go think it out on my own, m8 {Convo ends.}
+- Do you need to talk it out?
+- Quincy: maybe l8r. sorry. gonna go think it out on my own, m8 {Convo. Ends}
+
+### Conversation 6 (oi)
+
+- Quincy: oi
+- [If Quincy is currently flirting with the Drifter]
+- Yes?
+- Quincy: so i know we playin' n flirtin' n u know quality goods when you see it. n i appreciate that u got good eyes in ur head
+- Quincy: but i got an offer 2 make u, bc i know ur all 'dont get outta the fked up dimension of murder' much
+- Quincy: n i'm not here to throw u off the chase, sexy. but i just wanna make sure that u get equal opportunities, u read me?
+- Quincy: want 2 make sure that if ur gonna pick CLASS u know ur picking CLASS
+- Are you telling me to stop flirting with you?
+- Quincy: lmaooo nah, sexy thing! u getting it all wrong. i'm tryna give u the option 2 play the field. y'know. shop around. see what ur options r
+- Quincy: and ur main mans here, ur quincy-k, is just the lux player 2 set u up with the inside scoop* on whoever u got ur eye on**
+- {Jump to below branch: "*beside me ofc"}
+- I... am... so extremely lost right now, Quincy. What're you talking about?
+- Quincy: i'm tryna give u the option 2 play the field. y'know. shop around. see what ur options r
+- {Jump to below branch: "*beside me ofc"}
+- [If Quincy is currently not flirting with the Drifter]
+- Yes?
+- Quincy: I got an offer 2 make u, bc i know ur all 'don't get outta the fked up dimension of murder' much
+- Quincy: and ur mans here, ur quincy-k, is just the lux player 2 set u up with the inside scoop* on whoever u got ur eye on**
+- Quincy: *beside me ofc
+- Quincy: **nd for a fee, ofc
+- You... want to give me dating advice... on the other Hex... for. A *another* fee? (OR) You... want to give me dating advice... on the other Hex... for. A price?
+- Quincy: u got it. n the fee is just a lil favour 4 a friend, nothin' u'd ever regret doing anyway, promise
+- {Jump below to choices "> But you haven't used the first favour yet." or "> This is making me nervous. No. I'm out." or "> Fine... I could use the help..."}
+- What's the fee *this* time? (OR) What's the fee?
+- Quincy: same as last. a lil favour 4 a special friend ;)
+- But you haven't used the first favour yet.
+- Quincy: then whats the harm in owning me a 2nd one?
+- I don't... I don't think that's how that works... No. I'm out.
+- Quincy: suit urself. offer stands while supplies last. lemme know when u change ur mind. nobody knows these losers like i do {Convo. Ends}
+- Okay, fine. I can use the advice.
+- Lettie.
+- Quincy: ha. oh guv u gonna get ur ass HANDED but ok lol
+- Quincy: my advice? respect the rats respect her time
+- Quincy: respect in gen lol
+- Quincy: nah but she dont take herself too seriously either tho
+- Quincy: girl like that knows when she needs to get called out on her bs
+- Quincy: don't be gentle w/ her. she HAAATES that
+- Quincy: gotta run guv. solspeed. u gonna need it. {Convo. Ends}
+- Arthur.
+- Quincy: u going for knockoff when u got the real thing right here? disappoint. lol kiddin u do u guv.
+- Quincy: Arthur? serious shit. no sense of humor on the outside. but i think he's dyin' for a smile. u gotta just take ur time with it
+- Quincy: no bullshit, not until he knows u 4 real. then u can tell him what 4. he don't take no shit from people he don't trust. patience with that 1
+- Quincy: gotta run guv. solspeed. u gonna need it.
+- Amir.
+- Quincy: ...
+- Quincy: ok. charitys ur thing. enough said lmao
+- Quincy: nah that boi just needs some1 to play with i think. he's lonely. thinks nobody sees him. play along n ur in
+- Quincy: easy peasy
+- Quincy: gotta run guv. solspeed. u gonna need it.
+- Eleanor.
+- Quincy: u into the weeeeeeeeird shit n i like it, cuz lolol. more power 2 u
+- Quincy: that lady wants 2 play chess. wants a challenge. wants 2 be made 2 think
+- Quincy: u want in with her? u gonna have 2 work 4 it. listen. pay attention. care. oh n one other thing
+- Quincy: u gotta be into that tongue lol
+- Quincy: 2 freaky 4 me... or is it ;)
+- Quincy: gotta run, guv. solspeed. u gonna need it
+- Aoi.
+- Quincy: she's got a kind heart. u do her dirty tho, u gonna make a lotta enemies
+- Quincy: ok ok. so. that girls afraid no1 takes her serious. thinks every1 thinks shes dumb
+- Quincy: just a pretty face. show her u wanna know who she really is, yeah?
+- Quincy: n find joy in what she finds joy in. appreciate her 4 who she REALLY is. not who u THINK she is
+- Quincy: gotta run, guv. solspeed. u gonna need it
+- This is making me nervous. No. I'm out.
+- Quincy: suit urself. offer stands while supplies last. lemme know when u change ur mind. nobody knows these losers like i do {Convo. Ends}
+- Fine... I could use the help...
+- {Jump above to choices "> Lettie." or "> Arthur." or "> Amir." or "> Eleanor." or "> Aoi."}
+- This is such a bizarre and honestly gross situation. I'm out. And. Honestly? No more flirting. Done. We're done.
+- Quincy: sols TITS u gotta calm down m8, ur gunna blow a fuse just like His Maj. it's just a little fun n games
+- Quincy: but fine, ur 2 serious 4 me anyway. peace {Convo. Ends}
+- But the one I have feelings for is *you*, Quincy...
+- Quincy: of COURSE it is, i mean look at me. i got it all. the swagger, the looks, the farms, the charms...
+- Quincy: y wouldn't u pick me? all class, right here
+- No, I mean I have *feelings* for you, not just an attraction to you.
+- Quincy: n u and I look pretty great 2gether, even if u are still kinda dressing like a freak half the time. its okay. my style got thrown a bit 4 a loop with all this weird plating i got going on now
+- Quincy: glad u made the right choice, sexy thing. if u ever want some advice on the other losers, tho, u let me know. (it'll still cost u tho)
+- >Quincy, did you read what I said? {Conv. Ends.} (I'm not sure if the flirting code matters to get here but mine had flirting set as true. This does offer chemistry as the chart shows and Drifter interested in Quincy is now true.)
+- >BRB [End]
+
+### Conversation 1 (Hey, Quincy - how're you holding up? / So. Have you and Amir settled your differences?)
+
+- Hey, Quincy - how're you holding up?
+- Quincy: rn? kinda meh, if i'm gonna be honest with u?
+- What's wrong?
+- Quincy: the little hyper shithead is whats wrong
+- (Same as below branch)
+- Anything I can help with?
+- Quincy: maybe u can talk 2 the little hyper shithead 4 me
+- > Who?
+- I assume you're talking about Amir?
+- Quincy: how many of them do we got kickin' around in here, m8? yeah im talkin' about amir lol
+- I thought you two were doing better, now?
+- Quincy: Quincy: yeah i mean i thought things were better since... u know... all that... whatever tf that was... but he still keeps lookin' at me like some kinda wounded puppy u know? (See branch below)
+- What's going on between you two?
+- Quincy: i dunno!! i mean i thought things were better since... u know... all that... whatever tf that was... but he still keeps lookin' at me like some kinda wounded puppy u know?
+- Well, have you actually sat down and *talked* to him?
+- Quincy: ... y do i gotta talk 2 him?
+- He might think you still have a problem with him. Even with what happened.
+- (jump below to "Quincy: so. u want me to go make nicey-nice with amir?...")
+- For someone who teases me for not knowing how to navigate society... you don't do feelings much, do you?
+- (jump below to "Quincy: so. u want me to go make nicey-nice with amir?...")
+- > You two are adults. Work it out between yourselves. I'm not your babysitter.
+- How can I help? Talk me through it. I'll even listen for free.
+- Quincy: do u do this everywhere? fix ppls problems? make life better one freaky fking family at a time?
+- I try to. If I can. Sometimes, it's easier than others.
+- Quincy: ur gonna have ur work cut out 4 u with the lil hyper freak n me
+- {Jump below to "Quincy: so. u want me to go make nicey-nice with amir? that what u asking me 2 do?"}
+- I can't tell if you're making fun of me or not.
+- Quincy: u should know by now that if im gonna make fun of u, u'll know lol
+- Quincy: ask amir, when i'm teliin him off im not exactly subtle
+- {Jump below to "Quincy: so. u want me to go make nicey-nice with amir? that what u asking me 2 do?"}
+- It's the only way I know how to really make a difference in the world. Because no matter how many times I shoot people, they just seem to keep coming back. So...
+- Quincy: ikr? must have a vending machine or somethin'. or a cloning machine. do they got those in the future?
+- Actually? Yes.
+- {Same as below}
+- Yep. But Amir was showing me how copy machines work. You know how when you copy a copy it comes out a little worse?
+- Quincy: ...gross
+- Quincy: speakin' of the freak
+- Quincy: so. u want me to go make nicey-nice with amir? that what u asking me 2 do?
+- Basically my thought process.
+- {Same as below}
+- I think you're still just a little harsh on him, honestly.
+- Quincy: i know i havent been the nicest to him all the time. ill give u that. but when it matters he comes thru. i dont hate him.
+- Quincy: even find some of his jokes funny sometimes.
+- Quincy: but if u ever tell him that i WILL make u pay for it. he doesn't need the encouragement lol
+- You're no fun.
+- Quincy: just got my priorities straight is all. dont need him thinking hes got permission 2 distract me more than he already does
+- {Jump below to "Quincy: heres the thing w/ that boy. n let me finish b4 u jump down my throat"}
+- LOL. Noted. Secret's safe with me.
+- Quincy: dont need him thinking hes got permission 2 distract me more than he already does
+- Quincy: heres the thing w/ that boy. n let me finish b4 u jump down my throat
+- Quincy: he doesnt belong here. literally doesn't belong here. all the rest of us r from war or have seen some serious shit, yeah?
+- Quincy: lettie, aoi, arthur, n myself are all army. n eleanor is a war journo, seen everything u can see n had 2 take that in
+- Quincy: amir? hes just a guy whos supposed to be behind a desk typing or whatever
+- Quincy: hes not supposed 2 hold a gun n shoot ppl. n ive seen what happens to ppl like that when they become killers
+- Quincy: either they become monsters... liabilities... or dead. n i'm worried about him
+- Quincy: seen the liability side plenty of times. have memories of... winding up dead... when it went wrong, u know?
+- Quincy: now we just gotta sit an wait 2 see if the darkness i see in him sometimes catches up in enough of these stupid loops of urs or if he pulls thru
+- Well, I'm hoping that the people who care about him can help him through that.
+- Quincy: yeah guess we r all stuck here 4... y'know... ever
+- Quincy: might not be a bad idea 2 see if the hyper lil shits ok
+- Quincy: i remember what it was like, when i first got deployed
+- Quincy: u come out of basic and ur all excited, thinking its some kind of game or ur gonna get a medal or w/e
+- Quincy: n then the first time u gotta snipe somebody n take them out? shit gets real dark real fast
+- Quincy: at least he doesn't kill in cold blood like i got 2. that might really mess him up
+- Quincy: he tries to not let it get 2 him n i think he's doing alright but i can see when he cracks
+- Would you ever be willing to talk to him about what you went through? It might help him.
+- Quincy: u think itd help?
+- I honestly think it might. Just try not to be *too* much of your usual self while you're talking to him. Lol.
+- Quincy: worth a shot i guess.
+- Quincy: stuck with the kid for... eternity... might as well try to play nice {Convo. Ends}
+- > On second thought... no, it might be patronizing.
+- Well, at least you've moved past making fun of him about it.
+- Quincy: fking hell, seriously? u think i'd do that? u dont know me as well as u think u do
+- Quincy: one thing 2 be worried somebodies gonna get u killed
+- Quincy: another thing 2 make fun of them 4 experiencing war 4 the 1st time
+- Quincy: nah m8, piss off {Convo. Ends}
+- Darkness?
+- Quincy: yeah dont think he knows i can hear when he gets nightmares
+- Quincy: poor lil shit. i remember what it was like when i first got deployed
+- (jump to "Quincy: n then the first time u gotta snipe somebody n take them out? shit gets real dark real fast")
+- Amir is a grown adult, Quincy. You don't need to constantly belittle him.
+- Quincy: oh step off, m8. u should know what happens when u put a civvie in a warzone
+- Quincy: nothing good
+- Quincy: n im not "belittling him" im being fking honest. he isnt a soldier. this isn't his fking background
+- Quincy: whether we like it or no he got thrown into this mess by entrati
+- Quincy: n u know y i have this opinion in the first place? bc i actually CARE about the lil fker
+- Quincy: but w/e believe what u want. i gotr better shit 2 do {Convo. Ends}
+- So. Have you and Amir settled your differences?
+- Quincy: lmao
+- Quincy: r u 4 real?
+- ... What?
+- Quincy: nobody goes around asking people that kind of shit u knobhead lol
+- {Jump below to choices "> I really don't know how to do the whole... people thing." or "> "Space trauma," remember?" or "> Well, screw me for trying to care. [End.]"}
+- I take that as a no?
+- Quincy: no i mean, nobody goes around asking people that kind of shit u knobhead lol
+- I really don't know how to do the whole... people thing.
+- Quincy: no waaaaay
+- {Jump below to "Quincy: look i see what ur trying 2 do, n its sweet"}
+- "Space trauma," remember?
+- Quincy: ROFL!! no way lmao
+- Quincy: look i see what ur trying 2 do, n its sweet
+- Quincy: bet ur trying to do the same thing w/ eleanor n lettie, tryna spackle over the cracks n put up a new coat of paint wherever u go
+- Quincy: get us all to play nice together. which, respect. we r all stuck her now as a unit we might as well not wanna stab each other lol
+- {Jump to above branch: "Quincy: do u do this everywhere? fix ppls problems? make life better one freaky fking family at a time?"}
+- > Well, screw me for trying to care. [End.]
+- > [Ignore.]
+
+### Conversation 2 (So... when're you going to tell me / So... is now a good time to ask / So. What made you want to go )
+
+- So. What made you want to go into the army and become a sniper?
+- Quincy: n how are u this fine day?
+- Good. You?
+- Quincy: great. so im hopin' things aren't about 2 go downhill
+- We don't have to talk about it, if you don't want to.
+- Quincy: lmao i know that. ur not my drill sergeant n im not under investigation. but if u wanna know, ill tell u
+- Quincy: but it WILL cost u tho lol
+- *More* favors? What would this be now, three?!
+- Quincy: u already owe me {Current Favours Owed to Quincy} favour(s), whats 1 more? :P
+- Sure. We've gotten this far. What's the worst that can happen?
+- Quincy: thats the spirit.
+- Quincy: so. why'd ur quincy-k go into the army? same reason most ppl like me go into the army
+- Quincy: but u have no idea what its like here, so... i get it. u have no idea what i'm talkin' about, so i'll do my best 2 explain
+- Quincy: i didn't grow up with a whole lotta resources, get me? i had what mattered when it mattered. i had friends. family. community.
+- Quincy: but it was a lot of wheel-spinning. lotta scraping by. making the best of things. what i wanted was 2 get ahead. not just 4 me but 4 the ppl who mattered 2 me
+- Quincy: in order 2 do that? id need to get a 'real' education. get a 'real' job. decided i was gonna go to university. make a real something of myself 4 my fam
+- What did you want to study?
+- Quincy: something that'd get not just me ahead but would support the ppl i cared about.
+- Quincy: i was thinkin' buisiness. finance. can u picture me in a suit? mmm something crisp n slick? high end? hair tied back? i'd clean up PROPER nice
+- Quincy: them sharks wouldn't stand a CHANCE. but we didn't have the funds 2 put me through uni, yeah?
+- Quincy: but the army does. n they tell u that if u sign up, u get to apply 4 a bursary. u fight 4 them for a couple years, kill 4 em, n... then they pay 4 u 2 start a new life
+- Quincy: thats if shit doesn't go tits up b4 u get the chance...
+- Who screwed it up for you?
+- Quincy: oh u do learn quick. who do u THINK screwed it up 4 me? who do you think screws up EVERYTHNIG 4 me?!
+- Quincy: His Maj just can't leave well enough alone sometimes, can he?
+- What'd Arthur do...?
+- Quincy: u paid 4 the story of why i joined not how i left. u want that story? u gotta be like amir with 1 of his arcade machines
+- Quincy: insert another coin :P
+- I don't charge you favors when I tell you things.
+- Quincy: thats a u problem lol
+- Quincy: everything is give n take. everything is about exchange under the surface.
+- Quincy: either u owe me or i owe u, fact of life.
+- But we're friends, aren't we? Doesn't that change anything?
+- Quincy: oh u sweet child, this is how *eveything* works
+- Quincy: i'm just brave enough 2 be honest with u, thats all. u gotta decide if u want that in ur life or not
+- Quincy: also 'cuz i gtg. see ya fam {Convo. Ends}
+- Sounds like a story for another day.
+- Quincy: u guessed it
+- Quincy: also 'cuz i gtg. see ya fam {Convo Ends}
+- Did you want to study photography?
+- Quincy: LMAO u mental?! ur not listening 2 me. there ain't no money in the arts. naaah (Jump to above branch starting 'something that'd get not just me ahead...')
+- I still can't quite figure out what you *are* going to use them for...
+- Quincy: that is 4 me 2 know and 4 u 2 find out :P
+- > You better not make me regret this later.... Fine. (Jump to above branch 'thats the spirit')
+- > Another favor? This makes two? (Jump to above branch starting 'u already owe me...')
+- I'm suspicious, now.
+- Quincy: what? i can't be nice 2 my new favourite person b4 u get ur shovel out n start digging 4 shit?
+- I'm just curious, is all.
+- Quincy: shoulda named u sherlock instead. lol. but if you wanna know, i'll tell u, its no big deal
+- Quincy: but it WILL cost u tho lol
+- Another favor? This makes 2?
+- Quincy: u already owe me 1 favour, whats 1 more? :P
+- I still can't quite figure out what you *are* going to use them for...
+- Quincy: that is 4 me 2 know and 4 u 2 find out :P
+- You better not make me regret this later.... Fine.
+- Quincy: that's the spirit
+- Quincy: so. why'd ur quincy-k go into the army? same reason most ppl like me go into the army
+- Quincy: but u have no idea what its like here, so... i get it. u have no idea what i'm talkin' about, so i'll do my best 2 explain
+- Quincy: i didn't grow up with a whole lotta resources, get me? i had what mattered when it mattered. i had family. friends. community
+- Quincy: but it was a lot of wheel-spinning. lotta scraping by. making the best of things. what i wanted was 2 get ahead. not just 4 me but 4 the ppl that mattered 2 me
+- Quincy: in order 2 do that? id need a 'real' education. get a 'real' job. decided i was gonna go to university. make a real something of myself 4 my fam
+- > Did you want to study photography?
+- > What did you want to study?
+- > No, I just know this isn't going to go well for me later.
+- > No. Pass.
+- >Sure. We've gotten this far. What's the worst that can happen?
+- >We don't have to talk about it, if you don't want to.
+- > Great! Are you gonna answer my question lol
+- So... is now a good time to ask about how you ended up as one of the Hex?
+- Quincy: oh hey sexy {Note: Received only if Quincy is currently flirting with the Drifter}
+- Quincy: story's 2 long 2 tell right now, i don't have that much time, sorry
+- Quincy: i'll tell it 2 u tomorrow
+- *More* favors?! What would this be now, four?!
+- Quincy: u already owe me 3 favours, whats 1 more? :P
+- Sure. We've gotten this far. What's the worst that can happen?
+- Quincy: thats the spirit
+- so. why'd ur quincy-k go into the army? same reason most ppl like me go into the army
+- Quincy: but u have no idea what its like here, so... i get it. u have no idea what i'm talkin' about, so i'll do my best 2 explain
+- Quincy: i didn't grow up with a whole lotta resources, get me? i had what mattered when it mattered. i had family. friends. community
+- Quincy: but it was a lot of wheel-spinning. lotta scraping by. making the best of things. what i wanted was 2 get ahead. not just 4 me for 4 the ppl that mattered 2 me.
+- Quincy: in order 2 do that? id need a 'real' education. get a 'real' job. decided i was gonna go to university. make a real something of myself 4 my fam
+- What did you want to study?
+- Quincy: something that'd get not just me ahead but that'd let me support the ppl i cared about
+- Quincy: i was thinkin' business. finance. can u picture me in a suit? mmm something crisp n slick? high end? hair tied back? i'd clean up PROPER nice
+- Quincy: them sharks wouldn't stand a CHANCE. but we didn't have the funds 2 put me through uni, yeah?
+- Quincy: but the army does. n they tell u that if u sign up, u get to apply 4 a bursary. u fight 4 them 4 a couple years, kill 4 them, n... then they pay 4 u 2 start a new life
+- Quincy: thats if shit doesn't go tits up b4 u get the chance...
+- Who screwed it up for you?
+- Quincy: oh u do learn quick. who do u THINK screwed it up 4 me? who do u think screws EVERYTHING up 4 me?!
+- Quincy: His Maj just can't leave well enough alone sometimes, can he?
+- What'd Arthur do...?
+- Quincy: u paid 4 the story of why i joined not how i left. u want that story? u gotta be like amir with 1 of his arcade machines
+- Quincy: insert another coin :P
+- Why do you keep doing this? Seriously? Can't we just *talk?*
+- Quincy: everything is give n take. everything is about exchange under the surface
+- Quincy: either u owe me or i owe u, fact of life
+- But we're friends, aren't we? Doesn't that change anything?
+- Quincy: oh u sweet chind, this is how *everything* works
+- Quincy: i'm just brave enough 2 be honest with u, thats all. u gotta decide if u want that in ur life or not
+- Quincy: also 'cuz i gtg. see ya fam {Convo Ends}
+- Do you ever wonder why the other Hex members aren't very close to you?
+- Quincy: w/e, space trauma {Convo Ends}
+- Are you sure? I feel like I've heard that before.
+- Quincy: u keep flipping a coin and it keeps coming up tails. doesn't mean the coin is magic
+- Quincy: statistics says it'll comes 2 a 50/50 split but it doesn't mean it do that in practice, does it? pick a better time, m8 lol
+- Doesn't mean the coin is magic, But it might mean it's weighted.
+- Quincy: fk off {Convo ends}
+
+### Conversation 3 (oi. gorgeous. u there? oi. u there? / oi. space trauma. u there?)
+
+- Quincy: “oi. space trauma. u there?”
+- Hey regular trauma. What's up?
+- Quincy: lmao nah see i'm fine. i been thru shit like this b4. well. ok. i mean not this weird
+- Quincy: not with the fking techrot monsters n space travel n future whatever but u get the idea
+- Quincy: when u grow up dealing with bullshit n chaos all around u? u learn 2 take things in stride
+- Quincy: so ur not gonna find ur mans here rocking in a corner crying n praging out like some ppl
+- Quincy: but talking about my shitty neighbourhood growing up ain't why i hit u up, cuz. lol
+- What did you want to talk about.
+- Quincy: pretty on topic already actually lmao. wanted 2 talk 2 u about that weird world u got stuck in
+- Quincy: i hear every1 else talking about what u've told them about duviri, and now i'm strating 2 feel left out lol. u haven't told me much
+- I haven't been avoiding it on purpose. What do you want to know?
+- Quincy: i'm glad you trust me, fam :)
+- Quincy: so. i hear a lot about all the weird shit there, bu i also hear a name
+- Quincy: thrax
+- Quincy: i wanna know who he was 2 u
+- Quincy: do i gotta go play big brother? 'u hurt my lil cuz, imma make you regret it' lol
+- No it's fine. Thrax is just a kid.
+- Dominus Thrax and I... used to be friends, long ago. When I was closer to his "age".
+- > At first, he was the best friend a kid could have. He was the KING of the WORLD. And I was his best friend in the universe. He gave me everything I could ever want.
+- > <\I felt safe. I had a community around me. I felt valued. Cared for. / I felt safe for the first time in my *life.* I was surrounded by a community like I had when I was young, though - but this one cared about me. / I felt safe again, like when I was a kid. But unlike when I was a kid, I had a community. I had a society around me that valued me. Cared about me.>
+- > And Thrax was the avatar of all of that. But as I grew older and changed... he didn't. I needed him less. But the little kid's storybook he was based on didn't evolve.
+- > *Couldn't* evolve. I... wanted to leave Duviri. He didn't take it well, to say the least. And that's when the executions started.
+- All because a spoiled brat of a king couldn't take "no" for an answer.
+- {Same as below}
+- All because of a storybook that the Void couldn't turn the page on like a CD on repeat.
+- Quincy: do u think he's "real"? like does he have a soul?
+- Yeah, I think he's as real as anyone else, even if he wasn't "born" in a conventional sense. As for a soul? Maybe? Yes? I don't know.
+- Quincy: so if he's real, n his pain matters, don't u understand y he was afraid u'd leave 4ever?
+- Quincy: b/c it sounds like u got a scared lil kid with 2 much power, terrified of being alone. n i guess i kinda understand that.
+- Quincy: do u ever go back?
+- Yeah. I do. From time to time.
+- (Jump to below branch, Quincy: "y? i mean... i'm glad{...}")
+- Not if I can help it.
+- Quincy: y not?
+- It's not a pleasant place for me to visit. Too many bad memories.
+- Quincy: i get u. but it sounds like that kid is just terrified 2 be alone 4 ever. n i guess i feel like i can understand that, read me?
+- {Jump below to "Quincy: and kids r gonna be stupid n rash n terrible n break things n scream and cry when they scared"}
+- I don't need it anymore. There's nothing of value, so why go?
+- {Lines required}
+- I... honestly don't know. Strange things come in and out of the Void. It's possible there's a soul in there.
+- Quincy: ok so, say that he does matter, n he's real, don't u understand y he was afraid u'd leave 4ever?
+- {Jump above to "Quincy: b/c it sounds like u got a scared lil kid with 2 much power, [...]"}
+- No. He's not *real.* He has emotions the same way any character in any book do. It's just all pretend.
+- {Lines required}
+- All because one scared kid, imaginary or not, was afraid of being left alone in the dark by his best friend.
+- Quincy: and would u have? left him in the dark alone 4ever?
+- No. I would've gone back. I still go back fairly frequently to Duviri, even after all he's done.
+- Quincy: y? i mean... i'm glad you do, but i'm curious as 2 y?
+- Because... I guess part of me understands. I was that scared kid, screaming in the dark. Begging not to be abandonned.
+- Quincy: then u get where i was goin' with all this... that kid is just a kid
+- Quincy: and kids r gonna be stupid n rash n terrible n break things n scream and cry when they scared
+- Quincy: i was a piece of shit after mom died n dad n i went 2 live with nan. talking proper nightmare
+- Quincy: n it was because i was so afraid they were gonna leave me 2. dunno why i thought being a turd was gonna keep 'em close lol
+- Quincy: kids have no logic, is the point. they don't think. n ur thrax was made that way
+- Quincy: so... take some pity on him in ur head, sometimes, even if u can't take some pity on him when u go there, yeah?
+- Quincy: don't hate him 4 being lonely. does scary things 2 ppl, dunnit
+- I... get what you're saying, but I still have to disagree. Sorry. But thanks for the talk.
+- Quincy: u don't wanna listen 2 my advice thats on u
+- Quincy: n i'll tell u that story tomorrow {Convo. Ends}
+- Yeah... yeah it does. Thanks Quincy. I'll remember this.
+- Quincy: quincy-k, servin' up the best advice
+- Quincy: ttys {Convo. Ends}
+- > I honestly don't know. Maybe it's pity. Or maybe it's because in some sick way, it feels like home.
+- Teshin is trapped there. I feel bad abandoning him. Everybody else I care less about.
+- Quincy: who?
+- A mentor of mine. He fell into Duviri from the Origin System, and is a big part of the reason I escaped. He's trapped there, though.
+- Quincy: u got a bad habit of getting ppl stuck in places u get 2 walk out of, don't u?
+- Yeah. You're not kidding
+- Quincy: can u imagine how scary it is for that kid thrax 2 be trapped there? lets just imagine 4 a second he's real, n u really don't know 4 sure he's not
+- {Jump to above: "Quincy: and kids r gonna be stupid n rash n terrible n break things n scream and cry when they scared"}
+- Sorry. I'm not exactly *trying* to do this.
+- Quincy: yeah i know. lol. if i thought u were dfoing this shit on purpose we wouldn't be so chatty.
+- Quincy: can u imagine how scary it is for that kid thrax 2 be trapped there? lets just imagine 4 a second he's real, n u really don't know 4 sure he's not
+- {Jump to above: "Quincy: and kids r gonna be stupid n rash n terrible n break things n scream and cry when they scared"}
+- Yeah. I mean. He's not *real.* Once you finish a book, do you feel bad for it when you put it on a shelf?
+- {Lines required}
+- I honestly don't know. Life went a different way. It's impossible to say what I would or wouldn't have done.
+- {Lines required}
+- I hate Dominus Thrax. And I think a part of me, somewhere deep down, always knew he was going to hurt me.
+- {Jump above to choice "> At first, he was the best friend a kid could have. [...]"}
+- It's because I am *so sick* of talking about Duviri.
+- Quincy: aren't we friends now? doesn't that mean something?
+- Everybody just wants to know all about it because it's weird and wacky. They don't care what it did to me.
+- Quincy: nah, fam - they care. we care
+- Quincy: but what u went thru there might be the closest thing 2 what we've got here. its survival instinct is what it is
+- I've told you the basics. That's enough, isn't it?
+- Quincy: u mentioned this 'child despot,' didn't u? i wanna know more
+- {Jump above to choices "> Dominus Thrax and I... used to be friends, long ago. [...]" or "> I hate Dominus Thrax. [...]"}
+- > No, I don't care. I'm out. [End.]
+- I don't like being poked at like I'm some kind of circus freak.
+- {Lines required}
+- > I don't like talking about that place, sorry. [End.]
+- > It made you who you are, so I appreciate hearing about it, though.
+- Hey. :)
+- Quincy: i had some questions 4 u if u had the time
+- Sure. Fire away.
+- Quincy: first question, what kinda neighborhood did u grow up in, btw? safe? dangerous? crowded? quiet?
+- Safe. But crowded. Even before the Zariman we had almost no room to ourselves. But we were a community
+- Quincy: i met ppl in the army who grew up in places like that. all crammed in, but every1 looking out for every1
+- Quincy: that's kinda the dream 4 me. ppl around u, nobody afraid 2 walk home alone at night. ngl, i'm jelly
+- Quincy: so this gets to the other half of my question
+- {Jump above to "Quincy: i hear every1 else talking about what u've told them about duviri, [...]"}
+- Dangerous. And crowded. We were all packed in tight, and everybody was after what everyone else had.
+- Quincy: then its no wonder u walk around here like all this ain't nothing. when u grow up dealing with this jank shit?
+- Quincy: it's all just another day of the world making ur life hell. but it also means u come out of it tough as nails lol
+- Quincy: so this gets to the other half of my question
+- {Jump above to "Quincy: i hear every1 else talking about what u've told them about duviri, [...]"}
+- Dangerous. But quiet. It wasn't the people we worried about - it was the *other* things that scared us more.
+- Quincy: i'd ask what ur talking about but if its anything like the freaky shitshow we got crawling around this city now?
+- Quincy: i'm probably happier not knowing. yeah u some crazy big game hunter from the future, u got that vibe lolol
+- Quincy: so this gets to the other half of my question
+- {Jump above to "Quincy: i hear every1 else talking about what u've told them about duviri, [...]"}
+- Safe and quiet. But I didn't really know anybody. We lived pretty remote from everyone else.
+- Quincy: either u grew up super posh or u sounds like u lived in the middle of the fkin' sticks
+- Anything but "posh" lol. It was the middle of nowhere. We worked the field and grew crops.
+- Quincy: i can respect that tho. thats some hard fking work, even if ur not afraid 2 walk home by urself
+- Quincy: so this gets to the other half of my question
+- {Jump above to "Quincy: i hear every1 else talking about what u've told them about duviri, and now i'm starting 2 feel left out lol. u haven't told me much"}
+- My parents were rich. So. "Posh".
+- {Lines required}
+- Okay, but it'll cost you. ;)
+- Quincy: HAH. nice try, but thats not how this works. u owe me, not the other way around
+- > Right, but you still owe me that story of how you joined the Hex.
+- Quincy: yeah but we don't have time 4 both. i'll make u a deal. u answer my questions n tomorrow i'll tell u that stupid story
+- All right. Deal.
+- {Jump above to "Quincy: first question, what kinda neighborhood did u grow up in, btw? safe? dangerous? crowded? quiet?"}
+- If you don't want to tell me that story, I won't force it out of you. So I'll answer your questions, and you can just tell me when you want.
+- Quincy: sucker lol j/k
+- {Jump above to "Quincy: first question, what kinda neighborhood did u grow up in, btw? safe? dangerous? crowded? quiet?"}
+- > I really hate it when you start playing these games. I'm out [End.]
+- >Not at the moment. {Convo. Ends}
+- > Can't chat right now, sorry. {Convo. Ends}
+
+### Conversation 4 (hey sexy thing / got a question 4 u)
+
+- Quincy: got a question 4 u
+- Quincy: is there somebody in ur future world who is like... major corpo?
+- Major corpo? What do you mean?
+- Quincy: corpo. corporate. carrying fat P's. the money man
+- Actually, yes. Parvos Granum, the head of the Corpus.
+- Quincy: do u think he's happy with his life? content even?
+- I don't think money can buy you happiness.
+- Quincy: n i say ur not trying hard enough then lol
+- {Jump below to "Quincy: does he have family, tho? ppl around him who support him?"}
+- I think the people who say money doesn't buy happiness aren't being creative enough.
+- Quincy: RIGHT. u get it. they ain't trying hard enough lmao
+- Quincy: does he have family, tho? ppl around him who support him?
+- There's a lady, Vala Glarios. Was just one of his underlings, originally. But she went down with her ships, canons blazing, screaming defiance.
+- > He opened up a pocket of the Void that he, well, it's a long story, not important. He saved her life. I think he honestly appreciates her. Values her. Thinks of her as a sister.
+- > And I think she looks at him like family in return.
+- Quincy: nobody is ever pure evil or pure good, u know? sounds like this guy knows who his gangdem is, read me?
+- Quincy: he's got the resources 2 take care of those he care about, n ppl around him recognize that
+- He's doing what he has to do to survive. I can respect that. Even if it usually means we're on opposite sides.
+- Quincy: thats what i'm saying. he ain't no hero, there r no heroes in this world. he's just got the MEANS to be HAPPY n take care of the ppl he cares about
+- (Jump to below branch with 'n 4 me? thats the friggin' dream right there. ...')
+- He only keeps people around him for as long as those people maintain value. I'm sure they'll be gone the moment they're a burden.
+- Quincy: i'm not saying the mfer is the hero here, cuz. lmao. there ain't no heroes in this world. i'm saying he's got the MEANS to be HAPPY n take care of the ppl he cares about
+- Quincy: n 4 me? thats the friggin' dream right there. set 4 life 4 me n my m8s n my famalam. nobody goes without. n 2 to that? u need STACKS
+- So you'd want to be rich for other people?
+- Quincy: exactly! that's where all the power is. once ur there, u can set ppl up. then u can really change things. until then? ur just labeled a troublemaker, get me?
+- Quincy: anyways, gtg
+- Quincy: do kinda wanna meet this parvos guy tho
+- Quincy: sound interesting. if kind of like a dick. but all major corpo r like that at the end of the day
+- Quincy: b/c thats how u get ahead, innit {Convo. Ends}
+- So you'd want to be rich for yourself?
+- Quincy: u don't get it. if i'm rich, then i get 2 help other ppl. young loxley had it wrong. u don't help the poor by being poor. u help the poor by being rich, thats where all the power is
+- {Jump above to "Quincy: anyways, gtg"}
+- This all still just comes down to sheer greed.
+- Quincy: u don't get it. u really don't. money is power, n power is how u change things in this world.
+- Quincy: w/e, don't wanna argue with u
+- {Jump above to "Quincy: do kinda wanna meet this parvos guy tho"}
+- It doesn't mean he isn't a cutthroat and an asshole. I don't trust him as far as I can throw him, and his people are always getting in the way of my guns.
+- {Jump above to "Quincy: i'm not saying the mfer is the hero here, cuz. lmao. [...]"}
+- I really don't agree with his position on strip-mining the universe. I prefer trying to help out the people who need it rather than focusing on pure greed.
+- {Jump above to "Quincy: i'm not saying the mfer is the hero here, cuz. lmao. [...]"}
+- He has theses sisters that he trains up to surround himself with. And I can tell he actually takes pride in them. Thinks of them as family.
+- (Jump to below branch with '> It's a little culty, honestly' )
+- Seems to be from what I can tell. He has some people to support him for more reasons than seemingly *just* the cash.
+- Quincy: oh yeah? talk
+- He has these sisters that he trains up to surround himself with. And I can tell he actually takes pride in them. Thinks of them as family.
+- > It's a little culty, honestly. But what're you going to do? That's how money is.
+- Quincy: money buys loyalty 4 as long as u got it. n there ain't no cult older than the cult of gold
+- I really don't like how much you sound like this guy. There's more to life than money.
+- (Jump to above branch with 'Quincy: i'm not saying the mfer is the hero here, cuz. lmao.' )
+- You two would definitely get along. Way too much.
+- (Jump to above branch with 'Quincy: i'm not saying the mfer is the hero here, cuz. lmao.' )
+- > I don't have time to get into this, sorry. {Convo Ends}
+- Corpo, meaning corporate?
+- Quincy: yeah. u know. carrying fat P's. the money man
+- Actually, yes. Parvos Granum, the head of the Corpus.
+- (Jump to above branch with 'Quincy: do u think he's happy with his life? content even?' )
+- > I don't have time to get into this, sorry. [End.]
+
+### Conversation 5 (hey. serious question 4 u if u got a sec)
+
+- Quincy: hey. serious question 4 u if u got a sec
+- Yeah? What've you got for me today?
+- Quincy: u think we got a soul? fkin' deep k know, especially from ur mans here
+- Quincy: after all our talk about "transference" n this bullshit about us being hollowed out ppl
+- Quincy: i hear lettie talkin' about how we're nothing but 'fantasmas' now or w/e
+- Quincy: n the lil speedster is cracked outta his gourd obsessed about something 2 do with glass brains that live 4 ever or somethin'
+- Quincy: i guess it comes down 2 the fact that i never hadda really think about this b4, u know? it never REALLY mattered? n now it REALLY does
+- Quincy: so what is it chief? is there a soul r not? that what u turn into when u jump into my head?
+- I think so, yeah.
+- {Jump below to "Quincy: cool. cool. cool"}
+- No. This is just Void science.
+- Quincy: ... ok but whats the difference between ur "void science" n a soul?
+- Quincy: it doesn't matter if its science or religion or fking magic. u CAN exist outside ur body
+- {Jump below to "Quincy: that means u COULD exist 4ever without ur body"}
+- I... honestly don't know, Q.
+- Quincy: suppose it doesn't matter if its science or religion or fking magic. u CAN exist outside ur body
+- Quincy: that means u COULD exist 4ever without ur body
+- Quincy: which means u got a fkin' soul, m8, no matter what name u wanna call it
+- Quincy: cool. cool. cool
+- Quincy: fk
+- Quincy: FK
+- Having an existential crisis?
+- (same as below choice)
+- You okay?
+- Quincy: gave my auntie so much shit fer draggin' me to church every sunday, kept sayin' lua and sol were just some waste of time
+- Quincy: guess i gotta call her 'n say i owe her a big ol apology 4 that one don't i lol
+- Whatever you call it, whatever the explanation, I'm kind of living proof that consciousness exists without a body, yeah.
+- Quincy: same. dunno how else 2 explain what u do short of weird superposition quantum physics shit
+- Quincy: n before u make that face, i like 2 read books believe it or not, ok? i like to know how the world works lol
+- I've got a few tablets you can borrow if you want, from the Zariman. Science advanced a bit between now and my time.
+- Quincy: srsly? that'd be great, yeah. love 2 see how things have changed in the however-tf-far-in-the-future ur from {Convo. ends}
+- What other kinds of books do you like to read?
+- Quincy: all kinds, mostly on audio tho. when ur on a sustained observation - meaning one of those 2-3 day long snipers posts, u gotta stay in one place for a real long time
+- Quincy: it. gets. SO. BORING. so i like 2 sit up there n just put on one headphone n listen to books on tape yeah?
+- Quincy: n i figure if i'm gonna be up there i might as well b using the time 2 learn somethig useful, so i go through finance books, statistics, science, physics...
+- Quincy: y'know, shit like that
+- Quincy: tho funny story one time my squadmates played a prank on me n changed the label n put in some raunchy romance book lmaooo
+- LOL! That's hysterical.
+- Quincy: that's some serious NEXT shit, innit? lol i laughed so hard i thought my position was bust lmao
+- {Jump below to "Quincy: but then i figured i'm fuggin' stuck here for 3 days n i've got nothin' better 2 do, i'll give it a listen"}
+- Well? What's you think? LOL
+- Quincy: at 1st i laughed my ass off, thats some NEXT shit 4 a prank lmao
+- Quincy: but then i figured i'm fuggin' stuck here for 3 days n i've got nothin' better 2 do, i'll give it a listen
+- Quincy: n first i couldn't stop snickering at all the sexy bits right? i dunno how many times a man's 'burgeoning desire' has to get 'freed' but damn there's a fkin' fire sale on that shit
+- Quincy: can't just say any of it like normal people, either. noooo gotta use all euphemisms n shit like JUST SAY IT. I DARE U. UR NOT GONNA DIE IF U DO
+- Quincy: then i realize like seven hours in i'm like... super into the story. LIKE WHAT, M8?! LMAOOO
+- Quincy: i'm hittin' FF thru the sex bits 2 get to the plot like 'bruhhh what happens neeeext!!'
+- Quincy: telln' u my squad got me good that day ROFLMAO
+- Do you still read romance stories now?
+- Quincy: wouldn't u like 2 know lol
+- Quincy: alright, i gotta split. thanks 4 cheering me up {Convo. Ends}
+- That's the best story I've literally ever heard. LOL.
+- Quincy: haven't had that much fun on a sustained ops in a loooong time lmao
+- Quincy: alright, i gotta split. thanks 4 cheering me up {Convo. Ends}
+- Do people tend to assume you aren't well read or something?
+- Quincy: lmao u really ARE from fkin' space. yeah. u could say most ppl do lol. either because of the way i am or the way i type, they think they know what i'm capable of
+- Quincy: n they assume its very little. me n aoi have that in common. everybody looks at her n sees a pretty face n think she's dumb as a brick
+- Quincy: she's tougher than any of us put 2gether n she's a master tactician on the field. lady is a THREAT. n me? pl wanna think i'm just some 2-bit thug? fine. let 'em
+- Quincy: that way they won't see me comin'
+- Have I ever treated you that way?
+- Quincy: if u did i would've told u. nah. ur good. i don't waste time on ppl i don't think r worth it
+- Quincy: i'd say life was 2 short but... hey. not so much anymore, is it? LMAO
+- Can I just say that I'm glad we're friends?
+- Quincy: yeah, cuz... me 2. me 2 {Convo. Ends}
+- Just let me know if I step out of line. I give you full permission to smack me upside the head.
+- Quincy: HAH!! DULY. NOTED. {Convo. Ends}
+- I'm sorry if I ever treated you that way
+- {Jump above to "Quincy: if u did i would've told u. nah. ur good. [...]"}
+- Again, I don't *know* if there's a soul. You're jumping to conclusions. There's a lot about how all this "works" that we don't understand.
+- Quincy: appreciate u not jumping 2 conclusions but i dunno how else 2 explain what u do. maybe u got some weird superposition quantum physics shit goin' on
+- {Jump above to "Quincy: n before u make that face, i like 2 read books believe it or not, ok? [...]"}
+- I still don't think there's a soul, Q. I think my body just take a different form - matter turning into energy temporarily. Otherwise how would i get it back.
+- Quincy: maybe u borrow the matter from things around u, bits n pieces. bodies aren't that complicated chemically n i've seen u stompin' around in weirder shit
+- {Jump above to "Quincy: n before u make that face, i like 2 read books believe it or not, ok? [...]"}
+- Q?
+- {Jump above to "Quincy: gave my auntie so much shit fer draggin' me to church [...]"}
+- > I don't, sorry. {Convo. Ends}
+
+### Conversation 6.1 (hey gorgeous / checking in on my lil romantic protege)
+
+- [If you asked Quincy advices for romancing Arthur in the "Oi" conversation]
+- Quincy: checking in on my lil romantic protege
+- Quincy: how's it goin' with His Maj?
+- It's going great, actually.
+- Quincy: still dont understand y u goin 4 the cheap copy
+- Quincy: when u got the real deal right here but ok, u do u famalam
+- Quincy: i think what that knobhead needs is a real laugh
+- Quincy: man needs to not take himself so fking seriously
+- Quincy: but he needs to know u b4 he'll let u show him that tho {Convo. Ends}
+- It's... not going great, actually.
+- Quincy: not surprised man hasnt laughed in 587 years
+- Quincy: what he needs is some1 2 show him not 2 take himself so fking seriously
+- Quincy: but he gotta know u first, so b4 that is all the yessir nosirr shit
+- Quincy: respect. fall in line. no flirting til he knows u either mean it or thats ur humor
+- Quincy: n i hope u change ur mind lol {Convo. Ends}
+- [If you asked Quincy advices for romancing Eleanor in the "Oi" conversation]
+- Quincy: checking in on my lil romantic protege
+- Quincy: how's it goin' with scary lady?
+- >It's going great, actually.
+- It's... not going great, actually.
+- Quincy: got so many questions about that tongue lol
+- Quincy: u gotta play chess wit her
+- Quincy: its not about winning tho, its about playing long enuff
+- Quincy: u gotta survive long enough to get 2 the good bits. she doesn't just let any1 in
+- Quincy: needs a challenge that 1. {Convo. Ends}
+- [If you asked Quincy advices for romancing Aoi in the "Oi" conversation]
+- Quincy: checking in on my lil romantic protege
+- Quincy: how's it going with aoi? u haven't made enemies of the team yet, have u?
+- It's going great, actually.
+- srsly, u need to see her 4 what she is. don't try 2 define her or box her in
+- who doesnt just see a pretty girl in2 boybands n cute things and sees stupid
+- or who doesn't see her big heart n see weakness {Convo. Ends}
+- >It's... not going great, actually.
+- [If you asked Quincy advices for romancing Amir in the "Oi" conversation]
+- Quincy: checking in on my lil romantic protege
+- Quincy: lmao how's it goin' with the lil speedster?
+- It's going great, actually.
+- Quincy: buy that child a ringpop and hes urs 4 LIFE u kidding me?
+- Quincy: eh i'm givin' him shit but he's just lonely, wants some1 to care n find joy in what he likes, like ever1 else
+- Quincy: tho I know he's not ok, 4 real. boy isnt a soldier n never was
+- Quincy: no biz being like this, here with us. not saying i want him gone
+- Quincy: just saying when he thinks i don't seem drop the smile? i see
+- Quincy: ...u just take care of him 4 me, ok? {Convo. Ends}
+- It's... not going great, actually.
+- Quincy: how in sols tits r u managing 2 screw that up? lol Quincy: (continues same as above, "buy that child a ringpop...")
+
+### Conversation 6.2 (have u thought about my offer / i got an offer 2 make u)
+
+- Quincy: have you thought about my offer 4 some dating advice?
+- Quincy: just remember it don't come free, it's got a fee lol
+- The answer is still no. Sorry.
+- Quincy: mkay m8 go solo, no skin off my back {Convo. Ends}
+- Okay...fine. I'm getting desperate.
+- Quincy: BOOM. that's the spirit, m8
+- Quincy: all right, spill it, who u got ur eye on? who u think got the real set of quality goods?
+- Quincy: besides me, ofc ;)
+- (Jump to above R3C6 chat, "Okay, fine. I could use the advice.")
+- > (Line required)
+
+### Conversation 7 (Quick question. / Hey... <Quincy? / sweeetheart? > You like me now... right?)
+
+- Hey Quincy, you... like me, right...?
+- {Same as below}
+- So, how much social currency have I built up with you?
+- Quincy: i spy with my little eye... a favour about 2 be asked 4 lol
+- Quincy: whats up, famalam?
+- > Well, okay... look. Amir's putting together this game of Fables & Frontiers.
+- Amir's putting together a tabletop game, and it's an excuse for us all to hang out and be together.
+- You know. Laugh, hang out, drink, eat some snacks, have a good time. And it'd mean a lot to him.
+- {Continues to "> (Don't tell him I said this but I think he looks up to you in secret.)" }
+- I know the dorky shit isn't your speed, but I bet you'd have more fun than you think you would if you tried it.
+- Can I try and talk you into it for one night? Then if you hate it, you can stop.
+- Quincy: uuugghhh.. i rly dont want 2
+- Quincy: who else u tlked into this shit?
+- Eleanor. {Note: Had convinced Eleanor earlier}
+- Quincy: this is my shocked face :｜
+- unimpressed
+- Aoi. {Note: Had convinced Aoi earlier}
+- Quincy: lol shed eat her own fingernails if she thought it'd cheer some1 up
+- Quincy: not convinced.
+- Lettie's playing. {Note: Had convinced Lettie earlier}
+- Quincy: ... srsly?!
+- Quincy: u talked LETTIE into this shit?!
+- Quincy: how TF did u manage that?!
+- Quincy: no no dont tell me i dont wanna know
+- Quincy: ok im in. i gotta see this shit
+- Quincy: but if it sucks im out, get me? n u owe me a favour 4 it
+- Arthur's in. {Note: Had convinced Arthur earlier}
+- Quincy: ROFL shhiiitt hes so playing a paladin u mark my words
+- Quincy: not that i know what a pal- never mind
+- Quincy: fine, fine, w/e ill play the stupid game
+- Quincy: but if it sucks im out, get me? n u owe me a favour 4 it {Convo. Ends}
+- > I'm hoping I can convince you to change your mind about Amir's RPG Game. (If had previous failed to convince him)
+- So, look... I know I asked you before, but things have changed with the team. This is about Amir and his F&F game. (If had previous failed to convince him)
+- > You know. Laugh, hang out, drink, eat some snacks, have a good time. And it'd mean a lot to him.
+- (Don't tell him I said this but I think he looks up to you in secret.)
+- Quincy: (dont tell him i said this but its fking obvious lol)
+- Quincy: n...any excuse 2 get off patrol
+- Quincy: heroboys ok with this nonsense?
+- LOL. Arthur's playing. [if Arthur convinced to play]
+- Quincy: ROFL shhiiitt hes so playing a paladin u mark my words
+- Quincy: not that i know what a pal- never mind
+- Quincy: fine, fine, w/e ill play the stupid game
+- Quincy: but if it sucks im out, get me? n u owe me a favour 4 it {Convo. Ends}
+- Amir got the go-ahead.
+- Quincy: course he would. anything 4 his lil sidekick in tights.
+- Quincy: fking owlman and sparrow right there
+- Quincy: fine, fine, w/e ill play the stupid game
+- Quincy: but if it sucks im out, get me? n u owe me a favour 4 it {Convo. Ends}
+
+### Conversation 1 (Quincy's favors)
+
+- Quincy: i'm calling in that favour u owe me. n ur paying up right now // OR // i'm calling them in. both the favours u owe me. n ur paying up right now // OR // i'm calling them in. by my count? u owe me three favours. n ur paying up right now // OR // i'm calling them in. by my count? u owe me four favours. n ur paying up right now // OR // i need u 2 do something 4 me. right now, no ifs, ands, buts, - no backing out. i need u to do this *right now*
+- You're worrying me, what's going on?
+- (Same as below branch)
+- Okay... What do you need?
+- Quincy: i need u to tell me the story of the worst thing u've ever done in ur life
+- Quincy: i want u to sit down n right now, in writing, tell me a story of the thing that'll make me fkin' HATE U
+- Quincy: n u are gonna make this good. no coward shit. tell me the real deal
+- Quincy: b/c u owe me n i made good. so now U make good, see me?! // OR // b/c u owe me all those favours. n i made good on ALL 3 OF them. so now U make good, see me?!
+- Why do you want to hate me?
+- Quincy: not about hate. its about knowing
+- Bullshit. You want to make you hate me. Why?
+- Quincy: it's not what this is about
+- Either you're lying to me or yourself. Which is it?
+- (boolean = ?)
+- You push everybody away. Even now, even after everything, you're distant. You're doing this to push me away.
+- (jump to Quincy: say ur right.)
+- There's more to you than you like to let people see. You want people to think you're cold. But you're not.
+- Quincy: say ur right. say u got the read on me, n there's more here than meets the eye. so what? so fkin' what? doesn't change ANYTHING
+- Quincy: i keep tryina get u to understand. the world is full of the haves n the have nots. the owes-u and the owes-me
+- Quincy: debtors and debited
+- Quincy: Quincy-K. Owes. Nobody. Nothing. u read?!
+- So you think that if you have a genuine connection to someone... you're... in debt to them. Why?
+- Quincy: bc i'm not stupid, u ABSOLUTE knobhead. look around! its just the way the world works. look at u, risking ur life for us losers.
+- Quincy: how many ppl have you almost died 4? HAVE died 4? u get 2 come back. every time i let somebody in, i get in2 serious shit
+- Quincy: n i'm not letting it happen 2 me again. never. FKING. AGAIN. read me?!
+- > No. You want to hate me so you can stay alone, because alone is *safe.* Because then nobody can hurt you.
+- > Because at the end of the day, I think you're just a scared, lonely little boy who has gone a long way on his looks and charm.
+- Too afraid to admit that he might actually have a *genuine connection* with someone because that means nmaking himself *vulnerable.*
+- > I don't need to tell you a story to get you to hate me. I can get it done in two words.
+- > I don't play games like this. I don't need this kind of shit in my life. I'm out. [End.]
+- You want to hate me? You want to drive me away? All right. I'll give you a reason to hate me.
+- > (jump to > You want the story of the absolute worst thing I've done in my life?)
+- You would make one *hell* of a Corpus commander. They'd love you. You'd have no problem crushing the Solari under your boot and collecting their limbs for debts.
+- Quincy: doesn't mean i like it, u ABSOLUTE wanker. i don't want the worls 2 work this way! don't want 2 see ppl get crushed up in the gears of it
+- Quincy: but ppl like me learn real fast that either you play the game or u. get. played. n i'm not here 2 get played by anybody. not even u
+- Quincy: n i'm not gonna let myself get played by anybody ever again. NEVER. FKING. AGAIN. read me?! not even by u. especially not by u
+- Fine. Fine! You want to hate me? Hate me. You want to know the worst thing I've ever done? I'll tell you. If it'll make you happy.
+- > (jump to > You want the story of the absolute worst thing I've done in my life?)
+- (if boolean = ?)
+- Quincy: so either give me what i want or we done
+- So you feel like if you let someone in far enough to see the real you, you... owe them? You're in debt to them? Is that it?
+- Quincy: yeah it is. b/c i'm not stupid. look around you! it's just the way life works. if ppl know u, they can USE u. they get in ur head n they can push ur buttons
+- Quincy: n i'm not gonna let myself get played by anybody ever again. NEVER. FKING. AGAIN. read me?! not even by u. especially not by u
+- Fine. Fine! You want to hate me? Hate me. You want to know the worst thing I've ever done? I'll tell you. If it'll make you happy.
+- (Jump to below branch with '> You want the story of the absolute worst thing...' )
+- You want to hate me? You want to drive me away? All right. I'll give you a reason to have me.
+- (Jump to below branch with '> You want the story of the absolute worst thing...' )
+- You would make one *hell* of a Corpus commander. They'd love you. You'd have no problem crushing Solari under your boot and collecting their limbs for debts.
+- (Line required)
+- I don't know why you want to hate me , but it's clear that you *do.* So fine. Fine. Let's go.
+- You want the story of the absolute worst thing I've ever done in my life? The most reprehensible and unforgivable thing?
+- The thing that keeps me up at night, makes me stare at the ceiling and wonder if i didn't deserve all those executions in Duviri?
+- And if that wasn't some part of my mind punishing me, over and over again, for what I'd done?
+- Here it is.
+- I stood by and watched as my friends killed my parents.
+- > When I was onboard the Zariman, and the Indifference arrived, it decided it wanted to perform a little experiment.
+- > Could you really do the unthinkable? Make *parents* want to murder their own *children?*
+- > And... what would happen if you then armed the children with Void powers...?
+- > Sometimes I wonder if my choice was the cowardly one - letting my friends do the deed for me.
+- > But then I remember the looks on the faces of those who chose to do the deed themselves and I think... no. There's a difference between cowardly and smart.
+- And I spared some of my friends that fate that day in exchange. I don't know if I regret my choice or not. Sometimes I think I do.
+- (Jump to below line with '> But that's the thing about life isn't it?' )
+- I locked my parents up in a makeshift prison... and waited for them to die.
+- > When I was onboard the Zariman, and the Indifference arrived, it decided it wanted to perform a little experiment.
+- > Could you really do the unthinkable? Make *parents* want to murder their own *children?*
+- > And... what would happen if you then armed the children with Void powers...?
+- > Would the children kill their own parents in self defense? Or would they let nature take its course? Would they rather rely on others to do the deed?
+- > Or would they just... let their parents rip them to pieces like the blood-crazed creatures they'd been reduced to?
+- > Sometimes I wonder if I was the coward. For locking them up and hoping they'd snap out of it. For watching themselves claw their hands to bone trying to escape their cage.
+- > But then I realize that a quick death for them would've been a mercy for me. Watching them slowly die... as they screamed and foamed at the mouth and wore their limbs to bloody stumps in their desperate attempt to kill me...?
+- I don't know if I regret not making it quick for them or not. Sometimes I do. Sometimes I think... no. I would have always given them that chance to snap out of it.
+- (Jump to below line with '> But that's the thing about life isn't it?' )
+- I killed my parents.
+- > When I was onboard the Zariman, and the Indifference arrived, it decided it wanted to perform a little experiment.
+- > Could you really do the unthinkable? Make *parents* want to murder their own *children?*
+- > And... what would happen if you then armed the children with Void powers...?
+- > Would the children kill their own parents in self defense? Or would they let nature take its course? Would they rather rely on others to do the deed?
+- > Or would they just... let their parents rip them to pieces like the blood-crazed creatures they'd been reduced to?
+- > Sometimes I wonder what kind of monster a person has to be to kill their own parents. To look at their faces, twisted in anger and monstruous hunger and to end their lives.
+- > But then I remembered all the kids who couldn't do it, and left their parents moldering in cages for however long it was until they got rescued. Watching them tear themselves to pieces like feral, mad animals. I don't know which is worse.
+- > I don't know if I regret killing them quickly. And not trying to save them like other people did. Or... letting someone else do the deed for me. Sometimes I think I do.
+- > But that's the thing about life, isn't it? You make choices. And you're always left wondering if you made the right ones. I do know this much - there's no world in which they survived the indifference.
+- > But there is one where I did. Two, if you want to be exact. And in those two worlds... we can still make a difference for people. We can still help them.
+- > That's why I dedicate my life to doing exactly what you're afraid to do, Quincy. I let people in, when you shut people out.
+- > Because this connection? This is what the Indifference is trying to murder from the world.
+- > This is what it took from me that day. And that is what I will fight to keep alive. One idiot at a time, if I have to.
+- So. Do you hate me yet?
+- Quincy: ...we r not done here {Convo Ends}
+- How was that? Or should I come kick you in the balls to top it off?
+- Quincy: ...we r not done here {Convo Ends}
+- Tah-dah.
+- Quincy: ...we r not done here {Convo Ends}
+- > [End.] {Convo. Ends}
+- Honesty is important to you, isn't it? Has been from the start. I've shown you honesty. So show me some in return.
+- Quincy: nothing about what i'm doing right now has anything 2 do w/ me bein' real, cuz
+- (Jump to above line 'Quincy: i keep tryina get u to understand.' )
+- So this is *really* just about petty blackmail. I'm dissapointed.
+- (Line required)
+- So this is about you having a story to use against me? Seriously?
+- (Jump to above branch with 'Quincy: it's not what this is about' )
+- Are you trying to get blackmail on me..?
+- Quincy: it's not what this is about
+- Either you're lying to me or to yourself. Which is it?
+- Honesty is important to you, isn't it? Has been from the start. I've shown you honesty. So show me some in return.
+- (Jump to above line 'Quincy: i keep tryina get u to understand.' )
+- I don't know why you want to hate me, but it's clear that you *do.* So fine. Fine. Let's go.
+- (Jump to above branch with '> You want the story of the absolute worst thing...' )
+- So this is *really* just about petty blackmail. I'm disappointed.
+- (Line required)
+- What in the name of the Void is wrong with you? Why?!
+- Quincy: ur the king of the universe. seems like a good thing 2 have, don't u think?
+- (Jump to above line '> You want the story of the absolute worst thing I've ever done in my life? The most reprehensible and unforgivable thing?')
+- Ok.
+- Quincy: ... what? that's it? just ok?
+- What? If you've decided you want to hate me, for whatever reason, that's your right. So. Ok. / Maybe it's for blackmail. Maybe it's because you want to protect yourself. I don't know. I don't care.
+- Because at the end of the day? I don't control you. And you make your own decisions.
+- Quincy: w/e. just w/e. go on then.
+- (Jump to above branch with '> You want the story of the absolute worst thing...' )
+- Because at the end of the day? I trust you. I guess more than you trust me.
+- (Jump to above branch with 'Quincy: w/e. just w/e. go on then.' )
+- Yep.
+- Quincy: ..... fkin' weirdo...
+- Quincy: go on then
+- (Jump to above branch with '> You want the story of the absolute worst thing...' )
+- > No. Screw this. I'm out. If this ends our conversations, I don't care. {Convo. Ends}
+- > I don't deal well with being cornered. {Convo. Ends}
+
+### Conversation 2 (<hey babes? / hey cuz?> wtf is up with your weird-ass magical guns?)
+
+- Quincy: hey cuz? wtf is up with your weird-ass magical guns?
+- Which ones are you talking about?
+- (Same as below)
+- You're going to be a bit more specific.
+- Quincy: the ones that look all... shiny 'n weird
+- Shockingly, that doesn't narrow it down.
+- (Continue with below dialogue: 'Quincy: the 1s that make that weird fkin' noise...')
+- Primes?
+- Quincy: nah not the gold ones
+- Quincy: the 1s that make that weird fkin' noise n transform like some sci-fi shit
+- Quincy: i watch u stomp around with 1 like ur some serious mobster n then suddenly i see this thing go off n then BLAPBLAPBLAP
+- Quincy: so yeah - psycho killer, qu'est-ce que c'est?
+- Definitely incarnons.
+- Quincy: great it has a name. but wtf guns don't DO THAT
+- Incarnons are... weird. Even as my weapons go.
+- Quincy: walk me through this will u? what r those things?
+- Incarnons are Void-touched weapons. Melee and guns. They... react to energy.
+- Quincy: u don't sounds very sure about that
+- > I mean... I point the loud end away from my face. The rest I don't really have to worry about.
+- Well look. Just because I *use* Void power doesn't mean I always know how it all *works*. The weapons tap into the Void to do their transformation thing.
+- As far as I can tell, they feed off the energy of the enemies I kill with them. That's what lets them transform.
+- Quincy: They... eat ppl. ur weapons eat ppl
+- I mean I said "as far as I can tell." I just know that when I kill people with them in a certain way -
+- Quincy: nope. nope. ur guns eat ppl
+- Quincy: u got weird-ass guns from the future that EAT PPL. just when i think this shit can't get any weirder, u drop this NEXT nonsense on my head
+- Quincy: i gotta go 4 a walk. gonna be thinking about this 1 for a while
+- Quincy: guns that eat ppl
+- Quincy: shit {Convo. Ends}
+- > Yes. My Void-powered weapons eat people.
+- > The Void... does a lot of weird... stuff. To a lot of things. It's... really hard to explain all the time. But you can think about it like...
+- > So, there's this guy on the Zariman. Named Cavalero... I suddenly have an overwhelming need to introduce you two.
+- Anyway. He started making those Void-touched weapons. Melee and guns. They react to energy... I think.
+- Quincy: u don't sound very sure about that. n who is cavalero?
+- > Well look. Just because I *use* Void power doesn't mean I always know how it all *works*. The weapons tap into the Void to do their transformation thing.
+- Cavalero is one of the Holdfasts onboard the Zariman. A ghost, for lack of a better phrase. He's salty. In charge of the weaponry. Pretty much an asshole. You'd love him.
+- Quincy: sounds like my kinda guy actually, yeah lol
+- Quincy: sit there n drink in total silence 4 like 2 hours. i love those kind of m8s
+- Quincy: but... i'm starting 2 get the suspicion u don't know hot the guns work
+- As far as I can tell, they feed off the energy of the enemies I kill with them. That's what lets them transform.
+- Quincy: they... eat ppl. ur weapons eat ppl
+- I mean I said "as far as I can tell." I just know that when I kill people with them in a certain way -
+- Quincy: nope. nope. ur guns eat ppl
+- Quincy: u got weird-ass gun from the future that EAT PPL. just when I think this shit can't get any weirder, u drop this NEXT nonsense on my head
+- Quincy: i gotta go 4 a walk. gonna be thinking about this 1 for a while
+- Quincy: guns that eat ppl
+- Quincy: shit {Convo. Ends}
+- > Yes. My Void-powered weapons eat people
+- The Void... does a lot of weird... stuff. To alot of things. It's... really hard to explain all the time. But you can think about it like...
+- Quincy: m8
+- > No. I have no idea
+- I know how it works it's just hard to explain!
+- Quincy: well... they r really good 4 killin' ppl, i'll give u that
+- Quincy: maybe next time i let u drive me around like of ur fancy meat suits, u can equip one of those incarnons
+- Quincy: i wanna see what it feels like to really wreck some shit with that Void-fkery
+- Yeah. I'm going to have to introduce you to Cavalero. "Void-fkery" is going to be the new name of his store...
+- Quincy: n u love it. ;) {Convo. Ends}
+- > Mine do :)
+- Everything's sci-fi when you come from the future.
+- Quincy: ok smartass lol fine but walk me thru this will u? what r those things?
+- (Same Dialogue answers as above: '> Incarnons are Void-touched weapons...')
+- Incarnons?
+- Quincy: is that what u call them?
+- Quincy: the 1s that make weird fkin' noise n transform like some sci-fi shit
+- Quincy: i watch u stomp around with 1 like ur some serious mobster n then suddenly i see this thing go off n then BLAPBLAPBLAP
+- Quincy: so yeah - psycho killer, qu'est-ce que c'est?
+- Definitely incarnons.
+- Quincy: great it has a name. but wtf guns don't DO THAT
+- Incarnons are... weird. Even as my weapons go.
+- Quincy: walk me through this will u? what r those things?
+- > Incarnons are Void-touched weapons. Melee and guns. They... react to enery.
+- So, there's this guy on the Zariman. Named Cavalero... I suddenly have an overwhelming need to introduce you two
+- > Anyway. He started making those Void-touched weapons. Melee and guns. They react to energy... I think.
+- Quincy: u don't sound very sure about that. n who is cavalero?
+- > Well look. Just because I *use* Void power doesn't mean I always know how it all *works*. The weapons tap into the Void to do their transformation thing.
+- Cavalero is one of the Holdfasts onboard the Zariman. A ghost, for lack of a better phrase. He's salty. In charge of the weaponry. Pretty much an asshole. You'd love him.
+- Quincy: sounds like my kinda guy actually, yeah lol
+- Quincy: sit there n drink in total silence 4 like 2 hours. i love those kind of m8s
+- Quincy: but... i'm starting 2 get the suspicion u don't know hot the guns work
+- As far as I can tell, they feed off the energy of the enemies I kill with them. That's what lets them transform.
+- Quincy: they... eat ppl. ur weapons eat ppl
+- I mean I said "as far as I can tell." I just know that when I kill people with them in a certain way -
+- Quincy: nope. nope. ur guns eat ppl
+- Quincy: u got weird-ass guns from the future that EAT PPL. just when i think this shit can't get any weirder, u drop this NEXT nonsense on my head
+- Quincy: i gotta go4 a walk. gonna be thinking about this 1 for a while
+- Quincy: guns that eat ppl
+- Quincy: shit {Convo. Ends}
+- > BRB, one sec. {Convo. Ends}
+
+### Conversation 3 (look at u, the lil looooooovebiiiiiiird lol / still flyin' solo?)
+
+- (ifDating is false)
+- Quincy: still flyin' solo? that by choice or u just striking out, fam?
+- It's by choice, honestly.
+- Quincy: no shame in that. i wish i were wired that way, it'd make my life soooo much easier lol. there'd be so much less drama
+- Quincy: well, u know where 2 find me if u wanna hang. ttys famalam
+- I... just... really suck at this.
+- Quincy: oh yeah? well, spill. tell ur bruv quincy-k how he can help u out
+- How're you going to help?
+- Quincy: maybe i can go talk 2 them 4 u
+- Quincy: see if ur mans here can't smooooth things over, read me?
+- Quincy: how can i be of service? ;)
+- If you could talk to them, that'd be great...
+- Quincy: 4 u? anything
+- Quincy: so. who u chasin' after, cuz?
+- The hex member I'm after is...
+- > Lettie.
+- > Arthur.
+- > Amir.
+- > Eleanor.
+- Aoi.
+- Quincy: oh no. u didn't. srsly? fk... u put ur foot in ur mouth on somethin', i know it. u just can't treat that girl like she's dumb
+- Quincy: u gotta at least let HER find joy in the things she likes, even if u can't share in it. but w/e. i got u, i'll fix this
+- Quincy: stay tuned. let ur mans here cyrano work his mage. ;)
+- > You, actually...
+- > I actually think I should probably just do this on my own
+- > No, I think I should do this on my own.
+- > I gotta go, sorry. [End.]
+- (ifDating is true)
+- Quincy: look at u, the lil looooooovebiiiiiird lol
+- Quincy: so i am just straight up dyin' 2 know
+- Quincy: how's it going with His Maj? i always wondered w/ a guy like him if he was all prim n yessir nossir until u got him behind closed doors
+- Quincy: n ten he probably turns into proper freak, right? lmao. probably all polite in text b/c it's 'proof' n then u get him on a fate n it's all drippin' gold
+- I couldn't be happier. <3
+- Quincy: n that makes me happy 4 u 2. n that's all that matters in places like this, u know?
+- Quincy: all we got when the world goes 2 hell is each other at the end of the day {Convo. Ends}
+- > I don't know. I'm thinking I might have made the wrong choice.
+
+### Conversation 4 (hey <fam / babes>, can i ask y a bit of a rough q?)
+
+- Quincy: hey, fam? can i ask u a bit of a rough q?
+- Depends..? Is this going to end in a fight?
+- Quincy: nah, nah. i'm not like that. i get u, n we good 4 life, now
+- Quincy: my question is just... so.. ur here right now. but u got ur nickname 4 a reason
+- Quincy: someday - somehow - the future is gonna call u like the past did. n ur gonna go off 2 save it
+- Quincy: a drifter gonna drift, am i right?
+- Quincy: n i get the real feeling that no matter what, ur story doesn't end here
+- Oh, boy. I... honestly don't know. I can't predict the future, ironically.
+- (same as below: "yeah. i figured.")
+- All I can say is that I don't *want* to leave you behind.
+- Quincy: yeah. i figured. i just had 2 ask. see what u were thinking.
+- Quincy: i know u'll try 2 come back if u can. but i know u have no idea what's comin'
+- (Proceed to Quincy: i just get this terrible feeling when i think about u being in trouble somewhere or some*when* we can't help u)
+- I would never leave you behind.
+- Quincy: u r just so cute and naive sometimes lol. its what i find so charming about u. u just puff urself up n charge off 2 go fight the whole-ass world {Not dating}
+- Quincy: never mind the fact u probably don't have a say in the matter when it comes down 2 it
+- ( continues same as below: Quincy: i just get this terrible feeling... )
+- I might have to leave for a little while... but this is my home, now.
+- Quincy: yeah... i hope u get to come back. or i hope u get to bring us with u. one way or another. but i know u'll try
+- Quincy: i just get this terrible feeling when i think about u being in trouble somewhere or some*when* we can't help u
+- Quincy: entrati n that freak from the Void r still out there n who knows what they're after. but i do know this
+- Quincy: that if they call u to help stop them? u'll answer it. but i know this, 2...
+- Quincy: there will have 2 be something greater than the Void between u n us to keep the hex from riding out 4 u
+- Quincy: mark me on that {Convo. Ends}
+- I don't think I'll have a choice when it comes down to it.
+- Quincy: preaching 2 sol's choir here. i know how that story goes. but i know u'll try 2 come back if you can
+- Quincy: i just get this terrible feeling when i think about u being in trouble somewhere or some*when* we can't help u
+- Quincy: entrati n that freak from the Void r still out there n who knows what they're after. but i do know this
+- Quincy: that if they call u to help stop them? u'll answer it. but i know this, 2...
+- Quincy: there will have 2 be something greater than the Void between u n us to keep the hex from riding out 4 u
+- Quincy: mark me on that. {Convo. Ends}
+- Sure. I have time.
+- (Go to branch above: Quincy: my question is just... )
+- > Sorry, I can't right now. {Convo. Ends}
+
+### Conversation 6 [unsure where this falls, fact check] (u know, i hope someday we get 2 go see)
+
+- Quincy: u know, i hope someday we get 2 go see where u come from
+- You mean the Origin System?
+- Quincy: future. space. w/e
+- Quincy: 4 all the shit i give it, i want what we got here 2 serve a purpose u know?
+- Quincy: whats the point in having ur back if ur back is somewhere else when shit goes down
+- Quincy: besiiiiiiides
+- Quincy: tell me u don't wanna watch lil lightning go proper mental when he sees space 4 the 1st time lmao {Convo. end}
+- You mean Duviri?
+- Quincy: future. space. w/e
+- Quincy: 4 all the shit i give it, i want what we got here 2 serve a purpose u know?
+- Quincy: whats the point in having ur back if ur back is somewhere else when shit goes down
+- Quincy: besiiiiiiides {Convo. End}
+
+### Conversation 7 [unsure where this falls, fact check x2] (FAM. u gotta hear this!!!)
+
+- Quincy: FAM u gotta hear this!!!
+- > [Ignore] (Prob ends convo like all other [Ignore]s seem 2)
+- Something blowing up?
+- Quincy: just my brian lmaoooo
+- What? What's up?
+- Quincy: so the arcade, right?
+- Quincy: im walkin' by, nbd
+- Quincy: 1 more day, 1 more hollar, yeah?
+- Quincy: n i see lil lightning amir standing at the super bruno bros cabinet
+- Quincy: n i suddely realize...
+- Quincy: fam... FAM...
+- What?! What?!
+- Quincy: THE LIL BRO WAS DOING ALL THE SOUNDS HIMSELF
+- Quincy: LIKE ALL OF THEM, FAM
+- Quincy: THE VOICES, TOO. BRUNO, LORENZO, MARUNO, MORENZO
+- Quincy: DA FK
+- Quincy: n im not saying he was just imitating them im saying HE. FKING. WAS. THEM.
+- I wonder who else he can imitate.
+- Quincy: i dunno but now im scared 2 find out
+- Quincy: fkkkkk me, m8
+- Maybe we can use this to prank Arthur. Or Viktor.
+- Quincy: oh now ur talking
+- Quincy: lil bro did notice me standing there with my jaw on the floor like some knobhead
+- Quincy: n then he got all shy 'n shit liek he wasn't just doin' some solsdamned magic trick
+- Quincy: don't blame him tho... with our history? probably thought i was gonna make fun of him or something
+- I think he's also just used to getting made fun of in general
+- Quincy: yeah... makes me regret not making it clear why i was so rough on him b4... wasnt cuz he's a clown. just didn't wanna see his ass get turned in2 roadkill... but anyway
+- Quincy: i hadda ask him if it was all srysly him, right? like, all the voices?! srysly?!
+- Quincy: N YEAH HE CAN DO ALL THE FKIN' VOICES, M8. EVEN PRINCESS PANAFORTE WTF
+- Quincy: not only that but like he can do most the games in teh friggin' arcadeeee, faaaaam
+- This is cute beyond words, right now.
+- Quincy: yeah i know i'm sure but like then i hadda know why, right?
+- (continues as below)
+- Lol. This is seriously blowing your mind.
+- Quincy: YEAH IT IS THX, but then i hadda know why, right?
+- Quincy: why do all the sounds, just 4 fun?
+- Quincy: nah... turns out the speaker's been busted this whole time
+- Quincy: im gonna keep my eyes peeled 4 spare parts
+- > Techrot are mostly speakers, it won't be too hard to - actually, that's a terrible idea. Never mind.
+- I'll do the same :)
+- Quincy: thx
+- Quincy: gonna go watch him play some more ttys
+- > What'd you do?
+- > Did you say anything?
+- > Somehow I'm not shocked he can do voices.
+- >Was it about to eat him?!
+- (Lines needed)
+
+### Conversation 8 [unsure where this falls, fact check x2] (so im sitting there minding my own business...)
+
+- aka quincy has adopted a rat :)
+- Quincy: so im sitting there minding my own business, cleaning the armory guns, right?
+- Uh oh
+- Quincy: nah its a good 1
+- Quincy: anyway
+- [same as below]
+- Yeah?
+- Quincy: im taking apart an efv-5 yeah n i hear this lil 'skeek'
+- Like a "mouse?"
+- Quincy: yeah!! or... wut... pobber? or w/e u said u call them in ur time
+- [same as below]
+- [Let him continue.]
+- Quincy: so i look down, n theres this lil rat just chillin' on my leg like a total gandem, lookin' up at me like 'sup, bruv'
+- Quincy: i think 'oh hey 1 of lettie's rats here 2 say hi, hey lil fam' so i sit there n talk 2 the lil guy, feed him some of my pizza, yeah?
+- Quincy: gave the lil gangdem some water, talked him thru what i was doin', taught him all about how to clean springs in a gun lmaoo
+- Quincy: whole time he's sittin' there just watching, listening, cleaning his lil whiskers
+- Quincy: cute AF
+- Quincy: so then im done and i go 'ok lil fam lets get u back 2 ur mom' so he hops up on my shoulder like nbd and i go off 2 take him to lettie....
+- I think I can see where this is going...
+- Quincy: YEAH. YEAH, FAM
+- [same as below]
+- And?
+- Quincy: I SHOW UP TO LETTIE LIKE 'HERE'S UR RAT FAMALAM' AND SHE'S LIKE
+- Quincy: 'UR CRAZY I HAVE ALL MINE HERE'
+- Quincy: I SPENT FOUR HOURS FEEDING AND HANGING WITH A RANDOM MALL RAT
+- What did you do?
+- Quincy: so now im lookin' at his lil face
+- Quincy: n lettie is just laaauuughin'
+- Quincy: n... now i have a pet rat...
+- Quincy: dunno what 2 name him yet...
+- Quincy: was thinking 'arthur' but lettie sad nah. lol. i'll decide l8r. she said shes gonna help me set him up with supplies
+- This is just. So cute.
+- Quincy: i know but i don't even keep him in cage n he keeps following me around
+- Quincy: dont have the heart to get rid of him r try 2 get him 2 stop
+- Quincy: ... maybe i should name him amir lmaooo
+- Quincy: nahhh...
+- Quincy: mk. gotta go set up some boxes 4 him 2 play in ttyl {Convo. ends}
+- You didn't strike me as the pet rat kind of guy
+- Quincy: sometimes, u never know what u r until u r
+- Quincy: there's ur deep thought 4 the day from quincy-k {Convo. ends}
+- This is incredible.
+- [same as above]
+- > Skeek?
+- >What was that? I missed it. lol
+
+### [If Quincy is not currently dating the Drifter]
+
+- Quincy: hey cuz, u there? got something 4 u
+- Yeah? What's up? :)
+- Quincy: so i've been thinking 4 a while, about... well, everything, really. 'bout u, me, the team, everything since u showed up
+- Quincy: n how mad i was at everything n everybody 4 taking my future, my dreams away from me, yeah?
+- Quincy: thinking i had no way forward, no hope for... anything that i wanted
+- Quincy: n i never stopped 2 think that maybe, hey... knobhead? what u want can change. n maybe what u got *is what u've been dreamin' of this whole time*
+- Quincy: i look around now n i see... i see community. n yeah, sure, fine, we still got techrot buzzin' us like flies, n there's still viktor out there bein' a proper plumsack
+- Quincy: but none of that ain't shit we can't handle. because of u. because u made US something REAL
+- Quincy: i get 2 take care of the kids around here, got eleanor telling 'em stories, aoi's given 'em toys - got speedster making lil gadgets for em now...
+- Quincy: even His Maj looks happy 4 the first time in... maybe ever
+- Quincy: n i realized if i hadn't stomped outta that tent with him that day, n followed him here, i never would've had all this
+- Quincy: this... love
+- Quincy: that's what this is, innit?
+- Quincy: love
+- Quincy: so i uh... just wanted 2 tell u that i... told arthur i was sorry. 4 treating him like shit. n that i was just angry 'n scared
+- Quincy: n that i knew he was only ever trying 2 do the right thing 4 me n everybody else. n i respected that the whole time, even if i didn't know how 2 show it
+- Quincy: arthur n i ain't never gonna be huggers, m8. u never gonna see us pull one in. but we shook hands. n he smiled at me
+- Quincy: n i smiled back and said
+- Quincy: 'ur still a plonker tho'
+- Alt: Quincy: 'ur still a fkin buzzkill' (unsure what causes the difference)
+- Quincy: lmaooo
+- Oh, Quincy. lol
+- Quincy: he laughed! finally got that's my sense of humor, yeah?
+- Quincy: patted me on the shoulder n off we went
+- Quincy: n... that felt good. real good. don't got that hanging over me anymore
+- Quincy: n that's all because of u
+- Quincy: so, cuz? i just wanted 2 say... u got a m8 for life in me, now
+- Quincy: we're not just besties, we're fam. thnx. for being here. for all that u do
+- Quincy: i owe you 1. ;) {Convo. Ends}
+- I'm sure he was thrilled.
+- (Jump to above branch starting with 'Quincy: he laughed! finally got that's my sense of humor, yeah?' )
+- > I can't right now, sorry. [End.] {Convo. Ends.}
+
+### [If Quincy is currently dating the Drifter]
+
+- Quincy: hey babes, u there? got something 4 u
+- Yeah? What's up? :)
+- Quincy: so i've been thinking 4 a while, about... well, everything, really. 'bout u, me, the team, everything since u showed up
+- Quincy: n how mad i was at everything n everybody 4 taking my future, my dreams away from me, yeah?
+- Quincy: thinking i had no way forward, no hope for... anything that i wanted
+- Quincy: n i never stopped 2 think that maybe, hey... knobhead? what u want can change. n maybe what u got *is what u've been dreamin' of this whole time*
+- Quincy: i look around now n i see... i see community. n yeah, sure, fine, we still got techrot buzzin' us like flies, n there's still viktor out there bein' a proper plumsack
+- Quincy: but none of that ain't shit we can't handle. because of u. because u made US something REAL
+- Quincy: i get 2 take care of the kids around here, got eleanor telling 'em stories, aoi's given 'em toys - got speedster making lil gadgets for em now...
+- Quincy: even His Maj looks happy 4 the first time in... maybe ever
+- Quincy: n i realized if i hadn't stomped outta that tent with him that day, n followed him here, i never would've had all this
+- Quincy: this... love
+- Quincy: that's what this is, innit?
+- Quincy: love
+- Quincy: so i uh... just wanted 2 tell u that i... told arthur i was sorry. 4 treating him like shit. n that i was just angry 'n scared
+- Quincy: n that i knew he was only ever trying 2 do the right thing 4 me n everybody else. n i respected that the whole time, even if i didn't know how 2 show it
+- Quincy: arthur n i ain't never gonna be huggers, m8. u never gonna see us pull one in. but we shook hands. n he smiled at me
+- Quincy: n i smiled back and said
+- Quincy: 'ur still a plonker tho'
+- Quincy: lmaooo
+- Oh, Quincy. lol
+- Quincy: he laughed! finally got that's my sense of humor, yeah?
+- Quincy: patted me on the shoulder n off we went
+- Quincy: n... that felt good. real good. don't got that hanging over me anymore
+- Quincy: n that's all because of u
+- Quincy: so, babes? i just... wanted 2 say... thnx. n that... well?
+- Quincy: i love u
+- I love you, too, Quincy <3
+- Quincy: of all the times n places of all the ppl... u n me. never woulda dreamed it. but i wouldn't trade it 4 the world
+- or the future lol
+- so... thnx, babes. for being u. n for all that u do
+- Quincy: i owe you 1. ;) {Convo. Ends}
+- I... oh. I'm sorry, I'm really not ready for this kind of commitment.
+- Quincy: just go ahead n slam my dick in the door
+- fk, srsly?!
+- AFTER ALL TH-
+- y'know what nvm. w/e. w/e. it's cool {Convo. Ends} (break up with quincy)
+- I'm sure he was thrilled.
+- (Jump to above branch starting with 'Quincy: he laughed! finally got that's my sense of humor, yeah?' )
+- > I can't right now, sorry. [End.] {Convo. Ends.}
+
+### Conversation 2 (fam, got a weird 1)
+
+- Quincy: fam, got a weird 1
+- Shoot. Wait. Not Literally. *You* could probably actually hit me from where you are.
+- Quincy: so all around town i keep finding these weird... like...
+- Quincy: i dont even know what 2 call them
+- Quincy: they ain't quite like lava lamps or those drinky bird things
+- Quincy: showed 1 i found 2 pink hair n she called it a 'potential' perpetual motion machine'
+- Not sure what you're talking about.
+- Quincy: yeah k w/e {Convo. ends}
+- I think I know what you're talking about.
+- Quincy: good 2 hear it b/c they r definitely not from around here, m8 lol
+- Hm... You sure Amir didn't just "Overclock" one of his desk toys?
+- {Lines Required}
+- I think you're talking about "Ayatan Sculptures."
+- Quincy: shiiit. here we go again. this one of those 'make quincy-k regret asking questions about the future' moments, innit?
+- I mean, it's not my fault. The future is just...
+- Quincy: fkin' filled with some next shit?
+- I was going to say "space trauma," but that works.
+- Quincy: i don't think i wanna know but... k... lay it on me, wtf is this thing?
+- Well, the long version is -
+- Ayatan Sculptures are ancient Orokin artifacts that are associated with the ritual of Orokin "Continuity."
+- Which we... won't get into now, because that's a whole different can of evil worms.
+- {Lines Required}
+- Continuity is the ritual that the Orokin would use to transfer their consciousness into another body
+- Quincy: yo wait wut
+- Basically, Orokin were "immortal" because they could put their consciousness into other bodies permanently.
+- They would pick young and beautiful "Yuvans" as unwilling hosts, and use Kuva to destroy the original person's consciousness and override it with their own.
+- Quincy: i ever meet one of these fks im gonna punch one in the fking balls, m8
+- Yeah, they... weren't great people, by and large
+- Quincy: so u gonna tell me what da fk some ancient dusty plum sack living 4 ever has 2 do with this messed up desk toy lmao
+- In short, to summarize, Ayatan Sculptures are used to store the favorite memories of the Orokin...
+- {Lines Required}
+- So, Ayatan Sculptures can be fitted with Ayatan Stars. If you do that, they move.
+- Ayatan Stars are filled with Aya.
+- And Aya is like... Ordis called it "Memory Plasma" once. It stores just about anything in it.
+- Quincy: ur gonna have to break this down 4 me another way, m8
+- Think about it this way. Aya is like the actual tape in a VHS. The Ayatan Star is like once you've put the tape in a cassette.
+- And the Ayatan Sculpture is like the VHS player.
+- Quincy: ... do i wanna know what kinda monitor plays the fked up future vhs tapes...?
+- The Orokin themselves. Like, an individual Orokin. And they used them to primarily store their favorite memories.
+- Quincy: sooo this next bits gonna b the part that gives me nightmares, innit
+- They thought they were gods. Their favorite memories were often ones of torture, whippings, massacres... executions.
+- Quincy: events of cosmic-level cruelty saved on floppy disks 4 all time
+- Quincy: home movies from hell...
+- They also contain blueprints for Warframes. Many we're still discovering
+- {Lines Required}
+- The good news is, we have a use for them in the future. We melt them down and use them to upgrade our own weaponry.
+- Come to think of it, you'd *really* like Varzia and Maroo. And they'd *really* like you.
+- Quincy: hahaaaaa o reeeaallly? maybe i gotta talk 2 pink hair 'bout hooking me up with a ride
+- Quincy: j/k j/k, every time i learn more about the future i get a little more glad im stuck here in the past
+- Quincy: im glad they r getting put 2 good use, tho. n getting melted down
+- Quincy: 1 of these days i really do hope u run out of horrifying ne space trauma 2 teach me about
+- Quincy: see ya l8r {Convo. End}
+- When you live forever, and you can just put your consciousness into another body whenever you want...
+- {Lines Required}
+- When a whole society is built around telling you a thing is not only "okay," it's "revered," it sometimes is very difficult to see it for what it is in the moment
+- {Lines Required}
+- We're just getting started
+- Quincy: yeah i was gunna say
+- Quincy: u still havent told me what da fk this messed up desk toy is tho n what it has 2 do with some ancient dusty plum sack living 4 ever lmao
+- Well, the short version is -
+- {Lines Required}
+- Yes. Yes, it is.
+- {Lines Required}
+- Pink hair? Oh. Kaya?
+- {Lines Required}
+- Go for it.
+- {Lines Required}
+
+### Conversation 5 (i got a theory)
+
+- Quincy: i got a theory
+- Quincy: n i dont need a confirm or deny it, im just curious
+- Quincy: so im just "thinking out loud" or w/e
+- Who do you think has a crush on who?
+- Quincy: lmfao nah, hell half this team needs 2 just get it outta their damn system if u ask me
+- Quincy: but w/e, not here 2 gossip tho thats always a good 4 a laugh lol
+- (Continues as below: Quincy: so i was on the roof merking techrot w/ the bossman)
+- Oh? I'm all ears?
+- Quincy: so i was on the roof merking techrot w/ the bossman
+- That... sounds like animal cruelty...
+- Quincy: omfl
+- Quincy: means i was on the roof shooting techrot w/ arthur u utter muppet
+- (Continues as below: Quincy: yeah so he's a shit w/ a scope right so im up there n we're picking off some roamers 4 s&g)
+- I think I follow.
+- Quincy: ur learning good 4 u lol
+- (Continues as below: Quincy: yeah so he's a shit w/ a scope right so im up there n we're picking off some roamers 4 s&g)
+- Bossman?
+- Quincy: arthur lol
+- (Continues as below: Quincy: yeah so he's a shit w/ a scope right so im up there n we're picking off some roamers 4 s&g)
+- Merking?
+- Quincy: lol killing in this case shooting
+- Quincy: yeah so he's a shit w/ a scope right so im up there n we're picking off some roamers 4 s&g
+- Quincy: giving him some pointers 2, right? n thats when i realize
+- Quincy: wait
+- Quincy: wtf am i doing
+- Quincy: hanging out with His Maj like we're m8s
+- Quincy: n like yeah i know u fixed shit n we aren't constantly dying in that loop anymore but
+- Quincy: arthur n i aint ever been m8s, m8
+- I'm... sorry?
+- Quincy: so thats the thing, this is somehow ur "fault" i feel it, i just don't GET it
+- (Continues as below: Quincy: how many times have we looped? like, do u even know?)
+- So what're you implying?
+- Quincy: how many times have we looped? like, do u even know?
+- A lot. Why?
+- (Continues as below: Quincy: i don't remember all of them tho, do i? nah don't answer that)
+- I haven't exactly kept count.
+- Quincy: i don't remember all of them tho, do i? nah don't answer that
+- Quincy: but even if i don't remember in my head some part of me gotta FEEl it, yeah?
+- Quincy: b/c i KNOW i should feel 1 way but i ACTUALLY feel differently
+- Quincy: n the only thing i can think of is somehow... some part of us... i dunno... exists outside the loop?
+- Quincy: talkin' out my arse here n i don't like all this incense n crystal shit this is eleanor's bs
+- Quincy: i making any sense here?
+- None, sorry
+- Quincy: eh w/e i tried
+- {Convo. End}
+- I don't get how it would be possible. Maybe the Infested part of you? Or Void... stuff?
+- Quincy: dunno, dont really gaf y it happens, just that it does
+- (Continues as below: Quincy: guess its kinda nice 2 know we can still keep evolving, learning)
+- A ton of sense. And I believe you.
+- Quincy: at least im not a total looney. or at least not alone in it, lol
+- Quincy: guess its kinda nice 2 know we can still keep evolving, learning
+- Quincy: or w/e
+- Quincy: k, 'nuff of this next deep shit, im gonna go get wasted w/ the friggin' talking guitar
+- Quincy: she'll tell u bare fked up stories if u feed her random rancid MREs, just don't tell flare lmaooo
+- {Convo. End}
+
+### [If Quincy is not currently dating the Drifter]
+
+- Quincy: u failed
+- Ok.
+- (Same as below branch)
+- At what?
+- Quincy: u were supposed 2 make me hate u
+- Quincy: that was the whol fkin POINT of this FKING EXERCICE N U FAILED
+- Quincy: n now - FK. FK...
+- Quincy: now it's my turn 2 tell u the story that'll make u hate me
+- Quincy: bc somebody's gotta do the job RIGHT n if it's not gonna be u? it's gonna come down 2 me. like it always fkin' does
+- All right. I'm listening.
+- Quincy: maybe once u hear what i've got 2 say, maybe u'll FINALLY understand
+- Quincy: i told u why i joined the army. how i wanted 2 make a better life 4 me and my fam
+- Quincy: and how everything went tits up before i got that chance
+- (Jump to below line 'Quincy: doesn't take a genius 2 put it together...' )
+- You don't need to do this Quincy.
+- Quincy: yeah. i do. n once u listen 2 what i've got 2 say, maybe u'll FINALLY understand y
+- Quincy: never told u why i got in the army. i'll make it quick. it's simple. wanted 2 make a better life for me n my fam
+- Quincy: n where i grew up? u don't get free opportunities 2 do that. nah, u gotta get out 2 do that
+- Quincy: n the easiest way 4 someone like me 2 get out? army. they got bursaries- scholarships - 2 pay for soldiers to go to college
+- Quincy: so i figured i'd go kill 4 them 4 a few years, n then i'd get a nice ride 2 business school. major in finance or maybe an MBA or somethin'
+- Quincy: come back home n set my family up real nice, make a difference the way that matters
+- Quincy: but everything went tits up before i got that chance
+- Quincy: doesn't take a genius 2 put it together that His Maj is the reason y things went wrong 4 me in my life. n why i've vowed 2 never let anyone in like that ever again
+- Quincy: so
+- Quincy: just by chance, random roll of the dice, i end up joinin' the same regiment as His Maj. 3rd battalion, crimson watch
+- Quincy: he's already commander, yeah? n i join fresh out of academy
+- Quincy: n for a while i'm trying 2 play by the rules, be a good little soldier. but as I go on... i realize the deck is stacked against me
+- Quincy: life ain't fair. no matter where u go. nepotism. favouritism. bigotry. everywhere. people looking down there nose at me bc of where i'm from
+- Quincy: bc of who i am
+- Quincy: so i... started 2 get stupid. started 2 do things i regret now. started 2 lash out in stupid ways. if they wanted 2 take from me? i'd take from them
+- Quincy: bc if they weren't watching my back, why was i gonna watch theirs? so i was looking out for myself, and myself ONLY, read me?
+- Quincy: i wasn't stealing shit. wasn't breaking protocol. i was a good lil soldier. but if u've ever heard the phrase 'malicious compliance' u get my vibe
+- Quincy: there wasn't a 2nd of my life that i was gonna spend going above or beyond for nobody, ever. i wanted 2 do my time n get out with my checks
+- Quincy: then it all went wrong. we're on a mission. n i'm on observation. i can see from my POV that the opps - the opposition - they suddenly start scrambling 4 us. they know we're there
+- Quincy: arthur n the rest of the troops r down on the field, n i have a split second 2 decide. i can give away my position 'n fire on the scrambling opps 2 give His Maj n company warning n time 2 get 2 safety
+- Quincy: but doing that puts me in real shit. guarantees those opps r comin' for my dumb arse real fast. so...
+- Quincy: i pack up my shit n radio that we've been compromised... figured His Maj and the others r toast anyway...
+- Quincy: i go to leave the room where i've been hiding out n i turn a corner right into the business end of some opp's rifle
+- Quincy: nah, cuz. they knew i was there the whole time. they had the read on me from the start
+- Quincy: they drag my ass out 2 the street. shove me 2 my knees n shove a pistol 2 the back of my head
+- Quincy: BLAP BLAP
+- Quincy: it's fkin' arthur. fkin' His Maj rollin' out of nowhere 2 save me
+- Quincy: n i was SO FKIN' MAD at him 4 it. got up 2 my feet n told him off right there
+- Because you were willing to leave him to die, but he wasn't willing to leave you?
+- Quincy: YES
+- Quincy: FK
+- Quincy: don't u GET IT?! i was living my life 4 me n my fam. that's what mattered 2 me. the only thing that mattered 2 me
+- Quincy: n now... now i got this mfer - this MFER - and now i have 2 CARE ABOUT WHAT HAPPENS 2 HIM
+- Quincy: n THAT WASN'T PART OF THE PLAN
+- Quincy: so when his ass GETS US INTO SERIOUS SHIT A FEW MONTH LATER, n he's about to get DISCHARGED?!
+- Quincy: I GOTTA CHOOSE. do i fkin' tell the brass a bunch of lies? do i throw him under the bus like i did b4? or do i do the RIGHT THING
+- Quincy: i do the RIGHT FKIN THING BECAUSE I OWE HIM n i... i leave the army w/ him, n... n kiss that dream of college goodbye
+- Quincy: that whole dream of mine of making a better life 4 me n my fam? gone. but arthur says 'naaaaah m8, it'll be ok'
+- Quincy: 'i got us set up with this new position with a peacekeeping org. n they pay better, n up front. ur gonna be ok'
+- Quincy: so off i went 2 join the ICR with him LIFE THE IDIOT I WAS
+- And then the Techrot...
+- Quincy: yeah N THEN THE TECHROT... things went to REAL hell, n that's... when he needed me even more than be4
+- Quincy: but i can't just... walk away. that time's long gone, innit? couldn't walk away then... can't walk away now...
+- Quincy: every time i let someone in, i end up their lil toy soldier...
+- Quincy: so when u showed up... n stomped right in...
+- Quincy: kicked in the doors i'd bolted shut...
+- Quincy: n went 'nah, i care about u even though there's no good reason'
+- Quincy: wtf was i supposed 2 do? last time that happened it... it ruined my fkin life...
+- I'm sorry you feel like you have to go through life like that. But what happened before isn't my fault.
+- Quincy: i know. ur right. n... i'm sorry 4 that. i'm scared that doing this? 'us'? whatever that means? will just ruin me again
+- (Jump to below branch with 'Quincy: either when u reset the world n make me forget u')
+- I understand why you felt you needed to protect yourself.
+- Quincy: ... thnx. that means a lot. doesn't mean it's right, tho. n i'm sorry. i'm... scared, i think, deep down, that 'us' - whatever 'us' is? is gonna just ruin me again
+- Quincy: either when u reset the world n make me forget u - which don't you DARE claim u can't do - or u leg it 2 the future when shit gets deep or ur needed
+- Quincy: but that's life, innit. life is... is like what u said about... 1 relationship at a time
+- Quincy: i guess what i wanna know is, can u forgive me? can we keep going, 4 real this time?
+- Of course I forgive you.
+- Quincy: thnx, fam... srsly {Convo Ends}
+- I... can't. I'm sorry.
+- (Line required)
+- > I was really expecting something more impressive than that. After my story, that's all you've got? {Convo Ends}
+- Oh no...
+- Quincy: so then the techrot showed up, n things went to REAL hell, n that's... when he needed me even more than b4
+- (Jump to above branch with 'Quincy: but i can't just... walk away.')
+- Because you owed him your life, now?
+- (Jump to above branch with 'Quincy: YES' 'Quincy: FK' )
+- > I'm walking away. I'm not playing this game. [End.] {Convo. Ends}
+- Oh good, we're still going.
+- Quincy: shove it
+- (Jump to above branch with 'Quincy: u were supposed 2 make me hate u')
+
+### [If Quincy is currently dating the Drifter]
+
+- Quincy: u failed
+- Ok.
+- (Same as below branch)
+- At what?
+- Quincy: u were supposed 2 make me hate u
+- Quincy: that was the whol fkin POINT of this FKING EXERCICE N U FAILED
+- Quincy: n now. FK. FK...
+- Quincy: now it's my turn 2 tell u the story that'll make u hate me
+- Quincy: bc somebody's gotta do the job RIGHT n if it's not gonna be u? it's gonna come down 2 me. like it always fkin does
+- All right. I'm listening.
+- Quincy: maybe once u hear what i've got 2 say, maybe u'll FINALLY understand
+- Quincy: i told u why i joined the army. how i wanted 2 make a better life 4 me and my fam
+- Quincy: and how everything went tits up before i got that chance
+- (Jump to below line 'Quincy: doesn't take a genius 2 put it together...' )
+- You don't need to do this Quincy.
+- Quincy: yeah. i do. n once u listen 2 what i've got 2 say, maybe u'll FINALLY understand y
+- Quincy: never told u why i got in the army. i'll make it quick. it's simple. wanted 2 make a better life for me n my fam
+- Quincy: n where i grew up? u don't get free opportunities 2 do that. nah, u gotta get out 2 do that
+- Quincy: n the easiest way 4 someone like me 2 get out? army. they got bursaries- scholarships - 2 pay for soldiers to go to college
+- Quincy: so i figured i'd go kill 4 them 4 a few years, n then i'd get a nice ride 2 business school. major in finance or maybe an MBA or somethin'
+- Quincy: come back home n set my family up real nice, make a difference the way that matters
+- Quincy: but everything went tits up before i got that chance
+- Quincy: doesn't take a genius 2 put it together that His Maj is the reason y things went wrong 4 me in my life. n why i've vowed 2 never let anyone in like that ever again
+- Quincy: so
+- Quincy: just by chance, random roll of the dice, i end up joinin' the same regiment as His Maj. 3rd battalion, crimson watch
+- Quincy: he's already commander, yeah? n i join fresh out of academy
+- Quincy: n for a while i'm trying 2 play by the rules, be a good little soldier. but as I go on... i realize the deck is stacked against me
+- Quincy: life ain't fair. no matter where u go. nepotism. favouritism. bigotry. everywhere. people looking down there nose at me bc of where i'm from
+- Quincy: bc of who i am
+- Quincy: so i... started 2 get stupid. started 2 do things i regret now. started 2 lash out in stupid ways. if they wanted 2 take from me? i'd take from them
+- Quincy: bc if they weren't watching my back, why was i gonna watch theirs? so i was looking out for myself, and myself ONLY, read me?
+- Quincy: i wasn't stealing shit. wasn't breaking protocol. i was a good lil soldier. but if u've ever heard the phrase 'malicious compliance' u get my vibe
+- Quincy: there wasn't a 2nd of my life that i was gonna spend going above or beyond for nobody, ever. i wanted 2 do my time n get out with my checks
+- Quincy: then it all went wrong. we're on a mission. n i'm on observation. i can see from my POV that the opps - the opposition - they suddenly start scrambling 4 us. they know we're there
+- Quincy: arthur n the rest of the troops r down on the field, n i have a split second 2 decide. i can give away my position 'n fire on the scrambling opps 2 give His Maj n company warning n time 2 get 2 safety
+- Quincy: but doing that puts me in real shit. guarantees those opps r comin' for my dumb arse real fast. so...
+- Quincy: i pack up my shit n radio that we've been compromised... figured His Maj and the others r toast anyway...
+- Quincy: i go to leave the room where i've been hiding out n i turn a corner right into the business end of some opp's rifle
+- Quincy: nah, cuz. they knew i was there the whole time. they had the read on me from the start
+- Quincy: they drag my ass out 2 the street. shove me 2 my knees n shove a pistol 2 the back of my head
+- Quincy: BLAP BLAP
+- Quincy: it's fkin' arthur. fkin' His Maj rollin' out of nowhere 2 save me
+- Quincy: n i was SO FKIN' MAD at him 4 it. got up 2 my feet n told him off right there
+- Because you were willing to leave him to die, but he wasn't willing to leave you?
+- Quincy: YES
+- Quincy: FK
+- Quincy: don't u GET IT?! i was living my life 4 me n my fam. that's what mattered 2 me. the only thing that mattered 2 me
+- Quincy: n now... now i got this mfer - this MFER - and now i have 2 CARE ABOUT WHAT HAPPENS 2 HIM
+- Quincy: n THAT WASN'T PART OF THE PLAN
+- Quincy: so when his ass GETS US INTO SERIOUS SHIT A FEW MONTH LATER, n he's about to get DISCHARGED?!
+- Quincy: I GOTTA CHOOSE. do i fkin' tell the brass a bunch of lies? do i throw him under the bus like i did b4? or do i do the RIGHT THING
+- Quincy: i do the RIGHT FKIN THING BECAUSE I OWE HIM n i... i leave the army w/ him, n... n kiss that dream of college goodbye
+- Quincy: that whole dream of mine of making a better life 4 me n my fam? gone. but arthur says 'naaaaah m8, it'll be ok'
+- Quincy: 'i got us set up with this new position with a peacekeeping org. n they pay better, n up front. ur gonna be ok'
+- Quincy: so off i went 2 join the ICR with him LIFE THE IDIOT I WAS
+- And then the Techrot...
+- Quincy: yeah N THEN THE TECHROT... things went to REAL hell, n that's... when he needed me even more than be4
+- Quincy: but i can't just... walk away. that time's long gone, innit? couldn't walk away then... can't walk away now...
+- Quincy: every time i let someone in, i end up their lil toy soldier...
+- Quincy: so when u showed up... n stomped right in...
+- Quincy: kicked in the doors i'd bolted shut...
+- Quincy: n went 'nah, m8, u n me are gonna b 2gether now, that's the end of the story even though there's no good reason'
+- Quincy: wtf was i supposed 2 do? last time that happened it... it ruined my fkin life...
+- I'm sorry you feel like you have to go through life like that. But what happened before isn't my fault.
+- Quincy: i know. ur right. n... i'm sorry 3 that. i'm scared that doing this? 'us'? whatever that means? will just ruin me again
+- (Jump to below branch with "Quincy: either when u reset the world"....)
+- I understand why you felt you needed to protect yourself.
+- Quincy: ... thnx. that means a lot. doesn't mean it's right, tho. n i'm sorry. i'm... scared, i think, deep down, that 'us' - whatever 'us' is? is gonna just ruin me again
+- Quincy: either when u reset the world n make me forget u - which don't you DARE claim u can't do - or u leg it 2 the future when shit gets deep or ur needed
+- Quincy: but that's life, innit. life is... is like what u said about... 1 relationship at a time
+- Quincy: i guess what i wanna know is, babes, can u forgive me? can we keep going, 4 real this time?
+- Of course I forgive you. You mean so much to me.
+- Quincy: thnx, babes... srsly {Convo Ends}
+- I... can't. I'm sorry.
+- (Line required)
+- I was really expecting something more impressive than that. After my story, that's all you've got?
+- (Line required)
+- Oh no...
+- so then the techrot showed up, n things went to REAL hell, n that's... when he needed me more than b4
+- (Jump to above branch with 'Quincy: but i can't just...)
+- Because you owed him your life, now?
+- (Jump to above branch with 'Quincy: YES' 'Quincy: FK' )
+- > I'm walking away. I'm not playing this game. [End.] {Convo. Ends}
+- Oh good, we're still going.
+- (Jump to above branch with 'At what? )
+
+### Tomorrow
+
+- So. It's tomorrow. Am I going to get that "how you joined the Hex" conversation now?
+- Quincy: can it wait? i'm in the middle of something rn
+- We're friends, Q. It's obvious you don't want to tell me what happened. You should be able to trust me with things like this.
+- Quincy: look, i'm gonna give you a pass because it's clear u haven't had many friends b4 in ur life
+- Quincy: but being friends with somebody n trusting them with all the darkest moments of ur life? LMAO. u are such a yute sometimes
+- > Isn't that what trust means?
+- Quincy: sol u r cute sometimes. nah. we're not doin' this n i'm not fighting with u. i'm gonna think this over n we'll talk when i've sorted this
+- > I get it. You'll tell me when you're ready, and that's fine. And if "ready" is "never"? That's fine, too.
+- (Lines required; possibly the same as below branch with '> I get it...')
+- > I've been waiting for you to tell me for a while, and I've been patient.
+- (Lines required)
+- Just say you don't want to tell me. We all have secrets. Whatever happened, it's your business.
+- >Don't keep dragging me along saying you'll tell me, then don't. You don't like being played. Neither do I.
+- Quincy: fair. fair. yeah. sorry. its not something i like bringing up
+- Quincy: no offence
+- > I get it. You'll tell me when you're ready, and that's fine. And if "ready" is "never"? That's fine, too.
+- Quincy: ... mighty dench of u. all right. well i gotta get tthis sorted in my head. n when i do? I'll come talk 2 u
+- Quincy: fair warning, won't be pretty when i do. till then, see u around
+
+### AmirSoldier
+
+- Quincy: hey
+- Quincy: talked to the lil speedster like u said
+- How'd it go?
+- Quincy: first he thought i was gonna punch him in the face lmao. but i took him up onto the roof n we sat down n we talked
+- Quincy: i told him about when i joined the army n how i became a sniper
+- How *did* you become a sniper, anyway?
+- Quincy: not important rn
+- (Jump to below branch with 'told him bout the first time i had to kill somebody)
+- And?
+- Quincy: told him bout the first time i had to kill somebody
+- Quincy: about the first time i had 2 look down that sight n take a life
+- Quincy: its 1 thing when ur in the heat of battle...some goon is coming at u with a gun or a knife or w/e...
+- Quincy: another thing entirely when ur on a roof 300 yrds away n they dont even know ur there...
+- Quincy: n u got time to *think* about them. who they r. why they r there. do they got a family? kids?
+- Quincy: n... then u squeeze the trigger. BOOM
+- Quincy: doesnt matter now
+- Quincy: they dead, n i took that life
+- Quincy: n that face lives in my head
+- Quincy: n so does every single 1 thats come after
+- How'd he react...?
+- Quincy: didnt say anything 4 the longest time. we just sat there in silence
+- Quincy: then he...told me about the nightmares hes been getting
+- Quincy: n how he feels like hes not really part of the group bc hes not a soldier
+- Quincy: so i told him about how horrifying it was 4 me when i first had 2 kill as a soldier
+- Quincy: n how i used 2 get nightmares over it, worse than the ones even when i was a lil kid
+- Quincy: but i told him sorry that id been treating him like such a plumsack this whole time
+- Quincy: n that he belonged with us just as much as anybody does. n that i just got a way 'bout me, just like he's got a way 'bout him, n its just who we r, u know?
+- Quincy: n then u know what he said...?
+- What?
+- Quincy: "ur right, ur a dickhead"
+- Quincy: but just as i was about 2 push him off the roof?
+- Quincy: he hugged me. fking hugged me. n said 'but ur also my big brother'
+- Quincy: wtf
+- Quincy: but... nah. worth. think it meant something 2 him, really... n... meant somethin' 2 me, 2. i guess
+- Quincy: so... thnx
+- > No? (look at up branch: What?)
+- > Sounds... uplifting.
+- > Wow. You actually listened to me?
+- > In the middle of something, sorry. {Convo. Ends}
+
+### BirthdayConvo1
+
+- Happy Birthday, Quincy. Looking good as always.
+- Quincy: u know it lol. could say the same for u. wait. how old 4 u anyway?! {Convo. Ends.}
+- > Happy Birthday, Quincy. Feeling your age yet?
+
+### BirthdayConvo2
+
+- Hey Quincy! I talked Arthur into giving you the night off for your birthday.
+- Quincy: sweeeeeeet, ur the best, m8 {Convo. Ends}
+- Have a good shift tonight on your birthday, Quincy.
+- Quincy: yea love freezing my plums off on the roof on my bday thnx {Convo. Ends}
+
+### BirthdayConvo3
+
+- Want to hit the clubs tonight for your birthday?
+- Quincy: hahahaha u kno it, lets light this city UP, cuz! {Convo. Ends}
+- How about we do a quiet night in for your birthday with the Hex?

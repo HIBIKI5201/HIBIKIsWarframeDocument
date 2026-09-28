@@ -10,6 +10,8 @@ Clem と Darvo にまつわる小話
 
 Darvo の頼みで、処刑されかけている Grineer の協力者 Clem を救い出すサイドクエスト。Hotfix 17.4.3（2015-09-16）で追加された。
 
+- 台詞全文（取り込み）: [A Man of Few Words/Transcript](../../quotes/a-man-of-few-words-transcript.md)（87 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/A_Man_of_Few_Words)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/A_Man_of_Few_Words/Transcript) / [日本語 Wiki「寡黙な人物」](https://warframe.fandom.com/ja/wiki/%E5%AF%A1%E9%BB%99%E3%81%AA%E4%BA%BA%E7%89%A9) / [日本語 Wiki の取り込み](../../fandom-ja/pages/a-man-of-few-words.md) / [全文検索](../../search.html?q=A%20Man%20of%20Few%20Words)
 
 ## 基本情報

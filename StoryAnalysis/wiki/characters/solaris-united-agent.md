@@ -14,6 +14,7 @@ Orb Vallis で依頼を出す人員
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 5 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Solaris United Agent/Quotes](../../quotes/solaris-united-agent.md)（27 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Solaris_United_Agent)（英語・出典） / [全文検索](../../search.html?q=Solaris%20United%20Agent)
 

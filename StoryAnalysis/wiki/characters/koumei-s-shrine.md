@@ -14,6 +14,7 @@ Warframe Koumei を祀る祠
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Koumei's Shrine/Quotes](../../quotes/koumei-s-shrine.md)（87 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Koumei's_Shrine)（英語・出典） / [全文検索](../../search.html?q=Koumei%27s%20Shrine)
 

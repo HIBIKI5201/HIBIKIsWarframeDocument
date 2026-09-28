@@ -14,6 +14,7 @@ The Index の司会。Cephalon Capture にも登場
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Cephalon Sark](../../quotes/cephalon-sark.md)（117 行、うち独り言など 2 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Sark)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Sark)
 

@@ -10,6 +10,8 @@ Archimedean Silvana の伝説と Titania を追う
 
 New Loka に頼まれて Grineer の侵攻から聖なる森を守るが、森の本当の姿と向き合うことになるサイドクエスト。Update: The Silver Grove（2016-08-19）で追加された。Tenno は New Loka とともに、地球に眠る古代の謎の力を探る。
 
+- 台詞全文（取り込み）: [The Silver Grove/Transcript](../../quotes/the-silver-grove-transcript.md)（86 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Silver_Grove)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Silver_Grove/Transcript) / [日本語 Wiki「銀の果樹園」](https://warframe.fandom.com/ja/wiki/%E9%8A%80%E3%81%AE%E6%9E%9C%E6%A8%B9%E5%9C%92) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-silver-grove.md) / [全文検索](../../search.html?q=The%20Silver%20Grove)
 
 ## 基本情報

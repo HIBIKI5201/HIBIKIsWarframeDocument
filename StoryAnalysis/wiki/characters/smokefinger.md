@@ -14,6 +14,7 @@
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Smokefinger/Quotes](../../quotes/smokefinger.md)（30 行、うち独り言など 3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Smokefinger)（英語・出典） / [全文検索](../../search.html?q=Smokefinger)
 

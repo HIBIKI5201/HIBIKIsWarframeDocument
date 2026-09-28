@@ -15,6 +15,7 @@ Old War のために作られた多頭の Infested
 
 - グループ: [Infested](g05-infested.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Lephantis/Quotes](../../quotes/lephantis.md)（7 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Lephantis)（英語・出典） / [全文検索](../../search.html?q=Lephantis)
 

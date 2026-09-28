@@ -14,6 +14,7 @@ Vay Hek がよく使う 3 人組の暗殺者
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [The Grustrag Three](../../quotes/the-grustrag-three.md)（100 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Grustrag_Three)（英語・出典） / [全文検索](../../search.html?q=The%20Grustrag%20Three)
 

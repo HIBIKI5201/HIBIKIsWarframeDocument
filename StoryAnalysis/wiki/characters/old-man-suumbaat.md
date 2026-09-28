@@ -15,6 +15,7 @@
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Old Man Suumbaat/Quotes](../../quotes/old-man-suumbaat.md)（18 行、うち独り言など 3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Old_Man_Suumbaat)（英語・出典） / [全文検索](../../search.html?q=Old%20Man%20Suumbaat)
 

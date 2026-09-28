@@ -15,6 +15,7 @@ Quincy Isaacs。The Hex の狙撃手
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Quincy/Quotes](../../quotes/quincy.md)（477 行、うち独り言など 11 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Quincy)（英語・出典） / [全文検索](../../search.html?q=Quincy)
 

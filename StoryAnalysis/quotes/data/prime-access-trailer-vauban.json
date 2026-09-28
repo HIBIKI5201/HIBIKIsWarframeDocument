@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-vauban",
+ "title": "Prime Access Trailer/Vauban",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Vauban",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"Lust was my sin. But greed is the blight that weakens our steel. These industrialists have gorged on the harvest of our long war. Their mind drones; Their mechanizations, toil in foundries remote. For what purpose? We must set watch upon them. Baiting our snares with the worms of profit.", null], ["Those kneeling at the altar of commerce will be returned... to the Void.", null], ["For your consideration... Vauban.\"", "BallasVaubanPrime.ogg"]]}
+ ]
+}

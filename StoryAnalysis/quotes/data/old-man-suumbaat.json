@@ -1,0 +1,22 @@
+{
+ "key": "old-man-suumbaat",
+ "title": "Old Man Suumbaat/Quotes",
+ "url": "https://wiki.warframe.com/w/Old_Man_Suumbaat/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "old-man-suumbaat",
+  "name": "Old Man Suumbaat",
+  "page": "Old Man Suumbaat"
+ },
+ "count": 18,
+ "idle": 3,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Old Man Suumbaat's dialogue.", null]]},
+  {"path": ["Idle"], "idle": true, "lines": [["- \"Mining tools, ore refinement... (coughs) ... other stuff. (coughs)\"", "DSuumBark0010Suumbaat_en.ogg"], ["- \"Mining! Riches! Let Old Man Suumbaat help you draw wealth from the Plains! All your mining needs catered for right here!\"", "DSuumBark0020Suumbaat_en.ogg"], ["- \"The life of a prospector is no easy one, kid! You want to make it in the mining game? You need the tools! And the best mining tools are right here, sold by Old Man Suumbaat!\"", "DSuumBark0030Suumbaat_en.ogg"]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- \"Name's Suumbaat. If you want to draw wealth from the cliff face, then I've got what you need to do it here. Mining tools, scanning gear, ah, that kind of stuff.\"", "DSuumFirstTime0040Suumbaat_en.ogg"]]},
+  {"path": ["Greetings"], "idle": false, "lines": [["- \"The trick to doing the impossible is to get out there and bloody well do it.\"", "DSuumIntroNeutral0050Suumbaat_en.ogg"], ["- \"So you want to get rich, huh?\"", "DSuumIntroNeutral0060Suumbaat_en.ogg"], ["- \"Hey kid.\"", "DSuumIntroNeutral0070Suumbaat_en.ogg"]]},
+  {"path": ["Greetings", "Rank 3 - Trusted"], "idle": false, "lines": [["- \"Hey kid! Tell me something good!\"", "DSuumIntroLoved0080Suumbaat_en.ogg"], ["- \"Hey! Swazdo-lah kid! Ha, always got time for you!\"", "DSuumIntroLoved0090Suumbaat_en.ogg"], ["- \"Ooh, sight for sore eyes! Finally, someone worth talking to!\"", "DSuumIntroLoved0100Suumbaat_en.ogg"]]},
+  {"path": ["Farewells"], "idle": false, "lines": [["- \"Move along then, I'm not running a social club.\"", "DSuumOutroNoSale0150Suumbaat_en.ogg"], ["- \"You're lucky I don't charge you for time.\"", "DSuumOutroNoSale0160Suumbaat_en.ogg"], ["- \"Do I look young enough to spare two minutes on nothing?\"", "DSuumOutroNoSale0170Suumbaat_en.ogg"]]},
+  {"path": ["Farewells", "After Purchasing an Item"], "idle": false, "lines": [["- \"Right you are, young person.\"", "DSuumOutroSale0110Suumbaat_en.ogg"], ["- \"Prove everyone wrong, kid. Get lucky, eh?\"", "DSuumOutroSale0120Suumbaat_en.ogg"], ["- \"Good luck out there. Watch for Kubrow.\"", "DSuumOutroSale0130Suumbaat_en.ogg"], ["- \"Little advice: every kid thinks they're tough, 'til they're trying to outrun an Eidolon. Be smart, don't mine at night.\"", "DSuumOutroSale0140Suumbaat_en.ogg"]]}
+ ]
+}

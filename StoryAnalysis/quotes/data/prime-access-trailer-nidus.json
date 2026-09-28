@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-nidus",
+ "title": "Prime Access Trailer/Nidus",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Nidus",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"We cast our shining child adrift on strange seas. For with time, these starless currents black as mourning will work a sea-change. And if, one grisly dawn, the skies should hurl you, herald-like, back to Earth, remind us, foundling, of what we immaculate ones have lost.", null], ["What succulent richness disease's kiss may bring.", null], ["My festering demigod. My Nidus.\"", null]]}
+ ]
+}

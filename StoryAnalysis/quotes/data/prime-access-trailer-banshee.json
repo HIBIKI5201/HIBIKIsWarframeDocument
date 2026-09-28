@@ -1,0 +1,13 @@
+{
+ "key": "prime-access-trailer-banshee",
+ "title": "Prime Access Trailer/Banshee",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Banshee",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 4,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"These like-faced savages, these earth-worn mules, a vast violent ocean at our command. Yet they wither. Mired in massed steel and flesh, casting these hordes from gene molds and flock minds, we inspire nothing. Our demons of void womb must be different. Unusual. Singular. Crafted without caste, wrought of the finest ore, slender and queer.", null], ["Sight without eye. Wrath without sound.", null], ["Not a soldier, but a myth. Not a warrior... a spirit... Banshee.\"", "BallasBansheePrime.ogg"]]},
+  {"path": ["Music"], "idle": false, "lines": [["- File:BansheePrime.ogg (download, history)", null]]}
+ ]
+}

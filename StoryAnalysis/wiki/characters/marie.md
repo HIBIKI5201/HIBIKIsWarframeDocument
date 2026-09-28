@@ -15,6 +15,7 @@ Marie Leroux 修道女。Wisp の特性を持つ Protoframe。Devil's Triad の�
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Marie/Quotes](../../quotes/marie.md)（428 行、うち独り言など 9 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Marie)（英語・出典） / [全文検索](../../search.html?q=Marie)
 

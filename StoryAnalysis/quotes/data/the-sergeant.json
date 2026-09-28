@@ -1,0 +1,19 @@
+{
+ "key": "the-sergeant",
+ "title": "The Sergeant/Quotes",
+ "url": "https://wiki.warframe.com/w/The_Sergeant/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "the-sergeant",
+  "name": "The Sergeant",
+  "page": "The Sergeant"
+ },
+ "count": 31,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Tranmissions during the boss fight.", null]]},
+  {"path": ["During an Assassination Mission"], "idle": false, "lines": [["**Taunts**", null], ["- \"In pods you have come, In caskets you will go!\"", null], ["- \"Is this a gathering of the freaks?\"", null], ["- \"I'm only just warming up.\"", null], ["- \"This is your final warning, (player name). Leave this system at once.\"", null], ["- \"You call that skill? (clan name) should be ashamed!\"", null], ["- \"Orokin [knowledge/secrets] cannot remain secret forever! Start talking!\"", null], ["- \"That (Warframe) would look great hanging on my wall.\"", null], ["- \"I grow tired of waiting, (player name). Will you face me?\"", null], ["- \"Fashion victims about to become murder victims.\"", null]]},
+  {"path": ["Pre-Update 16.4", "Lotus Transmissions"], "idle": false, "lines": [["**Mission start**", null], ["- Lotus: \"Sergeant Nef Anyo oversees operations of the Solar Rails in this district. Intelligence reports indicate that Anyo has been using the rails to acquire recovered cryo-pods containing dormant Warframes. Kill him and save your fellow Tenno.\"", null], ["- Lotus: \"Anyo is stockpiling the pods and selling them to the highest bidders. His clientele includes rogue scientists and splinter groups with nefarious intentions.\"", null], ["- Lotus: \"Eliminate Anyo. When the job is finished we will send in a clean-up team to recover the pods.\"", null], ["**During mission**", null], ["- Lotus: \"Anyo's self-interests are a threat to our ongoing operations. He must be removed immediately.\"", null], ["- Lotus: \"Anyo's venture has afforded him the best in Corpus security robotics. Eliminate anything that moves.\"", null], ["- Lotus: \"Anyo has too much at stake. He will fight to the death.\"", null], ["- Lotus: \"We cannot allow the Warframes to fall into the wrong hands. Taking Anyo out is imperative.\"", null], ["- Lotus: \"Security has tightened in this section. You are nearing Anyo's position.\"", null], ["- Lotus: \"Anyo is aware of your presence. Get the jump on him.\"", null], ["**Assassination complete**", null], ["- Lotus: \"The death of Sergeant Ned Anyo should weaken the Corpus Research and Development operations for quite sometime.\"", null]]},
+  {"path": ["Pre-Update 16.4", "Taunts"], "idle": false, "lines": [["- Nef Anyo: \"A gathering of the freaks.\"", null], ["- Nef Anyo: \"Fashion victims about to become murder victims.\"", null], ["- Nef Anyo: \"I'm about to fill that suit with blood.\"", null], ["- Nef Anyo: \"You are already wearing your body bag. How convenient.\"", null], ["- Nef Anyo: \"Is that suit a giant diaper?\"", null], ["- Nef Anyo: \"Orokin secrets can't remain safe forever.\"", null], ["- Nef Anyo: \"From pods you come, in caskets you will go.\"", null]]}
+ ]
+}

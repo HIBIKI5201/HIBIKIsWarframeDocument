@@ -14,6 +14,7 @@ Entrati 家の祖母
 
 - グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Grandmother/Quotes](../../quotes/grandmother.md)（179 行、うち独り言など 7 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Grandmother)（英語・出典） / [全文検索](../../search.html?q=Grandmother)
 

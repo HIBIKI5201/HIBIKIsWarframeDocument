@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-protea",
+ "title": "Prime Access Trailer/Protea",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Protea",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 6,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- Ballas: \"At last. Esteemed Parvos. Tell me what you desire, and we shall furnish you.\"", null], ["- Parvos: \"My desire is well known to you. Assemble what I have designed and I shall be on my way.\"", null], ["- Ballas: \"Potent weaponry, exquisite anatomy, those are trivial. But temporal manipulation? Even the Entrati-\"", null], ["- Parvos: \"The Entrati have violated time, and I have violated them.\"", null], ["- Ballas: \"What shall we name her, then, this child of two fathers?\"", null], ["- Parvos: \"Protea.\"", null]]}
+ ]
+}

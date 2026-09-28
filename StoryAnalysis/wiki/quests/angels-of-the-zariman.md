@@ -10,6 +10,8 @@ Void から戻った Zariman Ten Zero を探索し、船の生き残りと出会
 
 The New War の後、現実世界に姿を現した Zariman Ten Zero に乗り込み、過去の悪夢と向き合うメインクエスト。ソロ専用で、Update 31.5（2022-04-27）で追加された。
 
+- 台詞全文（取り込み）: [Angels of the Zariman/Transcript](../../quotes/angels-of-the-zariman-transcript.md)（188 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Angels_of_the_Zariman)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Angels_of_the_Zariman/Transcript) / [全文検索](../../search.html?q=Angels%20of%20the%20Zariman)
 
 ## 基本情報

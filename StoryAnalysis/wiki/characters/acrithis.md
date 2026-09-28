@@ -14,6 +14,7 @@ Duviri の記録係で、「好奇心」の化身。Duviri の各地とドーミ
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Acrithis/Quotes](../../quotes/acrithis.md)（92 行、うち独り言など 5 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Acrithis)（英語・出典） / [全文検索](../../search.html?q=Acrithis)
 

@@ -1,0 +1,13 @@
+{
+ "key": "prime-access-trailer-khora",
+ "title": "Prime Access Trailer/Khora",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Khora",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 4,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"None of them truly understands how much I lost, when I lost her. Nor by what subtle art my dead love now lives, within another's gleaming skull.", null], ["So tonight, we shall celebrate. In her honor, and mine, I shall unveil a new creation, a harmony of mistress... and monster.", null], ["An apex predator, a deathless companion. Unsurpassed. Blood-raw in whip, claw and fang. Khora.\"", null]]},
+  {"path": ["Music"], "idle": false, "lines": [["- The music for the Khora Prime trailer was composed by Evan Duffy. Featured vocals by Aeralie Brighton.", null]]}
+ ]
+}

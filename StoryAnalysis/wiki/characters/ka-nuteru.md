@@ -12,6 +12,7 @@ Narmer に染まった Grineer の兵士
 
 - グループ: [Narmer](g09-narmer.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Ka-Nuteru/Quotes](../../quotes/ka-nuteru.md)（3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Ka-Nuteru)（英語・出典） / [全文検索](../../search.html?q=Ka-Nuteru)
 

@@ -1,0 +1,15 @@
+{
+ "key": "specters-of-liberty",
+ "title": "Specters of Liberty/Quotes",
+ "url": "https://wiki.warframe.com/w/Specters_of_Liberty/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 27,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Inbox messages during the event.", null]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["> “We need your help...", null], ["> Tenno,", null], ["> This is Cantis of the Red Veil Resistance and I am asking for your help. You fight the Grineer and Corpus and so do we, that makes us allies. We aren't as strong as you and we don't have your weapons but we've pissed off those bastards just the same. Now they're coming after us, systematically capturing our comrades and holding them hostage – using our brothers and sisters as pawns against us. Tenno, will you help us bring them home?", null], ["> If you do this, you must strike quickly and quietly. If you are seen, the enemy will execute our hostage before you can rescue them. Please, do not give them this chance.", null], ["> We can't offer you much but we do have large cache of Specter Blueprints. Bring home our people and we will share these with you. Those who go above and beyond will receive a special token of our appreciation.", null], ["> Thank you Tenno,", null], ["> Cantis”", null]]},
+  {"path": ["Progressing Through The Event"], "idle": false, "lines": [["> “You Are Making the Difference", null], ["> Tenno,", null], ["> We are in your debt. The hostages you saved would have been doomed without you. Take this badge. It shows your solidarity with the Red Veil movement.", null], ["> Remember, there are still many more operatives out there, and we’re counting on you to bring them home.", null], ["> Cantis", null], ["> These items have been delivered to your inventory.”", null], ["(Attachment: Specters of Liberty Emblem)", null], ["> “A Symbol of Our Gratitude", null], ["> Tenno,", null], ["> You have brought so many of our comrades home. We never thought we would see them again, yet here they are, thanks to you. Take this Rakta syandana. It is one of the highest honours bestowed on our operatives. The Red Veil would be proud to see you wear it, [name].", null], ["> Keep up the fight, Tenno.", null], ["> Cantis", null], ["> These items have been delivered to your inventory.”", null], ["(Attachment: Rakta Syandana)", null]]},
+  {"path": ["Aftermath"], "idle": false, "lines": [["> “Our People Are Home", null], ["> Tenno,", null], ["> Our enemies tried to break us but failed. Thanks to you our brothers and sisters are home and ready to fight again. We are stronger than ever and we will not forget what you have done for us.", null], ["> The Corpus and Grineer now know taking on the Red Veil means taking on the Tenno. They can’t be happy about our alliance and I have no doubt they will come after us again. When this happens, can we count on your support?", null], ["> Forever in your debt, Cantis”", null]]}
+ ]
+}

@@ -15,6 +15,7 @@ Thrax の廷臣（The Sorrowful Soprano）
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Luscinia/Quotes](../../quotes/luscinia.md)（97 行、うち独り言など 10 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Luscinia)（英語・出典） / [全文検索](../../search.html?q=Luscinia)
 

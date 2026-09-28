@@ -1,0 +1,14 @@
+{
+ "key": "the-jordas-verdict",
+ "title": "The Jordas Verdict/Quotes",
+ "url": "https://wiki.warframe.com/w/The_Jordas_Verdict/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 18,
+ "idle": 0,
+ "sections": [
+  {"path": ["First Mission"], "idle": false, "lines": [["- Lotus: \"Something in the air is corroding your Warframe. Limit your exposure.\"", null]]},
+  {"path": ["Third Mission"], "idle": false, "lines": [["**Picking up spores**", null], ["- Ordis: \"Operator, are you really going to touch that thing?\"", null], ["- Jordas: \"I don't recommend touching that Operator.\"", null], ["- Lotus: \"This debris could prove tactically useful.\"", null], ["- Lotus: \"Can you use this to your advantage?\"", null]]},
+  {"path": ["When Armor Integrity At 0%"], "idle": false, "lines": [["- Jordas: \"Wonderful Pherliac.\"", null], ["- Jordas: \"Join us.\"", null], ["- Jordas: \"Now, we have become air.\"", null], ["- Jordas: \"Get out.\"", null], ["- Jordas: \"No one leaves.\"", null], ["- Jordas: \"Where are you going?\"", null], ["- Jordas: \"I am your voice.\"", null], ["- Jordas: \"Let us in.\"", null], ["- Jordas: \"Embrace us. We are your flesh.\"", null], ["- Jordas: \"This is just the beginning.\"", null], ["- Jordas: \"Lost little things.\"", null], ["- Jordas: \"Why do you defile us?\"", null]]}
+ ]
+}

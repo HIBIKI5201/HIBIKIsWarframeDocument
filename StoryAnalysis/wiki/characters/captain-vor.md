@@ -15,6 +15,7 @@
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Captain Vor/Quotes](../../quotes/captain-vor.md)（148 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Captain_Vor)（英語・出典） / [全文検索](../../search.html?q=Captain%20Vor)
 

@@ -1,0 +1,13 @@
+{
+ "key": "prime-access-trailer-voruna",
+ "title": "Prime Access Trailer/Voruna",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Voruna",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 6,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"The drums are silent. The Emperors lie butchered by Tenno blade.", null], ["Yesterday we lay languid on our couches of gold. Today that gold festoons the ingrate hordes.", null], ["How they howl, these motherless pups. The gods are dying. Our twilight has come, in the hour of the rising wolf.", null], ["Did I not foretell our ending? I gasp. I lust after this preferred death. At last, immortality has savor.", null], ["And I ponder, beast: Do you have MY scent? Voruna.\"", null]]},
+  {"path": ["Trivia"], "idle": false, "lines": [["- This is the first Warframe trailer overall to be explicitly marked as NSFW (Not Safe For Work) due to the intense gore it has.", null]]}
+ ]
+}

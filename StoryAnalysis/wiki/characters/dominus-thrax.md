@@ -14,6 +14,7 @@ Duviri の「狂王」
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Dominus Thrax/Quotes](../../quotes/dominus-thrax.md)（237 行、うち独り言など 8 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Dominus_Thrax)（英語・出典） / [全文検索](../../search.html?q=Dominus%20Thrax)
 

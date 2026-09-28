@@ -1,0 +1,21 @@
+{
+ "key": "jackal",
+ "title": "Jackal/Quotes",
+ "url": "https://wiki.warframe.com/w/Jackal/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "jackal",
+  "name": "Jackal",
+  "page": "Jackal"
+ },
+ "count": 35,
+ "idle": 0,
+ "sections": [
+  {"path": ["During Boss Fight"], "idle": false, "lines": [["- Lotus: \"In an attempt to exert power and authority, the Corpus have continued to refine their most lethal security proxy. The Jackal. Determine its location aboard this vessel and destroy it.\"", "DJackalMissionStart0010Lotus_en.ogg"], ["- Lotus: \"Every Warframe has it its disposal special blade, a Parazon. As lethal as it to technology as it is to flesh. Disrupting the Jackal's auto-repair may require it.\"", "DJackalNear0020Lotus_en.ogg"], ["- Lotus: \"Remember, the Jackal's auto-repair precepts could make this a battle of attrition you will lose. Watch for an opening and remember your Parazon.\"", "DJackalIntro0030Lotus_en.ogg"], ["- Lotus: \"I expected it to be... bigger.\"", "DJackalIntro0040Lotus_en.ogg"], ["**Weakpoint hint**", null], ["- Lotus: \"Massive flexplates on the torso... but the appendages could be a weakness.\"", "DJackalWeakpoint0050Lotus_en.ogg"], ["**Weakpoint damaged**", null], ["- Lotus: \"Still mobile despite the damage but if it comes down hard, it can give you an opening.\"", "DJackalWeakpointHit0060Lotus_en.ogg"]]},
+  {"path": ["During Boss Fight", "Phases"], "idle": false, "lines": [["**Grid wall attack**", null], ["- Lotus: \"Lucent-grid wall! Stay ahead of it!\"", "DJackalUFOLaser0090Lotus_en.ogg"], ["**Destroyed pillars**", null], ["- Lotus: \"Watch your angles, Tenno. You're running out of cover.\"", "DJackalPillar0100Lotus_en.ogg"], ["**Two health bars left**", null], ["- Lotus: \"Overdrive precepts. Watch for increased attack speed!\"", "DJackalAngry0110Lotus_en.ogg"], ["**Parazon prompt**", null], ["- Lotus: \"Tenno! Use your Parazon!\"", "DJackalParazonNag0070Lotus_en.ogg"], ["- Lotus: \"The auto-repair system. You'll need to disrupt it with your Parazon. Watch for an opening.\"", "DJackalParazonNag0080Lotus_en.ogg"], ["**Final Parazon prompt**", null], ["- Lotus: \"Critically damaged. Finish it off.\"", "DJackalAlmostDone0120Lotus_en.ogg"], ["- Lotus: \"It's sending out distress waves. You know what to do. Destroy it.\"", "DJackalAlmostDone0130Lotus_en.ogg"]]},
+  {"path": ["During Boss Fight", "Taunts"], "idle": false, "lines": [["- \"Metrics error. Threat requires escalation.\"", null], ["- \"Enemy analysis: Organic. Threat Level: Impotent.\"", null], ["- \"Auto repair in process. Combat precepts halted.\"", null], ["- \"Pathetic organics require sterilization.\"", null], ["- \"Trivial threat detected.\"", null], ["- \"Kill chamber sealed. There is no place to hide.\"", null], ["- \"System degraded. Adjusting confidence intervals.\"", null]]},
+  {"path": ["During Boss Fight", "Defeated"], "idle": false, "lines": [["- Lotus: \"Well done, Tenno. You've sent a clear message to the Corpus today. Their war-profiteering will not go unpunished.\"", "DJackalDone0140Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 28"], "idle": false, "lines": [["- Lotus: \"In an attempt to exert power and authority, the Corpus have recently introduced their most lethal security proxy yet. Determine its location aboard this vessel and destroy it.\"", null], ["- Lotus: \"Nicknamed \"The Jackal\", this is the same deadly quad-robot which has become extremely problematic for our cells in the field.\"", null], ["- Lotus: \"Do not dismiss the Jackal as just another Corpus proxy. This will be unlike any enemy you have faced yet.\"", null]]},
+  {"path": ["Pre-Update 28", "Taunts"], "idle": false, "lines": [["- \"Trivial threat detected.\"", null], ["- \"Enemy analysis: Organic. Threat level: Impotent.\"", null], ["- \"Threat Level Upgraded. Classification: Pathetic.\"", null], ["- \"Prototype engagement test: Ready. Tenno destruction analytics: Recording.\"", null]]}
+ ]
+}

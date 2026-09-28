@@ -10,6 +10,8 @@ Corpus の研究所で Limbo の設計図を集める
 
 Warframe の Limbo が残した謎の定理を解き明かすサイドクエスト。Update 15.0（2014-10-24）で追加された。クリアにはアークウイングが必要。
 
+- 台詞全文（取り込み）: [The Limbo Theorem/Transcript](../../quotes/the-limbo-theorem-transcript.md)（46 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Limbo_Theorem)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Limbo_Theorem/Transcript) / [日本語 Wiki「LIMBO セオリム」](https://warframe.fandom.com/ja/wiki/LIMBO_%E3%82%BB%E3%82%AA%E3%83%AA%E3%83%A0) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-limbo-theorem.md) / [全文検索](../../search.html?q=The%20Limbo%20Theorem)
 
 ## 基本情報

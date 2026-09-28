@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-gauss",
+ "title": "Prime Access Trailer/Gauss",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Gauss",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 4,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"We... are not done. Our gourmet, Grendel, demands a gallant equal.", null], ["Lightning to his gastric thunder. A livid energy. Meteoric as messenger of long-forgotten Gods.", null], ["Between these two, the unspeakable, and the inescapable, there must be no more talk of defeat.", null], ["For thankless eyes shall be seared blind in the heat of HIS passing. Gauss.\"", null]]}
+ ]
+}

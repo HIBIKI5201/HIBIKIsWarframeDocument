@@ -14,6 +14,7 @@ WARFRAME: Ghouls で登場した Solaris United の工作員。Vox Solaris の�
 
 - グループ: [外伝・イベント初出](g19.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Little Duck/Quotes](../../quotes/little-duck.md)（401 行、うち独り言など 18 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Little_Duck)（英語・出典） / [全文検索](../../search.html?q=Little%20Duck)
 

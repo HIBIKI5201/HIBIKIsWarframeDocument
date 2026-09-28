@@ -15,6 +15,7 @@ Grineer を統べる双子の女王
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 21 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Grineer Queens/Quotes](../../quotes/grineer-queens.md)（91 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Grineer_Queens)（英語・出典） / [全文検索](../../search.html?q=Grineer%20Queens)
 

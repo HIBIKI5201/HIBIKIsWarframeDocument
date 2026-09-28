@@ -1,0 +1,240 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Master Teasonai/Quotes
+
+[セリフ集の一覧](README.md) › キャラクター
+
+出典: [WARFRAME Wiki「Master Teasonai/Quotes」](https://wiki.warframe.com/w/Master_Teasonai/Quotes) / このサイトのページ: [Master Teasonai](../wiki/characters/master-teasonai.md)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+168 行（うち独り言・待機中・雑談など 3 行）。英語原文。
+
+### Idle
+
+- "Marking! Adorments! Patterning and striation! A hunter should take pride in their animal!" [音声](https://wiki.warframe.com/w/File:DTeaBark0010Teasonai_en.ogg)
+- "Swazdo-lah, surah! Do you require something for a companion or pet?" [音声](https://wiki.warframe.com/w/File:DTeaBark0020Teasonai_en.ogg)
+- "Those trappers better make it back before sundown. Konzu won't risk a search party at night." [音声](https://wiki.warframe.com/w/File:DTeaBark0030Teasonai_en.ogg)
+
+### Greetings
+
+- "Ah, yes, I am able to groom your animal. What is your desire?" [音声](https://wiki.warframe.com/w/File:DTeaIntroNeutral0040Teasonai_en.ogg)
+- "Do you seek to enhance your beasts' appearance, perhaps for lower visibility on the hunts?" [音声](https://wiki.warframe.com/w/File:DTeaIntroNeutral0050Teasonai_en.ogg)
+- "I can groom for aesthetics, stealth, visibilty, or to terrify. Show me the animal, and I will advise." [音声](https://wiki.warframe.com/w/File:DTeaIntroNeutral0060Teasonai_en.ogg)
+- "I have lived upon the Eidolon-Moh all my life. Nurturing and culling go hand in hand. Live here long enough, you will understand that also." [音声](https://wiki.warframe.com/w/File:DTeaIntroNeutral0061Teasonai_en.ogg)
+- "The Eidolon-Moh has weathered the introduction of many invasive species, but none more destructive than the Grineer themselves." [音声](https://wiki.warframe.com/w/File:DTeaIntroNeutral0062Teasonai_en.ogg)
+- "The Business speaks poetically of the grandeur of the Orb Vallis. I should like to see it for myself, but the cold would not be to my liking." [音声](https://wiki.warframe.com/w/File:DTeaIntroNeutral0063Teasonai_en.ogg)
+- "When The Business first sent me these small stuffed animals, I took it as evidence of a mind in decay. However... on reflection... I see now that he has a greater understanding of people than I could ever aspire to." [音声](https://wiki.warframe.com/w/File:DTeaIntroNeutral0064Teasonai_en.ogg)
+
+#### Rank 3 - Trusted
+
+- "A honor to groom the beasts that serve the Tenno. Master Teasonai is forever at your service." [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0070Teasonai_en.ogg)
+- "An honor, as always, Tenno. What do your beasts require, this day?" [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0080Teasonai_en.ogg)
+- "I am humbled, protector of Cetus. Allow Master Teasonai to repay your service with my own. What might your animals require?" [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0090Teasonai_en.ogg)
+- "I was mentored in my craft by a man who lived upon the Eidolon-Moh for many years. It has been a gulf of time now since Sigor Savah departed the Plains. Where he is... I do not know. Though I very much wish I did." [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0091Teasonai_en.ogg)
+- "Space and resources are finite. But The Business, he only smiles and tells me, 'Teasonai, it is a big universe.' Sigor Savah would have had no time for such nonsense." [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0092Teasonai_en.ogg)
+- "Some in Fortuna knew my mentor. I have asked The Business if he had the honour. He only said that Sigor Savah sounded like he had been a man of... enviable clarity. A strange response." [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0093Teasonai_en.ogg)
+- "The Business: strange that he frowns upon my methods – of taking animal life in order to preserve it – while he himself applies the same principles... to people." [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0094Teasonai_en.ogg)
+- "The Business has no stomach for the population control necessary in maintaining a balanced ecosystem. I fear for whatever sanctuary he is building." [音声](https://wiki.warframe.com/w/File:DTeaIntroLoved0095Teasonai_en.ogg)
+
+### Viewing Wares
+
+- "We are agents of balance, you and I." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0180Teasonai_en.ogg)
+- "Things live, things pass. To the turning of the wheel we bear witness." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0190Teasonai_en.ogg)
+- "Through strife and predation, the species of the Eidolon-Moh struggle to survive. We correct the balance." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0200Teasonai_en.ogg)
+- "A new day, a new purpose." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0210Teasonai_en.ogg)
+- "Do you feel it as I do? We are bonded to this place, to this planet." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0220Teasonai_en.ogg)
+- "The Business is dedicated to saving animals while I am dedicating to saving my people. A land out of balance feeds none." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0230Teasonai_en.ogg)
+- "The Eidolon-Moh houses me, feeds me, uses me to keep herself in balance. And when I am no more, she'll find a use for me still. I have no need for walls." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0240Teasonai_en.ogg)
+- "Before the Grineer, my master and I would conduct a yearly cull to keep the Eidolon-Moh in balance. After Grineer, that was no longer necessary. Quite the opposite." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearScreen0250Teasonai_en.ogg)
+- **First time**
+- "So, The Business has given you his blessing. Here on the Eidolon-Moh, what you call the Plains, balance is threatened. Once I'd would've tasked with culling out of control populations in order to support failing ones. But, for now, those days are gone. My partners has chosen to devote resources to relocation instead. And I must grudgely admit the program is proven effective in restoring balance to the Moh. Let us begin." [音声](https://wiki.warframe.com/w/File:DTeaHuntGearFirst0170Teasonai_en.ogg)
+
+### Farewells
+
+- "As you wish." [音声](https://wiki.warframe.com/w/File:DTeaOutroNoSale0130Teasonai_en.ogg)
+- "Another time, then." [音声](https://wiki.warframe.com/w/File:DTeaOutroNoSale0140Teasonai_en.ogg)
+- "Be well." [音声](https://wiki.warframe.com/w/File:DTeaOutroNoSale0150Teasonai_en.ogg)
+
+#### After Purchasing an Item
+
+- "There. Much better." [音声](https://wiki.warframe.com/w/File:DTeaOutroSale0100Teasonai_en.ogg)
+- "I trust this meets with your approval?" [音声](https://wiki.warframe.com/w/File:DTeaOutroSale0110Teasonai_en.ogg)
+- "Haha, sublime." [音声](https://wiki.warframe.com/w/File:DTeaOutroSale0120Teasonai_en.ogg)
+
+#### Tracking and Luring
+
+- **Finding spoor**
+- "Observe. Animal sign." [音声](https://wiki.warframe.com/w/File:DTeaHuntSigns1000Teasonai_en.ogg)
+- "Our quarry has passed this way. Your echo-lure, it is prepared?" [音声](https://wiki.warframe.com/w/File:DTeaHuntSigns1010Teasonai_en.ogg)
+- "Look there. A sign. We are in someone's territory now." [音声](https://wiki.warframe.com/w/File:DTeaHuntSigns1020Teasonai_en.ogg)
+- **Locate and Tranquilize**
+- "Prepare the tranquilizer." [音声](https://wiki.warframe.com/w/File:DTeaHuntLureSuccess1060Teasonai_en.ogg)
+- "Tranquilizer ready?" [音声](https://wiki.warframe.com/w/File:DTeaHuntLureSuccess1070Teasonai_en.ogg)
+- "Ready the tranquilizer. Be swift." [音声](https://wiki.warframe.com/w/File:DTeaHuntLureSuccess1080Teasonai_en.ogg)
+- **If have no tranq**
+- "I am in partnership with a certain individual on Venus. The Business they call him. If he thinks you are up to the task of conservation he will equip you appropriately. Then we shall talk, you and I." [音声](https://wiki.warframe.com/w/File:DTeaHuntNoTranq0160Teasonai_en.ogg)
+- **Using the wrong lure**
+- "If I may, you appear to have chosen the incorrect lure." [音声](https://wiki.warframe.com/w/File:DTeaHuntWrongLure0290Teasonai_en.ogg)
+- "Your prey will not respond to that song. A different lure." [音声](https://wiki.warframe.com/w/File:DTeaHuntWrongLure0300Teasonai_en.ogg)
+- "That's the wrong tool for the job, Tenno." [音声](https://wiki.warframe.com/w/File:DTeaHuntWrongLure0310Teasonai_en.ogg)
+
+#### Call for Recovery
+
+- **Assessing Age**
+- "A very young specimen." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchYoung0440Teasonai_en.ogg)
+- "A juvenile." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchYoung0450Teasonai_en.ogg)
+- "An immature specimen." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchYoung0460Teasonai_en.ogg)
+- "In its prime, this one." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOld0470Teasonai_en.ogg)
+- "Adult." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOld0480Teasonai_en.ogg)
+- "Full-grown." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOld0490Teasonai_en.ogg)
+- **Assessing Sex**
+- "Male." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMale0500Teasonai_en.ogg)
+- "Female." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchFemale0510Teasonai_en.ogg)
+- **Aftermath**
+- "You've caught us a lively one." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0900Teasonai_en.ogg)
+- "This little one has endured hardships. No more." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0910Teasonai_en.ogg)
+- "An impeccable example of the species." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0920Teasonai_en.ogg)
+- "So full of life, this one. It shall do well." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0930Teasonai_en.ogg)
+- "Oh dear. This one has not had an easy road. Evidence of not just battle scars, but burns... even shrapnel. This is why the Grineer must be expelled. The conflict threatens all life on the Eidolon-Moh." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0940Teasonai_en.ogg)
+- "Breathtaking. I've rarely seen such a beautiful specimen." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0950Teasonai_en.ogg)
+- "Eyes clear. Strong vital signs. Easy movement. Excellent. I'll take it from here." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0960Teasonai_en.ogg)
+- "Easy now." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0970Teasonai_en.ogg)
+- "Ha. They don't like you, Tenno. If only they knew you've likely saved their life." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0980Teasonai_en.ogg)
+- "Ah, yes. Impaired vision. Evidence of skin plucking. Some respiratory distress. A timely intervention on our part. I'm moving this one to the front of the line." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOutro0990Teasonai_en.ogg)
+
+#### Failures
+
+- **Animal Lost**
+- ""
+- **Animal Dies**
+- "Sometimes we fail, despite our best efforts." [音声](https://wiki.warframe.com/w/File:DTeaHuntKill0410Teasonai_en.ogg)
+- "And so it goes. I'm sorry, little friend." [音声](https://wiki.warframe.com/w/File:DTeaHuntKill0420Teasonai_en.ogg)
+- "That is unfortunate. But we should try again." [音声](https://wiki.warframe.com/w/File:DTeaHuntKill0430Teasonai_en.ogg)
+
+#### Mimic with Echo Lure
+
+- "The Kuaka. The elder cousin of the Vallis Pobber, but unlike that herbivorous rodent, the Kuaka possesses an irritable temperament and will eat almost anything. But, precisely as its cousin, the Kuaka will bolt at the first hint of danger." [音声](https://wiki.warframe.com/w/File:DTeaHuntCallKuaka0270Teasonai_en.ogg)
+
+#### Sighting
+
+- **Plains Kuaka**
+- "A Plains Kuaka. They play a key role in pest control, thereby protecting the young of other species and keeping the ecosystem balanced." [音声](https://wiki.warframe.com/w/File:DTeaHuntKuakaPlainsFirst0320Teasonai_en.ogg)
+- **Ashen Kuaka**
+- "Ashen Kuakas are seen infrequently, spending time, as they do, rooting through tunnels and dens of reptiles and rodents." [音声](https://wiki.warframe.com/w/File:DTeaHuntKuakaAshenFirst0330Teasonai_en.ogg)
+- **Ghost Kuaka**
+- "An exceedingly scarce Ghost Kuaka – so named for their rarity, and preponderance for disappearing. This is a rare opportunity." [音声](https://wiki.warframe.com/w/File:DTeaHuntKuakaGhostFirst0340Teasonai_en.ogg)
+
+#### Call for Recovery
+
+- **Plains Kuaka**
+- "A Plains Kuaka. Nature's janitor. Slow-roasted and paired with hot chimurr is a personal favourite." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaPlains0520Teasonai_en.ogg)
+- "A foul-tempered omnivore – but key to maintaining ecosystemic balance." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaPlains0530Teasonai_en.ogg)
+- "Population levels of the Plains Kuaka are in no danger of dipping, and this one's services are required elsewhere. So, off they go." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaPlains0540Teasonai_en.ogg)
+- "Another Kuaka. You are aware the female of the species becomes fertile immediately after giving birth, yes?" [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaPlains0550Teasonai_en.ogg)
+- "I once knew a hunter who, in dire straits, walked many days using two of these animals as shoes." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaPlains0560Teasonai_en.ogg)
+- "Properly skinned and sewn, a Kuaka can make for a useful improvised waterskin." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaPlains0570Teasonai_en.ogg)
+- **Ashen Kuaka**
+- "Note the pale coat, indicative of a subspecies that spends most of its time belowground." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaAshen0680Teasonai_en.ogg)
+- "An Ashen Kuaka. They don't like the light. Let's move this along." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaAshen0690Teasonai_en.ogg)
+- "An efficient ratter, the Ashen Kuaka. Very helpful in controlling introduced pests." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaAshen0700Teasonai_en.ogg)
+- "The Ashen Kuaka makes for good eating, Tenno, but if preservation is your mission, so be it." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaAshen0710Teasonai_en.ogg)
+- **Ghost Kuaka**
+- "A rare pleasure, my little friend." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaGhost0810Teasonai_en.ogg)
+- "Note the superficial similarities to the Ashen Kuaka, but this specimen's eyesight and digestive tract have evolved to serve a rodent that almost never visits the surface world." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaGhost0820Teasonai_en.ogg)
+- "The Ghost Kuaka are birthed in collectives far, far belowground. There, they live on grubs and roots. This may be their first visit to the surface. I will do what I can to make the experience a pleasant one." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchKuakaGhost0830Teasonai_en.ogg)
+
+#### Mimic with Echo Lure
+
+- "Listen. The territorial voicing of the Condroc: carrion-eater and opportunistic scavenger." [音声](https://wiki.warframe.com/w/File:DTeaHuntCallCondroc0260Teasonai_en.ogg)
+
+#### Sighting
+
+- **Common Condroc**
+- "The common, garden-variety Condroc. Their primary diet is carrion, though they can hunt when they need to." [音声](https://wiki.warframe.com/w/File:DTeaHuntCondrocCommonFirst0350Teasonai_en.ogg)
+- **Rogue Condroc**
+- "This Condroc has gone rogue from their committee. It happens, once a Condroc gets a taste for the hunt." [音声](https://wiki.warframe.com/w/File:DTeaHuntCondrocRogueFirst0360Teasonai_en.ogg)
+- **Emperor Condroc**
+- "A rare privilege, Tenno: you behold the Emperor Condroc. This one will have several Condroc committees under their thrall. A superlative example of the species, worthy of the title 'Emperor'." [音声](https://wiki.warframe.com/w/File:DTeaHuntCondrocEmpFirst0370Teasonai_en.ogg)
+
+#### Call for Recovery
+
+- **Common Condroc**
+- "A common Condroc. Carrion makes up nearly the entirety of their diet." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocCommon0580Teasonai_en.ogg)
+- "The Common Condroc could never be called glamorous, but their role is a necessary one." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocCommon0590Teasonai_en.ogg)
+- "They've learned not to scavenge Grineer camps, but fisher-folk still take potshots at them." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocCommon0600Teasonai_en.ogg)
+- "Scavengers prevent the spread of disease and pathogens. The Business is wise to collect them... but why? Surely he could not be populating some far-away Moh of his own?" [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocCommon0610Teasonai_en.ogg)
+- "Traditional Ostron hunters and bridge wardens still use the feathers of the Condroc as fletching for their arrows." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocCommon0620Teasonai_en.ogg)
+- **Rogue Condroc**
+- "A Rogue Condroc. Scavenging ways abandoned, this one prefers fresh meat and hunts it. Unusual behaviour for a Condroc, but not unheard of." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocRogue0720Teasonai_en.ogg)
+- "A loner. Extra effort will be made to resocialise them." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocRogue0730Teasonai_en.ogg)
+- "A group of Condrocs are known as a committee. This one has no time for such things." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocRogue0740Teasonai_en.ogg)
+- "Rogues often wipe out entire colonies of Kuaka and even Mergoo. The Condroc's role is that of scavenger. The Rogue has lost its purpose. It would be better to... no? I could.... Very well." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocRogue0750Teasonai_en.ogg)
+- "The stomach acid of the Condroc is useful as a powerful antiseptic. Perhaps you have need? No? Very well." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocRogue0760Teasonai_en.ogg)
+- **Emperor Condroc**
+- "A rare Emperor Condroc. Note the warm golden plumage. Hear that robust call." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocEmp0840Teasonai_en.ogg)
+- "This rare Emperor Condroc would be the leader of several Condroc committees. What could have lured them away from their aerie? No matter. This is our good fortune." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocEmp0850Teasonai_en.ogg)
+- "The Emperor Condroc. A rare sight. You must not miss this opportunity, Tenno. Should it take flight, it will retreat to its aerie and be lost to us." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchCondrocEmp0860Teasonai_en.ogg)
+
+#### Mimic with Echo Lure
+
+- "The Mergoo. An avian of ridiculous appearance found along coastal regions and by large bodies of water. Mergoo circle and squawk at the sight of marine predators. Many an Ostron fisher owes their lives to these odd little birds. Killing one is considered very bad luck." [音声](https://wiki.warframe.com/w/File:DTeaHuntCallMergoo0280Teasonai_en.ogg)
+
+#### Sighting
+
+- **Coastal Mergoo**
+- "A Coastal Mergoo. You'll see these everywhere along shorelines and around large bodies of water." [音声](https://wiki.warframe.com/w/File:DTeaHuntMergooCoastalFirst0380Teasonai_en.ogg)
+- **Woodland Mergoo**
+- "A less common variant, with plumage that makes it difficult for a hunter to spot them amongst the foliage." [音声](https://wiki.warframe.com/w/File:DTeaHuntMergooWoodFirst0390Teasonai_en.ogg)
+- **Splendid Mergoo**
+- "Regal, is it not? The Splendid Mergoo is a highly social specimen." [音声](https://wiki.warframe.com/w/File:DTeaHuntMergooSplendidFirst0400Teasonai_en.ogg)
+
+#### Call for Recovery
+
+- **Coastal Mergoo**
+- "A Coastal Mergoo. Fisher-folk honour them." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooCoastal0630Teasonai_en.ogg)
+- "Ah, these little ones do make me laugh." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooCoastal0640Teasonai_en.ogg)
+- "The Coastal Mergoo. Perhaps the most common seabird in these parts." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooCoastal0650Teasonai_en.ogg)
+- "Mergoo flocks deprive smaller mammals of nourishment. I am content to remove a few, however you see fit." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooCoastal0660Teasonai_en.ogg)
+- "Note its grasping foreclaws. Mergoo will often swoop in, clutch some small target, and fly off before anyone's the wiser." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooCoastal0670Teasonai_en.ogg)
+- **Woodland Mergoo**
+- "I'll note the area, keep an eye out for the nest." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooWood0770Teasonai_en.ogg)
+- "Mergoo, woodland plumage. Perhaps the adaptation is an attempt to elude the Grineer." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooWood0780Teasonai_en.ogg)
+- "I've often seen a Woodland Mergoo dart from foilage to zapping insect from midair. Cunning." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooWood0790Teasonai_en.ogg)
+- "Should you find yourself lost and starving, watch the Woodland Mergoo. They often know of ant colonies and grub nests. Useful protein in emergencies." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooWood0800Teasonai_en.ogg)
+- **Splendid Mergoo**
+- "[sigh] I've seen Grineer troopers divert from objectives to hunt and kill these particular specimens. For the plumage. Very hard to find these days." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooSplendid0870Teasonai_en.ogg)
+- "A Splendid Mergoo! Lords and ladies of the nest, these ones. Highly prized mates, for obvious reasons." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooSplendid0880Teasonai_en.ogg)
+- "It is well you have saved this one. Populations of Splendid Mergoo have been in sharp decline since the arrival of the Grineer." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchMergooSplendid0890Teasonai_en.ogg)
+
+#### Mimic with Echo Lure
+
+- "A Vasca Kavat. [sigh] An invasive, nocturnal species carrying the symbiotic Vasca virus. They are stealthy, and extremely aggressive. Be careful. And one last thing: should any kavat companions be... bitten... you should secure an antidote quickly. Good luck." [音声](https://wiki.warframe.com/w/File:DTeaHuntCallVasca0000Teasonai_en.ogg)
+
+#### Sighting
+
+- **Ostia Vasca Kavat**
+- "The Ostia Vasca. Still coming to turns with its condition. Left unchecked, it will become apex predator or die in a matter of weeks, most do. Many Ostia are out here concealed, stalking, fighting for nourishment." [音声](https://wiki.warframe.com/w/File:DTeaHuntFirstOstia0000Teasonai_en.ogg)
+- **Bau Vasca Kavat**
+- "The Bau Vasca. An uncommon find. An Ostia Vasca drains many animals, including other Vasca, to survive long enough to become Bau. One look into its eyes will tell you it barely remembers the animal it once was." [音声](https://wiki.warframe.com/w/File:DTeaHuntFirstBau0000Teasonai_en.ogg)
+- **Nephil Vasca Kavat**
+- "The rare Nephil Vasca. The apex of manifestation Vasca virus colonization. Compelled by the virus' imperative to spread and consume, the Nephil knows little but hunger and death. They can be cured and rehabilitated, but it is a long, long road. We have best get started." [音声](https://wiki.warframe.com/w/File:DTeaHuntFirstNephil0000Teasonai_en.ogg)
+
+#### Call for Recovery
+
+- **Ostia Vasca Kavat**
+- "If they are engineered from fertilization, and if the virus is doctored, Vasca can be trained, even domesticated. Wild specimens? Very different." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOstia0000Teasonai_en.ogg)
+- "Ostia Vasca. I am researching a means to inoculate wild kavats against the virus, but... with little success as yet. Thank you for this." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOstia0010Teasonai_en.ogg)
+- "The local wildlife will appreciate this unnatural predator being taken out of circulation. I will administer a Vasca curative as soon as they arrive." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOstia0020Teasonai_en.ogg)
+- "Yet another Ostia Vasca. For every one we remove it seems two more appear. Almost as if in response to our efforts." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOstia0030Teasonai_en.ogg)
+- "You know, every now and then a melancholy Offworlder will arrive, thinking to get themselves Vasca-infected as a means to live forever. To many novels, I think." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchOstia0040Teasonai_en.ogg)
+- **Bau Vasca Kavat**
+- "Hunter, this particular Bau is close to going full Nephil. A timely catch." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchBau0000Teasonai_en.ogg)
+- "Look at the fight in this one. The viral load in its veins must be immense. I'll prepare a double-dose of curative." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchBau0010Teasonai_en.ogg)
+- "How many animals have been drained by this Bau? How many nests and lairs wiped out? Still, we cure and persevere." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchBau0020Teasonai_en.ogg)
+- "A weak little Ostia no more, are you? Well, before the week is out you'll be back to being a regular kavat - and happier for it I'm sure." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchBau0030Teasonai_en.ogg)
+- "I do love kavats. I hate what this loathsome virus makes of them. I'll be glad to cure this Bau, and find them a more suitable home." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchBau0040Teasonai_en.ogg)
+- **Nephil Vasca Kavat**
+- "A rare and hateful guest, this one. I think your welcome on the plains has been well overstayed." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchNephil0000Teasonai_en.ogg)
+- "This Nephil has been Vasca so long its digestive tract can no longer tolerate solid food. Just... blood. Rehabilitation will be difficult for this one." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchNephil0010Teasonai_en.ogg)
+- "This poor, wretched thing has been utterly overtaken by the virus, with no recollection of ever been kavat. It now exists only to spread the virus. But I will bring them back to themselves. I swear. They will love the sun once more." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchNephil0020Teasonai_en.ogg)
+- "Your time in the sunless lands are at a end, my anguished friend. I will lead you home." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchNephil0030Teasonai_en.ogg)
+- "Nephill Vasca. Look what the virus has done to a once-noble animal. It will be an honor to return this beast to itself. The curative is ready and waiting." [音声](https://wiki.warframe.com/w/File:DTeaHuntCatchNephil0040Teasonai_en.ogg)

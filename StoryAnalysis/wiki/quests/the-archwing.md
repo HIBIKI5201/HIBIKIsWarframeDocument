@@ -10,6 +10,8 @@
 
 Grineer の Balor Fomorian の脅威に対し、Orokin の遺跡から資源を集めて宇宙戦用のアークウイングを作るメインクエスト。Update 15.0（2014-10-24）で追加された。
 
+- 台詞全文（取り込み）: [The Archwing/Transcript](../../quotes/the-archwing-transcript.md)（59 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Archwing)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Archwing/Transcript) / [日本語 Wiki「アークウィング」](https://warframe.fandom.com/ja/wiki/%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0(%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88)) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-archwing.md) / [全文検索](../../search.html?q=The%20Archwing)
 
 ## 基本情報

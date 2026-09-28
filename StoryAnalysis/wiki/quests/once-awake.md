@@ -10,6 +10,8 @@ Grineer と Corpus の争いに関わる初期のクエスト
 
 Infested という勢力と、スパイ・防衛ミッションを新人プレイヤーに紹介するメインクエスト。
 
+- 台詞全文（取り込み）: [Once Awake/Transcript](../../quotes/once-awake-transcript.md)（59 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Once_Awake)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Once_Awake/Transcript) / [日本語 Wiki「博士の計略」](https://warframe.fandom.com/ja/wiki/%E5%8D%9A%E5%A3%AB%E3%81%AE%E8%A8%88%E7%95%A5) / [日本語 Wiki の取り込み](../../fandom-ja/pages/once-awake.md) / [全文検索](../../search.html?q=Once%20Awake)
 
 ## 基本情報

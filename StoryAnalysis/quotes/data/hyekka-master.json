@@ -1,0 +1,14 @@
+{
+ "key": "hyekka-master",
+ "title": "Hyekka Master/Quotes",
+ "url": "https://wiki.warframe.com/w/Hyekka_Master/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 12,
+ "idle": 5,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Hyekka Master dialogue and sounds.", null]]},
+  {"path": ["Upon Spotting the Player"], "idle": false, "lines": [["- \"Attaf!\" - \"Attack!\"", "GrnCatbrowHandlerAttack1.ogg"], ["- \"(growls)\"", "GrnCatbrowHandlerAttack2.ogg"], ["- \"Rhue, Tenno!\" - \"Die, Tenno!\"", "GrnCatbrowHandlerAttack3.ogg"], ["- \"Skum rats!\" - \"Scum rats!\"", "GrnCatbrowHandlerAttack4.ogg"], ["- \"Nor gar agre hura!(?)\" - \"Now you are mine!\"", "GrnCatbrowHandlerAttack5.ogg"], ["- \"Gogre(?) agrea grear.\" - \"Gore area clear.\"", "GrnCatbrowHandlerAttack6.ogg"]]},
+  {"path": ["Patrol Idle"], "idle": true, "lines": [["- \"(whistling)\"", "GrnCatbrowHandlerPatrol1.ogg"], ["- \"(whistling 'Three Blind Mice')\"", "GrnCatbrowHandlerPatrol2.ogg"], ["- \"Hu dede kohun de.(?)\" - \"I ???.\"", "GrnCatbrowHandlerPatrol3.ogg"], ["- \"Too many rahuras(?) everygrege.\" - \"Too many daidall(?) everywhere.\"", "GrnCatbrowHandlerPatrol4.ogg"], ["- \"Defenrung hun agrea, chekk klos.\" - \"Defending in area, check here.\"", "GrnCatbrowHandlerPatrol5.ogg"]]}
+ ]
+}

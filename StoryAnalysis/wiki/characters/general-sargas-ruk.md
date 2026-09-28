@@ -15,6 +15,7 @@
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [General Sargas Ruk/Quotes](../../quotes/general-sargas-ruk.md)（72 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/General_Sargas_Ruk)（英語・出典） / [全文検索](../../search.html?q=General%20Sargas%20Ruk)
 

@@ -1,0 +1,377 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Quotes
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Quotes」](https://wiki.warframe.com/w/Quotes)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+361 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- Portal page for WARFRAME's dialogue.
+
+## Quest Transcripts
+
+- A Favor For Darvo/Transcript
+- A Man of Few Words/Transcript
+- Angels of the Zariman/Transcript
+- Apostasy Prologue/Transcript
+- Awakening/Transcript
+- Call of the Tempestarii/Transcript
+- Chains of Harrow/Transcript
+- Chimera Prologue/Transcript
+- Erra (Quest)/Transcript
+- Heart of Deimos/Transcript
+- Hidden Messages/Transcript
+- Howl of the Kubrow/Transcript
+- Jade Shadows/Transcript
+- Jade Shadows: Constellations/Transcript
+- Mask of the Revenant/Transcript
+- Natah (Quest)/Transcript
+- Octavia's Anthem/Transcript
+- Once Awake/Transcript
+- Patient Zero/Transcript
+- Rising Tide/Transcript
+- Sands of Inaros/Transcript
+- Saya's Vigil/Transcript
+- Stolen Dreams/Transcript
+- The Archwing/Transcript
+- The Deadlock Protocol/Transcript
+- The Duviri Paradox/Transcript
+- The Glast Gambit/Transcript
+- The Hex (Quest)/Transcript
+- The Jordas Precept/Transcript
+- The Limbo Theorem/Transcript
+- The Lotus Eaters/Transcript
+- The Maker/Transcript
+- The New Strange/Transcript
+- The New War/Transcript
+- The Old Peace/Transcript
+- The Profit (Trailer)/Transcript
+- The Sacrifice/Transcript
+- The Second Dream/Transcript
+- The Silver Grove/Transcript
+- The Teacher/Transcript
+- The War Within/Transcript
+- The Waverider/Transcript
+- Ties That Bind/Transcript
+- Unnamed Warframe: Tau Quest/Transcript
+- Veilbreaker/Transcript
+- Vor's Prize/Transcript
+- Vox Solaris (Quest)/Transcript
+- Whispers in the Walls/Transcript
+- Zariman ARG/Transcript
+
+## Characters/NPCs Dialogue
+
+- Abyssal Zone/Quotes
+- Acolytes/Quotes
+- Acrithis/Quotes
+- Adis/Quotes
+- Alad V/Quotes
+- Albrecht Entrati/Quotes
+- Alchemy/Quotes
+- Amaryn/Quotes
+- Ambulas/Quotes
+- Amir/Quotes
+- Annihilation/Quotes
+- Aoi/Quotes
+- Arbiters of Hexis/Quotes
+- Arbitrations/Quotes
+- Archimedean Yonta/Quotes
+- Archon Hunt/Quotes
+- Arn Etina/Quotes
+- Arthur/Quotes
+- Aspirant Zorba/Quotes
+- Assassination/Quotes
+- Assault/Quotes
+- Avalanche Offensive/Quotes
+- Ballas/Quotes
+- Baro Ki'Teer/Quotes
+- Barris/Quotes
+- Bombastine/Quotes
+- Boon/Quotes
+- Bounty/Quotes
+- Break Narmer/Quotes
+- Brimon/Quotes
+- Cambion Drift/Quotes
+- Captain Vor/Quotes
+- Capture/Quotes
+- Cavalero/Quotes
+- Cavia/Quotes
+- Cephalon Capture/Quotes
+- Cephalon Cy/Quotes
+- Cephalon Jordas/Quotes
+- Cephalon Melica/Quotes
+- Cephalon Simaris/Quotes
+- Cephalon Suda/Quotes
+- Cetus/Quotes
+- Chipper/Quotes
+- Choralyst/Quotes
+- Clem/Quotes
+- Comba/Quotes
+- Corpus Commander/Quotes
+- Corpus Gas City/Quotes
+- Corpus Ship/Quotes
+- Corpus Target/Quotes
+- Corpus/Quotes
+- Councilor Vay Hek/Quotes
+- Cressa Tal/Quotes
+- Daily Tribute/Quotes
+- Dargyn Pilot/Quotes
+- Darvo/Quotes
+- Daughter/Quotes
+- Deep Archimedea/Quotes
+- Deepmines/Quotes
+- Defection/Quotes
+- Defense/Quotes
+- Disruption/Quotes
+- Dog Days/Quotes
+- Dominus Thrax/Quotes
+- Drahk Master/Quotes
+- Drifter/Quotes
+- Drillbit/Quotes
+- Drusus/Quotes
+- Duviri/Quotes
+- Eidolon Teralyst/Quotes
+- Eidolon/Quotes
+- Eleanor/Quotes
+- Empyrean/Quotes
+- Entrati/Quotes
+- Ergo Glast/Quotes
+- Erra (Character)/Quotes
+- Eudico/Quotes
+- Excavation/Quotes
+- Executor Tuvul/Quotes
+- Eximus/Quotes
+- Exploiter Orb/Quotes
+- Exterminate/Quotes
+- Fables & Frontiers/Quotes
+- Faceoff/Quotes
+- Father/Quotes
+- Fibonacci/Quotes
+- Fisher Hai-Luk/Quotes
+- Flare/Quotes
+- Follie's Hunt/Quotes
+- Fortuna/Quotes
+- Frohd Bek/Quotes
+- General Sargas Ruk/Quotes
+- Ghoul Auger/Quotes
+- Ghoul Devourer/Quotes
+- Ghoul Expired/Quotes
+- Ghoul Purge/Quotes
+- Ghoul Rictus/Quotes
+- Ghoul/Quotes
+- Grandmother/Quotes
+- Granum Void/Quotes
+- Grineer Asteroid Fortress/Quotes
+- Grineer Queens/Quotes
+- Grineer Target/Quotes
+- Grineer/Quotes
+- Helminth/Quotes
+- Hijack/Quotes
+- Hok/Quotes
+- Hombask/Quotes
+- Horrek/Quotes
+- Hunhow/Quotes
+- Hyekka Master/Quotes
+- Höllvania Central Mall/Quotes
+- Infested Salvage/Quotes
+- Interception/Quotes
+- Invasion/Quotes
+- Isaah/Quotes
+- Isleweaver/Quotes
+- Isolation Vault/Quotes
+- Itzam/Quotes
+- Jackal/Quotes
+- Jarka Lar/Quotes
+- Junction/Quotes
+- Ka-Nuteru/Quotes
+- Kahl's Garrison/Quotes
+- Kahl-175/Quotes
+- Kaya/Quotes
+- Kela De Thaym/Quotes
+- Kira/Quotes
+- Konzu/Quotes
+- Koral/Quotes
+- Koumei's Shrine/Quotes
+- Kuva Guardian/Quotes
+- Kuva Lich/Quotes
+- La Cathédrale/Quotes
+- Latrox Une/Quotes
+- Legacyte Harvest/Quotes
+- Legs/Quotes
+- Lephantis/Quotes
+- Leticia/Quotes
+- Lieutenant Lech Kril/Quotes
+- Lieutenant Viktor Vodyanoi/Quotes
+- Little Duck/Quotes
+- Lodun/Quotes
+- Loid (Original)/Quotes
+- Loid/Quotes
+- Lotus/Quotes
+- Lunaro/Quotes
+- Luscinia/Quotes
+- Lyon/Quotes
+- Major Neci Rusalka/Quotes
+- Manic/Quotes
+- Margulis/Quotes
+- Marie/Quotes
+- Maroo/Quotes
+- Master Teasonai/Quotes
+- Mastery Rank/Quotes
+- Mathila/Quotes
+- Minerva/Quotes
+- Mirror Defense/Quotes
+- Mobile Defense/Quotes
+- Mother/Quotes
+- Mutalist Alad V/Quotes
+- Nakak/Quotes
+- Natah/Quotes
+- Nef Anyo/Quotes
+- Netracells/Quotes
+- New Loka/Quotes
+- Nightcap/Quotes
+- Nights of Naberus/Quotes
+- Nihil/Quotes
+- Nora Night/Quotes
+- Nox/Quotes
+- Old Man Suumbaat/Quotes
+- Ollie's Crash Course/Quotes
+- Olvar D/Quotes
+- Onkko/Quotes
+- Operation Sling-Stone/Quotes
+- Operation: Ambulas Reborn/Quotes
+- Operation: Arid Fear/Quotes
+- Operation: Atramentum/Quotes
+- Operation: Blood of Perita/Quotes
+- Operation: Breeding Grounds/Quotes
+- Operation: Buried Debts/Quotes
+- Operation: Cryotic Front/Quotes
+- Operation: Eight Claw/Quotes
+- Operation: Eyes of Blight/Quotes
+- Operation: False Profit/Quotes
+- Operation: Gargoyle's Cry/Quotes
+- Operation: Gate Crash/Quotes
+- Operation: Mutalist Incursions/Quotes
+- Operation: Orphix Venom/Quotes
+- Operation: Oxium Espionage/Quotes
+- Operation: Plague Star/Quotes
+- Operation: Rathuum/Quotes
+- Operation: Scarlet Spear/Quotes
+- Operation: Shadow Debt/Quotes
+- Operation: The Pacifism Defect/Quotes
+- Operation: Tubemen of Regor/Quotes
+- Operator/Quotes
+- Orb Vallis/Quotes
+- Orbiter/Quotes
+- Ordis/Quotes
+- Orokin Vault/Quotes
+- Orowyrm/Quotes
+- Orphix (Mission)/Quotes
+- Otak/Quotes
+- Parvos Granum/Quotes
+- Pazuul/Quotes
+- Phorid/Quotes
+- Pip/Quotes
+- Plains of Eidolon/Quotes
+- Profit-Taker Orb/Quotes
+- Pursuit/Quotes
+- Quincy/Quotes
+- Quinn/Quotes
+- Railjack/Crew/Quotes
+- Raptors/Quotes
+- Rathuum/Quotes
+- Razorback/Quotes
+- Recovery/Quotes
+- Red Veil/Quotes
+- Regulator/Quotes
+- Relay/Quotes
+- Rescue/Quotes
+- Roathe/Quotes
+- Roky/Quotes
+- Ropalolyst/Quotes
+- Rude Zuud/Quotes
+- Rush (Archwing)/Quotes
+- Ryoku/Quotes
+- Sabotage/Quotes
+- Sanctuary Onslaught/Quotes
+- Saturn Six Fugitive/Quotes
+- Saya/Quotes
+- Scaldra Screamer/Quotes
+- Scaldra/Quotes
+- Scoria's Angel/Quotes
+- Scrambus/Quotes
+- Sentient/Quotes
+- Shrine Defense/Quotes
+- Sigor Savah/Quotes
+- Silvana/Quotes
+- Sisters of Parvos/Quotes
+- Skirmish/Quotes
+- Skittergirl/Quotes
+- Smokefinger/Quotes
+- Solaris United Agent/Quotes
+- Son/Quotes
+- Specters of Liberty/Quotes
+- Sprag/Quotes
+- Spy 1.0/Quotes
+- Spy/Quotes
+- Stalker/Quotes
+- Star Days/Quotes
+- Steel Meridian/Quotes
+- Survival/Quotes
+- Suspicious Shipments/Quotes
+- Sythel/Quotes
+- Tactical Alert/Blackout/Quotes
+- Tactical Alert/Galleon of Ghouls/Quotes
+- Tactical Alert/Quotes
+- Tagfer/Quotes
+- Team Annihilation/Quotes
+- Technocyte Coda/Quotes
+- Temporal Archimedea/Quotes
+- Tenno/Quotes
+- Teshin's Cave/Quotes
+- Teshin/Quotes
+- Tethra's Doom/Quotes
+- The Business/Quotes
+- The Cicero Crisis/Quotes
+- The Descendia/Quotes
+- The Gradivus Dilemma/Quotes
+- The Holdfasts/Quotes
+- The Hunt for Alad V/Quotes
+- The Husband/Quotes
+- The Index/Quotes
+- The Jordas Verdict/Quotes
+- The Kuva Wytch/Quotes
+- The Law of Retribution/Quotes
+- The Man in the Wall/Quotes
+- The Murmur/Quotes
+- The Perita Rebellion/Quotes
+- The Perrin Sequence/Quotes
+- The Prince/Quotes
+- The Pyrus Project/Quotes
+- The Sergeant/Quotes
+- The Steel Path/Quotes
+- Thermia Fractures/Quotes
+- Thrax/Quotes
+- Ticker/Quotes
+- Treasurer/Quotes
+- Tyl Regor/Quotes
+- VERD-IE/Quotes
+- Vala Glarios/Quotes
+- Varzia/Quotes
+- Velimir/Quotes
+- Ven'kra Tel/Quotes
+- Vena/Quotes
+- Ventkids/Quotes
+- Victory Plaza/Quotes
+- Void Angel/Quotes
+- Void Armageddon/Quotes
+- Void Cascade/Quotes
+- Void Flood/Quotes
+- Void Surplus/Quotes
+- Volatile/Quotes
+- Vox/Quotes
+- Xeto/Quotes
+- Zariman Ten Zero/Quotes
+- Zealoid Prelate/Quotes

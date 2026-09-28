@@ -1,0 +1,15 @@
+{
+ "key": "sentient",
+ "title": "Sentient/Quotes",
+ "url": "https://wiki.warframe.com/w/Sentient/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 11,
+ "idle": 6,
+ "sections": [
+  {"path": ["Drone", "Spawn"], "idle": false, "lines": [["- Variation A / Variation B / Variation C", null]]},
+  {"path": ["Drone", "Choir"], "idle": false, "lines": [["- Variation A / Variation B / Variation C", null]]},
+  {"path": ["Choralyst", "Idle"], "idle": true, "lines": [["- \"Aaah Oweyo\"", null], ["- \"Eho Wayoo\"", null], ["- \"Ooweyoooaai\"", null], ["- \"Weyoo\"", null], ["- \"Yaawo Uh Yee\"", null], ["- \"Megada Oweyoooei\"", null]]},
+  {"path": ["Choralyst", "Attacking"], "idle": false, "lines": [["- \"Oooh Yooo\"", null], ["- \"Ooweyoeyo Oooh\"", null], ["- \"Wayoeyoweyoeyo\"", null]]}
+ ]
+}

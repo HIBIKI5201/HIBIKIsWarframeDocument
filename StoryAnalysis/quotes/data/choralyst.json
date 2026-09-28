@@ -1,0 +1,13 @@
+{
+ "key": "choralyst",
+ "title": "Choralyst/Quotes",
+ "url": "https://wiki.warframe.com/w/Choralyst/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 9,
+ "idle": 6,
+ "sections": [
+  {"path": ["Idle"], "idle": true, "lines": [["- \"Aaah Oweyo\"", null], ["- \"Eho Wayoo\"", null], ["- \"Ooweyoooaai\"", null], ["- \"Weyoo\"", null], ["- \"Yaawo Uh Yee\"", null], ["- \"Megada Oweyoooei\"", null]]},
+  {"path": ["Attacking"], "idle": false, "lines": [["- \"Oooh Yooo\"", null], ["- \"Ooweyoeyo Oooh\"", null], ["- \"Wayoeyoweyoeyo\"", null]]}
+ ]
+}

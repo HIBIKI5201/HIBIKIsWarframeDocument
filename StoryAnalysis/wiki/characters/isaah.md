@@ -14,6 +14,7 @@ The Sacrifice に登場する Dax の兵士
 
 - グループ: [Orokin](g06-orokin.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Isaah/Quotes](../../quotes/isaah.md)（16 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Isaah)（英語・出典） / [全文検索](../../search.html?q=Isaah)
 

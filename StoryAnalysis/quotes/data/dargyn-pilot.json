@@ -1,0 +1,14 @@
+{
+ "key": "dargyn-pilot",
+ "title": "Dargyn Pilot/Quotes",
+ "url": "https://wiki.warframe.com/w/Dargyn_Pilot/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 18,
+ "idle": 0,
+ "sections": [
+  {"path": ["Attacking From Dargyn"], "idle": false, "lines": [["- \"???\" - \"??\"", "BbYellFromSkiffEidolonSkiffGrineer0210_en.ogg"], ["- \"???\" - \"??\"", "BbYellFromSkiffEidolonSkiffGrineer0220_en.ogg"], ["- \"???\" - \"??\"", "BbYellFromSkiffEidolonSkiffGrineer0230_en.ogg"], ["- \"???\" - \"??\"", "BbYellFromSkiffEidolonSkiffGrineer0240_en.ogg"], ["- \"???\" - \"??\"", "BbYellFromSkiffEidolonSkiffGrineer0250_en.ogg"]]},
+  {"path": ["On The Ground While Attacking"], "idle": false, "lines": [["- \"(screams)\"", "BbAttackEidolonSkiffGrineer0110_en.ogg"], ["- \"(screams)\"", "BbAttackEidolonSkiffGrineer0120_en.ogg"], ["- \"Attaf!\" - \"Attack!\"", "BbAttackEidolonSkiffGrineer0130_en.ogg"], ["- \"???\" - \"??\"", "BbAttackEidolonSkiffGrineer0140_en.ogg"], ["- \"???\" - \"??\"", "BbAttackEidolonSkiffGrineer0150_en.ogg"], ["- \"Forrirr!\" - \"Forward!\"", "BbAttackEidolonSkiffGrineer0151_en.ogg"], ["- \"???\" - \"??\"", "BbAttackEidolonSkiffGrineer0152_en.ogg"], ["- \"???\" - \"??\"", "BbAttackEidolonSkiffGrineer0153_en.ogg"]]},
+  {"path": ["On The Ground Spotting Player"], "idle": false, "lines": [["- \"Spotter!\" - \"Spotted!\"", "BbPlayerSpottedEidolonSkiffGrineer0160_en.ogg"], ["- \"Nothre Tenno!\" - \"??\"", "BbPlayerSpottedEidolonSkiffGrineer0170_en.ogg"], ["- \"Mehohare?\" - \"??\"", "BbPlayerSpottedEidolonSkiffGrineer0180_en.ogg"], ["- \"???\" - \"??\"", "BbPlayerSpottedEidolonSkiffGrineer0190_en.ogg"], ["- \"???\" - \"??\"", "BbPlayerSpottedEidolonSkiffGrineer0200_en.ogg"]]}
+ ]
+}

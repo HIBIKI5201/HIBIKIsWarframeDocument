@@ -15,6 +15,7 @@ Grineer からの離反者。Darvo の協力者
 
 - グループ: [中立](g13.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Clem/Quotes](../../quotes/clem.md)（8 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Clem)（英語・出典） / [日本語 Wiki「Clem」](https://warframe.fandom.com/ja/wiki/Clem) / [日本語 Wiki の取り込み](../../fandom-ja/pages/clem.md) / [全文検索](../../search.html?q=Clem)
 

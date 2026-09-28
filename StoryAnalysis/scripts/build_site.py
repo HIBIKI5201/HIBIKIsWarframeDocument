@@ -211,6 +211,11 @@ def pages() -> list[tuple[Path, str]]:
     for p in sorted((ROOT / "wiki").rglob("*.md")):
         rel = p.relative_to(ROOT).with_suffix(".html").as_posix()
         result.append((p, rel))
+    if (ROOT / "quotes" / "README.md").exists():
+        result.append((ROOT / "quotes" / "README.md", "quotes/index.html"))
+    for p in sorted((ROOT / "quotes").glob("*.md")):
+        if p.name != "README.md":
+            result.append((p, f"quotes/{p.stem}.html"))
     if (ROOT / "fandom-ja" / "README.md").exists():
         result.append((ROOT / "fandom-ja" / "README.md", "fandom-ja/index.html"))
     for p in sorted((ROOT / "fandom-ja").rglob("*.md")):
@@ -235,7 +240,8 @@ def toc_html(headings: list[tuple[int, str, str]]) -> str:
 
 
 KINDS = [("wiki/characters/", "キャラ"), ("wiki/quests/", "クエスト"), ("characters.html", "キャラ"),
-         ("quests.html", "クエスト"), ("glossary.html", "用語"), ("sources/", "資料"), ("fandom-ja/", "日本語Wiki")]
+         ("quests.html", "クエスト"), ("glossary.html", "用語"), ("quotes/", "セリフ"), ("sources/", "資料"),
+         ("fandom-ja/", "日本語Wiki")]
 
 
 def kind_of(rel: str) -> str:
@@ -273,7 +279,7 @@ def build() -> None:
     base = Template((TEMPLATES / "base.html").read_text(encoding="utf-8"))
     built = datetime.now().strftime("%Y-%m-%d %H:%M")
     nav = [("index.html", "ホーム"), ("characters.html", "キャラ"), ("quests.html", "クエスト"), ("glossary.html", "用語"),
-           ("sources/index.html", "資料"), ("fandom-ja/index.html", "日本語Wiki"), ("search.html", "検索")]
+           ("quotes/index.html", "セリフ"), ("sources/index.html", "資料"), ("fandom-ja/index.html", "日本語Wiki"), ("search.html", "検索")]
 
     index: list[dict] = []
     global current_src
@@ -294,9 +300,12 @@ def build() -> None:
     search = (TEMPLATES / "search.html").read_text(encoding="utf-8")
     write("search.html", base.substitute(title="検索", root="", nav=nav_html("", "search.html", nav),
                                          content=search, built=built, search_ui=""))
-    (SITE / "static" / "search-index.js").write_text(
-        "window.SEARCH_INDEX = " + json.dumps(index, ensure_ascii=False, separators=(",", ":")) + ";\n",
-        encoding="utf-8")
+    # セリフ集は大きいので別のファイルにし、検索ページを開いたあとで読み込む（app.js）
+    for name, var, entries in (("search-index.js", "SEARCH_INDEX", [e for e in index if e["k"] != "セリフ"]),
+                               ("search-quotes.js", "SEARCH_INDEX_QUOTES", [e for e in index if e["k"] == "セリフ"])):
+        (SITE / "static" / name).write_text(
+            f"window.{var} = " + json.dumps(entries, ensure_ascii=False, separators=(",", ":")) + ";\n",
+            encoding="utf-8")
     (SITE / "static" / "entities.js").write_text(
         "window.ENTITIES = " + json.dumps(entities(), ensure_ascii=False, separators=(",", ":")) + ";\n",
         encoding="utf-8")

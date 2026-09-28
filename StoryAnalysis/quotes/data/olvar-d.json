@@ -1,0 +1,17 @@
+{
+ "key": "olvar-d",
+ "title": "Olvar D/Quotes",
+ "url": "https://wiki.warframe.com/w/Olvar_D/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "olvar-d",
+  "name": "Olvar D",
+  "page": "Olvar D"
+ },
+ "count": 15,
+ "idle": 15,
+ "sections": [
+  {"path": ["Idle", "Rank 4 - Settlement"], "idle": true, "lines": [["- Olvar D: \"I will never forget the man who gave his life for us. The man whose sacrifice showed us the way. We honor his name. Veko.\"", "DVeilRankThreeFour1530OlvarD_en.ogg"], ["- Olvar D: \"So... most Solaris don't like what they do. Huh. Though Chipper did offer to take off my head so I could see if I liked it.\"", "DVeilRankThreeFour1540OlvarD_en.ogg"], ["- Olvar D: \"Deep-fried Pobber sure takes some getting used to. Fortunately, my suit's recyc system is still online.\"", "DVeilRankThreeFour1550OlvarD_en.ogg"], ["- Olvar D: \"I feel sick.\"", "DVeilRankThreeFour1560OlvarD_en.ogg"], ["- Olvar D: \"I tried cooking. Horrek was very excited about it. How do I treat burns?\"", "DVeilRankThreeFour1570OlvarD_en.ogg"]]},
+  {"path": ["Idle", "Rank 5 - Home"], "idle": true, "lines": [["- Olvar D: \"Jarka seems nice. I told her that we were taught the Grineer hated people like me. She told me I was right. See? Grineer helping Corpus. Who would've thought? This place is great.\"", "DVeilRankFour1580OlvarD_en.ogg"], ["- Olvar D: \"I'm having all these feelings. I've never been allowed to have feelings. I think I'm having feelings about my feelings. And feelings about that. Wow. Being outside is a lot of work, isn't it?\"", "DVeilRankFour1590OlvarD_en.ogg"], ["- Olvar D: \"We allll lift together...\"", "DVeilRankFour1600OlvarD_en.ogg"], ["- Olvar D: \"You don't see the animals go into war with each other. Nope, they all just get along. I wonder what they eat.\"", "DVeilRankFour1610OlvarD_en.ogg"], ["Olvar D: \"Horrek, would you like help with-\"", "DVeilRankFour1620OlvarD_en.ogg"], ["Horrek: \"NO!\"", "DVeilRankFour1630Horrek_en.ogg"], ["- Olvar D: \"Okay then!\"", "DVeilRankFour1640OlvarD_en.ogg"], ["Jarka: \"The Corpus boy is easy target. Very slow and very stupid.\"", "DVeilRankFour1760Jarka_en.ogg"], ["Olvar D: \"Hey.\"", "DVeilRankFour1770OlvarD_en.ogg"], ["- Jarka: \"Or is he? Perhaps it is all Jarka's clever trap. Perhaps anything that comes for the Corpus boy will DIE! Safer just to walk away, yes.\"", "DVeilRankFour1780Jarka_en.ogg"]]}
+ ]
+}

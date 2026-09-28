@@ -10,6 +10,8 @@ Kahl-175 を中心に、Narmer との戦いを描く
 
 Daughter が Narmer の Murex からの援軍要請の調査を Tenno に頼むが、思っていた以上の事態になるサイドクエスト。ソロ専用で、Update 32.0（2022-09-07）で追加された。Deimos 近くに Murex が現れ、Narmer が立ち直りつつあることがわかる一方、Grineer の Lancer である Kahl-175 は Narmer の支配から脱し、兄弟たちを解放するための戦いを続ける。
 
+- 台詞全文（取り込み）: [Veilbreaker/Transcript](../../quotes/veilbreaker-transcript.md)（122 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Veilbreaker)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Veilbreaker/Transcript) / [全文検索](../../search.html?q=Veilbreaker)
 
 ## 基本情報

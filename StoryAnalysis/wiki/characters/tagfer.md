@@ -13,6 +13,7 @@ Cavia のメンバー
 
 - グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Tagfer/Quotes](../../quotes/tagfer.md)（177 行、うち独り言など 46 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Tagfer)（英語・出典） / [全文検索](../../search.html?q=Tagfer)
 

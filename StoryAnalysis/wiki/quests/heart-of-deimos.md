@@ -10,6 +10,8 @@ Deimos の Entrati 家と出会い、Necralisk と Cambion Drift の秘密に触
 
 Infested に覆われた Deimos の奥にある「心臓（Heart）」と、それを守ろうとする Orokin の一族 Entrati を描くメインクエスト。ソロ専用で、Update 29.0（2020-08-25）で追加された。
 
+- 台詞全文（取り込み）: [Heart of Deimos/Transcript](../../quotes/heart-of-deimos-transcript.md)（219 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Heart_of_Deimos)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Heart_of_Deimos/Transcript) / [日本語 Wiki「ダイモスの心臓」](https://warframe.fandom.com/ja/wiki/%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9%E3%81%AE%E5%BF%83%E8%87%93) / [日本語 Wiki の取り込み](../../fandom-ja/pages/heart-of-deimos.md) / [全文検索](../../search.html?q=Heart%20of%20Deimos)
 
 ## 基本情報

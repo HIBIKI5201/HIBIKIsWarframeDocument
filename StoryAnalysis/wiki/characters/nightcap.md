@@ -13,6 +13,7 @@ Deepmines を調べる Solaris
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Nightcap/Quotes](../../quotes/nightcap.md)（83 行、うち独り言など 16 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nightcap)（英語・出典） / [全文検索](../../search.html?q=Nightcap)
 

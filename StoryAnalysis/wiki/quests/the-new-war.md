@@ -10,6 +10,8 @@ Sentient と Narmer の侵攻に対し、太陽系全体を巻き込んだ戦争
 
 Natah、Erra、Ballas に率いられた Sentient が太陽系の完全支配を目指して戻り、Tenno・Grineer・Corpus を相手に総力戦を仕掛けるメインクエスト。ソロ専用で、Update 31.0（2021-12-15）で追加された。
 
+- 台詞全文（取り込み）: [The New War/Transcript](../../quotes/the-new-war-transcript.md)（925 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_New_War)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_New_War/Transcript) / [全文検索](../../search.html?q=The%20New%20War)
 
 ## 基本情報

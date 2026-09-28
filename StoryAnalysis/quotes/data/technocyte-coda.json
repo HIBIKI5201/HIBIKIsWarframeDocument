@@ -1,0 +1,20 @@
+{
+ "key": "technocyte-coda",
+ "title": "Technocyte Coda/Quotes",
+ "url": "https://wiki.warframe.com/w/Technocyte_Coda/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "technocyte-coda",
+  "name": "Technocyte Coda",
+  "page": "Technocyte Coda"
+ },
+ "count": 22,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["The \"personality\" of the Technocyte Coda is chosen from one of the On-lyne members: Harddrive, Zeke, Drillbit, Packet, or DJ RoM.", null]]},
+  {"path": ["Creation"], "idle": false, "lines": [["- Arthur: \"Okay. Aoi says: \"Tell the Drifter they are now being hunted by On-lyne, only it's not them, it's the Techrot, it stole their shapes, oh sweet Lua, this is horrible. Emoticon. Emoticon. Emoticon.\"\"", "DTechrotCodaSpawnBarks0220Arthur_en.ogg"], ["- Arthur: \"Techrot's awake. Hungry. Taking on a new form. I think it's trying to become.... the, uh... On-lyne boys..?\"", "DTechrotCodaSpawnBarks0210Arthur_en.ogg"], ["- Arthur: \"It turns out Aoi's conspiracy theories were true: On-lyne really have been cloned and used to create Techrot parodies. I'm sorry to say you just attracted their attention.\"", "DTechrotCodaSpawnBarks0230Arthur_en.ogg"], ["- Arthur: \"Drifter, new Techrot Coda just hatched. Tracking your Void-saturated DNA signature. Has an expiry date of... never. You might be stuck with this one for a while.\"", "DTechrotCodaSpawnBarks0240Arthur_en.ogg"], ["- Arthur: \"If Amir's take on the situation is accurate you are now being stalked by a knockoff clone of a popular late twentieth century boyband. If you need backup, you know where to find us.\"", "DTechrotCodaSpawnBarks0250Arthur_en.ogg"], ["- Arthur: \"Viruses are dangerous, Techrot viruses are lethal. The one you just created has based itself on On-lyne for reasons I can't even pretend to fathom. But I doubt mimicking a boyband will make it any less of a headache.\"", "DTechrotCodaSpawnBarks0260Arthur_en.ogg"]]},
+  {"path": ["Inbox Message after Defeat", "Vanquish"], "idle": false, "lines": [["> “Technocyte Coda Vanquished: [ADVERSARY NAME]", null], ["> Operator,", null], ["> In the process of your pressing eject on [ADVERSARY NAME], Ordis recovered the following. Maybe Eleanor would be interested to see the Live Heartcells? Ordis remains YOUR biggest fan.", null], ["> Your loyal Cephalon,", null], ["> -Ordis”", null]]},
+  {"path": ["Inbox Message after Defeat", "Convert"], "idle": false, "lines": [["> “Supergroup?", null], ["> Hey [PLAYER NAME],", null], ["> What a show! What do you say to MERGING OUR FECUND CELLS and forming a Supergroup? I bet we could really EVISCERATE the charts!", null], ["> I've already got some new track ideas to ACHIEVE TOTAL SYSTEM DOMINANCE!", null], ["> [ADVERSARY NAME]”", null]]},
+  {"path": ["Different Personalities"], "idle": false, "lines": [["- Harddrive/Quotes", null], ["- Zeke/Quotes", null], ["- Drillbit/Quotes", null], ["- Packet/Quotes", null], ["- DJ RoM/Quotes", null]]}
+ ]
+}

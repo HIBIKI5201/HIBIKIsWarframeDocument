@@ -10,6 +10,8 @@ Cetus の Saya の頼みで、夫 Onkko と Gara の伝説を追う
 
 Plains of Eidolon に長年埋もれてきた謎を追い、Ostron の長老たちと、行方不明になった Eidolon の研究者の真相に迫るサイドクエスト。ソロ専用で、Update 22.0（2017-10-12）で追加された。
 
+- 台詞全文（取り込み）: [Saya's Vigil/Transcript](../../quotes/saya-s-vigil-transcript.md)（104 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Saya's_Vigil)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Saya's_Vigil/Transcript) / [日本語 Wiki「Sayaの眼」](https://warframe.fandom.com/ja/wiki/Saya%E3%81%AE%E7%9C%BC) / [日本語 Wiki の取り込み](../../fandom-ja/pages/saya-s-vigil.md) / [全文検索](../../search.html?q=Saya%27s%20Vigil)
 
 ## 基本情報

@@ -10,6 +10,8 @@ Plains of Eidolon の Nakak と Eidolon の伝承から Revenant を手に入れ
 
 Cetus の商人 Nakak が謎の仮面を売り、その仮面が見せる幻を通じて、Sentient の Eidolon の復活を防ぐために残された Warframe の物語が明かされるサイドクエスト。Update 23.5（2018-08-24）で追加された。
 
+- 台詞全文（取り込み）: [Mask of the Revenant/Transcript](../../quotes/mask-of-the-revenant-transcript.md)（25 行、うち独り言など 1 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Mask_of_the_Revenant)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Mask_of_the_Revenant/Transcript) / [全文検索](../../search.html?q=Mask%20of%20the%20Revenant)
 
 ## 基本情報

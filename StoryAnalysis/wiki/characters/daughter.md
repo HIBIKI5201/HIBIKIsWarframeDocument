@@ -14,6 +14,7 @@ Entrati 家の娘
 
 - グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Daughter/Quotes](../../quotes/daughter.md)（129 行、うち独り言など 9 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Daughter)（英語・出典） / [全文検索](../../search.html?q=Daughter)
 

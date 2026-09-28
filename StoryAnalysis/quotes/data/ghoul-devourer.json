@@ -1,0 +1,14 @@
+{
+ "key": "ghoul-devourer",
+ "title": "Ghoul Devourer/Quotes",
+ "url": "https://wiki.warframe.com/w/Ghoul_Devourer/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 17,
+ "idle": 0,
+ "sections": [
+  {"path": ["Spawn"], "idle": false, "lines": [["- Ghoul Devourer: \"Attaf!\" - \"Attack!\"", "BbSpawnGrinGhoulDev00250_en.ogg"], ["- Ghoul Devourer: \"(roars)\"", "BbSpawnGrinGhoulDev00260_en.ogg"], ["- Ghoul Devourer: \"Krush!\" - \"Crush!\"", "BbSpawnGrinGhoulDev00270_en.ogg"], ["- Ghoul Devourer: \"Krush!\" - \"Crush!\"", "BbSpawnGrinGhoulDev00280_en.ogg"], ["- Ghoul Devourer: \"Smash!\" - \"Smash!\"", "BbSpawnGrinGhoulDev00290_en.ogg"]]},
+  {"path": ["Player Spotted"], "idle": false, "lines": [["- Ghoul Devourer: \"???\"", "BbPlayerSpottedGrinGhoulDev00400_en.ogg"], ["- Ghoul Devourer: \"???\"", "BbPlayerSpottedGrinGhoulDev00410_en.ogg"], ["- Ghoul Devourer: \"Smash goor!\" - \"Smash good!\"", "BbPlayerSpottedGrinGhoulDev00420_en.ogg"], ["- Ghoul Devourer: \"Yummy yummy!\" - \"Yummy yummy!\"", "BbPlayerSpottedGrinGhoulDev00430_en.ogg"]]},
+  {"path": ["Attacking"], "idle": false, "lines": [["- Ghoul Devourer: \"Krarge!\" - \"Charge!\"", "BbAttackGrinGhoulDev00300_en.ogg"], ["- Ghoul Devourer: \"\" - \"\"", "BbAttackGrinGhoulDev00310_en.ogg"], ["- Ghoul Devourer: \"Attaf!\" - \"Attack!\"", "BbAttackGrinGhoulDev00320_en.ogg"], ["- Ghoul Devourer: \"Krush!\" - \"Crush!\"", "BbAttackGrinGhoulDev00330_en.ogg"], ["- Ghoul Devourer: \"Smash!\" - \"Smash!\"", "BbAttackGrinGhoulDev00340_en.ogg"], ["- Ghoul Devourer: \"\" - \"\"", "BbAttackGrinGhoulDev00350_en.ogg"], ["- Ghoul Devourer: \"\" - \"\"", "BbAttackGrinGhoulDev00360_en.ogg"], ["- Ghoul Devourer: \"\" - \"\"", "BbAttackGrinGhoulDev00370_en.ogg"]]}
+ ]
+}

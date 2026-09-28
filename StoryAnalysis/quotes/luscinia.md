@@ -1,0 +1,218 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Luscinia/Quotes
+
+[セリフ集の一覧](README.md) › キャラクター
+
+出典: [WARFRAME Wiki「Luscinia/Quotes」](https://wiki.warframe.com/w/Luscinia/Quotes) / このサイトのページ: [Luscinia](../wiki/characters/luscinia.md)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+97 行（うち独り言・待機中・雑談など 10 行）。英語原文。
+
+- Dialogue spoken by Luscinia.
+
+## Idle in Chamber of the Muses
+
+- Luscinia: "Did you come to mock me?" [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11100Luscinia_en.ogg)
+- Luscinia: "If you dare come to me with pity, I shall throw it back in your face." [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11110Luscinia_en.ogg)
+- Luscinia: "Do you see the marks his anger left on the land?" [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11120Luscinia_en.ogg)
+- Luscinia: "I weep for ownerless toys, and empty chairs, letters unsent, and love long forgotten. Should I weep for you too?" [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11130Luscinia_en.ogg)
+- Luscinia: "Bombastine envies me, the King's favorite. He wishes we could trade places. So do I." [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11140Luscinia_en.ogg)
+- Luscinia: "If the Void truly preserves consciousness, then there is no hope of an end!" [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11150Luscinia_en.ogg)
+- Luscinia: "I was created to be Sorrow, written into being, to serve as a lesson... can that change?" [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11160Luscinia_en.ogg)
+- Luscinia: "I have known happiness, even love. I shall not speak of it, I shall only sing." [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11170Luscinia_en.ogg)
+- Luscinia: "The fish never complains of the salt of the sea, for it is all he has ever known, but I, I cannot forget what once was." [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11180Luscinia_en.ogg)
+- Luscinia: "Again, and again, I lose myself, and devastation follows." [音声](https://wiki.warframe.com/w/File:DGenBarksNoMoodLuscinia11090Luscinia_en.ogg)
+
+## The Sorrowful Soprano
+
+- During Sorrow Spirals in Duviri, the Drifter has the opportunity to play through the tale of The Sorrowful Soprano, centering on Luscinia, as part of the Tales of Duviri. As with the rest of the tales, they are narrated by Euleria Entrati.
+
+### Intro
+
+- Euleria Entrati: "The Sorrowful Soprano" [音声](https://wiki.warframe.com/w/File:DTransLuscinia425Mother_en.ogg)
+- Euleria Entrati: "Sorrow is a poison, and yet some drink it like wine. One such was Luscinia." [音声](https://wiki.warframe.com/w/File:DIntroLuscinia430Mother_en.ogg)
+- Euleria Entrati: "Sorrow is the bitter spice without which life is too sweet. Luscinia indulged in it… to excess." [音声](https://wiki.warframe.com/w/File:DIntroLuscinia440Mother_en.ogg)
+
+### Stage 1
+
+- Euleria Entrati: "Perhaps Luscinia's misery would end if she inflicted suffering upon others? Others who deserved it?" [音声](https://wiki.warframe.com/w/File:DPhaseALuscinia450Mother_en.ogg)
+- Euleria Entrati: "Thoughts of revenge come easily to a heart turned bitter and cold." [音声](https://wiki.warframe.com/w/File:DPhaseALuscinia460Mother_en.ogg)
+
+### Stage 2
+
+- Euleria Entrati: "At first, Luscinia felt some comfort from her actions. At least she was doing something. But her Sorrow grew." [音声](https://wiki.warframe.com/w/File:DPhaseBLuscinia470Mother_en.ogg)
+- Euleria Entrati: "Revenge may bring some relief at first, but as Luscinia found, it is often cold comfort." [音声](https://wiki.warframe.com/w/File:DPhaseBLuscinia480Mother_en.ogg)
+
+### Stage 3
+
+- Euleria Entrati: "Luscinia wept for those she was hurting. She tried to dismiss it as weakness, but her heart rebelled." [音声](https://wiki.warframe.com/w/File:DPhaseCLuscinia490Mother_en.ogg)
+- Euleria Entrati: "Sorrow had made Luscinia compassionate. She could not give pain without feeling it." [音声](https://wiki.warframe.com/w/File:DPhaseCLuscinia500Mother_en.ogg)
+
+### Stage 4
+
+- Euleria Entrati: "Luscinia had set her feet upon a dark path, but she had to walk it to the very end." [音声](https://wiki.warframe.com/w/File:DPhaseDLuscinia510Mother_en.ogg)
+- Euleria Entrati: "As if with a prophet's gift, Luscinia could see disaster looming, but she could not turn aside." [音声](https://wiki.warframe.com/w/File:DPhaseDLuscinia520Mother_en.ogg)
+
+### Stage 5
+
+- Euleria Entrati: "One final act, then. One last howl into the storm. Misery would have company, at least." [音声](https://wiki.warframe.com/w/File:DPhaseELuscinia530Mother_en.ogg)
+- Euleria Entrati: "Even as she prepared to risk everything on a final reckless gamble, Luscinia already knew the outcome." [音声](https://wiki.warframe.com/w/File:DPhaseELuscinia540Mother_en.ogg)
+
+### When Orowyrm Luscinia appears
+
+- Euleria Entrati: "Sadness is the dragon that devours itself. It spawns many children—lethargy, self-pity, self-doubt." [音声](https://wiki.warframe.com/w/File:DTransLuscinia550Mother_en.ogg)
+
+### Intro
+
+- Luscinia: "I am Sorrow, and suffering is my lot, but today, the burden is too much to bear. If my pain is avenged, perhaps... perhaps it will be lifted a little?" [音声](https://wiki.warframe.com/w/File:DMoodIntro0010Luscinia_en.ogg)
+- Luscinia: "I have grieved for long enough, while others in Duviri have laughed at my pain. Today, we shall turn the world upside down." [音声](https://wiki.warframe.com/w/File:DMoodIntro0020Luscinia_en.ogg)
+
+### Intro (Kullervo's Hold)
+
+- Luscinia: "Duviri has changed. You may have your freedom, but a new prisoner has come amongst us. A tormented soul... this dark day is his, as much as mine." [音声](https://wiki.warframe.com/w/File:DMoodIntroKullervo600Luscinia_en.ogg)
+- Luscinia: "Kullervo... a being imprisoned and tortured by the guilt of his past. I too am condemned to a fate, Drifter. But together, we may lighten the burdens of others." [音声](https://wiki.warframe.com/w/File:DMoodIntroKullervo610Luscinia_en.ogg)
+
+### Defeat the Dax
+
+- Luscinia: "The hollow ones mock my pain. Find out whether their hearts can be broken." [音声](https://wiki.warframe.com/w/File:DRegularPatrol0030Luscinia_en.ogg)
+- Luscinia: "The Dax. Responsible for so much sadness, and yet they have rarely answered for it. Redress the balance." [音声](https://wiki.warframe.com/w/File:DRegularPatrol0040Luscinia_en.ogg)
+
+### Kill the mounted Dax
+
+- Luscinia: "In my time as the King's captive songbird, there have been many jailers, many tormentors. One of them now walks nearby. Let them taste the bitterness I have lived with all these years." [音声](https://wiki.warframe.com/w/File:DVIPKill0090Luscinia_en.ogg)
+
+### Energize the shrine
+
+- Luscinia: "A royal maze. I think... I think I lost something precious in a maze like that, long ago. Please, would you quest on my behalf, for some small peace of sweetness?" [音声](https://wiki.warframe.com/w/File:DMedusaLock0110Luscinia_en.ogg)
+- Luscinia: "Secrets are lost in mazes like this. Sometimes souls are too. Perhaps some wait for us there now? Let us look. What choice do we have after all?" [音声](https://wiki.warframe.com/w/File:DMedusaLock0120Luscinia_en.ogg)
+
+### Reconnect the generator tower
+
+- Luscinia: "This structure and I share much. Both of us once useful, both of us discarded, both of us now derelict. Both forgotten. Might you bring it to life again? That one of us may live on?" [音声](https://wiki.warframe.com/w/File:DPowerGrid0130Luscinia_en.ogg)
+- Luscinia: "If this ruin could flow with power again, perhaps this purgatory may hold just a little warmth for one, such as me. Will you make it right? I hardly dare to ask." [音声](https://wiki.warframe.com/w/File:DPowerGrid0140Luscinia_en.ogg)
+
+### Defeat the Dax guarding the treasure
+
+- Luscinia: "The Dax are guarding their pay chests. Blood money, every coin of it. Repay them for the misery they have caused." [音声](https://wiki.warframe.com/w/File:DGuardedChests0150Luscinia_en.ogg)
+- Luscinia: "Thrax melted down my jewelry for coin to pay his Dax. Misery for misery. Let me see them dead. Whatever they have is yours." [音声](https://wiki.warframe.com/w/File:DGuardedChests0160Luscinia_en.ogg)
+
+### Purge the darkened areas of Liminus
+
+- Luscinia: "The ghosts of my past will not let me rest. I sob and I scream and still they haunt me. Please banish these shades and let my soul live!" [音声](https://wiki.warframe.com/w/File:DGhostAmbush0190Luscinia_en.ogg)
+- Luscinia: "The king has many petty demons. You are stronger than he. Tear them to shreds." [音声](https://wiki.warframe.com/w/File:DGhostAmbush0200Luscinia_en.ogg)
+
+### Stay close to the prisoner to free them
+
+- Luscinia: "A man insulted my singing. Thrax has decreed he must die. More pain of which I am the source and font. I beg of you, spare that man. Spare me just one more misery to live with. [音声](https://wiki.warframe.com/w/File:DKingOfTheHill0210Luscinia_en.ogg)
+- Luscinia: "A man nearby is marked for execution. I would have him die in pain for what he has done, so spare him today, so he may face an even darker fate." [音声](https://wiki.warframe.com/w/File:DKingOfTheHill0220Luscinia_en.ogg)
+
+### Enter the Undercroft
+
+- Luscinia: "The Undercroft is an agony. The Paradox twisting the Void, tearing me in two impossible directions, oh. Get inside and put an end to it." [音声](https://wiki.warframe.com/w/File:DPortalEncounter0230Luscinia_en.ogg)
+- Luscinia: "Duviri pretends it never happened, but the Undercroft remembers. The tragedy... the Zariman. Whatever calm you can bring to that tormented place, please, do so." [音声](https://wiki.warframe.com/w/File:DPortalEncounter0240Luscinia_en.ogg)
+- Luscinia: "Acrithis tells me the Void is emotions keeper. Nowhere is the Void stronger than in the Undercroft. Why does it howl so? Please, answer its cry." [音声](https://wiki.warframe.com/w/File:DPortalEncounter0250Luscinia_en.ogg)
+- Luscinia: "I heard that in the Undercroft we may prevent tragedies from ever occurring. If that is true, please... see what lies under its veil." [音声](https://wiki.warframe.com/w/File:DPortalEncounter0260Luscinia_en.ogg)
+
+### Find the hidden royal chest
+
+- Luscinia: "Thrax has had many secrets, buried over the years. Evidence of his cruelty, fragments of ruined lives. Bring those secrets to light again." [音声](https://wiki.warframe.com/w/File:DHiddenChest0270Luscinia_en.ogg)
+- Luscinia: "If what Acrithis says is true, there are secrets buried in Duviri that reveal an even greater mystery. If I can understand why I am, I might be more able to bear it." [音声](https://wiki.warframe.com/w/File:DHiddenChest0280Luscinia_en.ogg)
+
+### Open the chest and defeat its guardian
+
+- Luscinia: "How many times did I dream of escape, only for one of those hulking brutes to bar my path? Show no mercy. Whatever he guards, you may keep." [音声](https://wiki.warframe.com/w/File:DHiddenChestBoss0310Luscinia_en.ogg)
+- Luscinia: "Centurions and Legates, a child's idea of strength. Break his toys and scatter them. Make his wealth your own." [音声](https://wiki.warframe.com/w/File:DHiddenChestBoss0320Luscinia_en.ogg)
+
+### Assemble the shrine
+
+- Luscinia: "The monuments to the lost now lie in ruins. If you could reassemble one, just one, it might make a difference." [音声](https://wiki.warframe.com/w/File:DShrineArtifact0330Luscinia_en.ogg)
+- Luscinia: "A gravestone is a sorrowful sight, but sadder still is the rubble where a stone once stood. Let them not be forgotten, kind Drifter. Rebuild." [音声](https://wiki.warframe.com/w/File:DShrineArtifact0340Luscinia_en.ogg)
+
+### Win the Kaithe race
+
+- Luscinia: "Was there ever a time when Duviri was a happy place? Laughter, Lunaro games, and races. Help me remember. Surely a running Kaithe feels no sorrow." [音声](https://wiki.warframe.com/w/File:DHorseRacing0350Luscinia_en.ogg)
+- Luscinia: "I cannot bear to see the Kaithes neglected, but I am no rider. Perhaps you can bring them joy, even on this dark day." [音声](https://wiki.warframe.com/w/File:DHorseRacing0360Luscinia_en.ogg)
+
+### Herd Tamms
+
+- Luscinia: "Poor lost Tamms. Where can their mistress be? It would be too sad a fate if the wolves took them. Round them up, good Drifter." [音声](https://wiki.warframe.com/w/File:DHerding0370Luscinia_en.ogg)
+- Luscinia: "I understand how the Tamms feel, lost and listless. Be kind, Drifter. Bring them home." [音声](https://wiki.warframe.com/w/File:DHerding0380Luscinia_en.ogg)
+
+### Inspect the mirror
+
+- Luscinia: "The other side reaches out to you, through the King's mirror, defying the Dax. Answer their need." [音声](https://wiki.warframe.com/w/File:DMirrorPortal401Luscinia_en.ogg)
+- Luscinia: "The other side has known much sorrow. I feel it in my heart. From the far side of the mirror, they call to you. Find them." [音声](https://wiki.warframe.com/w/File:DMirrorPortal402Luscinia_en.ogg)
+
+### Collect lost belongings
+
+- Luscinia: "Are we to leave the treasures of the past moldering where they fell? No! I pray you, gather them up!" [音声](https://wiki.warframe.com/w/File:DTrinket620Luscinia_en.ogg)
+- Luscinia: "A family robbed... their belongings taken underground and divided! If you could retrieve what little was left, it might ease their pain." [音声](https://wiki.warframe.com/w/File:DTrinket630Luscinia_en.ogg)
+
+### Defeat Kullervo
+
+- Luscinia: "Kullervo is a kindred spirit. He rages with a bitter fury I cannot sing back to sleep. Only a warrior's challenge will do that. Grant him the tranquility I have been denied." [音声](https://wiki.warframe.com/w/File:DKullervoFight640Luscinia_en.ogg)
+- Luscinia: "The tormented Kullervo deserves to be known to know peace. Give him back his dignity, and free him from The Warden's savage cruelty!" [音声](https://wiki.warframe.com/w/File:DKullervoFight650Luscinia_en.ogg)
+
+### Transforming
+
+- Luscinia: "It's too much. The sadness. Nobody else can bear it like I can! They aren't strong enough! It's me! It has to be me!" [音声](https://wiki.warframe.com/w/File:DCharacterConclusion0410Luscinia_en.ogg)
+- Luscinia: "I am sorry I dragged you into this! This spiral! And now I've just doomed us both! It's too much!" [音声](https://wiki.warframe.com/w/File:DCharacterConclusion0420Luscinia_en.ogg)
+
+### When chasing after Luscinia
+
+- Orowyrm Luscinia: "Do not follow me, this is not your concern." [音声](https://wiki.warframe.com/w/File:DCharChasingWyrm010Luscinia_en.ogg)
+- Orowyrm Luscinia: "This is futile, stop! " [音声](https://wiki.warframe.com/w/File:DCharChasingWyrm020Luscinia_en.ogg)
+- Orowyrm Luscinia: "Leave me alone, no further warnings." [音声](https://wiki.warframe.com/w/File:DCharChasingWyrm030Luscinia_en.ogg)
+- Orowyrm Luscinia: "You are only making things worse." [音声](https://wiki.warframe.com/w/File:DCharChasingWyrm040Luscinia_en.ogg)
+
+### When grappling with Orvius
+
+- Orowyrm Luscinia: "Another burden!" [音声](https://wiki.warframe.com/w/File:DCharGrapWyrm050Luscinia_en.ogg)
+- Orowyrm Luscinia: "I will not carry you!" [音声](https://wiki.warframe.com/w/File:DCharGrapWyrm060Luscinia_en.ogg)
+- Orowyrm Luscinia: "I will make you regret this." [音声](https://wiki.warframe.com/w/File:DCharGrapWyrm070Luscinia_en.ogg)
+- Orowyrm Luscinia: "Enough!" [音声](https://wiki.warframe.com/w/File:DCharGrapWyrm080Luscinia_en.ogg)
+
+### First health bar depleted
+
+- Orowyrm Luscinia: "I fear you will regret this rashness." [音声](https://wiki.warframe.com/w/File:DCharFirstHealth090Luscinia_en.ogg)
+- Orowyrm Luscinia: "You have suffered. You shall suffer again!" [音声](https://wiki.warframe.com/w/File:DCharFirstHealth100Luscinia_en.ogg)
+- Orowyrm Luscinia: "Tuneless, tone-deaf ingrates!" [音声](https://wiki.warframe.com/w/File:DCharFirstHealth110Luscinia_en.ogg)
+- Orowyrm Luscinia: "I will no longer be victim to your pathetic cruelty!" [音声](https://wiki.warframe.com/w/File:DCharFirstHealth120Luscinia_en.ogg)
+
+### Second health bar depleted
+
+- Orowyrm Luscinia: "Misery shall have company, I swear it!" [音声](https://wiki.warframe.com/w/File:DCharSecondHealth130Luscinia_en.ogg)
+- Orowyrm Luscinia: "You should have fled while you still could!" [音声](https://wiki.warframe.com/w/File:DCharSecondHealth140Luscinia_en.ogg)
+- Orowyrm Luscinia: "I shall provide you with reasons aplenty to mourn!" [音声](https://wiki.warframe.com/w/File:DCharSecondHealth150Luscinia_en.ogg)
+- Orowyrm Luscinia: "Back into the pit with you!" [音声](https://wiki.warframe.com/w/File:DCharSecondHealth160Luscinia_en.ogg)
+
+### Third health bar depleted
+
+- Orowyrm Luscinia: "Sorrow will devour you, bones and all!" [音声](https://wiki.warframe.com/w/File:DCharThirdHealth170Luscinia_en.ogg)
+- Orowyrm Luscinia: "Your efforts are wasted. Sorrow is eternal!" [音声](https://wiki.warframe.com/w/File:DCharThirdHealth180Luscinia_en.ogg)
+- Orowyrm Luscinia: "This pain will pass, yours will not!" [音声](https://wiki.warframe.com/w/File:DCharThirdHealth190Luscinia_en.ogg)
+- Orowyrm Luscinia: "All hearts can break; even yours!" [音声](https://wiki.warframe.com/w/File:DCharThirdHealth200Luscinia_en.ogg)
+
+### Defeat
+
+- Orowyrm Luscinia: "WE ARE UNITED!" [音声](https://wiki.warframe.com/w/File:DCharOnDefeat210Luscinia_en.ogg)
+
+## Duviri Paradox Acapella
+
+- "Dominus! O Dominus i raka cantamneo! His curse upon you, su vatasa shabra - zu heruvash! Nuum kore, O exalted. Nuum Thrax ika! Haroun, haroun Ashen in silence desolare He la, me la, in sleep Haroun, haroun Ma non amorti eu Isala eu vision, eternally O Mathila i lo volati laaa Mi nio, mi nio, cocopela (Ooo, coralia) Mi nio, mi nio,
+- Cocopela! Fibreli! Ma tu sivelo!" [音声](https://wiki.warframe.com/w/File:DuviriLusciniaLandscapeCue.ogg)
+
+## Unused dialog
+
+- Luscinia: "Others find comfort in material things. Seek them out for me, my dark angel, that I might drown my misery in excess." [音声](https://wiki.warframe.com/w/File:DStealObject0050Luscinia_en.ogg)
+- Luscinia: "This place holds memories. Sweet ones of a life that might have been. I can't bear to see the Dax swarming here. Dispatch them." [音声](https://wiki.warframe.com/w/File:DDefendBuilding0070Luscinia_en.ogg)
+- Luscinia: "From their high perch, cruel Dax, led by a cruel king, ruin and victimize all. Justice is unknown in this cold place, yet I beg, cast them down. For once let them be the ones to mourn." [音声](https://wiki.warframe.com/w/File:DDaxTowers0170Luscinia_en.ogg)
+- Luscinia: "The king watches me. Day and night. The Dax, the ones in the high towers, they are the king's eyes. Blind him." [音声](https://wiki.warframe.com/w/File:DDaxTowers0180Luscinia_en.ogg)
+- Luscinia: "What little I had to call my own, Thrax took from me. Please take my possessions back from the Dax. They may be dust and mold now, but they are still mine." [音声](https://wiki.warframe.com/w/File:DHiddenChestCombat0290Luscinia_en.ogg)
+- Luscinia: "There are songs Thrax forbade me to sing. He took them from me, locked them up. If they have not rotted away, I would dearly love to see them again." [音声](https://wiki.warframe.com/w/File:DHiddenChestCombat0300Luscinia_en.ogg)
+- Luscinia: "These are the ashes of someone dear to me, someone gone from me. I beseech you, take them to their final rest. I cannot bear the loss one moment longer." [音声](https://wiki.warframe.com/w/File:DCourier0390Luscinia_en.ogg)
+- Luscinia: "I have written down my memories of life under Thrax, so even if I perish, the truth shall not. Take it to a safe place for me." [音声](https://wiki.warframe.com/w/File:DCourier0400Luscinia_en.ogg)
+
+### Removed Orowyrm Defeat
+
+- Orowyrm Luscinia: "IN SORROW!" [音声](https://wiki.warframe.com/w/File:DCharOnDefeat210Luscinia_en_old.ogg)

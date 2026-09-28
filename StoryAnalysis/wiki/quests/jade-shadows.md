@@ -10,6 +10,8 @@ Stalker の過去と、Warframe Jade の誕生をめぐる物語
 
 The New War の後、Stalker が自分の過去と、太陽系全体に影響しかねない秘密に向き合うメインクエスト。ソロ専用で、Update 36.0（2024-06-18）で追加された。
 
+- 台詞全文（取り込み）: [Jade Shadows/Transcript](../../quotes/jade-shadows-transcript.md)（113 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Jade_Shadows)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Jade_Shadows/Transcript) / [全文検索](../../search.html?q=Jade%20Shadows)
 
 ## 基本情報

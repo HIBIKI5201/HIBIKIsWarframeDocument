@@ -10,6 +10,8 @@ Red Veil の異変を追い、Rell と壁の中の者の真相に迫る
 
 放棄された Steel Meridian の船から届いた奇妙な通信をきっかけに、追放された Tenno Rell の存在を知るメインクエスト。Rell は危険な存在を食い止めているらしい。ソロ専用で、Update 21.0（2017-06-29）で追加された。前日譚の Web コミック「Rell」が公式サイトで公開されている。
 
+- 台詞全文（取り込み）: [Chains of Harrow/Transcript](../../quotes/chains-of-harrow-transcript.md)（197 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Chains_of_Harrow)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Chains_of_Harrow/Transcript) / [日本語 Wiki「HARROWの鎖」](https://warframe.fandom.com/ja/wiki/HARROW%E3%81%AE%E9%8E%96) / [日本語 Wiki の取り込み](../../fandom-ja/pages/chains-of-harrow.md) / [全文検索](../../search.html?q=Chains%20of%20Harrow)
 
 ## 基本情報

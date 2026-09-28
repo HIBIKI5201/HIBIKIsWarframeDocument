@@ -15,6 +15,7 @@ Orokin 時代の Corpus 創始者。Specter 技術の発明者
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Parvos Granum/Quotes](../../quotes/parvos-granum.md)（37 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Parvos_Granum)（英語・出典） / [全文検索](../../search.html?q=Parvos%20Granum)
 

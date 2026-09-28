@@ -15,6 +15,7 @@ Zariman の植物を世話する保守ドローン
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [VERD-IE/Quotes](../../quotes/verd-ie.md)（11 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/VERD-IE)（英語・出典） / [全文検索](../../search.html?q=VERD-IE)
 

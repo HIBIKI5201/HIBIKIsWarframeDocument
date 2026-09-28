@@ -10,6 +10,8 @@ Ballas が現れ、Lotus が連れ去られる
 
 Harrow の鎖のクリア後に始まる短いメインクエスト。Update 22.8（2017-12-21）で追加。Tenno は Executor Ballas に処刑される直前の Archimedean Margulis の最期を追体験し、Ballas が Lotus の部屋を訪れる場面を目撃する。
 
+- 台詞全文（取り込み）: [Apostasy Prologue/Transcript](../../quotes/apostasy-prologue-transcript.md)（27 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Apostasy_Prologue)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Apostasy_Prologue/Transcript) / [全文検索](../../search.html?q=Apostasy%20Prologue)
 
 ## 基本情報

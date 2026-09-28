@@ -14,6 +14,7 @@ Sanctuary で生物を「永遠化」しようとする Cephalon
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Cephalon Simaris/Quotes](../../quotes/cephalon-simaris.md)（186 行、うち独り言など 4 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Simaris)（英語・出典） / [日本語 Wiki「セファロン・シマリス」](https://warframe.fandom.com/ja/wiki/%E3%82%BB%E3%83%95%E3%82%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%9E%E3%83%AA%E3%82%B9) / [日本語 Wiki の取り込み](../../fandom-ja/pages/cephalon-simaris.md) / [全文検索](../../search.html?q=Cephalon%20Simaris)
 

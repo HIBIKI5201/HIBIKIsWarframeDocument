@@ -1,0 +1,15 @@
+{
+ "key": "treasurer",
+ "title": "Treasurer/Quotes",
+ "url": "https://wiki.warframe.com/w/Treasurer/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 21,
+ "idle": 0,
+ "sections": [
+  {"path": ["Spawning"], "idle": false, "lines": [["- \"Most cunning Founder, with my life I protect your sacred Crowns!\"", "DTreasureSpawn1250Treasurer_en.ogg"], ["- \"Most wise Founder, protect your avaricious servant!", "DTreasureSpawn1260Treasurer_en.ogg"], ["- \"Parvos Granum, your sacred tokens shall remain secure from the grasp of the idle!\"", "DTreasureSpawn1270Treasurer_en.ogg"], ["- \"Wise Parvos! The low thief shall never know the cool caress of your Crowns!\"", "DTreasureSpawn1280Treasurer_en.ogg"], ["- \"Your Crowns are safe in my grasp, oh Parvos! Protect me!\"", "DTreasureSpawn1290Treasurer_en.ogg"]]},
+  {"path": ["Taunts"], "idle": false, "lines": [["- \"Fortune despises the idle man. Always move forward. Move forward!\"", "DTreasureTaunt1300Treasurer_en.ogg"], ["- \"Deception is the sword of wisdom, thief! And I am most wise!\"", "DTreasureTaunt1310Treasurer_en.ogg"], ["- \"Are you driven by Desire or idleness, thief?\"", "DTreasureTaunt1320Treasurer_en.ogg"], ["- \"Desire inspires action, thief! And my desire to escape is greater than your desire to catch!\"", "DTreasureTaunt1330Treasurer_en.ogg"], ["- \"My desire to escape you is greater than your desire to catch me!\"", "DTreasureTaunt1340Treasurer_en.ogg"], ["- \"Sully these crowns with your touch, thief, and mighty will be Parvos's anger! I'm not kidding!\"", "DTreasureTaunt1350Treasurer_en.ogg"]]},
+  {"path": ["Close To Escaping"], "idle": false, "lines": [["- \"Parvos, I feel your presence. Guide me home!\"", "DTreasureEscapeSoon1360Treasurer_en.ogg"], ["- \"My escape draws near! You are foiled, most idle thief!\"", "DTreasureEscapeSoon1370Treasurer_en.ogg"], ["- \"Parvos calls! Grim shall be your accounting, thief, and mighty the interest!\"", "DTreasureEscapeSoon1380Treasurer_en.ogg"], ["- \"Parvos, I feel your golden hand opening to receive me!\"", "DTreasureEscapeSoon1390Treasurer_en.ogg"], ["- \"Parvos's vault opens to receive my timely deposit. Yes. YES!\"", "DTreasureEscapeSoon1400Treasurer_en.ogg"]]},
+  {"path": ["Escaping"], "idle": false, "lines": [["- \"May your Desire blossom, thief, and with it: wisdom! Farewell!\"", "DTreasureEscaped1410Treasurer_en.ogg"], ["- \"Fulfill your Desire and others will follow. I follow Parvos. To freedom!\"", "DTreasureEscaped1420Treasurer_en.ogg"], ["- \"We are unstoppable! We are Corpus! Farewell, thief!\"", "DTreasureEscaped1430Treasurer_en.ogg"], ["- \"Your Desire is found wanting, thief! Farewell!\"", "DTreasureEscaped1440Treasurer_en.ogg"], ["- \"Parvos! I return to the grasp of your golden hand! Away!\"", "DTreasureEscaped1450Treasurer_en.ogg"]]}
+ ]
+}

@@ -15,6 +15,8 @@ Teshin Dax。Tenno の師。Conclave を管理している
 
 - グループ: [Tenno](g01-tenno.md)
 - 登場: 6 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Teshin/Quotes/Steel Path](../../quotes/teshin-steel-path.md)（25 行）
+- セリフ集: [Teshin/Quotes](../../quotes/teshin.md)（76 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Teshin)（英語・出典） / [日本語 Wiki「テシン」](https://warframe.fandom.com/ja/wiki/Teshin) / [日本語 Wiki の取り込み](../../fandom-ja/pages/teshin.md) / [全文検索](../../search.html?q=Teshin)
 

@@ -1,0 +1,15 @@
+{
+ "key": "arbitrations",
+ "title": "Arbitrations/Quotes",
+ "url": "https://wiki.warframe.com/w/Arbitrations/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 14,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Unique transmissions during Arbitrations.", null]]},
+  {"path": ["Beginning Mission"], "idle": false, "lines": [["- \"Fight this Arbitration as any mortal creature would. There are no second chances.\"", "DArbStart0020Arbiters_en.ogg"], ["- \"Only under the shadow of death will your true potential shine.\"", "DArbStart0030Arbiters_en.ogg"], ["- \"For this Arbitration, we bestow upon you the gift of mortality.\"", "DArbStart0040Arbiters_en.ogg"]]},
+  {"path": ["During Rotations"], "idle": false, "lines": [["**First rotation**", null], ["- \"Fight on. This test has only just begun.\"", "DArbWaveFive0050Arbiters_en.ogg"], ["- \"Your potential blossoms. Continue the Arbitration.\"", "DArbWaveTen0060Arbiters_en.ogg"], ["**After first rotation**", null], ["- \"Do you feel that, the power and strength mortality has given you?\"", "DArbFiveAfter0070Arbiters_en.ogg"], ["- \"May you live until you die.\"", "DArbFiveAfter0080Arbiters_en.ogg"], ["- \"Ultimate power lies on the knife's edge between life and death.\"", "DArbFiveAfter0090Arbiters_en.ogg"]]},
+  {"path": ["Mission Failure"], "idle": false, "lines": [["- \"Your true potential remains untapped.\"", "DArbFail0100Arbiters_en.ogg"], ["- \"How quickly you bowed to death.\"", "DArbFail0110Arbiters_en.ogg"], ["- \"We judge you, unready.\"", "DArbFail0120Arbiters_en.ogg"]]}
+ ]
+}

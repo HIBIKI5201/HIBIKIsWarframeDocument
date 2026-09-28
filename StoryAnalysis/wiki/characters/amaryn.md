@@ -14,6 +14,7 @@ New Loka シンジケートのリーダー。地球の人類の過去を取り�
 
 - グループ: [シンジケートの顔役](g14.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Amaryn/Quotes](../../quotes/amaryn.md)（107 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Amaryn)（英語・出典） / [全文検索](../../search.html?q=Amaryn)
 

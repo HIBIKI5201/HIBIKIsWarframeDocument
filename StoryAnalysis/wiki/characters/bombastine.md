@@ -15,6 +15,7 @@ Thrax の廷臣（The Covetous Courtier）
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Bombastine/Quotes](../../quotes/bombastine.md)（132 行、うち独り言など 17 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Bombastine)（英語・出典） / [全文検索](../../search.html?q=Bombastine)
 

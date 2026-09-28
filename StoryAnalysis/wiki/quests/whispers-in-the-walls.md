@@ -12,6 +12,8 @@ Albrecht Entrati の研究所で Murmur と壁の中の者の謎に迫る
 
 > 「Loid は奇妙な夢を見ていて、どうしてもあなたに見せたいものがある」（クエスト説明）
 
+- 台詞全文（取り込み）: [Whispers in the Walls/Transcript](../../quotes/whispers-in-the-walls-transcript.md)（217 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Whispers_in_the_Walls)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Whispers_in_the_Walls/Transcript) / [全文検索](../../search.html?q=Whispers%20in%20the%20Walls)
 
 ## 基本情報

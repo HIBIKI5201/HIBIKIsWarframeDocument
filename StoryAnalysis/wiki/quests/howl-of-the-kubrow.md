@@ -10,6 +10,8 @@ Kubrow を手に入れる
 
 自分だけの Kubrow を迎えるための装備を集めるサイドクエスト。ソロ専用で、Update 14.0（2014-07-18）で追加された。
 
+- 台詞全文（取り込み）: [Howl of the Kubrow/Transcript](../../quotes/howl-of-the-kubrow-transcript.md)（23 行、うち独り言など 2 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Howl_of_the_Kubrow)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Howl_of_the_Kubrow/Transcript) / [日本語 Wiki「クブロウ獲得クエスト」](https://warframe.fandom.com/ja/wiki/%E3%82%AF%E3%83%96%E3%83%AD%E3%82%A6%E7%8D%B2%E5%BE%97%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88) / [日本語 Wiki の取り込み](../../fandom-ja/pages/howl-of-the-kubrow.md) / [全文検索](../../search.html?q=Howl%20of%20the%20Kubrow)
 
 ## 基本情報

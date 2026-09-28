@@ -10,6 +10,9 @@
 
 天王星で奇妙なドローンに遭遇した Tenno が、その正体を追ううちに Lotus が隠してきた秘密を知るメインクエスト。Hotfix 17.0.1（2015-07-31）で追加された。
 
+- 台詞全文（取り込み）: [Natah (Quest)/Transcript](../../quotes/natah-quest-transcript.md)（123 行）
+- 台詞全文（取り込み）: [Natah/Quotes](../../quotes/natah.md)（56 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Natah_(Quest))（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Natah_(Quest)/Transcript) / [日本語 Wiki「NATAH」](https://warframe.fandom.com/ja/wiki/NATAH) / [日本語 Wiki の取り込み](../../fandom-ja/pages/natah.md) / [全文検索](../../search.html?q=Natah)
 
 ## 基本情報
