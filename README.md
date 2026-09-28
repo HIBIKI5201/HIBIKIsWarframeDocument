@@ -7,6 +7,14 @@ Warframe に関する個人ドキュメント。
 | [TODO/](TODO/README.md) | 欲しいものリスト。TOML → SQLite → HTML を自動生成し、`TODO/serve.bat` をダブルクリックすると http://localhost:8000/ で閲覧できる |
 | [StoryAnalysis/](StoryAnalysis/README.md) | ストーリー考察（Markdown）。英語原文資料（`sources/`）と英日用語対応表（`glossary.md`）付き。`StoryAnalysis/serve.bat` で HTML 表示（スマホからも閲覧可） |
 
+## 公開サイト（GitHub Pages）
+
+ストーリー考察（`StoryAnalysis/`）は GitHub Pages で公開している（TODO は個人用なので公開しない）。
+https://hibiki5201.github.io/WarframeDocument/
+
+`main` の `StoryAnalysis/` に変更を push すると、GitHub Actions（`.github/workflows/pages.yml`）が自動でビルドして更新する。
+Actions タブの「Publish StoryAnalysis to GitHub Pages」から手動でも実行できる。
+
 ## スマホで見る（claude.ai アーティファクト）
 
 TODO とストーリー資料を 1 つにまとめたページを claude.ai に非公開で載せている（ヘッダーの「TODO / ストーリー」で切り替え）。
