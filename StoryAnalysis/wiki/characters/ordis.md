@@ -15,6 +15,8 @@
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 24 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Ordis/Quotes/Quests](../../quotes/ordis-quests.md)（509 行、うち独り言など 2 行）
+- セリフ集: [Ordis/Quotes](../../quotes/ordis.md)（387 行、うち独り言など 46 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Ordis)（英語・出典） / [日本語 Wiki「オーディス」](https://warframe.fandom.com/ja/wiki/Ordis) / [日本語 Wiki の取り込み](../../fandom-ja/pages/ordis.md) / [全文検索](../../search.html?q=Ordis)
 

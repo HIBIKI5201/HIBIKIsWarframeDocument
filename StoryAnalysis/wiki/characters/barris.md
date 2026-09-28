@@ -14,6 +14,7 @@ Duviri で Tamm の群れの世話を任されている少年で、「苛立ち�
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Barris/Quotes](../../quotes/barris.md)（25 行、うち独り言など 4 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Barris)（英語・出典） / [全文検索](../../search.html?q=Barris)
 

@@ -12,6 +12,7 @@ Drusus Thelonius Leverian。博物館 Leverian の館長・語り手
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Drusus/Quotes](../../quotes/drusus.md)（71 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Drusus)（英語・出典） / [全文検索](../../search.html?q=Drusus)
 

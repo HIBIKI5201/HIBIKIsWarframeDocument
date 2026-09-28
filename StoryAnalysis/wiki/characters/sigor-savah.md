@@ -14,6 +14,7 @@ Khora の Kavat を見つけて Corpus を離反した研究者
 
 - グループ: [名前だけ出てくる人物](g20.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Sigor Savah/Quotes](../../quotes/sigor-savah.md)（13 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Sigor_Savah)（英語・出典） / [全文検索](../../search.html?q=Sigor%20Savah)
 

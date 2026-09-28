@@ -13,6 +13,7 @@ Conclave の Cephalon Capture に登場
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Cephalon Vull](../../quotes/cephalon-vull.md)（31 行、うち独り言など 3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Vull)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Vull)
 

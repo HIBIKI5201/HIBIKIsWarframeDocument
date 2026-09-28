@@ -15,6 +15,7 @@ Leticia "Lettie" Garcia。The Hex の衛生兵
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Leticia/Quotes](../../quotes/leticia.md)（497 行、うち独り言など 11 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Leticia)（英語・出典） / [全文検索](../../search.html?q=Leticia)
 

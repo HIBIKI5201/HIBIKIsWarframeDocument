@@ -14,6 +14,7 @@
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Mathila/Quotes](../../quotes/mathila.md)（90 行、うち独り言など 11 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Mathila)（英語・出典） / [全文検索](../../search.html?q=Mathila)
 

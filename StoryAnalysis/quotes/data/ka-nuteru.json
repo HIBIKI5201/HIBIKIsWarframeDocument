@@ -1,0 +1,16 @@
+{
+ "key": "ka-nuteru",
+ "title": "Ka-Nuteru/Quotes",
+ "url": "https://wiki.warframe.com/w/Ka-Nuteru/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "ka-nuteru",
+  "name": "Ka-Nuteru",
+  "page": "Ka-Nuteru"
+ },
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Quotes"], "idle": false, "lines": [["- \"Exalted: the dissident remains entrenched in the shadows below. The sea runs crimson with the blood of our faithful. But... I will prevail. In Narmer's name. All as one.\"", "DTNWPt2M3Disciple1845DiscipleKa_en.ogg"], ["- \"The unclean spirit thins our herd from the shadows. It will not matter. My faith is too strong. The light of Narmer will bring it the truth. All as one.\"", "DTNWPt2M3Disciple1855DiscipleKa_en.ogg"], ["- \"Only... only I remain. A test of my faith in trembling light. But! I am not afraid. Ballas will save me, his love is within me! All as One. All... as...\"", "DTNWPt2M3Disciple1865DiscipleKa_en.ogg"]]}
+ ]
+}

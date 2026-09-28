@@ -15,6 +15,7 @@
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Raptors/Quotes](../../quotes/raptors.md)（22 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Raptors)（英語・出典） / [全文検索](../../search.html?q=Raptors)
 

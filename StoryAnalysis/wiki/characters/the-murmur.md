@@ -14,6 +14,7 @@ Albrecht の研究所に出る敵勢力
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [The Murmur/Quotes](../../quotes/the-murmur.md)（212 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Murmur)（英語・出典） / [全文検索](../../search.html?q=The%20Murmur)
 

@@ -1,0 +1,13 @@
+{
+ "key": "manic",
+ "title": "Manic/Quotes",
+ "url": "https://wiki.warframe.com/w/Manic/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 10,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue and sounds from Manics and Manic Bombards.", null]]},
+  {"path": ["While Attacking"], "idle": false, "lines": [["- \"Attaf!\" - \"Attack!\"", "BbAttackGrineerManic00010_en.ogg"], ["- \"Attaf!\" - \"Attack!\"", "BbAttackGrineerManic00011_en.ogg"], ["- \"Attaf!\" - \"Attack!\"", "BbAttackGrineerManic00012_en.ogg"], ["- \"??\" - \"??\"", "BbAttackGrineerManic00013_en.ogg"], ["- \"Attaf!\" - \"Attack!\"", "BbAttackGrineerManic00014_en.ogg"], ["- \"(laughs)\"", "BbAttackGrineerManic00020_en.ogg"], ["- \"(laughs)\"", "BbAttackGrineerManic00030_en.ogg"], ["- \"??\" - \"??\"", "BbAttackGrineerManic00040_en.ogg"], ["- \"Tenno!\"'", "BbAttackGrineerManic00050_en.ogg"]]}
+ ]
+}

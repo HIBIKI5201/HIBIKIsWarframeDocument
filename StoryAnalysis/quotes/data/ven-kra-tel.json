@@ -1,0 +1,19 @@
+{
+ "key": "ven-kra-tel",
+ "title": "Ven'kra Tel/Quotes",
+ "url": "https://wiki.warframe.com/w/Ven'kra_Tel/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "ven-kra-tel",
+  "name": "Ven'kra Tel",
+  "page": "Ven'kra Tel"
+ },
+ "count": 14,
+ "idle": 0,
+ "sections": [
+  {"path": ["Quotes", "Arriving to Battle"], "idle": false, "lines": [["- Ven'kra: \"Coming through that portal was a big mistake, Tenno.\"", "DIntro010Venkra_en.ogg"], ["- Ven'kra: \"You should have brought more Tenno. You don't have enough.\"", "DIntro020Venkra_en.ogg"]]},
+  {"path": ["Quotes", "Taunts"], "idle": false, "lines": [["**General**", null], ["- Ven'kra: \"If you're not careful Tenno, my friend will break your back.\"", "DTauntsPaired031Venkra_en.ogg"], ["- Ven'kra: \"Patience Sprag. Killing requires patience.\"", "DTauntsPaired041Venkra_en.ogg"], ["- Ven'kra: \"Sprag... wait for the right moment, then deliver the killing blow.\"", "DTauntsPaired051Venkra_en.ogg"], ["- Ven'kra: \"Sprag, calm down. Remember, you must stay focused.\"", "DTauntsPaired061Venkra_en.ogg"], ["**If Sprag is defeated**", null], ["- Ven'kra: \"One by one, that is how you die.\"", "DTauntsSolo130Venkra_en.ogg"], ["- Ven'kra: \"Are you willing to die for this key Tenno?\"", "DTauntsSolo140Venkra_en.ogg"]]},
+  {"path": ["Quotes", "When Sprag is Defeated First"], "idle": false, "lines": [["- Ven'kra: \"What have you done to her!?\"", "DSpragKilled190Venkra_en.ogg"], ["- Ven'kra: \"She will be remembered! Who will remember you, Tenno?\"", "DSpragKilled200Venkra_en.ogg"]]},
+  {"path": ["Quotes", "After Killing Tenno"], "idle": false, "lines": [["- Ven'kra: \"Impressive. Messy, but impressive.\"", "DTennoDown171Venkra_en.ogg"], ["- Ven'kra: \"Clean and precise. That's how it's done.\"", "DTennoDown180Venkra_en.ogg"]]}
+ ]
+}

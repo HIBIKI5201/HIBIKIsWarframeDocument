@@ -10,6 +10,8 @@ Infested に侵された Cephalon Jordas と対峙し、Atlas を手に入れる
 
 船全体を Infested に侵された Cephalon を救いたいと願う Ordis の頼みで、苦しむ Cephalon のために感染の駆除に挑むサイドクエスト。Update 17.5（2015-10-01）で追加された。
 
+- 台詞全文（取り込み）: [The Jordas Precept/Transcript](../../quotes/the-jordas-precept-transcript.md)（90 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Jordas_Precept)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Jordas_Precept/Transcript) / [日本語 Wiki「JORDASの教訓」](https://warframe.fandom.com/ja/wiki/JORDAS%E3%81%AE%E6%95%99%E8%A8%93) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-jordas-precept.md) / [全文検索](../../search.html?q=The%20Jordas%20Precept)
 
 ## 基本情報

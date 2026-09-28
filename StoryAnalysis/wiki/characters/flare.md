@@ -15,6 +15,7 @@ Flare Varleon。Temple の特性を持つ Protoframe。喋るギター Lizzie �
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Flare/Quotes](../../quotes/flare.md)（263 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Flare)（英語・出典） / [全文検索](../../search.html?q=Flare)
 

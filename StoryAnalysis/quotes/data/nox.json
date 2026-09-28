@@ -1,0 +1,21 @@
+{
+ "key": "nox",
+ "title": "Nox/Quotes",
+ "url": "https://wiki.warframe.com/w/Nox/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 63,
+ "idle": 11,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Sound effects and dialogue spoken by Noxes.", null]]},
+  {"path": ["Idle"], "idle": true, "lines": [["- \"(heavy coughing and wheezing)\"", null], ["- \"(exhaling)\"", null], ["- \"(wheezing)\"", null], ["- \"(choking)\"", null], ["- \"(burp and gulp)\"", null], ["- \"(belching)\"", null], ["- \"(wheezing)\"", null], ["- \"(screeching)\"", null], ["- \"(wheezing)\"", null], ["- \"(coughing and clicking)\"", null], ["- \"(heavy breathing)\"", null]]},
+  {"path": ["While Patrolling"], "idle": false, "lines": [["- \"(wheezes and clicking) ???\"", null], ["- \"???\"", null], ["- \"???\"", null], ["- \"???\"", null], ["- \"???\"", null], ["- \"???\"", null], ["- \"(clicking) Agrear grear.\" - \"Area clear.\"", null]]},
+  {"path": ["Seeing the Player"], "idle": false, "lines": [["- \"Uniter spotter! (cough)\" - \"Unit spotted!\"", null], ["- \"Orre klegre!\" - \"Over here!\"", null], ["- \"Orre klegre!\" - \"Over here!\"", null], ["- \"???\"", null], ["- \"(laughs) Nor hu rave gar!\" - \"Now I have you!\"", null], ["- \"You're gonna rot Tenno(?)!\"", null], ["- \"Tu ??? (clicking)\" - \"My...\"", null]]},
+  {"path": ["While Attacking"], "idle": false, "lines": [["- \"???\"", null], ["- \"???\"", null], ["- \"Tenno!\" - \"Tenno!\"", null], ["- \"Tenno!\" - \"Tenno!\"", null], ["- \"(clicking) Attaf!\" - \"Attack!\"", null], ["- \"(belches) Attaf!\" - \"Attack!\"", null], ["- \"Forrirr!\" - \"Forward!\"", null], ["- \"???\"", null], ["- \"Korrosion goo!\" - \"Corrosion goo!\"", null], ["- \"Toksun!\" - \"Toxin!\"", null], ["- \"Ghaas!\" - \"Gas!\"", null], ["- \"Forrirr!\" - \"Forward!\"", null], ["- \"Attaf! (wheezes)\" - \"Attack!\"", null]]},
+  {"path": ["Upon Being Hit"], "idle": false, "lines": [["- \"(grunt)\"", null], ["- \"(grunt)\"", null], ["- \"(grunt)\"", null], ["- \"(grunt)\"", null], ["- \"(grunt)\"", null]]},
+  {"path": ["Cover Me"], "idle": false, "lines": [["- \"???\"", null], ["- \"Cuver me. (clicking)\" - \"Cover me.\"", null], ["- \"Cuver me.\" - \"Cover me.\"", null], ["- \"???\"", null], ["- \"(clicking) ???\"", null], ["- \"Take cuver!\" - \"Take cover!\"", null]]},
+  {"path": ["Reloading"], "idle": false, "lines": [["- \"Redoarhung!\" - \"Reloading!\"", null], ["- \"Neer more ammo!\" - \"Need more ammo!\"", null], ["- \"Almost ready. (cough)\"", null], ["- \"Get ready for klos!\" - \"Get ready for this!\"", null], ["- \"Hu'm redoarhung! - \"I'm reloading!\"", null]]},
+  {"path": ["Laughing"], "idle": false, "lines": [["- \"(laughing)\"", null], ["- \"(laughing, gets deeper towards the end)\"", null], ["- \"(laughing)\"", null]]},
+  {"path": ["Death"], "idle": false, "lines": [["- \"(grunting)\"", null], ["- \"(grunting and screaming)\"", null], ["- \"(grunting and screaming)\"", null], ["- \"(screaming and yelling)\"", null], ["- \"(screaming)\"", null]]}
+ ]
+}

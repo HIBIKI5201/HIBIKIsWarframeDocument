@@ -1,0 +1,17 @@
+{
+ "key": "nights-of-naberus",
+ "title": "Nights of Naberus/Quotes",
+ "url": "https://wiki.warframe.com/w/Nights_of_Naberus/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 19,
+ "idle": 9,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Daughter dialogue during the event.", null]]},
+  {"path": ["Trailer"], "idle": false, "lines": [["- \"Hush! Can you feel it? It's almost upon us! The ancient festival of death and mischief, Naberus! And you have a special invitation. We'll make you very welcome.\"", null]]},
+  {"path": ["Greetings"], "idle": false, "lines": [["- \"It's Naberus! You... do know what that is, right? The ancient Orokin festival of death, darkness and deviance? The happiest time of the entire year? I've dug out all the old family decorations! Take a look. One of them even tells a story...\"", "DDaughterNaberusFirst10900Daughter_en.ogg"]]},
+  {"path": ["Idle"], "idle": true, "lines": [["- \"Mother wasn't really one for fun. I mostly amused myself dissecting specimens, but I always loved Naberus Night.\"", "DDaughterNaberusBrowseStore11000Daughter_en.ogg"], ["- \"I am a Kubrow this year, again.\"", "DDaughterNaberusBrowseStore11010Daughter_en.ogg"], ["- \"'Let the wedding night begin, Lift the latch and let me in, Though I'm only bones and skin'. Oh, the winds of Deimos...\"", "DDaughterNaberusBrowseStore10990Daughter_en.ogg"], ["- \"Naberus is meant to be frightening, but if you like bones and blood, it can be fun too.\"", "DDaughterNaberusBrowseStore10980Daughter_en.ogg"], ["- \"Scuttle-buttle whispery-hispery chitty-chatter snap!\"", "DDaughterNaberusBrowseStore10970Daughter_en.ogg"], ["- \"When Otak was Otak and had his own shell, I used to put black roses all around his little skull. Tried that with Loid, but he wasn't having it.\"", "DDaughterNaberusBrowseStore10950Daughter_en.ogg"], ["- \"The Orokin would laugh at Death on Naberus night. I guess the last laugh was Death's. Here's to her.\"", "DDaughterNaberusBrowseStore10960Daughter_en.ogg"], ["- \"I used to put black roses all around Loid's skull.\"", "DDaughterNaberusBrowseStore10940Daughter_en.ogg"], ["- \"Let's hear the tokens rattle! Put them on your eyes if you like. It's tradition.\"", "DDaughterNaberusBrowseStore10930Daughter_en.ogg"]]},
+  {"path": ["Naberus Treats"], "idle": false, "lines": [["- \"Naberus is all about raising the ghosts of the past. For the immortal Orokin, that meant everything we thought we left behind. Mortality. Mystery. Fear of the dark.\"", "DDaughterNaberusFirstStore10910Daughter_en.ogg"], ["- \"Now, these ghoulish little knick-knacks have been in the family for generations. I can't just give them away.\"", "DDaughterNaberusFirstStore10920Daughter_en.ogg"]]},
+  {"path": ["Leaving After Purchasing"], "idle": false, "lines": [["- \"Happy Naberus!\"", "DDaughterNaberusOutroSale11020Daughter_en.ogg"], ["- \"Go and cause trouble.\"", "DDaughterNaberusOutroSale11030Daughter_en.ogg"], ["- \"Let's keep tradition alive.\"", "DDaughterNaberusOutroSale11040Daughter_en.ogg"], ["- \"The darkness is always watching!\"", "DDaughterNaberusOutroSale11050Daughter_en.ogg"], ["- \"Careful nothing catches you out there...\"", "DDaughterNaberusOutroSale11060Daughter_en.ogg"]]}
+ ]
+}

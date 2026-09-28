@@ -1,0 +1,23 @@
+{
+ "key": "kuva-lich",
+ "title": "Kuva Lich/Quotes",
+ "url": "https://wiki.warframe.com/w/Kuva_Lich/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "kuva-lich",
+  "name": "Kuva Lich",
+  "page": "Kuva Lich"
+ },
+ "count": 37,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Each Kuva Lich possesses one of four personality types (logical, jovial, manic, and flirtatious) which determine what quotes they use. Female liches have the logical and flirtatious trait while male liches have the jovial and manic trait.", null]]},
+  {"path": ["Kuva Lich Introductory Cutscene"], "idle": false, "lines": [["- \"We Maggots live... not long.\"", "DFortTunnel0010Grnr_en.ogg"], ["- \"We hope more life... work... kill... maybe Queens notice...\"", "DWitchChamb0020Grnr_en.ogg"], ["- \"Maybe... they share... the Old Blood.\"", "DWitchChamb0030Grnr_en.ogg"], ["- \"We are maggots. But eventually even maggots can fly.\"", "DWitchChambEnd0040Grnr_en.ogg"], ["- \"YEEEEEESSSSSSSSSSS!\"", "DOnBlk0050Grnr_en.ogg"]]},
+  {"path": ["Kuva Lich Introductory Cutscene", "Inbox Message"], "idle": false, "lines": [["> “Spare the Rod", null], ["> Tenno are such arrogant, undisciplined children!", null], ["> Mommy Lotus might spare the rod, but not ME! Every siphoned drop of the Old Blood makes my fortress grow stronger. Sweet, sweet Kuva!", null], ["> Be on your best behavior, little one. You KNOW what you did to my sister. My Kuva Liches can make sure you get what you deserve!", null], ["> Your Undying Queen”", null]]},
+  {"path": ["Kuva Larvling Spawn"], "idle": false, "lines": [["These voice lines are spoken by Kuva Guardians when a Kuva Larvling is about to spawn.", null], ["- \"Sukjekkt found. Moderate clone rot. Initiating reclamation.\"", "DLichTease0010GrnQueensGrds_en.ogg"], ["- \"Reclamation target sighted. Mental conditions severely deteriorated. Abort!\"", "DLichTease0020GrnQueensGrds_en.ogg"], ["- \"Queens will not be pleased. Clone rot has gone too far. Send word.\"", "DLichTease0030GrnQueensGrds_en.ogg"], ["- \"Sukjekkt found. In her name.\"", "DLichTease0040GrnQueensGrds_en.ogg"], ["- \"Soldier, you have been nominated. Your glory awaits in her fortress.\"", "DLichTease0050GrnQueensGrds_en.ogg"], ["- \"Sukjekkt found. Significant trauma. Removing to galleon to assess Kuva Lich viability.\"", "DLichTease0060GrnQueensGrds_en.ogg"], ["- \"Inform the Queens we have found their sukjekkt.\"", "DLichTease0070GrnQueensGrds_en.ogg"]]},
+  {"path": ["Kuva Larvling Spawn", "Killing the Larvling"], "idle": false, "lines": [["- \"Sukjekkt secured. Removing from battlefield. Peezporr enkkaagge kraaft!\"", "DLichTease0080GrnQueensGrds_en.ogg"], ["- \"The Queens have chosen you, soldier. You are to be gifted.\"", "DLichTease0090GrnQueensGrds_en.ogg"], ["- \"You are the Queen-chosen, soldier. Greatness awaits you. Greatness... or perhaps death.\"", "DLichTease0100GrnQueensGrds_en.ogg"], ["- \"We have the chosen sukjekkt. They will become Lich, or die.\"", "DLichTease0110GrnQueensGrds_en.ogg"]]},
+  {"path": ["Inbox Message after Defeat", "Vanquish"], "idle": false, "lines": [["> “Kuva Lich Vanquished: [ADVERSARY NAME]", null], ["> Operator,", null], ["> After your harrowing victory over [ADVERSARY NAME], Ordis recovered this forged weapon blueprint. It has been added to your Foundry. Ordis cannot wait to see it in action.", null], ["> Your loyal Cephalon,", null], ["> -Ordis”", null]]},
+  {"path": ["Inbox Message after Defeat", "Convert"], "idle": false, "lines": [["> “My New Master", null], ["> [PLAYER NAME],", null], ["> You have bested me. Sullied in the eyes of my Queens I am Grineer no longer. I serve you now.", null], ["> You will help me reclaim the honor I have lost.", null], ["> Our work begins, [ADVERSARY NAME]”", null]]},
+  {"path": ["Different Personalities"], "idle": false, "lines": [["- Jovial", null], ["- Flirtatious", null], ["- Logical", null], ["- Manic", null]]}
+ ]
+}

@@ -14,6 +14,7 @@ Zariman の事故直後に最期を記録した生存者
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [The Husband/Quotes](../../quotes/the-husband.md)（8 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Husband)（英語・出典） / [全文検索](../../search.html?q=The%20Husband)
 

@@ -1,0 +1,24 @@
+{
+ "key": "cephalon-vull",
+ "title": "Cephalon Vull",
+ "url": "https://wiki.warframe.com/w/Cephalon_Vull",
+ "kind": "キャラクター",
+ "site": {
+  "key": "cephalon-vull",
+  "name": "Cephalon Vull",
+  "page": "Cephalon Vull"
+ },
+ "count": 31,
+ "idle": 3,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Cephalon Vull is one of the Cephalons in Conclave Cephalon Capture mode. Vull is characterized by a sadistic personality expressed in an otherwise cheery tone. She does not seem particularly choosy as to which team she prefers, and will congratulate Tenno playing for either the Sun or Moon team as long as they kill others in her presence.", null], ["Cephalon Vull is voiced by Carin Gilfry.", null]]},
+  {"path": ["Quotes", "When Returned to Base"], "idle": false, "lines": [["- \"Vull is back! Did I miss anything gory?\"", null], ["- \"Cephalon Vull is ready for more Operators! More please!\"", null], ["- \"Back at base! Excellent! This is where the Operators fight most!\"", null], ["- \"Hurah! Operators! What an excessive use of force!\"", null], ["- \"Vull saw many terrible scenes of anguish. What a time to be self aware!\"", null]]},
+  {"path": ["Quotes", "When Stolen"], "idle": false, "lines": [["- \"Do you need a time-out in the choices chair?\"", null], ["- \"You're good at this; Vull will enjoy watching you die!\"", null], ["- \"You are so cute! I want to hug you until your organs rupture!\"", null], ["- \"All I want is a piece of you... to tear off and keep forever!\"", null], ["- \"Look at you, I could just squeeze your shiny face until your skull collapses!\"", null]]},
+  {"path": ["Quotes", "While Being Held"], "idle": false, "lines": [["- \"Vull thinks you have a kind heart. Let's take it out and see!\"", null], ["- \"Return me, and my Operators will forgive you – with their guns!\"", null], ["- \"Watch out for pits and gunfire! I 'wouldn't' want to see you get hurt.\"", null], ["- \"Operators are looking for me. They just want to 'talk' to you regarding my release.\"", null]]},
+  {"path": ["Quotes", "While Being Held", "While The Holder is Idle"], "idle": true, "lines": [["- \"Vull wonders if you feel safer here. Let's hope not!\"", null], ["- \"Time is not healing your wounds! That's exciting!\"", null], ["- \"Good idea! Let's wait here and hope for... snipers!\"", null]]},
+  {"path": ["Quotes", "While Being Held", "When the Holder Gets a Kill"], "idle": false, "lines": [["- \"What a waste of good suffering...\"", null], ["- \"It's not your corpse, but I guess it will do.\"", null], ["- \"You didn't even try negotiation! Vull approves.\"", null], ["- \"Oh my, violently lashing out? Vull may have... feelings for you.\"", null]]},
+  {"path": ["Quotes", "While Being Held", "When the Holder Has Low Health"], "idle": false, "lines": [["- \"That was close! Vull is disappointed...\"", null], ["- \"You almost died back there! Vull is having fun!\"", null], ["- \"Dear me, your life juice is leaking out...\"", null]]},
+  {"path": ["Quotes", "While Being Held", "When the Holder is Killed"], "idle": false, "lines": [["- \"Vull does not blame you... just kidding.\"", null], ["- \"Oh no! Vull thinks your suffering could have been much more prolonged.\"", null]]},
+  {"path": ["Quotes", "While Being Held", "While Both Cephalons Are Stolen"], "idle": false, "lines": [["- \"Vull reminds you: You cannot score if your Cephalon is taken.\"", null], ["- \"No scoring is possible unless your Cephalon is also returned.\"", null], ["- \"Useless waiting here if your Cephalon is missing. Let's look for trouble!\"", null]]}
+ ]
+}

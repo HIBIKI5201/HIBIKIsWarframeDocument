@@ -15,6 +15,7 @@
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Councilor Vay Hek/Quotes](../../quotes/councilor-vay-hek.md)（173 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Councilor_Vay_Hek)（英語・出典） / [日本語 Wiki「Councilor Vay Hek」](https://warframe.fandom.com/ja/wiki/Councilor_Vay_Hek) / [全文検索](../../search.html?q=Councilor%20Vay%20Hek)
 

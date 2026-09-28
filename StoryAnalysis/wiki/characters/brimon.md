@@ -14,6 +14,7 @@
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Brimon/Quotes](../../quotes/brimon.md)（31 行、うち独り言など 7 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Brimon)（英語・出典） / [全文検索](../../search.html?q=Brimon)
 

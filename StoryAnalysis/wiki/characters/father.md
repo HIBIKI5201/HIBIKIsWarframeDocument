@@ -14,6 +14,7 @@ Entrati 家の父。技術者
 
 - グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Father/Quotes](../../quotes/father.md)（258 行、うち独り言など 27 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Father)（英語・出典） / [全文検索](../../search.html?q=Father)
 

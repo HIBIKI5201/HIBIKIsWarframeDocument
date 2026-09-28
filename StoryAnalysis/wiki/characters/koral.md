@@ -14,6 +14,7 @@ Conservation 担当の少女。「慈愛」の化身
 
 - グループ: [Duviri](g12-duviri.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Koral/Quotes](../../quotes/koral.md)（58 行、うち独り言など 10 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Koral)（英語・出典） / [全文検索](../../search.html?q=Koral)
 

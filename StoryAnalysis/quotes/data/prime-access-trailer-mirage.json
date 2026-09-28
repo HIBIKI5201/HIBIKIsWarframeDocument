@@ -1,0 +1,13 @@
+{
+ "key": "prime-access-trailer-mirage",
+ "title": "Prime Access Trailer/Mirage",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Mirage",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 4,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"Oh, how you suffered to become this beast. Yet you laughed at me. Others writhed and raged in the vice, but you, you played the fool. And so it was, that you distorted my design.", null], ["A sanguine trick. A murderous comedy. But no one is laughing anymore... except you.", null], ["The mere vapors of your life, shimmering still. Mirage.\"", "BallasMiragePrime.ogg"]]},
+  {"path": ["Music"], "idle": false, "lines": [["- File:MiragePrime.ogg (download, history)", null]]}
+ ]
+}

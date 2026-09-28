@@ -14,6 +14,7 @@ Ballas の後を継いだ Narmer の現リーダー
 
 - グループ: [Narmer](g09-narmer.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Pazuul/Quotes](../../quotes/pazuul.md)（26 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Pazuul)（英語・出典） / [全文検索](../../search.html?q=Pazuul)
 

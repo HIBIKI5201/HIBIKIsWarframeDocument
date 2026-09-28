@@ -1,0 +1,14 @@
+{
+ "key": "fables-frontiers",
+ "title": "Fables & Frontiers/Quotes",
+ "url": "https://wiki.warframe.com/w/Fables_%26_Frontiers/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 16,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue while playing Fables & Frontiers. For other quotes, see Amir, in Höllvandeim and Oops! All Eximus!.", null]]},
+  {"path": ["Unlocking Fables & Frontiers"], "idle": false, "lines": [["> “Hail, Adventurer!", null], ["> FRIENDS! INVICTIANS! COUNTRY-PEOPLES! Lend me your ears!", null], ["> Today on this day of... whatever-the-hell-ass loop we're in, I, your most honorable Fablemaster, am proud to announce the Grand Opening of the Dominion of Höllvandeim!", null], ["> (Previously known as the Internet Cafe upstairs)", null], ["> If thy wishes to begin a new journey into strange and mysteriously lands, venture forth and - eh - summon thy loyal servant with the - um - Enchanted Bell of Fable Mystery!", null], ["> ...Yeah just go upstairs and ring the bell if you wanna make a character and get this party started.", null], ["> Fare thee well, until we speak again!", null], ["> - Fablemaster Amir”", "DFFAmirInbox0150Amir_en.ogg"]]},
+  {"path": ["Completing Fables & Frontiers"], "idle": false, "lines": [["> “WELL MET, ADVENTURER", null], ["> Well met, indeed!", null], ["> For completing my mini-adventure most foul, I bequeath unto thee this art most wonderful. Go forth, do with it what thou will! Adorn thine space with its colours, should ye find it suitable.", null], ["> (AKA: IDK, it's cool, tape it to your wall or something.)", null], ["> - Your Most Honorable Fablemaster", null], ["> (PS: Still sorry about the whole... YEEeeeaAaaaah...)”", null], ["(Attached: Fables & Frontiers: Running Late Adventure Poster)", null]]}
+ ]
+}

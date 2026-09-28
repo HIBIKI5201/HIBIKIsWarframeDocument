@@ -10,6 +10,8 @@ Nef Anyo の賭けに巻き込まれ、Nidus を手に入れる
 
 Nef Anyo が Mycona Colony の子どもたちをさらった。Tenno は The Index で Nef に挑み、Mycona Colony と Infested にまつわる謎を暴きながら、彼の企みを止めるサイドクエスト。Update 19.5（2016-12-22）で追加された。
 
+- 台詞全文（取り込み）: [The Glast Gambit/Transcript](../../quotes/the-glast-gambit-transcript.md)（203 行、うち独り言など 3 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Glast_Gambit)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Glast_Gambit/Transcript) / [日本語 Wiki「グラスト・ギャンビット」](https://warframe.fandom.com/ja/wiki/%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%93%E3%83%83%E3%83%88) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-glast-gambit.md) / [全文検索](../../search.html?q=The%20Glast%20Gambit)
 
 ## 基本情報

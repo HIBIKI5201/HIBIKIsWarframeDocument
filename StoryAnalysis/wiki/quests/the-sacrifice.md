@@ -12,6 +12,8 @@ Ballas に連れ去られた Lotus を追ううちに、意志を持ち Ballas �
 
 > 「取り替えられるなら、そうするかね？ もちろんだろう。だがあらゆる奇跡には……犠牲が要る。彼らの命のために……君の命を」（Ballas）
 
+- 台詞全文（取り込み）: [The Sacrifice/Transcript](../../quotes/the-sacrifice-transcript.md)（396 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Sacrifice)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Sacrifice/Transcript) / [全文検索](../../search.html?q=The%20Sacrifice)
 
 ## 基本情報

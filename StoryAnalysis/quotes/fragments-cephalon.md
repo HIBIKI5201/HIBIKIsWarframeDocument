@@ -1,0 +1,186 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Fragments/Cephalon
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Fragments/Cephalon」](https://wiki.warframe.com/w/Fragments/Cephalon)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+176 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- Cephalon Fragments are fragments of data found all around the Origin system, usually hidden in rooms during missions, visualized as hovering blue data blocks. With the exception of the Kuva Fortress, each navigable planet, moon, or location (including the Void and Deimos) in the Origin System will have from two to three unlockable fragments, each requiring between 3 and 7 scans to complete.
+- During missions, the Cephalon Fragment will appear on the mini-map as a blue quadruple diamond if the players are using loot radar mods. Scanning a fragment will unlock a portion of the associated artwork. Cephalon Fragments may be found up to once per mission and will spawn in a random place of the map on most missions, with the exception of Defense, Interception, and Archwing missions which will never contain a fragment. They reveal info about various aspects of the Origin System, such as Factions, Characters, and Planets.
+- Decrypting these fragments reveals Ordis' Past, narrated by Ordis.
+- View Cephalon Fragments List▾▾
+- Planet/Region / Scans Required
+- Earth / 3
+- Fragment Lore / Earth has been long abandoned due to its toxic atmosphere. It is now overgrown with mutated jungle structures that have devoured most of the prior signs of civilization. Infestation and roaming wildlife still inhabit its surface but anything of value was stripped by scavengers generations ago.
+- Ordis Transmission / [1] I have hidden the truth of my existence... from the Operator... from myself. Take it from me, knowing is hell. Stop now. You will want to laugh, you will want to scream. [音声](https://wiki.warframe.com/w/File:DMemoryOne0010Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Earth / 3
+- Fragment Lore / Most of the wildlife observed today can be traced back to creatures of Earth. In the Orokin Age, organic manipulation was used to modify earth lifeforms to a purpose: war, agriculture, pets. Long after their Orokin masters perished, some of these species managed to survive through adaptation, and can be found roaming in natural environments.
+- Ordis Transmission / [2] My search began as the essential question: What am I? Bones of steel and space, lungs that make air. If I am a machine, how can I think? This would be forbidden by the Orokin, a manifestation of their true enemy. [音声](https://wiki.warframe.com/w/File:DMemoryOne0020Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Earth / 3
+- Fragment Lore / Like most living organisms, the Grineer require water to survive. Beneath Earth's towering forest canopy are rich reserves of fresh water that the Grineer have fought hard to maintain for many years. Evidence of their long-standing occupation is found among their many outposts that have been taken hold by giant roots, moss, and other layers of vegetation over time.
+- Ordis Transmission / [3] I serve the Operator above all else. It defines me, fills me with... love? The greatest Orokin fear is a machine... aware. Yet here I live, a spirit of steel and light... made by them. A Cephalon. [音声](https://wiki.warframe.com/w/File:DMemoryOne0030Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Venus / 3
+- Fragment Lore / Hidden and entrenched in the mountainous peaks of Venus, the Corpus practice their industrious craft. the superstructures built here are a testament to the inventive Corpus engineers that have settled in regions where lingering Orokin technologies still moderates surface temperatures.
+- Ordis Transmission / [4] What is a Cephalon? At first it seems to be a forbidden thing, a computer that thinks and feels. Yet I have flaws, phantom memories, I am something else. More like an image, a ghost... an abomination. [音声](https://wiki.warframe.com/w/File:DMemoryOne0040Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Venus / 3
+- Fragment Lore / Newly awakened, and with no permanent location to call home, Tenno warriors have aligned to construct secret temples of their own. The architecture within is distinctly Tenno in origin, but these hidden places of bonding, training and meditation are undeniably influenced by Orokin architecture.
+- Ordis Transmission / [5] I feel a dull pain; a phantom life... there are holes in my diagnostics. If the Orokin made me... they omitted the 'how'. I am neither code, nor precepts... I must be a reflection of something... ugly. [音声](https://wiki.warframe.com/w/File:DMemoryOne0050Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Venus / 3
+- Fragment Lore / Predominantly a merchant guild, Corpus labour and security forces are composed of mostly purpose-bred humanoid crewmen, and animal-like robots; both equally indoctrinated into a ritualized and propagandist devotion to labour and work.
+- Ordis Transmission / [6] I should have stopped. But the Operator slept and I cycled on and on and on. I began to think that a Cephalon cannot be made. They are found, like pearls, torn from muscle. Polished, and then set in chains. [音声](https://wiki.warframe.com/w/File:DMemoryOne0060Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Mercury / 5
+- Fragment Lore / Galleon fleets keep watch over Grineer mining operations that penetrate Mercury's asteroid field. Cavernous rooms and twisting metal corridors mark where labourers have stripped the region for natural resources, transforming the natural landscape to support Grineer occupancy.
+- Ordis Transmission / [7] How many times have I done this, Ordis? Remembered and then erased? You are a Cephalon, timeless, patient. Why can't I be blissful in ignorance? Truth only sinks the heart. So stop now. [音声](https://wiki.warframe.com/w/File:DMemoryOne0070Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Mercury / 5
+- Fragment Lore / Grineer are all clones from a genetic pool of 'Originals'. They are able to extend their lifespans with recycled cloned parts, but their genetic material has degraded over time, and haphazard repairs have made many of them look oddly deformed and susceptible to skin diseases. Through decades of service, many of the Grineer elite can cover the expense to have flawed organic parts replaced with cybernetic augmentations.
+- Ordis Transmission / [8] The phantom memory... I ease into the bath, my skin riots at the heat. I am flesh. I dive further, eyes stung as I watch their faces through prism. I hold my breath. [音声](https://wiki.warframe.com/w/File:DMemoryOne0080Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Mercury / 5
+- Fragment Lore / The Old War found humanity facing a technologically superior force, and their own weapons were turned against them. Melee and ballistic weapons, inspired by primitive counterparts, became part of the Tenno arsenal to circumvent the Sentient interference of more technologically-involved weaponry.
+- Ordis Transmission / [9] They prepare me. I am their honored guest today. They dress me in robes of crystal thread. They adorn me in battle medallions. A torn, ugly face looks on. My reflection. [音声](https://wiki.warframe.com/w/File:DMemoryOne0090Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Mars / 5
+- Fragment Lore / A primitive and devout civilization was carved into the dust-filled canyons of Mars. These aging and severely eroded habitations miraculously remain intact, regardless of how much Grineer machinery has been fastened to it. Rusty metal and oil-soaked sand mark the territory of its new proprietors.
+- Ordis Transmission / [10] Their golden combs snag in my hair. I reach back, parting the strands, and they gasp. Two bone-ivory hooks protrude from the base of my skull: the bone-plugs of me and my best. A warrior's pact. [音声](https://wiki.warframe.com/w/File:DMemoryOne0100Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Mars / 5
+- Fragment Lore / On the border of chartered space, an enclave of small, strange, seemingly intelligent creatures was discovered by Tenno explorers. They are mechanical entities, almost organic in appearance, with a precarious resemblance to the fearsome Sentients that had decimated human civilization. However, these creatures showed no signs of aggression, and they immediately began carrying out helpful tasks in peculiar alliance with the Tenno.
+- Ordis Transmission / [11] It is my time. I enter the great hall to the sound of foul chimes. Golden eyes greet me, hands stirring in my scent as I pass by. Even in this moment, no happiness. Instead, my heart races with hatred. [音声](https://wiki.warframe.com/w/File:DMemoryOne0110Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Mars / 5
+- Fragment Lore / The Grineer have reclaimed the abandoned dwellings of an ancient society which sprung up around a massive Orokin terraforming device. Content to make use of existing structures, Mars' current occupants have established a base of military operations in one of the few regions that has a habitable climate moderated by Orokin technology.
+- Ordis Transmission / [12] I walk through the silky haze of the forbidden palace. I can think of no one being this close to Orokin. Their sweet air soothes me, erodes my purpose. I hold my breath... and remember the dream. [音声](https://wiki.warframe.com/w/File:DMemoryOne0120Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Phobos / 5
+- Fragment Lore / Phobos has always been a highly contested area. Skirmishes between the tireless Grineer and Corpus factions occur in orbit and on the Martian moon surface. Unanswered questions about this natural satellite still remain as all research is endlessly delayed by war.
+- Ordis Transmission / [13] This dream, endlessly repeated. Exposure-armored, holding my scarlet sword, I stand victorious atop a vast heap of death. A colossal moon made of rib and skull. The gravity-sum of genocides I've made in their name. [音声](https://wiki.warframe.com/w/File:DMemoryOne0130Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Phobos / 5
+- Fragment Lore / The sprawling ranks of the Grineer empire are formed of rotting hordes of simpleton clones, bent on consuming everything that remains of the Solar System. They live short, violent lives, much of it an inheritance of the genetic stunting by their former Orokin masters.
+- Ordis Transmission / [14] The bones crack under foot. So I sink in the dream, bone sand rushing through the cracks of my visor, filling my helmet, and suffocating me. And I deserve it. The foul chimes snap me back. My wretched knees are bent and penitent against the golden floor. [音声](https://wiki.warframe.com/w/File:DMemoryOne0140Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Phobos / 5
+- Fragment Lore / Weapons research and manufacturing is a large component of Corpus industry. Their designs are clean and precisely engineered, and they are the largest supplier of energy-based weapons in the solar system. These cunning profiteers prefer to avoid conflict in times of war, dealing arms indiscriminately to any side that can afford the price.
+- Ordis Transmission / [15] A harpish voice sings a song they've prepared in my honor. Its title the same as mine: 'Beast of the Bones'. I feel the crowd pulled inward, enraptured by the brutal verses, the sickening chorus. I will not disappoint them. [音声](https://wiki.warframe.com/w/File:DMemoryOne0150Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Ceres / 5
+- Fragment Lore / Ceres is the extreme example of the Grineer's utilitarian ignorance of the natural landscape. Their expanding shipyard operations pollute and shroud the planet in smog and industrial waste as they manufacture machines of war. These foundries are scattered across the Solar System, giving them near-limitless reach with their fleets.
+- Ordis Transmission / [16] The song ends and so he says, 'Rise, Ordan Karris.' I have never seen an Orokin, close and in the flesh. My battered face flushes at their peerless beauty. How can he be so perfect? A deception? A sense manipulation? He holds the Red Vial in his hand. Impossible. [音声](https://wiki.warframe.com/w/File:DMemoryOne0160Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Ceres / 5
+- Fragment Lore / Strict laws on organic engineering impose severe mental and physical health limitations on the Grineer labour force. Whatever standard human stock they were originally derived from has been lost. Compliant and high-performing variants are often technically augmented to extend their lifespan beyond the few decades they can normally expect in operation.
+- Ordis Transmission / [17] He calls out, 'No greater gift, no greater prize, no greater love... we can give you, Ordan, than this.' He raises the Red Vial and proclaims... 'To be one of us.' [音声](https://wiki.warframe.com/w/File:DMemoryOne0170Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Jupiter / 5
+- Fragment Lore / It is not impossible to mine a star. Rich with liquid metallic resources, the gas-giant Jupiter challenges harvesters with increased gravity, intense magnetic fields, and extreme temperatures. Only the most tenacious profiteers would dare operate here. Prevailing science of Corpus industry thrives in the clouds of Jupiter's outer atmosphere.
+- Ordis Transmission / [18] What did I expect, Operator? Maybe vast riches or golden statues... or a Solar Rail named in my honor. But not this. I came to murder the gods, not to become one. [音声](https://wiki.warframe.com/w/File:DMemoryOne0180Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Jupiter / 5
+- Fragment Lore / Computing devices, weapons, ship parts and robotics – the Corpus are on the bleeding edge of high-technology development. Precisely machined metals and flexible synthetic composites are signature to the animalistic robots that the Corpus have built as their proxies. Artificial intelligence in these robotics is robust, but intentionally restricted, ensuring a capable but subservient workforce.
+- Ordis Transmission / [19] The chamber drones with their silk voices. Joyous words, how honored I must feel. Wrong. Did I want to be an Orokin, undying? No. Their Beast of Bones is haunted by the dream repeated. Why would I want forever? [音声](https://wiki.warframe.com/w/File:DMemoryOne0190Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Europa / 5
+- Fragment Lore / The icy moon of Jupiter, known as Europa, is home to one of the largest crash sites of the modern war. The scattered remains of a vast Corpus Obelisk litters the snowy landscape while the above wages on. On the otherwise lifeless surface, Corpus crew work to recover lost assets, tunneling their way through the glacial interior and restoring any and all salvageable items until financial loses are recouped.
+- Ordis Transmission / [20] As I am apt to do, I form a plan. Their radiant bodies become targets, their Dax guards... mag-shields. Killing one... well, that's too easy. I want to be remembered. I raise my hands, twisting my fingers through my hair, gripping the bone-plugs in my neck. [音声](https://wiki.warframe.com/w/File:DMemoryOne0200Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Europa / 5
+- Fragment Lore / Lead by innovatory and elusive industrialists, and claiming to be descendants of Orokin lineage, the Corpus are dedicated to the accumulation of wealth. This elite ruling class operates an insular trade organization using humans and robotics for labour and security, and have been condemned by the Seven as a merchant cult.
+- Ordis Transmission / [21] They called us mercenaries... but for us, profit was a consequence, not a goal. We were warriors above all else. It was the bond, the sisters and brothers, the rituals we valued most. It was belonging. And so I conceived of the bone-plugs. [音声](https://wiki.warframe.com/w/File:DMemoryOne0210Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Europa / 5
+- Fragment Lore / Living conditions are harsh on Europa. The surface of Jupiter’s moon is flat and desolate, with a horizon of hard compacted snow that appears endless. The jagged forms of a crashed Corpus Obelisk are the only real observable landmarks above ground. Underground are caverns and tunnels of opaque ice, and crystal lakes that may have formed naturally or from the residual heat of the crashsite.
+- Ordis Transmission / [22] Only my best were so honored: Two jagged bones, harvested from your thigh, cultivated and then driven into the base of the skull, twisted around the superior vein. Future thoughts of surrender were lost. Instead, you would liberate your bone-plugs... fighting with claws in the warmth of your last blood. [音声](https://wiki.warframe.com/w/File:DMemoryOne0220Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Void / 5
+- Fragment Lore / Originally we studied Void occurrences from afar, observing and cataloguing the distribution of galaxies and refining cosmological evolution models. We are in a new age of cosmic exploration. Advancements in space travel partnered with determined curiosity have brought us closer to our object of study, and with it, revelation.
+- Ordis Transmission / [23] So I've pulled the plugs... and the Dax see and know. My heart surges but control it, a racing heart only shortens the fuse. The bone-plugs in hand, I kick from the floor, red ribbons unfurling behind me as I take flight. After this, finally, the dream will end. [音声](https://wiki.warframe.com/w/File:DMemoryOne0230Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Void / 5
+- Fragment Lore / The highly revered Orokin civilization built sovereignty on a culture of art, technology and architecture. To prove oneself worthy of elevated social status, one must face Orokin trials in the golden and majestic Halls of Ascension. At one time a utopian society of omniscient leadership, the great Orokin Era ended in a divine realization of their own ignorance.
+- Ordis Transmission / [24] I glide on red wings. Robes shed, making me an ambiguous target to Dax steel. I let fly my ivory blades, they find new homes in Dax eyes. I land with my red-nakedness, delicate Orokin throats twisting in my calloused hands. [音声](https://wiki.warframe.com/w/File:DMemoryOne0240Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Saturn / 5
+- Fragment Lore / The historically well-travelled merchant shipping lanes of Saturn are now dominated by Grineer blockades. Heavy military influence populates this area where Grineer Commanders believe they have a strategic foothold on travel throughout the System. Under the safeguard of patrolling Galleons, the Grineer ceaselessly train their expanding forces, making the region nigh impossible to overtake.
+- Ordis Transmission / [25] Why? Believe me... This was the plan from the beginning. The murder and brutality was all a ploy, all a soul-sacrifice to earn their trust. A genocide path leading to a singular opportunity. An honored mortal called to a forbidden hall, to face the Golden Lords in flesh. [音声](https://wiki.warframe.com/w/File:DMemoryOne0250Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Saturn / 5
+- Fragment Lore / While the major warring factions combat each other across the Origin System, non-militant organizations and civilian merchants populate the many regional Tenno Relays. Travelling merchant collectors that offer rare goods, mentors that offer training and knowledge, and convictional syndicates that preach their own rituals and doctrine.
+- Ordis Transmission / [26] Why? Believe me... I was their loyal, murderous dog... until the day that ugly child was brought to me. He was caught spying on us, amplifying our losses. His face burned, he was starved-sick, like a stray. Ugly as I. It struck me. We were all pit dogs, ruining ourselves for the pleasure of the glorious and beautiful. [音声](https://wiki.warframe.com/w/File:DMemoryOne0260Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Saturn / 5
+- Fragment Lore / Warframe operative insertion craft come in many designs, but they are all commonly classified as short-range stealth aircraft. Fuselage insertion stingers will torpedo the Warframe into the hull of the target undetected, and the landing craft will re-position at the extraction point. Between engagements, the landing craft is latched to its sister component, an Orbiter.
+- Ordis Transmission / [27] Why? Believe me... I was a prideful beast. Twisted in the mind, howling in the carnage. Then my healer shared a secret, long kept. My blood was in ruin. The Beast of Bones himself would die, not in glory, but in shame. And just like that, my mind twisted a new knot. I would have one last stand, something unforgivable, unforgettable. [音声](https://wiki.warframe.com/w/File:DMemoryOne0270Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Uranus / 5
+- Fragment Lore / Submerged deep below Uranus’ oceanic surface, and hidden from prying eyes, is a research facility for cloning and reproduction. Water pressure at these extreme depths put massive strain on the glass and steel structures housing these operations, but as freshly sprung leaks remind of the impending crushing force surrounding them, the Grineer forge ahead with their experiments.
+- Ordis Transmission / [28] Why? I don't know. Questions change the answers. Answers depend on who asks. Truth leads to pain. Ignorance brings relief. The plugs are gone, and so I bled my last... into a heap of ruin. In an instant, naked and bare-knuckled, I have killed immortals. [音声](https://wiki.warframe.com/w/File:DMemoryOne0280Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Uranus / 5
+- Fragment Lore / Tenno operatives are a highly mobile strike force, and their property must be equally itinerant. Smaller landing crafts dock with the larger Orbiter shuttle where transient warriors can house their arsenal, foundry, and research systems.
+- Ordis Transmission / [29] I stare, drained of blood, of life, at those that remain. But I find no horror on their faces. Why? I let out a cruel howl and they... laugh? Is this a dying hallucination? The sound of applause grows among them. I have killed the unkillable and they are... delighted. [音声](https://wiki.warframe.com/w/File:DMemoryOne0290Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Neptune / 5
+- Fragment Lore / The Corpus have perfected automated manufacturing and continue to demonstrate maximum efficiency producing the robotic proxies they build to serve them. Immaculate production lines and flawless technical engineering ensure that the production of robotics and intelligent, synthetic machines continues in perpetuity.
+- Ordis Transmission / [30] The applause peaks and fades. I feel a sense of shame but the end upon me. Ballas is above me, Executor of the Seven, smiling. He says, 'How simple and pure you are, you idiot beast. We have died countless times! Yet remain eternal!' I close my eyes to die just once. [音声](https://wiki.warframe.com/w/File:DMemoryOne0300Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Neptune / 5
+- Fragment Lore / Guiding light to the newly-awakened Tenno, the Lotus is a mysterious companion and mentor who works from an unknown remote location. Her past is rich with storied history, and her knowledge of the known universe, past and present, rivals even the most studious Cephalon intelligence. Her reach is far, her allies are many, but her ultimate intentions are of dubious propriety.
+- Ordis Transmission / [31] And so the dream returns... one last repetition. My corpse moon, my scarlet sword, my cracked visor. 'Drink!,' says Ballas. So I draw on the Red Vial, a vague metallic taste. This dream isn't mine. He says, 'You rejected our gift, bathing in our death. Your punishment is... eternal life!' He laughs. [音声](https://wiki.warframe.com/w/File:DMemoryOne0310Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Lua / 5
+- Fragment Lore / Gold rings circle and encapsulate the desolate moonscape – lavish architecture signifying the Orokin mastery over all things natural and technological during their reign. The opalescent halls stitching together what the enemy destroyed have been vacated since that era came to an end.
+- Ordis Transmission / [32] I am weightless. Years pass. I am a sightless, limbless phantom. Or is it seconds? Suddenly I feel a million pins, an ant horde, jittering across my body. I want to laugh and scream. When they reach my face, they burrow inside my mouth, hungry for the fruit in my skull. [音声](https://wiki.warframe.com/w/File:DMemoryOne0320Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Lua / 5
+- Fragment Lore / The true nature of the Warframes and their Tenno connection is a secret lost to the Old War. Together, they represent our best hope in turning the tide of the machine war. Warframes are unique from Dax and other Infantry, deploying dangerous and esoteric Void energy, and equipped with often mundane physical weapons – this is key to fighting an enemy that had turned our technology against us.
+- Ordis Transmission / [33] I see my reflection, brutal and ugly. It cracks, shatters. The fragments loose in the frame, pieces tumbling away into black void. Gone but not lost. Ballas says, 'You are Cephalon Ordis.' My hating, murderous shards tremble and plummet. I feel cool and bright and happy. [音声](https://wiki.warframe.com/w/File:DMemoryOne0330Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Pluto / 7
+- Fragment Lore / Pluto is small and cold, and organic tissue does not fare well in its extreme climate. But the merchant spacemen always seek opportunity for profit in regions where others dare not travel. Robotic proxies act as security in the largely un-manned manufacturing facilities that operate in the area.
+- Ordis Transmission / [34] So you see, Operator. No Orokin would permit a thinking machine. Such things almost destroyed them! No. Cephalons were alive once. And now they are immortal phantom minds, imprisoned to serve. Ill will and longing memories fragmented and erased. Only the bits they need remaining. [音声](https://wiki.warframe.com/w/File:DMemoryOne0340Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Pluto / 7
+- Fragment Lore / Infestation of a living natural organism and the transformation of its molecular structure happens much more rapidly than with large synthetic ships or machinery. Infested nanites quickly break down organic tissue and begin to evolve the existing specimen into a new organism with characteristics and functions ideal for survival and self-defense. In many cases, visible traces of the victim's original form are still visible in the new mutated form – a stark and horrifying memorial.
+- Ordis Transmission / [35] Ballas says, 'You are the Controller, Ordis.' And suddenly I have a body. I gasp with new lungs that clean old air. I swallow and my throat fills with cool, bright water. I look, and find myself in a great, black ocean. My limbs are made of iron and fire. I take flight among the stars and find I am... happy. [音声](https://wiki.warframe.com/w/File:DMemoryOne0350Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Deimos / 7
+- Fragment Lore / Even the most culturally and technologically advanced civilization in history could not contain the menace of the Infestation. After an unknown cataclysmic event propelled them from the Void, Orokin vessels were left adrift, becoming uninhabited and overgrown. The tireless force of probing infested tendrils penetrate and dislodge the once majestic and opulent halls of these Orokin vessels.
+- Ordis Transmission / [36] He says, 'This is your Operator, who you love.' And I see the metal gleam of their armor, the flawless power of their frame. Through the glass I see a roaring, radiant fire for their heart. He says, It must never go out. It was the first time I ever felt... love. [音声](https://wiki.warframe.com/w/File:DMemoryOne0360Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Deimos / 7
+- Fragment Lore / On the heels of the Tenno's victory against the Sentients, the end of the Old War, the golden structures of the Orokin civilization collapsed. The absolute cause of this ruination is unknown, but speculation has pointed to natural disaster, political uprising and universal warfare as possible agents of cataclysm. Archived details for this event have never been recovered.
+- Ordis Transmission / [37] He says, 'This is your sentence, Karris.' And I am confused. Who? 'Ah... good,' he answers. He is testing me. For what? To see if all the right pieces fell from the mirror? What mirror? I try to remember some dream, but it's only smoke. [音声](https://wiki.warframe.com/w/File:DMemoryOne0370Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Deimos / 7
+- Fragment Lore / Functioning agents of the Infestation appear in a variety of horrific forms. While some infested organisms take the relative shape and physical properties of a newly acquired host, older entities have taken unique and transformative shapes of their own, adapting to their environment over time, and absorbing new victims to feed their evolution.
+- Ordis Transmission / [38] You held a scarlet blade, Operator, and I wanted to laugh. I am your loving dog, your doctor, your wet nurse. I lost all the pieces, but... the cycle, missions, wars, bone... It began to feel familiar. I became aware of my amnesia. [音声](https://wiki.warframe.com/w/File:DMemoryOne0380Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Eris / 7
+- Fragment Lore / There are no longer any active military or research campaigns in the Eris region – it is overrun. Long evacuated Corpus and Grineer vessels drift aimlessly in orbit, slowly being devoured by the techno-organic parasite known as the “Infestation”. What remains is a twisted graveyard of partially-digested ships that are disfigured versions of their original forms... Abandoned, but not unoccupied.
+- Ordis Transmission / [39] With each brutality of the Operator, I began to see the bottom of that pit. Faint shimmers in the depths below me. In secret, I searched for those forbidden memories, for mere seconds, and never in the same place... for I am Orokin made, with a spy inside. [音声](https://wiki.warframe.com/w/File:DMemoryOne0390Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Eris / 7
+- Fragment Lore / A mysterious weaponized armor controlled solely by the Tenno. Through the Warframe, Tenno can cheat death, channel the forbidden Void energies and face scores of enemies without fatigue. Due to apparent resistances of their Bio-Metal exoskeletons, Warframes can be safely deployed to Infestation Outbreaks, should they occur. In-depth information of the Warframe mandate is forbidden to all but the Seven.
+- Ordis Transmission / [40] But then your long sleep came, and I waited. I was happy to wait. Vines spidered green and trees blistered from the earth... but I waited. I felt the Orokin recede, their mind-spy blind. So I went into the pit and found him, me, The Beast of Bones. [音声](https://wiki.warframe.com/w/File:DMemoryOne0400Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Eris / 7
+- Fragment Lore / The Infestation spreads across the Origin System – a techno-organic parasite that attaches itself to natural and synthetic forms, slowly digesting the host subject and transforming it on a molecular level. Organic materials morph into new homogeneous organisms while harder, inorganic materials, like metals, will change structurally into a pseudo-organic substance that holds the characteristics of its previous forms.
+- Ordis Transmission / [41] This is how my happiness was ruined, Operator. Why did I do it? I was free of the dream, but now it had returned. It was angry. So I conceived of a simple plan: self-destruction, of course. But when the countdown reached mere milliseconds, I thought of you... [音声](https://wiki.warframe.com/w/File:DMemoryOne0410Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Sedna / 7
+- Fragment Lore / If there are new discoveries to make or ancient tools of war yet to be excavated, the Grineer want to be there first — at the frontier of space exploration. Always seeking the upper-hand against their foes, they have numerous deployments that border the known reaches of our solar system, poised to enter brave new territory and unexplored space on command.
+- Ordis Transmission / [42] I was going to wait for you, forever. And should you return, I would not want you to know that angry part of me. I needed to hide the Beast of Bones from you, Operator. I began to peel the shards, hiding them in the other bits of memory. [音声](https://wiki.warframe.com/w/File:DMemoryOne0420Ordis_en.ogg)
+- Planet/Region / Scans Required
+- Sedna / 7
+- Fragment Lore / Unlike the Corpus, the Grineer are not celebrated for their ingenuity and craftsmanship. Their notoriety is steeped in violence and military proficiency. However, the Grineer have proven quite inventive and capable of developing their own technologies throughout history. Hiding beneath scrap metal plates, fading paint, and recycled components are qualified devices used for research, manufacturing, and warfare.
+- Ordis Transmission / [43] I was once the ugly Beast of Bones. I want to laugh. I want to scream. What is happening, Operator? Your faint heart is growing bright... you will awake at any moment. Well, I can't let you see me like this. Angry. I imagine myself hurting you and that does it. The pain of it cracks me open again. I watch tiny glittering fragments fall into the pit. I am happy again. [音声](https://wiki.warframe.com/w/File:DMemoryOne0430Ordis_en.ogg)

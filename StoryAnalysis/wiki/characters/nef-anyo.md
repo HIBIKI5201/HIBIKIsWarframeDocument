@@ -15,6 +15,7 @@
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 5 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Nef Anyo/Quotes](../../quotes/nef-anyo.md)（150 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nef_Anyo)（英語・出典） / [日本語 Wiki「Nef Anyo」](https://warframe.fandom.com/ja/wiki/Nef_Anyo) / [日本語 Wiki の取り込み](../../fandom-ja/pages/nef-anyo.md) / [全文検索](../../search.html?q=Nef%20Anyo)
 

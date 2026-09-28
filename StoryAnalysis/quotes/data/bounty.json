@@ -1,0 +1,12 @@
+{
+ "key": "bounty",
+ "title": "Bounty/Quotes",
+ "url": "https://wiki.warframe.com/w/Bounty/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 12,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue and tranmissions during Bounties in Landscapes.", null], ["- General Plains of Eidolon bounties - Plains of Eidolon/Quotes", null], ["- Eidolon hunt bounties - Eidolon/Quotes", null], ["- Ghoul Purge bounties - Ghoul Purge/Quotes", null], ["- Operation: Plague Star bounty - Operation: Plague Star/Quotes", null], ["- General Orb Vallis bounties - Orb Vallis/Quotes", null], ["- Thermia Fractures - Thermia Fractures/Quotes", null], ["- Profit-Taker Orb Heist - Profit-Taker Orb/Quotes", null], ["- Exploiter Orb fight - Exploiter Orb/Quotes", null], ["- General Cambion Drift bounties - Cambion Drift/Quotes", null], ["- Isolation Vault and Arcana Isolation Vault bounties - Isolation Vault/Quotes", null], ["- Deepmines - Deepmines/Quotes", null]]}
+ ]
+}

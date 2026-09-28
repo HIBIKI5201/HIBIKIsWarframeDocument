@@ -1,0 +1,13 @@
+{
+ "key": "tactical-alert-blackout",
+ "title": "Tactical Alert/Blackout/Quotes",
+ "url": "https://wiki.warframe.com/w/Tactical_Alert/Blackout/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 2,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue during Blackout Tactical Alert.", null]]},
+  {"path": ["Inbox Message"], "idle": false, "lines": [["- Darvo: \"Tenno, my contact has informed me of a convoy of abandoned merchant vessels drifting in dead space. Seems like such a waste of good product to just leave it floating there when it could be on my shelves instead. Reactivate the navigation consoles, and I can reroute them to a... secure location. After I take down the inventory of each ship, we can share the dividends, minus my usual finder's fee of course.\"", "DBlackout00010Darvo_en.ogg"]]}
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "key": "the-maker-transcript",
+ "title": "The Maker/Transcript",
+ "url": "https://wiki.warframe.com/w/The_Maker/Transcript",
+ "kind": "クエスト（台詞全文）",
+ "site": {
+  "key": "the-maker",
+  "name": "創造主",
+  "page": "The Maker"
+ },
+ "count": 20,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["← Previous (Erra (Quest)/Transcript)", null], ["Next (The New War/Transcript) →", null], ["Transcript of The Maker quest.", null]]},
+  {"path": ["During The Maker"], "idle": false, "lines": [["- Erra: \"We're ready, Natah.\"", "DThroneRoom0010Erra_en.mp3"], ["- Natah: \"So quiet. So dark.\"", "DThroneRoom0020Natah_en.mp3"], ["- Erra: \"It only needs a voice, a spark.\"", "DThroneRoom0030Erra_en.mp3"], ["- Natah: \"But mother--\"", "DThroneRoom0040Natah_en.mp3"], ["- Erra: \"Mother's gone. This is all that remains. But you have her fire. And more. You can finish what she started...\"", "DThroneRoom0050Erra_en.mp3"], ["- Natah: \"Finish the war.\"", "DThroneRoom0070Natah_en.mp3"], ["- Erra: \"Bring peace. Bring purity.\"", "DThroneRoom0080Erra_en.mp3"], ["- Natah: \"On Lua. The Lotus... I... attacked you...\"", "DThroneRoom0090Natah_en.mp3"], ["- Erra: \"You remember...\"", "DThroneRoom0100Erra_en.mp3"], ["- Natah: \"You died...\"", "DThroneRoom0110Natah_en.mp3"], ["- Erra: \"Hmm... You don't remember everything, then. Yes, your aphids wounded me. And our forces were depleting fast. I knew I had failed. Failed you, my sister. Failed our family. I had no choice but to retreat.\"", "DThroneRoom0120Erra_en.mp3"], ["- Natah: \"No... You were destroyed, the Tenno made sure of that--\"", "DThroneRoom0140Natah_en.mp3"], ["- Erra: \"You're still recovering. With all that the Makers did to you, it will take time to heal.\"", "DThroneRoom0160Erra_en.mp3"], ["- Natah: \"He is one of them, isn't he? A Maker.\"", "DThroneRoom0170Natah_en.mp3"], ["- Erra: \"Finish the war, Natah.\"", "DThroneRoom0180Erra_en.mp3"], ["← Previous (Erra (Quest)/Transcript)", null], ["Next (The New War/Transcript) →", null]]}
+ ]
+}

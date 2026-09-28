@@ -14,6 +14,7 @@ The Holdfasts の Archimedean。Voidplume と引き換えにスタンディン�
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Archimedean Yonta/Quotes](../../quotes/archimedean-yonta.md)（119 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Archimedean_Yonta)（英語・出典） / [全文検索](../../search.html?q=Archimedean%20Yonta)
 

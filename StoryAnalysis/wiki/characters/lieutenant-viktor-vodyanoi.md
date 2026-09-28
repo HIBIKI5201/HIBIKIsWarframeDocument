@@ -14,6 +14,7 @@ Scaldra の副官
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Lieutenant Viktor Vodyanoi/Quotes](../../quotes/lieutenant-viktor-vodyanoi.md)（93 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Lieutenant_Viktor_Vodyanoi)（英語・出典） / [全文検索](../../search.html?q=Lieutenant%20Viktor%20Vodyanoi)
 

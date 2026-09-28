@@ -1,0 +1,12 @@
+{
+ "key": "necramech-sfx",
+ "title": "Necramech/SFX",
+ "url": "https://wiki.warframe.com/w/Necramech/SFX",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 1,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Audio files and sound effects of Necramech battle mechs.", null]]}
+ ]
+}

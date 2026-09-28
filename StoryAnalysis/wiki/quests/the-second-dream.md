@@ -10,6 +10,8 @@ Hunhow と Stalker からリザーバーを守り、Tenno の本当の姿（オ�
 
 Sentient Hunhow が Stalker と手を組み、Tenno の本当の姿を暴いて滅ぼそうとするメインクエスト。Update 18.0（2015-12-03）で追加された。
 
+- 台詞全文（取り込み）: [The Second Dream/Transcript](../../quotes/the-second-dream-transcript.md)（294 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Second_Dream)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Second_Dream/Transcript) / [日本語 Wiki「二番目の夢」](https://warframe.fandom.com/ja/wiki/%E4%BA%8C%E7%95%AA%E7%9B%AE%E3%81%AE%E5%A4%A2) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-second-dream.md) / [全文検索](../../search.html?q=The%20Second%20Dream)
 
 ## 基本情報

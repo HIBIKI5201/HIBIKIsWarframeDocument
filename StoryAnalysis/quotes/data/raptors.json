@@ -1,0 +1,21 @@
+{
+ "key": "raptors",
+ "title": "Raptors/Quotes",
+ "url": "https://wiki.warframe.com/w/Raptors/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "raptors",
+  "name": "Raptors",
+  "page": "Raptors"
+ },
+ "count": 22,
+ "idle": 0,
+ "sections": [
+  {"path": ["Lotus Transmission"], "idle": false, "lines": [["- Lotus: \"I thought we had seen the last of this dreaded Raptor project, but now the Corpus have escalated their interest and investments. We need to shut them down for good.\"", null], ["- \"The new Raptor production facility appears to be entirely underground. A crashed freighter under the surface has been masking its location. I fear they have developed even more deadly Raptor prototypes here.\"", null], ["- \"This may be difficult – the production facility is entirely automated. There is no way in without your warframe being torn up in the assembly line. You’ll have to figure out how to destroy it from the planet surface.\"", null], ["- \"We cannot risk the Corpus developing more advanced robotics. If the Corpus are building newer Raptors, it’s imperative we destroy the prototypes and their means of production.\"", null], ["- \"The Corpus are using a gravity conveyor system to move product up to the surface. These will be heavily shielded.\"", null]]},
+  {"path": ["Transmissions"], "idle": false, "lines": [["- \"Atapybitj Phteap Jeakteyyey: Tusetouy\" - \"Analyzing Threat Weaknesses: Numerous\"", null], ["- \"Atapybitj Phteap Tipapipy: Patjep Peapk Issitetp.\" - \"Analyzing Threat Vitality: Target Death Imminent.\"", null], ["- \"Atapybitj Phteap Paypiyy: Utyutktiyitj\" - \"Analyzing Threat Tactics: Unsurprising\"", null], ["- \"Atapybitj Phteap Jeakotty: Utiskteyyite\" - \"Analyzing Threat Weaponry: Unimpressive\"", null], ["- \"Yytpkeyibitj Appayk Kappetty: Paypiyy Jetetapep\" - \"Synthesizing Attack Patterns: Tactics generated.\"", null], ["- \"Yyypitj Kojet. Ottetyite Yyypesy Etjajep.\" - \"Cycling power. Offensive systems engaged.\"", null], ["- \"Atapybitj Ktetiouy Etyoutpety: Jeakteyyey Ipetpitiep\" - \"Analyzing Previous Encounters: Weaknesses identified.\"", null], ["- \"Atapybitj Phteap Itpeppijetye: Utpet-petepokep\" - \"Analyzing Threat Intelligence: Under-developed\"", null]]},
+  {"path": ["During Fight", "Intro"], "idle": false, "lines": [["- \"Appayk!\" - \"Attack!\"", null]]},
+  {"path": ["During Fight", "Attacking"], "idle": false, "lines": [["- \"???\"", null], ["- \"???\"", null], ["- \"???\"", null], ["- \"???\"", null], ["- \"???\"", null], ["- \"Appayk!\" - \"Attack!\"", null]]},
+  {"path": ["During Fight", "Abilities"], "idle": false, "lines": [["**Deploying Nemes RT**", null]]},
+  {"path": ["Pre-Update: The Silver Grove (2016-08-19)"], "idle": false, "lines": [["- \"The Raptor is the most recent Corpus heavy weapon. You must destroy it before it can begin full-scale production.\"", null]]}
+ ]
+}

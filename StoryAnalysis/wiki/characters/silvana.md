@@ -14,6 +14,7 @@ Infested を研究した Archimedean
 
 - グループ: [Orokin](g06-orokin.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Silvana/Quotes](../../quotes/silvana.md)（31 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Silvana)（英語・出典） / [全文検索](../../search.html?q=Silvana)
 

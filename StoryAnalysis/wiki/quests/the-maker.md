@@ -10,6 +10,8 @@ Prelude to War を構成する章の一つ
 
 Prelude to War の第 3 幕で最後となる短いメインクエスト。Update 27.3（2020-03-24）で追加された。前の幕と同じ Murex を舞台にしたムービーで、Erra は、自分の死や「創造主」Ballas について疑問を抱く Natah に「戦争を終わらせろ」と迫る。
 
+- 台詞全文（取り込み）: [The Maker/Transcript](../../quotes/the-maker-transcript.md)（20 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Maker)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Maker/Transcript) / [全文検索](../../search.html?q=The%20Maker)
 
 ## 基本情報

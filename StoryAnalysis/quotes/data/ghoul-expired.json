@@ -1,0 +1,13 @@
+{
+ "key": "ghoul-expired",
+ "title": "Ghoul Expired/Quotes",
+ "url": "https://wiki.warframe.com/w/Ghoul_Expired/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 11,
+ "idle": 6,
+ "sections": [
+  {"path": ["Idle"], "idle": true, "lines": [["- Ghoul Expired: \"\" - \"\"", "BbIdleGrinGhoulExp00210_en.ogg"], ["- Ghoul Expired: \"\" - \"\"", "BbIdleGrinGhoulExp00220_en.ogg"], ["- Ghoul Expired: \"Hu'm so rungry.\" - \"I'm so hungry.\"", "BbIdleGrinGhoulExp00230_en.ogg"], ["- Ghoul Expired: \"\" - \"\"", "BbIdleGrinGhoulExp00240_en.ogg"], ["- Ghoul Expired: \"\" - \"\"", "BbIdleGrinGhoulExp00250_en.ogg"], ["- Ghoul Expired: \"\" - \"\"", "BbIdleGrinGhoulExp00260_en.ogg"]]},
+  {"path": ["Attacking"], "idle": false, "lines": [["- Ghoul Expired: \"Attaf!\" - \"Attack!\"", "BbAttackGrinGhoulExp00100_en.ogg"], ["- Ghoul Expired: \"Eksplosion!\" - \"Explosion!\"", "BbAttackGrinGhoulExp00110_en.ogg"], ["- Ghoul Expired: \"\" - \"\"", "BbAttackGrinGhoulExp00120_en.ogg"], ["- Ghoul Expired: \"\" - \"\"", "BbAttackGrinGhoulExp00130_en.ogg"], ["- Ghoul Expired: \"\" - \"\"", "BbAttackGrinGhoulExp00140_en.ogg"]]}
+ ]
+}

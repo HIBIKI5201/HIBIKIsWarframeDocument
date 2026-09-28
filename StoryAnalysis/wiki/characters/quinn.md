@@ -15,6 +15,7 @@ Holdfasts のリーダー。元 Zariman の遠征指揮連絡官
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Quinn/Quotes](../../quotes/quinn.md)（117 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Quinn)（英語・出典） / [全文検索](../../search.html?q=Quinn)
 

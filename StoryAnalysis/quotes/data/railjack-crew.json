@@ -1,0 +1,16 @@
+{
+ "key": "railjack-crew",
+ "title": "Railjack/Crew/Quotes",
+ "url": "https://wiki.warframe.com/w/Railjack/Crew/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "railjack-crew",
+  "name": "Railjack Crew",
+  "page": "Railjack/Crew"
+ },
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue spoken by Railjack crew in-game.", null], ["- Arbiters of Hexis", null], ["- The Perrin Sequence", null]]}
+ ]
+}

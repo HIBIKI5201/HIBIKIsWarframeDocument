@@ -13,6 +13,7 @@ The New War の回想で教師として登場
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Cephalon Melica/Quotes](../../quotes/cephalon-melica.md)（161 行、うち独り言など 20 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Melica)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Melica)
 

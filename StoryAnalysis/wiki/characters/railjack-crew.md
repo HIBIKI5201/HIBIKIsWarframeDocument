@@ -15,6 +15,13 @@
 
 - グループ: [中立](g13.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Railjack/Crew/Quotes/Arbiters of Hexis](../../quotes/railjack-crew-arbiters-of-hexis.md)（69 行、うち独り言など 6 行）
+- セリフ集: [Railjack/Crew/Quotes/Cephalon Suda](../../quotes/railjack-crew-cephalon-suda.md)（69 行、うち独り言など 6 行）
+- セリフ集: [Railjack/Crew/Quotes/New Loka](../../quotes/railjack-crew-new-loka.md)（69 行、うち独り言など 6 行）
+- セリフ集: [Railjack/Crew/Quotes/Red Veil](../../quotes/railjack-crew-red-veil.md)（69 行、うち独り言など 6 行）
+- セリフ集: [Railjack/Crew/Quotes/Steel Meridian](../../quotes/railjack-crew-steel-meridian.md)（69 行、うち独り言など 6 行）
+- セリフ集: [Railjack/Crew/Quotes/The Perrin Sequence](../../quotes/railjack-crew-the-perrin-sequence.md)（70 行、うち独り言など 6 行）
+- セリフ集: [Railjack/Crew/Quotes](../../quotes/railjack-crew.md)（3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Railjack/Crew)（英語・出典） / [全文検索](../../search.html?q=Railjack%20Crew)
 

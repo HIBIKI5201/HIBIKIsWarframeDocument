@@ -1,0 +1,12 @@
+{
+ "key": "acolytes",
+ "title": "Acolytes/Quotes",
+ "url": "https://wiki.warframe.com/w/Acolytes/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 1,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["All Acolytes, except for Misery, use the same voices when taunting the Tenno. Their voices are similar to the Stalker's previous voice, resembling indecipherable whispers.", null]]}
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "key": "apostasy-prologue-transcript",
+ "title": "Apostasy Prologue/Transcript",
+ "url": "https://wiki.warframe.com/w/Apostasy_Prologue/Transcript",
+ "kind": "クエスト（台詞全文）",
+ "site": {
+  "key": "apostasy-prologue",
+  "name": "背信のプロローグ",
+  "page": "Apostasy Prologue"
+ },
+ "count": 27,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["← Previous (Chains of Harrow/Transcript)", null], ["Next (The Sacrifice/Transcript) →", null]]},
+  {"path": ["Quest description"], "idle": false, "lines": [["Inspect your personal quarters upon finishing the Chains of Harrow quest.", null]]},
+  {"path": ["Lua"], "idle": false, "lines": [["- Margulis: \"Do something. Get me out of here.\"", "DApoTIntro0010Margulis_en.ogg"], ["- Ballas: \"You know I can't.\"", "DApoTIntro0020Ballas_en.ogg"], ["- Margulis: \"Can't or won't.\"", "DApoTIntro0030Margulis_en.ogg"], ["- Ballas: \"I told you not to speak out. If you recant, maybe-\"", "DApoTIntro0040Ballas_en.ogg"], ["- Margulis: \"-You lied to me, Ballas. You're no different than the rest of them.\"", "DApoTIntro0050Margulis_en.ogg"], ["- Ballas: \"Margulis... please... forgive me.\"", "DApoTIntro0060Ballas_en.ogg"], ["- Ballas: \"Honored seven, we have gathered here today to carry out the sentencing of Archimedian Margulis... You face the Jade light, recant, and we will grant a merciful death.\"", "DApoTRealm0070Ballas_en.ogg"], ["- Margulis: \"My daughters, my sons... I want you to know... my last thoughts are of you.\"", "DApoTRealm0080Margulis_en.ogg"]]},
+  {"path": ["Lua", "Cinematic"], "idle": false, "lines": [["- Lotus: \"How long have we waited for this moment?\"", "DApoTChamber0090Lotus_en.ogg"], ["- Operator (unsubbed): \"I--\"", "DApoTChamber00100OperatorVoiceA_en_new.ogg"], ["- Ballas: \"Forgive me.\"", "DApoTChamber0100Ballas_en.ogg"], ["- Lotus: \"For what? I am not who you think I am.\"", "DApoTChamber0110Lotus_en.ogg"], ["- Ballas: \"-But of course you are. Imprisoned, just as she was.\"", "DApoTChamber0120Ballas_en.ogg"], ["- Operator: (winces in pain)", "DApoTChamber00110OperatorVoiceA_en_new.ogg"], ["- Lotus: \"Ballas?\"", "DApoTChamber0130Lotus_en.ogg"], ["- Ballas: \"I will not abandon you again, Margulis.\"", "DApoTChamber0140Ballas_en.ogg"], ["- Operator: (winces in pain)", "DApoTChamber00150OperatorVoiceA_en_new.ogg"]]},
+  {"path": ["Orbiter"], "idle": false, "lines": [["- Ordis: \"Operator? What is happening? Is the Lotus... is she gone?\"", "DApoTOrdis015Ordis_en.ogg"], ["- Ordis: \"Ordis will attempt to synthesize her mission directives until we can figure out where she is.\"", "DApoTOrdis016Ordis_en.ogg"]]},
+  {"path": ["Pre Update 35.5 (2024-03-27)"], "idle": false, "lines": [["- Operator (unsubbed): \"I--\"", "DApoTChamber00100OperatorVoiceA_en.ogg"], ["- Operator: (winces in pain)", "DApoTChamber00110OperatorVoiceA_en.ogg"], ["- Operator: (winces in pain)", "DApoTChamber00150OperatorVoiceA_en.ogg"], ["← Previous (Chains of Harrow/Transcript)", null], ["Next (The Sacrifice/Transcript) →", null]]}
+ ]
+}

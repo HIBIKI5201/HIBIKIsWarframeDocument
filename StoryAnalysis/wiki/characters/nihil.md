@@ -15,6 +15,7 @@
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Nihil/Quotes](../../quotes/nihil.md)（109 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nihil)（英語・出典） / [全文検索](../../search.html?q=Nihil)
 

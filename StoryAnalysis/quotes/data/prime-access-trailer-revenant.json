@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-revenant",
+ "title": "Prime Access Trailer/Revenant",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Revenant",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"What fatherless aberration is this? Who brings the wicked gift of an unknown mask this Naberus night? Seething with the Void, mocking me and causality alike!", null], ["And what strange cruelty named him, to know and defy his death?", null], ["This shadow of ill omen. This grim harbinger. This... Revenant.\"", null]]}
+ ]
+}

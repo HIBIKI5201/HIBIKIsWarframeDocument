@@ -10,6 +10,8 @@
 
 WARFRAME の最初のクエスト。Warframe の操作と戦闘の基本を学ぶ。開始時に Excalibur・Mag・Volt から 1 体を選ぶ。Update 29.0（2020-08-25）で追加され、Update 42.0（2026-03-25）でステージが作り直された。
 
+- 台詞全文（取り込み）: [Awakening/Transcript](../../quotes/awakening-transcript.md)（74 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Awakening)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Awakening/Transcript) / [全文検索](../../search.html?q=Awakening)
 
 ## 基本情報

@@ -12,6 +12,7 @@ Ventkids の Kubrodons のリーダー
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Boon/Quotes](../../quotes/boon.md)（60 行、うち独り言など 24 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Boon)（英語・出典） / [全文検索](../../search.html?q=Boon)
 

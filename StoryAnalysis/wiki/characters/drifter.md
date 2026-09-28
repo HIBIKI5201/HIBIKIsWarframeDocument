@@ -15,6 +15,7 @@
 
 - グループ: [Tenno](g01-tenno.md)
 - 登場: 5 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Drifter/Quotes](../../quotes/drifter.md)（242 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Drifter)（英語・出典） / [全文検索](../../search.html?q=Drifter)
 

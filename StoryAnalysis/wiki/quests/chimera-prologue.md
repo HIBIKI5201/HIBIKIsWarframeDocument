@@ -10,6 +10,8 @@ The New War へ向けて Sentient と Ballas の動きが描かれる短いク�
 
 サクリファイスの後の Ballas の行方を描く短いメインクエストで、Prelude to War の第 1 幕。Update 23.10（2018-10-12）で追加された。Natah が Amalgam を作ろうとしていることを予感させる。
 
+- 台詞全文（取り込み）: [Chimera Prologue/Transcript](../../quotes/chimera-prologue-transcript.md)（73 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Chimera_Prologue)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Chimera_Prologue/Transcript) / [全文検索](../../search.html?q=Chimera%20Prologue)
 
 ## 基本情報

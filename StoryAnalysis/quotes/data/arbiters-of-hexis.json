@@ -1,0 +1,32 @@
+{
+ "key": "arbiters-of-hexis",
+ "title": "Arbiters of Hexis/Quotes",
+ "url": "https://wiki.warframe.com/w/Arbiters_of_Hexis/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 44,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Arbiters of Hexis quotes.", null]]},
+  {"path": ["In Relays & Syndicate kiosk", "Greetings", "At Neutral Rank"], "idle": false, "lines": [["- \"The Arbiters of Hexis seek truth through trial, and discipline. The Tenno will surpass their former masters.\"", "DIntro0180Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "Greetings", "At Lawful Rank or Higher"], "idle": false, "lines": [["- \"You set the example for the rest of us.\"", "DLoved0260Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "Greetings", "At Deceiver Rank"], "idle": false, "lines": [["- \"You have stepped from the path. Tread carefully.\"", "DDisliked0220Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "Greetings", "At Fraud Rank"], "idle": false, "lines": [["- \"A shame to see such potential squandered.\"", "DHated0230Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "Initiation"], "idle": false, "lines": [["- \"Now begins your path to truth and power.\"", "DWelcome0190Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "Requesting Sacrifice To Rank Up"], "idle": false, "lines": [["- \"You are on the verge of a new truth.\"", "DNewRankPos0200Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "Sacrifice Successful"], "idle": false, "lines": [["- \"You honor us, Tenno.\"", "DNewRank0210Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "When Selling Offerings"], "idle": false, "lines": [["- \"What can we do to help your journey?\"", "DOpenRepStore0270Arbiters_en.ogg"], ["- \"Will these help you?\"", "DOpenRepStore0280Arbiters_en.ogg"], ["- \"Perhaps these will show you the path...\"", "DOpenRepStore0290Arbiters_en.ogg"]]},
+  {"path": ["In Relays & Syndicate kiosk", "When Purchasing an Item"], "idle": false, "lines": [["- \"We are honored to help.\"", "DPurchRepStore0300Arbiters_en.ogg"], ["- \"May this help your journey.\"", "DPurchRepStore0310Arbiters_en.ogg"], ["- \"An honor.\"", "DPurchRepStore0320Arbiters_en.ogg"]]},
+  {"path": ["In Relays", "If the player hasn't finished all nodes to access Arbitrations"], "idle": false, "lines": [["- \"You are not ready for Arbitration. Return when no corner of the Origin System is foreign to you.\"", "DVendorLocked0160Arbiters_en.ogg"]]},
+  {"path": ["In Relays", "Arbitration Shop"], "idle": false, "lines": [["- \"You have come to collect honors, earned through Arbitration?\"", "DVendorOpen0170Arbiters_en.ogg"], ["- \"Have you survived Arbitration? Honors await you.\"", "DVendorOpen0180Arbiters_en.ogg"]]},
+  {"path": ["In Relays", "Arbitration Shop", "When Purchasing an Item"], "idle": false, "lines": [["- \"These honors were well earned, Tenno.\"", "DVendorPurchased0190Arbiters_en.ogg"]]},
+  {"path": ["In Missions", "During Syndicate Mission"], "idle": false, "lines": [["**Introduction**", null], ["- \"Your path has led here. Prove yourself, Tenno.\"", "DSyndAlertIntro0330Arbiters_en.ogg"], ["**Completion**", null], ["- \"Well done Tenno. You are truly honorable.\"", "DSyndAlertComp0340Arbiters_en.ogg"]]},
+  {"path": ["In Missions", "When Sending Death Squad"], "idle": false, "lines": [["- \"Your lack of honor has brought this upon you.\"", "DConsequence0250Arbiters_en.ogg"], ["- \"You have strayed too far from the path. May this correct you.\"", "DConsequence0240Arbiters_en.ogg"]]},
+  {"path": ["In Missions", "In Arbitrations", "Beginning Mission"], "idle": false, "lines": [["- \"Fight this Arbitration as any mortal creature would. There are no second chances.\"", "DArbStart0020Arbiters_en.ogg"], ["- \"Only under the shadow of death will your true potential shine.\"", "DArbStart0030Arbiters_en.ogg"], ["- \"For this Arbitration, we bestow upon you the gift of mortality.\"", "DArbStart0040Arbiters_en.ogg"]]},
+  {"path": ["In Missions", "In Arbitrations", "During Rotations"], "idle": false, "lines": [["**First rotation**", null], ["- \"Fight on. This test has only just begun.\"", "DArbWaveFive0050Arbiters_en.ogg"], ["- \"Your potential blossoms. Continue the Arbitration.\"", "DArbWaveTen0060Arbiters_en.ogg"], ["**After first rotation**", null], ["- \"Do you feel that, the power and strength mortality has given you?\"", "DArbFiveAfter0070Arbiters_en.ogg"], ["- \"May you live until you die.\"", "DArbFiveAfter0080Arbiters_en.ogg"], ["- \"Ultimate power lies on the knife's edge between life and death.\"", "DArbFiveAfter0090Arbiters_en.ogg"]]},
+  {"path": ["In Missions", "In Arbitrations", "Mission Failure"], "idle": false, "lines": [["- \"Your true potential remains untapped.\"", "DArbFail0100Arbiters_en.ogg"], ["- \"How quickly you bowed to death.\"", "DArbFail0110Arbiters_en.ogg"], ["- \"We judge you, unready.\"", "DArbFail0120Arbiters_en.ogg"]]},
+  {"path": ["During Operation: Rathuum", "Inbox Messages"], "idle": false, "lines": [["Do What You Must Pay attention:", null], ["- \"We know you must right the imbalance caused by Kela de Thaym and her disgusting trial. This is clear. We also know your alignment has not drifted toward another Syndicate. A fact you will prove to us when the time is right.\"", "DRUSynTakeNote1290Arbiters_en.ogg"], ["Will You Seek Justice? Bring me the defectors’ ship’s coordinates to the Relay.", null], ["- \"Let true justice be served. Turn over the Grineer defectors to the Arbiters. With us, they will receive a fair trial and, if necessary, punishment. War crimes will not simply be forgotten. Do this and we will reward your integrity.\"", "DRUConclusionInbox1340Arbiters_en.ogg"]]},
+  {"path": ["During Operation: Rathuum", "In Relay"], "idle": false, "lines": [["- \"Well, Tenno, have you decided to give the Arbiters the location of the accused?\"", null], ["- (upon redeeming the coordinates) \"We will pick up the prisoners immediately. Their trial will be swift and just, as all trials should be. Tenno, we salute you for what you have done.\"", null]]},
+  {"path": ["As Railjack Crew Member"], "idle": false, "lines": [["Main article: Railjack/Crew/Quotes/Arbiters of Hexis", null]]}
+ ]
+}

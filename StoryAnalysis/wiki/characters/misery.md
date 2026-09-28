@@ -13,6 +13,7 @@
 
 - グループ: [Stalker](g08-stalker.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Misery/Quotes](../../quotes/misery.md)（25 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Misery)（英語・出典） / [全文検索](../../search.html?q=Misery)
 

@@ -14,6 +14,7 @@ Archimedean。Zariman の子供たちの養母
 
 - グループ: [Orokin](g06-orokin.md)
 - 登場: 9 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Margulis/Quotes](../../quotes/margulis.md)（22 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Margulis)（英語・出典） / [全文検索](../../search.html?q=Margulis)
 

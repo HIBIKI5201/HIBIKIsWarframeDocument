@@ -1,0 +1,16 @@
+{
+ "key": "grineer-target",
+ "title": "Grineer Target/Quotes",
+ "url": "https://wiki.warframe.com/w/Grineer_Target/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 17,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Grineer Targets can be either male or female, and determines what they say against the Tenno.", null]]},
+  {"path": ["Male Target", "When Being Chased"], "idle": false, "lines": [["- \"Grat? Guigrrs! Tenno! \" - \"What? Guards! Tenno!\"", "BbPlayerSpottedGrineerVIPA010_en.ogg"], ["- \"Hu mutr ekkage!\" - \"I must escape!\"", "BbPlayerSpottedGrineerVIPA020_en.ogg"], ["- \"Trog klem!\" - \"Stop them!\"", "BbFleeingGrineerVIPA030_en.ogg"], ["- \"Keeg klem arae!\" - \"Keep them away!\"", "BbFleeingGrineerVIPA040_en.ogg"], ["- \"Trusoner? Never!\" - \"Prisoner? Never!\"", "BbFoundGrineerVIPA060_en.ogg"], ["- \"Tray raf!\" - \"Stay back!\"", "BbFoundGrineerVIPA070_en.ogg"]]},
+  {"path": ["Male Target", "While Downed"], "idle": false, "lines": [["- \"Gruneer rus trog gar!\" - \"Grineer will stop you!\"", "BbDownedGrineerVIPA090_en.ogg"], ["- \"Klus rus not go ungunusrer!\" - \"This will not go unpunished!\"", "BbDownedGrineerVIPA100_en.ogg"]]},
+  {"path": ["Female Target", "When Being Chased"], "idle": false, "lines": [["- \"Klee've kome for me!\" - \"They've come for me!\"", "BbPlayerSpottedGrineerVIPB010_en.ogg"], ["- \"Shut! Tenno!\" - \"Shit! Tenno!\"", "BbPlayerSpottedGrineerVIPB020_en.ogg"], ["- \"Gar rus not kagtugre me!\" - \"You will not capture me!\"", "BbFleeingGrineerVIPB030_en.ogg"], ["- \"Khus klem!\" - \"Kill them!\"", "BbFleeingGrineerVIPB040_en.ogg"], ["- \"Fught to gre reakl!\" - \"Fight to the death!\"", "BbFoundGrineerVIPB060_en.ogg"], ["- \"Reakl befogre kagtugre!\" - \"Death before capture!\"", "BbFoundGrineerVIPB070_en.ogg"]]},
+  {"path": ["Female Target", "While Downed"], "idle": false, "lines": [["- \"Hu's never talk!\" - \"I'll never talk!\"", "BbDownedGrineerVIPB090_en.ogg"], ["- \"Reakl for Gruneer!\" - \"Death for Grineer!\"", "BbDownedGrineerVIPB100_en.ogg"]]}
+ ]
+}

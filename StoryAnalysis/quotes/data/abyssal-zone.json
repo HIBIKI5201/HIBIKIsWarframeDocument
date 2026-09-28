@@ -1,0 +1,22 @@
+{
+ "key": "abyssal-zone",
+ "title": "Abyssal Zone/Quotes",
+ "url": "https://wiki.warframe.com/w/Abyssal_Zone/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 31,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Transmissions during Abyssal Zone.", null]]},
+  {"path": ["Inbox Message"], "idle": false, "lines": [["> “SUBJECT: The Syndicates Need Help", null], ["> The Syndicates need your help to complete a mission.", null], ["> Acquire Abyssal Beacons from any Syndicate enclave.", null], ["> Which Syndicate you support is entirely your choice.", null], ["> Lotus”", null], ["- Video Message: \"The Syndicates need your help. In a rare showing of solidarity, they sent a covert team to raid a Grineer ship adrift inside the Abyssal Zone. The ship is rumored to be carrying Orokin Defixios, curse tablets, that were plundered from an archaeological dig site known as Villa Irilia. The Syndicates' team is unable to complete their mission and needs your help to get the Defixios. Abyssal Beacons are available from the Syndicates. Which Syndicate you support is entirely your choice.\"", "DInboxTrans0010Lotus_en.ogg"]]},
+  {"path": ["Mission Start"], "idle": false, "lines": [["- Special Commander Haigos: \"Hello? Reinforcements? Listen! We don't care about our mission; my team just wants to go home. Clear out this ship so we can escape. If you find any of us, we'll show you where the nearest Defixio is. We want nothing to do with those cursed things.\"", "DMissionIntro0020FemaleAlly_en.ogg"], ["- Lotus: \"Be cautious. The Defixios are coveted because of their power. I cannot predict their effects on you or your Warframe.\"", "DMissionReinforce0030Lotus_en.ogg"]]},
+  {"path": ["Syndicate Initiates", "Male", "On Approach"], "idle": false, "lines": [["- \"Gonna be okay. Gonna be okay. Gonna be okay.\"", "DAllyCallout0110MaleAlly_en.ogg"], ["- \"I'm... I'm so sorry.\"", "DAllyCallout0120MaleAlly_en.ogg"], ["- \"Somebody! Anybody! Help!!!\"", "DAllyCallout0130MaleAlly_en.ogg"], ["- \"What the hell is going on? I need help.\"", "DAllyCallout0140MaleAlly_en.ogg"]]},
+  {"path": ["Syndicate Initiates", "Male", "When Talking"], "idle": false, "lines": [["- \"This mission was doomed from the start. Take my telemetry. I'm getting out of here.\"", "DAllyFound0190MaleAlly_en.ogg"], ["- \"I'll mark your map, but please, get out of here while you still can.\"", "DAllyFound0200MaleAlly_en.ogg"], ["- \"Take this. I got a lock on a Defixio, but I just can't bring myself to touch it.\"", "DAllyFound0210MaleAlly_en.ogg"]]},
+  {"path": ["Syndicate Initiates", "Female", "On Approach"], "idle": false, "lines": [["- \"Hey, over here.\"", "DAllyCallout0070FemaleAlly_en.ogg"], ["- \"Psst... help me.\"", "DAllyCallout0080FemaleAlly_en.ogg"], ["- \"I don't want to die. I don't.\"", "DAllyCallout0090FemaleAlly_en.ogg"], ["- \"Never should have come here. Never. Never. Never.\"", "DAllyCallout0100FemaleAlly_en.ogg"]]},
+  {"path": ["Syndicate Initiates", "Female", "When Talking"], "idle": false, "lines": [["- \"A Tenno? Marking the Defixios on your map, but if you know what's good for you, you won't touch them.\"", "DAllyFound0150FemaleAlly_en.ogg"], ["- \"Listen. The Defixios, I'll show you where they are, but the curse is real.\"", "DAllyFound0180FemaleAlly_en.ogg"], ["- \"Marking your map and getting the hell out of here.\"", "DAllyFound0160FemaleAlly_en.ogg"], ["- \"My syndicate sent you? Artifacts are nearby.\"", "DAllyFound0170FemaleAlly_en.ogg"]]},
+  {"path": ["Picking up a Defixio"], "idle": false, "lines": [["- Lotus: \"Get that Defixio to the extraction zone as soon as possible.\"", "DPickedUp0040Lotus_en.ogg"], ["- Lotus: \"Take it to the extraction zone. And Tenno, be careful.\"", "DPickedUp0050Lotus_en.ogg"], ["- Lotus: \"Reading fluctuations in your Warframe's power matrix. The sooner you get that Defixio to extraction, the better.\"", "DPickedUp0060Lotus_en.ogg"]]},
+  {"path": ["Delivering a Defixio"], "idle": false, "lines": [["- Lotus: \"Defixio delivered.\"", "DDefixioDelivered0230Lotus_en.ogg"], ["- Lotus: \"Defixio extracted.\"", "DDefixioDelivered0240Lotus_en.ogg"]]},
+  {"path": ["Killing all enemies before a Defixio is delivered"], "idle": false, "lines": [["- Lotus: \"Resistance subdued. Find a Defixio and get to extraction.\"", "DExtermComp0220Lotus_en.ogg"]]},
+  {"path": ["Mission Completion"], "idle": false, "lines": [["- Lotus: \"The Defixios are on their way to our trusted allies. Thank you, Tenno.\"", "DMissionComp0250Lotus_en.ogg"]]}
+ ]
+}

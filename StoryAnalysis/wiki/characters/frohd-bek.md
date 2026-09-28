@@ -14,6 +14,7 @@ Corpus 取締役会の会長。Darvo の父
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Frohd Bek/Quotes](../../quotes/frohd-bek.md)（54 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Frohd_Bek)（英語・出典） / [日本語 Wiki「Frohd Bek」](https://warframe.fandom.com/ja/wiki/Frohd_Bek) / [日本語 Wiki の取り込み](../../fandom-ja/pages/frohd-bek.md) / [全文検索](../../search.html?q=Frohd%20Bek)
 

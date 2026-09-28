@@ -1,0 +1,20 @@
+{
+ "key": "xeto",
+ "title": "Xeto/Quotes",
+ "url": "https://wiki.warframe.com/w/Xeto/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "xeto",
+  "name": "Xeto",
+  "page": "Xeto"
+ },
+ "count": 23,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue spoken by Xeto.", null]]},
+  {"path": ["Jade Shadows", "Anything But That"], "idle": false, "lines": [["Hacking first vault", null], ["- \"How did we just lose a significant percentage of our bioplasma reserves? Well? Hello? Any techs care to run a diagnostic?\"", "DMissionOne0090Xeto_en.ogg"], ["Hacking second vault", null], ["- \"That's no system fault. We've got an intruder. Triple robotics security on all vaults!\"", "DMissionOne0100Xeto_en.ogg"], ["Hacking third vault", null], ["- \"There. Camera five. What is that thing? Tenno? No.... doesn't fight like a Tenno. Troops: Monitor. But keep your distance. Am I on? Intruder! This is Captain Xeto of The Ardent, in service to Mighty Parvos. Whoever you are, stand down. Your actions will not be tolerated!\"", "DMissionOne0110Xeto_en.ogg"], ["Hacking fourth vault", null], ["- \"Well done, whatever you are. It seems you have what you came for. But why?\"", "DMissionOne0111Xeto_en.ogg"], ["- \"He's a what? Read me that entry, ensign. But what use would the Tenno-hunter have for medical-grade bioplasma? Track him.\"", "DMissionOne0120Xeto_en.ogg"], ["Failing a hack", null], ["- \"A failed breach? What is going on? Is anyone on this ship capable of giving me a straight answer?\"", "DMissionOne0112Xeto_en.ogg"]]},
+  {"path": ["Jade Shadows", "The Ancestor"], "idle": false, "lines": [["- \"He's on a derelict. One of the old Corpus hulks off Eris. Find me the cargo manifest. I want to know what he's searching for.\"", "DMissionThree0350Xeto_en.ogg"], ["- \"He's woken a Juggernaut! Clumsy. Unless he meant to? But... why?\"", "DMissionThree0360Xeto_en.ogg"], ["- \"Wait. Bioplasma... now Cortichrome... Could it be he's playing doctor? \"", "DMissionThree0380Xeto_en.ogg"], ["- \"There's a Warframe at the bottom of all this, I'm sure of it. Alert the Sisterhood. No - alert Vala herself. I want to deliver this asset to her personally.\"", "DMissionThree0390Xeto_en.ogg"]]},
+  {"path": ["Jade Shadows", "Escape"], "idle": false, "lines": [["- \"He's coming up! Get security in position. Do not screw this up for me. The Sisterhood doesn't give second chances.\"", "DMissionFive0480Xeto_en.ogg"], ["- \"He took something. Rip it from his dead hands.\"", "DMissionFive0500Xeto_en.ogg"], ["- \"All crews cease fire, cease fire! Stop firing!\"", "DMissionFive0520Xeto_en.ogg"]]},
+  {"path": ["Jade Shadows", "Unused Audio"], "idle": false, "lines": [["- \"What was that? But that's... Impossible.\"", "DMissionFive0510Xeto_en.ogg"], ["- \"It can't be.\"", "DMissionFive0530Xeto_en.ogg"], ["- \"Denied. Stand down.\"", "DMissionFive0550Xeto_en.ogg"], ["- \"Can you?\"", "DMissionFive0570Xeto_en.ogg"]]}
+ ]
+}

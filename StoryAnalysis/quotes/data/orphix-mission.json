@@ -1,0 +1,14 @@
+{
+ "key": "orphix-mission",
+ "title": "Orphix (Mission)/Quotes",
+ "url": "https://wiki.warframe.com/w/Orphix_(Mission)/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 6,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Transmissions during Orphix (Mission).", null]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- Cephalon Cy: \"Orphix Sentients have overrun that Corpus cap ship. Corpus ship but in our house. This has become an us problem.\"", "DMVenomIntro2630RJCephalon_en.ogg"], ["- Cephalon Cy: \"Corpus capital ship has become a staging platform for Orphix Sentients. Remedy this.\"", "DMVenomIntro2640RJCephalon_en.ogg"], ["- Cephalon Cy: \"On screen, Corpus cap ship. Massive Sentient readings. Pack Necramechs. Whatever is on there can never be allowed off.\"", "DMVenomIntro2650RJCephalon_en.ogg"]]},
+  {"path": ["Objective Complete"], "idle": false, "lines": [["- Cephalon Cy: \"Sentient presense at zero. Walk away in slow motion. Orchestra swells.\"", "DMVenomDone2660RJCephalon_en.ogg"], ["- Cephalon Cy: \"Orphix pulses have flatlined. Nice. Moving on.\"", "DMVenomDone2670RJCephalon_en.ogg"]]}
+ ]
+}

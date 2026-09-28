@@ -14,6 +14,7 @@
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Kira/Quotes](../../quotes/kira.md)（9 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Kira)（英語・出典） / [全文検索](../../search.html?q=Kira)
 

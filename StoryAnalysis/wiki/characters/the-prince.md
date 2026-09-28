@@ -13,6 +13,7 @@ Nightcap が育てているキノコ
 
 - グループ: [Fortuna・Solaris](g16-fortuna-solaris.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [The Prince/Quotes](../../quotes/the-prince.md)（30 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Prince)（英語・出典） / [全文検索](../../search.html?q=The%20Prince)
 

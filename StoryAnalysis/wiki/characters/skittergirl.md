@@ -14,6 +14,7 @@ Zariman に出る Void の具現。不安が形になったもの
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Skittergirl/Quotes](../../quotes/skittergirl.md)（12 行、うち独り言など 11 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Skittergirl)（英語・出典） / [全文検索](../../search.html?q=Skittergirl)
 

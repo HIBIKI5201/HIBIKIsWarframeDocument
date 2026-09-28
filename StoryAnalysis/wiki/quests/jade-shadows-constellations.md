@@ -10,6 +10,8 @@ Jade Shadows の続編。破滅した未来から来た Protoframe が登場す�
 
 Jade Shadows の続編となるメインクエスト。ソロ専用で、Update 43.0（2026-06-17）で追加された。父となった Stalker が、その責任と、永続主義（Eternalism）によって二つに分かれてしまった息子の運命に向き合う。
 
+- 台詞全文（取り込み）: [Jade Shadows: Constellations/Transcript](../../quotes/jade-shadows-constellations-transcript.md)（136 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Jade_Shadows:_Constellations)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Jade_Shadows:_Constellations/Transcript) / [全文検索](../../search.html?q=Jade%20Shadows%3A%20Constellations)
 
 ## 基本情報

@@ -1,0 +1,14 @@
+{
+ "key": "razorback",
+ "title": "Razorback/Quotes",
+ "url": "https://wiki.warframe.com/w/Razorback/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 7,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Transmissions during the Razorback boss fight.", null]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- Lotus: \"If Nef Anyo's prototype survives our assault, he'll be able to draw in a mountain of new offerings. We must turn his scheme against him.\"", null]]},
+  {"path": ["Taunts"], "idle": false, "lines": [["- Razorback: \"<PLAYERNAME> Victory Probability: UNFATHOMABLE\"", null], ["- Razorback: \"<PLAYERNAME> Detected: May the Void take mercy upon you\"", null], ["- Razorback: \"Configuring Tactics: PRAISE THE VOID\"", null], ["- Razorback: \"Analysis Complete: <PLAYERNAME> = UNBELIEVER\"", null], ["- Razorback: \"Configuring Tactics: PRAISE THE VOID\"", null]]}
+ ]
+}

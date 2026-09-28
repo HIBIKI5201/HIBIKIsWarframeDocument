@@ -1,0 +1,22 @@
+{
+ "key": "margulis",
+ "title": "Margulis/Quotes",
+ "url": "https://wiki.warframe.com/w/Margulis/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "margulis",
+  "name": "Margulis",
+  "page": "Margulis"
+ },
+ "count": 22,
+ "idle": 0,
+ "sections": [
+  {"path": ["During The Second Dream", "Protect the Moon"], "idle": false, "lines": [["- \"No, Ballas, no more destruction. We could heal them. Maybe they're meant to save us.\"", "MargulisSecDre1.ogg"], ["- \"Love looks not with the eyes but with the mind. They won't hurt anyone, I just need more time.\"", "MargulisSecDre2.ogg"]]},
+  {"path": ["During The Second Dream", "Save the Reservoir"], "idle": false, "lines": [["- \"This will stop the voices from taking hold. You will have to dream, my angel...\"", "MargulisSecDre3.ogg"], ["- \"...So shame on you! You Orokin, so perfect on the outside but you're rotted through and through!\"", "MargulisSecDre4.ogg"], ["- \"Dream... not of what you are... but of what you want to be.\"", "MargulisSecDre5.ogg"]]},
+  {"path": ["During Apostasy Prologue"], "idle": false, "lines": [["- \"Do something. Get me out of here.\"", "DApoTIntro0010Margulis_en.ogg"], ["- \"Can't or won't.\"", "DApoTIntro0030Margulis_en.ogg"], ["- \"-You lied to me, Ballas. You're no different than the rest of them.\"", "DApoTIntro0050Margulis_en.ogg"], ["- \"My daughters, my sons... I want you to know... my last thoughts are of you.\"", "DApoTRealm0080Margulis_en.ogg"]]},
+  {"path": ["During The New War"], "idle": false, "lines": [["- \"Ballas, my love.\"", "DTNWPt3M6Cutscene5480Lotus_en.ogg"], ["- \"Narmer has divided the world, leaving a deep wound. We need healing. I am Margulis.\"", "DTNWPt3Epilogue5600Lotus_en.ogg"]]},
+  {"path": ["During Angels of the Zariman"], "idle": false, "lines": [["- \"The Zariman. There is no life aboard. And yet, all the System can hear it sing.\"", "DZarQIntro0010Lotus_en.ogg"], ["- \"My child. I saw the chaos with my own eyes and brought many like you out of that hell. Now... I must send you back there. You are a child no longer, and you have a legacy to protect. Be swift. The Zariman awaits.\"", "DZarQIntro0050Margulis_en.ogg"]]},
+  {"path": ["During The Old Peace", "Down the Rabbit Hole"], "idle": false, "lines": [["**First return to Tauron Academy**", null], ["- \"I trust Itzam over the Orokin. Have him report to me daily.\"", "DExamHybridWF0233Margulis_en.ogg"], ["**At Fort Tennadis**", null], ["- \"Galastra tried to steal the life of my love. For that alone she deserves death. But the complete extinction of the Tau blooms, which she plans to bring about, would hurl us back into a state of war. With the collusion of Executor Nitokh and her lackey Roathe, she has sequestered herself and her followers within the world-seeders, the armored Zariman Ova of old. But they have a flaw. A destruct sequence. This Ayatan holds the trigger codes. Deliver it to the world-seeder's heart and turn Galastra's fortress into her funeral pyre.\"", "DTauQuest1920Margulis_en.ogg"]]},
+  {"path": ["During The Old Peace", "Retribution"], "idle": false, "lines": [["- \"You already know the truth.\"", "DTauQuest2620Margulis_en.ogg"], ["- \"You had a very hard day, my angel, and we have a long journey back to Lua. The Dream will keep the voices from taking hold.\"", "DTauQuest2640Margulis_en.ogg"], ["- \"I will not have them accuse you of treason. If they come for you, they will have to go through me.\"", "DTauQuest2660Margulis_en.ogg"], ["**Quest Ending**", null], ["- \"We can finally begin to heal.\"", "DTauQuest2710Margulis_en.ogg"]]}
+ ]
+}

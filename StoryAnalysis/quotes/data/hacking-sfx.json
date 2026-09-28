@@ -1,0 +1,18 @@
+{
+ "key": "hacking-sfx",
+ "title": "Hacking/SFX",
+ "url": "https://wiki.warframe.com/w/Hacking/SFX",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 55,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["SFX played during hacking minigames.", null]]},
+  {"path": ["Parazon"], "idle": false, "lines": [["- Insertion:", "ParazonHackInA.ogg"], ["- Hack interaction in:", "ParazonHackInteractionInA.ogg"], ["- Hack interaction out:", "ParazonHackInteractionOutA.ogg"], ["- Ejection:", "ParazonHackOutA.ogg"]]},
+  {"path": ["Grineer Console"], "idle": false, "lines": [["- Hack start:", "GrineerMinigameBegin.ogg"], ["- Hack success:", "GrineerMinigameSuccess.ogg"], ["- Hack cancel:", "GrineerMinigameCancel.ogg"], ["- Slot in:", "GrineerMinigameSlideIn.ogg"], ["- Slot out:", "GrineerMinigameSlideOut.ogg"], ["- Focus in:", "GrineerMinigameFocusIn.ogg"], ["- Focus out:", "GrineerMinigameFocusOut.ogg"]]},
+  {"path": ["Corpus Console"], "idle": false, "lines": [["- Hack start:", "CorpusMinigameBegin.ogg"], ["- Timer ticking:", "CorpusMinigameTimer.ogg"], ["- Hack success:", "CorpusMinigameSuccess.ogg"], ["- Hack fail:", "CorpusMinigameFail.ogg"], ["- Spinning tile:", "CorpusMinigameSpin.ogg"], ["- Intrusion detected:", "CorpusMinigameIntrusion.ogg"]]},
+  {"path": ["Orokin Console"], "idle": false, "lines": [["- Hack start:", "SacrificeLockStart.ogg"], ["- Hack success:", "SacrificeLockSuccess.ogg"], ["- Hack cancel:", "SacrificeLockCancel.ogg"], ["- Rotate dial:", "SacrificeLockDial.ogg"], ["- Symbol select:", "SacrificeLockSelect.ogg"], ["- Symbol select match:", "SacrificeLockSelectMatch.ogg"], ["- Hint merge:", "SacrificeLockHintMerge.ogg"]]},
+  {"path": ["Narmer Console"], "idle": false, "lines": [["- Hack start:", "TNWNarmerHackUIStart.ogg"], ["- Timer ticking:", "TNWNarmerHackUITimeTick.ogg"], ["- Hack success:", "TNWNarmerHackUISuccess.ogg"], ["- Hack fail:", "TNWNarmerHackUIFail.ogg"], ["- Correct node:", "TNWNarmerHackUIPositiveA.ogg"], ["- Wrong node:", "TNWNarmerHackUINegativeA.ogg"], ["- Hack transmitter device loop:", "TNWNarmerHackTransmitterDeviceLoop.ogg"], ["- Hack transmitter device shutdown:", "TNWNarmerHackTransmitterDeviceShutdown.ogg"], ["- Cursor loop:", "TNWNarmerHackCursorLoop.ogg"], ["- Ambience loop:", "TNWNarmerHackAmbienceLoop.ogg"]]},
+  {"path": ["Pom-2"], "idle": false, "lines": [["- Boot up:", "EntratiHackMinigameBootUp.ogg"], ["- Hack start:", "EntratiHackMinigameStart.ogg"], ["- Timer ticking:", "EntratiHackMinigameTick.ogg"], ["- Loop:", "EntratiHackMinigameLoop.ogg"], ["- Urgent Loop:", "EntratiHackMinigameUrgentLoop.ogg"], ["- Transfer:", "EntratiHackMinigameTransferA.ogg"], ["- Hack success:", "EntratiHackMinigameSuccess.ogg"], ["- Hack fail:", "EntratiHackMinigameFail.ogg"], ["- Hack stop:", "EntratiHackMinigameStop.ogg"], ["- Turn off:", "EntratiHackMinigameTurnOff.ogg"], ["- Unlock:", "EntratiHackMinigameUnlock.ogg"], ["- Error:", "EntratiHackMinigameError.ogg"], ["- Symbol select:", "EntratiHackMinigameSelect.ogg"], ["- Corrupted symbol select:", "EntratiHackMinigameSymbolCorruption.ogg"], ["- Recap start up:", "EntratiComputerRecapStartUp.ogg"], ["- Recap mouse hover:", "EntratiComputerRecapMouseHover.ogg"], ["- Recap mouse click:", "EntratiComputerRecapMouseClick.ogg"], ["- Recap page open:", "EntratiComputerRecapPageOpen.ogg"], ["- Necramech console jingles:", "EntratiNecramechFriendlyHackJingleA.ogg"], ["- Necramech dispenser summon vocals:", "EntratiNecramechFriendlyHackVocalA.ogg"]]}
+ ]
+}

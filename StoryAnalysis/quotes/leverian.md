@@ -1,0 +1,665 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Leverian
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Leverian」](https://wiki.warframe.com/w/Leverian)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+607 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- “Hello there. So, first time then? Drusus Leverian. Welcome to my humble cabinet of curiosities. Drop any donations in the little box. Now, the Leverian is a bit of a work in progress, but please do look around. I only ask you be gentle with the collection. The displays are quite valuable, quite rare, and some may still be... armed.”
+- The Leverian is a museum of artifacts curated by the enigmatic Drusus Leverian. These galleries serve to shed light on WARFRAME's lore, each one being typically centered around a happenstance but historically significant tale of a Warframe; that is recreated by Drusus' in his investigations. Though the particular Warframe involved in these stories is not necessarily one of unique importance (such as being the first of its kind), they are typically some individual instance of that Warframe along with associated weapons and other items of interest.
+
+## Accessing the Leverian
+
+- A Warframe's Leverian entry can be accessed through the Codex, via the Leverian button on the lower right-hand corner of the screen on the Warframe's codex page, or via the Leverian tab of the Codex. Alternatively, the Leverian can also be accessed on the Market at either the Warframe's individual page or their collection page. Players can freely walk around in first-person view and examine the items on display in each gallery, which will bring up a lore entry narrated by Drusus himself relating to the Warframe's story.
+
+### General
+
+- The Leverian, named after its own avid curator, Drusus Leverian, is a humble museum of artifacts dedicated to preservation of histories and stories, mainly that of the Tenno and their Warframes. Not wanting history to be forgotten and repeated, Drusus created the museum in hopes of sharing and preserving history for future generations to experience.
+- Despite receiving donations, Drusus mostly curates his museum independently, gathering and presenting the various artifacts that can be found throughout the Leverian, all while personally narrating the story behind each exhibit.
+- Even though Drusus acts as the main curator of the Leverian, it is only due to the efforts of its one and only chronicler, and dearest friend of Drusus, the Warframe Dante, that much of the museum's exhibits even exist in the first place.
+
+### Bankruptcy
+
+- Due to the overall lack of visitors and donations, the Leverian was soon on the verge of bankruptcy. Sensing an opportunity, Corpus Founder Parvos Granum made Drusus an offer: As per a signed contract, Parvos would provide support to the ailing museum in exchange for numerous payments of historical artifacts.
+- However, when failing to make payment on time, the artifacts from Dante's gallery are confiscated as compensation, forcing Drusus to turn to the Tenno for assistance. As stated by the contract, any missed or late payments will result in immediate forfeiture of the Leverian, and will transfer ownership to Parvos. With the help of Drusus' old friend Loid, the Tenno use Albrecht's old Arterial Conduit network to gather Entrati artifacts as a favor for the curator.
+
+### Ash
+
+- View Ash List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAsh0100DruLev_en.ogg)
+- Ash. Avatar of murder.
+- Patron saint of the Orokin school of political assassination known as... The Scoria.
+- Each assassin bore a mark: a swirling, smoky-black jewel between their eyes.
+- "You are forever the Scoria. The Scoria is forever you."
+- No devotee knew of any life, any thought that was not Scoria Doctrine.
+- For every question, so the Orokin of the Scoria said, Ash was the answer.
+- Two notable students of the Scoria's anthracite halls were also two brothers: Dom and Pilio.
+- Dom was nimble, cunning, and a quick study with the blade.
+- His brother, Pilio, however, was not so gifted. While he idolized Ash, worshipped him, Pilio lacked Dom's grace and clarity.
+- And Ash's ruthlessness. However... it was Dom who had been captured by the very target he was tasked to kill.
+- A sin unforgivable to the Scoria. So it fell to Pilio - the lesser - to uphold the Scoria by taking Dom's life.
+- By this, the Seven would have assurance that Dom's flaw was not a... familial trait.
+- You see, as you might expect of an Orokin school of murder, the Scoria were ruthless when it came to... "academic excellence".
+- With Dom dead at Pilio's feet, two essential killings would have taken place: that of a failure, and that of any shred of pity within Pilio.
+- Ash would oversee Pilio's mission.
+- Pilio's soul was to die that day: as the life drained from his brother's eyes
+- or if he could not do so, beneath the blades of his lifelong idol: Ash.
+- Edo Armor:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAsh0110DruLev_en.ogg)
+- A sliver of pale sun found them close to a stately tower in the dusty heart of Martialis metropolis.
+- Coils of red Martian dust trailed tongues from the dark metal of Ash's Edo epaulets.
+- The boy idolized the Warframe and was eager to prove himself - even as some part of him felt cold and afraid at what he must do.
+- "Doubt is betrayal", taught the Scoria. Pilio recited this, but could not quench the fear he felt.
+- Fear of what he must do... and fear of what his hero and idol would do to him should his faith fail. Ash gave the signal.
+- Pilio shot forward in a bold, unconventional Dying Vine pattern, reading the Scoria-favored Dust Fang technique.
+- The tower guards squinted into the amber light of the Martian sunrise as a flash-cloud of smoke flooded the lane before them.
+- Shaking sleep from their heads and still thinking of breakfast, the guards readied themselves. From the smoke flew stars.
+- Causta:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAsh0120DruLev_en.ogg)
+- Staring into the lifeless eyes of the guardsman at his feet, bile rose in Pilio's throat.
+- The boy berated himself this weakness, this disgust.
+- Touching the symbol of his order, the smoke-gem between his eyes, he muttered a prayer for strength.
+- Stepping over the carpet of bodies, Ash crept into the courtyard, knowing full well the fifty-strong house guard would show itself in force.
+- With a sudden clatter, reinforcements lined the courtyard walls, balconies... The Scoria had a saying:
+- "You are immortal. One mistake makes that otherwise."
+- Ash had never made a mistake. Here were fifty.
+- With one swift movement, the Warframe swatted the boy into cover, unslung his Causta bow, and sprang into a flawless grey chrysanthemum combat solution.
+- Shame reddened Pilio's face as the courtyard lit noon-bright with the glare of a half-hundred muzzle flashes, his blade dry in his hand.
+- Dual Kamas
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAsh0130DruLev_en.ogg)
+- Ash methodically met and disassembled each and every guard, mezzanine to mezzanine:
+- a masterclass in the correct choices of stance, kata, technique and attitude. Bodies rained into the courtyard.
+- Wincing, the boy looked away. Within minutes fifty corpses lay at their feet.
+- When Pilio felt Ash's shadow fall across him, he forced himself to look, trembling.
+- Ash's inscrutable gaze pinned him. Chest tight, breath terrified, and quick,
+- Pilio forced himself to stand and face his assessor.
+- He could not look at the bodies. Truthfully, he expected to die where he stood.
+- If the Warframe approved or disapproved, he gave no sign.
+- Rather, Ash opened an arm, showing the way toward Pilio's final trial.
+- Ash Locust Helmet:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAsh0140DruLev_en.ogg)
+- In the target's chambers sat a middle-aged man with long, handsome mustaches, his eyes sad and kind.
+- And with him? Dom: in civilian clothes... sharing a glass of aged claret.
+- Pain cracked through Pilio's brain, the smoke-gem between his eyes flashing hot!
+- Sudden images of sunlight. Vineyards. A woman's face.
+- The gem burned as it pushed these images away.
+- A young man with grand mustaches smiling and saying, "Of all the sons I could have had, I'm glad it was you two."
+- Pain! Dom leapt to his feet, urging his brother to hear what the target had to say,
+- but Pilio saw only the scabbed-over divot between Dom's eyes where a black jewel had once rested.
+- Dom had turned his back on the order. Why? Why had he done this?
+- The mustachioed man leapt to Dom's defense, snatching his sidearm from beneath his ironwood desk - a foolish mistake.
+- Ash split into impossible multiples. The man opened fire on the three, before being seized from behind by the fourth.
+- Ash's illusory clones vanished. The weapon clattered to the polished wooden floor, even as his feet left it, dangling three feet above,
+- helplesss - those sad, kind eyes locked on Pilio's in a regretful farewell. "Ask the Warframe", Dom said, "He knows exactly why."
+- Fear filled Pilio's heart. Pilio turned to his idol, that saint of murder. The same question, but this time for Ash: why?
+- That moment of breathtaking impudence stretched for an eternity. Ash released his grip.
+- His prisoner flopped to the floor, gasping. With one great hand, Ash reached toward Pilio's face... and sank a vicious talon beneath that midnight jewel.
+- Pilio screamed. Blood flowed.
+- The gem flew free with a nauseating pop, cracking against the wall to die in a weak plume of rancid smoke.
+- Blinding white insight descended upon Pilio DeNas.
+- Cremata Syandana:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAsh0150DruLev_en.ogg)
+- Pilio was Pilio DeNas. Everything the black gem had walled off within his mind was now laid bare.
+- The Scoria had stolen the sons of Lio DeNas. Lio DeNas - kind-eyed Lio DeNas - was stealing them back.
+- "Of all the sons I could have had, I'm glad it was you two." Father and son beheld each other truly for the first time in almost twenty years.
+- Pilio had long-aspired to wearing the Edo armor, the highest honor, to signify his faith -
+- but now he saw only the bare ribs of Ash's Cremata syandana, signifier of death,
+- and knew with certainty that was the sole credo of the faith he had followed.
+- Had. The boy - who until that moment had thought himself a lifelong killer -
+- was now torn between the nocturnal life he thought he knew and the sunlit life he had been stolen from.
+- Torn between Doctrine and family. And, blade in hand, torn between saving himself by killing his brother... or dying alongside him at the hand of his idol.
+- Ash waited, patient as the death he signified, in a room in a moment that felt suspended in eternity.
+- Waiting for Pilio's decision. The blade fell from Pilio's hand. Dom reached out and gently took that hand.
+- Ash did not move.
+- Lio DeNas swept his boys up and out of that room, and as a family, they fled the Tower, the city, and Mars - forever. Ash did not move.
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAsh0160DruLev_en.ogg)
+- So. What are we to make of this?
+- Why did Ash - focal figure of the Scoria - go against Doctrine and permit two boys who were both failures and traitors to fly free?
+- What was it this killer saw in two near-orphans that, shall we say, softened his heart?
+- We do not know. Neither did Pilio, whose memoirs bring us this story.
+- But. We do know this: in the final days of Orokin rule... as towers fell and death came for the white-and-gold gods... the Scoria were not spared.
+- No. Rather their senior ranks - the mentors and chief assassins - were exterminated to a figure in a pogrom of ruthless and breathtaking efficiency.
+- A near-total destruction led... in the main... by Ash. Curious, no?
+
+### Atlas
+
+- View Atlas List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAtlasArt0240DruLev_en.ogg)
+- This is Atlas. Hard as stone. Is it any surprise that his story begins with an asteroid?
+- Temple Telamon had cast a spell on the indentured masses with a song that heralded the coming of a great stone destroyer. A god who would shatter the world and lead them to a great rebirth. The Orokin mocked the cult's off-key singing, their spasmodic dancing, but the spell only grew stronger. Telamon broadcasts would oft-times wedge into controlled channels to spread their doomsday message.
+- For the suffocated lower castes, the notion of something more powerful than their Orokin masters must have been intoxicating. A brutal Orokin crackdown seemed to be working, until... an asteroid was detected on a collision course with Earth. The Telamons celebrated it as prophecy writ true. Divine intervention. For the first time in living memory, the Orokin showed vulnerability.
+- It did not matter that the destruction would be total. For the Temple, this was a sign of a new age.
+- Atlas Shikoro Helmet:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAtlasShikoroHelm0260DruLev_en.ogg)
+- A probe was sent to the asteroid, perhaps seeking proof of divine intervention. It found intervention, though it was anything but divine.
+- The rock had been fitted with colossal steering thrusters and manning those thrusters, a bevy of well-armed Telamon. Having taken fate to their own hands, they set about a final convulsive dance aboard that rock. Battlecruisers, Orgon missiles, a gale-force of Dax... the Orokin could have resolved this in any number of ways. But their enemy was not the Telamons themselves. It was their ideas. Atlas, alone, was sent.
+- As he crashed onto that rock, his Shikoro helm greeted the cultists. Note the angled ballistic plating and reinforced neck protection.
+- He would soon need both.
+- Tableau of Telamon:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAtlasStatue0290DruLev_en.ogg)
+- For years, historians felt this 'Tale of Telamon' quite improbable, an artifact of Orokin propaganda-myth.
+- Then, on our system's outer edge, we found a debris field of small rocks and dust in a lazy elliptical orbit. Upon these rocks, we find the remains of peculiar stone statuary. The petrified figures, clearly Temple members, have been frozen into a tableau of struggle and death.
+- Or was it, perhaps, a dance? This remarkable find forces us to rethink the entire tale as fact.
+- Stratum Syandana:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAtlasSyand0350DruLev_en.ogg)
+- The Stratum Syandana. Reserved and austere, until you turn it over and reveal the glowing hue of the amethyst crystal within.
+- A breathtaking geode. Imagine its spiralling ribbons as Atlas tore toward the killer asteroid's thrusters. His plan must have been to reorient them and push the rock away from Earth. But, as the story goes, as he neared, the cultists detonated the thruster's footings and sent them careening into space. They were no longer needed. Mass and inertia would carry the rock to its fate.
+- Atlas was out of options. Or so the Telamons thought.
+- Tekko:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAtlasTekko0310DruLev_en.ogg)
+- The Tekko are, perhaps my favorite pieces in this gallery. Note the intricate, ornate moldings, the complex blades. Quite the contrast from Atlas's otherwise workmanlike appearance.
+- The beauty and craftsmanship conceal the true purpose of the Tekko, as indentations found in cultist's skulls attest.
+- I have to wonder what frenzied dance would have been interrupted, or, if the whiplash strikes and jabs of the Tekko might have blended into the crowd's fitful celebration?
+- Rumblers:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAtlasRumbler0330DruLev_en.ogg)
+- Before you, a rare sight: two Rumblers, painstakingly recreated from fragments of the aforementioned Tableau.
+- How these inert and rigid formations are compelled to life by Atlas defies reason. Yet, it is true. Consider the confusion of those Telamons as the very stone they worshipped came to life and set upon them. How could they retaliate against such a thing?
+- Like sparring with a landslide.
+- Atlas:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAtlasSuitAlt0400DruLev_en.ogg)
+- Earth swelled on the horizon, as the cult mocked Atlas with their chorus: "The stone shall shatter all!"
+- Across the system, every Telamon echoed that final hymn. Children, as far as Neptune, turned their heads from greasy broth and gazed toward Earth. Would that careening stone change... everything? Atlas kneeled down, head and hands pressed to the ground in apparent defeat as the Telamon's hymn grew even louder.
+- But Atlas was listening, feeling, the way the stone trembled to the hymn's pitch. The faults within the asteroid became vivid to him... and so a new song rose up. Rumblers. Erupting in a god-like rhythm, beating along the faults until Atlas, alone, struck the final, resonant chord.
+- A tremor forked through the rock until, all at once, the great asteroid exploded, its dust falling as scintillating rain sparking across the atmosphere, and then... gone. The Telamon's song fell silent and children, as far as Neptune, turned away and swirled their spoons in greasy broth.
+
+### Dante
+
+- Due to the circumstances behind Dante's lore, access to his Leverian requires completion of The Deadlock Protocol and Whispers in the Walls.
+- View Dante List▾▾
+- Inbox Message:
+- “I have made a tremendous mistake...
+- Tenno. Please. The Leverian desperately needs your help. Come see me in DANTE'S LEVERIAN, as soon as possible.”
+- Drusus: "The Leverian... it was floundering, you understand? Going under! All that work I put into it, and so few visited, let alone donated. Oh, I don't mean you, of course. I know you're a friend to the Leverian. It just... wasn't enough. So when Parvos made me an offer... I thought, why not? Just let it go. Let it all go. I took the deal, Tenno. I shouldn't have, but I did. Oh, if only Dante were still around. Please, you must come see me." [音声](https://wiki.warframe.com/w/File:DInboxMessage0890DruLev_en.ogg)
+- Entering:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0001DruLev_en.ogg)
+- Ah, hello, friend. You find me now amidst the bones of all I am. Of the thing that mattered most to me in my too-long life. You know, I wasn't sure it was possible to be less than a man, for I was a man, once. This room was to be a shrine to one of my dearest friends, but now that shall never come to pass. Look around, and I will recount what was meant to be.
+- Unfinished Shrine:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0010DruLev_en.ogg)
+- I've made such a terrible mistake, you see. In a universe at its own throat, where every living thing works daily to keep body and soul together, there's not much appetite for history. For stories.
+- The Leverian may not be a real place - a place you can reach out and touch - but to reality it was anchored. And reality demands a tithe. It takes coin to keep this place rezzed. This shrine to memory. And... a savvy businessman I was not.
+- To be less than a man is to be a fool. And fool I was.
+- Loss:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0020DruLev_en.ogg)
+- Did I never tell you of Dante? No. I suppose I didn't. I suppose I hadn't the fortitude. The entirety of the Leverian is shaped by the lack of him - though perhaps only in ways that I can see.
+- Though by definition a weapon of war, Dante was, first and foremost, a student of history. And, he was my friend. Truthfully, much of the Leverian would not exist were it not for that bold, two-fisted academician's devotion to both myself and the cause of better understanding our history, and ourselves.
+- It shames me to think of what he would have to say about what I have done. To our shared endeavor.
+- Folly:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0030DruLev_en.ogg)
+- Parvos Granum. You know the name. He of the gilded hand, and gilded tongue. For an age he has sought what Dante and I had gathered together. Our collected treasures. For one such as Granum there is no such thing as 'enough.'
+- In an age with no appetite for memory, maintaining a shrine to our shared history seemed folly. And so, in a low moment, I signed it all away.
+- Regret:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0040DruLev_en.ogg)
+- I do not know what possessed me, in that moment. I have no need for money, or food, or shelter, or care. Perhaps I merely felt my time was done, that the past had served its use, and me along with it.
+- Whatever the reason I allowed myself an instant to feel my misery to be greater than my life's purpose. A momentary indulgence that may be paid by every future generation until the sun goes dark.
+- Friendship:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0050DruLev_en.ogg)
+- I would give much for my friend to have been here. Dante and I, we tempered each other's unique compulsions.
+- You would have liked Dante, I feel. His end began, as it did for so many souls, with the Entrati family. The patriarch of that benighted family had fallen into decadence and disrepute, his name sullied by controversy and implications of madness.
+- Then an erstwhile associate of mine - a gentleman by the name of Loid, and Master Entrati's man for more than a lifetime - well, vanished. Loid, his Master, and his entire lineage. Just... gone.
+- Failing:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0060DruLev_en.ogg)
+- There were rumors, of course. Master Entrati was known at that time for outlandish claims and questionable science relating to... voices he was hearing, I believe. Gods from beyond the veil and whatnot.
+- After the disappearances, Dante, never one to let a good mystery go, insisted on infiltrating the Entrati manse and learning the truth for himself. I, however, being more familiar with the, uh, confidential details of Master Entrati's... interests... urged him otherwise. I suppose you wonder why I would do such a thing, if I believed Master Entrati to be fit for little more than the asylum.
+- Loid was, as I said, a dear friend. We spoke often. His last missive to me was a simple one.
+- "We end as we began."
+- As a student of history and its occult apocrypha I know the terrible import of those words. And so I cautioned Dante to remain by my side. He promised to do so, then did otherwise. And I never saw him again.
+- Perhaps I was not so deft at tempering him, as he was of me. And that, I suppose, was my first great failing. The parent of this second, and most final, one.
+- Dante:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0070DruLev_en.ogg)
+- I imagine you've surmised why I have summoned you here. To ask that, in the name of whatever friendship we share, to lend your aid to my impossible predicament. To help preserve not me, not this shadow of a man I once was, but to keep this monument to history alive - so that future generations may learn from it, and never repeat our most shameful mistakes.
+- Granum's obsession with that bygone age demands pieces of such. Ironic, really, that one man's interest in history serves only to strip an edifice whose singular purpose was to protect it. But there remains one slim hope: the sourcing of artifacts from places other than the Leverian.
+- Sourced by you, at my direction. Help me, friend. Help me, that my one, great and final, mistake not be the error that turns our collective history and the work of lifetimes to a single, miserable use: making a rich man richer.
+- Inbox Message:
+- “Helping Drusus
+- Tenno,
+- I have only just now learned of my old friend Drusus Leverian's predicament. I believe I can help you help him. Albrecht's old Conduit network has everything Drusus will need.
+- Access the Conduits in the AMARTUS node of Deimos or through the Sanctum Anatomica.
+- Come see me afterward, I may even be able to help you recover his trusted colleague, the Warframe Dante.
+- Loid”
+- Dante Prex:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DMuseLev0080DruLev_en.ogg)
+- You... found him, Friend. And Dante's tale deserves to be known. So... allow me to relate it, as he passes it to me.
+- Dante... ventured... to the... deafeningly... silenced halls of the... doomed... Entrati lineage, encountering... automated defenses, gone senile and violent, chanting in an... unright dialect that slurred thought and... annihilated... hope. That wrongtongued language invaded Dante's mind - infecting it with the one thing he was defenseless against: the promise of knowledge.
+- It may be said that a parasite is life from without the body fighting to exist within the body, despite the body, even as it risks the body. What, then, do we call knowledge from beyond our reality demanding to be let in?
+- Poor Dante. If only he had recited to me sooner the wrongtongued words he had heard. I could have told him, you know, that I had heard that language before. Once. Long ago. From the lips of Parvos Granum.
+- Dante found it, you see. Dante found The Book.
+- The Dante I knew was many things, but he was not weak. He struggled, fought, refused its knowledge. There was a moment, I knew, when that chill Indifference felt it had won. In those moments I was with him, wrestling the foul thing he had unlocked. Impossibly, though it cost him dearly, he was winning. But miserably, I knew the equation was not so simple as that.
+- I told him: Dante, what you have found can never be brought forth. Parvos must never know of this.
+- I felt the chill, the awful loneliness, of understanding wash through him.
+- I sensed the moment he chose, and I felt Dante give up. When he died, I almost died with him.
+- But the Book, the word, did not permit Dante to die. The violent diplomacy which ensued rewrit the very fabric of who he was. I understood things, learned things, on that journey with my old friend, from night to day. Things which could not survive in this world, but forever made a lie, to me, of science.
+- What became of him, and what stars he may have traveled to, is unknown to me. What that wrongtongued Voice may murmur in his mind, on long nights, I'm not sure I would want to know. It teaches because it longs to be known, and in being known it exists. And in existing, it survives.
+
+### Gauss
+
+- View Gauss List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGaussArt0020DruLev_en.ogg)
+- Ah, Gauss. Where to begin, where to begin... Well, the Ceres excavation of course. The site of the ancient tower of Altra.
+- Blastcrete emplacements, air sentries... its fields saturated with tremor mines. A great fortress for the Great Lords of Ceres... until they were pitched from the roof, immortal bodies erupting on the dread mines below.
+- An insurgency, from within. The Dax sent to reclaim Altra fared no better. Those that ran the gauntlet of bore-guns were soon cindered in the field beyond... That's when they called in our fleet-footed friend here.
+- Akarius:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAkarSec0040DruLev_en.ogg)
+- Dual sidearms pulled from Altra's outer ring of blastcrete bunkers. Something crashed through those bunkers at great speed, the impact scattering stone and flesh all the same. An unearthly kinetic shockwave.
+- Those insurgents with the misfortune of surviving the initial blast must have seen the Akarius for themselves.
+- Acceltra:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DAccelPrim0030DruLev_en.ogg)
+- The Acceltra, a rapid-fire micro-missile launcher. The smooth polycarbonate barrels still carry a vague stench of ozone.
+- Some think Gauss was a blunt instrument, all speed, with as much versatility as a cannonball. But the Acceltra implies more. It implies surging in, inviting the enemy to consider the blade, then rebounding to let missiles answer their confusion.
+- Gauss Mag Helmet:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGaussMachHelm0050DruLev_en.ogg)
+- Not the standard dress helm. This one has specialized control surfaces, angled plating. Supreme streamlining. It catches the light in a curious way, doesn't it?
+- When it shines just so, I see myself atop Altra, a hostage perhaps, peering out across the desolate field... and then, I'd see it. A pale glint of light.
+- Altra Syandana:
+- LEVERIAN ENTRY
+- Dax of the day had a saying, "That which cannot be hit, cannot be killed". I can only imagine what they thought when they saw Gauss that day. A gleaming bullet, this syandana pinned rigid like a flag in a maelstrom, streaking toward Altra. [音声](https://wiki.warframe.com/w/File:DGaussSyand0070DruLev_en.ogg)
+- Gauss Airfoil:
+- LEVERIAN ENTRY
+- A stripped-out Gauss Airfoil System. These fanciful contrivances contribute the Kubrodon's share of this Warframe's acceleration. Strength, mass, density - all held in a delicate balance. [音声](https://wiki.warframe.com/w/File:DGaussArmor0060DruLev_en.ogg)
+- Gauss:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGaussTenn0080DruLev_en.ogg)
+- Gauss. Front edge: smooth heat-resistant composites. Trailing edges: streamlined, foiled, this particular one vaguely warped by extreme heat stress.
+- The Saint of Altra. If the mind wanders, what do you see?
+- I see a vivid Lord-like Festival, the tremor mines bursting in a blinding wave, rising toward Altra. And Gauss - a smear of light, just ahead of the thermal avalanche - fast as fire. No... faster.
+
+### Grendel
+
+- View Grendel List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGrendelArt0440DruLev_en.ogg)
+- Grendel: Primal. Insatiable. And, as this exhibit will demonstrate, a creature of surprising compassion.
+- After the fall of the Orokin Empire, a surviving Orokin Executor - a violet-scented brute named Karishh - lorded over Europa's frozen, famine-struck city of Riddha.
+- Safe within his walled manse the moist and loathsome Karishh lived a lavish life while his frail citizens obeyed his every edict in the hope of receiving his pre-masticated table scraps. As the city starved beneath him, Karissh commanded yet another feast for himself and his gluttonous sycophants... twelve courses for each of his twelve grafted digestive sacs... and one... one uninvited guest.
+- Masseter:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGrendelMass0480DruLev_en.ogg)
+- There remains a shallow trench through the ruins. As if some colossal boulder had crashed from the manse and rolled down the hill... but what if it had rolled... up?
+- Imagine if you will, Karishh's Dax on the day... peering out, dumbstruck by what they saw. They readied no blade, sounded no alarm as the expanding orb of gristle hurtled toward them. And then in a spasm of giblets, Grendel was before them. His 'cutlery' in hand.. the Masseter.
+- Sumbha Syandana:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGrendelSyand0490DruLev_en.ogg)
+- Scraps of clothing matching Grendel's unexpectedly elegant Syandana were retrieved from the site, hooked on the remnants of gilded gates, stained with the evidence of his... degustation.
+- Indeed, most of the Orokin hanger-ons who attended the feast... became it. And Karishh himself fled shrieking into the hills of Riddha, as fast as his twelve exo-sac levitators would carry him.
+- Ancient Allies:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGrendelFin0520DruLev_en.ogg)
+- It came as no surprise to me, to find this tiny fragment of Gauss just outside the city. Indeed, if one thing is for certain, wherever we find evidence of Grendel, we're sure to find some trace of Gauss as well.
+- Did they breach the city as a pair? Or did Gauss hang back intercepting returning patrols, generously letting his friend Grendel eat his fill at the feast within?
+- Grendel Glutt Helmet:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGrendelHelm0540DruLev_en.ogg)
+- Note the open-face, almost maw-like design. A fitting visage for one of such singular, rapacious predilections.
+- Grendel may hunger, yes, but not with the excesses of gluttony. Not when others are in need. Oral history tells of Grendel, newly-engorged from his repast, rolling through the miserable slums of Riddha, reinvigorating the sick and the lame, the hungry and the dying, with the power he had stolen - consumed - from their oppressors.
+- Manse Gates:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGrendelOro0550DruLev_en.ogg)
+- Here we have shattered fragments of the manse wall and the gate mangled by Grendel's Masseter blade.
+- One can almost see, the city's masses, newly-rejuvenated by Grendel's healthful blessing, storming the manse. Shattered gates thrown wide, they take back what was theirs. Namely, control of their future.
+- See here the scattering of genuine Orokin dinnerware. Worn with time, these must have been used for countless meals as the people of Riddha bravely weathered the dark times ahead.
+- Grendel:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DGrendelSuit0580DruLev_en.ogg)
+- Many Warframes have speed and litheness but power, momentum, impact... those require mass.
+- And there... the creased midsection - the seam. Does it split? Yawning with a jagged, vacuous aperture to... to who knows? A certain Orokin may have found out.
+- That night when the people of Riddha ate their fill, feasting until the frozen mountains lit warmly with the dawn. It was toward those roseate peaks that the Executor fled, pursued by Grendel. What his fate was I cannot say, but as the people feasted, so the story goes, they were suddenly struck by a strange, deep sound. A rumble carried from mountain to mountain: a Single. Satisfied. Belch.
+
+### Ivara
+
+- View Ivara List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DIvaraCard1140DruLev_en.ogg)
+- Ivara. The Huntress. This tale comes to us from 'The Secret History of the Orokin Court', by the historian Porvis.
+- Have you perhaps heard tell of the Myrmidon? No matter. A preternatural beast-figure straight out of myth he was, one whose prey had no equal. Warframes were what this villain hunted. It is said a number of 'frames had been erased from history by this monster, models who no longer exist on any record. Those who are not remembered. It hardly seemed possible that a single person could stand against a Warframe, let alone destroy it. Let alone several. Perhaps Porvis enjoyed the telling a little too much or, perhaps, there is something to it.
+- Ivara encountered the Myrmidon quite early in her history. Quite early indeed.
+- Salix Syandana:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DIvaraSyandana1150DruLev_en.ogg)
+- A Dax emergency call. so Porvis writes, led Ivara and two unknown Warframes to a convoluted cave system. They found it littered with the bodies of murdered Dax and resplendent with bioluminescent fungi.
+- I imagine the chitinous folds of her Salix Syandana would have made for excellent camouflage within that malevolent, supernal glow. 'The Secret History' tells us that the Myrmidon appeared boldly before the three, in a wide chamber connected by many tunnels. Clad in red-and-gold armor it gestured to the first Warframe with what Porvis describes as 'a strange clutching motion, as if seizing a falling apple'. But it was no greeting, as we shall see. The powers of that first Warframe, the recipient of that gesture, promptly failed. The Myrmidon took advantage of the confusion to leap upon the hapless 'frame and press a palm to the warrior's head.
+- In lurid detail Porvis describes a flash of the most scintillating emerald light and Ivara's battle sibling collapsed to hot dust.
+- Aksomati:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DIvaraPistols1160DruLev_en.ogg)
+- Porvis tells us he compiled much of this tale from overheard exchanges between members of the Seven, and details that remained consistent in courtly whispers. He tells us the second 'frame suffered the same fate as the first.
+- Reacting, Ivara whirled and promptly vanished. But, one clutching gesture in her direction and Ivara's powers fled, her cloaking field nullified. Visible, vulnerable, she loosed a Dashwire arrow to a high alcove... but it never came. No escape. The Myrmidon was upon her. The Huntress spun, opening fire with Aksomati pistols to send that devil scrambling for cover, arm thrown protectively across that twisted, armored head. That clutching gesture was the key.
+- Ivara needed a plan, and she needed it fast.
+- Avia Armor and Rubico:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DIvaraArmor1170DruLev_en.ogg)
+- Ivara ran at a wall, and up it.
+- Hanging there, waiting, as the Myrmidon flipped into the room, blasting the spot where he had expected her to be. Frustrated he again made that same elaborate gesture, trying his luck, and she saw it: that bracelet upon the wrist that glowed softly with the movement of that clutching gesture. Ivara flipped from her perch, shouldering her exquisitely-crafted Rubico as she did so, and sighted the enemy.
+- Through the Orokin-sculpted scope, hunter and huntress met eye-to-eye, each loosing a desperate blast: a bullet from Ivara, a killing light from the Myrmidon. The green light lashed, touching a shoulder plate of Ivara's Avia Armor, reducing it to dust. It saved her. Huntress won out, her shot claiming the Myrmidon's device in a shower of sparks.
+- But the Myrmidon's weapon remained lethal, and with it he lashed out at Ivara in an emerald fury.
+- Artemis Bow:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DIvaraBow1180DruLev_en.ogg)
+- Ivara hit the ground and sprang into a surrounding tunnel, the Myrmidon's shot lancing a gouge in the porous chamber wall.
+- Ivara pressed her back to a shadowed outcrop at the tunnel's end while the Myrmidon's weapon blazed and cut and chewed through her only cover. As good a time as any to discuss the weapon before you: the Artemis Bow. The huntress' signature weapon and the tool with which she has wrought so much good. Said by some to be spirit-bonded to her, others say the product of forgotten Orokin technology. What Porvis tells us next displays to good effect what warrior and weapon were capable of.
+- Pinned behind eroding cover, seconds from death, Ivara summoned her Artemis Bow, and it came to her. She and weapon as one. Without rising she pulled back, aimed high, she and arrow as one, and loosed. Under Ivara's guidance the arrow turned its path and shot down the corridor, toward the Myrmidon, and lengthwise through his weapon.
+- Around Ivara the walls flashed green for a micro-second, as the Myrmidon's weapon erupted, and then... silence.
+- Arrows:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DIvaraArrows1190DruLev_en.ogg)
+- What is a bow without arrows? And these arrows?
+- The Origin System has never seen their like, able to change their very nature at the whim of Ivara. Sleep, cloaking, rapid fire, they are the embodiment of her legendary versatility. Ivara drew her bow again, this time for her fallen comrades. With inhuman speed shot after shot snapped and plucked each segment of carapace from the Myrmidon's lean frame. Straps severing, clips popping, he was undressed with swift efficiency by the preternatural accuracy of her aim and rapidity. Even before her final arrow belted the visored helmet from his head, she had the killing shot nocked and ready.
+- There he stood: the Myrmidon. Slayer of Warframes. Naked. Beauty, symmetry, even the capacity for language, sacrificed for... raw power. But his face... his face was the mockery of an Orokin face: those she was sworn to never kill.
+- The smirk on his pallid, angular visage told her he knew it as well.
+- Ivara:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DIvaraWarframe1200DruLev_en.ogg)
+- The grand doors of the Chamber of the Seven flew open.
+- Across that reverberating expanse of polished darkness strode Ivara, dragging her prize. Before the assembled Council she dropped him, and with it the Myrmidon's battered helmet. Here he would meet justice at the hands of his own people. Here her fallen friends would be avenged. She beheld the Seven, awaiting their judgement.
+- The Myrmidon got to his feet, cleaning dust from one shoulder with a contemptuous flick. One of the Seven leaned forward, removing a curious thing from their slender head, a lattice of delicate silver, placing it on the elevated, chest-high curve of obsidian that separated her from them. Instantly the Myrmidon collapsed, lifeless, to the floor. Ivara did not understand. Why? Why?
+- A stately voice intoned her name. There stood Executor Ballas. He told her: "You have been battle- and loyalty-tested. Your companions, they were found wanting. They failed to adapt. Failed to overcome. And so they are no more. But you, Ivara. You shall live. You shall be remembered."
+- Her battle comrades, as we know, were not.
+
+### Lavos
+
+- View Lavos List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DLavCard1350DruLev_en.ogg)
+- Lavos. The transmuter. Called by some, anachronistically, the alchemist.
+- Transmutation, you say? A superstitious process from long ago, in which deranged old men heated stinking substances over fires of dung, thinking they could make gold?
+- No. To the Orokin, it was a darkly potent, forbidden science. They were not squeamish nor moral, so what profound taboos must this art have violated?
+- No transmuter was more dreaded than Javi. The Crawling Serpent. The Abhorred. The Filth-Speaker.
+- The Orokin feared him so greatly that they whispered he might, somehow, survive even the Jade Light, just as a severed snake was once believed to grow a new head. So instead he was imprisoned, that his evil might be contained, if not quenched.
+- His jailer was a brute of a Warframe named Lavos.
+- Lavos' Serpents:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DLavSnakes1360DruLev_en.ogg)
+- The prison of Dabaoth-Kra no longer stands: both it and the slumped Venusian mountain peak upon which it stood were long ago obliterated. We have only records to tell us what went on there.
+- Javi was a scrawny, hairless man, scaly with skin disease. In reluctant recognition of his Archimedian status, he was permitted to wear the white robe - now a befouled, ragged garment. Two tattooed serpents crawled up each bony arm from elbow to wrist.
+- Lavos, we are told, was attentive to his prisoner. He administered the prescribed soup, water, and beatings with the same punctual fidelity.
+- These are recreations of Lavos's own snakes - no mere tattoos, but living bio-ferrous exoflesh.
+- Vitam Syandana:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DLavoSyand1370DruLev_en.ogg)
+- Observers at the prison reported that Javi was frequently whispering to Lavos. There was some concern among the wardens, but they dismissed the whispers as mere posturing.
+- Javi's cell walls began to fill up with scrawlings, using blood and filth as ink. At first, these were simple symbols, but as time passed, they became more elaborate. It was as if the Archimedian was turning his cell into a demonic temple, baiting his captors. There was even an image of Lavos, resplendent in his Syandana of office - perhaps an attempt at a curse.
+- Lavos was ordered to beat him harder, and duly did so. With the blood on the wall, Javi drew a snake. An appeal, no doubt, to his depraved idol.
+- Floor-washer Bekran Zaft, the sole survivor of Dabaoth-Kra, would later tell of how Lavos would stride from cell to cell - weighty shotgun in hand - clubbing and beating as required. The nightmares still haunted her.
+- Lavos Cordatus Helmet:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DLavHelm1380DruLev_en.ogg)
+- The wardens' records reveal an increasing unease with Javi's bizarre behavior.
+- Regardless of the potential risk, they determined that he should be executed - after a fashion. They would use cellular reversal. Javi would be reduced to a mere biological pulp with no more sentience than bread mold.
+- But the executioner? No jailer wanted to be the Pobber to bell that Kavat. So Lavos received this ceremonial helm, along with the power to reconfigure organic matter. He could be their instrument.
+- The walls, floor, and ceiling of the cell were, by now, overwritten with text. Lavos watched over Javi continually.
+- Bekran Zaft tells us that curiously, Lavos no longer beat the prisoners in the other cells. Even when the inmates shoved one of their hated fellows into his path, expecting a bloody beatdown, Lavos merely waited for him to get back to his feet before moving on.
+- Transmutation Probe:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DLavTransProbe1390DruLev_en.ogg)
+- What actually was this forbidden practice of transmutation that terrified the Orokin so? At its pinnacle, it was nothing less than the purposeful elevation of consciousness.
+- To the Orokin, prisoners of their endless golden dream, the thought that a person could rise above their station was anathema. Transmutation could turn commoners into kings or riches into garbage. Worst of all, it could teach people not to be afraid.
+- I have seen a preserved image of Javi's cell. His scrawlings were not demonic sigils and barbarous texts but star charts. Evolutionary trees. Genome structures.
+- Javi was not defying Lavos with these cryptic daubings in his own blood. He was enlightening him. Not dark sorcery at all, but radiant science. And the snake? A symbol not of corruption but of healing.
+- Javi was a teacher. He might have taught millions. Now he had only one student.
+- But that student was attentive.
+- Cedo Shotgun:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DLavShotgun1400DruLev_en.ogg)
+- Bekran Zaft says this of Execution Day.
+- The jailers gathered in the auditorium. With a slow funereal tread, Lavos escorted Javi to the execution dais. He gently raised a hood over Javi's head, cobra-like. He turned, then, to face the Orokin Warden, shotgun trembling in his mighty hands.
+- The silence, Zaft says, was absolute.
+- But then from beneath the hood came a whisper. Javi had some final words for his student.
+- The Orokin jailer shifted uncomfortably, looked to his functionaries. Would the execution even take place?
+- Lavos gave a stiff bow to Javi... and activated his power.
+- Javi's skin peeled off in one grisly sloughing. He liquefied into a biological soup.
+- A cheer went up from the assembled jailers.
+- Lavos gathered the remains of Javi tenderly in his hands. A soft glow emanated from them. As, in one horrible moment, Javi's Orokin oppressors realized what they beheld. And then: panic. Lavos was transmuting the remains.
+- A twining, living snake seethed up Lavos's left arm. Javi, transformed, and still - after a fashion - alive, just as they had feared. A second snake coiled around his right arm, this one sprouting from Lavos's own flesh.
+- Then Lavos leapt into the midst of the assembly, hurling vials left and right, bathing the hapless screaming jailers and functionaries - and their Warden - in icy vitriol. Not one survived - not for long, anyway.
+- And Bekran Zaft? Lavos bowed to her and moved on.
+- Lavos:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DLavFrame1410DruLev_en.ogg)
+- They say that Lavos often takes counsel from his serpents. One is his brutal advisor, the other his wise teacher. Both have their wisdom, and Javi still whispers to his beloved student.
+- Much like the snake, Lavos is easy to misjudge. The serpents that poison can also cure. He may have been a monster in his previous life, but he was able to achieve something that eluded the most powerful of the Orokin. He changed.
+- Moreover, he changed himself. Javi may have helped and instructed, but the will to change must have begun with Lavos.
+- Perhaps we all have that golden gleam coiled within us somewhere, ready to slither forth from its old skin. We must only beware that we do not condemn as devilish that which we do not yet understand.
+
+### Nezha
+
+- View Nezha List▾▾
+- Introduction:
+- LEVERIAN ENTRY
+- Nezha. The mercurial firemonger. The clarion of hope. However foul the decadent excesses of the Orokin Empire, the aftermath of its collapse was arguably worse. But, the darkest times often give rise to the brightest legends. We've seen that happen often, haven't we? Tales of a being called Nezha predate the Orokin Fall. They speak of a swift warrior who leaves trails of fire, summoning barbed spears from the very earth. But it is during a time of unsurpassed brutality, at a moment of wanton slaughter, that this most blazingly improbable of Warframes first proves to be more than a myth. [音声](https://wiki.warframe.com/w/File:DNezhaCard1280DruLev_en.ogg)
+- Teng Dagger:
+- LEVERIAN ENTRY
+- This blade! A tongue of exquisite flame in cold metal. It was unearthed by a poor farmer of Reshantur, as he followed his hulking plow-beasts across fields he would never own. Another might have bravely kept the dagger. But records suggest he handed it into his overseer on the spot, a half-cup of rice his princely reward. With no Dax to keep the peace, and no Parvos Granum to hold the Corpus Board together, bloody land grabs were routine. The fertile fields of Reshantur changed hands many times. With each 'hostile takeover', slain workers became 'fertilizer' for the next yield of crops - tended by the survivors - and so. It. Went. This created what you might call a staffing problem. If all the surviving adults are working the fields then who is left to defend them? [音声](https://wiki.warframe.com/w/File:DNezhaDagger1290DruLev_en.ogg)
+- Buzhou Syandana:
+- LEVERIAN ENTRY
+- Children. That's who. This dismal little relic was once part of a... of a 'Syandana', shall we say. Though not Orokin make, clearly. No. Its young owner wove this from a fertilizer sack. There were many such capes found at the site. Enough for an army. Moas were expensive, you see. Children... they were cheap. And plentiful. It made good business sense to arm them. Not the very youngest, of course - just the near-adults. The still unbroken. Those who understood the stakes. The young defenders of Reshantur took their duty seriously. They formed into a little clan, trained every day in the ruins of an old temple, and even made themselves a uniform of sorts - part of which you see before you now. But this humble cape was modeled on something even older. The Syandana of Nezha himself -- displayed here -- before you. [音声](https://wiki.warframe.com/w/File:DNezhaSyandana1300DruLev_en.ogg)
+- Chakram:
+- LEVERIAN ENTRY
+- This chakram was found in the ruins of the Reshantur temple along with fragments of stories, scrawled on slates in an immature hand, and oaths of dedication to a figure of legend. It seems the child-soldiers of Reshantur took courage from the tales of Nezha, adopting him as patron and protector. Their scratchings evince a firm belief that Nezha would bless them with victory should they fight without fear, and abandon them should they ever fear. So, they swore, they would defend the fields to the last drop of their blood. Clever manipulation. I wonder who put that idea into their heads. At any rate, they accepted it on faith. At least, until the Massacre of Reshantur. [音声](https://wiki.warframe.com/w/File:DNezhaChakram1310DruLev_en.ogg)
+- Improvised Divine Spear:
+- LEVERIAN ENTRY
+- This spear, modeled on Nezha's own, was found buried in scorched soil. Note. The size. Records of the attack are nigh impossible to find. Not surprising. The massacre was almost certainly covered up to protect what the Corpus regarded as sensitive business practices. Imagine the children, Tenno, wearing their pathetic syandanas, bearing flimsy weapons, but with heads high - as warriors. Think of them rushing at their far superior foes, without fear... and imagine what those foes did. To this day, the fields of Reshantur cannot be plowed. The blades of plows are dented and destroyed by an earth that, still, remains thickly seeded with shot, and shells, and the cold brass teeth of war. But that is not why the event is called the massacre of Reshantur. The children charged. The Corpus took easy aim. Not one child's heart fluttered. And then? Flame. [音声](https://wiki.warframe.com/w/File:DNezhaSpear1320DruLev_en.ogg)
+- Nezha Circa Helmet:
+- LEVERIAN ENTRY
+- The Corpus surveyor Jena Xasparin says she found a solitary child, wearing this helmet, in the midst of a charnel field of remains. But they were the remains of Corpus troops. Some dismembered, some impaled... all burned. Nezha did it, the boy said calmly. He flew down from the sky and tore the enemy asunder with wheels of flame. When a child fell, he would raise them up again. Nezha moved quick as a scimitar, and the earth burned where his feet touched. Now the other had gone with Nezha, part of his celestial army. The boy had stayed behind to tell the story. To Xasparin, the boy was merely traumatized, the massacre probably a mutiny within the Corpus ranks. But Reshantur has been excavated, and every single one of the thousands of blackened bones that were gene-tagged... had belonged to an adult. [音声](https://wiki.warframe.com/w/File:DNezhaHelmet1330DruLev_en.ogg)
+- Nezha:
+- LEVERIAN ENTRY
+- And at last, we meet Nezha face to face, in all his unquestionable reality. Did this Warframe model itself on the myths, to take on the mantle of a mythic hero? Or were the myths left in the Warframe's wake, a blazing trail to light the way? Ah. History will always be some manner of educated guesswork, and occasionally one of faith. Perhaps in some deeper stratum, we will find the lost children of Reshantur, sad little clusters of bones, not saved at all. But I have faith we will not. I leave you with this. Why do you suppose it was the child soldiers that Nezha chose to protect? Any war has its innocent casualties, but these seem to have called to him. What could a Warframe, a lethal specialist warrior, possibly have in common with a child? That riddle, I fear, must remain a riddle. [音声](https://wiki.warframe.com/w/File:DNezhaSuit1340DruLev_en.ogg)
+
+### Nova
+
+- View Nova List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DNovaCara1210DruLev_en.ogg)
+- Nova. Mercurial, unpredictable and a miraculous example of harnessed antimatter.
+- It would be a bold fool indeed who tried to tame lightning. One such individual was Holsom Yurr, a freelance problem-solver who commanded high fees for his low morals. A deficiency that netted him great success in endeavors where a conscience would have held others back. He is the only figure known to have secured a back-channel charter permitting him to selectively raid certain rails, so long as Orokin ships were avoided. The story of Nova and Yurr survives via the captain and security logs of the Orokin vessel Masker's Theodolite. It survives because it was deemed to be... of historical importance.
+- Orokin investigators scrutinized every frame of security footage, each line of the captain's log, for assurance that the outcome of this encounter was indeed true.
+- Radia Syandana:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DNovaSyandana1220DruLev_en.ogg)
+- The passenger vessel Masker's Theodolite reported critical problems with her engines.
+- Nova, mistress of antimatter, was deployed to relight the Theodolite's antimatter reactor before the vessel was drawn into the gravity well of a nearby planetoid. 10,800 passengers were at risk. Clipping this Syandana to herself she exited her lander. The interior of the ship was deathly quiet, but then, chaos. Behind her the section of the ship securing her lander was detonated and blown free. Stranding her, for the time being.
+- From deeper inside the ship: cries for help.
+- Holsom Yurr's Armor:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DNovaYurrItem1230DruLev_en.ogg)
+- Nova sped toward the shouts of trapped crewmen. Eight were locked in flow control behind a hardened glass wall.
+- Opening a wormhole between herself and them she phased the crewmen to safety as their compartment flooded with lethal gas. Booming from speakers in every hallway, Holsom Yurr declared himself. Holsom Yurr: the man who, at one time, had run the Pluto resistance. Who spent 3 years terrorizing the rails between Jupiter and Venus just to prove that he could. Who took that notoriety and translated it into a career: security, political assassination, courier runs, torture, graft, blackmail and, in one case so it was said, genocide. There were graves already dug for him by the many who wanted him dead.
+- Word was Holsom already had a tomb prepared for himself on some distant moon, with a table piled high with riches and a chair just waiting for him to be sat in for eternity. A man capable of anything, and a man who would rather die than lose. A man easily recognized by the signature item before you. It was, so they say, an item of great personal significance to the old rogue.
+- Why, and what history it shared with him, is a matter of some speculation.
+- Nova Flux Helmet:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DNovaHelmet1240DruLev_en.ogg)
+- Unaware she was being led into a trap built just for her, I don't imagine Nova took any special precautions.
+- This Flux model helm, for example, was fairly standard. The appealing venting displayed her antimatter nature, an announcement of power as much as an evocation of beauty.
+- Where were we? Ah yes. Nova and the rescued crew moved for the escape pods. Once they were clear she would about-face and find some way to free the remaining ten-thousand-seven-hundred-and-ninety-two. Alas, thuds and clangs resounded as every life pod ejected into space. Empty. Yurr clarified, boomingly, that escape was not an option. To punctuate this assertion bulkheads slammed down in every corridor shipwide. The only path Yurr left open, worryingly, was the one that led directly to the Theodolite's antimatter reactor. The very thing Nova had come to save.
+- What was the old pirate playing at?
+- Hikou:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DNovaStars1250DruLev_en.ogg)
+- Yurr had answered Nova's unspoken question.
+- He had jettisoned the antimatter core. Without that it was impossible for the reactor to function, and the Theodolite would smash into the planetoid in a matter of minutes. Yurr had been paid, by persons unknown, to neutralize Nova completely. Yurr, a man who prided himself upon an ignorance of the impossible, had agreed. And devised this trap. Nova was a being created to contain and harness antimatter. The antimatter drive no longer had a fuel core. His proposition was simple: Nova would enter the reactor chamber, crack her own containment and kickstart a new reaction using her own body as fuel.
+- She could save 10,800 lives, but only at the cost of her own.
+- She had minutes to decide. With a flick of her wrist Nova's Hikou throwing stars took out every camera in eyeshot, killing Yurr's surveillance of them. This done, she turned to the technicians she had just saved.
+- She would need their help.
+- Alamos Sniper Skin:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DNovaRifle1260DruLev_en.ogg)
+- Nova walked to her doom.
+- As she entered the reactor's chamber Yurr smugly assured her she was doing the right thing. Within the reactor's observation room the technicians nodded assent. This was going to be close . From the bridge Yurr sealed the reactor chamber's blast doors. Seconds later, on Nova's signal, the technicians overrode that command. The doors shot upwards and Nova wormholed out of the chamber and back into the corridor. Leaving that portal open she created another, straight up, into the vent system. On the bridge Yurr had little time to react, but react he did: ordering all prisoners to be killed. In that moment a portal flashed into existence, Nova launching herself amidst pirate captain and crew. And showed them what she was made of.
+- In a blinding flash Yurr and every mercenary on that bridge was deeply infused with Nova's antimatter, starting a chain reaction within them. Yurr realized what was happening, but too late. With a few precise shots from her Syrah-customized sniper rifle Nova neutralized those mercenaries who were quicker off the mark before grabbing Yurr by his brightly irradiated hair. Hurling him back through her network of wormholes, Nova sent Holsom Yurr pinging from portal to portal before tumbling out into the reactor chamber.
+- The wormholes collapsed.
+- Nova:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DNovaWarframe1270DruLev_en.ogg)
+- Yurr struggled to his feet as every molecule in his body approached critical.
+- Behind the glass the technicians gave him a final, grim salute before slamming the blast door closed. Holsom Yurr, pirate and legend, went nova. The reactor caught the reaction. The technicians harnessed it, and the engines of the Masker's Theodolite roared to life. It was, indeed, the boldest of fools who attempted to leash lightning. And so a notorious rogue, said to be unkillable, met his end in the attempt.
+- As the historical record now demonstrates.
+
+### Styanax
+
+- View Styanax List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DStyanaxCard00010DruLev_en.ogg)
+- Styanax. The Hoplite. The spear-carrier. The shield-bearer. The hero.
+- We all know the story of Styanax and Leviathan. How wily Aria outwitted the cult leader they called the Philanthropist and called her Warframe ally down into the very heart of his monstrous laboratories.
+- And no wonder; because these events did not happen in some distant epoch, in the times of the Orokin Fall, the Great Unraveling, the Age of Despots, or the Smaragdine Concord.
+- They happened surprisingly recently.
+- The Philanthropist:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DStyanaxPhilanthropist00020DruLev_en.ogg)
+- We have so many monsters. Every child in Orokin times heard legends of the bellygaunt, the slather, and the venomous thrax. Those were only stories, but one was real.
+- Its creator was dubbed 'the Philanthropist'. A Corpus renegade, he established a cult in a formerly desolate region, in a location which I have agreed to keep secret, to deter would-be looters and amateur archaeologists.
+- The site was never abandoned, you see, and one person's historical curiosity is another's beloved home.
+- With science, this 'Philanthropist' ensured ever-more bountiful harvests and secured himself both gratitude and worship. Legend says he would travel the System, seeking out... parentless children to... shelter... and... edcuate.
+- But this apparent charity concealed a darker purpose.
+- Tharros:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DStyanaxShield00030DruLev_en.ogg)
+- The shield of Styanax, emblematic of his vow to protect those in danger.
+- Young Aria was certainly in danger, and well, she knew it. Along with her older brother Darro, she was one of the Philanthropist's Chosen.
+- When they came of age, they would be summoned for a ceremony called "Ascension Day," at which they would be taken to dwell with the Philanthropist in eternal paradise.
+- Certainly, none of those taken were ever seen again.
+- I do not know how Styanax became Aria's protector.
+- But I am certain Aria knew that when the Philanthropist came for her... her ally... would be waiting in the shadows.
+- Leviathan:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DStyanaxLeviathan00040DruLev_en.ogg)
+- This was the fate of the Chosen.
+- To be merged together into a single monstrous mass.
+- Leviathan.
+- What possessed the Philanthropist to create such a... travesty... we can only speculate.
+- But we know that he had been studying the Infestation and that he believed Warframes to be weak and obsolete.
+- Perhaps he craved domination over others; perhaps he yearned to create new life. Life over which he alone... was god.
+- Regardless, he was too much of a coward to pilot the thing himself.
+- That was to be Aria's role.
+- But Aria called upon Styanax, who - if the ruins of the temple roof are any indication - made an explosive appearance.
+- Faced with the certainty of defeat, the Philanthropist clambered into Leviathan and took command of it.
+- Styanax Synmora Helmet:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DStyanaxHelmet00050DruLev_en.ogg)
+- Sketches of the Synmora Helmet were discovered among Aria's possession, implying Styanax had a different earlier appearance.
+- Aria must therefore have been in contact with Styanax long before her Ascension Day, but how?
+- There is a story that crops were found flattened in those fertile fields, in the shape of a lotus flower.
+- Not easily visible from the ground but detectable by an automated satellite.
+- Styanax was there to defend Aria, and defend her he did.
+- Colossal fist met unyielding shield again and again; with agility and endurance, the Warframe outpaced his towering foe.
+- As the Warframe and the monstrosity did battle, Aria saw a familiar face among the multitude.
+- Her brother, Darro, his blank eyes showing no sign of recognition.
+- Afentis:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DStyanaxSpeargun00060DruLev_en.ogg)
+- As Styanax struck and struck again with the Afentis, making little headway against the relentless Leviathan, a final desperate scream from Aria achieved the impossible.
+- It awoke Darro.
+- From out of those thousands of fused bodies, a single mind was suddenly saying no.
+- Latching his remaining arms around his tormentor's throat with the very last of his life's strength, the doomed Darro distracted the Philanthropist long enough for Styanax to act.
+- One last act of love and protection, for his sister.
+- But the Warframe hesitated. It seems he understood the importance of Darro's rebellion.
+- If one mind could turn upon its master... why not all of them?
+- With but a gesture, he gave the captive minds their freedom.
+- Suddenly awakened and aware of their hellish plight, the damned townspeople tore at the Philanthropist's exposed face, the Leviathan's body coming apart as arms broke free from the mass, clawing for revenge.
+- Together they dragged the screaming Philanthropist down, rending and tearing.
+- In that moment, we can be assured the Philanthropist knew the depth of his failure.
+- His defeat.
+- Without worshipers, a god... is nothing.
+- And Styanax delivered the final, merciful stroke.
+- Styanax:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DStyanaxWarframe00070DruLev_en.ogg)
+- Imagine the horror the non-chose felt in the aftermath.
+- Fear, uncertainty, and above all, unquestioned habit had allowed a monster to flourish.
+- Aria took over the cult and made it a community instead.
+- They still thrive to this day. Or so it is claimed.
+- Styanax is the story's hero, but it was Aria's courage that summoned him.
+- All revolutions begin when once voice dares to say: "I will not". Somehow, across the dark reaches, Styanax saw that courage burning bright and swore... it would not stand alone.
+- I would visit Aria's temple myself, but I am indisposed at present... a... long-standing condition.
+- All donations are, of course, appreciated.
+
+### Voruna
+
+- Due to the circumstances behind Voruna's lore, access to her Leverian requires completion of The War Within.
+- View Voruna List▾▾
+- Introduction:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DVorunaCard1420DruLev_en.ogg)
+- Impressive, isn't she? The relentless hunting shadow of the night of Naga drums. The last thing many an Orokin lord ever saw. Voruna, She-Wolf Incarnadine. The Heart of the Pack. Hunter of god-prey.
+- We remember her as a primal horror. The pitiless devourer stalking burning cities of white-and-gold, slavering for god-flesh.
+- This was not always so! Once, Voruna was the obedient guardian of the Circulus, the holiest of Yuvan temples upon none other than veiled Lua. Like a loyal beast, Voruna would roam Lua with her four steel-maned wolves: the stealthy Dynar, the invigorating Raksh, the stalwart Lycath, and the fierce Ulfrun. But what they were sworn to guard was perverse, wrong. In a ceremony reeking of Kuva, the Orokin candidate would force their consciousness into the new chosen body - the Yuvan - consigning the mind of the hapless former owner to oblivion. They called this life-extending process... 'Continuity'.
+- Executor Tuvul was one of the ruling Seven and head of the Yuvan Clerisy: high-ranking officiators who enacted the hideous ritual. All of whom... were now all dead, torn apart, all save for Tuvul... now a man pursued. He abandons his family to that night of horrors, his friends to the flames, and whips his slaves to ferry his decrepit, dying body to... his personal ship. Destination? Void-locked Lua. Purpose? To initiate one final ceremony. To trade one last body - one last life - for his own. Before the Empire burned.
+- To slip the noose and escape the relentless hunting shadow that had, one-by-one, in just one night, found and eviscerated every last one of his Clerisy peers. The shadow that had once protected them.
+- I never liked Tuvul. What followed made me loathe him even more.
+- View Cinematic: [音声](https://wiki.warframe.com/w/File:VoidEclipseIntroCinematicSFXA.ogg)
+- Worm Queen: "No no, I insist. You first. 'If you insist... How kind. How very kind.'" [音声](https://wiki.warframe.com/w/File:VoidEclipseIntroCinematicDialogA.ogg)
+- Worm Queen: "Kind? You must be thinking of my sister. 'Where is the fair lady then? Should we deal here in?' She sort of lost of head last we played. 'Oh? How scandalous.'" [音声](https://wiki.warframe.com/w/File:VoidEclipseIntroCinematicDialogB.ogg)
+- Drahk Master: "(grunts) My queen! The Drahks are restless, where are we to hunt?" [音声](https://wiki.warframe.com/w/File:VoidEclipseIntroCinematicDialogC.ogg)
+- Worm Queen: "To Lua. (howls)" [音声](https://wiki.warframe.com/w/File:VoidEclipseIntroCinematicDialogD.ogg)
+- Dynar:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DVorunaDynar1430DruLev_en.ogg)
+- Here is Dynar, the shadowed. He gave Voruna the gift of stealth that she might only take by surprise - but never be taken.
+- Hm. Let us speak of what made the Circulus special: the first Void Conjunction.
+- It came suddenly, steeping Lua in malevolent, lashing Void-stuff. Within the moon-plasm, thoughts took horrifying physical forms. Imaged dredged up from childhood nightmares, or adult neuroses were abruptly tangible and real. Madness overtook many.
+- It was to this place - the Circulus - that Tuvul fled through a Void tormented by an extremely unusual Conjunction. Thrashing eddies, violent currents, and the appearance of horrifying beasts never seen before or since. It was as if, some noted, the fabric of the universe echoed the upheaval tearing apart the fabric of the Origin System. Coincidence? I have lived too long to believe so but can provide no explanation greater than that.
+- Hoping against hope that the Void would keep the shadow that stalked him from picking up his trail, Tuvul touched down upon the powdery skin of sacred Lua.
+- What Tuvul lacked in loyalty, he made up for with rat cunning. He should have known better.
+- Raksh:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DVorunaRaksh1440DruLev_en.ogg)
+- It is unclear precisely why Lua is a site of very special Void Conjunctions, but enacting Continuity within the Circulus and Yuvarium thereupon guaranteed a safe and strong transition... so long as certain rituals were correctly observed.
+- A privilege reserved only for the Seven themselves.
+- Imagine the scene as the innocent Yuvan would have witnessed it. The vivid insanity of it all. The appointed Soprana bridging the gap between worlds with her song. The Orokin Executor shrilling the ritual worlds. The bone-white Void creeping in on all the fronts. The Kuva steaming scarlet in its glass bowl. And the imposing wolf-giant, Voruna, pacing the perimeter, four loyal wolves at her side.
+- This wolf you see here is Raksh, the defender, Voruna's own loyal guardian, as she protected her Orokin overlord from whatever madnesses the Void Conjunction would bring.
+- Of which there were many. And on that night, Tuvul had no such guardian. Quite the opposite.
+- Now, Tuvul would need flesh into which he could pass, but the shipments of fresh young bodies from across the System were no more. Tuvul, we will see, had laid a dark contingency.
+- Rat cunning, as I said.
+- Lycath:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DVorunaLycath1450DruLev_en.ogg)
+- The third of Voruna's wolves. Lycath, the stalwart brother, the provider, and soul of the pack.
+- We know that Voruna and her wolves had served rite and rite. She had watched the mists and savagely destroyed anything that menaced the ceremony, flanked by Lycath's fury.
+- The Yuvan Ceremony - 'Continuity' as they called it - was an obscenity. The Orokin elite, aged and foul, would slouch and leer as the 'Yuvan' - young men and women cultivated on red Mars and worlds beyond for this dire purpose - were paraded before them. They would make their choice, conduct the ritual, and then, well, that young life would be gone, and when those eyes opened once more, it would be their murderer looking out from behind them.
+- Is it any wonder Voruna, freed from the leash of loyalty, was so intent upon making a meal of the Yuvan Clerisy? I think not.
+- Let's get to dessert, shall we?
+- Ulfrun:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DVorunaUlfrun1460DruLev_en.ogg)
+- Behold: Ulfrun the Fierce. The most formidable of Voruna's spet.
+- Executor Tuvul scrambled to set up the ritual room. This time the ceremony was different. Instead of a Soprana, there was a mere Mandachord playing automated notes. And instead of the prepared Yuvan, there was a most unusual cryopod - containing a young child, sleeping peacefully. The aforementioned contingency.
+- In Tuvul's hands, so it is said, were an artifact and a codex belonging to none other than Albrecht Entrati himself: Father of Void Travel and a man who had sacrificed his sanity to it.
+- Tuvul opened the book to pages strange and profane. We know this, having retrieved it from the site much later. It is my belief that Tuvul intended to protect himself from the horrors the Void would unleash, using what amounted to a madman's grimoire. A desperate act indeed.
+- I like to imagine that, as he parted his withered lips to begin the ceremony, to call down the Void... that was the moment he heard Ulfrun's ravening howl.
+- Executor Tuvul:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DVorunaTuvul1470DruLev_en.ogg)
+- From Void signatures, evidence at the site, and what recording technology survived that once-in-a-lifetime Void Conjuration, I infer the following. Forgive an old man some dramatic license.
+- The Kuva was poured, the lamps were lit, and the ritual of Continuity began.
+- As Tuvul intoned the barbarous versicles of Continuity, a horde the breadth of which had never before been seen at such a ceremony massed in the gathering Void. Things with two heads or none, lopsided, broken-horned, perhaps drawing their being from Tuvul himself, as if expressions of his vice.
+- At this moment, I believe Voruna and her pack attacked, hoping to end the ceremony before it began. No such luck. The circle site was later found to be treacherous with the remnants of slain abominations.
+- Voruna and her wolves tore into the manifestations, rending with axe and fang. While Tuvul droned on, panicked, the pack hacked and tore their way through the throng toward him.
+- Why was Tuvul not the first to fall? I cannot answer. Perhaps Albrecht's work had something to it. Or perhaps those beasts simply understood that this wretched old man was the only thing keeping the door open for them.
+- Tremors shook the surface of Lua, and a great cry rang out, like that of a mother crying for her children. Tuvul sweated. The Kuva trembled in its bowl.
+- Voruna was relentless, demons falling to blade and fang. But it was not enough. The hordes of the Void are without number, and this one? If Hell has a Hell, then those monsters knew it well.
+- Gentle-eyed Raksh was the first to fall to the scything blades. They killed Lycath next, then Dynar, and Ulfrun last of all. Voruna had howled many times before, in hunger, in anger, and in triumph, but now for the first time, she howled in grief.
+- Voruna:
+- LEVERIAN ENTRY [音声](https://wiki.warframe.com/w/File:DVorunaWarframe1480DruLev_en.ogg)
+- Voruna trod and swung without relent toward the circle - carrying, by their silver scruffs, the severed heads of her fallen, beloved wolves. Severed from their dead bodies by her own hand.
+- With one last ululating cry, Tuvul's ritual had reached its peak. Within the cryopod, the child's eyelids fluttered and Voruna... staggered. In what scratchy stills survived in Void-corrupted datamasses, what I saw between child and Warframe was... recognition.
+- Tuvul took some meager scrap of courage from this delay and reached for the bowl of Kuva, now boiling and steaming with weird energies.
+- Voruna struck him aside and seized the energized Kuva - not for herself, but for her wolves. Holding it high, she doused herself - and her slain packmates - with it.
+- Embraced by the seething crimson glow, connective tissues propagated. Sinew reached for bone, and within that marriage of occultism and science, she and her beloved wolves became one.
+- Her brethren lived again. In her. Voruna was now, and evermore, the heart of the pack.
+- Cheated of his continuity, Tuvul turned to flee. But his former warden was having none of it.
+- Those who came after found nothing but gnawed bones, some of them unusually long, twisted within shreds of white-gold raiments.
+- Good.
+- I did salvage one final image from those Void-corrupted datamasses, however. That of Voruna herself, striding back toward her craft, the child cradled in her arms.
+- Curious.
+
+## Notes
+
+- There is a small donation box beside the gallery entry, where players can donate Credits. Drusus will comment on the donation, expressing either resignation or excitement depending on the number of credits donated. The number of Credits donated will affect the type of greeting Drusus gives to the player whenever they enter a Leverian gallery.
+- Each gallery contains a hidden item called a Prex, a tarot card representing the gallery's subject Warframe which can also be used as an Orbiter decoration. These can only be seen and collected by players if they have mastered the Warframe (reaching Rank 30, in either default or Prime variant). The location of the Prex cards are as follows:
+- View Prex List▾▾
+- Ash: Behind the final Ash display, on the floor in the far corner.
+- Atlas: On the back of the left shoulder of one of the Rumblers figures (not the Telamon).
+- Dante: Atop the empty statue pedestal.
+- Gauss: Hanging on the right slanted wall featuring the Altra Syandana.
+- Grendel: Behind the wall featuring the Manse Gates. The very edges of the wall can be walked on, allowing the player to go behind it to obtain the card.
+- Ivara: On the edge of the platform at the very start of the room, the player only needs to turn around.
+- Lavos: Inside the donation box.
+- Nezha: Underneath the left slanted wall featuring the Teng Dagger.
+- Nova: Behind the left slanted wall featuring the Hikou.
+- Styanax: On a platform (which is invisible unless approached), accessed using an invisible bridge to the right of the wall featuring the Tharros.
+- Voruna: Behind her statue at the end of her Leverian exhibit. There is an interaction prompt that causes the platform to rotate, revealing the card.
+- In Voruna's Leverian, between her introduction and Dynar, at the edge of the platform featuring the Lua mural reveals a prompt to play the Lua's Prey Update 32.2 (2022-11-30) cinematic trailer.
+
+## Trivia
+
+- The name "Leverian" appears to be a tribute to the Leverian Collection, a museum established in 18th Century London, and named after its curator Ashton Lever who collected creatures and artifacts for public display.
+- Leverian was initially mentioned in the Update 25.7 (2019-08-29) announcement, but all references to it had been removed prior to launch. It did launch as an undocumented feature with the update, however.
+- Steve Sinclair claimed the removal was to reduce player hype, deeming the Leverian as a small addition.
+- Baro Ki'Teer may sell cosmetics and decorations themed around the entries in the Leverian:
+- De Nas Pistol Skin - Secondary Weapon Skin
+- Transmuter Operator Hood - Operator Helmet
+- Reshantur Cult Syandana - Syandana
+- Reshantur Cult Spear Skin - Polearm Skin
+- Exo-Sac Archwing Skin - Archwing Skin
+- Aged Claret of De Nas - Decoration
+- Telamon Dance of Death - Decoration
+- Bekran Zaft's Equipment - Decoration
+- Masker's Theodolite Crewsuit - Operator Suit
+- Reshantur Child's Tablet - Decoration
+- Karishh's Dinnerware - Decoration
+- Javi's Scrawling - Orbiter Stencil
+- Scoria Diadem - Operator Facial Accessory
+- Altra Sentinel Skin - Sentinel skin and cosmetics (sold separately)
+- Javi Evolution Scrawling - Decoration
+- Javi Luminosity Scrawling - Decoration
+- Javi Ophiuchus Scrawling - Decoration
+- Javi Genome Scrawling - Decoration
+- In her Leverian entry, Nova is described to have created a chain of linked portals in vents she didn't actually go through herself, as if she was able to place portals behind walls and facing the correct direction. It's unknown if this is just a dramatization or mistake on the Leverian's part for misinterpreting these ancient Warframe stories, or a capability Nova is supposed to be able to do lore-wise.

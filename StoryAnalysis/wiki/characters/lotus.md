@@ -15,6 +15,7 @@ Tenno を導く謎の女性
 
 - グループ: [Tenno](g01-tenno.md)
 - 登場: 25 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Lotus/Quotes](../../quotes/lotus.md)（1134 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Lotus)（英語・出典） / [日本語 Wiki「ロータス」](https://warframe.fandom.com/ja/wiki/Lotus) / [日本語 Wiki の取り込み](../../fandom-ja/pages/lotus.md) / [全文検索](../../search.html?q=Lotus)
 

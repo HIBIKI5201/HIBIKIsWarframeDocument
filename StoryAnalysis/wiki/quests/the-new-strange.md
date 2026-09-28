@@ -10,6 +10,8 @@ Cephalon Simaris と出会い、Chroma と Arcane Machine の謎を追う
 
 奪われた野望の続きとして、Cephalon Simaris とともに謎の声の出どころを探すサイドクエスト。Update 16.0（2015-03-19）で追加された。
 
+- 台詞全文（取り込み）: [The New Strange/Transcript](../../quotes/the-new-strange-transcript.md)（93 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_New_Strange)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_New_Strange/Transcript) / [日本語 Wiki「新たな怪奇」](https://warframe.fandom.com/ja/wiki/%E6%96%B0%E3%81%9F%E3%81%AA%E6%80%AA%E5%A5%87) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-new-strange.md) / [全文検索](../../search.html?q=The%20New%20Strange)
 
 ## 基本情報

@@ -15,6 +15,8 @@
 
 - グループ: [Tenno](g01-tenno.md)
 - 登場: 9 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Operator/Quotes/Original](../../quotes/operator-original.md)（235 行）
+- セリフ集: [Operator/Quotes](../../quotes/operator.md)（589 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Operator)（英語・出典） / [全文検索](../../search.html?q=Operator)
 

@@ -1,0 +1,1535 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Kinemantik Instant Messenger/Leticia
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Kinemantik Instant Messenger/Leticia」](https://wiki.warframe.com/w/Kinemantik_Instant_Messenger/Leticia)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+1393 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- This article attempts to distill conversations to straight-forward text and may be missing some paths; complete flowcharts for all Lettie conversations are available here in PNG and here in SVG.
+- All ending conversations (where the Hex goes offline) will be marked as {Convo. Ends}
+- A flow chart will be included after all possible choices in the conversation are noted in this page
+- Any glowing, golden text marked in-game will be highlighted here in bold+underlined
+- Indented messages are the continuation after the Drifter (you) selected the chat option
+- All user's choices to be made are marked with a '>' for clarity. Note that available choices in-game are not written in order on this page.
+- Special Note for Leticia: Her messages use multiple paragraph spacings. As such, the following convention shall be used due to formatting issues:
+- Lettie: {P1} Are there gods still {P2} Or have you forgotten them all
+
+### Conversation 1 (Hey, Lettie, <what brought you to Höllvania ? / how'd you get into being a medic ?)
+
+- Hey Lettie, how’d you get into being a medic?
+- Lettie: {P1} It’s my job {P2} Why’d you get into {P3} Whatever it is you do
+- I didn’t really have a choice.
+- Lettie: {P1} Then we have that in common {P2} And you shouldn't ask stupid questions, babas {Continues the same as "Am I bothering you" below}
+- Am I bothering you?
+- Lettie: {P1} Why {P2} What gives you that idea {P3} It’s not like I’m busy or anything {P4} Trying to stitch people together
+- Just trying to be friendly, sorry.
+- Lettie: {P1} Ay, equis {P2} It’s fine {P3} Didn’t get much sleep last night
+- > Me neither.
+- Why not?
+- Lettie: Never do
+- Lettie: {P1} Do you want something {P2} Or are you just killing time
+- > Just trying to say hello, is all.
+- > Just killing time.
+- I just wanted to see how you were doing.
+- Lettie: {P1} Busy {P2} Tired {P3} Stressed
+- Lettie: The usual
+- > I’ll stop bothering you, then.
+- Anything I can help with?
+- Lettie: {P1} Convince the locals to stop getting in between Techrot and scaldra {P2} Eso sería genial
+- Lettie: {P1} Other than that? {P2} I’ll think {Convo. Ends}
+- What should I talk to you about instead?
+- Lettie: {P1} Eh, lo siento {P2} Didn't get much sleep last night {P3} So i dont have much patience for bad questions
+- They *were* bad questions, though. lol. I just don't know what else to talk about
+- Lettie: {P1} A hint then {P2} If you're gunna interrupt my day {P3} Make it interesting, si?
+- Make it interesting. Roger. I'll... go... think up... interesting things...
+- Lettie: Buena suerte {Convo. Ends}
+- > I’m clearly bugging you. I’ll leave you alone.
+- Hey, Lettie, what brought you to Höllvania?
+- Lettie: Eh?
+- Lettie: Why'd you come here
+- I didn't really have a choice.
+- {P1} Then we have that in common {P2} And you shouldn't ask stupid questions, babas
+- What should I talk to you about instead?
+- (Dialogue continues as above)
+
+### Conversation 2 (Anyone back home missing you ? / So what made you want to keep rats as pets ?)
+
+- Anyone back home missing you?
+- Lettie: {P1} Doesn't matter {P2} Can't leave this cuchitril {P3} So why think about them
+- > O...kay... {Convo. ends}
+- We're talking on the *internet* and you know the *phone* exists, yeah?
+- (Lines required)
+- Sometimes painful memories are all that get us through.
+- Lettie: {P1} ¿Sí? {P2} What do you know of pain?
+- I don't have to prove myself to you, lady.
+- (Lines required)
+- Do you know what it feels like to get your head cut off? I do. I've dies a thousand times. And it *hurts*, lady.
+- Lettie: {P1} Touched by La Flaca {P2} Another fantasma like the rest of us {P3} Reliving their deaths again and again and again
+- Lettie: {P1} Sí {P2} There is family at home {P3} Better they think I am already dead
+- There's still life worth living, here.
+- Lettie: {P1} Suure, suure {P2} With Amir's games and Arthur's drinking and Aoi's music and Quincy's pictures
+- Lettie: {P1} Empty hobbies {P2} Empty souls {P3} Passing time through eternity
+- Lettie: {P1} I have work to do {P2} Vete {Convo. Ends}
+- Do you take the pain for other people by choice, or because it's your duty?
+- Lettie: {P1} Both I suppose {P2} I chose a long time ago {P3} Now it's too late to go back
+- Lettie: I have work to do {Convo. ends}
+- So what made you want to keep rats as pets?
+- Lettie: You tell me
+- Huh?
+- Lettie: {P1} I want to know why you think I like rats {P2} Go on
+- Because they're intelligent, affectionate, and playful?
+- (Lines required)
+- Because they're often neglected and misunderstood?
+- Lettie: {P1} Ay, Lua, sálvame {P2} No
+- Lettie: {P1} Didn't grow up with a lot of money as a kid {P2} Not a bad neighborhood, really {P3} Not a great one either {P4} Rats were easy to keep, mi mamá didn't mind
+- Lettie: You want to get those bandages?
+- Sure, I'll see what I can do.
+- Lettie: {P1} Gracias {P2} Owe you one {P3} A small one
+- You can get them, since she's your rat.
+- (Lines required)
+- Lettie? I don't understand the first thing about you. But the rats are cute as hell.
+- Lettie: JAJAJA!
+- Lettie: {P1} Humility from our savior {P2} I like it
+- Lettie: {P1} Didn't grow up with a lot of money as a kid {P2} Bouncing from base to base {P3} Rats were easy to keep, mi mama didn't mind
+- Lettie: {P1} I have to get back to work {P2} See ya, babas {Convo ends}
+- > I don't think I like where this is going. {Convo ends.}
+
+### Conversation 3 (Babas. Heads up.)
+
+- Lettie: {P1} Babas. {P2} Heads up.
+- Is that a hello?
+- Lettie: {P1} Yes, yeah, hello, *good morning*. {P2} Or whatever time it is. {P3} Need you to get more gauze. {P4} Running low on supplies. {P5} Anita got into a box and chewed through some.
+- > Who's Anita? {same response as below}
+- I have no idea who that is, Lettie.
+- Lettie: {P1} Lo siento, right. {P2} My new corazoncito, my new rat. {P3} SH is still learning to behave.
+- I'm curious, why do you keep rats as pets?
+- Lettie: You tell me
+- Huh?
+- Lettie: {P1} I want to know why you think I like rats. {P2} Go on.
+- Because they're intelligent, affectionate, and playful?
+- Lettie: {P1} Ay, Lua salvame {P2} No
+- Lettie: {P1} Didn't grow up with a lot of money as a kid {P2} Not a bad neighborhood, really {P3} Not a great one either {P4} Rats were easy to keep, mi mama didn't mind
+- Lettie: You want to get those bandages?
+- Sure, I'll see what I can do.
+- Lettie: {P1} Gracias {P2} Owe you one {P3} A small one {Convo. Ends}
+- You can get them, since she's your rat.
+- ???
+- Because they're often neglected and misunderstood?
+- ???
+- Lettie? I don't understand the first thing about you. But the rates are cute as hell.
+- Lettie: {P1} ¡JAJA!
+- Lettie: {P1} Humility from out savior {P2} I like it
+- Lettie: {P1} Didn't grow up with a lot of money as a kid {P2} Not a bad neighborhood, really {P3} Not a great one either {P4} Rats were easy to keep, mi mama didn't mind
+- Lettie: You want to get those bandages?
+- Sure, I'll see what I can do.
+- Lettie: {P1} Gracias {P2} Owe you one {P3} A small one {Convo. Ends}
+- You can get them, since she's your rat.
+- ???
+- >I don't like whte this is going. {Convo. Ends}
+- If I see any, I'll grab some.
+- Lettie: {P1} Gracias {P2} Owe you one {P3} A small one {Convo. Ends}
+- You can go out and get the gauze then, if your rat ate it.
+- Lettie: {P1} Sí, with all my spare time {P2} Between stitching up the hex {P3} And all the civvies
+- Lettie: Gracias por nada, babas
+
+### Conversation 4 (Are there gods still)
+
+- Lettie: {P1} Are there gods still {P2} Or have you forgotten them all
+- You have a hell of a way of starting a conversation, you know that?
+- Lettie: {P1} Heh, sí {P2} You'll get used to it {P3} Or not
+- Lettie: {P1} Well? {P2} Are they still worshipped?
+- (Jump down to choices from "{P1} ¿Neta, babas? {P2} The gods, babas – Sol and Lua {P3} Are they remembered?")
+- I’m sorry, back up, what?
+- Lettie: {P1} ¿Neta, babas? {P2} The gods, babas – Sol and Lua {P3} Are they remembered?
+- I… hate to break it to you, but Sol and Lua aren’t gods. One’s a star and the other is a rock that’s…
+- (Lines required)
+- They aren’t worshipped as gods anymore, I’m sorry. But Lua is still considered kind of sacred.
+- Lettie: {P1} What do you mean {P2} Kind of sacred
+- Lua... well... It kind of got shoved in the void for a while.
+- Lettie: {P1} If it is half like what it sounds {P2} You put her WHERE?!
+- The void is kind of like a non-dimension? It's sometimes black and white. It's weird. Kind of tingly.
+- But I was in Duviri, dying repeatedly, when the Lotus decided to put Lua in the Void.
+- Lettie: {P1} Oh yeah {P2} And what was that "hell" like {P3} Did it burn?
+- Duviri was an alternate dimension I kind of... created? Sort of? By existing?
+- > It was made out of the void plucked from my mind and made real. Manifestations of a frightened child.
+- But it all went wrong when I grew up and wanted to leave. And they began killing me, again and again.
+- Lettie: {P1} Stories made real {P2} And La Flaca knows your face.
+- Lettie: Maybe we have more in common than I gave you credit for, babas.
+- > You're a werid lady...
+- {Lines required}
+- > None of your business.
+- {Lines required}
+- > No, that's one thing they didn't do to me, thankfully.
+- {Lines required}
+- Woah, back up. *I* didn't put her anywhere! I had nothing to do with it!
+- {Lines required}
+- It's complicated. A really long story. The short of it is, it's still very important, but not worshiped.
+- Lettie: Then what DO you worship
+- The universe. The void. Everything.
+- {Lines required}
+- Nothing.
+- {Lines required}
+- I believe in myself and the people around me.
+- Dying on endless repeat does that to you.
+- Lettie: {P1} That's a motivational poster not a belief {P2} But whatever brings you peace at night
+- Lettie: {P1} But I am curious {P2} This kingdom of death of yours {P3} Tell me more
+- Duviri was an alternate dimension I kind of... created? Sort of? By existing?
+- > It was made out of the void plucked from my mind and made real. Manifestations of a frightened child.
+- But it all went wrong when I grew up and wanted to leave. And they began killing me, again and again.
+- Lettie: {P1} Stories made real Lettie {P2} And La Flaca knows your face
+- Lettie: {P1} Maybe we have more in common than I gave you credit for, babas
+- You're a weird lady...
+- Lettie: {P1} Mm {P2} Seen a lot of suffering {P3} Suppose it does that to you {Convo ends}
+- None of your business.
+- {Lines required}
+- It's personal.
+- {Lines required}
+- I can only speak for myself, and I was raised to worship the Orokin. And then I learned better.
+- [Goes the same as below, from: "Lettie: {P1} You didn't have gods... "]
+- Haven’t forgotten them, we didn’t have any. I don’t count the Orokin.
+- Lettie: {P1} You didn't have gods... {P2} Who're the orokin?
+- They were assholes who thought they were above everyone else. Enough said.
+- [Same as below choice]
+- They were a group of people who ruled over the Origin system. Who thought of themselves as gods.
+- Lettie: {P1} Not the first time men dressed themselves as kings {P2} And thought themselves divine
+- Lettie: {P1} Won’t be the last {P2} Talk to me more of them another time {P3} I have work to do {Convo. Ends}
+- > Not touching THIS with a ten foot pole… [End]
+
+### Conversation 1 (These deaths you had (*Do you know much of death*)/ Tell me, babas)
+
+- Lettie: {P1} This deaths you had. {P2} Did they hurt?
+- And here I thought *I* was morbid... Are you okay?
+- Lettie: La Flaca and I know each other well.
+- La Flaca is death?
+- Lettie:{P1}Sì. {P2} Surprised you caught on.
+- Lettie: {P1} I respect her. {P2} Even if sometimes I don't want to like her. {P3} But she sheperds the ones I care for.
+- But you're a medic. Don't you heal people? How can you "respect" death?
+- Lettie: You're thinking about it all wrong.
+- Lettie: {P1} All those times you died. {P2} Do you blame her for ending your pain? {P3} Was it her fault you suffered or was it the ones who hurt you to blame?
+- Lettie: {P1} But when she does come. {P2} I make sure she knows she is welcome. {P3} She takes away pain, babas. {P4} She is not to be feared, but respected.
+- > When I was in Duviri, and knew I was about to die, sometimes it was a relief to know it'd be over soon.
+- That no matter how badly it was about to hurt, the darkness would come and it'd be done.
+- Lettie: {P1} ¿Sì, see? {P2} You get it.
+- But I also knew I was going to come back.
+- Lettie: {P1} And for those with faith {P2} So are we {P3} Maybe not as literally as you jaja {P4} Though... now we are fantasmas, too
+- Lettie: {P1} Caught in the same endless cycle as you were... {P2} Outside Mictlán embrace
+- Lettie: I need to go back to work {Convo. ends}
+- But I don't think it means everybody should die. lol
+- Lettie: {P1} That's why I heal {P2} To make sure La Flaca is certain in who she is taking {P3} And that she ONLY gets who she needs {P4} And no one else.
+- Lettie: {P1} We've all seen her sent loved ones too soon by actions of others...
+- Yeah.
+- (lines required)
+- I could toast to that.
+- Lettie: Sì {Convo. ends}
+- I guess part of me understands that. Even if I don't like the idea of dying.
+- Lettie: Hm, Sì
+- [Goes the same as above, from: "But I don't think it means everybody should die. lol"]
+- I am... going to stop this conversation, now.
+- Lettie: Ay, equis, pansy
+- {Convo. ends}
+- LOL. Lady, don't get me started. You?
+- [Goes the same as above, from: "Lettie: La Flaca and I know each other well."]
+- Who's La Flaca?
+- Lettie:{P1}The Skinny Lady {P2} Death
+- Lettie: {P1} I respect her. {P2} Even if sometimes I don't want to like her. {P3} But she shepherds the one I care for.
+- But you're a medic. Don't you heal people? How can you "respect" death?
+- [Goes the same as above, from: "Lettie: You're thinking about it all wrong."]
+- Death isn't a person. It's a thing that happens.
+- Lettie: Va {Convo. ends}
+- You seriously need to get outside more often.
+- (lines required)
+
+### Conversation 2 (What're the names of you pet rats ? / How many pet rats do you have ?)
+
+- What're the names of your pet rats?
+- Lettie: Mm?
+- [Goes about the same from: "Lettie: Vaquero, Anita, Neenah, Tláloc"]
+- How many pet rats do you have?
+- Lettie: {P1} Mm? {P2} 4
+- Lettie: Vaquero, Anita, Neenah, Tláloc
+- How did you pick their names?
+- Lettie: {P1} Vaquero means cowboy {P2} Anita is a friend back home {P3} Neenah was a friend who is gone now {P4} Tláloc after an ancient god of rain
+- Lettie: {P1} Tláloc is a *dick* {P2} The rat not the god jaja {P3} I don't need that kind of bad mojo
+- I've never heard of Tláloc before. Did he come before Lua and Sol? Before dualism?
+- Lettie: Sí, long long ago, my people worshiped ancient gods, some of whom could be... bloody
+- What do you mean, "bloody"?
+- Lettie: Xipe Totec, the Flayed One , who was the god of rebirth, of agriculture, and war
+- Flayed One...?
+- {P1} In the yearly festival to celebrate him, war prisoners would be skinned, and bands of men would wear their flesh like their own and accept offerings from people of the cities in his name {P2} Like I said {P3} They could be bloody from time to time
+- Well. Thanks for the nightmare fuel.
+- Lettie: De nada {Convo ends.}
+- Humans are weird.
+- Lettie: Couldn't agree more
+- He doesn't sound TOO bad...
+- [Same as above choice]
+- Sounds, um, pleasant.
+- [Goes the same as above, from: "Lettie: Xipe Totec, the Flayed One ..."]
+- What makes him a dick? lol
+- Lettie: {P1} He likes to bite {P2} He's like the ancient people and their gods, some of whom could be... bloody
+- You should name one after me. :)
+- Lettie: {P1} Heh {P2} Name it Babas {P3} Hope it doesn't start licking the wallpaper
+- What *does* Babas mean, anyway?
+- Lettie: {P1} Don't worry {P2} It could be worse
+- Mkay... I trust you.
+- Lettie: Bueno {Convo. ends}
+- I don't believe you.
+- (Lines required)
+- Har har. I know what that means, y'know.
+- Lettie: Good {Convo. ends}
+
+### Conversation 3.1 (These Orokin, Entrati was one)
+
+- Lettie: {P1} These orokin, Entrati was one {P2} Yeah? {P3} Makes sense, him thinking he’s some kinda god, ruining lives
+- > I gotta go, sorry. [End]
+- Kind of? Halfway. After his void experiments, they adored him. But he was bitter about how they treated him before, so… it’s hard to explain.
+- I think it’s just how he is. You should meet the Cavia.
+- Lettie: Who’re the cavia
+- Friends of mine. Animals that Entrati experimented on by sending them into the void.
+- Lettie: {P1} As if I didn’t need a reason to HATE him more… {P2} LAB ANIMALS?!
+- They were sent into the void and came out with intelligence.
+- Lettie: {P1} And let me guess, he just abandoned them {P2} Saw what he’d done and walked away because he didn’t need them anymore
+- He’s trying to stop the Man in the Wall. It’s important.
+- Lettie: {P1} Not saying it isn’t {P2} But pendejos like him always do the worst things in the name of doing the ultimate good {P3} They don’t care who they hurt or how bad, as long as they WIN and get their way
+- Lettie: People like him get people like us murdered
+- Lettie: {P1} You’ll never see HIM die for his cause {P2} He’ll never sacrifice HIS life {P3} Just the ones around him
+- Lettie: Makes you wonder which one the monster is in the end
+- > I get why he’d do anything to stop the Man in the Wall.
+- In order to stop the Man in the Wall, we need him. But that doesn’t mean I trust him. Or like him.
+- Lettie: {P1} Good {P2} Don’t turn your back on that pendejo {P3} But be careful that you don’t pretend to know the nature of the gods
+- Lettie: {P1} This THING he’s chasing after {P2} It wears human skin like the ancient bloody gods of old
+- Lettie: {P1} Xipe Totec the Flayed One would wear the skin of his enemies {P2} And so does your Man in the Wall
+- Lettie: {P1} So be careful what you do {P2} Or else it might wear your face next {P3} ¿Yeah, babas?
+- Lettie: I might be a tiny bit sad
+- D’aw, thanks.
+- Lettie: {P1} I should go back to work {P2} Nos vemos, babas {Convo. Ends}
+- Love you too, Lettie.
+- Lettie: {P1} Muah {P2} I should go back to work {P3} Nos vemos, babas {Convo. Ends}
+- Yep, you got it. Now they’re a… bunch of traumatized animals with human intelligence.
+- Lettie: {P1} Oh, pobres ángeles inocentes {P2} I would love them, you're right... {P3} We do not deserve animals {P4} Their love for us is pure and only asks for love in return
+- Maybe I can take you to see them someday.
+- Lettie: {P1} I would adore that {P2} Gracias
+- (continues from "That's why I keep pets...)
+- I do everything I can to help the Cavia. Honestly, I prefer them to most people. lol
+- Lettie: {P1} That's why I keep pets {P2} My rats keep me company when I'm lonely {P3} When I can't stand people, they're there {P4} Sweet little souls, just wanting love
+- Lettie: {P1} And cheddar crowns jaja {P2} But mostly love
+- Lettie: {P1} But if I ever meet Entrati again {P2} I am going to make him HURT {P3} I am going to make him pay for every ounce of pain he paid those animals {P4} And I am going to make sure he knows why
+- Once the Man in the Wall is dealt with, he's all yours.
+- (Lines required)
+- I'll be there to help you do it.
+- Lettie: Transference will finally be good for something, eh
+- Lettie: {P1} Or maybe you can hold him down {P2} Heh, here I am getting all excited about something that'll never happen
+- Lettie: {P1} I should go back to work {P2} Nos vemos {Convo. Ends}
+- But he thinks he’s doing all this for the greater good.
+- Lettie: Greater good, my ass
+- > I dunno, your ass *is* pretty good. ;)
+- Stopping the Man in the Wall is a pretty important problem, to be fair.
+- Lettie: {P1} Doesn't mean he's doing the right thing {P2} Pendejos like him are all the same {P3} Bullheadedly charging at their problem {P4} Everyone else is collateral damage
+- Lettie: {P1} He doesn't care who he hurts or how bad {P2} Everyone is just collateral damage to him in the name of his mission
+- Lettie: People like him get people like us murdered
+- Lettie: {P1} You’ll never see HIM die for his cause {P2} He’ll never sacrifice HIS life {P3} Just the ones around him
+- Lettie: Makes you wonder which one the monster is in the end
+- > I get why he’d do anything to stop the Man in the Wall.
+- In order to stop the Man in the Wall, we need him. But that doesn’t mean I trust him. Or like him.
+- Lettie: {P1} Good {P2} Don’t turn your back on that pendejo {P3} But be careful that you don’t pretend to know the nature of the gods
+- Lettie: {P1} This THING he’s chasing after {P2} It wears human skin like the ancient bloody gods of old
+- Lettie: {P1} Xipe Totec the Flayed One would wear the skin of his enemies {P2} And so does your Man in the Wall
+- Lettie: {P1} So be careful what you do {P2} Or else it might wear your face next {P3} ¿Yeah, babas?
+- Lettie: I might be a tiny bit sad
+- D’aw, thanks.
+- Lettie: {P1} I should go back to work {P2} Nos vemos, babas {Convo. Ends}
+- Love you too, Lettie.
+- Lettie: {P1} Muah {P2} I should go back to work {P3} Nos vemos, babas {Convo. Ends}
+
+### Conversation 3.2 (I want to know where Entrati gets off)
+
+- Lettie: {P1}I want to know where Entrati gets off. {P2} Coming here and ruining lives. {P3} Who does he this pinche thinks he is?!
+- But he thinks he's doing all this for the greater good.
+- Lettie: Greater good my ass.
+- Stopping the Man in the Wall is a pretty important problem, to be fair.
+- Lettie:{P1} Doesn't mean he's doing the right thing. {P2} Pendejos like him are all the same. {P3} Bullheadedly charging at their problem. {P4} Everyone else is collateral damage.
+- Lettie: {P1} He doesn't care who he hurts or how bad. {P2} Everyone is just collateral damage to him in the name of his mission.
+- Lettie: People like him get people like us murdered.
+- Lettie: {P1} You'll never see HIM die for his cause. {P2} He'll never sacrifice HIS life. {P3} Just the ones around him.
+- Lettie: Makes you wonder which one the monster is in the end.
+- In order to stop the Man in the Wall, we need him. But that doesn't mean I trust him. Or like him.
+- Lettie: {P1} Good. {P2} Don't turn your back on that pendejo. {P3} But be careful that you don't pretend to know the nature of the gods.
+- Lettie: {P1} This THING he's chasing after.{P2} It wears human skin like the ancient bloody gods of old.
+- Lettie: {P1} Xipe Totec the Flayed One would wear the skin of his enemies. {P2} And so does your Man in the Wall.
+- Lettie: {P1} So be careful what you do. {P2} Or else it might wear your face next. {P3} ¿Yeah, babas?
+- Lettie: I might be a tiny bit sad.
+- Love you too, Lettie.
+- Lettie: {P1} Muah. {P2} I should go back to work. {P3} Nos vemos, babas.
+- {Convo.Ends}
+- He's used to rubbing shoulders with the Orokin. He's used to thinking he's a god.
+- Lettie: Orokin?
+- The ruling class of people in the future I come from. They made people worship them as gods
+- Lettie: {P1} Not the first time men dressed themselves as kings {P2} And then thought themselves divine
+- Lettie: {P1} That explains Entrati {P2} He thinks he is a god and acts accordingly {P3} Pendejos like him are all the same {P4} Bullheadedly charging at their problem {P5} Everyone else is collateral damage
+- Lettie: {P1} He doesn't care who he hurts or how bad {P2} Everyone is just collateral damage to him in the name of his mission
+- Lettie: People like him get people like us murdered
+- Lettie: {P1} You'll never see HIM die for his cause {P2} He'll never sacrifice HIS life {P3} Just the ones around him
+- Lettie: Makes you wonder which one the monster is in the end
+- I get why he'd do anything to stop le Man in the Wall.
+- Lettie: {P1} Do not pretend to understand the gods {P2} They are beyond us and it is stupid to think otherwise
+- {Continue as below from "{P1} This THING he's chasing after"}
+- In order to stop the Man in the Wall, we need him. But that doesnt mean I trust him. Or like him.
+- Lettie: {P1} Good. {P2} Don't turn your back on that pendejo. {P3} But be careful that you don't pretend to know the nature of the gods.
+- Lettie: {P1} This THING he's chasing after {P2} It wears human skin like the ancient bloody gods of old
+- Lettie: {P1} Xipe Totec the Flayed One would wear the skin of his enemies {P2} And so does your Man in the Wall
+- Lettie: {P1} So be careful what you do {P2} Or else it might wear your face next {P3} Yeah, babas?
+- Lettie: I might be a tiny bit sad
+- D'aw, thanks.
+- Lettie: {P1} I should go back to work {P2} Nos vemos, babas
+- {Convo.Ends}
+- Love you too, Lettie.
+- Lettie: {P1} Muah {P2} I should go back to work {P3} Nos vemos, babas.
+- {Convo.Ends}
+- They were assholes who thought they were above everyone else. Enough said.
+- {Continue as above from "{P1} Not the first time men dressed themselves as kings"}
+- > I gotta go, sorry. [End.]
+
+### Conversation 4 (Hey babas. I have a <another> small favor to ask you)
+
+- Lettie: {P1} Hey, babas {P2} I have another small favor to ask you
+- > Run your own errands {Convo. ends}
+- Y'know I'm not your little bitch, right?
+- Lettie: {P1} Sí {P2} I bet I could make you beg for treats {P3} But you're probably too soft for that
+- Are... you threatening me or hitting on me?
+- Lettie: {P1} ¿Por qué no amobos? {P2} Don't distract me, babas
+- (Jump to below branch "Bueno")
+- Bring it.
+- Lettie: {P1} Cuidadito, babas. {P2} Don't distract me
+- Sure. What's up?
+- Lettie: Bueno
+- Lettie: {P1} I have too much work to do to play games and run around {P2} These civvies collect bullet wounds like Amir collects computers
+- Lettie: {P1} Point being, medkits {P2} I need more {P3} Find them or buy them, don't care {P4} Get them to me {P5} Te lo agradecería mucho
+- I'm on it.
+- Gracias {Convo. ends}
+- No promises.
+- None asked for. {Convo. ends}
+- Get them yourself.
+- (Line required)
+
+### Conversation 5 (I think you need to cut Eleanor some slack / So... what's your problem with Eleanor, anyway?)
+
+- So... what's your problem with Eleanor, anyway?
+- Lettie: {P1} We all wound up as monsters {P2} But that bruja delights in what we've become {P3} Gets a sick glee out of messing about in my head {P4} Sees too much and thinks she knows everything
+- Lettie: {P1} Even if she never devolves into the Techrot {P2} And she stays like she is now I don't care {P3} That bruja still enjoys this shit too much
+- Just because she embraces what's happened to her doesn't make her a bad person.
+- Lettie: {P1} It's one thing to accept it {P2} It's another thing to enjoy it {P3} And she can learn to not be a metiche and stay the hell out of my DAMN head
+- She's one of your teammates, Lettie. And like it or not, you're stuck with her. You need to work on letting go of your grudges.
+- Lettie: {P1} Sure, sure {P2} How well is that working out for you, babas {P3} Have you forgiven all your grudges
+- Lettie: {P1} Against Duviri and the place that hyrt you so many times
+- You're right, I still hold grudges. I'm not perfect. All I'm saying is that you're treating her like she's a monster. Can you blame her for meeting disgust with defiance?
+- (Line required)
+- You're right, I still hold grudges. I'm not perfect. All I'm saying is that she's the one who is the closest to the Techrot. Can you imagine what that must feel like, to hear them all the time?
+- (Line required)
+- I just don't think you're being fair to her, Lettie.
+- (Line required)
+- (TODO: redo the part below, the dialog path is not necessarily correct)
+- She's lost her voice. She has to listen to everybody's thoughts all the time. She gets weird flashes of things she doesn't understand.
+- And she has all of YOU treating her like she's the real monster. Can you imagine what that must feel like?
+- Can you blame her for meeting that kind of disgust with defiance instead of shame?
+- Lettie: {P1} Mierda... {P2} I do not like her in my head, babas {P3} But when you put it like that... no I do not blame her {P4} It is how I would handle it, too
+- Lettie: {P1} I tell you what {P2} You have the bruja metiche work on staying out of my head {P3} And... I will work on cutting her some slack, ¿sí?
+- I think you need to cut Eleanor some slack.
+- ¿Ay, sí? And why is that? Did the bruja send you to talk to me?
+- No, she didn't. I'm here on my own accord.
+- Lettie: ¿Ay, sí, verdad? Do tell
+- She's lost her voice. She has to listen to everybody's thoughts all the time. She gets weird flashes of things she doesn't understand.
+- And she's the one who's closest to the Techrot. Can you imagine what that must feel like, to hear them all the time?
+- That is exactly the problem You keep making my arguments for me, babas
+- Someday they will consume her And you will be gone and not able to save her
+- Vete Go away Too much to do to waste time on this {Convo. Ends}
+- > And she has all of YOU treating her like she's the real monster. Can you imagine what that must feel like?
+- > Just because she embraces what's happened to her doesn't make her a bad person.
+- > It doesn't matter if she did or not, I still think you should ease up.
+- > [Ignore.]
+
+### Conversation 6 (Hey Lettie, <\I have a favor to ask you / what do you think about tabletop roleplaying games?>
+
+- Hey Lettie, what do you think about tabletop roleplaying games?
+- Lettie: {P1} Estas bromeando, ¿verdad? {P2} Amir is making you ask I know it
+- I agreed to ask, I think it'll be fun!
+- Lettie: {P1} Babas... {P2} I have too much shit to do {P3} Than to waste it on games for children
+- I know a game like "Fables and Frontiers" sounds really silly, but it's about spending time together.
+- Lettie: And?
+- (Goes the same as below path)
+- I know a game like "Fables and Frontiers" sounds really silly, but it's important to Amir.
+- (lines needed)
+- I agreed to ask, it's important to him.
+- (lines needed)
+- Hey Lettie, I have a favour to ask you.
+- Lettie: {P1}? Ay, si? {P2} What is it, babas?
+- Amir's putting together a game of Fables & Frontiers. And I know it sounds silly, but before you come over here and stab me -
+- It's a chance to get everybody to spend time together.
+- Lettie: And?
+- And you could use a break.
+- Lettie: And?
+- >...And you wouldn't be the only one playing with us? (depends on who else you get to join)
+- (lines needed for the rest of the Hex joining)
+- Me and Amir, obviously. And after that...
+- [Check if Arthur is joining] >Arthut said he'd play lol
+- Lettie: HAH... well, if mi hermano is playing...
+- Lettie: {P1} Ssiiiii... {P2} Fiiine babaaass... {P3} But I better not regret this... {convo. end}
+- Aoi said she'd play
+- Lettie: I am not surprised...
+- Lettie: {P1} Ssiiiii... {P2} Fiiine babaaass... {P3} But I better not regret this... {convo. end}
+- And it might actually be a little fun.
+- Lettie: And?
+- ...And you DO kind of owe me a favor, don't you?
+- Lettie: {P1} Ssiiiii... {P2} Fiiine babaaass... {P3} But I better not regret this...
+- It's really important to Amir.
+- Lettie: [P1] What that escuincle thinks is important and what IS important are very different [P2] I do not have time for this {Convo ends.}
+- {Convo variation - Not sure the Boolean that triggers it}
+- Hey Lettie, I have a favour to ask you.
+- Lettie: {P1} You've been helping me {P2} So I suppose I'll hear you out {P3} What is it, babas?
+- I know this'll sound like a massive waste of time, but Amir wants to get us all to play a game with him called Fables & Frontiers.
+- Lettie: {P1} You're right {P2} It does sound like a massive waste of time {P3} And like pulling my own teeth out with a pair of rusty pliers
+- Lettie: {P1} And while there's pain that I enjoy {P2} That's not it
+- You DO kind of owe me a favor, don't you?
+- Lettie: {P1} I do {P2} You're calling it in for a silly child's game of make believe?
+- I am. It's worth it, this means a lot to Amir.
+- Lettie: {P1} Suit yourself, babas... {P2} I'll play this stupid game {P3} But only AFTER the work day {P4} Now vete {Convo ends.}
+- I... wait. What about pain?
+- Lettie: {P1} Heh {P2} Don't get too excited babas {P3} Te queda grande la yegua
+- Amir really wants us all to play Fables & Frontiers with him. It's really important to him.
+- Lettie: {P1} What that escuincle thinks is important and what IS important are very different {P2} I do not have time for this {Convo ends.}
+
+### Conversation 1 (How do you do it, babas)
+
+- Lettie: {P1} How do you do it, babas {P2} No entiendo
+- You forgot to tell me what you're talking about.
+- Lettie: {P1} Jaja,si {P2} Lo Siento, too much time in my head alone {P3} Though less so recently between you and the bruja
+- (Jump to below "Being trapped for centuries without time")
+- Do what?
+- Lettie: {P1} Being trapped for centuries without time {P2} Without change, without movement {P3} We are fantasmas haunting this place
+- Lettie: {P1} You say you've done it in Duviri {P2} That Kingdom of Death and Stories {P3} Yo me habrìa vuelto loca {P4} I'm worried I will lose my mind, now
+- Honestly? I almost did. I chose to go numb instead.
+- Lettie: {P1} ¿Sí? {P2} Numb, an empty shell {P3} But you came back to life it seems, I don't see that in you now
+- (jump to below choices "Once I realized what was happening...")
+- I... think I did lose my mind for a little while. I don't remember whole chunks of it.
+- Lettie: {P1} I've seen that in soldiers after bad battles, blocking it all out {P2} The mind protects itself from the worst sometimes {P3} It's for the best, babas, trust me {P4} Well? How did you survive?
+- Once I realized what was happening, I fought like hell to keep from letting it consume me.
+- Lettie: {P1} But you cannot fight eternity {P2} You escaped that place {P3} I don't see a way out for us... do you?
+- No... I don't, I'm sorry.
+- Lettie: {P1} Appreciate the honesty {P2} I guess we take bets on who goes crazy first
+- Lettie: {P1} Who knows {P2} Might be me {Convo. Ends}
+- I mean, I can take you out of here via transference for short periods.
+- Lettie: {P1} ¿Ay, Sí? {P2} ¿Want to take me out for a walk? {P3} Cuidadito, I am not going to be the pet of this relationship... {P4} Yo no me dejo!
+- Challenge Accepted.
+- Lettie: {P1} We'll see, babas, we'll see {P2} But I'll take you up on the offer for the temporary freedom {P3} Maybe some fresh air from time to time is all this fantasma needs {Convo. Ends}
+- Are... you hitting on me?
+- Lettie: {P1} No manches, babas... {P2} Do you want me to be?
+- Yeah, you're my type. I like to live dangerously. ;)
+- Lettie: {P1} We'll see, babas, we'll see {P2} But I'll take you up on the offer for temporary freedom {P3} Maybe some fresh air from time to time is all this fantasma needs {Convo. ends}
+- No, I'd rather just stay friends.
+- Lettie: {P1} Jaja, none taken {P2} Sí, friends is fine by me {P3} That's more than enough for most people {Convo. ends}
+- I was just trying to be nice. You're not my type.
+- (Lines required)
+- I had help from friends to pull me out of it
+- Lettie:{P1} Bueno, I'm screwed then {P2} Jaja
+- > Well, *I* like you
+- You think the other Hex don't like you?
+- Lettie:Eh know me well enough {P2} But we are not close {P3} Except maybe me and Arthur
+- >You're afraid to trust people
+- You don't want to get hurt if you lose them.
+- Lettie: {P1} ¡No maches, babas! {P2} Do you know how long rats live? {P3} 2-3 years at most {P4} I am used to losing my little panquecitos
+- Lettie: {P1} And I love them more than humans {P2} I am comfortable with grief and loss, more than you know {P3} Do not pretend you know me babas {P4} Làrgate {Convo. Ends}
+- Well, maybe if you weren't so bitchy...
+- Lettie: {P1} JAJAJA {P2} If I weren't I wouldn't be Lettie anymore {P3} I am who I am babas {P4} Take it or leave it {Convo. Ends}
+- What happened to me in Duviri is very different to whats happening here. You're not alone like I was.
+- Lettie: Si, como no / Not the people i'd want to spend eternity with, babas / No offense, look around
+- Lettie: I was only around to stitch them back together, before we were turned into monsters /Now we don't have a choice / You think they want me here?
+- Well, you aren't exactly "approachable", Lettie.
+- Lettie: You think i don't know that, babas?
+- Why don't you let people get close?
+- Lettie: Because i choose not to / Because i've learned better / It's safer this way for everybody
+- Just as a warning, i'm really stubborn, and i want to get to know you better.
+- Ay, si / Someone like you would need to be to survive / Maybe that's your secret / I like the stubborn ones, though / They're harder to break
+- Challenge accepted.
+- Lettie: {P1} Jaja, we'll see, babas {P2} We'll see{Convo. Ends}
+- I just want to be your friend, Lettie. No offense.
+- Lettie: {P1} Jaja, none taken {P2} Si, friends is fine by me {P3} That's more then enough for most people {Convo. Ends}
+- Magic
+- Lettie: Ay, equis {Convo. Ends}
+
+### Conversation 2 (Give me a reason not to hate Entrati)
+
+- Lettie: {P1} Give me a reason not to hate Entrati {P2} And the whole damn future you come from
+- Lettie: {P1} Because from where I sit {P2} That cabron thinks he is a god and he let one loose {P3} And now it's all our problem to deal with {P4} So him and his future can get screwed as far as I'm concerned
+- Lettie: {P1} Because as far as I can tell {P2} He’s an animal abusing cabrón {P3} And your whole stinking future can get screwed as far as I’m concerned
+- > Yikes. I know when a conversation is going to go poorly. I’m out. [End]
+- I don’t disagree. I hate Entrati as much as you do. But the future is worth fighting for, even if it’d be better without him.
+- Lettie: {P1} He's TRASH. {P2} And the future is TRASH.
+- I’m from the future. Do you think I’m trash?
+- Lettie: {P1} it may not be ugly to you {P2} But it is WRONG {P3} It is not what the gods intended {P4} He tampered with it all
+- Lettie: If he never unleashed this Man in the Wall, none of your future would exist.
+- Lettie: {P1} The void would not have been unleashed, ¿no? {P2} You would never have been trapped {P3} Your life would have been happier {continues same as below)
+- Just because you hate a person doesn't mean that all the future is trash.
+- Lettie: {P1} it may not be ugly to you {P2} But it is WRONG {P3} It is not what the gods intended {P4} He tampered with it all
+- Lettie: If he never unleashed this Man in the Wall, none of your future would exist.
+- Lettie: {P1} The void would not have been unleashed, ¿no? {P2} Duvri would never have been created {P3} Your life would have been happier.
+- There’s no way of knowing what could have been. In fact, without the Tenno, all of humanity might be gone by now, wiped out by the Sentients.
+- Lettie: Sentients?
+- > A synthetic race made by the Orokin and the future human society to terraform a planet called Tau, because we were ruining Earth.
+- A synthetic race made by the Orokin and the future human society who waged war on us after they were created.
+- Lettie: {P1} More mortals playing at being gods {P2} These orokin are trash {P3} The sentients lashed out at their creators
+- Lettie: Why?
+- Because the Orokin had sent them there to terraform a new planet, Tau, and the Sentients feared we would ruin that too.
+- Lettie: {P1} More mortals playing at being gods {P2} These orokin are trash {P3} All that power and technology {P4} And they could not save our planet
+- Lettie: {P1} Instead they wanted to make a golden home somewhere else {P2} Where they could be the only gods, far away from the Father and Mother
+- Father and Mother? You mean Sol and Lua?
+- Lettie: {P1} Sí {P2} They are something special, deep down, something more to us than just what they are at first glance
+- Lettie: {P1} Do you believe on the unseen, ¿babas? {P2} Do you believe in something beyond the world we can measure?
+- > No. If you can’t measure it, it doesn’t exist.
+- Of course I do. I’m a product of the Void
+- Lettie: {P1}Ay, sì {P2} You are touched by what you cannot see more than many others {P3} For better or for worse {Convo. ends}
+- Maybe? I think it’s just science we don’t understand yet
+- Lettie: {P1} Ay, sí {P2} Don’t think I disagree {P3} You know what we do not know and admit it {P4} I like that {Convo. ends}
+- Sol and Lua aren’t gods, Lettie… they’re just a star and a rock…
+- (Lines Required)
+- Because they are as selfish, violent and evil as the Orokin
+- (Lines Required)
+- You’re right, but I can’t change what’s been done. Not at that scale. I’m doing my best to save who and what I can.
+- Lettie: {P1}Sí {P2}I am just angry, lo siento {P3} This is not your fault, and you are not garbage
+- Lettie: {P1}You are like me {P2}Just a medic keeping as many lives from joining La Flaca too early as possible
+- Lettie: Entrati can go screw a brick sideways{Convo. Ends}
+- Entrati isn’t all bad, he’s trying to fix his mistake. And anybody who’s capable of love has something worth saving in them, IMO.
+- Lettie: {P1} Love? {P2} Who could possibly love someone like that
+- He had a family. Wife, kids, grandkids now.
+- Lettie: {P1} You said HAD {P2} What do you mean, HAD
+- Well, the issue is, his daughter thinks he's lost, and is searching for him. It's complicated.
+- Lettie: {P1} He abandoned his family {P2} Let me guess {P3} He's done it another time hasn't he
+- Yeah... he abandoned the Cavia, the animals he experimented on and accidentally made intelligent.
+- Lettie: {P1} ?!?!?!??! {P2} If I ever see him again - {P3} I am going to KILL him, and let you reset the world so I can do it AGAIN.
+- Lettie: {P1} He is TRASH {P2} And the future is TRASH
+- > I’m from the future. Do you think I’m trash?
+- Just because you hate one guy doesn’t mean the whole future is garbage.
+- Lettie: {P1} it may not be ugly to you {P2} But it is WRONG {P3} It is not what the gods intended {P4} He tampered with it all
+- Lettie: If he never unleashed this Man in the Wall, none of your future would exist.
+- Lettie: {P1} The void would not have been unleashed, ¿no? {P2} You never would have been trapped {P3} Your life would have been happier
+- > There’s no way of knowing what could have been. In fact, without the Tenno, all of humanity might be gone by now, wiped out by the Sentients.
+- You’re right, but I can’t change what’s been done. Not at that scale. I’m doing my best to save who and what I can.
+- Lettie: {P1} Sí {P2} I am just angry, lo siento {P3} This is not your fault, and you are not garbage
+- Lettie: {P1}You are like me {P2}Just a medic keeping as many lives from joining La Flaca too early as possible
+- Lettie: Entrati can go screw a brick sideways {Convo. Ends}
+- > I mean, I'm sure he loved them at one point...
+- > I've got a wrong light going off in - um - I have to go [End.]
+- His name’s Loid. Sort of a… workplace romance, you could say.
+- Lettie: {P1} ¿Ay, si? {P2} I did not see Loid here with him.
+- Loid is still in the future, guarding Entrati’s lab. He’s been there for centuries.
+- Lettie: {P1} Used and tossed away {P2} I bet not the first time he’s done it {P3} ¿Verdad?
+- > Look, it doesn’t matter. He doesn’t define the future.
+- Yeah… he abandoned his family. He had a wife, kids, and now grandkids.
+- Lettie: {P1} You are making my point, ¿no? {P2} He is trash and the future is trash
+- > Just because you hate one guy doesn’t mean the whole future is garbage.
+- I’m from the future. Do you think I’m trash?
+- Lettie: {P1} it may not be ugly to you {P2} But it is WRONG {P3} It is not what the gods intended {P4} He tampered with it all
+- Lettie: If he never unleashed this Man in the Wall, none of your future would exist.
+- Lettie: {P1} The void would not have been unleashed, ¿no? {P2} You never would have been trapped {P3} Your life would have been happier
+- There’s no way of knowing what could have been. In fact, without the Tenno, all of humanity might be gone by now, wiped out by the Sentients.
+- Lettie: Sentients?
+- A synthetic race made by the Orokin and the future human society to terraform a planet called Tau, because we were ruining Earth.
+- Lettie: {P1} More mortals playing at being gods {P2} These orokin are trash {P3} All that power and technology {P4} And they could not save our planet
+- Lettie: {P1} Instead they wanted to make a golden home somewhere else {P2} Where they could be the only gods, far away from the Father and Mother
+- Father and Mother? You mean Sol and Lua?
+- Lettie: {P1} Sí {P2} They are something special, deep down, something more to us than just what they are at first glance
+- Lettie: {P1} Do you believe on the unseen, ¿babas? {P2} Do you believe in something beyond the world we can measure?
+- > No. If you can’t measure it, it doesn’t exist.
+- > Of course I do. I’m a product of the Void
+- Maybe? I think it’s just science we don’t understand yet.
+- Lettie: {P1} Ay, sí {P2} Don’t think I disagree {P3} You know what we do not know and admit it {P4} I like that {Convo. ends}
+- > Sol and Lua aren’t gods, Lettie… they’re just a star and a rock…
+- > A synthetic race made by the Orokin and the future human society who waged war on us after they were…{... incomplete!}
+- > You’re right, but I can’t change what’s been done. Not at that scale. I’m doing my best to save who and what I can.
+- > Entrati abandoned Loid like he abandons everybody.
+
+### Conversation 3 (Before all this nonsense)
+
+- Lettie:{P1} Before all this nonsense {P2} Where did you come from, ¿babas?
+- > Sorry can't chat. [End]
+- The nonsense started pretty early. Do you mean pre-Now, pre-Duviri, or pre-Zariman?
+- Lettie: {P1} Jajaja {P2} You're right it did start early. {P3} But where do you FEEL like you come from
+- Duviri, I guess.
+- Lettie: Despite what it did to you?
+- We don't get to pick what our homes have done to us, sometimes.
+- Lettie: {P1} Sí, don't I know that well {P2} My family moved a lot then I joined the army {P3} Then with the ICR I fit in with no one and nowhere
+- Lettie: {P1} But my home has not done to me what that place has done to you, babas {P2} I respect you for still thinking of it as where you come from
+- It's the place I know the most, and the place that knows me the most, I suppose.
+- Lettie: {P1} Sí, something to be said for the familiar {P2} I suppose in time this place will feel like home for me {P3} Mierda, I hope that is a long time
+- You're tough. You'll be fine.
+- Lettie: {P1} Pues, a ver {Convo. Ends}
+- Hey. At least you have better company than I did.
+- Lettie: {P1} Maybe {P2} You give me hope in that, babas
+- Lettie: {P1} I see you with the other hex {P2} I see you laughing and finding happiness {P3} You are a fantasma, like me, like us {P4} But you still find MEANING
+- Lettie: {P1} There is hope in that {P2} And I will take what little I can get {P3} Gracias, babas {Convo. Ends}
+- My other option is the Zariman and it's not any kinder. It's filled with just as many ghosts and nightmares. Except there, more people than JUST me died.
+- [Jump below to "Lettie: {P1} More fantasmas, more death that follows you..."]
+- What it did to me, I did to myself. Just nightmares playing over and over again in my head.
+- (Continues same as >My other option is the Zariman)
+- The Zariman, I guess.
+- Lettie: {P1}That's the ship, ¿no? {P2} Isn't it abandoned now?
+- > That's... a complicated question. It has its own ghosts. {Continues same as the Zariman option below}
+- You're going to laugh at me... but this is the closest to a "home" as I've ever felt I've had.
+- Lettie: Why would you think I would laugh at you.
+- Lettie: {P1} It must be hard. {P2} To feel like you come from no place and no time.
+- Lettie: {P1} My family moved a lot then I joined the army. {P2} Then with the ICR I fit with no one and nowhere. {P3} So I understand, in a way, feeling displaced.
+- Lettie: {P1} But I have a people and a culture I can call my own. {P2} Even if they are far away.
+- My other option is Duviri and... no. My history with that place is... too complicated.
+- {Continues same as Zariman option below.}
+- My other option is the Zariman and it's not any kinder. It's filled with just as many ghosts and nightmares. Except there, more people than JUST me died.
+- Lettie: {P1} More fantasmas, more death that follows you. {P2} And I thought I knew La Flaca well.
+- She's got me on speed dial.
+- Lettie: {P1} Jaja seems it {P2} But your ghosts give me hope
+- How does my being haunted bring you hope?
+- Lettie: {P1} I see you with the other hex. {P2} I see you laughing and finding happiness. {P3} You are a fantasma, like me, like us. {P4} But you still find MEANING.
+- Lettie: {P1} There is hope in that. {P2} And I will take what little I can get. {P3} Gracias, babas.
+- Ghosts follow me wherever I go. Sometimes I wonder if I'm just a ghost myself.
+- Lettie: {P1} Poor haunted babas {P2} But you give me hope
+- I'm glad my suffering brings you joy
+- Lettie: {P1} Oh, babas, don't worry {P2} We would take turns
+- What?
+- Lettie: {P1} You'll figure it out {P2} I have faith {P3} But this is not about your suffering {P4} Not today
+- {Continues same as below, from: "Lettie: {P1} I see you with the other hex ... "}
+- I - Oh. *Oh.* Heh. Well.
+- Lettie: {P1} But this is not about your suffering {P2} Not today
+- Lettie: {P1} I see you with the other hex. {P2} I see you laughing and finding happiness. {P3} You are a fantasma, like me, like us. {P4} But you still find MEANING.
+- Lettie: {P1} There is hope in that. {P2} And I will take what little I can get. {P3} Gracias, babas. {Convo. Ends}
+- > I... don't like you like that, I'm sorry, Lettie.
+- I don't really "come from" anywhere.
+- Lettie: {P1} Si, you who wanders {P2} Who has no home
+- {Continues same as below}
+- Honestly? I...don't know. The Orokin kind of erased most of Ancient Earth's records. So I have no way of knowing how far in the future exactly I'm from.
+- Lettie: {P1} It must be hard {P2} To feel like you come from no place and no time
+- Lettie: {P1} My family moved a lot then i joined the army {P2} Then with the ICR I fit in with no one and nowhere {P3} So I understand, in a way, feeling displaced
+- Lettie: {P1} But i have a people and a culture I can call my own {P2} Even if they are far away
+- {Continues with the same following choices than when selecting : " You're going to laugh at me... but ..."}
+
+### Conversation 4 (So, where's home for you? / How'd you end up joining the Hex, Lettie?)
+
+- So, where's home for you?
+- Lettie: {P1} Tenochtitlan City, originally {P2} But we moved to Livertatia when I was young {P3} You wouldn't know where either place is {P4}Big sprawling place overseas from here
+- Do you have family missing you?
+- Lettie: {P1} Doesn't matter {P2} Can't leave this cuchitril {P3} So why think about them
+- Sometimes painful memories are all that get us through.
+- Lettie: {P1} Si? {P2} What do you know of pain?
+- Do you know what it feels like to get your head cut off? I do. I've died a thousand times. And it *hurts,* lady.
+- Lettie: {P1} Touched by La Flaca {P2} Another fantasma like the rest of us {P3} Reliving their deaths again and again and again
+- Lettie: {P1} Yeah, there is family at home {P2} Better they think I am already dead {P3} I will carry this pain for them
+- Do you take the pain for other people by choice, or because it's your duty?
+- Lettie: {P1} Both I suppose {P2} I chose a long time ago {P3} Now it's too late to go back
+- Lettie: I have work to do {Convo. Ends}
+- We're talking on the *internet* and you know the *phone* exists, yeah?
+- Lettie: {P1} Bien podria ser un pinche fantasma {P2} Call from beyond the grave, can't change, can't live, can't die
+- Lettie: {P1} What are we?! {P2} FANTASMAS nothing more {P3} Like shadows on a VHS tape used one to many times
+- Lettie: {P1} No, better they think I am already dead {P2} I take this pain for them
+- Do you take the pain for other people by choice, or because it's your duty?
+- (Continues above 'Both I suppose')
+- There's still life worth living, here.
+- Lettie: {P1} Suure, suure {P2} With Amir's games and Arthur's drinking and Aoi's music and Quincy's pictures
+- Lettie: {P1} Empty hobbies {P2} Empty souls {P3} Passing time through eternity
+- Lettie: {P1} I have work to do {P2} Vete {Convo. Ends}
+- How'd you end up joining the Hex, Lettie?
+- Lettie: {P1} Same as most of the others {P2} I was in the ICR with Aoi, Arthur, and Quincy {P3} Everybody needs a medic to glue their ass back together when it gets an extra hole
+- How do you get on with Aoi?
+- Lettie: {P1} Aoi has to learn when to care for Aoi {P2} Shit, she spends more time babying people than I do Not everybody needs their hand held {P3} Not everybody wants it either
+- Lettie: {P1} She burns herself out that way {P2} Happened before, it'll happen again {P3} Makes herself sick over it
+- Lettie: {P1} I have to get back to work {P2} Don't have much time for chismes {Convo. Ends}
+- I'm surprised you can put up with Quincy. You don't seem to have a lot of patience.
+- Lettie: {P1} That boy and his games, I've seen them a thousand times {P2} They don't bother me
+- Lettie: {P1} He has a good heart {P2} Even better aim {P3} And knows how to keep his ass out of trouble {P3} That's all I need in a aquadmate
+- Lettie: {P1} I have to get back to work {P2} Don't have much time for chismes {Convo. Ends}
+- Have you found the hole where Arthur keeps the stick he's lodged up there?
+- Lettie: {P1} Jajaja {P2} Nah, it's the only thing keeping him standing {P3} Man like him is only upright because he's got souls to protect
+- Lettie: {P1} I decided a long time ago to follow him to the ends of the earth {P2} And I guess I'm stuck with that choice now, eh
+- Lettie: {P1} Good question, babas {P2} Stick to the interesting ones {P3} They get you somewhere {Convo. Ends}
+- ICR?
+- Lettie: {P1} International Crisis Response {P2} Humanitarian gig {P3} Thought it'd be better than working for some mercenary force or army {P4} Shit, was I wrong
+- How'd you meet Arthur?
+- Lettie: {P1} It's a long story {P2} Short of it is
+- Lettie: {P1} I decided a long time ago to follow him to the ends of the earth {P2} And I guess I'm stuck with that choice now, eh
+- Lettie: Good question, babas
+- Why Hollvania, though?
+- Lettie: {P1} Wasn't the place, it was the person I followed {P2} Arthur's why I'm here and in the ICR in the first place
+- Lettie: {P1} I decided long ago to follow him to the ends of the earth {P2} And I guess I'm stuck with that choice now, eh
+- Lettie: {P1} Good question, babas {P2} See? {P3} Stick to the interesting ones {P4} They get you somewhere {Convo. Ends}
+
+### Conversation 5 (You holding up okay? / How's it going with the civilians?)
+
+- You holding up okay?
+- Lettie: {P1} Mm? {P2} Like a revolving door jajaja
+- Lettie: {P1} Even before you sometimes I feel like people come THROUGH me {P2} Just a face in an ICR tent wrapping wounds {P3} But I'm part of the building
+- Lettie: {P1} I'm tough {P2} I am going nowhere {P3} Pero... Estoy muerta {P4} Not enough coffee in the world sometimes, ¿no?
+- Just because you're the tough one doesn't mean I can't care.
+- Lettie: {P1} Si,{P2} It's enough to know that someone has my back {P3} Arthur is like that {P4} Doesn't hover like Aoi, pretending to be mi mamá {P5} Just hands me a cup and says, you good?
+- Yeah but a steady stream of coffee doesn't hurt. lol
+- Lettie: {P1} Jajaja no it does not {P2} Arthur is like that {P3} Doesn't hover like Aoi, pretending to be mi mamá {P4} Just hands me a cup and says, you good?
+- Lettie: {P1} I like that question, babas {P2} Keep asking it {P3} Might need it from time to time {P4} And a cup or two of coffee won't hurt either
+- You got it. <3
+- Lettie: {P1} Back to work, ¿no? {P2} We're both too busy for this {Convo. Ends}
+- I'll see what I can do.
+- (same as above option)
+- How's it going with the civilians?
+- {P1} Eh? {P2} Alright I suppose {P3} Civvies are the same everywhere you get used to it in no time.
+- Yeah, but it's still gotta be exhausting
+- {P1} Si, you have no idea. {P2} Not enough coffee in the world sometimes, ¿no? {P3} Pero... Estoy muerta {P4} I am going nowhere"
+- > (jump to > Just because you're the tough one doesn't mean I can't care.)
+- > (jump to > Yeah but a steady stream of coffee doesn't hurt. lol)
+- Get used to what?
+- {P1} Thei vacant stares and numb pain {P2} To them I'm a face in an ICR tent wrapping wounds {P3} I feel like people come THROUGH me like a revolving door {P4} And this was before YOU made it literal jajaja"
+- I mean, what were you expecting from people who just lost everything
+- (line required)
+- I can see why all the people tunr into a blur after a while
+- (line required)
+- At least you're a really sexy door. :P
+- Lettie: {P1} JAJA {P2} Oh, babas, you know how to cheer up a lady {P3} Put that on my grave {P4} "Aquí yace la puerta más sexy que hayas visto."
+- Lettie: {P1}Gracias por hacerme reír, babas {P2} I needed that
+- Lettie: {P1} Bacj to work, ¿no? {P2} We're bnoth too busy for this {Convo. Ends}
+
+### Conversation 6 (adsvfbghfyjtgukyilo;)
+
+- Lettie: adsvfbghfyjtgukyilo;
+- Lettie: {P1} ¡MIERDA! {P2} Lo siento, Tláloc ran across the keys He has NO manners
+- LOL! Aww. Hi, Tláloc.
+- Lettie: {P1} He is always in the middle of things {P2} Or nibbling on things he shouldn't be
+- (same player options as below)
+- > If I wanted to be friends with your rats, how would I do that?
+- > How hard is it to take care of rats?
+- > I'm trying to picture one of your rates in battle and I'm laughing my ass off.
+- Lol! I have a kavat at home that does that, only last time she sat on the orbiter controls she broke them. ... Kavats weight a bit more than rats...
+- Lettie: You have pets?
+- I do! Kavats, kubrows, predasites, vulpaphyla, all types of sub-species.
+- Lettie: {P1} Those names mean nothing to me, babas {P2} But do you care about them?
+- Of course I do. They fight beside me sure, but I love them.
+- Lettie: {P1} Good {P2} Animals deserve nothing but love and loyalty {P3} They fight for you because that is what they feel for you {P4} I am sure my panquecitos would fight for me if they could jajaja
+- If I wanted to be friends with your rats, how would I do that?
+- Lettie: {P1} Like all creatures, food is easiest path to love jaja {P2} But if you hold them, do not grab them, let them explore and get used to you {P3} Make clicking noises not kissy noises, kissy noises sound like bad squeaks to them
+- (Same as below)
+- How hard is it to take care of rats?
+- Lettie: {P1} Not very {P2} They need a big cage with bedding, places to hide, things to do, things to chew on {P3} They are social and need exercise, so I take them out of their cage a lot to roam
+- Can you show me, sometime?
+- Lettie: {P1} I would love that {P2} And maybe you can show me some of your strange pets in return {Convo. Ends}
+- Sounds complicated.
+- Lettie: {P1} Not much to ask for when you get so much in return from them {P2} Ni modo, some people do not understand I suppose
+- I'm trying to picture one of your rats in battle and I'm laughing my ass off.
+- Lettie: {P1}Tláloc has the attitude but not the size for sure jaja {P2} Maybe we could make them little battle armor {P3} No, they are too small and fragile {P4}It would break my heart if anything happened to them
+- Me, too. They're too cute.
+- Lettie: {P1} They are {P2} Esto ha sido divertido, pero... {P3} Duty calls {Convo. Ends}
+- I should introduce you to some of my pets sometime.
+- Lettie: {P1} I would love that {P2} And maybe then I will introduce you to my rats in return {Convo. Ends}
+- In the same way I care about the guns I own.
+- (Lines required)
+- They're less pets and more "murder animals" I keep around to help me.
+- Lettie: Lárgate de aquí, cabrón {Convo. Ends}
+
+### Conversation 1 (So, I never go the whole story / Do you have a second to chat)
+
+- >So, I never got the whole story of how you met Arthur. (Jump down to {P1} Eh, it was messy)
+- Do you have a second to chat, Lettie? Or are you busy?
+- Lettie: {P1} Always busy {P2} But I can take a break {P3} ¿Qué onda?
+- I was wondering how you and Arthur met.
+- Lettie: {P1} Eh, it was messy {P2} Figured you didn't want the gory details {P3} But, sí, if you want to know {P4} I'll tell you
+- Lettie: {P1} We were stationed together in the same base {P2} Him in the Britannic and me with the Libertarian Army {P3} Different countries, same enemies
+- Lettie: {P1} I was the field medic for my regiment {P2} We were deployed in next to his {P3} The place went real cagadero {P4} Real fast
+- Lettie: {P1} Most of my crew didn't make it {P2} Most of his didn't either {P3} We held each other together {P4} Literally {P5} I stitched his arm up good jaja {P6} When he retired and went into the ICR {P7} I followed him without question {P8} I was sick of all the drama that goes in the army anyway
+- Lettie: {P1} I told him I'd follow him to the ends of the earth {P2} Didn't realize I'd follow him to the edge of Mictlán
+- Lettie: {P1} It must seem so small to you {P2} A story like that {P3} You fight monsters and gods {P4} You have danced with La Flaca so many times
+- Just because my fights are a bit spectacular doesn't mean I can't appreciate how horrible it must've been.
+- {P1} Ay, Sí {P2} Bright and flashy or small and personal {P3} La Flaca is all the same in the end {P4} At least... she should be {P5} But not for los fantasmas {Convo Ends}
+- All war is shit, end of story.
+- Lettie: {P1} Sí, It's all the same {P2} No matter how big and stupid the guns {Convo Ends}
+- >Eh, little people, little stories.
+- >[End]
+
+### Conversation 2 (Tell me of this terrible god)
+
+- Lettie: {P1} Tell me of this terrible god you have unleashed {P2} Your Xipe Totec, your flayed god {P3} What does he want?
+- Huh? What're you talking about?
+- Lettie: This void creature that sacrifices others and wears their skin like ancient flayed god of old, Xipe Totec
+- Lettie: What does he want
+- Freedom?
+- Lettie: {P1} You think but do you not know {P2} Its motivations are not clear {P3} But yet you think its an enemy ¿Por qué?
+- That THING decided it'd be a fun experiment to turn the parents on the Zariman against their children -
+- And then gave the children magical void powers so they could murder their own parents so it could LEARN from the slaughter.
+- > It's had an opportunity to learn from love, from sacrifice, from kindness. But it seems to CHOOSE to seek out chaos and murder.
+- Even if it's just a toddler smashing toys together to understand the world around it, we're those toys. It has to be stopped.
+- I refuse to believe it's benign after all I've seen. After all it's done to me.
+- Lettie: And you think you can stop a god.
+- I have faith.
+- Lettie: {P1} Ay, sí {P2} Faith in what does not matter I suppose {P3} AS long as it gets you through {Convo. ends}
+- All it does is leave death and destruction in its wake. No matter what it's motivations are, it doesn't matter. Trust me.
+- Lettie: {P1} No {P2} Trust you to understand the mind of a god {P3} Don't care how old you are {P4} How much you've seen
+- Lettie: {P1} You are not a god babas {P2} Don't pretend you think like one
+- {Convo ends.}
+- Knowledge?
+- Lettie: {P1} You think but do you not know {P2} Its motivations are not clear {P3} But yet you think its an enemy ¿Por qué?
+- > That THING decided it'd be a fun experiment to turn the parents on the Zariman against their children -
+- All it does is leave death and destruction in its wake. No matter what it's motivations are, it doesn't matter. Trust me.
+- Lettie : {P1} No {P2} Trust you to understand the mind of a god {P3} Don't care how old you are {P4} How much you've seen
+- Lettie : {P1} You are not a god babas {P2} Don't pretend you think like one {Convo. ends}
+- I don't know.
+- Lettie: {P1} You treat him like an enemy though {P2} If you do not know what he is after {P3} ¿Por qué?
+- (Same as the other options up)
+- > BRB [End]
+
+### Conversation 3 (For someone who's job / I'd love to know more about)
+
+- >For someone who's job is to prevent death, you seem pretty chill with it.
+- I'd love to know more about how you became a medic
+- Lettie: {P1} Jaja how is the easy part, babas {P2} I enlisted and was bad at it {P3} Then I got good at it
+- Okay, *why* did you end up becoming a medic?
+- Lettie: {P1} Mi papà was in the army {P2} We traveled a lot, from base to base {P3} But when mi tìa got sick she moved in with us {P4} And I learned to take care of her until she passed
+- Oh... I'm sorry
+- Lettie: {P1} Eh, està bien {P2} It happens, ¿no? {P3} Heart troubles made her sicker {P4} Good practice for the future, being a set of hands for mi mamà
+- Do you miss your aunt?
+- Lettie: {P1} No {P2} I see her once a year at te festival of the dead {P3} ¡Mierda! Before you ask no, it's not like what it sounds {P4} We do not dig them up we celebrate their souls jajaja {P5} Well, some do - but we do not, depends on where you're from
+- >Phew. I was going to say. lol
+- LOL! It sounds like a cool holiday, though.
+- Lettie: {P1} We build ofrendas to our loved ones and make pan de muerto, and calaveritas de azùcar, and set our marigolds to invite them home {P2} We eat what we bring for them, with them {P3} We sit at their graves and we tell stories of them {P4} We talk to them and we laugh with them
+- Lettie: {P1} Mi tìa comes to me every year, pats me on the shoulder and says "Buen trabajo, amorcito, sigue asì" {P2} And it makes me smile not scream and run away in fear
+- Lettie: {P1} I hope she comes out this far... {P2} I'll have to make her paper marigolds {P3} Maybe Arthur will help me make some pan de muerto I am a shit baker jajaja
+- >I'm sure he'd love to help.
+- I'd love to help, too.
+- Lettie: {P1} You are sweet {P2} Sì, maybe we can work together
+- Lettie: {P1} If you want, we could build an ofrenda to your family {P2} Maybe they would come to see thwir babas after so long {P3} I am sure they are so proud of you
+- I... would love that, actually. Thank you, Lettie.
+- Lettie: {P1} Claro, friend {P2} Mm, now that I think {P3} Can souls travel through time? {P4} Ay, equis, is the thought that counts sometimes {Convo. Ends}
+- >I'd love to help you, but let's leave my family in the future where they belong.
+- Um... I don't think they'd want to see me...
+- Lettie: {P1} Because of what your Xipe Totec made you do {P2} It was not your fault, they were driven mad {P3} Sometimes you need to cauterize the wound {P4} You put them down, it was not murder
+- You're right...
+- Lettie: {P1} You had no choice, solecito {P2} They were rabid animals and had no control {P3} And that kind of choice I *do* understand
+- Lettie: {P1} But that is a story for another time {P2} La Flaca waits for no one and not our conversations and I have a line {Convo. Ends}
+- >That's not how it felt.
+- Lettie: {P1} Sì, I can't imagine how it felt {P2} To have to hurt your own family like that {P3} But you had no choice, solecito {P4} They were rabid animals and had no control
+- Lettie: {P1} And that kind of choice I *do* understand {P2} But that is a story for another time {P3} La Flaca waits for no one and not our conversations and I have a line {Convo. Ends}
+- I know what it's like to lose family early in life.
+- Lettie: {P1}Sí, but I do not miss them. {P2} They are gone from my day to day but not from my soul they still visit me once a year at the festival of the dead {P3} We do not dig them up we celebrate their souls jajaja {P4} Well, some do - but we do not, depends on where you're from
+- LOL! It sounds like a cool holiday, though.
+- Lettie: We build ofrendas to our loved ones and make pan de muerto, and calaveritas de azucar, and set out our marigolds to invite them home {P1} We eat what we bring for them, with them {P2} We sit at their graves and we tell stories of them {P3} We talk and we laugh with them
+- Lettie: Mi tia comes to me every year, pats me on the shoulder, and says "Buen trabajao, amorcito, sigue asi" {P1} And it makes me smile not scream and run away in fear
+- Lettie: I hope she comes out this far... {P1} I'll have to make her paper marigolds {P2} Maybe Arthur will help me make some pan de muerto I am a shit baker jajaja
+- I'd love to help, too.
+- Lettie: You are sweet. {P1} Si, maybe we can work together
+- Lettie: If you want, maybe we can build an ofrenda to your family {P1} Maybe they would come to see their babas after so long {P2} I am sure they are so proud of you
+- I... would love that, actually. Thank you, Lettie.
+- Lettie: Claro, friend. {P1} Mm, now that I think {P2} Can souls travel through time? {P3} Ay, equis, is the thought that counts sometimes. {Convo Ends}
+- >How old were you when you joined the army?
+- >How old were you?
+- >Thanks. Good talk. [End]
+
+### Conversation 4 (Hypothetical question)
+
+- Hypothetical question: If I wanted to ask you out for drinks, would I end up with stitches?
+- Lettie: {P1} mm? {P2} Jajaja, no
+- {P1} But I don't drink, never have {P2} Don't do drugs, either {P3} You'll have to be more creative to get into my pants {P4} Or whatever it is I have to wear now
+- On that topic, do you... I've been meaning to ask...
+- Lettie: Que?
+- I've been curious if you and the other protoframes still had... y'know... your... y'know... parts...
+- Lettie: {P1} JAJAJAJAJA {P2} Are you serious?! {P3} You can't just ask what they - {P4} Aaaay Babaaaaassss I have not laugh so hard in a long time
+- Sorry
+- Lettie: {P1} I tell you what {P2} Maybe if you are a good little babas {P3} You just might find out, mm? {P4} Just warning you {P5} If you like sweet and gentle go talk to Aoi or Amir {P6} I am too used to pain and like it too much for that kind of thing
+- Yes, ma'am. Consider me warned.
+- Lettie: {P1} Mm, yeah? {P2} Think you can take it, do you? {P3} We'll see
+- Lettie: {P1} Now vete {P2} Can't be daydreaming when I've got work to do
+- > Um... Yeah, never mind. Pain's not really my thing.
+- > Um... well? Do you?
+- > Uh - never mind.
+- Good to know. :) Any hints on what I can do to win you over, then?
+- Lettie: {P1} You just should be real certain that you know what you're for, babas {P2} If you like it sweet and gentle go talk to Aoi or Amir {P3} I am too used to pain and like it too much for that kind of thing
+- Yes ma'am. Consider me warned.
+- Lettie: {P1} Mm, yeah? {P2} Think you can take it, do you? {P3} We'll see
+- Lettie: {P1} Now vete {P2} Can't be daydreaming when I've got work to do
+- (Convo ends.)
+- > (second response required)
+
+### Conversation 5 (Ay, friend You got a second?)
+
+- Lettie: {P1} Ay, friend {P2} You got a second?
+- You're usually the super busy one. :)
+- Lettie: {P1} Ay, sí, jajaja I usually am {P2} Just had a question {P3} Someone like you {P4} Do you ever feel homesick?
+- I've never had a real home, Lettie.
+- Lettie: {P1} Sí, I know {P2} I'm the same
+- (Proceeds below: "Details are different but...")
+- What do you mean, "someone like me?"
+- Lettie: Someone with no real home
+- > Way to rub it in, Lettie. Thanks.
+- Can't miss what you've never had.
+- Lettie: {P1} No {P2} That's a lie {P3} I grew up without a home and I get homesick
+- Lettie {P1} Details are different but you and me {P2} Neither of us has a real home {P3} Bouncing from place to place, base to base {P4} Never settling, never making friends for long {P5} Never knowing where I'd be in six months, a year, two
+- At least you had your family, though. I didn't even have that.
+- Lettie: {P1} Sí {P2} You're right {P3} How you aren't licking the wallpaper jaja {P4} I have no idea I would have lost my mind
+- Lettie: {P1} Maybe I still will {P2} Trapped here como un fantasma {P3} Ay, equis, I'm babbling
+- Lettie: {P1} I miss a place and a thing I never had {P2} I wonder if it's genetics {P3} Something raised in us {P4} Makes no sense
+- Lettie: {P1} That's why I was asking {P2} See if you had it too {P3} But you're from the future {P4} Maybe they fixed it by then
+- No, I think I know how you feel. I... get these bouts of sadness where I get an urge to go somewhere that doesn't exist.
+- Lettie: {P1} Sí {P2} That's what I mean {P3} Or maybe we both have the same kind of depression jaja {P4} Stupid spiders
+- Lettie: {P1} Ehn, gracias {P2} Speaking of spiders, time to put them and me to sleep {Convo. ends}
+- > Maybe. I really don't get homesick. I get sad and lonely sometimes, but it isn't homesickness.
+- > At least you weren't alone.
+- The only places I've ever had to call "home" have tried to KILL me. Why would I miss them?
+- Lettie: {P1} Because you can want something you never had {P2} Or miss things you see other people having {P3} I know I do
+- (Jump to above branch "Details are different but you and me...")
+- > Yeah, what's up?
+- > Sorry, just about to go. [End.]
+
+### Conversation 6 (Esa gata, that freaky mutant cat)
+
+- Lettie: {P1} Esa gata, that freaky mutant cat {P2} Keeps looking at my panquecitos like they're lunch {P3} I don't like it
+- You mean Kalymos? I'll make sure she leaves your rats alone.
+- Lettie: {P1} No {P2} That thing is entrati's pet not yours {P3} It does his bidding {P4}It looks at me just like he did
+- And how does she look at you?
+- (If not yet told about Cavia) Lettie: {P1} Like a person {P2} Like she's trying to figure out how to eat ME {P3} With too much intelligence behind those eyes {P4} Does the future have smart animals?
+- There are the Cavia, who are these lab animals that were sent into the Void and came out intelligent. Well.
+- Lettie: {P1} LAB ANIMALS?! {P2} And let me guess {P3} Entrati is the one who tortured them
+- Yeah.
+- Lettie: {P1} I AM GOING to make that cabrón HURT {P2} Next time I see him I will torture him like he tortured those poor angelitos {P3} And he will NOT like it, I PROMISE you THAT
+- Lettie: {P1} And how are you so sure that this gata mutante is not one of these cavia (Choices after "Those poor animals")
+- Yes, but - oh, this is going to piss you off already, I can tell
+- Lettie: {P1} ¿Ay, sí? {P2} Does it have to do with entrati?
+- You guessed it.
+- Lettie: {P1} Then you're right {P2} It will piss me off {P3} But tell me anyway
+- He took these lab animals and sent them into the Void. They came out with the intelligence of people - it nearly killed them. They're called the Cavia
+- Lettie: (continues from above, "LAB ANIMALS?!")
+- (If told about Cavia) Lettie: {P1} Like she's trying to figure out how to eat ME {P2} Like a person {P3} Like one of those cavia you told me about {P4} With too much intelligence behind those eyes
+- Lettie: {P1} Those poor animals that Cabrón gave intelligence to and abandoned?! {P2} How do you know she isn't one, too?!
+- I mean she's never said anything.
+- Lettie: {P1} So what? {P2} Smart enough to play dumb {P3} But she spies on us for him I know it {P4} We shouldn't trust her
+- > (Same choices as after "Si She could be")
+- I guess I don't really know.
+- Lettie {P1} Si {P2} She could be a spy {P3} Working for Entrati {P4} We shouldn't trust her
+- Entrati left, and she stayed. I don't think she's still working for him.
+- Lettie: {P1} No, see {P2} It's exactly that reason why I think she is {P3} He's gone and needs eyes here on us, ¿no? {P4} Don't know why, pero no me gusta
+- Either way, she's smart enough to understand "If you mess with Lettie's rats, you sleep outside." Is that good enough?
+- Lettie: {P1} Fine, sí {P2} That will be good enough {P3} But if she hurts one of bebecitos {P4} It means war {Convo ends} {Convo. End}
+- I'm not kicking her out. Even if she's working for Entrati, it's not her fault. She's an animal being loyal to the owner who loves her. I can't be cruel to her.
+- {P1} AGGGHHHH {P2} Why did you have to put it like that {P3} Aaayyyyyyy babaaaas {P4} Fight Fair!
+- {P1} No me gusta cuando te pasas de listo, babas {P2} Fine, FINE {P3} She stays but if she hurts one of my bebecitos {P4} It means war {Convo. End}
+- Do you really think she's spying on us for him? Why?
+- Lettie: {P1} ¡No sé! {P2} Not my job to predict a crazy pendejo {P3} Keeping tabs on us maybe {P4} I don't like it (Choices after "No see")
+- Kalymos won't hurt your rats.
+- Lettie: {P1} ¿Si? {P2} How are you so sure? {P3} That thing is entrati's pet not yours {P4} It does his bidding {P5} It looks at me just like he did
+- She's a kavat, Lettie, not a person.
+- Lettie: {P1} Are you so sure {P2} Esa gata, it seems too smart to me {P3} Looks at me with human intelligence {P4} Does the future have smart animals?
+- >There are the Cavia, who are these lab animals that were sent into the Void and came out intelligent...
+- Yes, but - oh, this is going to piss you off already, I can tell.
+- Lettie: {P1} ¿Ay, sí? {P2} Does it have to do with entrati?
+- You guessed it.
+- Lettie: {P1} Then you're right {P2} It will piss me off {P3} But tell me anyway
+- He took these lab animals and sent them into the Void. They came out with the intelligence of people - it nearly killed them. They're called the Cavia.
+- Lettie: {P1} LAB ANIMALS?!
+- Lettie: {P1} I AM GOING to make that cabron HURT {P2} Next time I see him I will torture him like he tortured those poor angelitos {P3} And he will NOT like it, I PROMISE you THAT
+- Lettie: {P1} And how are you so sure that this gata mutante is not one of these cavia
+- > I mean, she's never said anything. (Down below has the rest of the responses filled out).
+- Lettie: {P1} Are you sure {P2} You told me about the cavia {P3} Those poor animals that cabrón gave intelligence to and abandonned?!
+- Lettie: How do you know she isn't one, too?
+- I mean, she's never said anything.
+- Lettie: {P1} So what? {P2} Smart enough to play dumb {P3} But she spies on us for him I know it {P4} We shouldn't trust her
+- Entrati left, and she stayed. I don't think she's still working for him.
+- Lettie: {P1} No, see {P2} It's exactly that reason why I think she is {P3} He's gone and needs eyes here on us, ¿no? {P4} Don't know why, pero no me gusta
+- Either way, she's smart enough to understand "If you mess with Lettie's rats, you sleep outside." Is that good enough?
+- Lettie: {P1} Fine, sí {P2} That will be good enough {P3} But if she hurts one of bebecitos {P4} It means war {Convo ends}
+- I'm not kicking her out. Even if she's working for Entrati, it's not her fault. She's an animal being loyal to the one who loves her. I can't be cruel to her.
+- Lettie: {P1} AGGGHHHH {P2} Why did you have to put it like that {P3} Aaayyyyyyy babaaaas {P4} Fight fair!
+- Lettie: {P1} No me gusta cuando te pasas de listo, babas {P2} Fine, FINE {P3} She stays but if she hurts one of my bebecitos {P4} It means war {Convo Ends}
+- Do you really think she's spying on us for him? Why?
+- Lettie: {P1} ¡No sé! {P2} Not my job to predict a crazy pendejo {P3} Keeping tabs on us maybe {P4} I don't like it
+- > (Jump above to the same choices as "Entrati left, and she stayed. I don't think she's still working for him.")
+- > I guess I don't really know.
+
+### Conversation 7 (So how'd you end up / You seem to really...)
+
+- So how'd you end up getting involved in the whole Arthur/Hex thing?
+- Lettie: {P1} Somos hermanos, Arthur and I {P2} We go way back {P3} I promised to follow him anywhere {P4} Seems like he meant to the edge of Mitclán.
+- Lettie: {P1} We were stationned together, in the same base {P2} Him in the Britannic and me with the Libertatian Army {P3} Different countries, same enemies
+- Lettie: {P1} I was the field medic for my regiment {P2} We were deployed in next to his {P3} The place went real cagadero {P4} Real fast
+- Lettie: {P1} Most of my crew didn't make it {P2} Most of his didn't either {P3} We held each other together {P4} Literally {P5} I stitched his arm up good jaja {P6} When he retired and went into the ICR {P7} I followed him without question {P8} I was sick of all the drama that goes on in the army anyway
+- > Then what? How'd you get to be...
+- War sucks. No matter when, no matter how.
+- Lettie: {P1} Appreciate that {P2} Our wars must seem so small {P3} Yours sound tan espectaculares y llamativas {P4} Filled with dioses, ángeles y demonios
+- Lettie: {P1} But I guess in the end it's all the same {P2} People dying in the muck and mud {P3} Trust broken and lives lost {P4} And La Flaca takes them home
+- > How'd you wind up meeting Entrati, though?
+- Can I ask what happened next?
+- Lettie: {P1} Sí, you just did jajaja {P2} But I get what you're asking {P3} And you've been dancing around the subject like you want to do the tango {P4} You know I don't want to talk about it {P5} Has no one told you what happened?
+- I'm just trying to get the whole picture.
+- Lettie: {P1} Ay, sííí {P2} I'm sure you are {P3} And if nobody else will tell you I guess it's up to Mamá Lettie {P4} Well this story is one I don't like to tell {P5} Especially because I've gotten used to having you underfoot
+- Lettie: {P1} Might miss you if you leave {P2} And this story might make you turn and go {P3} So a story for another day {P4} Oh and babas {P5} No dejes que se te suba a la cabeza {Convo. Ends}
+- No one else will tell me. They just avoid the subject.
+- Lettie: {P1} Mmm and you wonder why {P2} And figure Mamá Lettie would tell you the truth {P3} Normaly you'd be right, babas {P4} But this one I don't like to tell {P5} Especially because I've gotten used to having you underfoot
+- Lettie: {P1} Might miss you if you leave {P2} And this story might make you turn and go {P3} So a story for another day {P4} Oh and babas {P5} No dejes que se te suba a la cabeza {Convo. Ends}
+- I figured you'd be the one to give me a straight answer.
+- Lettie: {P1} JAJAJA Sííí {P2} Normally you'd be right {P3} But this one? {P4} This one I don't like to tell {P5} Especially because I've gotten used to having you underfoot
+- Lettie: {P1} Might miss you if you leave {P2} And this story might make you turn and go {P3} So a story for another day {P4} Oh and babas {P5} No dejes que se te suba a la cabeza {Convo. Ends}
+
+### Conversation 8 (Hey, Lettie, we're friends now / Hey Lettie, what do you think / So... Lettie, look...)
+
+- • Hey, lettie, we’re friends, now yeah? You like me now, ish?
+- • {Lettie} - ¿A poco sí? más o menos jajaja
+- • I know a game like “Fables & Frontiers” sounds really silly, but its important to Amir.
+- • {Lettie} - And?
+- • And you could use a break.
+- • {Lettie} - And?
+- • …And you would’t be the only one playing with us?
+- •{Lettie} - ¿Sí? Who else have you talked into this?
+- • Me and Amir, Obviously. And after that…
+- • Eleanor said yes, not sure if that’s helping or hurting my case…
+- • {Lettie} - Of course the bruja wants to waste time
+- • Aoi said she’d play
+- •{Lettie} - {P1} I am not surprised… {P2} Ssíííííí… Fiiine, babaaass… but I better not regret this…
+- (Kinda hard to do formatting a phone)
+
+### Conversation 1 (How're you doing... / Hey Lettie, <what's your favorite... / can I ask you...> / You holding up / How's my favourite badass...)
+
+- Hey Lettie, can I ask you something about your rats?
+- Lettie: Not now babas
+- Is everything okay?
+- Lettie: {P1} NO {P2} Everything is not okay {P3} Nothing has been okay for a long time {P4} But time has no meaning anymore does it?! {P5} You and that cabròn saw to that
+- How is any of this my fault?
+- Lettie: {P1} You and your pinche time loop bullshit {P2} If it weren't for that we'd be dead
+- Wait. Back up. Are you PISSED that you aren't dead?!
+- Lettie: {P1} I'M PISSED THAT I CAN'T DIE, BABAS {P2} Don't you understand {P3} How little life matters without death {P4} I find myself asking why {P5} WHY BOTHER?!
+- Lettie: {P1} What's the point?! {P2} What's the point in any of this babas {P3} We are all fantasmas playing out our old lives and old deaths {P4} Walking through dreams that will never change {P5} WHY?!
+- Lettie: {P1} I stand here {P2} Patching civvies back together {P3} Day in day out {P4} They don't understand it doesn't matter {P5} That if they die here, right now, they'll just COME BACK {P6} That they are just sleepwalking fantasmas {P7} While we know what we suffer through
+- Lettie: {P1} I could go on a rampage {P2} Murder them all in cold blood {P3} And come the new year {P4} They'd all be back, ¿no?
+- > Yeah? But... please don't, though. It'd be really hard to explain to others.
+- But things here CAN still chnge. Mybe not much, but in ways that matter. Look around.
+- Lettie: {P1} Ay. sì {P2} We collect strays now, bueno, a few fantasmas suffer a little less {P3} A few things change here and there, sure {P4} But what about what you made us {P5} I know I died in that other memory
+- Lettie: {P1} You should have left me there {P2} Let me die {P3} We do not belong as fantasmas {P4} We are antinaturales, people should not live forever, they should be allowed to die
+- I... know how you feel, Lettie. I do. All my life, I've been the victim of somebody else's plans. The Orokin. The Man in the Wall. Now Entrati.
+- >But I had a choice, when I watched you all die. I could let you all stay victims, too... or I could try to save you.
+- > So maybe it wasn't my choice to make for you. And if you want to hate me for that? Fine. Hate me for that.
+- >But you never would have let the team die if you could have saved them. Because you wouldn't let them stay the victims.
+- Lettie: {P1} Victims saved dor what reason {P2} This is no life babas {P3} This nightmare of fantasmas is no life at all
+- Look around. Look at what YOU have. At the family around you. At the people that care about YOU.
+- >I know you feel like you lost your life. Your family
+- >I also know you never felt like you've had somewhere to belong. You've never had a home before, Lettie. Like me.
+- >Well? This could be your family. Your home. If you wanted it to be. If you LET it be.
+- Lettie: Mierda
+- Lettie: {P1} I... {P2} I don't think I like it when you call me out on my mentiras {P3} Sì... you... you're right {P4} Sometimes I get stuck in my own head and forget I'm not alone
+- Lettie: {P1} I need to remember that I have a familia here around me {P2} People I can rely on when things get dark {P3} Gracias... en serio {Convo. Ends}
+- > You see strays, I see people showing each other kindness in the darkest times. And I think that's beautiful.
+- >Are you really so oblivious that you can't tell how much you mean to me?! [Confess feelings.]
+- >You have a choice, Lettie. You can either spend eternity feeling like a victim or you can see this as a chance for what it is - a new kind of life.
+- I'm not your punching bag, Lettie. And I don't need this.
+- Lettie: {P1} Si {P2} Run scared, babas {convo. end}
+- >If you're busy, we can chat later
+- >Srry?
+- How's my favorite badass
+- Lettie: Like shit
+- Is everything okay?
+- (same as above "NO Everything is not okay..")
+- I - um - yikes. Should I message you later?
+- Lettie: {P1} Vete {P2} There will be no later
+- >Did I do something to piss you off?
+- (Jump to above: "You and your pinche time loop bullshit")
+- >Is something wrong?
+- > How are you doing today
+- You holding up okay?
+- Lettie: {P1} Mm? {P2} Like a revolving door jajaja
+- Lettie: {P1} Even before you sometimes I feel like people come THROUGH me {P2} Just a face in an ICR tent wrapping wounds {P3} But I'm part of the building
+- Lettie: {P1} I'm tough {P2} I am going nowhere {P3} Pero... Estoy muerta {P4} Not enough coffee in the world sometimes, ¿no?
+- > Just becouse you're the tough one doesn't mean I can't care.
+- Yeah but a steady stream of coffee doesn't hurt. lol
+- Lettie: {P1} Jajaja no it does not {P2} Arthur is like that {P3} Doesn't hover like Aoi, pretending to be mi mamá {P4} Just hands me a cup and says, you good?
+- Lettie: {P1} I like that question, babas {P2} Keep asking it {P3} Might need it from time to time {P4} And a cup or two of coffee won't hurt either
+- You got it. <3
+- Lettie: {P1} Back to work, ¿no? {P2} We're both too busy for this {Convo. Ends}
+- > I'll see what I can do.
+
+### Conversation 2 (Solecito You there? I have a few minutes... / Hey You there? I have a few minutes...)
+
+- Lettie: {P1} Hey {P2} You there? {P3} I have a few minutes to spare and I wanted to talk
+- YOU want to talk...? Are you feeling okay? Did somebody die?
+- Lettie: {P1} Jaja very funny {P2} And who hasn't died once at this point {P3} Ay, no, what I wanted to talk about {P4} Is serious {P5} And something I've been avoiding
+- All right. I'm listening.
+- Lettie: {P1} I told you how Arthur and I became hermanos {P2} But not how we got turned into these monstruos {P3} You should know what that pinche cabrón did to us {P4} Why I hate him so much {P5} What that piece of shit made us do
+- Lettie: {P1} So {P2} I followed Arthur into the ICR {P3} Got sent here to this cuchitril to deal with some weird plague nobody'd seen before
+- Lettie: {P1} A disease that chews up people {P2} Spits them out half person half machine {P3} Or some things that weren't ever human beings at all, más bien computadoras
+- Lettie: {P1} We get deployed to "deal with it" {P2} Best way we know how {P3} Half bandages {P4} Half bullets
+- Lettie: {P1} This was early 1998 {P2} Before you came {P3} That Entrati cabrón was already here {P4} selling his MENTIRAS
+- Lettie: {P1} But the best lies are the ones you want to believe, ¿verdad? {P2} We had no cure for this disease except a dance with La Flaca {P3} But here he comes {P4} Doktor F and his magical bag of miracles will cure what ails you {P5} Saying he can fix it all with his medicina milagrosa
+- Lettie: {P1} And we bought it como una bola de mensos {P2} And when the ICR stomps its feet and says "nonono, you cannot help him distribute his drug" should have listened {P3} Vaccines come from scientists not an old man in some ugly-ass trench coat {P4} Selling lies like some old world snake oil {P5} But people are dying all around you? {P6} You help him anyway because you signed up to HELP people
+- Lettie: {P1} So we helped him inject the people of this city with his drug {P2} Lined them up in our tents and that cabrön and I shot them full of it one after another {P3} And the others kept the operation safe while we worked
+- Lettie: {P1} NOSOTROS CREÍMOS EN ÉL {P2} We trusted him {P3} ¿Y por tan poco? {P4} It seemed like it was working {P5} The people we were shooting up weren't getting sick {P6} The problem...?
+- Lettie: {P1} Everybody around them WAS {P2} Do you know what "silent carriers" are? {P3} Volunteered in an animal shelter one summer cuando estaba chiquita {P4} Had all these raccoons {P5} Couldn't release them, because they might be silent carriers of rabies {P6} THEY looked healthy, seemed healthy, seemed normal...
+- Lettie: {P1} But if we let them go? {P2} They'd infect everything they come across... {P3} That's what we were doing to people {P4} THAT'S WHAT HE WAS MAKING US DO TO PEOPLE {P5} ¡LO HIZO A PROPÓSITO! {P6} This place is the edge of Mictlán POR SU CULPA
+- Lettie: {P1} Even when we started to suspect {P2} We could not believe {P3} We whispered to each other {P4} But shook our heads and said {P5} Nonono, it cannot be {P6} Not him {P7} Not us
+- Lettie: {P1} We did not want to believe {P2} That our trust had been broken {P3} We... we had taken the drug too... {P4} We were spreading the plague...
+- Lettie: {P1} So when he said the Techrot strain had mutated... and we were no longer safe...
+- Lettie: {P1} We lined right up {P2} Like good little soldaditos
+- Lettie: {P1} Lua, it hurt {P2} Wasn't the fun kind, either... {P3} Aoi's screams were the worst {P4} I could not help her, I was too busy dying too {P5} She wept in fear and all I wanted to do was hold her
+- Lettie: {P1} Tell her it would be okay {P2} That the pain would pass and La Flaca would take her home {P3} She was so afraid and I could not help her {P4} My legs would not work...
+- Lettie: {P1} And I will hate that piece of shit {P2} Every day of my endless life {P3} For that betrayal
+- Lettie: {P1} And if I ever see him again? {P2} You better be there to hold me back {P3} Or I will teach him what real hurt is like
+- > Holding a grudge like that isn't healthy, even if what he did to you was wrong.
+- Holy shit... I didn't realize. I - I'm so sorry he used you like that. Yeah... I'd hate him, too.
+- Lettie: {P1} Sí {P2} I do not take betrayal well {P3} But we wanted to believe him and it made us stupid {P4} If you do not want to be around us anymore, I understand {P5} The others will, too
+- > I'm not here to tell you what you did can be forgiven or not. That's not something I can do, and honestly - I don't think what you're describing is something that CAN be forgiven.
+- Entrati came here and found exactly what he was looking for - useful, skilled people he could trick into doing what he wanted. Who wouldn't think too hard about it. You fell for his shtick like so many people who came before you.
+- > You wanted to believe his lies. so you did. And that's on you. And all the people who got sick because of it? That's also on you.
+- ? But people make mistakes. And people own up to them. And you're here, trying to own up to them. So... I see people trying to do what's right with what they did wrong.
+- > And I don't think a reasonable person can ask for much more than that. I don't think less of you. I see people who failed. But were willing to try again. And I know what that's like. Trust me.
+- Lettie: {P1} I'm calling it for the day, friend {P2} Gracias {P3} Thanks for listening to me and... {P4} Not thinking less of us {Convo. Ends}
+- What happened wasn't your fault. You were lied to. Yeah, sure - maybe you were a little willingly blind after things started to go wrong. But who can blame you? Hope is a dangerous drug. And he shot you full of it.
+- > So of course, you went along with it. Of course, you wanted to believe there was a chance.
+- > I would have done the same thing.
+- Lettie: {P1} ¿Sí? {P2} Ay... then we're both idiots jajaja {P3} Maybe you DO belong here with us {P4} Sigh {P5} My feet hurt {P6} Mierda, everything hurts
+- Lettie: {P1} I'm calling it for the day, friend {P2} Gracias {P3} Thanks for listening to me and... {P4} Not thinking less of us {Convo. Ends}
+- > l- so - wait. You all are partially to blame for the Techrot spreading?
+- > Sorry I fell asleep there for a second. What were you saying?
+- Okay... What's this about?
+- (Jump to above "Lettie: {P1} I told you how Arthur and I became hermanos")
+
+### Conversation 3 (How did you do it, <solecito / friend> ?)
+
+- Lettie: {P1} How did you do it, friend? {P2} How did you spend all that time alone {P3} And not go demente
+- Lettie: {P1} How long did you spend in that place where you danced with La Flaca {P2} Do you even know?
+- You mean Duviri? I have no idea... Time lost all meaning.
+- I kind of blocked it out and went numb. So... I guess I did kind of lose my mind.
+- Lettie: {P1} Sí {P2} Maybe you did jaja {P3} But you came back and that gives me hope {P4} Or at least you are high-functioning crazy jaja {P5} And I could be happy with that
+- It got *so* lonely, though... even if I had "people" to talk to. It wasn't enough.
+- Lettie: {P1} Sí {P2} I used to think all I needed was my panquecitos {P3} A good cup of coffee {P4} And a day or two off a week {P5} Now I'm not sure
+- What do you mean?
+- (same as below option)
+- What's wrong?
+- Lettie: {P1} Loneliness is a sadness that comes like rainstorms {P2} Or like seasons {P3} It arrives and leaves a mark that fades {P4} But it will come again in time
+- You don't have to be alone. You're surrounded by people who care about you.
+- Lettie: {P1} Even when I'm surrounded by all of you {P2} My friends {P3} Laughing and sharing memories {P4} There is an ache sometimes
+- I think that when loneliness really gets to you, it doesn't ever let you go, even when you're no longer alone.
+- >I feel it still, even when I'm sitting around the table with the Hex, laughing and drinking. I'm happy. I'm with everyone. But it's there.
+- Like someone removed a kidney or a rib from me once, a long time ago. A hollowness that aches a little on rainy days.
+- Lettie: {P1} Sí, you understand {P2} Sometimes I can enjoy it almost {P3} Like a beautiful sadness {P4} Ay, gracias {P5} It's nice to know someone understands {P6} Sometimes you bleed enough and then the bleeding stops
+- Lettie: {P1} Speaking of {P2} Someone is bleeding all over the floor and needs my help {P3} Mierda, back to work I go.
+- Sounds like you need to cheer up and allow yourself to be happy. Maybe it's depression, have you ever thought of that?
+- Lettie: {P1} Always so ready to tell me what to do with myself {P2} No, I know those spiders well, and this is not that {P3} And I've seen that illness many times in myself and friends {P4} Army life, remember? {P5} Seen too many of us go that way
+- Lettie: {P1} Eating the end of a pistola {P2} When you couldn't take the nightmares anymore {P3} No, this small sadness is not like that {P4} It comes and goes like the rain {P5} But thanks for the sympathy
+- {Convo ends}
+- > You never struck me as a poet.
+- l... well... you don't *have* to be alone... [Confess Feelings.]
+- Lettie: {P1} ¿Oué? {P2} ¿En serio?
+- Before you tell me I'm stupid, or whatever - or that I can't handle you, just wait, and let me talk.
+- You're drop-dead gorgeous. You're fiercely intelligent. And you could kick my ass. But that's not the only reasons you've become so important to me.
+- You're one of the kindest, most caring people I've ever met. The way you tend to your animals and the way you'll go out of your way for people makes my heart melt.
+- Point is... I care about you, Lettie. A lot. And more than just as friend, and I understand if it isn't mutual, but -
+- Lettie: {P1} Shut up {P2} Aguántame tantito
+- > I'm sorry if I upset you...
+- I understand if you don't feel the same way, I get it.
+- Lettie: {P1} ¡Neta, ya cállate! {P2} I need a second to think {P3} To breathe {P4} Can't process when I'm tearing up
+- Lettie: {P1} I don't DO compliments, solecito {P2} Never take them well {P3} Talk tomorrow, sort this shit out then {P4} Lo siento {Convo. Ends}
+- > You're made of iron. And I know that no matter what they throw at you - Entrati, the Man in the Wall, Viktor and the Scaldra - it doesn't matter. They don't stand a chance.
+- > Deep down beneath all the layers of armor you've built over yourself, is one of the kindest, most compassionate people I've ever met. But that's not all.
+- > You're unstoppable. Unbreakable. Unflinching. Nothing seems to slow you down. You're one of the toughest people I've ever met. And -
+- (If in a relationship with Aoi) Lettie: {P1} I see you and Aoi {P2} It's not jealousy {P3} I just feel the loneliness suddenly
+- Lettie: {P1} I am happy for you both {P2} Te lo juro {P3} She needs someone to see joy in what she does {P4} I just... find a sadness in me
+- Lettie: {P1} Even when I'm surround by all of you {P2} My friends {P3} Laughing and sharing memories {P4} There is an ache sometimes
+- I think that when loneliness really gets into you, it doesn't ever let you go, even when you're no longer alone.
+- (Jump to the above line with the same dialogue option)
+- Sounds like you need to cheer up and allow yourself to be happy. Maybe it's depression, have you ever thought of that?
+- (Jump to the above line with the same dialogue option)
+- You mean Duviri? I wasn't... I mean, I guess I was *technically* alone.
+- > I had people to talk to, even if they weren't ... real.
+- Lettie: {P1} Ay sí {P2} Talking to imaginary friends {P3} I used to do that when estaba chiquita {P4} Talking to my panquecitos is much more acceptable jaja
+- > I still talk to myself if I'm not careful. That *really* makes people nervous.
+- Lettie: {P1} ¡Jajaja! {P2} Cuss myself out in Tenochtitlán slang all the time {P3} Always spooks Arthur {P4} Thinks I'm gonna stab him or something {P5} Silly gringo it'd just make a mess
+- > To be fair you can be *pretty* scary when you get going.
+- Right? You'd just be making more work for yourself.
+- Lettie: {P1} JAJAJA {P2} Aaay, friend {P3} This is what I'm talking about {P4} How did you get on without this
+- Get on without what?
+- Lettie: {P1} People {P2} Being with them {P3} Around them {P4} Simple shit
+- Loneliness is a sadness that comes and goes in waves. Or like seasons. So it's an easier pain to ignore.
+- > And I think when loneliness really gets into you, it doesn't ever let you go, even when you're no longer alone.
+- > I feel it still, even when I'm sitting around the table with the Hex, laughing and drinking. I'm happy. I'm with everyone. But it's there.
+- > Like someone removed a kidney or a rib from me once, a long time ago. A hollowness that aches a little on rainy days.
+- Lettie: {P1} Sí, you understand {P2} Sometimes I can enjoy it almost {P3} Like a beautiful sadness {P4} Sometimes you bleed enough and then the bleeding stops
+- Lettie: {P1} Speaking of {P2} Someone is bleeding all over the floor and needs my help {P3} Mierda, back to work I go.
+- You don't have to be alone anymore. If you don't want to be. You can let people in for real.
+- Lettie: {P1} Sí, sí {P2} I know, "just don't be so sad, Lettie" {P3} You sound like mi mamá
+- > Sounds like you need to cheer up and allow yourself to be happy.
+- I think that when loneliness really gets into you, it doesn't ever let you go, even when you're no longer alone.
+- > (jump above to "I feel it still, even when I'm sitting around the table with the Hex...")
+- > I didn't have a choice.
+- > I can't chat right now, sorry. [End.]
+
+### Conversation 4 (I suppose there is one good thing...)
+
+- Lettie: {P1} I suppose there is one good thing {P2} About being fantasmas trapped for eternity at the edge of Mictlàn {P3} Besides it keeping us from madness
+- Hello to you, too, Lettie. lol
+- Lettie: {P1} Sì, sì {P2} yes, yes {P3} Hello friend jajaja
+- Lettie: {P1} Mis panquecitos {P2} My rats {P3} They won't ever die now, will they?
+- Lettie: {P1} They will live forever with me {P2} Even if they have an accident, or that gata mutante gets them {P3} Come new years {P4} Like nothing happened, ¿no?
+- Huh. Yeah. I never thought about that. The loop extends to animals, too.
+- Lettie: {P1} Sì {P2} It means I am always back to training Anita not to eat things she shouldn't jajaja {P3} And Tláloc will never stop biting
+- Lettie: {P1} But it means that if I lose them {P2} They will be back soon {P3} It is nice to know I will always have company.
+- Uh. Ouch?
+- Lettie: {P1} JAJA! {P2} Lo siento, lo siento {P3} It's just that {P4} People have never been constant in my life {P5} Animals Have
+- I assume Anita and Tláloc are the names of two of your rats?
+- Lettie: {P1} Mm? {P2} Have I not told you yet? {P3} ¡Lo siento! Sì {P4} Vaquero, Anita, Neenah, and Tláloc
+- Lettie: {P1} I had pet rats since I was una nina {P2} They have been a constant in my life {P3} More than people
+- >Yeah, I think I'm starting to figure you out, finally
+- Lettie: {P1} ¿Ay, sì? {P1} Go on then {P3} Tell me why I prefer animals to humans {P4} Puedes hacer el papel de mi terapeuta
+- Y'know, for someone who makes fun of Amir so much, you really like to play games.
+- Lettie: {P1} If you think these are the games I like to play {P2} You don't know me nearly as well as you think you do
+- Well, then you've done a bad job of teaching me... ;)
+- Lettie: {P1} JAJAAA me neither {P2} Cuidadito, or else I will think you are asking me to spend a night with you
+- > What if... I wanted it to be more than a night? [Confess feelings.]
+- Yikes, sorry, I was just playing around. lol
+- Lettie: {P1} Jajaja ay si {P2} Hard to read sarcasm {P3} Back to work for me {Convo. Ends}
+- >I think that you've had a rough run of luck where every time you put your trust in someone, it's been broken. No big sob story. No big trauma. Just shitty run of luck.
+- You've lost a lot of people in your life to La Flaca. People you've cared about. Pets die, but it's more expected - easier somehow? So you can handle it better.
+- Lettie: {P1} You clearly have never lost a pet before, babas {P2} Losing them is like losing a part of your own soul {P3} No, sometimes I just want a simple kind of love in my life {P4} From something that won't betray my trust or lie to me.
+- (Jump to below "Lettie: Nothing wrong with wanting to come home after a long day...")
+- Loving a pet is easier than loving a person. They just want to be cared for. The relationships are simple - clean - they don't get messy like with people.
+- Lettie: {P1} Ay si {P2} Tu me entiendes {P3} Sometimes I just want a simple kind of love in my life {P4} From something that won’t betray my trust or lie to me (afterwards jump to line Nothing Wrong with wanting...)
+- I didn't realize there would be a test.
+- Lettie: {P1} JAJA {P2} Lo siento, I couldn't resist {P3} I don't get close with people often, wanted to see what you thought {P4} Did come off bitchy though, jajaa
+- Lettie: {P1} No I keep pets because they are pure love {P2} Pure affection {P3} Nothing messy nothing complicated {P4} No lies no betrayals no secrets
+- Lettie: {P1} Nothing wrong with wanting to come home after a long day and be greeted by creatures that just wants scratches and treats and love
+- Lettie: {P1} And knowing that when you love them, they will love you back, no matter what {P2} No worries about wheter they will hurt you Or if you aren't good enough {P3} Or if you are too tired and sore to deal with their shit
+- >Yeah, the last thing I need when I get home after a long day is to be told why I've let somebody else down
+- I definitely know how that feels, that's why I love having my pets around
+- Lettie: {P1} Ay si {P2} You get it {P3} But it doeas make life lonely sometimes {P4} As musch as I love them they are not the same
+- Lettie: {P1} But I suppose I will always have the hex underfoot {P2} Wheter I like it or not jajaja {P3} Aayyy back to work for me {P4} Later, buddy {Convo. Ends}
+- I mean, I definitely wouldn't say no to scratches and treats and love... :)
+- Lettie: {P1} JAJAAA me neither {P2} Cuidadito, or else I will think you are asking me to spend a night with you
+- Lettie: {P1} And I'm into some fringe things {P2} But swinging isn't one, lo siento
+- Yikes, sorry, I was just playing around. lol
+- Lettie: {P1} Jajaja ay si {P2} Hard to read sarcasm {P3} Back to work for me
+- Darn. Well, there goes that fantasy.
+- Lettie: {P1} Si {P2} Sorry to disappoint
+- Y'know, for someone who makes fun of Amir so much, you really like to play games.
+- (Jump to the line: Lettie: {P1} If you think these are the games I like to play...)
+- Why do you think that is?
+- Lettie: {P1} My head is no mystery to me {P2} I know why, jaja {P3} Do you?
+- (Same option as above "Lettie: {P1} ¿Ay, sì? {P2} Go on then")
+- And I don't think animals care the same way people do. Meaning, I don't think it bothers them.
+- (Jump to above Lettie: {P1} Sì {P2} It means I am always back to training Anita)
+- Oh, What's that?
+- (Jump to the line: Lettie: {P1} Mis panquecitos {P2} My rats {P3} They won't ever die now, will they?)
+- BRB (ends)
+
+### Conversation 5 (Solecito ¿Got a minute?)
+
+- Lettie: {P1} Solecito {P2} ¿Got a minute?
+- What's up?
+- Lettie: {P1} Before we get too far {P2} Into whatever this is between us {P3} I want to make sure you know what you're getting into {P4} It has to be based on trust and it has to go both ways {P5} I want to make sure we're on the same page
+- Sure.
+- Lettie: {P1} So {P2} Solecito {P3} Sometimes I like it when it hurts {P4} I like it when it goes too far for most people {P5} And I need to be sure you're okay with that {P6} Either way is fine, I just need to know
+- > I can't do this. I'm sorry. [Break up]
+- > Just to be clear, who is giving and receiving the pain in this scenario?
+- I trust you. I'm willing to give it a try.
+- Lettie: {P1} And I trust you, mi corazón {P2} We will go slow, take things one step at a time {P3} And if you change your mind, está bien {P4} We will find other ways to enjoy ourselves {P5} That you trust me enough to try means the world
+- > I don't know if pain is really my thing, Lettie... Does this mean we'd need to break up?
+- > Now I'm *really* getting nervous... What's this about?
+- > Whenever YOU want to talk, I get nervous
+
+### Conversation 6 (Solecito Tell me more of this future)
+
+- Lettie: {P1} Solecito {P2} Tell me more of this future
+- Lettie: {P1} The one where the gods are hungry but have no meaning to you {P2} The future you claim you've given up for us {P3} Of these wars and distance worlds
+- > You doing okay, Lettie?
+- You're going to have to narrow it down a bit...
+- Lettie: {P1} Ay, lo siento {P2} The spiders are at it again {P3} Making me melancholy {P4} And apparently dramatic jajaja {P5} No importa, ya no te molesto
+- You've mentioned the spiders before, a metaphor for depression, I assume?
+- Lettie: {P1} Ay si {P2} Something I've had all my life {P3} Stupid little things in my head that tell me lies
+- Lettie: {P1} Little things that whisper to me things that I believe when I am too stupid and fall for it
+- What do they whisper to you?
+- Lettie: {P1} You will fail {P2} Nobody likes you {P3} You are ugly {P4} You are fat {P5} You have no talent {P6} You have no skill {P7} This happiness will end soon {P8} You don't deserve this
+- > At least you know the spiders are liars, but... they sound like total assholes.
+- Mine say meaner things... you're lucky.
+- Lettie: {P1} Then you truly understand what it's like, mi corazon {P2} They are little pinches cabronas {P3} But they are liars remember that always {P4} This kind of sadness is small but it can be a poison if you let it get too strong {P5} Mi mama had it all her life so I have seen the toll it takes
+- Lettie: {P2} But here is why I call them spiders {P2} Because you can take a newspaper can roll it up into a tube {P3} And CRUSH THEM {P4} They are small and easily broken
+- You're not going to like Venus...
+- Lettie: {P1} Que?
+- Nevermind. At least now, we can crush the spiders together.
+- Lettie: {P1} Si, mi corazon, exactly {P2} COme what may between us {P3} Thank you for this moment {P4} But now I have to go back to work as always {Convo Ends}
+- > Very fair. And now, we can help each other crush the spiders.
+- > Have you considered medication or treatment for it? Depression can be serious.
+- > That sounds miserable... I'm sorry.
+- > Proof that spiders make shitty pets, I guess?
+- > Okay, no problem.
+
+### Conversation 7 (If you are robbed from me)
+
+- Lettie: {P1}If you are robbed from me {P2} Who will i have to thank for it? {P3} What is going to take you away?
+- I'm going to say this with all the love and respect in the world - you are *shit* at starting conversations.
+- Lettie: {P1} JAJAJA Si! {P2} I really am, lo siento {P3} i am just so curious to know that when the future takes you away frome me {P4} What face will i take and why
+- You hate it when I assume things about you
+- Lettie: {P1} Si I do {P2} But i also know soldiers very well solecito {P3} And you are a soldier whether you like it or not {P4} When soldiers get called off to "save the world" {P5} That is what they do {P6} So tell me why
+- > Entrati. I feel like my time chasing him might not be done.
+- > My Xipe Totec. I know first hand why it *must* be stopped.
+- Tau. If that's where Entrati is headed, my Xipe Totec *will* follow him. And it's too important to let them have it.
+- Lettie: {P1} Tell me of this Tau {P2} What is it {P3} Tell me why it would take you from me
+- > Tau is a planet in another solar system, where the Orokin sent a synthetic race they created to terraform it for us.
+- > The were called Sentients. But the Sentients turned on the Orokin. Came back here and waged war on them.
+- And it was that war that drove the Orokin to create the infestation - and warframes - in the first place. To fight the Sentients.
+- Lettie: {P1} So if it were not for this Tau and these Sentients {P2} This fake race made by these fake gods the orokin {P3} None of these pendejadas would have ever happened
+- Yeah, but then we never would have met. Or started dating. So... small upside?
+- Lettie: {P1} Jajaja sí {P2} Small upside {P3} But why? {P4} Why is this place so important that it will take you from me some day
+- I'm not sure. But if Entrati *and* the Man in the Wall are headed there... it has to be important.
+- Lettie: {P1} Sí {P2} And I hope that once you go and make him pay {P3} You will come back to us {P4} And to me
+- I promise that IF I do go, I WILL come back.
+- Lettie: {P1} How many soldaditos have made that promise {P2} And died in a ditch an hour later {P3} Aay but I know you mean it when you say it {P4} You will try
+- > All I can do is promise to try as hard as I possibly can.
+- > It was the only hope for humanity survival. Might still be, honestly.
+- > I'm not sure. But the sentients have said some cryptic things.
+- > Basically
+- > I'm NEVER leaving. End of Story.
+- The Man in the Wall. I know first hand why it *must* be stopped.
+- Lettie: {P1} Your story with the skinned god of the Void... si {P2} I fear it may not be over {P3} And who am I to think I am important enough to stand in the way of it
+- Lettie: {P1} Maybe when you finally defeat this skinned god of yours {P2} You won't forget about us back here in this cuchitril {P3} You will come back to us {P4} And to me
+- All i can do is promise to try as hard as I possibly can.
+- Lettie: {P1} That is a promise I can trust {P2} That is a promise I believe {P3} Gracias, mi corazon {Convo Ends}
+- Even if I did have to leave - who says I wouldn't come back?
+
+### Conversation 1 (<Mi corazón / Mi solecito / Friend> I have a confession)
+
+- Lettie: {P1} Friend {P2} I have a confession
+- What's up, L?
+- Lettie: {P1} When you came here {P2} I knew you were going to be trouble {P3} A new impossible problem to add to our growing pile of mierda to deal with
+- Gee, thanks.
+- Lettie: {P1} Then things went from bad to worse {P2} From shit to more shit {P3} As the nightmare grew darker {P4} And ANYONE with half a brain would have run back to the future
+- Lettie: {P1} But you didn't {P2} You stayed for some stupid reason {P3} You stayed with us and you fought and helped us put ourselves back together
+- Lettie: {P1} Ay Lua sálvame {P2} I still do not know why {P3} You had no reason to stay for strangers
+- Lettie: I have seen the face of your Xipe Totec and I would have run to the farthest corner and prayed it did not wear mine next
+- Lettie: {P1} I would have called the Cavia my family and stayed with them instead {P2} They seem FAR less broken and far more deserving of love
+- Lettie: {P1} But you DID stay {P2} And for me I find a dear friend I never would have expected {P3} One I do not know how I survived without
+- Lettie: {P1} With you around ... we are not fantasmas {P2} Without you we would be lost and adrift {P3} We would be sleepwalking through our deaths again and again, meaningless and empty {P4} At the edge of Mictlán
+- Lettie: {P1} But you showed me why it does not matter {P2} Because it is the company we keep not our destination {P3} It is the trust, the love, and the kindness we share {P4} And it is all thanks to you
+- Lettie: {P1} I hate all this sappy feely shit {P2} Drives me crazy {P3} I'm bad at it {P4} So I'm going to wrap this up
+- Lol. You're doing great.
+- (Same as below)
+- I don't know, I'm enjoying Sweet Lettie.
+- Lettie: {P1} Don't get used to it {P2} I'll still kick your ass {P3} Point is, I've gotten used to having you underfoot {P4} I like having you around
+- Lettie: {P1} Your friendship is so valuable to me {P2} And I rely on you in ways I don't rely on anyone else {P3} I trust you and that is not something I do lightly
+- Lettie: {P1} Here's to us my friend {P2} And here is to the future {P3} Filled with fantasmas and endless futures and gods and demons as they may be {P4} We have each other {P5} And that is plenty good enough {Convo Ends}
+- > Hmm? I dozed off again.
+- I mean... sure, but...
+- (Same as Gee, thanks)
+- Uh oh...
+- Lettie: Jajaja hear me out
+- (Jump to above dialogue: 'Lettie: When you came here')
+- > I'm sorry, Kalymos is chewing on the power cord, and - [End]
+
+### Conversation 2 (Ay, <babas / solecito / corazón> You ready for our Tenochititlán lesson...)
+
+- Lettie: {P1} Ay, babas {P2} You ready for our Tenochtitlan lesson {P3} Or should I come back another time {P4} Always more idiots I can stitch back up
+- >Shit.
+- Yeah, I'm ready, I've been practicing. :)
+- Lettie: {P1} ¿Sì? {P2} Okay, then {P3} Empieza con los numeros {P4} And no cheating
+- >..... Quisiera una hamburguesa grande especial, por favor.
+- >Uno, dos, thres, cinco, cuatro, siete, seis, ocho, nueve, diez
+- Uno, dos, thres, cuatro, cinco, seis, siete, ocho, nueve, diez
+- Lettie: {P1} Sì!! {P2} Very good
+- Lettie: {P1} Ok my turn {P2} Been working on those Ostron numbers {P3} They're hard
+- Lettie: Sool, Noong, Sahd, Seer, Zhwong, Hahf, Zhee, Pahk, Now, Senn?
+- >So close
+- Almost!
+- Lettie: {P1} Aah mierda {P2} (That means shit) {P3} What did I get wrong
+- >It goes: sool, noong, zhwong, sahd, seer, hahf, hesh, zhee, pahk, now, senn.
+- So I think you only had zhwong out of place.
+- Lettie: {P1} I think I have been around Velimir too long {P2} I just heard his voice in my head say {P3} "I hate it when my zhwong is out of place" {P4} Jajaja {P5} I need a long vacation {P6} Or a big coffee
+- One XL coffee, coming up. :)
+- Lettie: Gracias {Convo. End}
+- LOL. I don't know, I think that was pretty funny.
+- Lettie: {P1}Jaja {P2} Just don't get used to it {Convo. End}
+- >Uh... I think I forgot?
+
+### Conversation 9 (Hey What is that weird critter I see you running around with...)
+
+- Lettie: {P1} Hey {P2} What is that weird critter I see you running around with {P3} Does not look normal
+- You'd be surprised how little that narrows it down.
+- Lettie: {P1} Jajaja fair {P2} Ok it had big weird things coming off its head
+- > No clue. Might've been an Infested you saw chasing me.
+- Could be a vulpaphyla? Did it look like a "fox" or a skinny "dog" with big long ears with glowing things on them?
+- Lettie: {P1} ¡¡Si!! {P2} ¡¿Qué demonios es esa cosa?!
+- > Yeah... no clue, sorry.
+- > That's my sly vulpaphyla. They come from Deimos the infested planet. It's rare you see one away from Deimos. :) They're harmless. Well. To you, anyway.
+- > That's my crescent vulpaphyla. They come from Deimos the infested planet. It's rare you see one away from Deimos. :) They're harmless. Well. To you, anyway.
+- That's my panzer vulpaphyla. They come from Deimos the infested planet. It's rare you see one away from Deimos. :) They're harmless. Well. To you, anyway.
+- Lettie: {P1} Bien... {P2} More infested... {P3} Just what we need... {P4} Just keep it away from me, ¿si?
+- It's perfectly tame, I promise you.
+- Lettie: {P1} I'm sure that's what they said about the techrot {P2} Before it ate their faces
+- > But it's an adorable infested animal, Lettie. You know you want to pet it.
+- > Could be a smeeta kavat? Did it look kind of like Kalymos but with big pointy ears?
+- Could be a vizier predasite? Did it look like a... big burly "dog" with glowing things on its head? Big bat ears?
+- Lettie: {P1} Eeeh, no, close {P2} Long and skinny ears
+- > Yeah... no clue, sorry.
+- That's my panzer vulpaphyla. They come from Deimos, the Infested planet. :) They're harmless. Well. To you, anyway.
+- Lettie: {P1} Bien... {P2} More infested... {P3} Just what we need... {P4} Just keep it away from me, ¿si?
+- > It's perfectly tame, I promise.
+- But it's an adorable Infested animal, Lettie. You know you want to pet it.
+- Lettie: {P1} Aggghhh {P2} I hate it when you do that {P3} Yes okay I do {P4} Fine!!
+- Lettie: {P1} It can stay... {Convo. Ends}
+- > That's my crescent vulpaphyla. They come from Deimos, the Infested planet. It's pretty rare you see one away from Deimos. :) They're harmless. Well. To you, anyway.
+- > That's my sly vulpaphyla. They come from Deimos, the Infested planet. It's pretty rare you see one away from Deimos. :) They're harmless. Well. To you, anyway.
+
+### Conversation 10 (Hey If you hear rumors...)
+
+- Lettie: {P1} Hey {P2} If you hear rumors {P3} About Eleanor and me at the bar
+- Lettie: {P1} Lies {P2} All of them {Convo. Ends}
+
+### AmirHack (VOY A MATAR A ESE PINCHE MOCOSO)
+
+- Lettie: VOY A MATAR A ESE PINCHE MOCOSO
+
+### Confession (Solecito You there)
+
+- Lettie: {P1} Solecito {P2} You there
+- Yeah..?
+- Lettie: {P1} I... {P2} Wanted to say {P3} Primero, lo siento {P4} I shouldn't have reacted the way I did {P5} Segundo, do you mean what you said?
+- I meant every word.
+- Lettie: {P1} Aayyyy... ok... {P2} Mierda
+- If it's not mutual you can just tell me, I can take it.
+- Lettie: {P1} Look {P2} Trust is something that is very hard to give away {P3} And it is the most important thing in a relationship for me {P4} Broken trust is something that cannot be repaired, especially in a situation like this
+- Lettie: {P1} Because the kind of relationships I like to have tend to hurt, solecito {P2} If you get what I'm saying {P3} Only as much as we want it to {P4} And only as far as you're willing to go {P5} Because this kind of thing takes trust
+- Lettie: {P1} And broken trust in a thing like this {P2} Can not be repaired {P3} ¿Me explico?
+- I'm not saying no, but can I ask... why pain is your thing?
+- Lettie: {P1} Mmm, don't know {P2} Maybe because it's pain that I can control {P3} Verus all the pain I can't
+- Lettie: {P1} Or maybe because its something intense {P2} Something Sharp that cuts through all the rest of the bullshit I have to deal with day in and day out {P3} It's real {P4} I can sink my teeth into it {P5} Make it sing {P6} Feel it pulse
+- Lettie: {P1} And it DEMANDS trust {P2} it doesn't work without it, solecito {P3} So... what do you say?
+- Lettie: Want to make a terrible mistake with me?
+- Yeah. I do, actually. :) [Date Lettie.]
+- Lettie: {P1} All right {P2} Brace Yourself {P3} I won't go easy on you {P4} Because I've seen you fight {P5} I know you can take it
+- Lettie: {P1} But don't worry {P2} I'll always kiss it better after {P3} You can count on that{Convo. Ends}
+- > I need to think this over, actually. Sorry.
+- > Only if we get to take turns now and then...
+- > I'm not really into mixing pain and pleasure, sorry.
+- > I was making that all up
+
+### Escape (Babas... lo siento I'm sorry)
+
+- Lettie: {P1} Babas... lo siento {P2} I'm sorry
+
+### QuincyWingman (Hey Quincy came to talk to me...)
+
+- Lettie: {P1} Hey {P2} Quincy came to talk to me {P3} Said you wanted to talk? {P4} ¿Qué pasó?
+
+### Trust (babas...)
+
+- Lettie: babas
+
+### BirthdayConvo 1
+
+- Drifter starts convo:
+- Hey! Happy Birthday! Did your rats get you anything?
+- Lettie: {P1} Jajaja no {P2} All I want is to sleep in one hour or a fresh cup of coffee. That too much to ask? {P3} Pero, gracias {Convo ends.}
+- Happy Birthday! On Star Days no less. How Romantic. :)
+- Lettie: {P1} What is star days? {P2} Whatever. Too busy for that shit. {P3} Adios {Convo ends.}
+
+### BirthdayConvo 2
+
+- Hey! Have any fun plans for your birthday? Like going to bed early?
+- Lettie: {P1} Jajajajaja {P2} Aaayyy, si {P3} Hot bath and a nap, the birthday of my dreams
+- Happy Birthday! Let's go out to the clubs!
+- [line required]
+
+### BirthdayConvo 3
+
+- Happy Birthday! I'm sure everybody in the med tent appreciate you working :)
+- Lettie: {P1} Si {P2} Sure {Convo ends.} (My proof is I just picked this option and can send a pic in forum comments if needed, this line of hers certainly wasn't glowing golden)
+- Happy Birthday, Lettie! Do you get a day off today? Or at least to sit down?
+- Lettie: {P1} Hah! {P2} I wish {P3} I do get off early, though. Good enough for me. {Convo ends.}

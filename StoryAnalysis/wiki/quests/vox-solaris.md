@@ -12,6 +12,8 @@ Fortuna の人々が、Corpus の富豪 Nef Anyo に対する Solaris United の
 
 > 「Eudico は民を守るためなら何でもする。だが Nef Anyo に立ち向かえるのか？」（クエスト説明）
 
+- 台詞全文（取り込み）: [Vox Solaris (Quest)/Transcript](../../quotes/vox-solaris-quest-transcript.md)（143 行、うち独り言など 3 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Vox_Solaris_(Quest))（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Vox_Solaris_(Quest)/Transcript) / [全文検索](../../search.html?q=Vox%20Solaris)
 
 ## 基本情報

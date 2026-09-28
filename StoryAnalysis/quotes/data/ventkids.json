@@ -1,0 +1,12 @@
+{
+ "key": "ventkids",
+ "title": "Ventkids/Quotes",
+ "url": "https://wiki.warframe.com/w/Ventkids/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 6,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["- Ventkid: \"Kubrodons! Kubrodons! Kubrodons!\"", "DFortunaVentKidAmbient0010KubrodonVentkid_en.ogg"], ["- Ventkid: \"Need a ride Glinty? K-Drives by the load! Just through that vent there.\"", "DFortunaVentkidClub0120KubrodonVentkid_en.ogg"], ["- Ventkid: \"Check the vent Glinty! Just here, a paying customer is always welcome.\"", "DFortunaVentkidClub0140KubrodonVentkid_en.ogg"], ["- Ventkid: \"Pobbers are smart, but for me, Kubrodons all the way! Flash, style, attitude. Ride godly and be remembered!\"", "DFortunaVentkidGang0150KubrodonVentkid_en.ogg"], ["- Ventkid: \"Vent Pobbers make it happen! Not Kubrodon flashy, but they can take anything stolen and turn it into a top ride!\"", "DFortunaVentkidGang0160KubrodonVentkid_en.ogg"], ["- Ventkid: \"Pobbers and Kubrodons. Sure they go at each other but it's all good fun. Only got to hear us skegging out together to know that for a fact.\"", "DFortunaVentkidGang0170KubrodonVentkid_en.ogg"]]}
+ ]
+}

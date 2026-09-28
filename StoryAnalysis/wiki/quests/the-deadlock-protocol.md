@@ -10,6 +10,8 @@ Protea を手に入れ、Corpus の Granum と時間をめぐる陰謀に関わ�
 
 Corpus の創始者 Parvos Granum の後継者を見つけたと称し、Nef Anyo が Corpus の支配を狙うサイドクエスト。ソロ専用で、Update 28.0（2020-06-11）で追加された。
 
+- 台詞全文（取り込み）: [The Deadlock Protocol/Transcript](../../quotes/the-deadlock-protocol-transcript.md)（135 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Deadlock_Protocol)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Deadlock_Protocol/Transcript) / [日本語 Wiki「デッドロック・プロトコル」](https://warframe.fandom.com/ja/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-deadlock-protocol.md) / [全文検索](../../search.html?q=The%20Deadlock%20Protocol)
 
 ## 基本情報

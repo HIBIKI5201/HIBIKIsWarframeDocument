@@ -12,6 +12,7 @@ Arbiters of Hexis の一員。どのリレーでもシンジケートの部屋�
 
 - グループ: [シンジケートの顔役](g14.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Aspirant Zorba/Quotes](../../quotes/aspirant-zorba.md)（181 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Aspirant_Zorba)（英語・出典） / [全文検索](../../search.html?q=Aspirant%20Zorba)
 

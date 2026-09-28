@@ -10,6 +10,8 @@ Maroo とともに Arcane Codices の謎を追う
 
 盗賊 Maroo を見つけ出し、謎の遺物 Arcane Codices の秘密を追うサイドクエスト。Update 15.13（2015-02-05）で追加された。
 
+- 台詞全文（取り込み）: [Stolen Dreams/Transcript](../../quotes/stolen-dreams-transcript.md)（85 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Stolen_Dreams)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Stolen_Dreams/Transcript) / [日本語 Wiki「奪われた野望」](https://warframe.fandom.com/ja/wiki/%E5%A5%AA%E3%82%8F%E3%82%8C%E3%81%9F%E9%87%8E%E6%9C%9B) / [日本語 Wiki の取り込み](../../fandom-ja/pages/stolen-dreams.md) / [全文検索](../../search.html?q=Stolen%20Dreams)
 
 ## 基本情報

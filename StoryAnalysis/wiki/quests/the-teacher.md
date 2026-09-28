@@ -10,6 +10,8 @@ Teshin にまつわるクエスト（U40 で追加）
 
 WARFRAME の 3 番目のメインクエスト。Update 40.0（2025-10-15）で追加された。Teshin の指導で MOD の仕組みを学ぶチュートリアルを兼ねている。
 
+- 台詞全文（取り込み）: [The Teacher/Transcript](../../quotes/the-teacher-transcript.md)（96 行、うち独り言など 3 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Teacher)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Teacher/Transcript) / [全文検索](../../search.html?q=The%20Teacher)
 
 ## 基本情報

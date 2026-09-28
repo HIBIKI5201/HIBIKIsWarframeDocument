@@ -6,6 +6,7 @@
   data/characters.json・data/quests.json  並び順とグループ（手で編集する）
   wiki/data/<kind>/<key>.json              1 件ずつのデータ（build_wiki.py が作る）
   fandom-ja/terms.json                     日本語 Wiki の記事（あればリンクする。build_fandom_ja.py が作る）
+  quotes/data/*.json                       セリフ集（あればリンクする。build_quotes.py が作る）
 出力（手で編集しない）:
   characters.md・quests.md        一覧
   wiki/characters/<key>.md        キャラクター 1 人 1 ページ
@@ -114,9 +115,25 @@ def neighbors(items: list, i: int) -> tuple:
     return (items[i - 1] if i > 0 else None), (items[i + 1] if i + 1 < len(items) else None)
 
 
+def quotes_by_site() -> dict[tuple[str, str], list[dict]]:
+    """セリフ集（build_quotes.py が作る quotes/data/）を、このサイトのキャラクター・クエストごとにまとめる。"""
+    out: dict[tuple[str, str], list[dict]] = {}
+    for f in sorted((ROOT / "quotes" / "data").glob("*.json")):
+        r = json.loads(f.read_text(encoding="utf-8"))
+        if r["site"]:
+            kind = "quests" if r["kind"].startswith("クエスト") else "characters"
+            out.setdefault((kind, r["site"]["key"]), []).append(r)
+    return out
+
+
+def quote_item(label: str, r: dict) -> str:
+    idle = f"、うち独り言など {r['idle']} 行" if r["idle"] else ""
+    return f"- {label}: [{r['title']}](../../quotes/{r['key']}.md)（{r['count']} 行{idle}）"
+
+
 # ---------------------------------------------------------------- ページ
 
-def character_page(c: dict, group_chars: list[dict], quests: dict[str, dict], ja: JaWiki) -> list[str]:
+def character_page(c: dict, group_chars: list[dict], quests: dict[str, dict], ja: JaWiki, said: list[dict]) -> list[str]:
     i = next(n for n, x in enumerate(group_chars) if x["key"] == c["key"])
     prev, nxt = (x and (x["name"], f"{x['key']}.md") for x in neighbors(group_chars, i))
     out = [HEADER, f"# {c['name']}", ""]
@@ -124,7 +141,8 @@ def character_page(c: dict, group_chars: list[dict], quests: dict[str, dict], ja
     out += ["## 概要", "", c["summary"], ""] + c["body"]["summary"] + [""]
     n = len(c["quests"])
     out += [f"- グループ: [{c['group']}]({c['group_key']}.md)",
-            f"- 登場: {n} クエスト（台詞全文から数えたもの。下の表）" if n else "- 登場: 台詞全文では見つからない", ""]
+            f"- 登場: {n} クエスト（台詞全文から数えたもの。下の表）" if n else "- 登場: 台詞全文では見つからない"]
+    out += [quote_item("セリフ集", r) for r in said] + [""]
     if c["link_only"]:
         out += ["Wiki に個別の記事がない（名前のリンク先は別の記事）。", ""]
     elif not c["wiki"]["exists"]:
@@ -152,13 +170,15 @@ def group_page(group: str, chars: list[dict]) -> list[str]:
     return out
 
 
-def quest_page(q: dict, order: list[dict], chars: dict[str, dict], ja: JaWiki) -> list[str]:
+def quest_page(q: dict, order: list[dict], chars: dict[str, dict], ja: JaWiki, said: list[dict]) -> list[str]:
     i = next(n for n, x in enumerate(order) if x["key"] == q["key"])
     prev, nxt = (x and (x["ja"], f"{x['key']}.md") for x in neighbors(order, i))
     out = [HEADER, f"# {q['ja']}（{q['name']}）", ""]
     out += nav(["[クエスト一覧](../../quests.md)", q["group"]], prev, nxt)
     out += ["## 概要", "", q["summary"], ""] + q["body"]["summary"] + [""]
     extra = [f"[台詞全文]({q['transcript']})"] if q["transcript"] else []
+    if said:
+        out += [quote_item("台詞全文（取り込み）", r) for r in said] + [""]
     out += [links(q, ja.find(q["name"], q["page"]), "../../", extra), ""]
     out += infobox_rows(q["infobox"])
     if q["characters"]:
@@ -211,6 +231,7 @@ def main() -> None:
     if not chars or not quests:
         raise SystemExit("wiki/data/ がない。先に python StoryAnalysis/scripts/build_wiki.py を実行する")
     ja = JaWiki()
+    said = quotes_by_site()
     char_groups = [(g["group"], [chars[slug(c["page"])] for c in g["items"] if c["page"] and slug(c["page"]) in chars])
                    for g in json.loads((DATA / "characters.json").read_text(encoding="utf-8"))]
     char_groups = [(g, cs) for g, cs in char_groups if cs]
@@ -223,9 +244,9 @@ def main() -> None:
     for group, cs in char_groups:
         write(OUT / "characters" / f"{cs[0]['group_key']}.md", group_page(group, cs))
         for c in cs:
-            write(OUT / "characters" / f"{c['key']}.md", character_page(c, cs, quests, ja))
+            write(OUT / "characters" / f"{c['key']}.md", character_page(c, cs, quests, ja, said.get(('characters', c['key']), [])))
     for q in quest_order:
-        write(OUT / "quests" / f"{q['key']}.md", quest_page(q, quest_order, chars, ja))
+        write(OUT / "quests" / f"{q['key']}.md", quest_page(q, quest_order, chars, ja, said.get(('quests', q['key']), [])))
     write(ROOT / "characters.md", character_index(char_groups, len(chars)))
     write(ROOT / "quests.md", quest_index(quest_groups))
     print(f"ページ: キャラクター {len(chars)} 件・グループ {len(char_groups)} 件・クエスト {len(quest_order)} 件")

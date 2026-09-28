@@ -65,10 +65,22 @@
     const ents = document.getElementById("entities");
     const chips = document.getElementById("kinds");
     const count = document.getElementById("global-count");
-    const index = window.SEARCH_INDEX.map((e) => ({ ...e, n: norm(e.h + " " + e.t), hn: norm(e.h) }));
+    const prep = (e) => ({ ...e, n: norm(e.h + " " + e.t), hn: norm(e.h) });
+    const index = window.SEARCH_INDEX.map(prep);
     const entities = (window.ENTITIES || []).map((e) => ({ ...e, nn: e.n.map(norm) }));
-    const kinds = ["すべて", ...new Set(index.map((e) => e.k))];
+    const kinds = ["すべて", ...new Set(index.map((e) => e.k)), "セリフ"];
     let kind = kinds.includes(params.get("type")) ? params.get("type") : "すべて";
+    // セリフ集の索引は大きい（数 MB）ので、ページを表示してから読み込み、読み込めたら結果を出し直す
+    let quotesState = "読み込み中";
+    const loader = document.createElement("script");
+    loader.src = "static/search-quotes.js";
+    loader.onload = () => {
+      for (const e of window.SEARCH_INDEX_QUOTES || []) index.push(prep(e));
+      quotesState = "";
+      run();
+    };
+    loader.onerror = () => { quotesState = "読み込めなかった"; run(); };
+    document.body.append(loader);
 
     const snippet = (text, term) => {
       const i = norm(text).indexOf(term);
@@ -90,7 +102,7 @@
       // 見出しが一致するもの（そのページ・節が本題）を先に出す
       const shown = hits.filter((e) => kind === "すべて" || e.k === kind)
         .sort((a, b) => (b.hn.includes(term) - a.hn.includes(term)));
-      count.textContent = shown.length + " 件";
+      count.textContent = shown.length + " 件" + (quotesState ? `（セリフは${quotesState}）` : "");
       list.innerHTML = shown.slice(0, 200).map((e) =>
         `<li><a href="${e.u}"><b>${escape(e.h)}</b>` +
         `<small>${escape(e.k)} · ${escape(e.p)}</small></a><p>${snippet(e.t, term)}</p></li>`).join("");

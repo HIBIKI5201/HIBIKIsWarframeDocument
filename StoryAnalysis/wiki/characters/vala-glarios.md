@@ -15,6 +15,7 @@ Parvos 配下の船長。Tempestarii への復讐を狙う
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Vala Glarios/Quotes](../../quotes/vala-glarios.md)（41 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Vala_Glarios)（英語・出典） / [全文検索](../../search.html?q=Vala%20Glarios)
 

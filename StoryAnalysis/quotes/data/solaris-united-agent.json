@@ -1,0 +1,22 @@
+{
+ "key": "solaris-united-agent",
+ "title": "Solaris United Agent/Quotes",
+ "url": "https://wiki.warframe.com/w/Solaris_United_Agent/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "solaris-united-agent",
+  "name": "Solaris United Agent",
+  "page": "Solaris United Agent"
+ },
+ "count": 27,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Solaris United Agent dialogue.", null]]},
+  {"path": ["In the Orb Vallis", "After Capturing a Base"], "idle": false, "lines": [["- \"Howdy. Our lines are open, comms and contracts what do you need?\"", "DFortunaBaseMerchArriveAlt0011BaseMerchant_en.ogg"], ["- \"Comms are patched and Eudico's on the horn if you need work.\"", "DFortunaBaseMerchArriveAlt0021BaseMerchant_en.ogg"], ["- \"Bases locked down and comms are up. Let's get you resupplied outworlder.\"", "DFortunaBaseMerchArriveAlt0031BaseMerchant_en.ogg"]]},
+  {"path": ["In the Orb Vallis", "Greetings"], "idle": false, "lines": [["- \"Weather like this, I do not miss my organics. So uh, what do you need?\"", "DFortunaBaseMerchIntro0050BaseMerchant_en.ogg"], ["- \"Lovely day for a little commerce.\"", "DFortunaBaseMerchIntro0060BaseMerchant_en.ogg"], ["- \"You see something you wanna tackle? I'll get Eudico on the blower.\"", "DFortunaBaseMerchViewBounty0190BaseMerchant_en.ogg"], ["- \"Pick a run, and I'll patch ya through.\"", "DFortunaBaseMerchViewBounty0200BaseMerchant_en.ogg"], ["- \"Always fancied a life of action, me. 'Cept, y'know, an old injury. And an aversion to having a cauterized hole blown through me parts.\"", "DFortunaBaseMerchViewBounty0210BaseMerchant_en.ogg"]]},
+  {"path": ["In the Orb Vallis", "Departing"], "idle": false, "lines": [["- \"Gun fights? I never agreed to gun fights. I'm piking until the coast is clear.\"", "DFortunaBaseMerchDepart0280BaseMerchant_en.ogg"], ["- \"I'm not getting paid to get shot at. Hell, I'm not getting paid at all! See ya.\"", "DFortunaBaseMerchDepart0290BaseMerchant_en.ogg"], ["- \"I can't be seen here, got a family to consider. See you later.\"", "DFortunaBaseMerchDepart0300BaseMerchant_en.ogg"]]},
+  {"path": ["In the Orb Vallis", "When Leaving Without Picking a Bounty"], "idle": false, "lines": [["- \"Uh, well, that's disappointing.\"", "DFortunaBaseMerchNoBounty0250BaseMerchant_en.ogg"], ["- \"Wasn't expecting that, when you're normally so, you know, PEW PEW PEW.\"", "DFortunaBaseMerchNoBounty0260BaseMerchant_en.ogg"], ["- \"I'm sure you have your reasons.\"", "DFortunaBaseMerchNoBounty0270BaseMerchant_en.ogg"], ["- \"Eh, copy that. See you next time.\"", "DFortunaBaseMerchOutroNoSale0160BaseMerchant_en.ogg"], ["- \"Signing off.\"", "DFortunaBaseMerchOutroNoSale0170BaseMerchant_en.ogg"], ["- \"Have a better one.\"", "DFortunaBaseMerchOutroNoSale0180BaseMerchant_en.ogg"], ["- \"Sure, sure, Tenno business. Don't let me keep ya.\"", "DFortunaBaseMerchBye0330BaseMerchant_en.ogg"]]},
+  {"path": ["In the Orb Vallis", "Exclusive Dialogue", "Rank 5 - Old Mate", "Re-introduction"], "idle": false, "lines": [["Rank 5 - Old Mate Spoiler ▾▾", null], ["- \"Hoo! And THIS is WHY we get our bits replaced! Look, I'm not a fighter, me. Got a family, but a Dad's gotta do what's right for his kids. Give 'em a different future. So I'll keep standin' here in the freezing cold, just as long as you need me. You give 'em hell, Outworlder.\"", "DFortunaBaseMerchIntroLoved0069BaseMerchant_en.ogg"]]},
+  {"path": ["Unused"], "idle": false, "lines": [["- \"Roger? Scan your optics over this lot.\"", "DFortunaBaseMerchStore0100BaseMerchant_en.ogg"], ["- \"Nice aye? See anything you'd like?\"", "DFortunaBaseMerchStore0110BaseMerchant_en.ogg"], ["- \"Old, new, stolen, illegal.\"", "DFortunaBaseMerchStore0120BaseMerchant_en.ogg"], ["- \"You have a great day.\"", "DFortunaBaseMerchOutroSale0130BaseMerchant_en.ogg"], ["- \"Transaction logged and bundled out.\"\"'", "DFortunaBaseMerchOutroSale0140BaseMerchant_en.ogg"], ["- \"Copied that. Ruin their day outworlder.\"", "DFortunaBaseMerchOutroSale0150BaseMerchant_en.ogg"]]}
+ ]
+}

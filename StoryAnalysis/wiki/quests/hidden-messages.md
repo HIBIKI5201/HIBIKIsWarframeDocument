@@ -10,6 +10,8 @@
 
 謎めいた詩を読み解き、謎を解いて Warframe の Mirage を探すサイドクエスト。Update 14.0（2014-07-18）で追加された。
 
+- 台詞全文（取り込み）: [Hidden Messages/Transcript](../../quotes/hidden-messages-transcript.md)（51 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Hidden_Messages)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Hidden_Messages/Transcript) / [日本語 Wiki「隠されたメッセージ」](https://warframe.fandom.com/ja/wiki/%E9%9A%A0%E3%81%95%E3%82%8C%E3%81%9F%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8) / [日本語 Wiki の取り込み](../../fandom-ja/pages/hidden-messages.md) / [全文検索](../../search.html?q=Hidden%20Messages)
 
 ## 基本情報

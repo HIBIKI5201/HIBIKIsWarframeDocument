@@ -1,0 +1,34 @@
+{
+ "key": "fisher-hai-luk",
+ "title": "Fisher Hai-Luk/Quotes",
+ "url": "https://wiki.warframe.com/w/Fisher_Hai-Luk/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "fisher-hai-luk",
+  "name": "Fisher Hai-Luk",
+  "page": "Fisher Hai-Luk"
+ },
+ "count": 42,
+ "idle": 4,
+ "sections": [
+  {"path": ["Idle"], "idle": true, "lines": [["- \"Spears! Bait! Trophy making! Come to Fisher Hai-luk! A bad day fishing beats a good day working!\"", "DHaiLukBark0010HaiLuk_en.ogg"], ["- \"Fishing! Feed yourself and the ones you love! Spears! Bait! The lifetime of knowledge! Fisher Hai-luk at your service!\"", "DHaiLukBark0020HaiLuk_en.ogg"], ["- \"Lure rare and mighty beasts of the deep with Fisher Hai-luk's prime bait! Capture it with one of her master-crafted spears! Mount your victory on a fine board to beautify your home and impress your friends! Fisher Hai-luk!\"", "DHaiLukBark0030HaiLuk_en.ogg"], ["- \"Anglers! Want to bring home a fish that will make the mighty Eidolons look like minnows? Come, talk to Fisher Hai-luk!\"", "DHaiLukBark0040HaiLuk_en.ogg"]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- \"Different fish need different bait. And Fisher Hai-luk is your one stop shop. Swazdo-lah, stranger.\"", "DHaiLukFirst0050HaiLuk_en.ogg"]]},
+  {"path": ["Greetings"], "idle": false, "lines": [["- \"A bad day fishing is better than a good day working. Swazdo-lah, friend.\"", "DHaiLukIntroNeutral0060HaiLuk_en.ogg"], ["- \"Lok heb, surah! Let's get you fitted out and ready for the big blue.\"", "DHaiLukIntroNeutral0070HaiLuk_en.ogg"], ["- \"Hello! It is my aim to ensure you fully enjoy your time upon the water, which is absolutely not filled with unknowable horror.\"", "DHaiLukIntroNeutral0080HaiLuk_en.ogg"]]},
+  {"path": ["Greetings", "Rank 3 - Trusted"], "idle": false, "lines": [["- \"Ahh, you're still alive! I'm so happy!\"", "DHaiLukIntroLoved0090HaiLuk_en.ogg"], ["- \"Fisher Hai-luk happily places herself at the service of Cetus's champion.\"", "DHaiLukIntroLoved0100HaiLuk_en.ogg"], ["- \"Lok heb, surah! It's wonderful to see you again!\"", "DHaiLukIntroLoved0110HaiLuk_en.ogg"]]},
+  {"path": ["Farewells"], "idle": false, "lines": [["- \"Hmph, I should have been a plumber.\"", "DHaiLukOutroNoSale0400HaiLuk_en.ogg"], ["- \"Well, alright then.\"", "DHaiLukOutroNoSale0410HaiLuk_en.ogg"], ["- \"Check back tomorrow! New stock regularly!\"", "DHaiLukOutroNoSale0420HaiLuk_en.ogg"]]},
+  {"path": ["Farewells", "After Purchasing an Item"], "idle": false, "lines": [["- \"Come again!\"", "DHaiLukOutroSale0370HaiLuk_en.ogg"], ["- \"I hope to see you again? Goodbye.\"", "DHaiLukOutroSale0380HaiLuk_en.ogg"], ["- \"A fine selection! Be well!\"", "DHaiLukOutroSale0390HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "If the Player has no Fish"], "idle": false, "lines": [["- \"Let's see what you've got! Wait... you have... no fish? Well? What are you waiting for? Go catch some!\"", "DHaiLukVisitNoFish0120HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Selecting Fish", "Selecting a small fish"], "idle": false, "lines": [["- \"Just a wee one, nothing to fear.\"", "DHaiLukFishSmall0130HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Selecting Fish", "Selecting a medium fish"], "idle": false, "lines": [["- \"Hmm, medium size, good length. Teeth, mmm, still too big.\"", "DHaiLukFishMed0140HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Selecting Fish", "Selecting a large fish"], "idle": false, "lines": [["- \"(gasp) This one will feed the whole family and the cousins too!\"", "DHaiLukFishLarge0150HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Selecting Fish", "Selecting a uncommon fish"], "idle": false, "lines": [["- \"(gasp) Hmm, look at that! Don't see many of these anymore.\"", "DHaiLukFishUncom0160HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Selecting Fish", "Selecting a rare fish"], "idle": false, "lines": [["- \"(gasp) Now this is something special! A rare catch!\"", "DHaiLukFishRare0170HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Selecting Fish", "Selecting a very rare fish"], "idle": false, "lines": [["- \"By the Unum! Is that-? (gasp) I can't remember the last time this species was seen in our waters. What did you use for bait?\"", "DHaiLukFishLegend0180HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Filet Fish"], "idle": false, "lines": [["- \"I find a use for every part of the beast.\"", "DHaiLukDissectEnter0250HaiLuk_en.ogg"], ["- \"Let's, uh, open 'er up then?\"", "DHaiLukDissectEnter0260HaiLuk_en.ogg"], ["- \"Kruna metta! Allow me to... help... with that.\"", "DHaiLukDissectEnter0270HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Filet Fish", "Afterwards"], "idle": false, "lines": [["- \"That was expertly done.\"", "DHaiLukDissect0280HaiLuk_en.ogg"], ["- \"(laughs) You're quite handy with a blade, aren't you?\"", "DHaiLukDissect0290HaiLuk_en.ogg"], ["- \"That... that smell, is quite something, isn't it?\"", "DHaiLukDissect0300HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Providing Fish"], "idle": false, "lines": [["- \"If you have any fish to spare, I will see they reach the tables of our poor and infirm.\"", "DHaiLukDonateEnter0190HaiLuk_en.ogg"], ["- \"Can you spare a fish or two for the people of Cetus, Tenno?\"", "DHaiLukDonateEnter0200HaiLuk_en.ogg"], ["- \"We have many who go without. A fish or two would make their dinnertable a less somber affair.\"", "DHaiLukDonateEnter0210HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Providing Fish", "Afterwards"], "idle": false, "lines": [["- \"These will be received gratefully. Thank you.\"", "DHaiLukDonateConfirm0220HaiLuk_en.ogg"], ["- \"The people acknowledge your generosity, Tenno.\"", "DHaiLukDonateConfirm0230HaiLuk_en.ogg"], ["- \"These will feed many! Thank you, Tenno.\"", "DHaiLukDonateConfirm0240HaiLuk_en.ogg"]]},
+  {"path": ["Other Services", "Mounting Fish"], "idle": false, "lines": [["- \"Let's have that fine specimen mounted and preserved! Display it proudly! Impress your friends!\"", "Hai-LukTrophyEnter1.ogg"], ["- \"How striking will this specimen look hanging above your door or command console?\"", "Hai-LukTrophyEnter2.ogg"], ["- \"I have just the mounting board for that one. It will look very fine indeed.\"", "Hai-LukTrophyEnter3.ogg"]]},
+  {"path": ["Other Services", "Mounting Fish", "Afterwards"], "idle": false, "lines": [["- \"The work is complete, and what a fine fellow he is!\"", "Hai-LukTrophyMount1.ogg"], ["- \"Regal! Fitting of such a fine catch!\"", "Hai-LukTrophyMount2.ogg"], ["- \"Notice how the eyes, they- follow you... wherever you go...\"", "Hai-LukTrophyMount3.ogg"]]}
+ ]
+}

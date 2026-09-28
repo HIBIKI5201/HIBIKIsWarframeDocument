@@ -15,6 +15,7 @@
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Cephalon Suda/Quotes](../../quotes/cephalon-suda.md)（81 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Suda)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Suda)
 

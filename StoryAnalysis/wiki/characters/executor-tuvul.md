@@ -12,6 +12,7 @@ The Seven の一員
 
 - グループ: [Orokin](g06-orokin.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Executor Tuvul/Quotes](../../quotes/executor-tuvul.md)（15 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Executor_Tuvul)（英語・出典） / [全文検索](../../search.html?q=Executor%20Tuvul)
 

@@ -15,6 +15,7 @@ Necraloid の代表
 
 - グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Loid/Quotes](../../quotes/loid.md)（813 行、うち独り言など 7 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Loid)（英語・出典） / [日本語 Wiki「Loid」](https://warframe.fandom.com/ja/wiki/Loid) / [日本語 Wiki の取り込み](../../fandom-ja/pages/loid.md) / [全文検索](../../search.html?q=Loid)
 

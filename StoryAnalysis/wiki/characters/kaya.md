@@ -14,6 +14,7 @@ Kaya Velasco。Nova の特性を持つ Protoframe
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Kaya/Quotes](../../quotes/kaya.md)（444 行、うち独り言など 3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Kaya)（英語・出典） / [全文検索](../../search.html?q=Kaya)
 

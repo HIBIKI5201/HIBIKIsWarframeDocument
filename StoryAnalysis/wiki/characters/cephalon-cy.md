@@ -15,6 +15,7 @@ Railjack の航法士・副長
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 4 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Cephalon Cy/Quotes](../../quotes/cephalon-cy.md)（645 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Cy)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Cy)
 

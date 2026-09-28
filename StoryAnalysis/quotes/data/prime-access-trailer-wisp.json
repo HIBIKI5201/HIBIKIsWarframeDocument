@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-wisp",
+ "title": "Prime Access Trailer/Wisp",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Wisp",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"In languid dreams a vision came, of new heaven, new Earth. I breathed life into its custodian. A subtle sprite, to seed life. Yet as I reached for my savage warden, she... slipped from me.", null], ["So now... ...I cast her in flesh. Yours.", null], ["Let her be real. Incandescent. This fugitive form. This... Wisp.\"", null]]}
+ ]
+}

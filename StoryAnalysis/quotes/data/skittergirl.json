@@ -1,0 +1,17 @@
+{
+ "key": "skittergirl",
+ "title": "Skittergirl/Quotes",
+ "url": "https://wiki.warframe.com/w/Skittergirl/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "skittergirl",
+  "name": "Skittergirl",
+  "page": "Skittergirl"
+ },
+ "count": 12,
+ "idle": 11,
+ "sections": [
+  {"path": ["Idle"], "idle": true, "lines": [["- \"(giggles)\"", "ZarimanSkitterGirlIdleA.ogg"], ["- \"(laughs)\"", "ZarimanSkitterGirlIdleB.ogg"], ["- \"(giggles)\"", "ZarimanSkitterGirlIdleC.ogg"], ["- \"(laughs)\"", "ZarimanSkitterGirlIdleD.ogg"], ["- \"(laughs)\"", "ZarimanSkitterGirlIdleE.ogg"], ["- \"(laughs)\"", "ZarimanSkitterGirlIdleF.ogg"], ["- \"(laughs)\"", "ZarimanSkitterGirlIdleG.ogg"], ["- \"(laughs)\"", "ZarimanSkitterGirlIdleH.ogg"], ["- \"(laughs)\"", "ZarimanSkitterGirlIdleI.ogg"], ["**Loop**", null], ["- \"(random incomprehensible whispers and laughter)\"", "ZarimanSkitterGirlIdleLoop.ogg"]]},
+  {"path": ["While Stealing Loot From Players"], "idle": false, "lines": [["- \"(laughs)\"", "ZarimanSkitterGirlDrainAuraLoop.ogg"]]}
+ ]
+}

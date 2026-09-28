@@ -1,0 +1,3642 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Kinemantik Instant Messenger/Arthur
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Kinemantik Instant Messenger/Arthur」](https://wiki.warframe.com/w/Kinemantik_Instant_Messenger/Arthur)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+3485 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- This article attempts to distill conversations to straight-forward text and may be missing some paths; complete flowcharts for all Arthur conversations are available here in PNG and here in SVG.
+- All ending conversations (where the Hex goes offline) will be marked as {Convo ends.}
+- The corresponding flow chart will be included at the end of each conversation.
+- Any glowing, golden text marked in-game will be highlighted here in bold+underlined. Note that such formatted {Convo ends.} represent invisible, in-game chemistry gain.
+- Indented messages represent branching conversation paths, be it user input or conditional dialog (e.g. dialog exclusive to dating).
+- All user input is marked with a '>' for clarity. Note that available choices in-game are not written in order on this page.
+
+### Conversation 1 (Tell me about yourself / What made you want / What was it like growing up)
+
+- Drifter initiates the conversation, starting line:
+- What made you want to become a soldier?
+- Arthur: No.
+- Ooookay, never mind. [End.]
+- {Convo ends.}
+- Ouch. Touchy subject?
+- Arthur: Do you think I know you well enough to jump into that?
+- No, probably not.
+- I'm just trying to get to know you better.
+- Arthur: Going right into my deep personal history isn't the way to do it, mate.
+- Arthur: You have to buy a man a few drinks first.
+- Drinks first. *Then* personal questions. Got it.
+- Arthur: Heh. At least you learn quick.
+- {Convo ends.}
+- Not worth the trouble, never mind. [End.]
+- Arthur: No skin off my back.
+- {Convo ends.}
+- I'm sorry.
+- {Continues as above from "I'm just trying-"}
+- Wait. What?
+- {Continues as above from "Arthur: Do you think I know you-"}
+- What was it like growing up, you and Eleanor?
+- {Continues as above from "Arthur: No."}
+- Tell me about yourself.
+- Arthur: What. Just like that?
+- Okay then, never mind. [End.]
+- {Convo ends.}
+- Yeah. Isn't that how this is supposed to work?
+- Arthur: Sweet Sol, you--
+- Arthur: Right. Stranded in an alternate dimension.
+- Arthur: You're less used to "people" than I am.
+- Do I just stop now, or...?
+- Arthur: No, it's fine, go ahead.
+- Arthur: Ask some questions.
+- Um...favorite color?
+- Arthur: Guess.
+- Black
+- Arthur: Heh. No. But that's Eleanor's.
+- Arthur: Or maybe it's purple?
+- Arthur: It changes.
+- I don't know that much about you two, actually.
+- Arthur: And I'm not about to start unloading family history to you, so don't try.
+- Arthur: I don't *know* you.
+- I'd like to change that.
+- Arthur: Something to work toward, I suppose.
+- {Convo ends.}
+- And with that attitude, you won't. [End.]
+- Arthur: Huge loss.
+- {Convo ends.}
+- Black isn't even a real color, anyway. [End.]
+- Arthur: Didn't figure you for the pedantic type.
+- {Convo ends.}
+- Blue
+- Arthur: Wrong. Sorry.
+- Arthur: It's red.
+- Arthur: Did this get you what you were looking for?
+- Yeah. we'll call that good enough for now.
+- Arthur: Roger that.
+- {Convo ends.}
+- Sure, if that's all you're willing to share.
+- Arthur: There's a big gap between "what's your favourite colour" and "tell me your family history."
+- Too soon?
+- Arthur: Too soon.
+- {Convo ends.}
+- It was worth a try.
+- Arthur: Valiant effort.
+- {Convo ends.}
+- Green
+- {Continues as above from "Arthur: Wrong. Sorry."}
+- Red
+- Arthur: On the first try, too. How'd you know?
+- You just "feel" like a red guy.
+- Arthur: Now you're sounding like Eleanor.
+- I take after the smart one. ;)
+- Arthur: Har har.
+- {Convo ends.}
+- What were your lives like, before all this
+- {Continues as above from "Arthur: There's a big gap between "what's your favourite colour"-"}
+- The bandana you have around your skana.
+- Arthur: Good eyes.
+- How'd you get that sword, anyway? It never seems to leave your side.
+- Arthur: A long story for another day. After drinks. Anyway.
+- {Continues as above from "Did this get you-"}
+- First pet.
+- Arthur: A fish named Murky.
+- Arthur: I put him in the tank, the water turned gray a minute later.
+- Arthur: Thought he was going to pop off.
+- Arthur: Little bugger lasted thirteen years.
+- Aw. That's cute.
+- Arthur: Couldn't be trusted with anything bigger.
+- Oh? Why not?
+- Arthur: Just wasn't that kind of kid, is all.
+- Arthur: Did this get you what you were looking for?
+- Yeah, we'll call that good enough for now.
+- Arthur: Roger that.
+- {Convo ends.}
+- Sure, if that's all you're willing to share.
+- Arthur: There's a big gap between "what was your first pet" and "tell me your family history."
+- Too soon?
+- Arthur: Too soon.
+- {Convo ends.}
+- It was worth a try.
+- Arthur: Valiant effort.
+- {Convo ends.}
+- How'd that make you feel?
+- Arthur: Now you're sounding like Eleanor.
+- I take after the smart one. ;)
+- Arthur: Har har.
+- {Convo ends.}
+- What were your lives like, before all this?
+- {Continues as above from "There's a big gap between "what was your first pet"-")
+- I assume you fixed the water issue.
+- Arthur: Yes, I fixed the damn water.
+- Arthur: Did this get you what you were looking for?
+- Yeah, we'll call that good enough for now.
+- Arthur: Roger that.
+- {Convo ends.}
+- Sure if that's all you're willing to share.
+- {Continues as above from "There's a big gap between "what was your first pet"-")
+- Um...middle name.
+- Arthur: Guess.
+- Petersham
+- Arthur: What?! HAH!
+- That's a *place,* not a name, you daftie!
+- Sorry I'm not up to date on my 20th-Century Britannic names!
+- Arthur: I think I'm going to cry, I'm laughing so hard.
+- Arthur: PETERSHAM!
+- Yeah, yeah. Laugh it up.
+- Arthur: It's James, by the way. And thanks for the laugh.
+- {Convo ends.}
+- Careful, or it's going to be what I call you now.
+- {Continues as above from "Arthur: It's James-"}
+- How was I supposed to know?
+- {Continues as above from "Arthur: I think I'm going to cry-"}
+- Braxton
+- Arthur: Dignified. Elegant.
+- Arthur: Wrong.
+- Arthur: Let me put you out of your misery, or we'll be at this all day.
+- Arthur: It's James.
+- How cute.
+- Arthur: Yeah, well. Not like I chose it.
+- Arthur: Did this get you what you were looking for?
+- Yeah, we'll call that good enough for now.
+- Arthur: Roger that.
+- {Convo ends.}
+- Sure, if that's all you're willing to share.
+- Arthur: There's a big gap between "what's your middle name" and "tell me your family history."
+- Too soon?
+- Arthur: Too soon.
+- {Convo ends.}
+- It was worth a try.
+- Arthur: Valiant effort.
+- {Convo ends.}
+- Herbert
+- Arthur: If it was, I'd never admit it. Luckily it isn't.
+- {Continues as above from "Let me put you out of your misery-"}
+- James
+- Arthur: How - no. Someone told you!
+- Arthur: Who told you?!
+- It was a lucky guess.
+- Arthur: Did this get you what you were looking for?
+- Yeah, we'll call that good enough for now.
+- Arthur: Roger that.
+- {Convo ends.}
+- Sure, if that's all you're willing to share.
+- {Continues as above from "Arthur: There's a big gap between "what's your middle name"-"}
+- You just "feel" like a James.
+- Arthur: Now you're sounding like Eleanor.
+- I take after the smart one. ;)
+- Arthur: Har har.
+- {Convo ends.}
+- What were your lives like, before all this?
+- {Continues as above from "Arthur: There's a big gap between "what's your middle name"-"}
+
+### Conversation 2 (Drifter.)
+
+- Arthur: Drifter.
+- Sup.
+- What're your thoughts about On-lyne?
+- Who?
+- Arthur: The band that's everywhere you look.
+- Oh. Them.
+- I love them! We didn't have anything like that in Duviri.
+- Arthur: We clearly have different tastes in music.
+- {Convo ends.}
+- Meh.
+- Arthur: I just wish they'd STOP.
+- {Convo ends.}
+- Do they only have the one song?
+- Arthur: Exactly! I just wish they'd stop
+- {Convo ends.}
+- I love them! We didn't have anything like that in Duviri.
+- {Continues as above from "Arthur: We clearly have-"}
+- Meh.
+- {Continues as above from "Arthur: I just wish-"}
+- Do they only have the one song?
+- {Continues as above from "Arthur: Exactly-"}
+- Arthur.
+- Arthur: Heh.
+- {Continues as above from "What're your thoughts-"}
+
+### Conversation 3 (I'd love to take your Atomicycle for a ride/ Hey mind if I borrow your Atomicycle? ;))
+
+- Drifter initiates the conversation, starting line:
+- I'd love to take your Atomicycle for a ride.
+- Arthur: No.
+- C'mon. What's the worst that could happen?
+- Arthur: *No.*
+- Fine. [End.]
+- {Convo ends.}
+- Why not?
+- Arthur: Because that thing is my pride and joy. And you'll take it and ruin it.
+- Fine. I'll go get my own. And it'll be cooler anyway. [End.]
+- Arthur: I'm sure it will be.
+- {Convo ends.}
+- Why would you assume I'd take something of yours and - oh...
+- Point taken.
+- Arthur : You might be a lot of things, Drifter. But at least you're not stupid.
+- Arthur: I came off harsh. Tell you what. When you get your own? We'll go riding together.
+- Arthur: They sound a lot better than those messed-up horses you mentioned.
+- {Convo ends.}
+- I'll just...use my own instead...
+- Arthur: Sigh.
+- {Continues as above from "Arthur: I came off harsh-}
+- Okay, you drive. I'll sit on the back. Joyride.
+- {Continues as above from "Arthur: *No.*}
+- Hey mind if I borrow your Atomicycle? ;)
+- Arthur: If you touch it I'll murder you in your Sol-loving sleep.
+- Arthur: And no one will find the corpse.
+- Arthur: Trust me.
+- Forget I said anything. [End.]
+- {Convo ends.}
+- Chill! I was just playing around!
+- Arthur: How was I supposed to know?!
+- Never mind. [End.]
+- {Convo ends.}
+- That's what the winky face was for!
+- Arthur: What "winky face?"
+- You're starting to make a lot more sense, now...
+- Arthur: Oh.
+- Arthur: Well...shit. I think I need to apologize to Aoi for...a lot. Be right back.
+- {Convo ends.}
+- Tilt your head to the left and look for the face. That's called an "emoticon."
+- Emotion + Icon. Emoticon.
+- {Continues as above from "Arthur: Oh."}
+
+### Conversation 4 (Where'd you learn to fight?)
+
+- Arthur: Where'd you learn to fight?
+- [Ignore.]
+- {Convo ends.}
+- A mentor of mine, named Teshin.
+- An elite Dax soldier- which I *just* remembered means nothing to you.
+- I'll summarize. It means he has the patience to put up with me.
+- Arthur: Heh. Sounds like a hell of a tutor. And someone I'd like to meet.
+- He gave me the push I needed.
+- Arthur: We all need that person, sometimes.
+- Yeah. And he coached me on how to fight. On how to beat Dominus Thrax.
+- Arthur: Thrax was...a character from a story, right?
+- That I accidentally turned into a tyrannical despot who had me executed in creative ways for centuries? Yep.
+- Arthur: But...why?
+- I can't do this right now. [End.]
+- {Convo ends.}
+- You volunteering to be my therapist?
+- Arthur: Hard pass.
+- {Convo ends.}
+- Being trapped alone in the Void does weird things to you.
+- Arthur: That's fair. How about we come back to it, should we get to that point?
+- Pass.
+- Arthur: Well, good talk, then.
+- Deal.
+- {Convo ends.}
+- How'd you feel if I asked you that question?
+- {Continues as above from "Arthur: That's fair-"}
+- Trial and error.
+- Arthur: Sounds like a great way to get killed.
+- Oh, and I did. A lot. Over, and over, and over... And over...
+- And over...
+- Arthur: In Duviri, in that loop you told me about.
+- I really don't want to talk about this. [End.]
+- {Convo ends.}
+- It's more of a spiral, really. Point being, I got a lot of practice.
+- Nothing teaches you how to fight like knowing exactly what you're trying to avoid.
+- Arthur: Sol. I can understand that feeling, though I've never died.
+- I...well...you have, though. Don't you remember?
+- I don't really... It's hazy. And I'm glad for it.
+- Yeah. Because if you did, you might wind up like *me.* [End.]
+- Arthur: That's not what I- whatever.
+- {Convo ends.}
+- Honestly? You're lucky it's hazy. I died so many times, I stopped caring.
+- Arthur: How could you stop caring?
+- You volunteering to be my therapist?
+- Arthur: Hard pass.
+- {Convo ends.}
+- I can't do this right now. [End.]
+- {Convo ends.}
+- How'd you feel if I asked you that same question?
+- {Continues as above from "Arthur: That's fair-"}
+- Being trapped in the Void does weird things to you.
+- {Continues as above from "Arthur: That's fair-"}
+- It's not exactly something most people have to deal with.
+- I died so many times I stopped caring.
+- {Continues as above from "Arthur: How could you stop-}
+
+### Conversation 1 (Can I ask you a...potentially strange question?)
+
+- Arthur: "Can I ask you a...potentially strange question?"
+- Maybe later. [End.]
+- {Convo ends.}
+- Define "strange." Remember where I'm from.
+- Arthur: ...Right. Fair enough.
+- Arthur: So, about your food...
+- You've been poisoning it, haven't you?!
+- Arthur: You wish. No getting out that easy.
+- Arthur: I'm curious why you cut it up into...perfect squares. Even the pizza.
+- Because. [End.]
+- Arthur: Good talk.
+- {Convo ends.}
+- Honestly? It kind of reminds me of...I don't know.
+- Arthur: Home?
+- Actually sorry. I don't want to talk about it. [End.]
+- Arthur: That's fine. I've been there.
+- {Convo ends.}
+- The only home I've had where I wasn't alone.
+- When it wasn't just me, myself and my cube food rations.
+- So. I guess I do it because there's comfort in it.
+- Arthur: I know how you feel. Routines can help you feel grounded, especially when everything's gone to shit.
+- Arthur: I tell you what - I make a mean cubed omelette.
+- That sounds amazing.
+- Arthur: You're in for a treat
+- {Convo ends.}
+- A what?
+- Arthur: You're in for a treat
+- {Convo ends.}
+- Kind of It's complicated.
+- Arthur: Sounds it.
+- Arthur: Well, I guess I could try making square spaghetti if you want.
+- Thanks. But...gross. I'll pass.
+- Arthur: On second thought, good call.
+- {Convo ends.}
+- I'll tell you what. If you make it, I'll eat it.
+- Arthur: Game on.
+- {Convo ends.}
+- {Unlocks "Are you okay?" dialogue; will appear right after this one}
+- Force of habit. That's how the rations were served on the Zariman, the ship that got stuck in the void.
+- Arthur: The ship was your home?
+- Actually, sorry. I don't want to talk about it. [End.]
+- {Continues as above from "Arthur: That's fine-"}
+- The only home I've had where I wasn't alone.
+- {Continues as above from "When it wasn't just me-"}
+- Kind of? It's complicated.
+- {Continues as above from "Arthur: Sounds it."}
+
+### Conversation 2 (So. How many of you are there?)
+
+- Arthur: "So. How many of you are there?"
+- None of your business. [End.]
+- {Convo ends.}
+- Why're you asking?
+- Arthur: You've been inside my head. I guess I'm curious to know more about what's going on inside yours.
+- You sure? It can get strange in here.
+- Arthur: Have you met my sister? You've got nothing on her.
+- Considering what she's been through? I think she has the right to be "strange."
+- Arthur: She was only marginally more normal when we were children.
+- Arthur: Anyway. Seriously, how many of you *are* there?
+- Why, fantasizing about two of me? ;)
+- Arthur: Don't flatter yourself.
+- {Convo ends.}
+- Just me and the kid that I know of.
+- Arthur: That you know of?
+- At the rate my life is going? Duplicates would be pretty mundane, honestly.
+- Arthur: Picture it. Drifters, as far as the eye can see...
+- Maybe I'd finally get my laundry folded.
+- Although...more Drifters = more laundry...
+- Damn. Thwarted again!
+- Arthur: HAH.
+- Arthur: Well let's just hope we don't end up with Infinite Laundry, yeah?
+- Arthur: Bad enough we have to deal with Quincy's stinking up the joint...
+- {Convo ends.}
+- Can you imagine the arguing? And the sass?
+- Arthur: Absolutely not.
+- Arthur: To be fair, I'm not sure I'd want to deal with a room full of Arthurs.
+- Arthur: All of us, glowering at each other in silence. Brooding.
+- Arthur: We'd at least get things done, I suppose.
+- {Square spaghetti convo required} You could open up an amazing series of restaurants... Sans the square spaghetti, of course.
+- Arthur: You will never let that down, will you?
+- Someday. Today is not the day. ;)
+- Arthur: Heh. I suppose that's fair.
+- {Convo ends.}
+- Nope. It still haunts my nightmares.
+- Arthur: Heh. I suppose that's fair.
+- {Convo ends.}
+- All fighting over who lost the Tommy keys...
+- Arthur: Yeah, yeah. Very funny.
+- {Convo ends.}
+- Grumpy but effective. There are worse ways to be.
+- Arthur: Very true.
+- I don't know, I think it'd be pretty awesome.
+- Arthur: Speak for yourself.
+- {Continues as above from "Arthur: To be fair-"}
+- Who knows how many more universes there could be out there?
+- More versions of you? Me? Us?
+- Arthur: Poor sods.
+- Maybe there's one where we're dating...
+- Arthur: I repeat: Poor sods.
+- {Convo ends.}
+- If it makes you feel better, I bet there's at least *one* where you won the fight. :P
+- Arthur: Har, har.
+- {Convo ends.}
+- Raise one for all the Alternate Arthurs and Different Drifters.
+- Arthur: I can drink to that.
+- We'll see about that.
+- Arthur: Something to look forward to.
+- {Continues as above from "Arthur: Anyway. Seriously-"}
+- Technically, I'm not in your head.
+- I'm just driving your body.
+- Arthur: Nope. Still weird, and I still hate it when you say it.
+- {Continues as above from "Arthur: Anyway. Seriously-"}
+- Just me and the kid that I know of.
+- {Continues as above from "Arthur: That you know of?"}
+
+### Conversation 3 (What's it like, Duviri?)
+
+- Arthur: What's it like, Duviri?
+- It's shit.
+- Arthur: Never mind.
+- {Convo ends.}
+- It has its upsides.
+- Arthur: Like what?
+- It can be beautiful. Breathtaking, even.
+- Through all the bullshit, all the nonsense, it's like nowhere else I've ever seen.
+- Arthur: Didn't you say it was a world from a book?
+- Yeah. "Tales from Duviri." The Void snatched it from me. From what I am.
+- While dying repeatedly.
+- Until apathy set in.
+- Arthur: {If previously refused to talk of Duviri.} I have a hard time believing you ever gave in to apathy.
+- People change.
+- Arthur: I'd like to hear the story.
+- Maybe, but...not today.
+- {Convo ends.}
+- No thanks.
+- {Convo ends.}
+- Hate to burst your bubble.
+- {Continues as above from "Arthur: I'd like to hear-"}
+- Arthur: {If previously accepted to talk of Duviri.} I'm still really curious about that.
+- And I still really don't want to talk about it.
+- Arthur: Fair. Another time, then.
+- {Convo ends.}
+- You don't like it when I want to talk about *your* dirty laundry.
+- Arthur: Fair. Another time, then.
+- {Convo ends.}
+- Sometimes it's better to leave rocks un-flipped. But fine. If you won't let it go.
+- Arthur: So, apathy? It's hard to believe.
+- I ran out of other emotions.
+- Arthur: O...kay. Never mind.
+- {Convo ends.}
+- I got bored.
+- Arthur: O...kay. Never mind.
+- {Convo ends.}
+- Short answer? Time.
+- Arthur: O...kay. Never mind.
+- {Convo ends.}
+- I don't care if you believe me.
+- That's the upside of apathy.
+- Not *caring*.
+- Because after a while...I realized that was the only armor I had left.
+- Joy, sorrow, anger, envy, fear, it was all defeat.
+- So I embraced the nothing. The spiral of apathy. The *indifference.*
+- Arthur: But you broke the cycle--the spiral.
+- I had help from the Lotus.
+- Then I repaid them by saving their damn system. And...now I'm here. Trying to save this one.
+- Arthur: You haven't had an easy time of it.
+- Yeah, but you know what? I'm not in it alone this time. I'm not going to take that for granted.
+- Arthur: I could drink to that.
+- {Convo ends.}
+- That's life.
+- Arthur: You're tellin' me.
+- {Convo ends.}
+- I can't do this right now. [End.]
+- {Convo ends.}
+- I guess I decided I wanted a nice view.
+- {Continues as above from "While dying repeatedly."}
+- There's a freedom that comes from familiarity. It's hard to describe.
+- I know every rock. Every tree. Every hanging lantern.
+- There are no surprises anymore, for better or worse. That can be comforting as much as it can be soul-sucking.
+- Arthur: Soul-sucking?
+- The only thing worse than suffering is apathy.
+- {If previously accepted to talk of Duviri, continues as above from "Arthur: I'm still really curious-"}
+- {If previously refused to talk of Duviri, continues as above from "Arthur: I have a hard time-"}
+- ...Moody.
+- Arthur: What do you mean?
+- Literally moody. As in the whole thing has *moods.*
+- Arthur: Like one of those colour-changing rings?
+- If one of those rings could kill you -repeatedly - yes.
+- Arthur: Mm, jury's out. I don't trust them. The rings, that is.
+- Arthur: We were told to trust computers, too - look how that turned out.
+- Well, at least computers are real.
+- Arthur: Duviri isn't real?
+- I mean...it's complicated. Things can come in and out of it.
+- So I guess it's real enough.
+- But it's based on...things that *aren't* real.
+- At what point does a story become reality?
+- When you believe in it enough?
+- Or when it starts to believe in *you?*
+- Arthur: My head hurts.
+- Welcome to Duviri.
+- Arthur: You're starting to make a lot more sense.
+- Arthur: Little by little.
+- {Convo ends.}
+- You can see why I don't really like talking about it much.
+- {Continues as above from "Arthur: You're starting-"}
+- Well, at least here you have *real* company.
+- People to talk to. Share the experiences with.
+- The good, bad...
+- You're not alone with just... our stories and imaginary friends.
+- Stories that the Void gave life and turned against you.
+- And made kill you over, and over, and over...and over...
+- Arthur: I can see why you don't like to talk about this much.
+- I kind of went numb over the years.
+- Arthur: Why does that feel worse in its own right?
+- Arthur: We've all met that old soldier, who died on a battlefield -
+- Arthur: - long before he stopped walking and breathing.
+- I don't know many soldiers.
+- Not really.
+- Arthur: Right. I forget. You carry yourself like one.
+- Arthur: Well. I guess you know some now, hm?
+- Arthur: Like you said. At least, you're not alone.
+- One kind of death you can come back from.
+- The other you can't.
+- Arthur: Too true, Drifter. Too true.
+- Arthur: Sadly, most never do.
+- Yeah.
+- {Continues as above from "Arthur: Why does it feel-"}
+- It's a long story.
+- Arthur: We'll do this another time, then.
+- {Convo ends.}
+- Duviri isn't any better. Trust me.
+- Arthur: How so?
+- It's a long story.
+- Arthur: We'll do this another time, then.
+- {Convo ends.}
+- Well, at least here you have *real* company.
+- {Continues as above from "People to talk to-"}
+- What color-changing rings?! I want a color-changing ring...
+- Arthur: Sol, you're bloody adorable sometimes.
+- Arthur: You come from the damn future, and you lose your mind over a cheap piece of colour-changing trash?
+- You know what? Life is full of miserable things. Why not enjoy the fun parts?
+- I'm not saying lose sight of all the serious things that matter, but.
+- Why not enjoy the silly things when you can?
+- You never know when you might not get another chance.
+- Arthur: That's shockingly deep. And a good point.
+- Thanks.
+- Arthur: As for Duviri, let's talk about that another time.
+- {Convo ends.}
+- I have my moments. :)
+- Arthur: As for Duviri, let's talk about that another time.
+- {Convo ends.}
+- I didn't go out much, remember?
+- Arthur: Fair.
+- Anyway, about Duviri.
+- Arthur: Right. You know what? Let's talk about it another time.
+- {Convo ends.}
+- Soooo...about those rings.
+- Arthur: Heh. I'm sure Amir knows where to find one.
+- Arthur: Sadly, they're not my area of expertise.
+- {Convo ends.}
+- It's hard to explain. I'd have to show it to you someday.
+- Arthur: I'd take you up on that - sounds like a trip in more ways than one. If it weren't for...
+- Arthur: Well...
+- You'd hate it anyway.
+- Arthur: You're probably right.
+- {Convo ends.}
+- The whole "the only way you can leave here is if I'm driving you" thing?
+- Arthur: Sol almighty, I hate it when you describe it like that.
+- {Convo ends.}
+
+### Conversation 4 (Hey, <James / Petersham / Arthur / Buddy>)
+
+- Drifter initiates the conversation, starting line:
+- Hey, Arthur.
+- Arthur: Yeah?
+- Actually, never mind. [End.]
+- {Convo ends.}
+- I'm curious about something. But I don't know if you'd be willing to talk about it.
+- Arthur: Ask. If I don't want to talk, I won't.
+- What brought you here? To Höllvania?
+- Arthur: Simple answer? Techrot.
+- What's the non-simple answer?
+- Arthur: Urgh. Look, mate.
+- Arthur: I'd...really rather not get into that.
+- Arthur: It's a long story. And it's not that I don't trust you, right?
+- Arthur: We've been through some strange things together.
+- Arthur: There's just a difference between fighting beside somebody…
+- No, I get it. Maybe some other time, then? After I buy you a few rounds first?
+- Arthur: Now you're getting it.
+- {Convo ends.}
+- Chicken. :)
+- Arthur: Sure.
+- {Convo ends.}
+- Great. We'll leave it there.
+- Arthur: Smart.
+- Longer answer another time? Over drinks, maybe?
+- Arthur: Now you're getting it.
+- {Convo ends.}
+- {If family was never previously discussed.} What was it like, growing up with Eleanor?
+- {Continues as above from "Arthur: Ugh. Look, mate.}
+- {If army history was never previously discussed.} What made you want to be a soldier?
+- {Continues as above from "Arthur: Ugh. Look, mate.}
+- {If skana was never previously discussed.} How'd you get that skana of yours?
+- Arthur: Simple answer? Entrati.
+- What's the non-simple answer?
+- {Continues as above from "Arthur: Ugh. Look, mate.}
+- Great. We'll leave it there.
+- {Continues as above from "Arthur: Smart."}
+- Hey, Buddy.
+- Arthur: No.
+- Never mind, then...
+- {Convo ends.}
+- Uh... Hey, Arthur?
+- Arthur: Better.
+- {Continues as above from "Arthur: Yeah?"}
+- {If James was correctly guessed as a middle name.} Hey, James.
+- Arthur: Oh, no no no.
+- Arthur: We are NOT doing that.
+- I was just joking around.
+- Arthur: Mmhm.
+- {Convo ends.}
+- Oh, come on. I think it's cute.
+- Arthur: I have a name already. And a lot of things are cuter than that.
+- Arthur: Bunnies. Puppies. Kittens.
+- You with a five o'clock shadow. ;)
+- Arthur: Flirting to change the subject?
+- Arthur: Nice tactic.
+- But it's just for fun.
+- The flirting or the nickname?
+- The nickname.
+- Arthur: Fine, you can use it. Just...keep it between us, all right?
+- Deal.
+- {Continues as above from "Arthur: Was there something-"}
+- No deal.
+- Arthur: Should've known.
+- {Convo ends.}
+- The flirting.
+- Arthur: Great. You're one of THOSE.
+- {Continues as above from "Arthur: Was there something-"}
+- ...Yes? I'm confused now.
+- Arthur: Sigh.
+- {Continues as above from "Arthur: Was there something-"}
+- Did it work?
+- Arthur: Sigh.
+- {Continues as above from "Arthur: Was there something-"}
+- {If Petersham was guessed as a middle name.} Hey, Petersham.
+- {Continues as above from "Arthur: Oh, no no no."}
+
+### Conversation 5 (So, about you and Aoi. / What's the deal with Aoi?)
+
+- Drifter initiates the conversation, starting line:
+- So, about you and Aoi.
+- Arthur: Yeah?
+- You know.
+- Arthur: I don't, actually.
+- How long have you known each other?
+- Arthur: Way back. We served together in the ICR. She's my best mate. Couldn't do any of this nonsense without her.
+- ICR?
+- Arthur: International Crisis Response. The "peace keeping" unit that got us into this shithole mess.
+- Arthur: We've been friends for a long time. Closer for longer than that.
+- Arthur: But if you're itching to ask more about our past, I'm going to have to stop you here. It isn't my story to tell.
+- Arthur: You'll have to ask her about it. But I'll warn you.
+- Arthur: Just don't be wearing a whole lot of metal near any important body parts when you do.
+- {Convo ends.}
+- Huh. Neat. [End.]
+- {Convo ends.}
+- Are you two dating?
+- Arthur: No.
+- So...you're saying she's single?
+- Arthur: Heh.
+- Arthur: You'll have to take that up with her.
+- Arthur: Just a word of advice.
+- Arthur: Be sure not to be wearing a whole lot of metal near any important bits when you do.
+- {Convo ends.}
+- *Were* you two dating?
+- Arthur: Some things aren't your business, you know.
+- My cue to back off?
+- Arthur: Yep.
+- Arthur: If you wanna pry?
+- {Continues as above from "Arthur: You'll have to take that-"}
+- Well, that's a yes.
+- Arthur: Final warning.
+- Arthur: Leave it alone.
+- Arthur if you wanna pry?
+- {Continues as above from "Arthur: You'll have to take that-"}
+- I guess this is just me asking in a round about way...if you're single.
+- Arthur: Me? I thought this was about Aoi?
+- She was just a decoy, I'm really more interested in you.
+- Arthur: Hm.
+- Arthur: Never pictured you for a flirt.
+- Does the flirting bother you? I'll stop if it does.
+- Arthur: If it really bothered me, you'd know. Trust me.
+- Arthur: But if you've got to make an arse out of yourself, do it here. No need to make a fool of yourself in front of the others.
+- {Convo ends.}
+- I haven't had a lot of practice, so I'm pretty bad at it, I know.
+- Arthur: Oh good, I'm a target dummy.
+- {Continues as above from "Arthur: But if you've got to-"}
+- I figured if I came out and asked you if *you* were single, you'd march over here and punch me.
+- Arthur: Am I really that unapproachable?
+- Arthur: Wait. Don't answer that.
+- Well?
+- Arthur: Sigh. Yes, I'm single.
+- Great! I mean, oh, what a shame.
+- Arthur: Hah. Just. Let me ask. On the stubborn scale of 1 to 10, how screwed am I?
+- I'm going to run you down like a kubrodon hunting a pobber on the Venusian plains.
+- Arthur: If I had any clue what literally any of that meant, I might know how to react.
+- Arthur: So I guess I'll take it as a compliment and move on.
+- {Convo ends.}
+- It's not serious. You're just too much fun to tease.
+- Arthur: Get in queue with everybody else.
+- {Convo ends.}
+- > Good to know. [End.]
+- {Convo ends.}
+- So?
+- {Continues as above from "Arthur: Sigh. Yes, I'm single."}
+- You don't have to tell me if you don't *want* to.
+- Arthur: Like you wouldn't be able to figure it out, given enough time. We all live in the same bloody mall.
+- {Continues as above from "Arthur: Sigh. Yes, I'm single."}
+- Uh oh looks like I need to do a forced software update might lose conne -- [End.]
+- {Convo ends.}
+- What's she like?
+- Arthur: Everybody thinks I'm in charge. Nope. I'm just the one they listen to. She's the real heart of the team.
+- Arthur: We'd all be long dead without her. Including me. Shit, mostly me.
+- How long have you known each other?
+- {Continues as above from "Arthur: Way back-"}
+- Are you two dating?
+- {Continues as above from "Arthur: No."}
+- ;) ;) ;)
+- Arthur: {If emoticons were previously discussed.} Oh, grow up.
+- {Convo ends.}
+- Arthur: {If emoticons were never previously discussed.} What?
+- Are you two dating?
+- {Continues as above from "Arthur: No."}
+- Those are winky faces.
+- Arthur: Oh, grow up.
+- {Convo ends.}
+- Never mind. [End.]
+- {Convo ends.}
+- What's the deal with Aoi?
+- Arthur: Can you be more specific?
+- You know.
+- {Continues as above from "Arthur: I don't, actually."}
+- What's she like?
+- {Continues as above from "Arthur: Everybody thinks-"}
+- ;) ;) ;)
+- Arthur: {If emoticons were previously discussed.} Oh, grow up.
+- {Convo ends.}
+- Arthur: {If emoticons were never previously discussed.} What?
+- Are you two dating?
+- {Continues as above from "Arthur: No."}
+- Those are winky faces.
+- Arthur: Oh, grow up.
+- {Convo ends.}
+- Never mind. [End.]
+- {Convo ends.}
+
+### Conversation 6 (Hey Arthur, what do you think / Arthur, I have a favor to ask)
+
+- Hey Arthur, what do you think about "Fables & Frontiers?"
+- Arthur: Oh, no...he got you, too?
+- He was just telling me about the game, and I said I'd ask people if they wanted to play.
+- Arthur: Pass, sorry. Better things to do in a warzone.
+- {Convo ends.}
+- He's already asked, I take it?
+- Arthur: Yes, and before you ask me, I've already said no.
+- {Convo ends.}
+- Arthur, I have a favor to ask for Amir.
+- Arthur: Oh?
+- He was telling me about this game he wants to play with everybody. Fables & Frontiers?
+- Arthur: He's on that again? I thought he gave up after Quincy started using the figurines for target practice.
+- I think it'd mean a lot to him if we played.
+- Arthur: How so?
+- He feels like the odd man out, sometimes. I think a "group game" would help him feel more like part of the pack.
+- Arthur: Hmm.
+- Arthur: All right...fine. I'm in. Just to try it - no long commitments.
+- Arthur: If it gets *weird* I'm out.
+- {Convo ends.}
+- I think showing interest in his interests would make him feel less like an outsider. Like people cared.
+- Arthur: We all have our hobbies. Pass, sorry.
+- {Convo ends.}
+- There's this dorky game he wants to play, I said I'd ask everybody to join.
+- Arthur: Don't tell me. It's that Frogs & Follies thing again?
+- LOL. Fables & Frontiers, yeah.
+- Arthur: I have better things to do in a warzone. Sorry.
+- {Convo ends.}
+- Yeah, I'm just asking to make him happy.
+- Arthur: I have better things to do in a warzone. Sorry.
+- {Convo ends.}
+
+### Conversation 1 (Hey <Arthur / Sexy>)
+
+- DISCLAIMER: This conversation presents a cyclical structure based on Drifter choices, and despite the contributors' best efforts, some sections may be unclear. Feel free to refer to the flowchart image at the end of this conversation, for a more comprehensive visual flow.
+- Hey Arthur.
+- Arthur: Yes?
+- {If skana was previously discussed.} I know your past is a touchy subject, but...
+- I'm still really curious about that skana.
+- Arthur: Ask. Nothing's stopped you before.
+- The red bandana that's tied to the blade. Whose was it?
+- Arthur: {If favorite color was previously mentioned.} Nobody. It's my favourite colour, remember?
+- Great.
+- Arthur: Good.
+- Arthur: Leave it alone.
+- Arthur: I get it. You're trying to make friends. Get to know me.
+- Arthur: And I'm not making it easy on you.
+- Arthur: There are some cans of worms I'm not bloody willing to open for you yet.
+- Arthur: This is one of them.
+- Didn't mean to upset you.
+- Arthur: I'm not upset.
+- Arthur: No grudges held. I'm not an easy man to get along with, sometimes. Sol knows a lot of people around here have learned that lesson...
+- Arthur: I'm just not the easily sharing type. But maybe we'll get there, someday.
+- Can I ask how you got the skana in the first place?
+- Arthur: The hard way.
+- Wow. Foreboding.
+- Arthur: I get to be dramatic when I earned the sword by getting stabbed with it.
+- Arthur: Courtesy of Doctor E. Ran me straight through.
+- *Ouch.*
+- Arthur: I had stronger words for it at the time.
+- Arthur: But we'll go with that.
+- Thanks, Arthur.
+- Arthur: Anytime. Well, almost anytime.
+- {Convo ends.}
+- Jerk.
+- {Continues as above from "Arthur: I had stronger-"}
+- Ouch.
+- {Continues as above from "Arthur: Courtesy of Doctor E-"}
+- Here's a toast to Someday, then.
+- {Convo ends.}
+- Okay, okay...sorry.
+- Arthur: No need to apologize.
+- {Continues as above from "Arthur: No grudges held-"}
+- Sheesh, didn't think you'd make such a big deal out of this.
+- Arthur: Knobhead.
+- {Convo ends.}
+- Why do I get the feeling that's not the truth?
+- Arthur: I don't particularly care.
+- {Continues as above from "Arthur: Leave it alone."}
+- Arthur: {If favorite color was never previously mentioned.} Nobodies. It's my favourite colour.
+- Great.
+- {Continues as above from "Arthur: Good."}
+- Why do I get the feeling that's not the truth?
+- {Continues as above from "Arthur: I don't particularly care."}
+- How'd you get it?
+- Arthur: The hard way.
+- Wow. Foreboding.
+- Arthur: I get to be dramatic when I earned the sword by getting stabbed with it.
+- Arthur: Courtesy of Doctor E. Ran me straight through.
+- *Ouch.*
+- Arthur: I had stronger words for it at the time.
+- Arthur: But we'll go with that.
+- The red bandana tied on it. Who did it belong to?
+- Arthur: {If favorite color was previously mentioned.} Nobody. It's my favourite colour, remember?
+- Great.
+- Arthur: Good.
+- Arthur: Leave it alone.
+- Arthur: I get it. You're trying to make friends. Get to know me.
+- Arthur: And I'm not making it easy on you.
+- Arthur: There are some cans of worms I'm not bloody willing to open for you yet.
+- Arthur: This is one of them.
+- Didn't mean to upset you.
+- Arthur: I'm not upset.
+- Arthur: No grudges held. I'm not an easy man to get along with, sometimes. Sol knows a lot of people around here have learned that lesson...
+- Arthur: I'm just not the easily sharing type. But maybe we'll get there, someday.
+- Here's a toast to Someday, then.
+- {Convo ends.}
+- Okay, okay...sorry.
+- Arthur: No need to apologize.
+- {Continues as above from "Arthur: No grudges held-"}
+- Sheesh, didn't realize you'd make such a big deal out of this.
+- Arthur: Knobhead.
+- {Convo ends.}
+- Why do I get the feeling that's not the truth?
+- Arthur: I don't particularly care.
+- {Continues as above from "Arthur: Leave it alone."}
+- Arthur: {If favorite color was never previously mentioned.} Nobodies. It's my favourite colour.
+- Great.
+- {Continues as above from "Arthur: Good."}
+- Why do I get the feeling that's not the truth?
+- {Continues as above from "Arthur: I don't particularly care.}
+- Thanks, Arthur.
+- Arthur: Anytime. Well, almost anytime.
+- {Convo ends.}
+- Jerk.
+- {Continues as above from "Arthur: I had stronger-"}
+- Ouch.
+- {Continues as above from "Arthur: Courtesy of Doctor E-"}
+- Actually, never mind. [End.]
+- {Convo ends.}
+- {If skana was never previously discussed.} That skana of yours, I'm really curious about it.
+- {Continues as above from "Arthur: Ask. Nothing's stopped you before."}
+- Hey Sexy.
+- Arthur: ... Excuse me?
+- Hah, only joking.
+- Arthur: Sigh.
+- Arthur: What did you want?
+- {If skana was previously discussed.} I know your past is a touchy subject, but...
+- {Continues as above from "I'm still really curious-"}
+- {If skana was never previously discussed.} That skana of yours, I'm really curious about it.
+- {Continues as above from "Arthur: Ask. Nothing's stopped you before."}
+- Do you prefer "handsome?"
+- Arthur: Try again.
+- Ruggedly manly?
+- Arthur: Okay, now I know you're pulling my leg.
+- Sorry. I'm done.
+- {Continues as above from "Arthur: What did you want?"}
+- Maybe I'm being sincere?
+- Arthur: Are you?
+- No.
+- {Continues as above from "Arthur: Sigh."}
+- Honestly? Yes.
+- Arthur: You have a very odd way of letting a man know you find him attractive.
+- I don't have a lot of practice at this.
+- So pardon me for flailing.
+- Arthur: {If previously flirted.} I know, I know. And you've already tried.
+- Arthur: Bless your stubborn heart for consistency, I suppose.
+- I am *extremely* stubborn, that's true.
+- Arthur: But be honest, am I doomed here?
+- Very. Very doomed. :P
+- Arthur: Heh. Good to know. Something to look forward to.
+- {Convo ends.}
+- Mmm, I'm keeping my options open.
+- Arthur: Points for honesty.
+- {Convo ends.}
+- Is it working this time?
+- Arthur: This time? No. But.
+- {Continues as above from "Arthur: But be honest-"}
+- Arthur: {If never previously flirted.} I... well, if you're serious, now's not the right time, but...
+- Arthur: Rain check?
+- Rain check. :)
+- Arthur: All right then. I'm going to go off and have a serious think.
+- {Convo ends.}
+- I'll pass. Sorry. [End.]
+- {Convo ends.}
+- You aren't exactly the easiest person to approach, Arthur.
+- So I'm trying to break through the ice any way I can.
+- Arthur: {If previously flirted.} I know, I know. And you've already tried.
+- {Continues as above from "Arthur: Bless your stubborn heart-"}
+- Arthur: {If never previously flirted.} I... well, if you're serious, now's not the right time, but...
+- {Continues as above from "Arthur: Rain check?-"}
+- Forget it.[End.]
+- {Convo ends.}
+- Distinguished?
+- Arthur: Please give up.
+- Sorry I'm done.
+- {Continues as above from "Arthur: What did you want?"}
+- Maybe I'm being sincere?
+- {Continues as above from "Arthur: Are you?"}
+- Cute?
+- Arthur: Please give up.
+- Sorry I'm done.
+- {Continues as above from "Arthur: What did you want?"}
+- Maybe I'm being sincere?
+- {Continues as above from "Arthur: Are you?"}
+- {If 'Petersham' was previously guessed as a middle name.} Well, I could call you *Petersham* if you prefer.
+- Arthur: No. Hard no.
+- You're no fun.
+- Arthur: Sure.
+- Arthur: Whatever you say.
+- {Continues as above from "Arthur: What did you want?"}
+
+### Conversation 2 (Ever sit there and think)
+
+- Arthur: Ever sit there and think about how many people you've killed?
+- I try not to.
+- Arthur: I played that game for a while. But they find a way in.
+- Do you need to talk?
+- Arthur: I thought I did. Though I might be changing my mind.
+- Why?
+- Arthur: This is the bit I never understood. How do you start talking about this kind of bullshit?
+- I'll go first, then.
+- I try not to think too much about what I've had to do to get through life. Because I don't have anybody to talk about it.
+- I only had myself to talk to.
+- I've never even really had friends. You and the others are the closest I've ever come to… belonging somewhere.
+- How sad is that?
+- At least you've had the option to talk if you've wanted to. But hey. If you need me? I'm here.
+- Arthur: I'm not sure I like it when you make sense.
+- Arthur: I can't do this today. But thanks. This… means a lot.
+- {Convo ends.}
+- I won't force you to talk if you don't want to.
+- Arthur: Thanks. We'll try this another time.
+- {Convo ends.}
+- Not my job to figure that out for you.
+- {Convo ends.}
+- Good call. [End.]
+- {Convo ends.}
+- Truth.
+- {Continues as above from "Arthur: This is the bit I never-"}
+- Eh, you seem to have done all right.
+- Arthur: Too kind.
+- {Convo ends.}
+- What a way to start a conversation.
+- Arthur: Heh. They don't promote soldiers for social skills.
+- Do you need to talk?
+- {Continues as above from "Arthur: I though I did-"}
+- Truth.
+- {Continues as above from "Arthur: This is the bit I never-"}
+- Eh, you seem to have done all right.
+- Arthur: Too kind.
+- {Convo ends.}
+- I think about it like a high score.
+- Arthur: Whatever gets you through the nights, I suppose.
+- {Convo ends.}
+- Sometimes. Usually when I'm trying to sleep.
+- Arthur: Like counting sheep, right?
+- What's a… "sheep?"
+- Arthur: Sol, that's bloody adorable. Thanks for the laugh.
+- {Convoe ends.}
+- Worst. Sheep. Ever.
+- Arthur: Sol, I feel that.
+- {Convo ends.}
+
+### Conversation 3 (How'd you wind up here / So, why join the ICR?)
+
+- Drifter initiates the conversation, starting line:
+- How'd you wind up here in the first place?
+- Arthur: Joined up with the ICR.
+- The what?
+- Arthur: International Crisis Response.
+- Arthur: Basically, a neutral, peace-keeping organisation that's supposed to deploy military units as a last resort.
+- > Supposed to?
+- Arthur: Mmhm.
+- > Why join with them?
+- Arthur: I lost the taste for serving in the Britannic army.
+- > Why?
+- Arthur: I took offense to their methodology, let's say.
+- > Can you give me more than that?
+- Arthur: I could.
+- > I get the feeling this is a touchy subject.
+- Arthur: It is.
+- Arthur: Everybody has their shit. Their painful shrapnel they'd rather not dig out.
+- > I'm just trying to get to know you more.
+- Arthur: I know. I'm not mad. I'm just not ready to spill, yet. Another time.
+- > So, why join the ICR?
+
+### Conversation 4 (So, how'd you wind up in Duviri)
+
+- Arthur: So, how'd you wind up in Duviri in the first place?
+- That's... a really easy question with a really hard answer.
+- Arthur: Well, I'm listening.
+- > Winding up in an imaginary-turned-real Void realm isn't like walking to the corner store.
+- It's not exactly a short story.
+- (jump to Arthur: Good thing I'm sitting, then.)
+- My other option was to lose my mind.
+- Arthur: What?
+- It's a long story. A really long story.
+- Arthur: Good thing I'm sitting, then.
+- All right, all right... Buckle up.
+- Arthur: If the emotions are what hurts, keep it to the facts. Let's start there.
+- Arthur: We'll cover the squishy bits another time. Deal?
+- Easier said than done with Duviri, but.. deal.
+- We're all made up of the stories we're taught.
+- Arthur: How so?
+- The stories we learn changes the world around us. In my case it's literal.
+- (jump to But I'm getting ahead of myself)
+- The Man in the Wall is a lying, murdering bastard.
+- Arthur: Hell of a way to start. I don't disagree, mind you. But hell of a way to start.
+- > It's what it all comes back to in the end. That *thing* that haunts us.
+- > But I'm getting ahead of myself.
+- > The Void made our parents go insane. They were trying to eat us, Arthur. Then that *thing* showed up. Offered us powers.
+- > Said the powers would save us all. But he didn't mean me.
+- > I was left behind.
+- > Two important things about the Void: One. It makes you go nuts.
+- > Two: "Conceptual Embodiment." It takes things from your head and makes them real.
+- > We had a book of stories written by Entrati's daughter about how not to go nuts in the void. And my mind snapped back to those.
+- > So. Why did I go to Duviri?
+- > Because the Man in the Wall wanted to play games. Because everybody has abandoned me my entire life.
+- > I went to Duviri because I didn't have a choice. Because the people there that the Void made? They were my friends, even if they weren't real.
+- > Until those friends became my nightmares.
+- > And began executing me again, and again, and again..
+- > So. Yeah. *That's* how I wound up in Duviri, Arthur.
+- Because of the Man in the Wall. And Albrecht. And the Orokin. And all the stupid games everybody plays.
+- Arthur: I... feel like I just opened up a serious can of worms.
+- Orowyrms, actually.
+- Arthur: What?
+- > Never mind.
+- Arthur: Well, it sounds like I owe you a drink...
+- Arthur: I feel like we'll be discussing this whole Duviri thing again.
+- I warned you.
+- Arthur: That you did.
+- Arthur: Well, it sounds like I owe you a drink...
+- Arthur: I feel like we'll be discussing this whole Duviri thing again.
+
+### Conversation 5 (Did you have a family growing up?)
+
+- Arthur: "Did you have family growing up?"
+- Do you mean, did I have parents?
+- Arthur: I meant more like siblings. Cousins. Etc.
+- {If previously confirmed having siblings or never mentioned siblings at all.} I had a sibling.
+- Arthur: Had?
+- There's a reason I don't like the Man in the Wall.
+- It... It wasn't pretty. Why're you asking?
+- Arthur: Eleanor. She's driving me up the wall and I didn't know how much you'd understand.
+- What's she doing?
+- Arthur: It's more about what she's not doing.
+- Arthur: There's an anniversary that we've... celebrated is the wrong word.
+- Arthur: Commiserated. Every year.
+- Arthur: And she missed it this year. She never does.
+- Can I ask what you were supposed to be commiserating?
+- Arthur: It's not really my story to tell, it's hers.
+- Arthur: We lost someone who was important to both of us.
+- Have you talked to her about missing the date?
+- Arthur: No. And I honestly couldn't tell you why. Instead, I'm here talking to you.
+- Maybe now that everything in your lives have changed, you want to let it go? Maybe she does, too?
+- Arthur: Maybe. Maybe it is time to move on from the past. Which is ironic, considering your situation.
+- Eh, there's a difference between choosing to stay and being trapped. Trust me.
+- Arthur: Heh. Well. Thanks, all the same.
+- You going to tell me what all this was about?
+- Arthur: I will. Just... when I've had some time to think.
+- {Convo ends.}
+- I like the view, what can I say?
+- {Continues as above from "Arthur: Heh. Well-"}
+- Oh... I'm sorry.
+- Arthur: It happens.
+- {Convo ends.}
+- This has been a... pretty messed up year, to be fair. Maybe she just forgot?
+- Arthur: She didn't forget.
+- {Continues as above from "Arthur: We lost someone-"}
+- Have you just asked her about it?
+- Arthur: No.
+- Why not?
+- Arthur: I... don't know.
+- I assume whatever this event that you're commiserating was painful.
+- {Continues as above from "> Maybe now that everything-"}
+- Well, I'm not your therapist. [End.]
+- {Convo ends.}
+- Then why're you bothering me? Go ask *her* what's up.
+- Arthur: Thanks for all the "advice," mate.
+- {Convo ends.}
+- She drives me nuts for a completely *different* reason. ;)
+- Arthur: AUGH. No. No, no, no! She's my SISTER!
+- Arthur: Don't you DARE!
+- She can invade my mind any time...
+- Arthur: AUUUGH!!
+- I'm just teasing you, XD
+- Arthur: *Sigh.* You have a sick sense of humour, mate.
+- I was left on my own too much.
+- Anyway. About Eleanor? What's she doing?
+- Arthur: Right. Well, now that I've managed to scrub my brain down with bleach, it's more about what she's not doing.
+- {Continues as above from "Arthur: There's an anniversary-"}
+- It's a gift.
+- {Continues as above from "Anyway. About Eleanor-"}
+- But seriously, about your sister -
+- {Convo ends.}
+- That *tongue* though...
+- Arthur: IN ALL THE NAMES OF SOL, STOP.
+- I'm just teasing you, XD
+- {Continues as above from "Arthur: *Sigh.* You have a sick-"}
+- But seriously, about your sister -
+- {Convo ends.}
+- Sorry, sorry, lol!
+- {Continues as above from "> I'm just teasing you, XD"}
+- {If currently dating Eleanor.} You know she and I are a "thing" right?
+- Arthur: I'm not looking for gossip, mate. Or to start any nonsense.
+- Arthur: I'm just worried about her is all.
+- What's the problem?
+- {Continues as above from "Arthur: There's an anniversary-"}
+- I'm not comfortable with this.
+- {Convo ends.}
+- I'm not a family therapist.
+- {Convo ends.}
+- I don't want to talk about it.
+- {Convo ends.}
+- {If previously denied having siblings or never mentioned siblings at all.} Oh. Not technically? But all us kids on the Zariman were basically raised together.
+- Why?
+- {Continues as above from "Arthur: Eleanor. She's driving me-"}
+- Like, brothers and sisters?
+- Arthur: Yeah. Siblings.
+- {If previously confirmed having siblings or never mentioned siblings at all.} I had a sibling.
+- {Continues as above from "Arthur: Had?"}
+- {If previously denied having siblings or never mentioned siblings at all.} Oh. Not technically? But all us kids on the Zariman were basically raised together.
+- Why?
+- {Continues as above from "Arthur: Eleanor. She's driving me-"}
+- No, I came from a test tube.
+- Arthur: ... Oh.
+- {Convo ends.}
+
+### Conversation 6 (Let's trade hostage facts.)
+
+- Arthur: Let's trade hostage facts.
+- LOL what?
+- Arthur: Heh. So. This is a game I used to play in the Britannic Army.
+- Arthur: You tell me an embarrassing fact about yourself, and I tell you one about myself.
+- Arthur: We hold each other's facts hostage.
+- Arthur: Hostage facts. It's a "trust exercise." I'll even go first.
+- Sure. Why not.
+- Arthur: Here's mine: I own a teddy bear named Sebastian.
+- Arthur: Now, before you get it in your head that I snuggle up with him at night, I don't.
+- Arthur: I found him on a mission, in a bombed out housing block, years ago.
+- Arthur: I keep him on a shelf. And when I've got nobody else to talk to?
+- Arthur: I talk to him. Ratty old fella. Keeps me from going nuts.
+- Can I hug Sebastian at some point?
+- Arthur: Don't see why not.
+- Arthur: Your turn.
+- On Duviri, I kept accidentally summoning my childhood bedroom because I wanted somewhere to hide.
+- I've lost track of how many bedrooms I summoned by the time I figured out how to get out of there.
+- Arthur: Dear Sol... I think you misunderstood the assignment here, mate.
+- Arthur: But, uh - thanks for trying.
+- {Convo ends.}
+- One time, when I was decapitated by Lodun, my head flew off so hard it wound up in a tree!
+- Do you know how long the head stays alive after it's been cut off? Because *I DO.* LOL
+- {Continues as above from "Arthur: Dear Sol...-"}
+- It took me six hundred and eighty-seven loops to learn how to properly ride a kaithe.
+- I started tallying all my broken bones. I think I still have the list somewhere.
+- {Continues as above from "Arthur: Dear Sol...-"}
+- No, I'll pass. But thanks for telling me about Sebastian.
+- Arthur: Should've known.
+- {Convo ends.}
+- That is... painfully adorable.
+- I think I just died a little.
+- You're full of surprises, Arthur.
+- Arthur: Heh.
+- {Continues as above from "Arthur: Your turn."}
+- ROFLMAO
+- Arthur: Yeah, yeah.
+- I might pee I'm laughing so hard! lol
+- Arthur: Yeah, I get it.
+- {Continues as above from "Arthur: Your turn."}
+- Normally, I think you're supposed to go to a ropes course... but fine.
+- {Continues as above from "Arthur: Here's mine-"}
+- Nah. I'm out.
+- Arthur: Suit yourself.
+- {Convo ends.}
+- The past is weird.
+- {Continues as above from "Arthur: Heh. So-"}
+
+### Conversation 1 (Hey, Drifter.)
+
+- Arthur: Hey, Drifter.
+- Arthur: What do you do for hobbies out there in space? In the future?
+- Me? Specifically?
+- Arthur: Yes you, specifically.
+- I...um...not a lot.
+- Arthur: Everybody's got something.
+- Well... reading. I did a lot of reading.
+- The stories I kept in my head were the only things I was allowed to keep on Duviri.
+- Everything else would disappear when it looped.
+- And when I was alone on the Zariman, the people on the page were the only friends I had.
+- Now? I play games with Ordis. And read. And... still keep to myself, really.
+- Arthur: Shit.
+- Arthur: So, hey. Look.
+- Arthur: I'm a pretty decent cook.
+- Arthur: {If previously refused the square spaghetti.} What I'm trying to say is - would you like to learn to cook? It's a great hobby.
+- Are you offering to loan me a book?
+- Arthur: No, daftie. I'm offering to teach you.
+- Oh! Yeah! I'd like that. :)
+- Arthur: It's a plan, then.
+- {Convo ends.}
+- I'd love that. But can you wear one of those cute aprons? And... maybe only the apron? ;)
+- Arthur: Heh. Don't push your luck.
+- {Convo ends.}
+- Um. Nah. I'm good.
+- Arthur: Suit yourself.
+- {Convo ends.}
+- Pass. Thanks. [End.]
+- {Convo ends.}
+- {If previously accepted the square spaghetti.} I ate the square spaghetti, Arthur. That is a LIE.
+- Arthur: LOOK. I said I was sorry!
+- {Continues as above from "Arthur: What I'm trying to say-"}
+- {If previously accepted the square spaghetti.} TWO WORDS. SQUARE. SPAGHETTI.
+- Arthur: LOOK. I said I was sorry!
+- {Continues as above from "Arthur: What I'm trying to say-"}
+- Nothing. I died a lot. Thanks for reminding me. [End.]
+- {Convo ends.}
+- Why?
+- Arthur: So sue me for showing a little interest in *you* for a change.
+- Well... reading. I did a lot of reading.
+- {Continues as above from "The stories I kept-"}
+- Nothing. I dies a lot. Thanks for reminding me. [End.]
+- {Convo ends.}
+- Oops! There's a bee in here! BRB! [End.]
+- {Convo ends.}
+- What do you do for fun?
+- I'm asking you, first.
+- I...um...not a lot.
+- {Continues as above from "Arthur: Everybody's got something."}
+- Why?
+- {Continues as above from "Arthur: So sue me for showing-"}
+
+### Conversation 2 (I'm worried about Eleanor)
+
+- Arthur: I'm worried about Eleanor.
+- She can handle herself.
+- Arthur: Sometimes, I'm not so sure.
+- Arthur: She was born two minutes before me at a minute to midnight, and she thinks she's a hundred years wiser.
+- Arthur: She's hurting. And she's alone. And when she's like that...she goes dark.
+- Arthur: And I don't mean normal dark. "Crystals and cards and ghosts" dark. I mean *pit of the void* dark.
+- And you're worried someday she won't come back?
+- Arthur: I am. I can't lose her.
+- She's stronger than you give her credit for.
+- Arthur: Trust me, I know how proper tough she is.
+- Arthur: Anybody even half an ounce less capable would've snapped in half by now.
+- Then trust her to come to you if she needs help.
+- Arthur: Maybe. But this is also something she's never had to deal with before.
+- Arthur: And I can't stand the idea of her dealing with this on her own.
+- Have you told her *that* word for word?
+- Arthur: ...No. I don't suppose I have.
+- {Convo ends.}
+- Some people want to deal with things on their own. Have you asked if she even *wants* help?
+- Arthur: ... No. I don't suppose I have.
+- {Convo ends.}
+- This is a lot to adjust to--she'll be fine.
+- {Continues as above from "Arthur: Maybe. But this is-"}
+- I'll help keep an eye on her.
+- Arthur: Thanks. That means a lot.
+- When I use Transference on Eleanor, I can hear what she hears. I don't blame her for having dark moments.
+- Arthur: I didn't even think about that...of course you can.
+- Arthur: Is she...okay?
+- As okay as she can be, when her own brother doesn't know how to talk to her anymore.
+- Arthur: ...Ouch.
+- Arthur: Deserved, but...ouch.
+- Arthur: What should I do?
+- Talk to her on here. Hard to read minds through text.
+- Arthur: Good idea. I'll try that. Thanks, mate.
+- {Convo ends.}
+- I'd march up to her and give her a hug, personally. Let your emotions do the talking.
+- Arthur: Might be overdue for one of those. Thanks, friend.
+- {Convo ends.}
+- Just...be patient. If she needs you, she'll let you know. Some people need to heal on their own.
+- Arthur: Fair point. Thanks, friend.
+- {Convo ends.}
+- As okay as someone can be, when her friends treat her like a monster.
+- Arthur: That is...very fair.
+- Arthur: Hard to be the outcast amongst freaks.
+- {Continues as above from "Arthur: What should I do?"}
+- She can hear every thought of everybody around her--and she has to try to keep a straight face. I'd go dark now and again, too.
+- Consider what Quincy thinks about when he thinks nobody's paying attention.
+- Arthur: I'd really rather not.
+- Arthur: But point taken.
+- {Continues as above from "Arthur: What should I do?"}
+- I mean, that's your job as her brother.
+- Arthur: Try telling that to *her.*
+- Okay, brb.
+- Arthur: Oh for f-- I didn't mean that bloody literally, mate.
+- {Continues as above from "Arthur: She was born two minutes-"}
+- I'm assuming you don't mean that literally.
+- Arthur: No, I don't mean that bloody literally, mate.
+- {Continues as above from "Arthur: She was born two minutes-"}
+- She knows.
+- Arthur: I know she knows, that's the damn *problem.*
+- So?
+- Arthur: I just don't know how to help her anymore.
+- Arthur: We've always been on the same wavelength. Twins and all.
+- Arthur: It's one thing when you're twins and share wavelength. It's another thing when she's literally *in* your thoughts.
+- Can I make a suggestion?
+- Arthur: Go for it.
+- Have you tried talking to her in this text app?
+- Hard to read your mind that way. And sometimes it's easier to communicate in text. Case in point, look at us.
+- Arthur: I...no. I didn't think of that.
+- Arthur: I'm going to try that. Thank you.
+- {Convo ends.}
+- Have you tried telling her how hard it is to tell her how hard it is to tell her how you feel?
+- Okay, that sounded a lot smarter in my head.
+- Arthur: I admit that did make me laugh, though.
+- Arthur: So, good job on at least cheering me up a bit.
+- Arthur: And I've tried that, but it doesn't work. She just shuts me out.
+- Hmm...have you tried texting her in the app?
+- Sometimes it's easier to express yourself in text, anyway. Less pressure. Easier to think.
+- And that's when your twin *can't* read your mind.
+- Arthur: And...now I feel like a total knobhead.
+- Arthur: I'll do that.
+- {Convo ends.}
+- I'd trust her to know when she needs help. She'll come to you if she does.
+- Arthur: She's my sis. I can't just let her suffer. I'll think of something on my own.
+- {Convo ends.}
+- She'll be fine.
+- Arthur: I'm not so sure. I don't think any of us can understand what she's going through.
+- {Convo ends.}
+- Yeah, not gonna lie, it creeps me out.
+- Arthur: She can't help it. And right now, we're her only friends.
+- Have you tried talking to her in this text app?
+- {Continues as above from "Hard to read your mind-"}
+- Have you tried telling her how hard it is to tell her how hard it is to tell her how you feel?
+- {Continues as above from "Okay, that sounded-"}
+- She'll be fine.
+- Arthur: I'm not so sure. I don't think any of us can understand what she's going through.
+- {Convo ends.}
+- I dunno, I think it's kinda hot.
+- She can invade my mind anytime... :P
+- Arthur: AUGH
+- Arthur: She's my SISTER you BLOODY PSYCHOPATH.
+- Arthur: Forget I started this damn conversation!
+- {Convo ends.}
+- I'm...not following.
+- Arthur: How do you help someone who can see past your words?
+- I can see why that'd make things harder...
+- Listening to your intentions rather than your words.
+- Maybe that's more honest, but...complicated. Harder to convince her.
+- Arthur: Exactly. It's like she's got the bloody stage directions and I don't.
+- Have you tried talking to her in this text app?
+- {Continues as above from "Hard to read your mind-"}
+- Have you tried telling her how hard it is to tell her how hard it is to tell her how you feel?
+- {Continues as above from "Okay, that sounded-"}
+- She'll be fine.
+- Arthur: I'm not so sure. I don't think any of us can understand what she's going through.
+- {Convo ends.}
+- Wouldn't that make it easier?
+- Arthur: When I need her to listen to reason, all she hears is *motives* and *feelings.*
+- Yikes.
+- {Continues as above from "Arthur: Exactly. It's like-"}
+- How is that a bad thing?
+- Arthur: You clearly haven't spent enough time talking to her, then. It's like she's got the bloody stage directions and I don't.
+- Have you tried talking to her in this text app?
+- {Continues as above from "Hard to read your mind-"}
+- Have you tried telling her how hard it is to tell her how hard it is to tell her how you feel?
+- {Continues as above from "Okay, that sounded-"}
+- She'll be fine.
+- Arthur: I'm not so sure. I don't think any of us can understand what she's going through.
+- {Convo ends.}
+- BRB [End.]
+- {Convo ends.}
+
+### Conversation 3 (Any words of advice)
+
+- Arthur: Any words of ad vice for someone string down ternity in a sodding time loop?
+- Where do I even start?
+- Arthur: Well?
+- Honestly, it's probably best not to think about.
+- Arthur: Ca n't stop. Trid.
+- Shit. I've been there.
+- Arthur: that's why I you've been through this
+- Arthur: i need to know about duviri. everything. I needto know what if felt like.
+- Arthur: wjat you went through
+- Arthur: I kneed to know what's waiting for me
+- Arthur: Please.
+- It was so easy to give in to the sorrow.
+- Arthur: sadness is a poison
+- Exactly. It eats you. Dissolves you. Leaves you broken and hollow.
+- Takes away all color from the world. But it's also... safe. Simple. Easy.
+- Like a warm, cozy blanket long gone cold.
+- It's an easy thing to clutch to in the darkness.
+- But when all that fades away, something else takes over.
+- Something worse. Something more insidious.
+- Something that worms its way into you and eats you whole.
+- Apathy.
+- Arthur: bollocks
+- {If apathy was previously discussed.} after everything yu told me you went through?
+- apathy sonds like the only way to stay sane
+- But at what price?
+- Don't let go of what you feel. Not now, not ever.
+- It's what makes us human.
+- Not our bodies, not whether or not we can be Transferred into or whatever.
+- It's emotions. All of them. The good and the bad.
+- Fear. Joy. Anger. Envy. Sorrow. Even a little apathy now and then is fine.
+- Don't ever, *ever* give them up, Arthur.
+- Feel everything. Every second of it. That's how you survive this. And you have something I never did.
+- Arthur: waht?
+- Me.
+- You aren't alone. I'm here with you.
+- Arthur: i... oh. im way too drunk not to tyep something stupid.
+- Arthur: we shoudl stop now, but...rain check.
+- Arthur: an drifter? seriously, thanks.
+- Get some rest.
+- Arthur: good advice
+- Anytime, A.
+- Arthur: night
+- Friends.
+- You're surrounded by six people who care about you.
+- Who are going through the same thing.
+- And we can carry each other when we need it.
+- Arthur: i... ur right
+- Arthur: shit, i need to go lie down. you're right. i'm too drunk for this.
+- {Continues as above from "Arthur: an drifter-"}
+- Family.
+- You're surrounded by six people who believe in you.
+- {Continues as above from "Who are going through-"}
+- I thought so, too.
+- But don't let go of what you feel. Not now, not ever.
+- {Continues as above from "It's what makes us human."}
+- Arthur: {If apathy was never previously discussed.} apathy can't be worse than that
+- Don't wish away your feelings.
+- {Continues as above from "Don't let go of-"}
+- Trust me. It is.
+- {Continues as above from "Don't let go of-"}
+- I know it's frightening.
+- Arthur: sod off I'm not scared
+- I'm not insulting you, that's just a *fact.*
+- This shit is *horrifying.*
+- And fear leaks into everything else. And it starts to make you lash out.
+- It turns into pain. Into agony. And then it turns into loneliness.
+- {Continues as above from "But when all that fades-"}
+- For a while, I pasted a joyful smile on my face and pretended it was fine.
+- Arthur: what? why?
+- Because fake happiness was better than anything else.
+- Because if I let that smile slide, then *everything else* would creep in.
+- The pain. The loneliness.
+- The joy was just a cheap facade.
+- {Continues as above from "But when all that fades-"}
+- I was so envious of the people who weren't abandoned.
+- Arthur: the other tenno?
+- Hell, even our dead parents. Anybody. Anybody who wasn't *me.*
+- Because then I wouldn't have to deal with the pain. The loneliness.
+- The fact I was trapped *forever.*
+- I wanted to be anyone else. Anywhere else. So very badly.
+- {Continues as above from "But when all that fades-"}
+- I was just so damn *angry.*
+- Arthur: at what?
+- Not what. *Who.*
+- Angry at the ones who weren't abandoned. Angry at my parents. Angry at the Orokin.
+- Angry at everyone, it didn't matter. Angry at everyone because. It. Was. Their. Fault.
+- And most importantly? Furious at myself.
+- {Continues as above from "But when all that fades-"}
+- You're a little messed up right now, aren't you?
+- Arthur: Sod of, yu w anker.
+- {Convo ends.}
+- Let's start with: How drunk are you right now?
+- Arthur: Not drnk.
+- Arthur: k mybe
+- Be honest.
+- Arthur: ok fine
+- You're sure you want to talk about this right now?
+- Arthur: only way I feel up to tlking a bout it
+- {Continues as above from "Arthur: i need to know-"}
+- If Duviri had booze, I'd have done the same thing.
+- {Continues as above from "Arthur: that's why I you've-"}
+- Can't say I blame you.
+- If Duviri had booze, I'd have done the same thing.
+- {Continues as above from "Arthur: that's why I you've-"}
+- Are you okay?
+- Arthur: No, I am nt bloody *okay.*
+- Arthur: Don't fragging patr
+- Arthur: patronize me.
+- Okay! Okay, sorry. Sorry.
+- {Continues as above from "> Let's start with-"}
+- Wake up on the wrong side of the bed this morning?
+- Arthur: Bugger off. Never mind.
+- {Convo ends.}
+- Nope. I'm not doing this. [End.]
+- {Convo ends.}
+
+### Conversation 4 (Drifter.)
+
+- Arthur: Drifter.
+- Sup?
+- Arthur: You've been patient enough with me. If you still want that story of why I left the Britannic army... I probably owe it to you twice by now.
+- If you're sure.
+- Arthur: I'm sure.
+- Arthur: Everybody joins the army for a different reason. For me, I joined for... honor. For purpose.
+- Arthur: I wanted to be a hero, like a Sol-damned fool.
+- Arthur: Point being, I went in with big, grandiose ideas of what it meant to be a Soldier.
+- Arthur: To protect Prince and Principality.
+- Arthur: But I learned how much of a lie that really was.
+- Oh?
+- Arthur: Your role as a soldier isn't to THINK. It's to follow orders.
+- Arthur: No matter what.
+- Arthur: So, when I got sent in behind contested lines and told to kill all "potential enemy combatants"?
+- Arthur: I did what a good soldier does. I followed orders.
+- Oh no...
+- Arthur: Yeah.
+- Arthur: I don't know how many innocent lives we put in the ground that day.
+- Arthur: But it was too many.
+- Arthur: When I went around demanding answers to why we'd just slaughtered innocents, the Brass threatened me with a dishonorable discharge.
+- Arthur: Shut up. Do your job. Shoot your gun. Kill like a good soldier.
+- Arthur: Don't. Ask. Questions.
+- Arthur: They were right. I shouldn't have been asking questions. I'm shit at getting to the bottom of things.
+- Arthur...
+- Arthur: No, let me finish. I'M shit at getting at the bottom of a mystery. But you know who isn't?
+- Arthur: And who worked as a Journo?
+- Arthur: And had connections to every major paper at the time?
+- Arthur: *Eleanor.*
+- Arthur: So the deal was simple. Let me out on early retirement or the lid gets blown wide open. I wasn't important enough for them to care. They let me walk without a fuss after that.
+- It wasn't your fault, what happened.
+- Arthur: If I had a pound for every time Eleanor's said that to me...
+- Have you ever tried listening to her?
+- Arthur: Now you really are starting to sound like her.
+- Arthur: The thing with twins, is that no matter how far away you get from them?
+- Arthur: They're still right there with you. Even when you're three thousand miles away behind enemy lines.
+- Arthur: They find a way to weave their way into your lives.
+- Are you okay?
+- Arthur: It'll be all right. I always am.
+- You don't have to be okay.
+- Arthur: I appreciate that. It's a rough story. And one for another day.
+- {Convo ends.}
+- Um... bullshit?
+- Arthur: Heh. You're right. That was bullshit. But it's a story for another day.
+- {Convo ends.}
+- Is there something else you're not telling me?
+- Arthur: Always.
+- Do you... want to talk about it?
+- Arthur: No. Not right now. Sorry.
+- {Convo ends.}
+- Story for another time?
+- Arthur: Yeah, mate. Sorry.
+- {Convo ends.}
+- Ooh, we could afford to put in a hot tub!
+- Arthur: HAH.
+- Arthur: Sigh.
+- {Continues as above from "Arthur: The thing with twins-"}
+- So you joined the ICR after that?
+- Arthur: I did. And fell into exactly the same naïve trap. I trusted leadership to care about civvies.
+- Arthur: Murder all possible infested innocents, no matter if it's true or not.
+- Arthur: I just... couldn't. And neither could the rest of the Hex. And so - here we are.
+- Doing the right thing is always the hardest choice.
+- Arthur: Print that on a mug...
+- {Convo ends.}
+- I'm sorry you've had to go through all this.
+- Arthur: Thanks.
+- {Convo ends.}
+- But -
+- {Continues as above from "Arthur: No, let me finish-"}
+- I think I can see where this is going...
+- Arthur: Doesn't take a genius.
+- {Continues as above from "Arthur: I don't know how many-"}
+- What happened?
+- {Continues as above from "Arthur: Your role as a soldier-"}
+- I have to go. [End.]
+- {Convo ends.}
+- I'm all ears.
+- {Continues as above from "Arthur: Everybody joins the army-"}
+- No, thanks.
+- {Convo ends.}
+- Yeah, man?
+- {Continues as above from "Arthur: You've been patient enough-"}
+- {If Petersham was previously guessed as middle name.} What's up Petersham?
+- Arthur: I am already regretting this...
+- Couldn't help it sorry. :P You were saying?
+- Arthur: Heh.
+- {Continues as above from "Arthur: You've been patient enough-"}
+- {If James was previously guessed as middle name.} What's up, James?
+- {Continues as above from "Arthur: I am already-"}
+
+### Conversation 5 ("Well, now I have the answer)
+
+- Arthur: Well, now I have the answer to why you're hanging around here so much.
+- Arthur: When you could simply just go back to the future and stay there.
+- Jealous?
+- Arthur: {If previously flirted.} I know I left you hanging, while I've tried to sort things out. But given out situation, I think I had every right to take some time.
+- Arthur: I suppose I'm surprised is all.
+- Yeah, well, I got sick of waiting.
+- Arthur: So, do you just go about confessing your feelings to everybody and seeing who bites the lure?
+- Arthur: {If currently dating Aoi.} Or are your feelings for Aoi *actually* legitimate?
+- Arthur: Because if any of us deserve to be happy, it's her.
+- My relationship is real. I promise.
+- Arthur: I sincerely hope so. For all our sakes.
+- Arthur: Oh. And mate?
+- Arthur: You can forget about anything ever happening between us. We can stay friends, but that's all it'll be.
+- Arthur: I'm sure you *understand.*
+- {Convo ends.}
+- No, it's you I really have feelings for... I just gave up hope.
+- Arthur: So you're just stringing them along?!
+- I mean, I can have feelings for more than one person.
+- Arthur: Sure, but I can't. And I'm not comfortable with this.
+- {Continues as above from "Arthur: You can forget about-"}
+- Yeah... ?
+- Arthur: Deplorable.
+- {Continues as above from "Arthur: You can forget about-"}
+- Arthur: {If currently dating Eleanor.} Or are your feelings for Eleanor *actually* legitimate?
+- Arthur: Because if you hurt her, I'm not responsible if she decides to scramble your brain.
+- My relationship is real. I promise.
+- {Continues as above from "Arthur: I sincerely hope so-"}
+- No, it's you I really have feelings for... I just gave up hope.
+- {Continues as above from "Arthur: So you're just stringing-"}
+- Arthur: {If currently dating Amir.} Or are your feelings for Amir *actually* legitimate?
+- Arthur: The last thing that man needs is to have his confidence in himself shaken again.
+- My relationship is real. I promise.
+- {Continues as above from "Arthur: I sincerely hope so-"}
+- No, it's you I really have feelings for... I just gave up hope.
+- {Continues as above from "Arthur: So you're just stringing-"}
+- Arthur: {If currently dating Lettie.} Or are your feelings for Lettie *actually* legitimate?
+- Arthur: Because she hurts enough without you adding onto the pile, mate.
+- My relationship is real. I promise.
+- {Continues as above from "Arthur: I sincerely hope so-"}
+- No, it's you I really have feelings for... I just gave up hope.
+- {Continues as above from "Arthur: So you're just stringing-"}
+- Arthur: {If currently dating Quincy.} Or are your feelings for Quincy *actually* legitimate?
+- Arthur: That man doesn't let people in. You screw that up, it might be the last time he does.
+- My relationship is real. I promise.
+- {Continues as above from "Arthur: I sincerely hope so-"}
+- No, it's you I really have feelings for... I just gave up hope.
+- {Continues as above from "Arthur: So you're just stringing-"}
+- I figured you didn't have feelings for me in return.
+- Arthur: I never said that.
+- Arthur: {If currently dating Aoi.} But I'm happy for you and Aoi.
+- Arthur: If any one of us idiots deserves to be happy, it's her.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I still had feelings for you?
+- {Continues as above from "Arthur: Deplorable."}
+- Arthur: {If currently dating Eleanor.} But I'm happy for you and Eleanor.
+- Arthur: She deserves peace. I hope you can bring her some.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I still had feelings for you?
+- {Continues as above from "Arthur: Deplorable."}
+- Arthur: {If currently dating Amir.} But I'm happy for you and Amir.
+- Arthur: He could use the confidence having a partner can bring.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I still had feelings for you?
+- {Continues as above from "Arthur: Deplorable."}
+- Arthur: {If currently dating Lettie.} But I'm happy for you and Lettie.
+- Arthur: She needs someone she can share the pain with. Not just physical, either.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I still had feelings for you?
+- {Continues as above from "Arthur: Deplorable."}
+- Arthur: {If currently dating Quincy.} But I'm happy for you and Quincy.
+- Arthur: He needs to learn to let someone in now and then.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I still had feelings for you?
+- {Continues as above from "Arthur: Deplorable."}
+- Arthur: {If never previously flirted.} Should I be?
+- {If currently dating Aoi and aware of their past relationship.} I know you and Aoi used to be more than friends...
+- Arthur: I'm not jealous, Drifter.
+- Arthur: Sad, maybe. Watching you make her happy in a way I never could.
+- Arthur: But that's the thing. She's happy when she's with you.
+- Arthur: If there's one of us knobheads that deserves to be happy, it's her.
+- Arthur: So, do me a favour, if you could? Try not to break her heart if you can help it.
+- I'll do my best.
+- Arthur: All I can ask.
+- {Convo ends.}
+- No promises.
+- Arthur: Speaking of knobheads...
+- {Convo ends.}
+- {If currently dating Aoi and unaware of their past relationship.} I know you and Aoi are friends.
+- Arthur: Hm.
+- {Continues as above from "Arthur: If there's one of us knobheads-"}
+- {If currently not dating Aoi.} No.
+- Arthur: Good to have that sorted.
+- Arthur: {If currently dating Eleanor.} I'm happy for you and Eleanor.
+- Arthur: She deserves peace. I hope you can bring her some.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I have feelings for you?
+- Arthur: Deplorable. Stringing someone along like that - someone who trusts you?
+- Arthur: I'll do you a favour and keep this between us, mate - in hopes that this is your dark sense of humor showing up again.
+- {Continues as above from "Arthur: You can forget about-"}
+- Arthur: {If currently dating Amir.} I'm happy for you and Amir.
+- Arthur: He could use the confidence having a partner can bring.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I have feelings for you?
+- {Continues as above from "Arthur: Deplorable. Stringing someone-"}
+- Arthur: {If currently dating Lettie.} I'm happy for you and Lettie.
+- Arthur: She needs someone she can share the pain with. Not just physical, either.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I have feelings for you?
+- {Continues as above from "Arthur: Deplorable. Stringing someone-"}
+- Arthur: {If currently dating Quincy.} I'm happy for you and Quincy.
+- Arthur: He needs to learn to let someone in now and then.
+- I'll do my best not to screw this up.
+- Arthur: All I can ask.
+- {Convo ends.}
+- What if I said my relationship was a lie, and I have feelings for you?
+- {Continues as above from "Arthur: Deplorable. Stringing someone-"}
+- {If currently not dating Aoi.} You're the one I *really* have feelings for.
+- {Continues as above from "Arthur: Deplorable. Stringing someone-"}
+- What do you mean?
+- Arthur: {If currently dating Aoi.} I'm happy for you and Aoi.
+- {If aware of their past relationship.} I know you and Aoi used to be more than friends...
+- {Continues as above from "Arthur: I'm not jealous, Drifter."}
+- {If currently dating Aoi and unaware of their past relationship.} I know you and Aoi are friends.
+- Arthur: Hm.
+- {Continues as above from "Arthur: If there's one of us knobheads-"}
+- Arthur: {If currently dating Eleanor.} I'm happy for you and Eleanor.
+- {Continues as above from "Arthur: She deserves peace-"}
+- Arthur: {If currently dating Amir.} I'm happy for you and Amir.
+- {Continues as above from "Arthur: He could use the confidence-"}
+- Arthur: {If currently dating Lettie.} I'm happy for you and Lettie.
+- {Continues as above from "Arthur: She needs someone she can share-"}
+- Arthur: {If currently dating Quincy.} I'm happy for you and Quincy.
+- {Continues as above from "Arthur: He needs to learn-"}
+- Oh, grow up.
+- {Convo ends.}
+
+### Conversation 6 (Arthur, about that Fables & Frontier game / Hey Arthur. Amir is putting together)
+
+- {If Fables & Frontiers was never previously mentioned.} Hey Arthur. Amir is putting together a game of Fables & Frontiers, and it'd mean a lot to both of us if you'd join.
+- Arthur: Really? Why's it so important?
+- He feels like the odd man out - the non-military one, the nerd, kind of on the outside. It'd mean a lot to him if we all sat down and played one of his games with him.
+- Arthur: Yeah... that's fair. All right, I'll play. Count me in.
+- Arthur: At least for one night, to see how it goes.
+- {Convo ends.}
+- I think it'd be a lot of fun, and a good bonding experience for all of us.
+- Arthur: We have very different definitions of *fun.* Sorry, pass.
+- Arthur: You kids enjoy yourself, though.
+- {Convo ends.}
+- {If Fables & Frontiers was never previously mentioned.} Hey, do you want to play Fables & Frontiers with Amir and I? I think it'll be fun.
+- {Continues as above from "Arthur: We have very different-"}
+- {If Fables & Frontiers invitation was previously declined.} Arthur, about that Fables & Frontiers game - it'd mean a lot to both Amir and I if you play.
+- {Continues as above from "Arthur: Really? Why's it so important?"}
+- {If Fables & Frontiers invitation was previously declined.} Hey Arthur - I know you already said no to that game of Fables & Frontiers, but I think it'll be fun.
+- {Continues as above from "Arthur: We have very different-"}
+
+### Conversation 1 (Answer me something, Drifter.)
+
+- Arthur: Answer me something, Drifter.
+- All right.
+- Arthur: You're free. You can leave. Go anywhere. Anywhere but *here.*
+- Arthur: We're the past. Dead and gone.
+- Arthur: Just pieces of a memory or bits of data in one of Amir's games.
+- Arthur: We don't matter anymore. And maybe we never did.
+- Arthur: So I gotta know.
+- Arthur: Why would you ever keep coming back, when you had the choice to leave?!
+- {If currently dating Arthur.} For you. For us. For what we have.
+- Do you think I'm just here with you, what, killing time?!
+- Arthur. I *care* about you. I care about all of the Hex, but you most of all.
+- So of *course* I stay here with you.!
+- How can you even ask me that?
+- So I can't leave you behind. This place. This time. With *you?*
+- It's the first place that's ever... felt like home.
+- Arthur: It isn't sad.
+- Arthur: Okay, it's a little sad.
+- Arthur: But I owe you an apology, love... And a pint.
+- Arthur: I... sometimes try to find enemies where there aren't any. And I... didn't realize how much we meant to you.
+- Arthur: How much I meant to you. And that's on me. C'mon. Let's go get a drink.
+- {Convo ends.}
+- {If currently dating Arthur.} The pizza is great. So, I like the food?
+- {If previously accepted the square spaghetti.} Square spaghetti not withstanding... ;)
+- Arthur: Oh for Sol's sake...
+- Arthur: Love, I'm being serious.
+- But it's not a serious question. How could you ask me that?
+- It's obvious why I'm here. For *you.* For the Hex. Because you're my family.
+- Because you matter to me more than I can put into words.
+- So, no. This place, this time? With *you,* Arthur? This is my home.
+- Arthur: I owe you a pint, love. And one of those pizzas.
+- {Continues as above from "Arthur: I... sometimes try-"}
+- Arthur: {If previously refused the square spaghetti.} Love, I'm being serious.
+- {Continues as above from "> But it's not a serious-"}
+- {If currently dating Arthur.} I don't have time for this. [End.]
+- {Convo ends.}
+- {If not currently dating Arthur.} If you'd prefer I leave, then just tell me.
+- Arthur: Don't put words in my mouth.
+- I'm sorry I want to be your friend?
+- Arthur: You have something I never have. Freedom.
+- Arthur: Or are we like pets to you? Some sort of sideshow attraction maybe?
+- Arthur: So what is it? Pity? Or are you stupid as well as crazy?
+- Arthur: Stop dodging! Why. Are. You. Still. Here?!
+- {If previously dated Arthur.} Because despite of the fact it didn't work out between us, I still *care* about you and the rest of the Hex like family.
+- Arthur: I...
+- Arthur: My temper's always been my worst enemy. Let me make it up to you over a pint?
+- Go sit and spin, Arthur.
+- Arthur: Yep, sounds just like family to me...
+- {Convo ends.}
+- Sure. You're forgiven. This time.
+- Arthur: Thanks, mate.
+- {Convo ends.}
+- {If previously dated Arthur.} Because I still have feelings for you, that's why!
+- Arthur: {If currently dating another Hex member.} How can you be telling me this, while you're stringing someone else along?!
+- Arthur: {If currently dating Eleanor.} If you don't tell Eleanor soon, she'll find out on her own.
+- Arthur: For your own safety I'd recommend telling her. But just so you know?
+- Arthur: I accepted you leaving me for the better twin, but... this? There'll be no taking you back.
+- Arthur: Deplorable.
+- {Convo ends.}
+- Arthur: {If currently dating Amir.} You need to tell Amir. It's not fair to him.
+- Arthur: He's got enough to cope with as it is without dealing with your games.
+- Arthur: Deplorable.
+- {Convo ends.}
+- Arthur: {If currently dating Quincy.} Do you know how rare it is for Quincy to trust someone? To really let someone in?
+- Arthur: You're proving all his worst suspicions about the world right.
+- Arthur: Deplorable.
+- {Convo ends.}
+- Arthur: {If currently dating Lettie.} Lettie's supposed to be with someone who helps share the burden.
+- Arthur: Not bloody add to the pain.
+- Arthur: Deplorable.
+- {Convo ends.}
+- Arthur: {If currently dating Aoi.} Aoi deserves better than you.
+- Arthur: You failed her.
+- Arthur: Deplorable.
+- {Convo ends.}
+- Arthur: {If not currently dating another Hex member and Arthur was never previously offended.} I...
+- Arthur: That's flattering...
+- Arthur: But if you want to give this another go, we should talk this through in person.
+- {Convo ends.}
+- Arthur: {If not currently dating another Hex member and Arthur was previously offended.} Rich.
+- Arthur: Real rich.
+- Arthur: After what you've pulled? That won't work on me.
+- Arthur: Not anymore.
+- Arthur: Sod off.
+- {Convo ends.}
+- {If never previously dated Arthur.} You want to know why?! Because you're the first FAMILY I've ever had!
+- If caring makes me crazy, or stupid, so be it.
+- That's why I keep coming back. Because that's what family *does.*
+- Arthur: I....
+- {Continues as above from "Arthur: My temper's always-"}
+- {If never previously dated Arthur.} Because I have feelings for you, you ASSHAT.
+- {If currently dating another Hex member.} {Continues as above from "Arthur: How can you be telling me-"}
+- Arthur: {If not currently dating another Hex member.} I....
+- Arthur: Oh.
+- Arthur: Shit.
+- That's all you've got to say?
+- Arthur: No - I mean - I need to go think. I'm sorry.
+- {Convo ends.}
+- And that's a "no thanks." Great.
+- Arthur: No - I mean - I need to go think. I'm sorry.
+- {If never previously dated Arthur.} I keep coming back because I...have feelings for you.
+- {If currently dating another Hex member.} {Continues as above from "Arthur: How can you be telling me-"}
+- Arthur: {If not currently dating another Hex member.} I....
+- Arthur: Oh.
+- Arthur: I've got to go think for a bit.
+- {Convo ends.}
+- I'm done with this. [End.]
+- {Convo ends.}
+- Why're you so angry at me?
+- {Continues as above from "Arthur: You have something-"}
+- I like it here. End of story. End of conversation. [End.]
+- {Convo ends.}
+- {If not currently dating Arthur.} The pizza is great. So, I like the food?
+- {If previously accepted the square spaghetti.} Square spaghetti not withstanding...
+- Arthur: Sol's sake, let that go! And don't change the subject.
+- {Continues as above from "Arthur: Stop dodging-"}
+- Arthur: {If previously refused the square spaghetti.} You can do better than that.
+- {Continues as above from "Arthur: Stop dodging-"}
+- {If not currently dating Arthur.} I feel special here.
+- Arthur: Only important person in a world of might-as-well-be-corpses? Charming.
+- That's not what I meant.
+- Arthur: Then what *did* you mean?
+- {Continues as above from "Arthur: Stop dodging-"}
+- You got that right. [End.]
+- {Convo ends.}
+- No. [End.]
+- {Convo ends.}
+
+### Conversation 3 (Hey Drifter, I've been thinking.)
+
+- Arthur: Hey Drifter, I've been thinking.
+- Yeah?
+- Arthur: I wanted to ask you something.
+- Go for it.
+- Arthur: All those times you've flirted with me.
+- Arthur: Were they just cheap lines?
+- Arthur: Shit you said for a lark?
+- Arthur: Or did you mean it?
+- Honestly? I... can't stop thinking about you.
+- Arthur: If you're messing with me, I'll break both your damn ankles.
+- I swear I'm not.
+- Arthur: Good.
+- Arthur: Because...
+- Arthur: It's mutual.
+- You just threatened to break my ankles!
+- Arthur: I never said I was always fun to put up with.
+- Arthur: Anyway.
+- Arthur: Relationships with men like me aren't easy.
+- Arthur: For a long time, I considered myself already dead.
+- Arthur: And when I became infected, even more so.
+- Arthur: But when I met you? I don't know. I felt, for the first time, like I really had someone who I could share the weight with.
+- Arthur: I felt like I could shut my eyes for even just a moment and everything would be okay.
+- Arthur: With you here, I can breathe.
+- Arthur: And I...find myself smiling more. Laughing more.
+- Arthur: And I have you to thank for it.
+- Arthur: So. I was wondering.
+- Arthur: Would you like to make a go at this? You and I?
+- I'd...love nothing more. [Date Arthur.]
+- Arthur: This is going to take some getting used to, but...what's life without a bit of risk?
+- Arthur: Though I feel like the others won't let me hear the end of this. :)
+- They really are going to gossip.
+- Arthur: You know what? Let them. It'll give them something to do.
+- Arthur: I don't quite know what to say.
+- Arthur: Except that for the first time in a long time, I think I'm happy.
+- Arthur: Thanks, Sweets
+- {Convo ends.}
+- Did... did you just use an emoticon...?
+- Arthur: I believe I did.
+- Someone go get Lettie!
+- Arthur: Don't make me regret this.
+- You laughed. I know you did.
+- Arthur: *Anyway.*
+- {Continues as above from "Arthur: I don't quite know-"}
+- ;)
+- Arthur: *Anyway.*
+- {Continues as above from "Arthur: I don't quite know-"}
+- I'm weirdly and sincerely flattered.
+- {Continues as above from "Arthur: Don't make me regret this."}
+- Are you... asking to date me?
+- Arthur: Yes, you utter berk. What did you think I was asking you?
+- Sorry, sometimes I need help translating wherever-the-hell-you're-from.
+- Arthur: Maybe someday I'll take you there. You'd love it.
+- Arthur: And about my question. You and I. What do you think? Want to "date?"
+- I'd...love nothing more. [Date Arthur.]
+- {Continues as above from "Arthur: This is going to take some-"}
+- I'm sorry. I'm not ready for this. [Do not date Arthur.]
+- Arthur: I respect that. No hard feelings. Let me know if you change your mind.
+- {Convo ends.}
+- Hell no. [Do not date Arthur.]
+- Arthur: You could've just told a man no, for Sol's sake.
+- {Convo ends.}
+- I'm sorry. I'm not ready for this. [Do not date Arthur.]
+- Arthur: I respect that. No hard feelings. Let me know if you change your mind.
+- {Convo ends.}
+- Hell no. [Do not date Arthur.]
+- Arthur: You could've just told a man no, for Sol's sake.
+- {Convo ends.}
+- Seriously?
+- Arthur: I know I'm a tough read. I just...had to be sure.
+- Arthur: Look.
+- {Continues as above from "Arthur: Relationships with men like me-"}
+- :D :D :D
+- Three emoteethingies must mean something good.
+- You are so adorable.
+- Arthur: Yeah, yeah. So, fair warning.
+- {Continues as above from "Arthur: Relationships with men like me-"}
+- Emoticons.
+- Arthur: Yeah, yeah. So, fair warning.
+- {Continues as above from "Arthur: Relationships with men like me-"}
+- Hahah sorry! Yeah, it's just how we joke around in the future. [End.]
+- Arthur: The future has a sick sense of humour.
+- {Convo ends.}
+- I mean...yeah. Have you *seen* yourself?
+- Arthur: Is it all just good looks to you?
+- No...sorry. That's just a shield. The truth is, I honestly can't stop thinking about you.
+- {Continues as above from "Arthur: If you're messing with me-"}
+- Yeah?
+- Arthur: Then I suggest you spend your time talking to Quincy instead.
+- {Convo ends.}
+- No, I was just playing around. :/
+- Arthur: Thanks for the honesty.
+- {Convo ends.}
+- This is making me uncomfortable. [End.]
+- {Convo ends.}
+- Maybe later? [End.]
+- Arthur: Ok.
+- {Convo ends.}
+- Uh oh.
+- Arthur: No, nothing bad this time.
+- {Continues as above from "Arthur: I wanted to ask you something."}
+- I thought I smelled smoke.
+- Arthur: Hah.
+- {Continues as above from "Arthur: I wanted to ask you something."}
+- Busy. Can't talk right now. [End.]
+- {Convo ends.}
+
+### Conversation 4 (Sweets, can I ask you something?)
+
+- Arthur: Sweets, can I ask you something?
+- Of course.
+- Arthur: Everything you've told me of the future...
+- Arthur: Entrati.
+- Arthur: The Man in the Wall.
+- Arthur: The Sentients.
+- Arthur: Tau.
+- Arthur: Someday - and someday soon, I feel like the future will need you.
+- What're you trying to say?
+- Arthur: I'm saying that sooner or later, you're going to go home and leave us here.
+- Are you telling me to leave?
+- Arthur: No. I'm saying that I feel like it's inevitable. Someday you *will* leave.
+- Travel isn't permanent. I can come and go.
+- Arthur: Right. And someday you'll walk through that portal and never come back.
+- Why're you so angry with me for no reason?
+- Arthur: This is a valid concern.
+- Arthur: Either you get sick of us and leave, or something horrible happens.
+- Something horrible?
+- Arthur: You might die in the future, and I'd...never know.
+- Arthur: I just...I have this recurring nightmare of you...
+- Arthur: Laying in a puddle of blood on some distant planet, killed by some...alien robot, or mutated...whatever.
+- Arthur: And I wouldn't have been there to save you.
+- Arthur: And before you claim "I promise I won't go," you're lying.
+- Arthur: Because I know you. And I know if you get that call, you're going. You'll do the right thing.
+- Arthur: That's who you are.
+- Arthur: But the idea of it doesn't scare me. I'm not lying about that.
+- Arthur: Because whatever the thought of you dying does to me, it's somehow far, far worse than that.
+- Arthur: I don't even know if it has a name.
+- Then I vow I will always fight tooth and nail to come back to you.
+- Arthur: That's the most I can ask for. And maybe take me with you if you ever find a way.
+- I promise.
+- {Convo ends.}
+- I can't do this to you. I can't. We need to end this now. [Break up with Arthur.]
+- Arthur: I...yeah. You're right. This is for the best.
+- {Convo ends.}
+- I...don't know what to say.
+- Arthur: Just tell me you'll try not to die out there. Or at least take me with you if you ever find a way.
+- I promise.
+- {Convo ends.}
+- I can't do this to you. I can't. We need to end this now. [Break up with Arthur.]
+- Arthur: I...yeah. You're right. This is for the best.
+- {Convo ends.}
+- I can't do this to you. I can't. We need to end this now. [Break up with Arthur.]
+- Arthur: I...yeah. You're right. This is for the best.
+- {Convo ends.}
+- Thanks for the vote of confidence...
+- {Continues as above from "Arthur: You might die in the future-"}
+- I repeat: Why are you angry at me for no reason?
+- Arthur: I'm being serious.
+- No, you're not. You're looking for an excuse.
+- You want a reason to push me away. You want a reason to not have to *care.*
+- People die. People disappear. That's called *life.*
+- It happens to anyone, at any time. Nothing is ever certain.
+- Whether or not they're freaks of from the future or not.
+- So stop making *excuses* and tell me what's *really* bothering you, Arthur.
+- {Continues as above from "Arthur: I just...I have this-"}
+- I'm not having an argument with you over something that isn't real. [End.]
+- {Convo ends.}
+- Says who?
+- Arthur: Says common sense.
+- Common sense? Or fear?
+- Arthur: I'm not afraid. I was fine before you. I'll be fine after you.
+- So, what's the problem, exactly?
+- Since I clearly don't matter to you?
+- Arthur: That's not what I meant.
+- Do you want me to leave? Or stay?
+- Arthur: I want you to stay.
+- Arthur: And I'm...worried someday you'll leave and...never come back.
+- {Continues as above from "Arthur: I just...I have this-"}
+- What *did* you mean?
+- Arthur: First thing's first. You matter to me.
+- {Continues as above from "Arthur: You might die in the future-"}
+- Hey look on the bright side, you'll be the best Excalibur again if I go.
+- Arthur: Oh, *sod off.*
+- {Convo ends.}
+- I don't want to leave, Arthur.
+- So why are you pushing me away?
+- Arthur: I'm not.
+- Then what the *hell* do you call this?
+- Arthur: This is called an adult conversation.
+- No, this is called you looking for excuses.
+- You don't want to get hurt, and I understand that. I respect that.
+- But people disappear all the time. Normal people.
+- People die all the time. Normal people.
+- You don't have to be a freak or from the future for that to happen.
+- So stop searching for reasons to push me away.
+- If you want this to end, just end it. Don't blame it on me someday "disappearing."
+- Arthur: No...sorry.
+- Arthur: You're right.
+- Arthur: I don't deal well when I'm the one trapped in the past and you're the one rushing off into battle to save the world.
+- No kidding.
+- {Continues as above from "Arthur: I just...I have this-"}
+- I'd feel the same in your shoes.
+- {Continues as above from "Arthur: I just...I have this-"}
+- I don't have any plans to leave. And that's the best I can do right now.
+- Arthur: And that's supposed to be enough?
+- You don't want to get hurt, and I understand that. I respect that.
+- {Continues as above from "But people disappear-"}
+- Yeah. And it should be enough.
+- Because I might be from the future, but I can't predict it, Arthur.
+- I don't know what the future holds for us.
+- But right now? I want to be here with you.
+- {Continues as above from "So stop searching for reasons-"}
+- LOL
+- Arthur: I'm being serious.
+- Arthur: You could disappear at any time. You could get sick of us or die. And I'd never know.
+- Stop looking for excuses.
+- You don't want to get hurt, and I understand that. I respect that.
+- {Continues as above from "But people disappear-"}
+- Yeah. And it should be enough.
+- {Continues as above from "Because I might be from the future-"}
+- So do you want me to stay? Or leave?
+- Arthur: I...don't know.
+- I think you don't want to get hurt.
+- Arthur: Can you blame me?
+- Of course not.
+- But I think you need to figure out if you're okay with this relationship.
+- Because, yeah. Someday, something MIGHT happen.
+- That's called life.
+- Sometimes, people don't come back.
+- {Continues as above from "Arthur: I don't deal well-"}
+- That doesn't mean I'm going to intentionally disappear.
+- Arthur: Intentionally.
+- Something might happen. I can't promise otherwise.
+- {Continues as above from "That's called life."}
+- Let me know when you figure it out. [End.]
+- {Convo ends.}
+- This is asinine. [End.]
+- {Convo ends.}
+- Screw the future. I never belonged there.
+- Arthur: Are you telling me that if "The Lotus" came calling, you wouldn't go running?
+- Arthur: You wouldn't charge off to save the universe again?
+- The future's in good hands. They don't need me. This place does.
+- Arthur: We need your help with what? Viktor Vodyanoi? Please.
+- Arthur: I've seen what the future's ups against.
+- Arthur: I can handle some Techrot and some overzealous military goons.
+- I don't want to leave. So what do you want me to say?
+- Arthur: I don't know.
+- All right, let's start over. Can you tell me what's really bothering you?
+- Arthur: I just keep...having this nightmare, where you're gone.
+- Arthur: Where I couldn't save you.
+- Arthur: And... I can't stand the thought of it.
+- I don't think anybody's ever worried about *me* before.
+- That might be the...sweetest thing I've ever heard.
+- Not that you're worried about me--I don't want that.
+- But that you *care.*
+- I can't promise I'll always make it back alive.
+- But I can promise I'll fight tooth and nail every single time to do so.
+- Arthur: That's the most a soldier - and a man - can ask for. Thanks, sweets.
+- {Convo ends.}
+- Remember, *I'm* the better fighter, here. I don't need saving.
+- Arthur: Yeah. Screw me for caring.
+- {Convo ends.}
+- > Well, let me know when you figure it out. I'm done with this conversation. [End.]
+- Fine. Then the truth is? Ironically, I can't predict the future.
+- Arthur: Then I'll ask again. If you get pulled away: would you come back?
+- If I could, of course. Why would you assume otherwise?
+- Arthur: Too much time expecting the worst of people.
+- Arthur: I'm jumping at shadows.
+- {Continues as above from "Arthur: I just keep...having this-"}
+- After this conversation? I'm thinking not.
+- Arthur: Well, better we end this now, rather than later, I suppose.
+- {Convo ends.}
+- I...yeah. I'm sorry. I'd have to go, if the universe was at stake.
+- Arthur: Honesty. Thank you.
+- Arthur: Would you come back?
+- I would fight tooth and nail to make it back to you.
+- My home is here, with you.
+- Arthur: But you're a soldier, like me. And sometimes soldiers don't come home.
+- The good news is, I'm really hard to kill.
+- Arthur: Heh. Yeah. I know.
+- Arthur: I suppose it's hard to ever know how much time we have.
+- Arthur: Best to just...cherish what we've got.
+- {Convo ends.}
+- Yeah. And that's just...how it goes, sometimes.
+- Arthur: I'll hold onto the dream of retirement.
+- Arthur: I suppose it's hard to ever know how much time we have.
+- Arthur: Best to just...cherish what we've got.
+- {Convo ends.}
+- Meh.
+- Arthur: Well. Better to find out this was a mistake *now* rather than *later.* I'm ending this between us.
+- {Convo ends.}
+- I gtg. [End.]
+- {Convo ends.}
+- I gtg. [End.]
+- {Convo ends.}
+- Can we chat later? [End.]
+- {Convo ends.}
+
+### Conversation 5 (Hey, <love / Drifter>. Is now finally a good time to talk about Duviri?)
+
+- {If currently dating Arthur.} Arthur: Hey, love. Is now finally a good time to talk about Duviri?
+- I suppose I've dodged this long enough.
+- Arthur: I know it's a rough topic, but...
+- Yeah... yeah. It's time. You deserve to know.
+- {If currently dating Arthur.} Arthur: That means a lot, love.
+- Arthur: I care about you. Deeply. And that's why I'm trying to learn the truth about this.
+- Arthur: It isn't to learn some dark terrible secret.
+- Arthur: It's because I see you hurting. I see you hiding. And it isn't like you.
+- Arthur: And I want to help you. Thank you for letting me try.
+- > You just understand why I've been avoiding it, yeah?
+- Arthur: Sol above, I am the crowned king of avoiding talking about his problems.
+- Arthur: Yeah. I understand.
+- Arthur: I know this is a leap of faith. It's a lot to trust someone with something like this.
+- Arthur: So, I suppose I'll ask the question outright.
+- Arthur: Do you trust me?
+- Yeah.
+- Arthur: Then... trust me.
+- {If currently dating Arthur.} Arthur: I'm here, love.
+- Arthur: Tell me the Tale of Duviri.
+- You know the top-level story.
+- > Cursed orphan winds up in an alternate reality.
+- {If previously blamed others for Duviri.} > Abandoned by the Void. Abandoned by the Orokin. Abandoned by *everyone.*
+- > Surrounded by *fake* trees and *fake* buildings and *fake* skies.
+- > But maybe if that was the worst of it, being abandoned?
+- > The orphan could have given up their fear, their sadness, their anger, their envy, their false joy...
+- > But instead, the orphan clung to the only thing they had. Even though it wouldn't last.
+- > Because that's the thing about Duviri. None of it's *real.*
+- > Oh, sure. You can take things from it. You can taste it. Smell it. It can make you bleed. Make you die.
+- > But none of it matters. None of it changes. It's all a lie.
+- Arthur: It's not your fault.
+- > It is, though. Because this is what I've been avoiding saying:
+- > I.
+- > Am.
+- > Duviri.
+- {If previously mentioned the fear spiral.} > All of the fear? All of that twisted terror that screams and cries at every shadow?
+- > It comes from MY head. It isn't just a product of the book, Arthur. It's from ME.
+- > I did it to myself... all of it. Over, and over... and over... and over...
+- > Until it just... took it all away. Until I couldn't feel any of it anymore.
+- > Until feeling nothing was better than feeling anything at all.
+- > It was so bad, Arthur, I began to forget. Forget who I was. What I was.
+- > Where I came from.
+- {If previously blamed others for Duviri.} > Maybe I thought, deep down inside, if I forgot about the people I blamed for putting me in Duviri?
+- > Maybe then, it'd end... one way or another.
+- > If it weren't for Lotus and Teshin...
+- > I'd still be there. A shell. A ghost. Empty. Forgotten and forgetting.
+- {If previously discussed apathy.} > So, yeah. You can argue with me about it all you want.
+- > But that's why apathy is worse.
+- > And why I'll never give up fighting it.
+- > And you know what's really weird? I go back. I go back all the time.
+- Because I feel like I have a duty to those people there. They... they exist because of me.
+- There. That's the story.
+- > ....
+- > You there?
+- {If currently dating Arthur.} Arthur: I'm here, love.
+- Arthur: Sol above... I'm here.
+- Ugh, I think I'm going to cry.
+- Arthur: I'd be lying if I said you were the only one.
+- Arthur: I... I had no idea you blamed yourself for what you went through.
+- Yeah, well. We all have our shit to deal with.
+- Arthur: No. Don't do that. Don't dismiss this.
+- Arthur: You were a CHILD. Who was forced to hunt down their own parents.
+- Arthur: Who was then left behind, all alone, to face the *Void.*
+- Arthur: I'd wager good money that most grown adults - myself included - would crumple like a house of cards...
+- Arthur: If we had to go through what you went through.
+- Arthur: You did the absolute best you could. You survived.
+- Arthur: And look what's become of you.
+- Arthur: Savior of the Origin System - or whatever it's called.
+- {If currently dating Arthur.} Arthur: And the one I adore most in this world.
+- > So, you don't... think less of me, now?
+- Arthur: The opposite.
+- Arthur: The absolute opposite.
+- Arthur: I swear it.
+- > Thanks. That means... more than you can imagine.
+- > Now I need a damn drink.
+- Arthur: And I'm buying.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: And one of my dearest friends.
+- > You're going to make me cry again.
+- Arthur: Yeah, well. Sometimes it's good for you.
+- Arthur: Or so Lettie tells me.
+- > Thanks, Arthur. That means... more to me than you can imagine.
+- > Now I need a damn drink.
+- Arthur: And I'm buying.
+- {Convo ends.}
+- How could I not? I literally made the place out of my own emotions.
+- {Continues as above from "Arthur: You were a CHILD-"}
+- Is that what you wanted to hear? You happy now?
+- Arthur: No. I'm not happy.
+- {If currently dating Arthur.} Arthur: I'm heartbroken, love.
+- {Continues as above from "Arthur: I... I had no idea-"}
+- {If not currently dating Arthur.} Arthur: I'm heartbroken.
+- {Continues as above from "Arthur: I... I had no idea-"}
+- {If not currently dating Arthur.} Arthur: I'm here.
+- {Continues as above from "Arthur: Sol above... I'm here."}
+- Ta-Da. The End.
+- {Continues as above from "> ...."}
+- As busted as it is, as messed up as it sounds, it's the only real home I've ever known.
+- There. That's the story.
+- {Continues as above from "> ...."}
+- Ta-Da. The End.
+- {Continues as above from "> ...."}
+- Nothing works out your anger quite like smashing up a place that you know resets constantly.
+- There. That's the story.
+- {Continues as above from "> ...."}
+- Ta-Da. The End.
+- {Continues as above from "> ...."}
+- Now that I know I can leave it... feels almost... fun again. I can find the joy in it again. As twisted as that is.
+- There. That's the story.
+- {Continues as above from "> ...."}
+- Ta-Da. The End.
+- {Continues as above from "> ...."}
+- {If never previously discussed apathy.} > So when I say "Apathy is worse than anything else." That's what I mean.
+- {Continues as above from "> And why I'll never give up-"}
+- {If previously blamed yourself for Duviri.} > Maybe I thought, deep down inside, if I forgot that Duviri was really all my fault?
+- {Continues as above from "> Maybe then, it'd end-"}
+- {If never previously blamed anyone for Duviri.} > Maybe I thought, deep down inside, that if I forgot everything?
+- {Continues as above from "> Maybe then, it'd end-"}
+- {If previously mentioned the joy spiral.} > All of the sickening false "joy" and beauty smeared on top of it like a bad birthday cake?
+- > Covering the warts and the rot underneath? Trying to hide what it really is?
+- {Continues as above from "> It comes from MY head-"}
+- {If previously mentioned the envy spiral.} > All of that horrid envy and jealousy that poisons everything around it?
+- > That wants to have what everybody else had? A normal life? A family? Friends?
+- {Continues as above from "> It comes from MY head-"}
+- {If previously mentioned the anger spiral.} > All of that rage, that hatred, that burning anger?
+- > That wanted nothing more than to rip the sinew from the bones of the people who had hurt me?
+- {Continues as above from "> It comes from MY head-"}
+- {If previously mentioned the sorrow spiral.} > The crushing sorrow that made me want to do nothing but sink to the bottom of an abyss?
+- > To fall on my own sword, if it wouldn't have been pointless?
+- {Continues as above from "> It comes from MY head-"}
+- {If previously blamed yourself for Duviri.} > Trapped in a storybook, the stories that others told them plucked out of their mind by the Void.
+- > And those stories that were buried so deep in that orphan's mind, they wanted to be friends.
+- > And the orphan, so scared, and so sad, and so angry, and so envious of those who got away, was eager to pretend to be joyous...
+- > So the orphan embraced them. But it wouldn't last.
+- > Little by little, that orphan grew up. And their fake best friend became their fake worst enemy.
+- {Continues as above from "> Because that's the thing about Duviri-"}
+- {If never previously blamed anyone for Duviri.} > A reality created from the stories in their head, abandoned by everyone except the stories themselves.
+- > At first, they were that orphan's best friends. Playmates. "Let's go on adventures!" they cried.
+- > And the orphan, so scared, and so sad, and so angry, and so envious of those who got away, was eager to pretend to be joyous...
+- > At least... at first.
+- > Little by little, that orphan grew up. And their fake best friend became their fake worst enemy.
+- {Continues as above from "> Because that's the thing about Duviri-"}
+- I've told you the surface level shit.
+- {Continues as above from "> Cursed orphan winds up-"}
+- {If not currently dating Arthur.} Arthur: I'm here.
+- {Continues as above from "Arthur: Tell me the Tale of Duviri."}
+- No.
+- {If currently dating Arthur.} Arthur: Sigh. All right. Then, I think it's best if we take some time off.
+- Arthur: Think it over.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: Then that's that.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: That means a lot.
+- Arthur: You and I have been through a lifetime of madness in the relatively short time we've known each other.
+- Arthur: And I care about as a dear, dear friend.
+- Arthur: It's because I see you hurting. I see you hiding. And it isn't like you.
+- Arthur: And I want to help you. Thank you for letting me try.
+- > It doesn't mean I have to like talking about it.
+- Arthur: Nobody likes talking about the things that hurt them.
+- Arthur: You're talking to the crowned king of avoiding the topic.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- I ask you enough about your past. It's only fair, I guess.
+- {If currently dating Arthur.} Arthur: You "guess?"
+- Arthur: Love, last I checked, this is the kind of thing people in a relationship are meant to know about each other.
+- Arthur: Something about that place eats away at you. And I care about you - deeply. I'm not going to let you just wallow in pain.
+- Arthur: Let me help you. That's what I'm sodding *here* for.
+- You're right. Rip the bandage off.
+- Arthur: I promise I'll kiss it better once we're done...
+- :}
+- Arthur: Heh. That's a new one.
+- Arthur: Ahem. Don't distract me.
+- I was hoping you'd forget what we were talking about.
+- Arthur: I know. Good effort.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- You're no fun.
+- Arthur: Plenty of time for fun later.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- I'm gonna hold you to that.
+- Arthur: Not if I hold you down first.
+- {Continues as above from "Arthur: Ahem. Don't distract me."}
+- It's just not something I like to talk about, even with you.
+- {Continues as above from "Arthur: I promise I'll kiss it-"}
+- I don't need your help.
+- Arthur: I'm going to say this in the most affectionate way possible.
+- Arthur: Bollocks. When people say that, higher chances than not, they're lying.
+- Arthur: How do I know this?
+- Arthur: Because nine times out of ten, I'm the knobhead who's saying it.
+- I'm sorry. I've been avoiding this like the plague, you're right.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- I'm sorry. I just really can't do this.
+- Arthur: Sigh. All right. Then, I think it's best if we take some time off between us.
+- > Think it over.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: This isn't about fairness.
+- Arthur: This is about the fact that something about that place is eating away at you.
+- Arthur: You and I have been through a lifetime of madness in the relatively short time we've known each other.
+- Arthur: And you're someone I consider a dear, dear friend. I want to help you.
+- You're right. Rip the bandage off.
+- Arthur: Best way to do it, so they say.
+- Yeah, but they don't talk about the screaming, do they?
+- Arthur: No, they don't.
+- Arthur: Don't distract me.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- All right. Well, here we go...
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- It's just not something I like to talk about.
+- Arthur: I get it. But I'll make sure to get you properly sloshed once this is over.
+- Mmm, shitty Y2K beer...
+- Arthur: It's not so bad...
+- Arthur: When it's all you've got.
+- Arthur: Don't distract me.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- I'm not responsible for what happens when I get drunk.
+- Arthur: I can take a punch.
+- Arthur: Don't distract me.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- I don't need your help.
+- Arthur: Bollocks.
+- Arthur: I know for a fact that when people say they don't need help, they're almost always lying.
+- Arthur: How do I know this?
+- Arthur: Because nine times out of ten, I'm the arse saying it.
+- I'm sorry. I've been avoiding this like the plague, you're right.
+- {Continues as above from "Arthur: I know this is a leap of faith-"}
+- I just really can't do this.
+- Arthur: Then that's that.
+- {Convo ends.}
+- If it finally gets you off my back about it, great.
+- Arthur: Hah. That's how you're going to play this?
+- You've been up my ass about Duviri this whole time.
+- {If currently dating Arthur.} Arthur: Love, we're together. We're supposed to know these things about each other.
+- Arthur: You come from an *alternate reality.*
+- Arthur: Kind of a wild thing for a bloke to wrap his head around.
+- Arthur: "Oh, yeah, I come from a storybook world with dragons that kept murdering me. Where're you from?"
+- Arthur: It's a normal thing for somebody to want to ask questions about, let alone of somebody they're dating.
+- Orowyrms. Not dragons.
+- Arthur: They're the same bloody thing!
+- Arthur: Stop deflecting!
+- Arthur: Love, I'm worried about you. This isn't like you.
+- Arthur: You're lashing out at me like a wounded animal.
+- Arthur: Please tell me why.
+- Arthur: What're you afraid of?
+- That once you learn the truth, you won't respect me.
+- Arthur: We all have darkness that follows us. In our past, in our minds...
+- Arthur: Sol knows I have plenty.
+- Arthur: Weakness isn't about having the darkness, it's about hiding from it.
+- Arthur: But it all comes down to one simple question. Do. You. Trust. Me?
+- Yeah.
+- {Continues as above from "Arthur: Then... trust me."}
+- No.
+- Arthur: Then that's that.
+- {Convo ends.}
+- That once you learn the truth, you'll... be disgusted by me.
+- Arthur: I watched you fall out of the mouth of some giant slime monster.
+- Arthur: And we're still dating.
+- Arthur: It takes a lot to disgust me, love.
+- {Continues as above from "Arthur: But it all comes down to-"}
+- I'm sorry. I can't do this. I just can't.
+- Arthur: Sigh. All right. Then, I think it's best if we take some time off.
+- Arthur: Think it over.
+- {Convo ends.}
+- You don't get it.
+- Arthur: I'm doing my bloody damndest to meet you halfway here!
+- {Continues as above from "Arthur: Love, I'm worried about you-"}
+- {If not currently dating Arthur.} Arthur: Pardon me for being curious curious about the bloody *alternate reality* you come from.
+- Arthur: Kind of a wild thing for a bloke to wrap his head around.
+- Arthur: "Oh, yeah, I come from a storybook world with dragons that kept murdering me. Where're you from?"
+- Arthur: It's a normal thing for somebody to want to ask questions about, mate.
+- Orowyrms. Not dragons.
+- Arthur: SAME BLOODY THING.
+- Arthur: STOP DEFLECTING.
+- Duviri is messed up, Arthur. Really messed up.
+- > That's what I'm trying to get at here.
+- > Whatever you think happened in Duviri?
+- > It's worse than that.
+- Arthur: Can you trust me enough to tell me how?
+- Arthur: What're you afraid of?
+- That once you learn the truth, you'll... be disgusted by me.
+- Arthur: I watched you fall out of the mouth of some giant slime monster.
+- Arthur: You've seen Eleanor's tongue.
+- {Continues as above from "Arthur: It takes a lot to disgust me-"}
+- That once you learn the truth, you won't respect me.
+- {Continues as above from "Arthur: We all have darkness-"}
+- I'm sorry. I can't do this. I just can't.
+- Arthur: Fine.
+- {Convo ends.}
+- Whatever.
+- Arthur: Sol knows I have the patience of a mountain, dealing with attitude problems.
+- Arthur: But this is getting real close to the line.
+- Arthur: Drifter, I'm worried about you. This isn't like you.
+- Arthur: I see a friend lashing out like a wounded animal. Someone I care deeply about.
+- Arthur: Please tell me why.
+- {Continues as above from "Arthur: What're you afraid of?", 2nd occurrence.}
+- You don't get it.
+- Arthur: This is me, TRYING to get it!
+- Arthur: Throw me a sodding bone, will you?!
+- Duviri is messed up, Arthur. Really messed up.
+- {Continues as above from "> That's what I'm trying to get at here."}
+- Whatever.
+- {Continues as above from "Arthur: Sol knows I have the patience-"}
+- Yeah, well, you don't like talking about YOUR dirty laundry.
+- Arthur: Dirty laundry?
+- That's what this is about, isn't it? Finding my weak spot? Finding what's *wrong* with me?
+- {If currently dating Arthur.} Arthur: You think that's what this is about, love...?
+- Arthur: Me, trying to find a crack in the armor, for... what reason?
+- To make yourself look good with the others. Bring me down a peg.
+- Arthur: I haven't slept better in years since you arrived. Since all this madness went down.
+- Arthur: So stop swinging at shadows.
+- Arthur: Something tells me I'm not the one you're fighting, love.
+- I... yeah, I'm sorry.
+- Arthur: Good. Apology accepted. But I'm worried, love. You're lashing out like a wounded animal.
+- Arthur: And that's not like you. I see someone I care deeply about in pain, and I want to help you.
+- {Continues as above from "Arthur: What're you afraid of", 1st occurrence.}
+- Honestly? I'm not so sure.
+- Arthur: Well. If you're looking to give me a reason to end things, you just found it.
+- Arthur: I'm going to cut you some slack. This is clearly a rough subject for you.
+- Arthur: So, love. Either lay it out on the table for me, talk me through what you're clearly so afraid of -
+- Arthur: Or we walk away from this. This just became about trust.
+- That once you learn the truth, you'll be disgusted by me.
+- {Continues as above from "Arthur: I watched you fall out of the mouth-", 1st occurrence.}
+- That once you learn the truth, you won't respect me.
+- {Continues as above from "Arthur: We all have darkness-"}
+- I'm sorry. I can't do this. I just can't.
+- Arthur: All right. Then neither can I. I'm sorry, we're done.
+- {Convo ends.}
+- To end it with me.
+- Arthur: You think I'm looking for reasons to break up with you?
+- Arthur: If I wanted to end it, I'd just *end it,* love. I'm not the type to play mind games.
+- Arthur: Tell me you think better of me than that.
+- I... yeah, I'm sorry.
+- {Continues as above from "Arthur: Good. Apology accepted-"}
+- Honestly? I'm not so sure.
+- {Continues as above from "Arthur: I'm going to cut you some slack-"}
+- {If not currently dating Arthur.} Arthur: You think this is about power?
+- Arthur: Finding a crack in the armor to attack? Why?
+- To make yourself look good with the others. Bring me down a peg.
+- Arthur: I haven't slept better in years since you arrived. Since all this madness went down.
+- Arthur: So stop swinging at shadows.
+- Arthur: Something tells me I'm not the one you're fighting here.
+- I dunno. You see, to be itching for a fight.
+- Arthur: I'm always happy to go a few rounds in the ring. But believe it or not, this isn't one of those times.
+- Arthur: I see somebody I care about in pain. A friend in need.
+- Arthur: And you're lashing out at me like a wounded animal. And I want to know why.
+- {Continues as above from "Arthur: What're you afraid of?", 2nd occurrence.}
+- Yeah... I'm sorry.
+- Arthur: Good. Apology accepted.
+- Arthur: I see somebody I care about in pain. A friend in need.
+- Arthur: And you're lashing out at me like a wounded animal. And I want to know why.
+- {Continues as above from "Arthur: What're you afraid of?", 2nd occurrence.}
+- I don't know. Blackmail?
+- Arthur: You're grasping at straws.
+- {Continues as above from "Arthur: I haven't slept better-", 2nd occurrence.}
+- Why do you think I've been avoiding this conversation for so long, Arthur?
+- {If currently dating Arthur.} Arthur: I don't bloody know, love. That's what I've been trying to figure out!
+- Because I hate everything about it.
+- Arthur: Hating what made you is so often shorthand for hating yourself, if left unaddressed.
+- Arthur: So I won't accept that. Look at you.
+- Arthur: You blasted in here and steamrolled the Scaldra like it was nothing.
+- Arthur: You keep the Techrot at bay without breaking a sweat.
+- {If currently dating Arthur.} Arthur: You won our trust. And my heart.
+- Arthur: Wherever you came from, it made you a force of nature.
+- Arthur: One I'm honoured to stand beside.
+- {If currently dating Arthur.} > Yeah, but once you know, I'm afraid that might change.
+- Arthur: I know. But that fear is in your head.
+- Arthur: Do you trust me, love?
+- Yeah. I do.
+- {Continues as above from "Arthur: Then... trust me."}
+- I... I just can't do this, I'm sorry.
+- Arthur: Sigh. All right. Then, I think it's best if we take some time off.
+- Arthur: Think it over.
+- {Convo ends.}
+- {If currently dating Arthur.} > Shit, don't make me cry, Arthur.
+- Arthur: Well, if you do, I'll make sure to make it up to you later...
+- :}
+- Arthur: That's a new one.
+- Arthur: Now. Don't change the subject.
+- {Continues as above from "Arthur: Do you trust me, love?"}
+- Promise?
+- Arthur: Promise.
+- Arthur: Now. Don't change the subject.
+- {Continues as above from "Arthur: Do you trust me, love?"}
+- {If not currently dating Arthur.} > Yeah, but once you know, I'm afraid that might change.
+- Arthur: I know. But that fear is in you head.
+- Arthur: For how little time we've spent together, you and I have been through a lifetime's worth of nonsense.
+- Arthur: I'd trust you with my life, Drifter. Sol knows I already have on more than one occasion.
+- Arthur: Question is, do you trust me?
+- Yeah.
+- {Continues as above from "Arthur: Then... trust me."}
+- No.
+- Arthur: Then that's that.
+- {If not currently dating Arthur.} > I'm sorry. I can't do this. I just can't.
+- Arthur: Fine.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: You won our trust.
+- {Continues as above from "Arthur: Wherever you came from-"}
+- Because I'm ashamed of it.
+- Arthur: What've *you* possibly got to be ashamed of?
+- {Continues as above from "Arthur: So I won't accept that-"}
+- Because it hurts.
+- Arthur: Everybody has pain. And you're too strong to run from it.
+- {Continues as above from "Arthur: So I won't accept that-"}
+- {If not currently dating Arthur.} Arthur: That's what I've been trying to figure out!
+- Because I hate everything about it.
+- {Continues as above from "Arthur: Hating what made you-"}
+- Because I'm ashamed of it.
+- {Continues as above from "Arthur: What've *you* possibly got-"}
+- Because it hurts.
+- {Continues as above from "Arthur: Everybody has pain-"}
+- I'm not doing this. I just can't. [End.]
+- {Convo ends.}
+- You better thank the Void every damn day you wake up that you're so damn cute.
+- Arthur: I prefer "ruggedly handsome," but I'll take it.
+- {Continues as above from "Arthur: I know it's a rough topic, but..."}
+- I'm not the begging type, but... I might to avoid this.
+- Arthur: I'm almost tempted. Almost.
+- {Continues as above from "Arthur: I know it's a rough topic, but..."}
+- There's never a good time. [End.]
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: Hey, Drifter. Is now finally a good time to talk about Duviri?
+- I suppose I've dodged this long enough.
+- {Continues as above from "Arthur: I know it's a rough topic, but..."}
+- There's never a good time. [End.]
+- {Convo ends.}
+
+### Conversation 6 (Hey, <Sweets / Drifter>. You around?)
+
+- {If currently dating Arthur.} Arthur: Hey, Sweets. You around?
+- What's up?
+- Arthur: You've been... I'm not the easiest man to get to know. You've put up with me dodging.
+- Talking about the dark parts of our past isn't easy or fun for anybody.
+- Arthur: Well, the point is, you've been waiting around trying to get the whole story out of me -
+- {If previously asked about Arthur's family.} Arthur: how I got here, how I got like this,
+- {If previously asked about Arthur's skana.} Arthur: the rest of the story about this sword,
+- Arthur: and all the rest of this ugly mess...
+- Arthur: Pour yourself a cup of tea.
+- Arthur: Or a beer.
+- Arthur: Actually, a beer would be best.
+- Arthur: I'll try to make this brief. Sol knows I don't want to dwell on this shit any more than I need to.
+- Take the time you need. I'm here.
+- {If previously asked about Arthur's family.} Arthur: I told you why I left the Britannic Army. I never told you why I joined.
+- Arthur: When I was a lad, there was a childhood friend a few years above Eleanor and I in school. Lived a few doors up the street.
+- {If previously discussed Christopher with Eleanor.} > Eleanor told me her half of the Christopher story already.
+- {If currently dating Eleanor.} Arthur: I... can't thank you enough for being there for her. For finally being someone who might get her past what she lost on that terrible day.
+- > She makes it sound like you both lost someone special.
+- Arthur: He was a dear friend and I looked up to him like a big brother. I idolized him.
+- Arthur: Christopher represented everything I wanted to be in this world - noble, heroic, self-sacrificing.
+- Arthur: He was bigger, tougher - smarter. One of those blokes you'd want to push in front of a lorry if he wasn't so damned NICE all the time.
+- Arthur: So when he went off and joined His Majesty's Service, as soon as he was of age? I was biting at the bit, waiting until I was old enough to do the same.
+- Arthur: Imagine poor Eleanor, having to watch her fiancé and her twin brother go off to war.
+- Arthur: She never trusted authority. But after what happened to the two of us? She never would again.
+- I can't say I blame her.
+- Arthur: Christopher had pulled some strings. Lined it up so that I'd be in the same regiment as him. 3rd Battalion, Crimson Watch.
+- Arthur: But one week before I got out there... there was an accident. Roadside bomb.
+- Arthur: And like so many good men and women? Like so many good soldiers?
+- Arthur: He became just another number on somebody's sheet.
+- Arthur: But I was still a naive fool. And I, like an idiot, was all too eager to pick up the mantle he left behind...
+- I'm so sorry, Arthur...
+- {If previously asked about Arthur's skana.} Arthur: This skana of mine that you've asked after.
+- {If previously discussed Entrati's link to the skana.} I told you how I got it. Entrati running me through with it. Not long after he turned me into this...
+- {If previously asked about the skana's bandana.} But I dodged when you asked me about the bandana.
+- {If previously discussed Christopher with Arthur.} Arthur: Christopher got it for me... as a gift for joining the Crimson Watch.
+- Arthur: He was planning on giving it to me the night I got there.
+- Arthur: It was waiting for me... instead of him.
+- What happened to him isn't your fault, Arthur.
+- Arthur: I know. But it is my duty to carry on.
+- Arthur: War takes the best of us away.
+- {If currently dating Eleanor.} Arthur: Thank you for being there for her. For helping her heal.
+- Arthur: But sometimes, an old ghost is a welcome one.
+- Arthur: They remind us of why we're still here. Who we were before.
+- Arthur: Who we've lost.
+- Arthur: And who we're still fighting for.
+- I've run out of imaginary beers to drink. I kind of need a real one, now.
+- Arthur: You haven't had it much better than me, have you, though?
+- Arthur: Creations of war, just on different ways. We've both lost a lot in our lives.
+- {If currently dating Arthur.} > I... yeah. But. That was... heavy. Drinks? You and me? Then we go find a quiet place to talk in person?
+- Arthur: Love, nothing would make me happier right now.
+- {Convo ends.}
+- We've both lost things, yes. But look at how much we've found. Friends. Family. Each other.
+- > Look at what we've been able to do here.
+- Arthur: You're right. Enough of this moody shit for one day.
+- {Convo ends.}
+- You lost... one guy? All this was about *one* guy? I was expecting something way more dramatic.
+- Arthur: Sod off, you utter wanker.
+- {Convo ends.}
+- I... never really had anyone to fight for. Not until recently. One reason they call me 'Drifter.'
+- Arthur: I can't tell which one of us has had it worse. Both. Neither.
+- {Continues as above from "Arthur: Creations of war-"}
+- {If currently dating Arthur.} Arthur: You've helped me heal a lot of that old pain, by being here for me.
+- {Continues as above from "Arthur: But sometimes, an old ghost-"}
+- {If not currently dating Arthur nor Eleanor.} {Continues as above from "Arthur: But sometimes, an old ghost-"}
+- Yikes... I'm so sorry.
+- {Continues as above from "Arthur: War takes the best-"}
+- {If never previously discussed Christopher with Arthur.} Arthur: There was... an old friend of mine, way back in the day.
+- {If previously discussed Christopher with Eleanor.} > Christopher? Eleanor told me some of it.
+- {Continues as above from "Arthur: War takes the best-"}
+- {If never previously discussed Christopher with Eleanor.} Arthur: It was meant to be a gift. He never got to deliver it to me.
+- I'm so sorry.
+- {Continues as above from "Arthur: War takes the best-"}
+- What happened?
+- {Continues as above from "Arthur: War takes the best-"}
+- {If never previously asked about the skana's bandana.} Arthur: But it's not the blade that's important to me. It's the bandana.
+- {If previously discussed Christopher with Arthur.} {Continues as above from "Arthur: Christopher got it for me-"}
+- {If never previously discussed Christopher with Arthur.} {Continues as above from "Arthur: There was... an old friend-"}
+- {If never previously discussed Entrati's link to the skana.} Arthur: I got it when Entrati ran me through with it. Not long after he turned me into this...
+- {If currently dating Arthur.} > Ruggedly handsome, sexy, superhero?
+- Arthur: Heh. Thanks.
+- Arthur: Well. That's how I got the blade.
+- {Continues as above from "Arthur: But it's not the blade-"}
+- Toaster oven? :P
+- Arthur: Har, har.
+- Arthur: Well. That's how I got the blade.
+- {Continues as above from "Arthur: But it's not the blade-}
+- The word is 'warframe.'
+- Arthur: I... will never adjust to that.
+- Arthur: Well. That's how I got the blade.
+- {Continues as above from "Arthur: But it's not the blade-}
+- You. You're just YOU. Inside. Where it counts.
+- Arthur: Thanks. I need to remember that.
+- Arthur: Well. That's how I got the blade.
+- {Continues as above from "Arthur: But it's not the blade-}
+- {If never previously asked about Arthur's skana.} Arthur: The bandana I keep on my blade?
+- {If previously discussed Christopher with Arthur.} {Continues as above from "Arthur: Christopher got it for me-"}
+- {If never previously discussed Christopher with Arthur.} {Continues as above from "Arthur: There was... an old friend-"}
+- No one wins in war. No one.
+- {If previously asked about Arthur's skana.} {Continues as above from "Arthur: This skana of mine-"}
+- {If never previously asked about Arthur's skana.} {Continues as above from "Arthur: The bandana I keep on my blade?"}
+- No kidding.
+- {Continues as above from "Arthur: Christopher had pulled some strings-"}
+- {If not currently dating Eleanor.} Arthur: She... lost a lot more than me, that day.
+- > But it sounds like you both lost someone that meant a lot to you.
+- {Continues as above from "Arthur: He was a dear friend-"}
+- {If never previously discussed Christopher with Eleanor.} Arthur: Name was Chritopher. He was always sticking up for the kids in the neighborhood who needed it.
+- Arthur: He was bigger, tougher - smarter. One of those blokes you'd want to push in front of a lorry if he wasn't so damned NICE all the time.
+- Arthur: In short? I bloody wanted to BE him, growing up. Followed in his footsteps any way I could.
+- Arthur: I was lucky enough to call my idol my best friend.
+- Arthur: So when he went off and joined His Majesty's Service, as soon as he was of age? I was biting at the bit, waiting until I was old enough to do the same.
+- Arthur: Never mind the fact that he...
+- Arthur: Look, Drifter... This part isn't my story to tell. It's Eleanor's. But I'll say this much. When Christopher went off to war?
+- Arthur: I wasn't the only one upset to see him go.
+- He must have really meant a lot to you.
+- Arthur: He did.
+- Arthur: A great deal.
+- {Continues as above from "Arthur: Christopher had pulled some strings-"}
+- What happened next?
+- {Continues as above from "Arthur: Christopher had pulled some strings-"}
+- {If never previously asked about Arthur's family.} {If previously asked about Arthur's skana.} {Continues as above from "Arthur: This skana of mine-"}
+- {If never previously asked about Arthur's family.} {If never previously asked about Arthur's skana.} {Continues as above from "Arthur: The bandana I keep on my blade?"}
+- *Cracking beer.*
+- {If previously asked about Arthur's family.} {Continues as above from "Arthur: I told you why I left the Britannic-"}
+- {If never previously asked about Arthur's family.} {If previously asked about Arthur's skana.} {Continues as above from "Arthur: This skana of mine-"}
+- {If never previously asked about Arthur's family.} {If never previously asked about Arthur's skana.} {Continues as above from "Arthur: The bandana I keep on my blade?"}
+- {If never previously asked about Arthur's skana.} {Continues as above from "Arthur: and all the rest of this ugly mess..."}
+- {If never previously asked about Arthur's family.} {Continues as above from "Arthur: and all the rest of this ugly mess..."}
+- {If previously discussed Duviri with Arthur.} > To be fair, I've been doing the same thing to you about what made me, me. Duviri, and all...
+- {Continues as above from "Arthur: Well, the point is-"}
+- Yeah. About time you man up, cowboy.
+- Arthur: And immediately? I've changed my mind.
+- {Convo ends.}
+- Sorry, handsome. Another time. [End.]
+- {Convo ends.}
+- {If not currently dating Arthur.} Hey, Drifter. You around?
+- Yeah?
+- {Continues as above from "Arthur: You've been... I'm not the easiest-"}
+- Can't chat right now, sorry. [End.]
+- {Convo ends.}
+
+### Conversation 7 (Well, now I have the answer)
+
+- Arthur: Well, now I have the answer to why you're hanging around here so much.
+- {If never previously dated Arthur.} {Please refer to rank 4 - conversation 5 (from the start), an identical discussion.}
+- Arthur: {If previously dated Arthur.} Well.
+- Ah. Yeah. Well.
+- Arthur: I'm happy for you both.
+- I had to follow my heart.
+- Arthur: I'm glad you finally did. Just wish you had the first time.
+- Arthur: I hope you find happiness this time.
+- {convo ends.}
+- You sound thrilled.
+- Arthur: What can I say?
+- Arthur: I hope you find happiness this time.
+- {convo ends.}
+- I'm sorry?
+- Arthur: Yeah, well. "Sorry" doesn't always cut it.
+- Arthur: I hope you find happiness this time.
+- {convo ends.}
+- Well, what?
+- Arthur: I suppose I souldn't have expected you to stay single for long.
+- Oh...
+- {Continues as above from "Arthur: I'm happy for you both."}
+- Grow up, Arthur. [End.]
+- {Convo ends.}
+
+### Conversation 1 (You around)
+
+- {If currently dating Arthur.} Arthur: You around, sweets?
+- What's up, sweetheart?
+- Arthur: There's something I need to tell you.
+- Arthur: Ugh. I've been trying to figure out how to do this for *days* now.
+- Take your time - I'm here.
+- Arthur: Thanks.
+- Arthur: When you arrived, I figured you were just another obstacle.
+- Arthur: Just more bullshit for me to overcome, like everything else in my life.
+- Arthur: If you had told me, that day we first crossed swords...how you would go on to change my life?
+- Arthur: That you'd save my life? That you'd save ALL our lives?!
+- Arthur: I'd have laughed in your sodding face.
+- Arthur: And I'm not talking about the obvious - Albrecht and the Major and all the rest of that nonsense.
+- Arthur: I'm talking about much more important. I'm talking about what you've meant to *me.*
+- Arthur: Shit. I. Sol above, I don't know how to say this.
+- I think I know what you're going to say. Want me to go first?
+- Arthur: Yeah. Maybe you should.
+- I love you.
+- Arthur: I never thought it was possible.
+- Arthur: Not like this. Not in a place like this.
+- Arthur: And certainly not for someone like me.
+- Arthur: But Drifter...?
+- Arthur: After all we've been through...
+- Arthur: I love you, too.
+- Arthur: I thought this kind of happiness wasn't possible for me.
+- Arthur: Thank you for showing me I was wrong, love.
+- Arthur: Here's to the future.
+- Arthur: And here's to us.
+- {Convo ends.}
+- I think we should just be friends. [Break up.]
+- Arthur: I...oh.
+- Arthur: Oh.
+- Arthur: I...all right.
+- Arthur: That's unexpected.
+- Arthur: But I suppose I understand.
+- Arthur: Better to end things now than to let things get more complicated.
+- Arthur: If you change your mind, I...I'll be there, love.
+- {Convo ends.}
+- <3
+- (That's a heart btw)
+- Arthur: Heh. Thanks.
+- Arthur: I never thought it was possible.
+- Arthur: Not like this. Not in a place like this.
+- Arthur: And certainly not for someone like me.
+- Arthur: But...Drifter?
+- Arthur: After all we've been through...
+- Arthur: I love you.
+- I love you, too.
+- {Continues as above from "Arthur: I thought this kind-"}
+- I think we should just be friends. [Break up.]
+- {Continues as above from "Arthur: I...oh."}
+- You're making me fall asleep over here.
+- Arthur: ....
+- Arthur: Sod. Off.
+- Arthur: This was a mistake. We're done.
+- Wait. I was just joking! [Apologize.]
+- Arthur: Time you learned sometimes your sense of humour isn't welcome.
+- {Convo ends.}
+- Oh, chill out, dude.
+- Arthur: Time you learned sometimes your sense of humour isn't welcome.
+- {Convo ends.}
+- Are you breaking up with me... ?
+- Arthur: No! No. Absolutely not. I'm just...shit at expressing this kind of thing.
+- {Continues as above from "Arthur: When you arrived-"}
+- You're pregnant?!
+- Arthur: What?! NO! How would that even --
+- Albrecht didn't tell you... ?
+- Joking! Joking.
+- Arthur: ...... I am *really trying* to have a serious moment here...
+- {Continues as above from "Arthur: When you arrived-"}
+- Weirder things've happened...
+- Arthur: I don't even want to know.
+- Arthur: Don't distract me.
+- {Continues as above from "Arthur: When you arrived-"}
+- Yeah, A?
+- {Continues as above from "Arthur: There's something I need to tell you."}
+- [Ignore.]
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: You around, Drifter?
+- Yeah, A?
+- Arthur: When you arrived, I figured you were just another obstacle.
+- Arthur: Just more bullshit for me to overcome, like everything else in my life.
+- Arthur: If you had told me, that day we first crossed swords...how you would go on to change my life?
+- Arthur: That you'd save my life? That you'd save ALL our lives?!
+- Arthur: I'd have laughed in your sodding face.
+- Thanks?
+- Arthur: What I'm saying is,
+- Arthur: There are very few times in your life you meet someone who understands you instinctually.
+- Arthur: Who gets you almost better than you get yourself.
+- Arthur: Who knows how to tell you what you need to hear, not what you want to hear.
+- Arthur: What I'm trying to tell you is - thanks for being not just a friend, but being someone I can trust.
+- Arthur: Not just to watch my back, not just to join the team, but... someone I can trust with my life.
+- That...means a lot, thanks Arthur. And it's mutual.
+- Arthur: I'm sorry it took so long to admit it. But I'm glad you're here. We'd be all dead without you.
+- Arthur: So, Drifter?
+- Arthur: Thanks. For everything.
+- Arthur: And whatever life brings our way?
+- Arthur: I know we'll handle it. Together.
+- {Convo ends.}
+- {If previously accepted square spaghetti.} > I'm *still* not forgiving you for that spaghetti, though.
+- Arthur: Oh for the love of -
+- lolol
+- Arthur: Yeah, yeah. Heh.
+- Arthur: *Anyway.*
+- {Continues as above from "Arthur: I'm sorry it took so long-"}
+- I'm just teasing. :)
+- {Continues as above from "Arthur: Yeah, yeah. Heh."}
+- Yeah, I've just been fooling you this whole time. Sorry.
+- Arthur: Screw. You.
+- {Convo ends.}
+- Where's this going?
+- Arthur: I'm getting there.
+- {Continues as above from "Arthur: There are very few times-"}
+- What's up?
+- {Continues as above from "Arthur: When you arrived-"}
+- [Ignore.]
+- {Convo ends.}
+
+### Conversation 2 (I've been thinking. How many more of us do you think are out there?)
+
+- Arthur: I've been thinking. How many more of us do you think are out there?
+- Do you mean here in 1999, or in a broader sense?
+- Arthur: Both, I suppose. Here, now, in the past - in the future.
+- Arthur: Entrati made us with a purpose. With multiple purposes. It's clear it went past just the six of us.
+- At first, I thought he was making me "spare" warframes in case mine didn't come through the Helminth. Now, I'm not so sure.
+- Arthur: It made sense when there were just six of us.
+- Arthur: Do you honestly believe his real motivation is to stop the Indifference?
+- Arthur: Can we *really* trust him?
+- I don't know, honestly. I don't trust him as far as I can throw him. And without a warframe, my throwing arm is shit.
+- Arthur: Heh.
+- He's trying to put the genie back in the proverbial bottle, if it can be done. And it's a messy process.
+- Arthur: And we're the school caretakers, scrubbing the floors after him. Lovely.
+- Now that Kaya's got her own take on time travel, it might get easier for me to go back and forth.
+- Arthur: That kid's a pain in the arse sometimes, but I do appreciate that.
+- Arthur: It's nice to know when you pop off to the shops... you might actually come back... :/
+- {If currently dating Arthur.} Arthur: I owe here a great deal, giving me some semblance of peace of mind. :)
+- An emoticon! :D
+- Arthur: Yeah, yeah. Don't go getting used to it. It still feels weird.
+- > Well, I'm flattered.
+- Arthur: Anyway. Back on topic. Sometimes I get this sinking feeling that Entrati has a bigger purpose for us all.
+- What makes you say that?
+- Arthur: The amount of effort he's put in to creating us? And the fact that there are more than just the six...
+- Arthur: You don't build weapons like these unless you know you're going to use them, mate.
+- Arthur: Unless you *know* there's going to be a war.
+- Then all we can do is be prepared if that happens.
+- Arthur: Agreed.
+- Arthur: And hope that if any more of us show up here? We won't end up needing a bigger mall.
+- {Convo ends.}
+- It's possible. But Entrati also seems to be the kind of person to have contingency plans.
+- Arthur: Maybe.
+- Arthur: Part of me does hope more of us exist out there. But if they do end up coming here? We might end up needing a bigger mall.
+- {Convo ends.}
+- I don't know. Minerva and Velimir were telling me about the... "Cold War?" Sounds like people built a lot of crazy weapons and then never used them.
+- Arthur: Fair counter point. But that's between countries, involving diplomacy. Moving parts.
+- Arthur: This is between a literal god and a man who thinks he's the one.
+- Arthur: My money is on an inevitable collision. I don't think their egos would allow otherwise.
+- You might be right.
+- Arthur: For what it's worth? I hope I'm not.
+- Arthur: There are no victors in war. Only survivors.
+- {Convo ends.}
+- I really hope you're wrong.
+- Arthur: For what it's worth? I hope I am.
+- Arthur: There are no victors in war. Only survivors.
+- {Convo ends.}
+- Yeah, you might be right.
+- Arthur: What do you think it is? And what is he waiting for?
+- <RETRO_EMOJI_SHRUG>
+- > Maybe he needs an army? Maybe he's trying to find "the one thing" he thinks can defeat the Indifference. Maybe a lot of things.
+- Arthur: Can't help but think we're bullet's in a gun. Meant to be used. Spent. And thrown away.
+- You don't think you're done yet?
+- Arthur: No. You don't build weapons like these unless you know you're going to use them, mate.
+- Then all we can do is be prepared if that happens.
+- {Continues as above from "Arthur: Agreed."}
+- It's possible. But Entrati also seems to be the kind of person to have contingency plans.
+- {Continues as above from "Arthur: Maybe."}
+- I don't know. Minerva and Velimir were telling me about the... "Cold War?" Sounds like people built a lot of crazy weapons and then never used them.
+- {Continues as above from "Arthur: Fair counter point-"}
+- I wish I could tell you. But I will do everything I can to stop that from happening.
+- Arthur: I know you will. And we'll face that day together, and I have confidence in that.
+- {If currently dating Arthur.} Arthur: Thanks, love.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: Thanks, Drifter.
+- {Convo ends.}
+- I wish I knew, on both fronts.
+- {Continues as above from "> Maybe he needs an army-"}
+- Could that just be wishful thinking?
+- Arthur: What do you mean?
+- Well, I'm just saying that... maybe you don't want to feel abandoned by him.
+- > That whatever he was here for, that whatever he did to you, still matters. Is still valid. That it didn't fail.
+- And to be clear, you still mater.
+- But to think your story ends here, without a part to play in how it all ends? That sucks.
+- Arthur: That might be a part of it. If the Indifference is a reason I'm like this? And had to go through this?
+- Arthur: I want a hand in bringing it down.
+- Arthur: I don't want to be abandoned as a footnote in history. I want to put this skana straight up its arse.
+- You 'n me both. And maybe Entrati while we're at it.
+- Arthur: Now you're talking.
+- {If currently dating Arthur.} Arthur: Thanks, love.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: Thanks, Drifter.
+- {Convo ends.}
+- I'll see what I can do. ;)
+- Arthur: Heh.
+- {If currently dating Arthur.} Arthur: Thanks, love.
+- {Convo ends.}
+- {If not currently dating Arthur.} Arthur: Thanks, Drifter.
+- {Convo ends.}
+- But maybe you just want your sacrifices to still matter in a more cosmic sense?
+- Arthur: Maybe. Maybe not. But how many people's sacrifices mean nothing, in life? Most.
+- Arthur: Maybe I'm just mourning the idea of a whole army of us out there, being made by a madman with no clear idea why. Or what for.
+- Arthur: Being told to suffer and being told to sacrifice - with no clear idea why. Or what for.
+- Arthur: Maybe that's the pill I'm having a hard time swallowing, mate.
+- {Convo ends.}
+- But maybe it hurts to think you've been replaced by Arthur 2.0 out there somewhere.
+- Arthur: Mate, I was ready to retire before I got sucked into this nonsense. Hardly.
+- Arthur: I am still astonished at you ability to utterly step in it, sometimes.
+- {Convo ends.}
+- And to be clear, you still matter to *me.*
+- But to think your story ends here, without a part to play in how it all ends? That sucks.
+- {Continues as above from "Arthur: That might be a part of it-}
+- But maybe you just want your sacrifices to still matter in a more cosmic sense?
+- {Continues as above from "Arthur: Maybe. Maybe not-"}
+- But maybe it hurts to think you've been replaced by Arthur 2.0 out there somewhere.
+- {Continues as above from "Arthur: Mate, I was ready to retire-"}
+- Sometimes it's hard to think that you're no longer "important."
+- Arthur: Right...
+- {Convo ends.}
+- Don't go getting all sappy on me.
+- Arthur: Mm, you know me. Crunchy on the outside, squishy in the middle. Like a stale version of those horrid pastries Amir and Velimir keep going on about.
+- Arthur: Tweebies?
+- {Continues as above from "Arthur: Anyway. Back on topic-}
+- {If not currently dating Arthur.} > An emoticon! :D
+- {Continues as above from "Arthur: Yeah, yeah-"}
+- {If not currently dating Arthur.} > Don't go getting all sappy on me.
+- {Continues as above from "Arthur: Mm, you know me-"}
+- But I'm staying here, so it's up to the kid, now.
+- {If currently dating Arthur.} Arthur: Eh. We'll see. I know you well enough, love. And I know you don't know when to keep your head own.
+- Arthur: It's one of the reasons I adore you as much as I do. ;)
+- An emoticon! :D
+- {Continues as above from "Arthur: Yeah, yeah-"}
+- Don't go getting all sappy on me.
+- {Continues as above from "Arthur: Mm, you know me-"}
+- {If not currently dating Arthur.} Arthur: Eh. We'll see. I know you well enough, Drifter. And I know you don't know when to keep your head own.
+- Arthur: It's one of the reasons I put up with having you around. ;)
+- An emoticon! :D
+- {Continues as above from "Arthur: Yeah, yeah-"}
+- Don't go getting all sappy on me.
+- {Continues as above from "Arthur: Mm, you know me-"}
+- But we don't really have a choice, do we? All me and the kid can do is follow after him, cleaning up his messes.
+- Now that Kaya's got her own take on time travel, it might get easier for me to go back and forth.
+- {Continues as above from "Arthur: That kid's a pain in the arse-"}
+- But I'm staying here, so it's up to the kid, now.
+- {If not currently dating Arthur.} {Continues as above from "Arthur: Eh. We'll see. I know you well enough, Drifter-"}
+- {If currently dating Arthur.} {Continues as above from "Arthur: Eh. We'll see. I know you well enough, love-"}
+- No. We can't trust his motives any more than we can trust his methods.
+- He's trying to put the genie back in the proverbial bottle, if it can be done. And it's a messy process.
+- {Continues as above from "Arthur: And we're the school caretakers-"}
+- But we don't really have a choice, do we? All me and the kid can do is follow after him, cleaning up his messes.
+- Now that Kaya's got her own take on time travel, it might get easier for me to go back and forth.
+- {Continues as above from "Arthur: That kid's a pain in the arse-"}
+- But I'm staying here, so it's up to the kid, now.
+- {If not currently dating Arthur.} {Continues as above from "Arthur: Eh. We'll see. I know you well enough, Drifter-"}
+- {If currently dating Arthur.} {Continues as above from "Arthur: Eh. We'll see. I know you well enough, love-"}
+- Yeah. I don't agree with his methods all the time. But yeah. He wants to stop that thing.
+- He's trying to put the genie back in the proverbial bottle, if it can be done. And it's a messy process.
+- {Continues as above from "Arthur: And we're the school caretakers-"}
+- But we don't really have a choice, do we? All me and the kid can do is follow after him, cleaning up his messes.
+- Now that Kaya's got her own take on time travel, it might get easier for me to go back and forth.
+- {Continues as above from "Arthur: That kid's a pain in the arse-"}
+- But I'm staying here, so it's up to the kid, now.
+- {If not currently dating Arthur.} {Continues as above from "Arthur: Eh. We'll see. I know you well enough, Drifter-"}
+- {If currently dating Arthur.} {Continues as above from "Arthur: Eh. We'll see. I know you well enough, love-"}
+- I just wish I knew he was up to. Or what his motivations really were, behind making more protoframes.
+- {Continues as above from "Arthur: Do you honestly believe-"}
+- "Us," meaning?
+- Arthur: Protoframes. Here, or anywhere. Or any *when* I suppose.
+- {Continues as above from "Arthur: Entrati made us with a purpose-"}
+
+### Conversation 3 (I found myself having a conversation with the guitar the other day.)
+
+- Arthur: I found myself having a conversation with the guitar the other day.
+- Lizzie? How'd that go ? Better than I would have thought. I rather like her.
+- Arthur: Besides,
+- Arthur: Since she and Eleanor seem to always be laughing at jokes no one else can hear.
+- Arthur: I figured I ought to go introduce myself properly.
+- Arthur: She has a lot of useful insights. And Flare is lovely. Honestly, that whole pack in the bar is a breath of fresh air.
+- Arthur: Well. Proverbially.
+- What insights did she have?
+- Arthur: Fascinating ones, regarding how many times the year looped.
+- Arthur: How many times I may or may not have forgotten years past. How she lives... outside of time? And how we do not.
+- Arthur: And before you say anything, no. I don't want to know. It isn't my right to know.
+- Arthur: I guess I just want to say - whether you have or not? It's okay. I won't hold it against you.
+- Arthur: This situation we're in? It isn't normal. We weren't meant for things like this - humans, I mean.
+- Arthur: There aren't guidebooks for this. Whatever you choose to do, I trust you to have good reasons to do it.
+- {If currently dating Arthur.} Arthur: I love you. And even if I forget that? Even if you choose to go another way? That's all right.
+- Arthur: Before you came here, I don't think I could have accepted that. I would have been too afraid to lose you. To lose this.
+- Arthur: I would have clung to it like a desperate man clinging to a raft at sea. But maybe I've been in this loop enough times now, or... maybe it's just you, I don't know.
+- Arthur: This happiness you've given me now - this peace - is worth more in this moment than knowing it might last forever.
+- Arthur: If there's one thing in life you learn as a soldier, it's that everything is fleeting.
+- Arthur: Here one second, gone the next. I guess I've just come to accept that. Once and for all.
+- Arthur: So, whether out time together ends because you punch the floor and I forget everything?
+- Arthur: Or because the Indifference catches you off guard some day?
+- Arthur: I'm going to enjoy this moment that I have. Here and now. Because it's what I've got.
+- Arthur: And that's what I know I can be sure of.
+- Thanks, Arthur... that means more to me than I think I can really express.
+- Arthur: Every now and then, I try to pull the stick out of my arse long enough to say something meaningful.
+- Arthur: Well, I think it's time for a drink. Shall we?
+- Meet you there. :)
+- {Convo ends.}
+- Maybe later.
+- Arthur: Suit yourself.
+- {Convo ends.}
+- I wish I had you kind of level-headedness, sometimes. <3
+- Arthur: It's more because I know I functionally have no other choice but to keep a stiff upper lip. Such is the Britannic way.
+- Arthur: Like the old saying goes. "Keep Composed and Continue Forward."
+- {Continues as above from "Arthur: Well, I think it's time-"}
+- It's nothing personal. It's mostly because I keep screwing up trying to date your sister. :P
+- Arthur: Har har. Well, it's a good thing you have a magical super power that allows you to remove your foot from where you've lodged it so spectacularly down your trachea, isn't it?
+- Arthur: The rest of us just have to learn how to communicate. Question though.
+- Arthur: Does she lower her standards with every reset?
+- {Convo ends.}
+
+### Conversation 4 (Odd question. Do they have toys in space?)
+
+- Arthur: Odd question. Do they have toys in space?
+- Like, children's toys? Of course.
+- Arthur: Heh. Really?
+- Arthur: Hard to picture some umpteenth-some-odd-whatever thousands of years in the future,
+- Arthur: Kids are still sitting around reenacting stories with little figurines and playing "bandits" or "save the princess."
+- What brought this on?
+- Arthur: I was actually watching Amir playing one of his arcade games.
+- Arthur: And I was thinking to myself - what I wouldn't give to have that kind of joy in my life again.
+- Arthur: I've never looked down my nose at Aoi, or Amir, or even now Kaya for finding fun in "childish" things. It's never bothered me.
+- Arthur: But sometimes I'm afraid that the part of me that's capable of feeling that curled up and died a long time ago.
+- Arthur: Kind of sad, isn't it? That we tell children to love something, and then we tell them to give it up when they've "matured."
+- I think life can be ugly and painful and short. And we should fill it with as much fun, and laughter, and love as we can find.
+- Arthur: You're right. And I hope it's something we remember, as we go forward together in... whatever this is that we're in.
+- Arthur: You know, I found Eleanor, Velimir, Aoi, and Amir, playing hide-and-seek with Flare and Lizzie. (Quincy said he wasn't allowed to play because the bastard was cheating and was using his scope to see through walls.)
+- Arthur: They were all looking at me worried I was going to be upset I caught them mucking about when they should be doing something more useful.
+- Arthur: I was more upset that I wasn't invited. Heh. But I had to put on the grumpy leader face and pretend I was upset that the posts were left unmanned, etcetera.
+- Arthur: But Amir has his games. Aoi has On-lyne. Even Kaya has her stickers and her Jinymon, for all that the world has forced adulthood on her too soon.
+- I think it's something you could get back, if you tried. Finding joy in toys and games, I mean.
+- Arthur: I can just hear the laughter now. But I suppose that's really what's holding me back, isn't it? Embarrassment.
+- Arthur: I'm not sure it's possible to get it back, even if I could push through the momentary shame. But who knows. With enough loops, maybe anything is possible.
+- {Convo ends.}
+- Is there a point you're trying to make?
+- Arthur: Honestly? I'm not even sure. Only that I feel like I'm missing something that's been gone from my life for a very long time.
+- Arthur: I'm not sure if I can ever get it back. Or if it's too far gone. But who knows. With enough time, maybe anything is possible.
+- I don't know. We all have to grow up sometime. We can't hide ourselves away with make-believe. I learned that the hard way.
+- Arthur: You make a fair point. I think when it becomes a replacement for the real thing, it's a problem. I'm not suggesting that.
+- {Continues as above from "Arthur: You know, I found Eleanor, Velimir, Aoi, and Amir-"}
+- What did you grow up playing with?
+- Arthur: It's rather comforting thinking that despite all the differences between our cultures, kids still just... sit down and play with toys.
+- Arthur: I had this action figure. Action Angus. He was a soldier, no surprise there.
+- Arthur: One solstice celebration, a bunch of the older boys stole it from me along with a bunch of my other toys and, well...
+- Arthur: It's a long story. Short of it? I was "too old," they said, to be playing with dollies. That was the last time I ever played with toys.
+- Arthur: The other day, I was watching Amir play one of his games. It's clear how much he's attached to it. How much happiness it brings him. And I was a bit jealous that I don't have anything like that in my life.
+- {Continues as above from "Arthur: Kind of sad, isn't it-"}
+- We have different names for the games we play, but I definitely had toys.
+- Arthur: Like what?
+- All sorts of figurines, and stuffed animals, and blocks. Typical kid stuff.
+- {Continues as above from "Arthur: It's rather comforting-"}
+- I had this one - I guess you could call it a figurine - of this Dax child, that, well, I named after a character in a book I had. Dominus Thrax.
+- Arthur: Oh, bollocks. I should've known. I'm so sorry I brought this up.
+- It's all right. It's not your fault.
+- We had all the normal toys you'd expect, I suppose. Blocks, stuffed animals, figurines, dolls.
+- Mine only became a little more problematic because of the whole... Void thing.
+- {Continues as above from "Arthur: It's rather comforting-"}
+- Not the best topic for me to discuss, no.
+- Arthur: Now I feel like an absolute knobhead.
+- {Convo ends.}
+- What... kind of toys?
+- Arthur: OH, SOL. That's not what I meant, and you know it!
+- Arthur: I mean, children's toys. Dolls. Action Figures. Things like that.
+- Just giving you a hard time. :P
+- Yeah, of course we do.
+- {Continues as above from "Arthur: Heh. Really?"}
+- No, we don't. [End.]
+- {Convo ends.}
+
+### Conversation 5 (Finally found a use for all those gas cans you keep buying me.)
+
+- Arthur: Finally found a use for all those gas cans you keep buying me.
+- I haven't bought you any gas cans.
+- Arthur: ........
+- Arthur: I'll be right back.
+- Arthur: I need to have *words* with our friend Amir.
+- {Convo ends.}
+- Oh?
+- Arthur: Well, I had been just throwing them at the techrot, since they very much do not enjoy being on fire.
+- Arthur: But it seems Velimir is a decent grill cook.
+- {If Arthur previously tried Techrot BBQ.} Arthur: Now that you both had your revenge with that horrific abomination at my expense.
+- The look on your face was incredible.
+- Arthur: Am I forgiven yet?
+- Yeah, yeah, okay. You're forgiven :)
+- Arthur: Oh, thank Sol.
+- {Convo ends.}
+- Never.
+- Arthur: Sigh.
+- {Convo ends.}
+- You deserved that.
+- {Continues as above from "Arthur: Am I forgiven yet?"}
+- {If Arthur didn't previously try Techrot BBQ.} Arthur: Once he stopped attempting to barbecue the techrot, that is...
+- {Convo ends.}
+- {If Arthur didn't previously discussed Techrot BBQ with Velimir.} Arthur: Now I just need to convice him that trying to barbecue the techrot is a very bad idea.
+- <RETRO_EMOJI_YUM>
+- Arthur: Look, I still don't know what they eat in - whenever you're from - but - I am going to judge you if you start eating *that.*
+- {Convo ends.}
+- <RETRO_EMOJI_HORRIFIED>
+- Arthur: That was roughly the face I made, yes, exactly.
+- {Convo ends.}
+
+### Conversation 6 (What's up, A? / How's it going?)
+
+- How's it going?
+- Arthur: Aoi magnetized my keys and stuck them to the I-beam on the ceiling of the main atrium in the mall.
+- Arthur: You wouldn't happen to have any warframes that can fly, would you?
+- Mm, no, sorry. You're out of luck.
+- Arthur: Sigh. All right, I'll figure something out. Thanks anyway.
+- {Convo ends.}
+- LOL. Yeah. I'll be right there.
+- Arthur: *Fantastic.* I was getting real sick of lobbing javeling at them.
+- {Convo ends.}
+- What's up, A?
+- {Continues as above from "Arthur: Aoi magnetized-"}
+
+### Conversation 7 (What is the most horrifying warframe you have access to?)
+
+- Arthur: What is the most horrifying warframe you have access to?
+- Sevagoth. He feeds on the spirits of the dead to come back to life.
+- Why?
+- Arthur: ... I was trying to figure out what the Scaldra were yelling about on comms.
+- Arthur: Well. That's what I get for asking.
+- Arthur: And I guess I lucked the hell out with Entrati's serum, didn't I?
+- {Convo ends.}
+- Nidus. Made of pure, unadulterated Infestation.
+- {Continues as above from "Why?"}
+- Kullervo. Stabbed through with his own knives.
+- {Continues as above from "Why?"}
+- Xaku. Three warframes, fundamentally glued together, driven by void spirits.
+- {Continues as above from "Why?"}
+- Grendel. He eats people whole and dissolves them.
+- {Continues as above from "Why?"}
+
+### Conversation 8 (You know, I just realized something this morning, and I could not stop laughing.)
+
+- Arthur: You know, I just realized something this morning, and I could not stop laughing.
+- Do tell.
+- Arthur: Vodyanoi has no idea how transference works.
+- Arthur: You're like Kent Clarke and Megabloke, he's never seen two of your warframes in the same place.
+- Arthur: In his head, there's some... army of psychotic super-soldiers running amok with the Hex!
+- LOL!! I never thought about that.
+- Arthur: I'm not about to be the one to correct him. But I can't even imagine what he thinks is going on.
+- Arthur: No wonder he's so paranoid about us. Hah! Almost feel bad for the sorry little bastard.
+- Arthur: Almost
+- {Convo ends.}
+- What he doesn't know *can* hurt him, right? <RETRO_EMOJI_COOLARMSUP>
+- {Continues as above from "Arthur: No wonder-"}
+- Oh? What?
+- {Continues as above from "Arthur: Vodyanoi has no idea-"}
+
+### Conversation 9 (I'm not sure about these... Infested guns Eleanor is collecting.)
+
+- Arthur: I'm not sure about these... Infested guns Eleanor is collecting.
+- Why?
+- Arthur: Besides the fact that I think she can talk to them?
+- Arthur: I do know they talk to the guitar. Which I really do not want to think about more than I need to.
+- Arthur: But should we be concerned about them...spreading? They do seem to multiply.
+- Arthur: Which I don't understand. Nor do I want to think too hard about where their ammunition comes from. Or what it is comprised of in the first place.
+- At least these Infested things are on our side?
+- Arthur: Sure. For *now.*
+- Arthur: At least if my sidearm blows a hole in my foot I know I'm the idiot responsible.
+- Arthur: And not because my gun decided to rethink it's loyalty or got a case of the midnight munchies.
+- {Convo ends.}
+- You might just want to stick to the normal guns, then.
+- Arthur: I think I will.
+- {Continues as above from "Arthur: At least if my sidearm-"}
+- At least they don't talk.
+- Arthur: To *us.* I'm not entirely sure that they don't talk to *her.*
+- {Continues as above from "Arthur: I do know they talk to the guitar-}
+
+### Conversation 10 (Hey Arthur. How's it hanging? / What're you up to today?)
+
+- Hey Arthur. How's it hanging?
+- Arthur: I made the foolish decision to play Amir in Ollie's Crash Course.
+- Arthur: And now I am deeply annoyed that he keeps beating my high score.
+- Arthur: ... I have spent twenty six hours over the past two days playing this game.
+- Arthur: Please get Lettie to tranquilize me if I go near that blasted thing again.
+- {Convo ends.}
+- What're you up to today?
+- Arthur: Quincy and I are about to go out on recon together. His idea, not mine.
+- Arthur: It's strange, our relationship. We don't speak much.
+- Arthur: But we both know we'd die for each other if it came down to it.
+- Arthur: I guess sometimes, that's what family is, "innit?"
+- {Convo ends.}
+
+### Birthday 1
+
+- I know you're busy, but I just wanted to say Happy Birthday. :)
+- Arthur: Never too busy for a birthday greeting, mate. Appreciate it.
+- {Convo ends.}
+- Happy Birthday! (You do know what being "happy" is, right?)
+- Arthur: I do. Do you know what being 'funny' is?
+- {Convo ends.}
+
+### Birthday 2
+
+- Happy Birthday to Eleanor's little brother!
+- Arthur: Wonderful. Now I have two of you who won't ever let that drop.
+- {Convo ends.}
+- Happy Birthday, Arthur. Any plans?
+- Arthur: Thanks! Nice of you to remember. I might knock off half an hour early today. Not decided yet.
+- {Convo ends.}
+
+### Birthday 3
+
+- Hi. Just wanted to say happy birthday. Glad I was here to see it.
+- Arthur: We've had some close calls, haven't we? Thanks for having my back, today and every other day.
+- {Convo ends.}
+- Happy Birthday. Try extra hard not to die today. It'd ruin the vibe.
+- Arthur: Look, I know you've been through a lot yourself, but there's a time and a place for gallows humour.
+- {Convo ends.}
+
+### Confessions (Hey. You there?)
+
+- Arthur: Hey. You there?
+- Yeah?
+- Arthur: Can we talk about what you said earlier?
+- Sure. What about it?
+- Arthur: Did you mean what you said? Yes or no.
+- Yes.
+- But, Arthur.
+- I told you how I felt, and you left me hanging.
+- Arthur: I needed to think.
+- About?
+- Arthur: You. Us.
+- Arthur: This.
+- Arthur: When you arrived, I saw someone *just* like me - someone who wasn't really living, just surviving.
+- Arthur: Then... I saw you come alive.
+- Arthur: Because of us. Maybe even...
+- Arthur: Because of me.
+- Arthur: And that gave me hope. Hope I haven't allowed myself to have in a long time.
+- Arthur: So... I had to think. And I'm sorry if that rubbed you the wrong way. But I had to let myself come to terms with the fact that, well.
+- Arthur: I feel the same way about you.
+- Arthur: So. Shall we make this official? Make this a "thing?"
+- I'd really love that. [Date Arthur.]
+- Arthur: Well, then. Let's see where the future takes us, hm?
+- Arthur: I, for one, am looking forward to it for the first time in... ages.
+- {Convo ends.}
+- I'm sorry. I'm not ready for this. [Do not date Arthur.]
+- Arthur: I can respect that. Let me know if you change your mind.
+- {Convo ends.}
+- lol no [Do not date Arthur.]
+- Arthur: Every time I think you can't get any more deranged...
+- {Convo ends.}
+- And?
+- Arthur: Things have changed. A lot. In such a short span of time.
+- Arthur: I'd be a fool not to let myself change with it. To not be willing to at least try.
+- {Continues as above from "Arthur: When you arrived-"}
+- No.
+- Arthur: I'll cut you some slack because you've had a messed up life. I don't know why you said if you didn't mean it.
+- Arthur: But honestly? I don't care. Don't do it again.
+- {Convo ends.}
+- Maybe.
+- Arthur: I'm not sure what I expected...
+- {Convo ends.}
+- ...All right.
+- Arthur: You don't sound too enthusiastic.
+- Because I changed my mind.
+- {Continues as above from "Arthur: I'll cut you some slack-"}
+- You left me hanging.
+- {Continues as above from "Arthur: I needed to think."}
+- It's embarrassing.
+- Arthur: Why're you embarrassed?
+- I mean. I showed you my hand. And you peaced out.
+- {Continues as above from "Arthur: I needed to think."}
+- I'm supposed to be "the boss" now, right? The one in charge.
+- Arthur: Doesn't mean you can't be vulnerable. Trust me.
+- Arthur: Don't make my mistakes. Don't let yourself get cold.
+- Arthur: And...that's part of what you've shown me since you've arrived.
+- Arthur: How cold I've grown. How closed off. Even to my friends.
+- {Continues as above from "Arthur: When you arrived-"}
+- I say a lot of things. Remind me?
+- Arthur: You don't remember? how often do you go around confessing your feelings for people?
+- All the time.
+- Arthur: I need you to level with me, smartass.
+- {Continues as above from "Arthur: Did you mean what you said-"}
+- It's not that, I was just hoping *you'd* forget.
+- Arthur: Why?
+- Because I changed my mind.
+- {Continues as above from "Arthur: I'll cut you some slack-"}
+- You left me hanging.
+- {Continues as above from "Arthur: I needed to think."}
+- It's embarrassing.
+- {Continues as above from "Arthur: Why're you embarrassed?"}
+- Forget what I said. Let's pretend it didn't happen. [End.]
+- Arthur: Suit yourself.
+- {Convo ends.}
+- Sorry, can't. [End.]
+- {Convo ends.}
+
+### Eleanor (Hey. I took your advice about Eleanor.)
+
+- Arthur: Hey. I took your advice about Eleanor.
+- How'd it go?
+- Arthur: Better than I'd thought it would.
+- Arthur: Turns out it was...a good idea, actually.
+- Arthur: So...thanks.
+- Anytime. That's what friends are for.
+- {Convo ends.}
+- Maybe you should listen to me more often.
+- Arthur: Never mind.
+- {Convo ends.}
+- You took advice? Are you feeling all right?
+- Arthur: Smartass.
+- Sorry, can't help it.
+- Arthur: Debatable.
+- Arthur: I just wanted to say thanks. It was a good idea.
+- Anytime. That's what friends are for.
+- {Convo ends.}
+- Maybe you should listen to me more often.
+- Arthur: Never mind.
+- {Convo ends.}
+- Brb. [End.]
+- {Convo ends.}
+
+### Quincy Wingman (How in the ever-loving)
+
+- Arthur: How in the ever-loving bloody hell did you convince *Quincy* of all people to speak to me on your behalf?
+- I...just didn't know how else to tell you I had feelings for you.
+- Arthur: {If Arthur was never dated previously.} How about walking up to me in the Hub, and simply saying, 'mate, I have feelings for you?' Did that ever cross your mind?
+- ...Huh...
+- Arthur: Sometimes I simply do not know what to do with you.
+- Arthur: Well. No point in fussing about it now. I...have to admit you've been on my mind. If you'd like to give this a go, I'm willing to give it a try.
+- Yeah. :) I would.
+- Arthur: Well. Glad to have all that sorted then. Shall we?
+- {Convo ends.}
+- Actually, I change my mind.
+- Arthur: ...Has anyone ever told you, you are *proper* nuts?
+- {Convo ends.}
+- ...No, honestly.
+- {Continues as above from "Arthur: Sometimes I simply-"}
+- Arthur: {If Arthur was dated previously.} You did have a shot with me, and you chose to walk away. But...Quincy was convincing. If you'd like to give this another go, I'm willing to give it a try.
+- Yeah. :) I would.
+- Arthur: Well. Glad to have all that sorted then. Shall we?
+- {Convo ends.}
+- Actually, I change my mind.
+- Arthur: ...Has anyone ever told you, you are *proper* nuts?
+- {Convo ends.}
+- {If Arthur was offended previously."} I just needed to apologize to you, and didn't know how else to do it.
+- Arthur: Points for the surprise factor, I suppose. I certainly wasn't expecting that. And...very well. Apology accepted.
+- Arthur: I do have to admit you've been on my mind a great deal lately.
+- Arthur: If you'd like to give this a go, I'm willing to give it a try.
+- Yeah. :) I would.
+- Arthur: Well. Glad to have all that sorted then. Shall we?
+- {Convo ends.}
+- Actually, I change my mind.
+- Arthur: ...Has anyone ever told you, you are *proper* nuts?
+- {Convo ends.}
+- I have no clue what you're talking about. [End.]
+- Arthur: Mm...hm.
+- {Convo ends.}
+
+### Asshat (I've never been called)
+
+- Arthur: I've never been called an "asshat" before.
+- Sorry about that.
+- Arthur: Nah. I've been called worse.
+- Arthur: So.
+- Arthur: About what you said.
+- ...
+- Arthur: I...owe you an explanation.
+- Arthur: When I joined the ICR - even before then, I was a military man.
+- Arthur: I've lived my entire life with one foot in the grave. I've always been as good as dead.
+- Arthur: And it's never been more true than now. Look at me. I mean *look at me.*
+- Arthur: I'm not even *human.*
+- Arthur: So...we've had a chance to get to know each other. We've grown a bit close, yeah? You...make me laugh.
+- Arthur: You make me smile more than I have in years.
+- Arthur: But how can you want to be with someone...like me?
+- Arthur, you mean more to me than you can imagine.
+- I don't care "what's happened to you."
+- You're *you.* And that's what I'm here for. And that's who I want to be with.
+- You. Arthur Nightingale.
+- Arthur: Of everything that's happened in this cursed year, I never dreamed...never even imagined...
+- Arthur: You really want to try this? Us?
+- Yeah. I do.
+- Arthur: Screw it. Let's do this.
+- Arthur: What could possibly go wrong?
+- {Convo ends.}
+- Maybe not yet? Can we take more time? [End.]
+- Arthur: That's probably wise. Good call.
+- {Convo ends.}
+- I have a thing for toaster ovens?
+- Arthur: And you've instantly made me regret this.
+- {Convo ends.}
+- I'm not ready for this. [End.]
+- Arthur: Let me know if you change your mind.
+- {Convo ends.}
+- That whole "I have feelings for you" thing? It was a joke.
+- Arthur: Seriously?
+- I-- wait. Sorry. No. I meant it. Go on.
+- {Continues as above from "Arthur: I...owe you an explanation."}
+- I have a sick sense of humor.
+- {Convo ends.}
+- I've got more where that came from.
+- Arthur: I'm sure I'll hear all your clever insults eventually.
+- {Continues as above from "Arthur: So."}
+- First time for everything.
+- Arthur: I thought I'd experienced most of the world, until I met you.
+- {Continues as above from "Arthur: So."}
+- Still mad. [End.]
+- {Convo ends.}
+
+### Spaghetti (You okay?)
+
+- Arthur: You okay?
+- ARTHUR WHY
+- Arthur: I know that square spaghetti didn't turn out...quite right.
+- WHY WAS IT BOUNCY?!
+- Arthur: The gelatin balance was off. It'll be better next time.
+- THERE WILL BE NO NEXT TIME
+- Arthur: I'll make you some soup. Normal, non-square soup. How's that sound?
+- NO MORE POISON
+- Arthur: Nah. Poison's not my speed. Trust me.
+- {Convo ends.}
+- Just...no gelatin.
+- Arthur: Promise.
+- Please have mercy...
+- {Continues as above from "Arthur: I'll make you some soup-"}
+- Why do you hate me...?
+- {Continues as above from "Arthur: The gelatin balance-"}
+- The texture...dear Sol...the texture...
+- {Continues as above from "Arthur: I know that square spaghetti-"}
+
+### AmirHack (Heeeey... Arthur... how's it going?)
+
+- Heeeey...Arthur...how's it going?
+- br00dsw0rd: Hm? Oh, fine. You?
+- Great...Sooooo...what's new with you?
+- br00dsw0rd: Mate, we just spoke an hour ago, about-
+- br00dsw0rd: What's going on? You're acting strange.
+- ...Nothing's going on.
+- br00dsw0rd: I don't believe you, I-
+- br00dsw0rd: Wait.
+- br00dsw0rd: BROODSWORD?!
+- br00dsw0rd: I do NOT brood!
+- :｜ Buddy. That icon says otherwise.
+- br00dsw0rd: ...Fine. Fine. Maybe I brood a little.
+- br00dsw0rd: Just...get him to change it back, will you? Before anybody else notices.
+- br00dsw0rd: That boy is the definition of idle hands...we need to get him more hobbies...
+- {Convo ends.}
+- Yeah you do.
+- br00dsw0rd: Sigh.
+- {Continues as above from "br00dsw0rd: Just...get him-"}
+- Eh, he's just teasing. You know he adores you. lol
+- br00dsw0rd: Sigh.
+- {Continues as above from "br00dsw0rd: Just...get him-"}
+- Amir's bored again. Look at your username.
+- {Continues as above from "br00dsw0rd: BROODSWORD?!"}
+- Some weather we're having, huh?
+- br00dsw0rd: It becomes a little less interesting when it's the same every-
+- {Continues as above from "br00dsw0rd: What's going on?-"}
+- How about the local sport's team, yeah?
+- br00dsw0rd: What local sports-
+- {Continues as above from "br00dsw0rd: What's going on?-"}
+
+### Consent (Arthur, can we talk?)
+
+- Arthur, can we talk? [Ask consent for multiple partners.]
+- Arthur: Always. Something the matter?
+- No, not really. I just wanted to talk to you about something that I hope isn't an uncomfortable situation for you.
+- I don't want to put you into a situation you're not okay with. I know it's not something we've discussed before. So if you say no, that's all right. I want you to know that.
+- What we have is important to me - very important - and it's real. I don't want you to doubt that.
+- Arthur: Ah. I can see where this is going. You have... feelings for someone else as well, I take it?
+- I do. And I know it might be hard to understand, but it doesn't mean I feel any less for you.
+- Arthur: Darling, do you honestly think I spent so many years in the military and haven't seen just about every kind of relationship there is?
+- Arthur: When you spend so much of your life nearly dying, you learn to appreciate what matters in life and what doesn't.
+- Arthur: I don't know how this'll work out. But you matter to me enough I'm willing to try.
+- Arthur: I care about you. And if you care about them, then I care about them.
+- Arthur: Just. Not. Not. Not inside the mall. All right?
+- Arthur: Things are confusing enough as it is.
+- Lol. I promise.
+- Arthur: Thanks. And I hope I get to meet them someday. For... personal reasons, of course.
+- Arthur: Just take care of yourself out there, love.
+- {Convo ends.}
+- For what it's worth, I really think you would like them.
+- Arthur: And I hope I get to meet them someday. For... personal reasons, of course.
+- Arthur: Just take care of yourself out there, love.
+- {Convo ends.}
+- I do. But now that I think about it, I think we should probably end things here. [Break up.]
+- Arthur: If that's what you really want, then...
+- {Convo ends.}
+- > [End.]
+
+### Kaya (I need your help. I may have an emergency on my hands)
+
+- Arthur: I need your help. I may have an emergency on my hands.
+- Whats going on?!
+- Arthur: Kaya is following me around. She will not leave me alone.
+- LOL! Blame it on the accent?
+- Arthur: Are you implying she - oh no. *Oh no.* I thought I'd just made her angry.
+- Arthur: Here I was thinking she was going to drop me through a portal into some other dimension!
+- Arthur: This is *far worse.* This is all I need, some nineteen year old super-genius with a crush...
+- She wanted me to tell you that she thought you were cute, but only *after* she made it to the future. But, she keeps making trips back to keep the timeline stable. So... it's probably fine? LOL
+- Arthur: I'm going to get my atomos split turned into some kind of black hole, aren't I... {Convo ends.}

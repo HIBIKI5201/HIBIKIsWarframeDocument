@@ -15,6 +15,7 @@ Orb Vallis の大型 Raknoid
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Profit-Taker Orb/Quotes](../../quotes/profit-taker-orb.md)（197 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Profit-Taker_Orb)（英語・出典） / [全文検索](../../search.html?q=Profit-Taker%20Orb)
 

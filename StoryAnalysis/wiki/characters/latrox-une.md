@@ -14,6 +14,7 @@ Deimos に取り残され Entrati に雇われた研究者
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Latrox Une/Quotes](../../quotes/latrox-une.md)（113 行、うち独り言など 4 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Latrox_Une)（英語・出典） / [全文検索](../../search.html?q=Latrox%20Une)
 

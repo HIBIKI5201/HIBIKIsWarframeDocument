@@ -1,0 +1,186 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Nora Night/Quotes
+
+[セリフ集の一覧](README.md) › キャラクター
+
+出典: [WARFRAME Wiki「Nora Night/Quotes」](https://wiki.warframe.com/w/Nora_Night/Quotes) / このサイトのページ: [Nora Night](../wiki/characters/nora-night.md)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+132 行（うち独り言・待機中・雑談など 35 行）。英語原文。
+
+## Ambient Radio Scanner
+
+- "Hey there, Dreamers. You hearin' me? I know you are. No need to say anythin'. A hand in yours, a voice for the speechless, a bedtime story for the sleepless. The name's Nora Night, and I got somethin' to say, sweet things. Nightwave is coming." [音声](https://wiki.warframe.com/w/File:NoraNight4.ogg)
+- "Hey there, Dreamers. The Devil is home and the shades are up. That's right... it's just you and me, passin' each other slow and with a nod sayin' all that needs sayin'. I'm Nora Night, sayin'... you live with wolves you better act like one." [音声](https://wiki.warframe.com/w/File:DSneakPrev0020NoraNight_en.ogg)
+- "Nora here. The Red King is at the dance. But listen... as you drift between the stars Nora wants you to know you ain't alone. Mm-mm. We're all of us a kinda family out here, ain't we? All of us. The multitudes. Driftin' and listenin'. But you need to remember: It never troubles the wolf how many the sheep may be. It never. Troubles. The Wolf." [音声](https://wiki.warframe.com/w/File:DSneakPrev0030NoraNight_en.ogg)
+- "A voice in the night, a half-remembered dream, rising to the surface of your consciousness, from backbrain to forebrain, a sound to a vision, pullin' up and... knockity-knock. Hello, Dreamers. Let's get to know one another." [音声](https://wiki.warframe.com/w/File:DSneakPrev0040NoraNight_en.ogg)
+- "To all of you driftin' out there in the black, mark the frequency. The time has come to act together. To open our eyes and gaze with utmost clarity past the present and into a future we create. Shoulder-to-shoulder. Mark the frequency." [音声](https://wiki.warframe.com/w/File:DSneakPrev0050NoraNight_en.ogg)
+- "An echo. From long ago: 'For ten years I have been polishing this sword. Its frosty edge has never been put to the test. Now, I am holding it and showing it to you, sir: Is there anyone suffering from injustice?' Keep livin', Dreamers." [音声](https://wiki.warframe.com/w/File:DSneakPrev0060NoraNight_en.ogg)
+- "It can be tough as a kid. All sorts of people have it over you. People will kill you inside, kill you and forget your name. You grow up. They grow old. You remember. They don't. They just keep doing what they've always done. Only to someone else. Then, one day, they call you friend. And you wait. And you wait. You wait 'til they can't trust you any more than they do. And then you ask them if they enjoyed their dinner. And, looking into their panicked eyes as they gasp their last, you tell them your name. And you nod. 'Yeah', your eyes say to theirs. 'That was me'. And then you leave. And the System is a better place. Be smart, Dreamers." [音声](https://wiki.warframe.com/w/File:DSneakPrev0070NoraNight_en.ogg)
+- "In a world like this, it can be hard to have hope, when the man owns the system and the system serves to save the man, from us. But I'm here, Dreamers. To help you pierce that false fog. We'll chase it away with acts of beauty and - succeed or fail - face the foe, eyes open. As someone once said: If nothing saves us from death, may love at least save us from life." [音声](https://wiki.warframe.com/w/File:DSneakPrev0080NoraNight_en.ogg)
+- "Acts of defiance, acts of generosity, acts of sacrifice... this is how we turn this system 'round. I'll take you there, Dreamers. I'll bring you back." [音声](https://wiki.warframe.com/w/File:DSneakPrev0090NoraNight_en.ogg)
+- "A little bird tells me that nasty old Nef Anyo's got something up his sleave for the good people of Fortuna. But I have on good authority that help is on the way. Keep the faith people, sunshine's just around the corner." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0690NoraNight_en.ogg)
+- "On this cold and lonely eve, spare a thought for tractor jockeys, rail agents, and lone travellers making their way, trying to bring a little joy in people's lives, one shipment at a time." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0700NoraNight_en.ogg)
+- "Nora has it on good authority that rail pirates are hungry after a cold weekend, sweet thing. Check your mags and keep the gas tanks full." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0710NoraNight_en.ogg)
+- "Well, it's a lazy night between the stars for you and me, while out there the System is still on fire. Grineer on Corpus, Corpus on Infested - and in between the little people like you and me, well, we're just tryin' not to get stepped on. Here's to us, Dreamers." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0720NoraNight_en.ogg)
+- "We're out of the night and into the dawn. Still hangin' on in a System on fire, thanks to the good work of people like the Tenno. That's a thank-you, from Nora to you. Wherever you are." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0730NoraNight_en.ogg)
+- "Nef Anyo ain't best pleased by the actions of our friends. Keep your heads down Solaris United and steer clear of officier Friendly." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0740NoraNight_en.ogg)
+- "Dreamers, it's on these long and quiet nights I ask myself: How could I do more and do it better? And then something I read a long time ago whispers in my ear: 'All human activities are equivalent and all are on principle doomed to failure. Thus it amounts to the same thing whether one gets drunk alone or is a leader of nations.' And, Dreamers, I pour myself a drink." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0750NoraNight_en.ogg)
+- "Do you feel the next world press close, on these late nights, Dreamers? Nora does. She feels the presence of those she lost, the great and the good. Gods and ghosts. We are watched - bet on it - by those who dwell in the direction we cannot point to." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0760NoraNight_en.ogg)
+- "Flattery flattery charges my battery. Some people ask where they can send me gifts. Some want to take me out to dinner. One lonesome ol' rail agent even asked Nora to marry him. Nora ain't the marryin' kind, but thank you. Was in love once. With a man. Face of an angel, morals of a chainsaw. We all have a type, don't we? Against which we must be forever on guard. But damn he looked good in a suit." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0770NoraNight_en.ogg)
+- "Grineer galleons kickin' up dust all the way from Venus to Pluto. Watch your backs, people." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0780NoraNight_en.ogg)
+- "Nora has it on good authority that the enterprising Corpus are clearing ice out of newly-discovered tunnels. For what purpose she wonders?" [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0790NoraNight_en.ogg)
+- "Well, it's early where Nora is, and, as she wipes the sleep from her eyes, she wonders... does Unum ever leave that Tower? Can she leave that Tower? Who is she? What is she? Someone in Cetus must have answers. Come on, sweet things. Give it up." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0800NoraNight_en.ogg)
+- "Somethin's out there, Dreamers. Nora can feel it. Pullin' at her waters like the moon pulls the tides. Somethin' big, an' somethin' old. It knows us. What will it say, I wonder, the day it steps up to our door and knocks?" [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0810NoraNight_en.ogg)
+- "Now, I hear remarked that Nef's obelisk is lit up for another of the big man's showcases, parties, soirees, whatever. On the invite list is anybody who is anybody, and nobody who is nobody. Even Nora Night didn't get an invite. Shame on you, Nef Anyo, for I am delightful." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0820NoraNight_en.ogg)
+- "People ask me if it gets lonely out here. I say: 'Lonely? Never. I got all the company I need. I got you sweet things. Ain't nothin' for Nora in the real world 'cept trouble. Trouble and a few yahoos she could box for a century without a tea break.'" [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0830NoraNight_en.ogg)
+- "Nora tries, Dreamers, you know she does. But I swear, sometimes you be standing there, soaked to the skin, and some idiot wants to talk about the weather." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0840NoraNight_en.ogg)
+- "Well, bad news foodies: the Corpus are scrapping plans to bioengineer food from hazardous waste. Diners reported everything tasted like virmink... then exploded. Back to the lab, you crazy kids." [音声](https://wiki.warframe.com/w/File:DRadBroadAmb0850NoraNight_en.ogg)
+
+### During The Emissary
+
+- "For all the universe's complexity, there is only one plot. Things are not what they seem." [音声](https://wiki.warframe.com/w/File:DRadBroadAmbSeaTwo0860NoraNight_en.ogg)
+- "Anyone else picking up wierd signal shapes floating in the clouds just off gas city? Nora's keen to hear to any listeners with info." [音声](https://wiki.warframe.com/w/File:DRadBroadAmbSeaTwo0870NoraNight_en.ogg)
+- "Seems like every last Corpus who sign on to Alad V's project in the clouds have yet to be heard from. That's what I call a cast iron non-disclosure agreement." [音声](https://wiki.warframe.com/w/File:DRadBroadAmbSeaTwo0880NoraNight_en.ogg)
+
+### Deepmines
+
+- "There's a buzz in Fortuna. Something's changing. Something's growing. In the basement below the basement. And that something is calling out for help."
+- "Nora here, Dreamers, and tonight we're truly hearing from the underground. Down below the Vallis lies a deep, deep mine, and down in that mine live some special little guys doing no harm to nobody. Enter a certain tinpot hemorrhoid by the name of Nef Anyo. He wants to build a shining Palace of Prosperity in that dark, damp garden. No regard at all for the folks who have roots down there. You gonna stand for that, Dreamers?"
+- "Hearing strange reports from Fortuna, Dreamers. Mushrooms sprouting where they've never sprouted before. In the walls, the machines, in the toxic wastes. They say they're hearing something coming from the vents that lead down to the old decommissioned Deepmines and it sounds like laughter."
+- "You ever wonder, who speaks for the dirt? For the untold millions of organisms living beneath your feet? Mushrooms, fungus, microbiota? The creatures that keep the circle of life turning. Nowhere is that life more fragile than the Orb Vallis. That's where I'm hearing it from. A voice in the darkness calling for backup. Dreamers. Are you going to answer that call?"
+- "Mushrooms. Some can kill you, others make a great salad, and still others, they can spread your mind out until you're not sure where you end and where the universe begins. But not everyone respects their local fungi. Nef anyo has called for their eradication from the Deepmines below Fortuna so he can build his Palace of Prosperity. If you ask me, someone needs to head down there to show Nef where to shove his new palace."
+- "Dreamers. Ever think about what lives below the surface? An entire universe that we step on everyday. Quietly toiling away, making life above possible. Until some bigwig with a plan says, 'sterilize this filth.' Well, Dreamers, that's exactly what's about to happen in the Deepmines below Fortuna. Unless somebody drops in to help."
+
+## Nightwave Series Episodes
+
+- Nightwave/Series 1
+- Nightwave/Series 2
+- Nightwave/Series 3
+
+## Accessing Offerings
+
+- "Now, just in case some of you ain't doin' all this outta the kindness of your hearts..." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0570NoraNight_en.ogg)
+- "Nora is all about incentivizin'." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0580NoraNight_en.ogg)
+- "Nora's got the goods for one lucky Dreamer. Who's it gonna be?" [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0590NoraNight_en.ogg)
+- "Who have we got on the line? Oh yeah, I don't have a line." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0600NoraNight_en.ogg)
+- "It's that time again, Dreamers." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0610NoraNight_en.ogg)
+- "Now, y'might be wonderin' if I'm holdin' back on y'all. Hmm, Dreamers..." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0620NoraNight_en.ogg)
+- "Hey." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0621NoraNight_en.ogg)
+- "Yo." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0622NoraNight_en.ogg)
+- "Always a pleasure." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0623NoraNight_en.ogg)
+- "Shall we?" [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0624NoraNight_en.ogg)
+- "What's on your minds, Dreamers?" [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0625NoraNight_en.ogg)
+- "Welcome." [音声](https://wiki.warframe.com/w/File:DOpenUIPnl0626NoraNight_en.ogg)
+
+## Leaving Offerings
+
+- "Ta ta, lovelies." [音声](https://wiki.warframe.com/w/File:DGoodbye0630NoraNight_en.ogg)
+- "'Til then." [音声](https://wiki.warframe.com/w/File:DGoodbye0640NoraNight_en.ogg)
+- "You know it." [音声](https://wiki.warframe.com/w/File:DGoodbye0650NoraNight_en.ogg)
+- "Let's get back to it." [音声](https://wiki.warframe.com/w/File:DGoodbye0660NoraNight_en.ogg)
+- "Let's check what's next." [音声](https://wiki.warframe.com/w/File:DGoodbye0670NoraNight_en.ogg)
+- "It's time for Nora to say good night." [音声](https://wiki.warframe.com/w/File:DGoodbye0680NoraNight_en.ogg)
+- "Later." [音声](https://wiki.warframe.com/w/File:DGoodbye0681NoraNight_en.ogg)
+- "Coming up next." [音声](https://wiki.warframe.com/w/File:DGoodbye0682NoraNight_en.ogg)
+- "Yeah." [音声](https://wiki.warframe.com/w/File:DGoodbye0683NoraNight_en.ogg)
+- "That's all from me." [音声](https://wiki.warframe.com/w/File:DGoodbye0684NoraNight_en.ogg)
+- "That's all we have time for." [音声](https://wiki.warframe.com/w/File:DGoodbye0685NoraNight_en.ogg)
+- "And we're out." [音声](https://wiki.warframe.com/w/File:DGoodbye0686NoraNight_en.ogg)
+
+### Daily Acts
+
+- "Hey, Dreamers, we are up and ready to party." [音声](https://wiki.warframe.com/w/File:DDayDone0330NoraNight_en.ogg)
+- "Well, well, well. Looks like some serious crud is going down out there. Here's to you, anonymous troublemaker." [音声](https://wiki.warframe.com/w/File:DDayDone0340NoraNight_en.ogg)
+- "Any y'all see the feeds light up? It's goin' down, kids." [音声](https://wiki.warframe.com/w/File:DDayDone0350NoraNight_en.ogg)
+- "Many things have been taken from us, it's true. But fortune favors the bold, and there ain't none so bold as people with nothin' to lose." [音声](https://wiki.warframe.com/w/File:DDayDone0360NoraNight_en.ogg)
+- "You're making waves, Dreamers. I can feel it." [音声](https://wiki.warframe.com/w/File:DDayDone0370NoraNight_en.ogg)
+- "From little things big things grow, Dreamers. I believe in you all." [音声](https://wiki.warframe.com/w/File:DDayDone0380NoraNight_en.ogg)
+
+### Weekly Acts
+
+- "Get comfy, Dreamers. One of our own believes they are the equal of our foe and, baby, they are actin' like it." [音声](https://wiki.warframe.com/w/File:DWeekDone0400NoraNight_en.ogg)
+- "Word's comin' in of so many of you bein' your best selves. Nora is just beside herself with admiration." [音声](https://wiki.warframe.com/w/File:DWeekDone0410NoraNight_en.ogg)
+- "Things seem tough, Nora knows, but believe: though it's going outta style there are people workin' to make this System a better place." [音声](https://wiki.warframe.com/w/File:DWeekDone0390NoraNight_en.ogg)
+- "The path to greatness is walked one step at a time." [音声](https://wiki.warframe.com/w/File:DWeekDone0411NoraNight_en.ogg)
+- "Love folks who love what they do." [音声](https://wiki.warframe.com/w/File:DWeekDone0412NoraNight_en.ogg)
+- "You wanna hit those high notes? You gotta mean it!" [音声](https://wiki.warframe.com/w/File:DWeekDone0413NoraNight_en.ogg)
+- "You know what they say: 'The road to good intentions be paved with hell.'" [音声](https://wiki.warframe.com/w/File:DWeekDone0415NoraNight_en.ogg)
+- "On it like paint." [音声](https://wiki.warframe.com/w/File:DWeekDone0414NoraNight_en.ogg)
+- "If it is useful, do it." [音声](https://wiki.warframe.com/w/File:DWeekDone0416NoraNight_en.ogg)
+- "Style baby. It is all about knowing who you are and not giving a damn." [音声](https://wiki.warframe.com/w/File:DWeekDone0417NoraNight_en.ogg)
+
+### Elite Weekly Acts
+
+- "To quote another: 'Virtue, integrity and courage are my priorities. I can be approached, but never pushed; befriended but never coerced; killed but never shamed.' Here's to you, Dreamers." [音声](https://wiki.warframe.com/w/File:DHardWeekDone0445NoraNight_en.ogg)
+- "Thanking a killer, is like petting a Kubrodon, is like petting a machine gun." [音声](https://wiki.warframe.com/w/File:DHardWeekDone0444NoraNight_en.ogg)
+- "When the 'why' is plain as day, the 'how' tends to get done." [音声](https://wiki.warframe.com/w/File:DHardWeekDone0443NoraNight_en.ogg)
+- "Badassador!" [音声](https://wiki.warframe.com/w/File:DHardWeekDone0442NoraNight_en.ogg)
+- "Well, well, well. If y'all ain't my favorite brand of free-ranged lunatic." [音声](https://wiki.warframe.com/w/File:DHardWeekDone0441NoraNight_en.ogg)
+- "Dreamers, Dreamers, Dreamers! There just is no. holding. you. all. back!" [音声](https://wiki.warframe.com/w/File:DHardWeekDone0440NoraNight_en.ogg)
+- "Ladies. And. Gentlemen. Listeners of all ages. I present to you. Walking amongst us. The once. And future. Bad. Ass." [音声](https://wiki.warframe.com/w/File:DHardWeekDone0430NoraNight_en.ogg)
+- "Dreamers, I have for you a tale of triumph over adversity. Of one person actin' true to their truest self." [音声](https://wiki.warframe.com/w/File:DHardWeekDone0420NoraNight_en.ogg)
+
+### Capturing/Killing Series-Exclusive Enemies
+
+- **During Series 1**
+- "If there's one thing I've learned, Dreamers, it's this: Just when you think you've had it all, seen it all, done it all... there's always more." [音声](https://wiki.warframe.com/w/File:NoraNightFugitiveCapture1.ogg)
+- "Life is a cornucopia, friends. A movable feast. An act of guts and trust. Take it when and where you find it." [音声](https://wiki.warframe.com/w/File:NoraNightFugitiveCapture2.ogg)
+- "Does your backbrain feel that reptile tickle of a reward? Do you see that bobbing light ahead, floating through the marsh of what is to come, promising you more and more and more? Do follow, Dreamers, into that sweet black tomorrow?" [音声](https://wiki.warframe.com/w/File:NoraNightFugitiveCapture3.ogg)
+- **During Series 2**
+- "Does your backbrain feel that reptile tickle of a reward? Do you see that bobbing light ahead, floating through the marsh of what is to come, promising you more and more and more? Do follow, Dreamers, into that sweet black tomorrow?" [音声](https://wiki.warframe.com/w/File:NoraNightFugitiveCapture3.ogg)
+- "Good times."
+- "Love your work, Dreamers."
+- "You got that covered like the mornin' dew, sunshine."
+- **During Series 3**
+- **Glass orb appears**
+- "Hold up. Detecting glass resonance. It's close." [音声](https://wiki.warframe.com/w/File:DGlassFissureDetect0190NoraNight_en.ogg)
+- "Eyes open. There’s glass resonance in your neighborhood." [音声](https://wiki.warframe.com/w/File:DGlassFissureDetect0200NoraNight_en.ogg)
+- "We've got signals singin' the same song as our victim. Careful now." [音声](https://wiki.warframe.com/w/File:DGlassFissureDetect0210NoraNight_en.ogg)
+- **Engaging glassed enemies**
+- "Cephalites! Time to smash some glass." [音声](https://wiki.warframe.com/w/File:DGlassFissureSpawned0220NoraNight_en.ogg)
+- "Where are they coming from? Void, who did this to them?" [音声](https://wiki.warframe.com/w/File:DGlassFissureSpawned0230NoraNight_en.ogg)
+- "Whatever these Cephalites have become, there's no going back." [音声](https://wiki.warframe.com/w/File:DGlassFissureSpawned0240NoraNight_en.ogg)
+- "There's less than nothing left of who they once were." [音声](https://wiki.warframe.com/w/File:DGlassFissureSpawned0250NoraNight_en.ogg)
+- **Hints**
+- "Dreamer, there's gotta be a way to take these things down." [音声](https://wiki.warframe.com/w/File:DGlassFissureWeakpoint0260NoraNight_en.ogg)
+- "They're tough, but no glass is unbreakable." [音声](https://wiki.warframe.com/w/File:DGlassFissureWeakpoint0270NoraNight_en.ogg)
+- "You gotta find out what's protecting them and then take your shot." [音声](https://wiki.warframe.com/w/File:DGlassFissureWeakpoint0271NoraNight_en.ogg)
+
+### General
+
+- "You keep bein' you, Dreamers." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0480NoraNight_en.ogg)
+- "Nora sleeps better knowing her Dreamers are out there, workin' to lift us up." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0490NoraNight_en.ogg)
+- "Don't stop believin', Dreamers." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0500NoraNight_en.ogg)
+- "I make exceptions for the exceptional." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0501NoraNight_en.ogg)
+- "With the impossible behind you, all that remains is what is necessary." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0502NoraNight_en.ogg)
+- "Lay 'em low and burn their shadows." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0503NoraNight_en.ogg)
+- "The steady blade in certain hands extracts a tithe of blood and pain." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0504NoraNight_en.ogg)
+- "Flash and bite, the day is won not with a strike to the heart but a hundred cuts about it." [音声](https://wiki.warframe.com/w/File:DRecurrLvl0505NoraNight_en.ogg)
+
+### Beginning (Tier 1)
+
+- "Nora wants to reach out to all of you and say: welcome to the family." [音声](https://wiki.warframe.com/w/File:DFirstSeasLvl0450NoraNight_en.ogg)
+- "Well, well. Looks like things are kicking off." [音声](https://wiki.warframe.com/w/File:DFirstSeasLvl0460NoraNight_en.ogg)
+- "And we are away." [音声](https://wiki.warframe.com/w/File:DFirstSeasLvl0470NoraNight_en.ogg)
+
+### Halfway Through (Tier 15)
+
+- "This is Nora Night, lettin' you know she's hangin' with you now that you're over the hump and on the home stretch." [音声](https://wiki.warframe.com/w/File:DHaflMaxLvl0510NoraNight_en.ogg)
+- "Sometimes the end never seems further than when you're halfway there. But I'm here to tell you all that you got this thing beat." [音声](https://wiki.warframe.com/w/File:DHaflMaxLvl0520NoraNight_en.ogg)
+- "We got as many miles behind us as we do before us, but Dreamers, we got this." [音声](https://wiki.warframe.com/w/File:DHaflMaxLvl0530NoraNight_en.ogg)
+
+### Ending (Tier 30)
+
+- "Some are born to greatness. Some have greatness thrust upon them. The rest of us, we just have to work at it. You all know who you are." [音声](https://wiki.warframe.com/w/File:DHitMaxLvl0540NoraNight_en.ogg)
+- "Never doubt yourselves Dreamers. This System's up for grabs, and we are comin' for it with both hands, yes we are." [音声](https://wiki.warframe.com/w/File:DHitMaxLvl0550NoraNight_en.ogg)
+- "Ain't no stoppin' someone who knows their worth. Nora's feelin' good about the state of things tonight, yes she is." [音声](https://wiki.warframe.com/w/File:DHitMaxLvl0560NoraNight_en.ogg)
+
+## Using Nightwave (Landing Craft) Air Support
+
+- "Dreamers, let's put these nightmares to sleep." [音声](https://wiki.warframe.com/w/File:DNoraAirSupport0310NoraNight_en.ogg)
+- "Bedtime baby." [音声](https://wiki.warframe.com/w/File:DNoraAirSupport0320NoraNight_en.ogg)
+- "From on high here's the low down." [音声](https://wiki.warframe.com/w/File:DNoraAirSupport0330NoraNight_en.ogg)
+- "Sweet dreams suckers." [音声](https://wiki.warframe.com/w/File:DNoraAirSupport0340NoraNight_en.ogg)
+- "Let me drop something on you." [音声](https://wiki.warframe.com/w/File:DNoraAirSupport0350NoraNight_en.ogg)
+- "Mic drop." [音声](https://wiki.warframe.com/w/File:DNoraAirSupport0360NoraNight_en.ogg)

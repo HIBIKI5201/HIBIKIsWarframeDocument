@@ -1,0 +1,14 @@
+{
+ "key": "suspicious-shipments",
+ "title": "Suspicious Shipments/Quotes",
+ "url": "https://wiki.warframe.com/w/Suspicious_Shipments/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 5,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Transmissions during Suspicious Shipments alerts.", null]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- Lotus: \"This vessel appears to be part of a larger operation. Its purpose remains unclear but the threat is obvious. Do not let this ship reach its destination. Eliminate the crew.\"", "DAladsCargoMissionObj010Lotus_en.ogg"]]},
+  {"path": ["During Mission"], "idle": false, "lines": [["- Lotus: \"Tenno, the level of resistance you are encountering is far beyond anything I had predicted. Something valuable is aboard this ship.\"", "DAladsCargoGoalReinf020Lotus_en.ogg"], ["- Lotus: \"Tenno, the security force on this ship is unlike anything I've seen on a Corpus transport. We need to find out what is going on here.\"", "DAladsCargoGoalReinf030Lotus_en.ogg"], ["- Lotus: \"Radio silence and intense security indicate that someone is trying very hard to keep this ship and its cargo a secret. Look out for anything out of the ordinary.\"", "DAladsCargoGoalReinf040Lotus_en.ogg"]]}
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "key": "relay",
+ "title": "Relay/Quotes",
+ "url": "https://wiki.warframe.com/w/Relay/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 15,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Unique dialogue on Relays.", null]]},
+  {"path": ["Easter Eggs"], "idle": false, "lines": [["- Perrin: \"Thank you Tenno.\"", "DLgndyTkt0700Perrin_en.ogg"], ["- Perrin: \"Well met Tenno.\"", "DLgndyTkt0710Perrin_en.ogg"], ["- Perrin: \"See you out there Tenno.\"", "DLgndyTkt0720Perrin_en.ogg"], ["- Red Veil: \"Thank you Tenno.\"", "DLgndyTkt0870RedVeil_en.ogg"], ["- Red Veil: \"Well met Tenno.\"", "DLgndyTkt0880RedVeil_en.ogg"], ["- Red Veil: \"See you out there Tenno.\"", "DLgndyTkt0890RedVeil_en.ogg"], ["- Red Veil: \"Your skills are matched Tenno.\"", "DLgndyTkt0900RedVeil_en.ogg"], ["- Eli: \"Welcome Tenno.\"", "DLgndyTkt0910Eli_en.ogg"], ["- Eli: \"Be careful out there Tenno.\"", "DLgndyTkt0920Eli_en.ogg"], ["- Alex: \"Welcome Tenno.\"", "DLgndyTkt0930Alex_en.ogg"], ["- Alex: \"Be careful out there Tenno.\"", "DLgndyTkt0940Alex_en.ogg"], ["- Jon: \"Tenno, you think you have what it takes? Try your hand at the Conclave.\"", "DLgndyTkt0950Jon_en.ogg"], ["- Jon: \"See you up there Tenno.\"", "DLgndyTkt0960Jon_en.ogg"], ["- Jon: \"Greetings Tenno.\"", "DLgndyTkt0970Jon_en.ogg"]]}
+ ]
+}

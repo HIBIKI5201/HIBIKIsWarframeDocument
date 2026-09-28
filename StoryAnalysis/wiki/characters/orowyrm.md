@@ -14,6 +14,7 @@ Orokin が設計した巨大な生体機械
 
 - グループ: [Orokin](g06-orokin.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Orowyrm/Quotes](../../quotes/orowyrm.md)（202 行、うち独り言など 4 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Orowyrm)（英語・出典） / [全文検索](../../search.html?q=Orowyrm)
 

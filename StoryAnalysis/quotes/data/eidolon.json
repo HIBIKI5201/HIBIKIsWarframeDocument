@@ -1,0 +1,22 @@
+{
+ "key": "eidolon",
+ "title": "Eidolon/Quotes",
+ "url": "https://wiki.warframe.com/w/Eidolon/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 11,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Transmissions during Eidolon hunts.", null]]},
+  {"path": ["When an Eidolon Spawns"], "idle": false, "lines": [["- Onkko: And now, a massive Sentient energy spike in your area. I advise you to be careful.\"", "DOnkkoTeraSpawn0710Onkko_en.ogg"]]},
+  {"path": ["Discovering an Eidolon Lure"], "idle": false, "lines": [["- Onkko: Those devices draw energy from Vomvalysts. Make use of them.\"", "DOnkkoTeraFindLure0690Onkko_en.ogg"]]},
+  {"path": ["Disabling a Lure"], "idle": false, "lines": [["- Onkko: Next, you attempt to take control of it.\"", "DOnkkoTeraDestroyLure0700Onkko_en.ogg"]]},
+  {"path": ["Attacking an Eidolon Normally"], "idle": false, "lines": [["- Onkko: Your weapons have no effect on its shields. Try something else.\"", "DOnkkoTeraAttShield0720Onkko_en.ogg"]]},
+  {"path": ["Once a single destroyed Synovia has a charged Lure attached"], "idle": false, "lines": [["- Onkko: That device is insufficient. You are directed to secure and employ additional Eidolon lures.\"", "DOnkkoTeraTetherFirst0760Onkko_en.ogg"]]},
+  {"path": ["Once all destroyed Synovias have a charged Lure attached"], "idle": false, "lines": [["- Onkko: Sentient energy contained. You are closing on victory. Act now!\"", "DOnkkoTeraTetherAll0770Onkko_en.ogg"]]},
+  {"path": ["When Dawn Approaches"], "idle": false, "lines": [["- Onkko: Sunrise nears. Sentient retreats. Strike now, for in moments, the future decides itself!\"", "DOnkkoTeraDaytime0780Onkko_en.ogg"]]},
+  {"path": ["Destroying a Synovia without a charged Lure"], "idle": false, "lines": [["- Onkko: The Teralyst retreats, but remains close by, wary of you.\"", "DOnkkoTeraPort0730Onkko_en.ogg"]]},
+  {"path": ["After destroying all Synovias"], "idle": false, "lines": [["- Onkko: Smaller Sentients rush to the Eidolon's aid, healing it. Stop them!\"", "DOnkkoTeraSwan0750Onkko_en.ogg"]]},
+  {"path": ["Destroying a Synovia"], "idle": false, "lines": [["- Onkko: Energy spike! I advise falling back.\"", "DOnkkoTeraWail0740Onkko_en.ogg"]]}
+ ]
+}

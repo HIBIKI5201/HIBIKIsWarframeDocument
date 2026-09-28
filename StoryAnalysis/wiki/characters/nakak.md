@@ -15,6 +15,7 @@
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Nakak/Quotes](../../quotes/nakak.md)（25 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Nakak)（英語・出典） / [全文検索](../../search.html?q=Nakak)
 

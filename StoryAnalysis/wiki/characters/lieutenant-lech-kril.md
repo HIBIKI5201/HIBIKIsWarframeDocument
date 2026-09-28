@@ -15,6 +15,7 @@
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Lieutenant Lech Kril/Quotes](../../quotes/lieutenant-lech-kril.md)（18 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Lieutenant_Lech_Kril)（英語・出典） / [全文検索](../../search.html?q=Lieutenant%20Lech%20Kril)
 

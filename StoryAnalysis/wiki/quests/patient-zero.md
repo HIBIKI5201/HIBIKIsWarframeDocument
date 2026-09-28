@@ -10,6 +10,8 @@ Alad V と Infested の実験をめぐる物語
 
 Eris 近くにある Mutalist Alad V の研究所を突き止め、太陽系を支配しようとする計画を止めるサイドクエスト。Update 15.5（2014-11-27）で追加された。
 
+- 台詞全文（取り込み）: [Patient Zero/Transcript](../../quotes/patient-zero-transcript.md)（54 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Patient_Zero)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Patient_Zero/Transcript) / [日本語 Wiki「感染起源は誰」](https://warframe.fandom.com/ja/wiki/%E6%84%9F%E6%9F%93%E8%B5%B7%E6%BA%90%E3%81%AF%E8%AA%B0) / [日本語 Wiki の取り込み](../../fandom-ja/pages/patient-zero.md) / [全文検索](../../search.html?q=Patient%20Zero)
 
 ## 基本情報

@@ -13,6 +13,7 @@ Kahl-175 を支える Corpus の乗組員
 
 - グループ: [Kahl's Garrison](g18-kahl-s-garrison.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Olvar D/Quotes](../../quotes/olvar-d.md)（15 行、うち独り言など 15 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Olvar_D)（英語・出典） / [全文検索](../../search.html?q=Olvar%20D)
 

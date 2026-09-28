@@ -1,0 +1,26 @@
+{
+ "key": "corpus-commander",
+ "title": "Corpus Commander/Quotes",
+ "url": "https://wiki.warframe.com/w/Corpus_Commander/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "corpus-commander",
+  "name": "Corpus Commander",
+  "page": "Corpus Commander"
+ },
+ "count": 25,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Quotes for Corpus Commander.", null]]},
+  {"path": ["Quotes", "Introduction"], "idle": false, "lines": [["- \"It's the Tenno! Launch all offensive units. This is not a drill.\"", null], ["- \"Transports, prepare for evacuation. The Tenno are here to steal our profits.\"", null], ["- \"Tenno assailants approaching fast. We must protect the product. Transports, initiate emergency departure.\"", null], ["- \"Move fast, Corpus, the Betrayers are coming. Ready the transports, we have orders from the top, protect that product.\"", null]]},
+  {"path": ["Quotes", "Upon Reaching the Midway Point"], "idle": false, "lines": [["- \"*sigh* The Board isn't going to be happy about this.\"", null], ["- \"In the name of the Void, protect our product, save our profits.\"", null], ["- \"They're too close. Forget everything but the high-credit product and go.\"", null], ["- \"Interceptors?! They're flying right past you. Why do they call you Interceptors if you don't intercept?\"", null], ["- \"A credit bonus for any transport crew who escapes the Tenno raiders. That, and the opportunity to keep living.\"", null]]},
+  {"path": ["Quotes", "Upon Reaching the Transport Docks"], "idle": false, "lines": [["- \"Transports, all power to shield Orbiters. Now!\"", null], ["- \"Transports, deploy shield Orbiters. Protect your cargo!\"", null]]},
+  {"path": ["Quotes", "Upon Reaching the Transport Docks", "When Transport Orbiters are Destroyed"], "idle": false, "lines": [["- \"Transport. You're vulnerable. Get out of there!\"", null]]},
+  {"path": ["Quotes", "When All Three Are Destroyed"], "idle": false, "lines": [["- \"They're all destroyed... the Board is going to have my head for this...\"", null], ["- \"Not... one... escaped? Our profits... how could you let this happen?\"", null]]},
+  {"path": ["Quotes", "When a Transport Begins Moving"], "idle": false, "lines": [["- \"Load complete? Okay, get out of here.\"", null], ["- \"Transport, stop loading and power engines. They're close.\"", null]]},
+  {"path": ["Quotes", "When a Transport Begins Moving", "When a Transport Escapes"], "idle": false, "lines": [["- \"Transport escaped. I'm getting a bonus for sure.\"", null], ["- \"Too slow, Tenno! My transports are getting away.\"", null]]},
+  {"path": ["Quotes", "When the Last Transport Begins Moving"], "idle": false, "lines": [["- \"Go, go, go!\"", null], ["- \"Get out of here, move.\"", null]]},
+  {"path": ["Quotes", "When the Last Transport Begins Moving", "When the Last Transport Escapes"], "idle": false, "lines": [["- \"Hah. The last transport just left. Those Tenno will have to try harder next time.\"", null]]},
+  {"path": ["Quotes", "When All Three Transports Escape"], "idle": false, "lines": [["- \"Praise the Void. The profits are safe.\"", null], ["- \"The transports are all safe. The profits are safe.\"", null], ["- \"Call the Board, let them know the Tenno have failed... again.\"", null]]}
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "key": "pursuit",
+ "title": "Pursuit/Quotes",
+ "url": "https://wiki.warframe.com/w/Pursuit/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 38,
+ "idle": 0,
+ "sections": [
+  {"path": ["Introduction"], "idle": false, "lines": [["- Lotus: \"We are in pursuit of a courier class ship that is transporting material vital to our course. Do not let is escape.\"", "DAWPMissionIntro0010Lotus_en.ogg"], ["- Lotus: \"Hunt down and capture this courier class ship. We need what's inside.\"", "DAWPMissionIntro0020Lotus_en.ogg"]]},
+  {"path": ["Approaching Ship"], "idle": false, "lines": [["- Lotus: \"There is the ship. Close the distance and intercept.\"", "DAWPChaseStart0030Lotus_en.ogg"], ["- Lotus: \"You found the ship. Give chase.\"", "DAWPChaseStart0040Lotus_en.ogg"]]},
+  {"path": ["Disable Engines Hint"], "idle": false, "lines": [["- Lotus: \"Slow it down. Concentrate fire on its engines.\"", "DAWPDestroyEngines0120Lotus_en.ogg"], ["- Lotus: \"Aim for the engines. Don't let it get away.\"", "DAWPDestroyEngines0130Lotus_en.ogg"], ["- Lotus: \"The engines, take them out.\"", "DAWPDestroyEngines0140Lotus_en.ogg"]]},
+  {"path": ["Engines Disabled"], "idle": false, "lines": [["- Lotus: \"The engines are down. It's a sitting duck.\"", "DAWPEnginesDestroyed0150Lotus_en.ogg"], ["- Lotus: \"Engines down.\"", "DAWPEnginesDestroyed0161Lotus_en.ogg"], ["- Lotus: \"You took out the engines. They're not going anywhere.\"", "DAWPEnginesDestroyed0162Lotus_en.ogg"], ["- Lotus: \"They've repaired their engines.\"", "DAWPEnginesDestroyed0163Lotus_en.ogg"], ["- Lotus: \"Engines are back up.\"", "DAWPEnginesDestroyed0164Lotus_en.ogg"], ["- Lotus: \"Their engines are online again. They are moving.\"", "DAWPEnginesDestroyed0165Lotus_en.ogg"]]},
+  {"path": ["Destroy Shields Hint"], "idle": false, "lines": [["- Lotus: \"Blow open those shield generators and expose the ships vital systems.\"", "DAWPDestroyShields0070Lotus_en.ogg"], ["- Lotus: \"Target the shield generators.\"", "DAWPDestroyShields0080Lotus_en.ogg"], ["- Lotus: \"Take out its shield by destroying its generators.\"", "DAWPDestroyShields0090Lotus_en.ogg"]]},
+  {"path": ["Shields Destroyed"], "idle": false, "lines": [["- Lotus: \"Generators are down, now target ship systems.\"", "DAWPShieldsDown0100Lotus_en.ogg"], ["- Lotus: \"Shields down, systems exposed.\"", "DAWPShieldsDown0110Lotus_en.ogg"]]},
+  {"path": ["Drone Launched"], "idle": false, "lines": [["- Lotus: \"Drones. Take them out.\"", "DAWPDroneLaunched0260Lotus_en.ogg"], ["- Lotus: \"Watch out for drones.\"", "DAWPDroneLaunched0270Lotus_en.ogg"]]},
+  {"path": ["Destroying Ship Turrets"], "idle": false, "lines": [["- Lotus: \"That's one less turret.\"", "DAWPSingleTurretDisabled0170Lotus_en.ogg"], ["- Lotus: \"You took out a turret.\"", "DAWPSingleTurretDisabled0172Lotus_en.ogg"]]},
+  {"path": ["Destroying Ship Turrets", "All Turrets Destroyed"], "idle": false, "lines": [["- Lotus: \"Turrets destroyed.\"", "DAWPTurretsDestroyed0180Lotus_en.ogg"], ["- Lotus: \"Turrets down. They can't return fire now.\"", "DAWPTurretsDestroyed0190Lotus_en.ogg"]]},
+  {"path": ["Ship Escaping"], "idle": false, "lines": [["- Lotus: \"You're losing them. If u let the currier get any further away you'll have no chance of catching them up.\"", "DAWPShipEscaping0310Lotus_en.ogg"], ["- Lotus: \"You need to get closer, the currier is about to escape.\"", "DAWPShipEscaping0320Lotus_en.ogg"], ["- Lotus: \"If that ship escapes this mission will be a failur.\"", "DAWPShipEscaping0330Lotus_en.ogg"]]},
+  {"path": ["Ship Escaped (Mission Failure)"], "idle": false, "lines": [["- Lotus: \"The currier escaped. I am aborting the mission.\"", "DAWPEscaped0340Lotus_en.ogg"], ["- Lotus: \"The ship outran you. There is nothing more we can do here.\"", "DAWPEscaped0350Lotus_en.ogg"]]},
+  {"path": ["After Disabling Ship"], "idle": false, "lines": [["- Lotus: \"Good work the ship is disabled. Wait, they're attacking the currier ship to keep us from it. Keep it safe.\"", "DAWPDefense0231Lotus_en.ogg"], ["- Lotus: \"You disabled the currier, but this isn't over yet. They're going to try to destroy it to keep it out of our hands. Do net let them succeed.\"", "DAWPDefense0232Lotus_en.ogg"], ["- Lotus: \"My recovery team is on rout. The Grineer will destroy the ship before they let us take it. Defend the ship.\"", "DAWPDefense0233Lotus_en.ogg"]]},
+  {"path": ["After Disabling Ship", "Defense Midway Complete"], "idle": false, "lines": [["- Lotus: \"Keep defending. My recovery team ist almost there.\"", "DAWPDefenseReminder0234Lotus_en.ogg"], ["- Lotus: \"Just a little bit longer until recovery arrives.\"", "DAWPDefenseReminder0235Lotus_en.ogg"], ["- Lotus: \"Don't let them hit the currier.\"", "DAWPDefenseReminder0236Lotus_en.ogg"]]},
+  {"path": ["After Disabling Ship", "Ship Destroyed (Mission Failure)"], "idle": false, "lines": [["- Lotus: \"They destroyed the currier. This mission is a failure.\"", "DAWPDefenseFailure0237Lotus_en.ogg"], ["- Lotus: \"Currier destroyed. There is nothing more for us here.\"", "DAWPDefenseFailure0238Lotus_en.ogg"]]},
+  {"path": ["Mission Completion"], "idle": false, "lines": [["- Lotus: \"You secured the black box. We're all done here. Head to extraction.\"", "DAWPMissionComp0251Lotus_en.ogg"]]}
+ ]
+}

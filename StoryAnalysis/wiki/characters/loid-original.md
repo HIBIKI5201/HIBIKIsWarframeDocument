@@ -15,6 +15,7 @@ Albrecht に仕えた人間
 
 - グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
 - 登場: 3 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Loid (Original)/Quotes](../../quotes/loid-original.md)（464 行、うち独り言など 24 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Loid_(Original))（英語・出典） / [全文検索](../../search.html?q=Loid%EF%BC%88%E4%BA%BA%E9%96%93%E6%99%82%E4%BB%A3%EF%BC%89)
 

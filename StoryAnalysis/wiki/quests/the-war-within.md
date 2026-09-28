@@ -10,6 +10,8 @@ Teshin を追って Kuva 要塞に潜入し、両女王と対決して Void の�
 
 Teshin を追って Grineer の本拠地にたどり着き、両女王と対峙するなかで、Tenno が封じられた記憶と本来の力を取り戻すメインクエスト。Update 19.0（2016-11-11）で追加された。会話の選択肢で「太陽／月」の傾向（Alignment）が決まる仕組みが初めて導入された。傾向は後から変えられず、再プレイしても変わらない。
 
+- 台詞全文（取り込み）: [The War Within/Transcript](../../quotes/the-war-within-transcript.md)（521 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_War_Within)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_War_Within/Transcript) / [日本語 Wiki「内なる紛争」](https://warframe.fandom.com/ja/wiki/%E5%86%85%E3%81%AA%E3%82%8B%E7%B4%9B%E4%BA%89) / [日本語 Wiki の取り込み](../../fandom-ja/pages/the-war-within.md) / [全文検索](../../search.html?q=The%20War%20Within)
 
 ## 基本情報

@@ -1,0 +1,21 @@
+{
+ "key": "isaah",
+ "title": "Isaah/Quotes",
+ "url": "https://wiki.warframe.com/w/Isaah/Quotes",
+ "kind": "キャラクター",
+ "site": {
+  "key": "isaah",
+  "name": "Isaah",
+  "page": "Isaah"
+ },
+ "count": 16,
+ "idle": 0,
+ "sections": [
+  {"path": ["The Sacrifice"], "idle": false, "lines": [["Main article: The Sacrifice/Transcript", null]]},
+  {"path": ["The Sacrifice", "First memory"], "idle": false, "lines": [["- \"Can he hear me? Father? It's me. Isaah. Do you remember me?\"", "DSacMemOne1210Isaah_en.ogg"]]},
+  {"path": ["The Sacrifice", "Second memory"], "idle": false, "lines": [["- \"The Sentient battle at Hull... I can't imagine... You were awarded the 'Lua Cross' for valor.\"", "DSacMemTwoGame3440Isaah_en.ogg"], ["- \"Of course.\"", "DSacMemTwoGame1630Isaah_en.ogg"], ["- \"He loves this game. I'll never forget the time I finally beat him... but now I'm thinking he just let me win.\"", "DSacMemTwoAck3430Isaah_en.ogg"], ["- \"Father? You... you alright? Please! Do something for him!\"", "DSacMemTwoGame1670Isaah_en.ogg"]]},
+  {"path": ["The Sacrifice", "Third memory"], "idle": false, "lines": [["- \"Father, do you remember your Shawzin? Remember how you'd sing to us 'Smiles from Juran'?\"", "DSacMemThree1830Isaah_en.ogg"], ["- \"My father understands the game better than anyone.\"", "DSacMemThree3450Isaah_en.ogg"]]},
+  {"path": ["The Sacrifice", "Fourth memory"], "idle": false, "lines": [["- \"I... am honored... to be your son.\"", "DSacMemFour2200Isaah_en.ogg"], ["- \"Father? Father!\"", "DSacMemFour3460Isaah_en.ogg"]]},
+  {"path": ["The Sacrifice", "In Transference with Umbra"], "idle": false, "lines": [["- \"Father?\"", "DSacBlackSpace03470Isaah_en.ogg"], ["- \"It's me. Isaah.\"", "DSacBlackSpace03480Isaah_en.ogg"], ["- \"Father? Father!\"", "DSacBlackSpace03500Isaah_en.ogg"], ["- \"Do you remember your Shawzin?\"", "DSacBlackSpace03520Isaah_en.ogg"], ["- \"He loves this game. I'll never forget the time I finally beat him...\"", "DSacBlackSpace03530Isaah_en.ogg"], ["- \"Father? You... you alright?\"", "DSacBlackSpace03540Isaah_en.ogg"]]}
+ ]
+}

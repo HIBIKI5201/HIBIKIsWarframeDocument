@@ -23,7 +23,7 @@ Markdown・テンプレートの変更を検知して自動で再ビルドする
 | --- | --- |
 | `characters.html?q=Grineer` | キャラクター一覧を、表の行単位で絞り込む（`quests.html` やほかのページも同じ） |
 | `search.html?q=Margulis` | 全文検索。名前が一致するキャラクター・クエストはページへの近道を上に出す |
-| `search.html?q=Margulis&type=クエスト` | 種類（キャラ・クエスト・用語・資料・日本語Wiki・考察）で絞り込む |
+| `search.html?q=Margulis&type=クエスト` | 種類（キャラ・クエスト・用語・セリフ・資料・日本語Wiki・考察）で絞り込む。セリフの索引は大きいので、検索ページを開いたあとで読み込む |
 
 キャラクター・クエストは 1 件 1 ページ（`wiki/characters/<名前>.html`・`wiki/quests/<名前>.html`）で、
 各ページから前後の項目・グループ・登場クエスト（キャラクター）・Wiki の記事・日本語 Wiki・全文検索へ移れる。
@@ -33,6 +33,7 @@ Markdown・テンプレートの変更を検知して自動で再ビルドする
 
 - `sources/`: ゲーム内のストーリー関連テキスト（英語原文）。考察の根拠はここから引用する。詳細は [sources/README.md](sources/README.md)。
 - `glossary.md`: 英語 ⇔ 日本語の用語対応表。`data/terms.json` の用語から `scripts/terms.py` で自動生成する（日本語はゲームの公式訳）。
+- `quotes/`: WARFRAME Wiki の Quotes カテゴリ（キャラクター・場所・ミッションのセリフ集と、クエストの台詞全文）を全ページ取り込んだもの。英語原文。独り言・待機中・雑談だけを集めた `quotes/idle.md` もある。
 - `fandom-ja/`: 日本語版 Wiki（Fandom）から取り込んだ用語対応表とストーリー関連ページ（CC BY-SA 3.0）。日本語での慣用表記の出典に使う。
 - `scripts/build_sources.py`: `sources/` の自動生成スクリプト。
 - `scripts/build_site.py` / `scripts/serve.py`: Markdown → HTML の変換とローカルサーバー。
@@ -76,6 +77,17 @@ python StoryAnalysis/scripts/build_fandom_ja.py --refresh
 - `fandom-ja/terms.md`・`terms.json`: 英語名と日本語 Wiki での表記の対応。英語名は英語版への言語間リンク・英字の転送ページ・冒頭の太字の定義文（例: オロキン（Orokin））・クエストの英語名称から機械的に取る
 - `fandom-ja/pages/`: クエスト・キャラクター・勢力などのカテゴリの記事と、「伝承」などの節がある記事の本文（攻略向けの節は省く）
 - 各ページに出典（記事と履歴へのリンク）・最終更新日・ライセンス（CC BY-SA 3.0）を載せる。日本語 Wiki の記事の多くは 2020〜2021 年で更新が止まっているので、内容の根拠はゲーム内テキストを優先する
+
+セリフ集（`quotes/`）は次のコマンドで取り込む（`--refresh` で Wiki を取り直す）。
+
+```sh
+python StoryAnalysis/scripts/build_quotes.py
+```
+
+- `quotes/data/<key>.json`: 1 ページずつのデータ。見出しの階層ごとのセリフと音声ファイル名（Wiki の File ページへリンクする）
+- `quotes/<key>.md`: 1 ページずつのセリフ集。`quotes/idle.md`: 見出しが Idle・Ambient・Chatter・Citizens などの節と、Cetus・Fortuna・Duviri の住民・オービターのラジオのページを集めたもの
+- キャラクター・クエストのページには、対応するセリフ集・台詞全文へのリンクが付く（最後に `render_wiki.py` を実行して付け直す）
+- 公式の日本語字幕は公開されているゲームデータに含まれないので、英語原文だけ
 
 ## 用語と翻訳の確認
 

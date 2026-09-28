@@ -15,6 +15,11 @@ Kuva で強化された Grineer の宿敵
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Kuva Lich/Quotes/LichA](../../quotes/kuva-lich-licha.md)（142 行）
+- セリフ集: [Kuva Lich/Quotes/LichB](../../quotes/kuva-lich-lichb.md)（140 行）
+- セリフ集: [Kuva Lich/Quotes/LichC](../../quotes/kuva-lich-lichc.md)（140 行）
+- セリフ集: [Kuva Lich/Quotes/LichD](../../quotes/kuva-lich-lichd.md)（140 行）
+- セリフ集: [Kuva Lich/Quotes](../../quotes/kuva-lich.md)（37 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Kuva_Lich)（英語・出典） / [全文検索](../../search.html?q=Kuva%20Lich)
 

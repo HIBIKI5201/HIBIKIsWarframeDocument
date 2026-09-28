@@ -10,6 +10,8 @@ Baro Ki'Teer に導かれ、Inaros の墓を探る
 
 Baro Ki'Teer に頼まれ、火星の古代の墓から謎の財宝を探し出すサイドクエスト。Update 18.5（2016-03-04）で追加された。
 
+- 台詞全文（取り込み）: [Sands of Inaros/Transcript](../../quotes/sands-of-inaros-transcript.md)（82 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Sands_of_Inaros)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Sands_of_Inaros/Transcript) / [日本語 Wiki「INAROSの砂嵐」](https://warframe.fandom.com/ja/wiki/INAROS%E3%81%AE%E7%A0%82%E5%B5%90) / [日本語 Wiki の取り込み](../../fandom-ja/pages/sands-of-inaros.md) / [全文検索](../../search.html?q=Sands%20of%20Inaros)
 
 ## 基本情報

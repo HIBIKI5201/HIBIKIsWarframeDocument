@@ -10,6 +10,8 @@ Railjack を建造して艦隊戦に備える
 
 Sentient の脅威に備え、Old War 時代の Orokin の戦闘艦 Railjack を組み立てるメインクエスト。Update 26.1（2019-11-22）で追加された。
 
+- 台詞全文（取り込み）: [Rising Tide/Transcript](../../quotes/rising-tide-transcript.md)（133 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Rising_Tide)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Rising_Tide/Transcript) / [全文検索](../../search.html?q=Rising%20Tide)
 
 ## 基本情報

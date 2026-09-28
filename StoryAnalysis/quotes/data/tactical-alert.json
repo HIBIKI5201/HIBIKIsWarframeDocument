@@ -1,0 +1,12 @@
+{
+ "key": "tactical-alert",
+ "title": "Tactical Alert/Quotes",
+ "url": "https://wiki.warframe.com/w/Tactical_Alert/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 2,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Dialogue during Tactical Alerts:", null], ["- Tactical Alert/Galleon of Ghouls/Quotes", null]]}
+ ]
+}

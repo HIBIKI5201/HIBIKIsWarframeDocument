@@ -1,0 +1,14 @@
+{
+ "key": "saturn-six-fugitive",
+ "title": "Saturn Six Fugitive/Quotes",
+ "url": "https://wiki.warframe.com/w/Saturn_Six_Fugitive/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 20,
+ "idle": 4,
+ "sections": [
+  {"path": ["Attacking"], "idle": false, "lines": [["- \"Garr nosara klos(?)!\"", "BbAttackGrnWolfGang00100_en.ogg"], ["- \"Tenno!\"", "BbAttackGrnWolfGang00110_en.ogg"], ["- \"Tenno!\"", "BbAttackGrnWolfGang00120_en.ogg"], ["- \"Attaf!\" - \"Attack!\"", "BbAttackGrnWolfGang00130_en.ogg"], ["- \"Attaf!\" - \"Attack!\"", "BbAttackGrnWolfGang00140_en.ogg"], ["- \"Attaf!\" - \"Attack!\"", "BbAttackGrnWolfGang00190_en.ogg"], ["- \"Forrirr!\" - \"Forward!\"", "BbAttackGrnWolfGang00150_en.ogg"], ["- \"Forrirr!\" - \"Forward!\"", "BbAttackGrnWolfGang00160_en.ogg"], ["- \"Ruklas(?)\"", "BbAttackGrnWolfGang00170_en.ogg"]]},
+  {"path": ["Patrol Idle"], "idle": true, "lines": [["- \"???\"", "BbPatrolGrnWolfGang00200_en.ogg"], ["- \"???\"", "BbPatrolGrnWolfGang00210_en.ogg"], ["- \"???\"", "BbPatrolGrnWolfGang00220_en.ogg"], ["- \"???\"", "BbPatrolGrnWolfGang00240_en.ogg"]]},
+  {"path": ["Spotting Player"], "idle": false, "lines": [["- \"Uniter spotter!\" - \"Unit spotted!\"", "BbPlayerSpottedGrnWolfGang00300_en.ogg"], ["- \"Over klegre!\" - \"Over there!\"", "BbPlayerSpottedGrnWolfGang00310_en.ogg"], ["- \"Noreaga(?)\"", "BbPlayerSpottedGrnWolfGang00320_en.ogg"], ["- \"Regerge(?)\"", "BbPlayerSpottedGrnWolfGang00330_en.ogg"], ["- \"Nohu regar(?)\"", "BbPlayerSpottedGrnWolfGang00340_en.ogg"], ["- \"Rhue Tenno!\" - \"Die Tenno!\"", "BbPlayerSpottedGrnWolfGang00350_en.ogg"], ["- \"Duraga ru degey(?)\"", "BbPlayerSpottedGrnWolfGang00360_en.ogg"]]}
+ ]
+}

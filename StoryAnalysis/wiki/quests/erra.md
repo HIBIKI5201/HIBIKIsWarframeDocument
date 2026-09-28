@@ -10,6 +10,8 @@ Sentient の指揮官 Erra が姿を現し、ルアで衝突する
 
 Prelude to War の第 2 幕となる短いメインクエスト。Update 27.0（2019-12-13）で追加された。Old War の短い回想の後、Murex に乗り込んだオペレーターが、The New War に向けて Ballas、Natah、Natah の弟 Erra と Sentient の軍勢が集う場面を目撃する。
 
+- 台詞全文（取り込み）: [Erra (Quest)/Transcript](../../quotes/erra-quest-transcript.md)（28 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Erra_(Quest))（英語・出典） / [台詞全文](https://wiki.warframe.com/w/Erra_(Quest)/Transcript) / [全文検索](../../search.html?q=Erra)
 
 ## 基本情報

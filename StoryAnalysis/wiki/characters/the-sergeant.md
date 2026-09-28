@@ -14,6 +14,7 @@
 
 - グループ: [Corpus](g04-corpus.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [The Sergeant/Quotes](../../quotes/the-sergeant.md)（31 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Sergeant)（英語・出典） / [全文検索](../../search.html?q=The%20Sergeant)
 

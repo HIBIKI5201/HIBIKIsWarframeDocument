@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-nekros",
+ "title": "Prime Access Trailer/Nekros",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Nekros",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 3,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"Fear is a weed, snaking in the dark. It vines within the mind, corrupting it. It germinates within tribes... dividing them. Your graces, we who are beyond death, have forgotten the simple power of fear. Let us now remember.", null], ["You will find no greater power... than the simple thought of your own name... inscribed upon a grave.", null], ["Our harbinger. Our terror... Nekros.\"", "BallasNekrosPrime.ogg"]]}
+ ]
+}

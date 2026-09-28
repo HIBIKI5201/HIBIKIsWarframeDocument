@@ -1,0 +1,16 @@
+{
+ "key": "corpus-target",
+ "title": "Corpus Target/Quotes",
+ "url": "https://wiki.warframe.com/w/Corpus_Target/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 17,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Corpus Targets can have two different personalities.", null]]},
+  {"path": ["Corpus Target A", "When Being Chased"], "idle": false, "lines": [["- \"Stop them!\"", "CorpusTargetATaunt1.ogg"], ["- \"Nah, not gonna happen!\"", "CorpusTargetATaunt2.ogg"], ["- \"No, no! Stay away!\"", "CorpusTargetATaunt3.ogg"], ["- \"Keep the Betrayers off my back!\"", "CorpusTargetATaunt4.ogg"], ["- \"No! You will not take me!\"", "CorpusTargetATaunt5.ogg"], ["- \"No... no no, not you, not you!\"", "CorpusTargetATaunt6.ogg"]]},
+  {"path": ["Corpus Target A", "While Downed"], "idle": false, "lines": [["- \"I don't know anything!\"", "CorpusTargetADowned1.ogg"], ["- \"Wha- W-W-Who sent you? What did they want?\"", "CorpusTargetADowned2.ogg"]]},
+  {"path": ["Corpus Target B", "When Being Chased"], "idle": false, "lines": [["- \"It's the Tenno!\"", "CorpusTargetBTaunt1.ogg"], ["- \"I'm outta here!\"", "CorpusTargetBTaunt2.ogg"], ["- \"Don't let them get me!\"", "CorpusTargetBTaunt3.ogg"], ["- \"Do you ever stop?!\"", "CorpusTargetBTaunt4.ogg"], ["- \"I'm too important to die!\"", "CorpusTargetBTaunt5.ogg"], ["- \"Not going out like this!\"", "CorpusTargetBTaunt6.ogg"]]},
+  {"path": ["Corpus Target B", "While Downed"], "idle": false, "lines": [["- \"You've got the wrong person!\"", "CorpusTargetBDowned1.ogg"], ["- \"No! No! I-I'll pay you anything!\"", "CorpusTargetBDowned2.ogg"]]}
+ ]
+}

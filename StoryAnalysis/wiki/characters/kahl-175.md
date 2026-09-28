@@ -15,6 +15,7 @@ The New War で登場した Grineer Lancer。Kahl's Garrison のリーダー
 
 - グループ: [Grineer](g03-grineer.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Kahl-175/Quotes](../../quotes/kahl-175.md)（251 行、うち独り言など 10 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Kahl-175)（英語・出典） / [全文検索](../../search.html?q=Kahl-175)
 

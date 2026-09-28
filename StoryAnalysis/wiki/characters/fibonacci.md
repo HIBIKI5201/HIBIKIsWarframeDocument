@@ -12,6 +12,7 @@ Cavia のリーダー
 
 - グループ: [Deimos・Entrati・Cavia](g17-deimos-entrati-cavia.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Fibonacci/Quotes](../../quotes/fibonacci.md)（268 行、うち独り言など 36 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Fibonacci)（英語・出典） / [全文検索](../../search.html?q=Fibonacci)
 

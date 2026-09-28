@@ -1,0 +1,3470 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Kinemantik Instant Messenger/Eleanor
+
+[セリフ集の一覧](README.md) › 場所・ミッション・その他
+
+出典: [WARFRAME Wiki「Kinemantik Instant Messenger/Eleanor」](https://wiki.warframe.com/w/Kinemantik_Instant_Messenger/Eleanor)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+3316 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- This article attempts to distill conversations to straight-forward text and may be missing some paths; complete flowcharts for all Eleanor conversations are available here in PNG and here in SVG.
+- All ending conversations (where the Hex goes offline) will be marked as {Convo. Ends}
+- A flow chart will be included after all possible choices in the conversation are noted in this page
+- Any glowing, golden text marked in-game will be highlighted here in bold+underlined
+- Indented messages are the continuation after the Drifter (you) selected the chat option
+- All user's choices to be made are marked with a '>' for clarity. Note that available choices in-game are not written in order on this page.
+
+### Conversation 1 (Eleanor?)
+
+- k> Eleanor?
+- Eleanor: Mmm?
+- Why do you even use this? You can talk telepathically, right?
+- Eleanor: Shrewd question.
+- Eleanor: It’s about two things, honestly. Control and art.
+- Telepathy doesn’t give you control?
+- Eleanor: Look. I was raised to be polite. It’s a Britannic thing.
+- Eleanor: Politeness is all about not letting the other person know how you feel about them.
+- Eleanor: Which is hard, when your mind is effectively plugged into theirs.
+- Eleanor: For instance, right now I could be feeling like wrapping your guts around a stick...
+- Eleanor: ... or feeling giddy as a schoolgirl because you’re finally talking to me.
+- Eleanor: You don’t know. But if this were a telepathic conversation, you would.
+- So it's about not showing your feelings?
+- Eleanor: Until I choose to, yes. Perhaps it's silly to try to be civilized in this shithole. But...
+- Eleanor: ... we all have our little ways of staying sane, don't we? {Convo. ends}
+- > Sounds like you just prefer to hide behind a screen. [End.]
+- How is a chat message 'art'?
+- Eleanor: Because I have to compose every sentence. I don’t just get to dump meaning wholesale into your head.
+- Eleanor: That would be easy. Lazy. Uninteresting.
+- Eleanor: Telepathy is about as nuanced as a boot up the arse.
+- Eleanor: By comparison, text is fascinating.
+- Eleanor: Largely because of what it doesn’t say.
+- 'Read between the lines'?
+- Eleanor: Exactly. Before Höllvania, before the Techrot, I depended on text to make my living. Now it’s just a luxury. A whimsy.
+- Eleanor: Something to play with.
+- Eleanor: To pass the time while I wait for my body to turn into a chimera I barely recognize.
+- Does it help?
+- Eleanor: Oh, yes. After all...
+- (Jump to above branch "... we all have our little ways of staying sane, don't we?")
+- > Um... have fun with that. [End.]
+- Just how infested ARE you?
+- Eleanor: Are you asking out of concern, or idle curiosity?
+- Concern.
+- Eleanor: Ah. How sweet.
+- Eleanor: I am, after all, the very picture of frailty.
+- Eleanor: Perhaps you'd like to mop my brow as I recline upon my fainting couch?
+- Perhaps.
+- Eleanor: Careful.
+- Eleanor: I bite. {Convo. ends}
+- > I didn't say it was concern for YOU. [End.]
+- > Idle curiosity. [End.]
+- > Just checking you're alive. [End.]
+
+### Conversation 2 (Do you mind)
+
+- Eleanor: Do you mind if I pick your brain?
+- Eleanor: Not literally, ha ha.
+- Eleanor: Imagine, me scraping bits of jelly out of your trepanned skull!
+- Eleanor: Honestly, I'm curious about you. Where you come from, what you've lived through.
+- Eleanor: I saw some, as you know, and I'd love to see more. But only if you're willing.
+- Why not.
+- OK. Where do you want to start?
+- Eleanor: WELL.
+- Eleanor: Let’s say you felt like taking me on a whistle-stop tour of your favourite memories. Where would YOU start?
+- Duviri.
+- It's a kingdom I used to rule.
+- Eleanor: I love how you just throw that out so casually.
+- Eleanor: "Oh, just a kingdom, I have loads."
+- Eleanor: Hmmm. I'm not sure I'll like you if you turn out to be royalty.
+- Eleanor: Mind if I step inside your mind and take a look?
+- Go ahead.
+- Boolean EleanorDuviri is now true.
+- Eleanor: This is... *astonishing*
+- Eleanor: It's a living metaphor and a fabulous wish-fulfilment paradise AND sheer hell
+- Eleanor: You did not mention the endless executions bit. For all you know, I might have LIKED the endless executions bit.
+- Eleanor: ... I'm going to need to step away and process this. Dear Sol in heaven. {Convo. ends}
+- > On second thoughts - yes I do mind. [End.]
+- The Origin System.
+- You've barely made it to Lua. In my time, we have colonies on all the planets.
+- Eleanor: Well, excuse us for being slow off the mark.
+- Eleanor: Though... we aren't taking the best care of this place.
+- Eleanor: The thought of what mankind could have done to other worlds makes me queasy.
+- Eleanor: Mind if I step inside your mind and take a look?
+- Go ahead.
+- Boolean EleanorOrigin is now true.
+- Eleanor: ... there's a future. We make it. As a species.
+- Eleanor: I'm sorry, that must seem so obvious to you. But to me...
+- Eleanor: So many times I've been convinced we were just going to fizzle out on this rock
+- Eleanor: But we don't. We carry on. Thank you for showing me that. {Convo. ends}
+- > On second thoughts - yes I do mind. [End.]
+- The Entrati Family.
+- The rest of the clan are... pretty unique. And infested.
+- Eleanor: Entrati has a family?
+- Eleanor: Entrati's had SEX?
+- Eleanor: I genuinely cannot imagine what sort of ghoulish gallery might be in store here.
+- Eleanor: Mind if I step inside your mind and take a look?
+- Go ahead.
+- Boolean EleanorEntrati is now true.
+- Eleanor: They're so... human. So petty. Like bickering Gods.
+- Eleanor: And so very much themselves, even though they're... what was the word? Wormed. Through and through.
+- Eleanor: I can't pretend I understand Entrati any better after seeing this lot.
+- Eleanor: But it's a comfort to know that whatever else may have changed in your time, families are still at one another's throats. {Convo. ends}
+- > On second thoughts - yes I do mind. [End.]
+- The Lotus.
+- She's kind of a mother figure. Also kind of a biological-mechanical-deity-thing.
+- Eleanor: Oh, you are speaking my language extremely fluently.
+- Eleanor: Who is she to YOU, though?
+- Eleanor: And why is she a 'The' and not a 'Mrs' or a 'Queen' or whatnot?
+- Eleanor: Mind if I step inside your mind and take a look?
+- Go ahead.
+- Boolean EleanorLotus is now true.
+- Eleanor: Oh. Oh my.
+- Eleanor: Natah, Margulis, Lotus. Three queens in darkness.
+- Eleanor: I just want to sit at her knee and listen to her talk.
+- Eleanor: And now I'm torn between being grateful that you've shown her to me and murderously jealous that you get to be her Champion and I don't. {Convo. ends}
+- > On second thoughts - yes I do mind. [End.]
+- > My best ever bathroom experience. [End.]
+- So you're asking permission now?
+- Eleanor: Last time I probed you, you were freshly puked out of an Infested nightmare.
+- Eleanor: I had to place the security of the Hex above courtesy.
+- Eleanor: If that's a dealbreaker for you, I understand.
+- OK. Where do you want to start?
+- (Jump to above branch "WELL.")
+- > No mind probes. [End.]
+- > No thanks. [End.]
+
+### Conversation 3 (So. The Void.)
+
+- Eleanor: So. The Void.
+- Eleanor: I'm honestly quite curious about it. So...
+- Eleanor: ... would it be okay to just fire some questions at you?
+- Sure.
+- Eleanor: Excellent. So...
+- Eleanor: … how would you sum up what the Void means to you, in a few words?
+- I feel put on the spot. Is this an interview?
+- Eleanor: Sorry. Old habits.
+- Eleanor: Forgive me. I’m not a journo any more, and you’re not the story. I’m just deeply interested.
+- The Void gives me the ability to do impossible things. Project beams of energy, turn insubstantial, all that good shit. Where I come from, it’s what makes Warframes able to do what they do.
+- Eleanor: Wait. Wait.
+- Eleanor: The Void is a miracle engine, is what you’re saying?
+- Eleanor: And I’m already connected to it?
+- What do you mean, connected?
+- Eleanor: I mean I’m a Warframe. Or a Protoframe. I’m like them.
+- Eleanor: And I can do things now. Mind control. Face melting.
+- Eleanor: Is that where the power’s coming from IN ME? The Void?
+- Wait, back up. In my time, there’s this… pump. The Heart of Deimos.
+- Eleanor: One sec. Getting comfortable.
+- Eleanor: Right. As you were. I can’t wait to hear this.
+- The Heart of Deimos keeps the whole Origin System bathed in a sort of Void halo. Like background radiation. Anything that draws on Void energy depends on the Heart.
+- Eleanor: Well now.
+- Eleanor: If there’s no Heart of Deimos in my time, then how is the Void reaching me?
+- Eleanor: Because I can feel it, you know. I’m sure I can.
+- Eleanor: ‘Magic’ seems too small a word for it.
+- Eleanor: What you’re describing is divine.
+- Boolean EleanorVoidLove is now true. {Convo. ends}
+- The Void drove my parents insane.
+- Eleanor: I’m sorry. Now I feel like a heel for asking.
+- Eleanor: Did they recover?
+- They never had the chance.
+- Eleanor: Oh Sol. That’s horrible.
+- Eleanor: Would you rather not talk about this right now?
+- I'm good.
+- Eleanor: Separating parents from children. Turning one against the other. That doesn’t sound coincidental to me.
+- Eleanor: That sounds like conscious intent.
+- Eleanor: Like twisted science, almost.
+- Yeah. There’s something IN the Void. I know that much. The Indifference, the Lidless Eye, the ‘Man in the Wall’. When I say the Void did this, I mean HE did it.
+- Eleanor: So they’re not one and the same thing?
+- They could be. I hope they aren’t.
+- Boolean EleanorDrifterParents is now true.
+- Eleanor: Fascinating.
+- Eleanor: And why is that?
+- The future basically RUNS on the Void. Interplanetary travel, Warframes, the Tenno... without the Void, none of it works.
+- (Jump to above branch "Wait. Wait.")
+- > Yeah, I'd rather not. [End.]
+- The Void was my home for I don’t know how long. It shaped itself to me. Or I shaped it, somehow. Still not clear on what exactly happened.
+- Eleanor: Ooh. You have my full attention.
+- If boolean EleanorDuviri is true:
+- Eleanor: By shape you mean… Duviri? Towers and islands and flying horses?
+- Yeah. Literally a children’s story brought to life.
+- Eleanor: And this was real? It didn’t feel like a dream?
+- No, Eleanor, being murdered every morning did not feel like a dream. I felt every second of it.
+- Eleanor: I see.
+- Eleanor: I…
+- Eleanor: I have to wonder what that’s like.
+- Eleanor: Words, brought to life. A concrete reality, conjured out of nothing.
+- (Jump to above branch "‘Magic’ seems too small a word for it.")
+- If boolean EleanorDuviri is false:
+- Eleanor: What shape did it take?
+- There was this book I used to love. ‘Tales of Duviri’. Stories about a magical kingdom, only it was really about emotions and the lessons they can teach you.
+- The Void brought it to life and I got to live in it. Then it became a prison. But that’s another story.
+- Boolean EleanorDuviri is now true.
+- (Jump to above branch "And this was real? It didn’t feel like a dream?")
+- What it “means” to me?
+- Eleanor: Yes.
+- Eleanor: Get personal with it.
+- The Void gives me the ability to do impossible things. Project beams of energy, turn insubstantial, all that good shit. Where I come from, it’s what makes Warframes able to do what they do.
+- (Jump to above branch "Wait. Wait.")
+- The Void drove my parents insane.
+- (Jump to above branch "I’m sorry. Now I feel like a heel for asking.")
+- The Void was my home for I don’t know how long. It shaped itself to me. Or I shaped it, somehow. Still not clear on what exactly happened.
+- (Jump to above branch "Ooh. You have my full attention.")
+- Nobody’s really sure what the Void is. It’s a dimension, it’s an energy field, it’s a shortcut through space, it’s a bolt-hole where the Orokin hid…
+- Eleanor: Fascinating though all that is, it sounds technical. I was more interested in what it means to you. Since you seem to, well, live and breathe it. Literally.
+- The Void gives me the ability to do impossible things. Project beams of energy, turn insubstantial, all that good shit. Where I come from, it’s what makes Warframes able to do what they do.
+- (Jump to above branch "Wait. Wait.")
+- The Void drove my parents insane.
+- (Jump to above branch "I’m sorry. Now I feel like a heel for asking.")
+- The Void was my home for I don’t know how long. It shaped itself to me. Or I shaped it, somehow. Still not clear on what exactly happened.
+- (Jump to above branch "Ooh. You have my full attention.")
+- I might not have all the answers, but go ahead.
+- Eleanor: Your honesty is noted and appreciated.
+- (Jump to above branch "Excellent. So...")
+- > No. [End.]
+
+### Conversation 4 (What’s it like?)
+
+- Eleanor: What’s it like? Having the freedom to swan about in a city filled with plague and know you’ll never have to worry about catching it?
+- "Swan about" isn’t fair, Eleanor.
+- Eleanor: I’ll speak as I like, thank you very much.
+- And I’ll tell you when you’re out of line.
+- Eleanor: …
+- Eleanor: Fine. You got me. Sorry.
+- Eleanor: Eleanor’s being a bitter lemon today.
+- Eleanor: Sol, I miss the taste of lemons.
+- Something on your mind?
+- Eleanor: Nothing I’d be proud to admit to.
+- Eleanor: But thanks for checking in, regardless. {Convo. ends}
+- > Have fun with that. [End.]
+- > Suit yourself. [End.]
+- I don’t know I won’t catch it. I just haven’t yet.
+- Eleanor: Oh, come on.
+- Eleanor: I’ve seen how you work. You might have been human once, but now you’re Spanglyboots the Space Elf. All spooky light shows and mystic powers.
+- Eleanor: I don’t think you can be killed. Not forever. And I know how hard people have tried.
+- Eleanor: You don’t act scared of the Techrot. Why should you? You have no reason to be.
+- Eleanor: You’re not going to catch it.
+- You don’t know this thing like I do. It evolves. It mutates. It learns. The Orokin thought they could beat it. They never did.
+- If boolean EleanorOrigin is true:
+- Eleanor: Oh Gods, I remember now. Eris. The hulks. The surface of Deimos.
+- Eleanor: I keep forgetting we don’t win against the Techrot.
+- Eleanor: It makes what we’re trying to do here feel pointless, almost.
+- Eleanor: Sol. Here I am feeling sorry for myself for being a plague victim, and dumping on you for being immune, and you’ve seen whole worlds get eaten by the selfsame poxy crud.
+- Eleanor: I think I’ll count what blessings I have.
+- Boolean EleanorGalvanized is now true. {Convo. ends}
+- If boolean EleanorOrigin is false:
+- (Jump to above branch "I keep forgetting we don’t win against the Techrot.")
+- Maybe you’re right. But we don’t KNOW.
+- Eleanor: I suppose not. And I have no business speculating, really.
+- Eleanor: It just galls me to see you so above it all, you know?
+- Eleanor: Ignore me. Oozing blemishes are ugly enough. Self-pity is uglier.
+- Boolean EleanorGalvanized is now true. {Convo. ends}
+- You’re right. I could help people more.
+- Eleanor: Heh. That was Entrati’s whole schtick. Back when he first appeared with the whole ‘Doktor Friday’ medicine show bit.
+- If boolean EleanorEntrati is true:
+- Eleanor: Makes one wonder why he never got infected. His family did, after all.
+- Eleanor: Höllvania’s had a whole bunch of would-be saviours.
+- Eleanor: The Princess, back in the day. Then Entrati. Viktor. My brother, of course. Now you.
+- Eleanor: Do you see yourself as a hero?
+- Boolean EleanorHatesHeroes is now true.
+- I’m just trying my best.
+- Eleanor: Good enough. Carry on, soldier. {Convo. ends}
+- Yes. I do.
+- Eleanor: I simply cannot understand how you were trapped in a storybook kingdom and STILL haven’t outgrown that sort of thing. {Convo. ends}
+- No, I don’t.
+- Eleanor: I’m glad. Someone who’s lived as many centuries as you have OUGHT to be a grown-up by now. {Convo. ends}
+- I don’t believe in heroes.
+- Eleanor: Good for you. Because I’ve seen what happened when one little boy thought he’d go off on a Hero’s Journey and started thinking of the rest of us as his supporting characters. {Convo. ends}
+- If boolean EleanorEntrati is false:
+- Eleanor: He managed to protect himself from succumbing, at least. Maybe he’s more like you than you know.
+- (Jump to above branch "Höllvania’s had a whole bunch of would-be saviours.")
+- It’s fantastic. I can help the people in danger.
+- (Jump to above branch "Heh. That was Entrati’s whole schtick. Back when he first appeared with the whole ‘Doktor Friday’ medicine show bit.")
+
+### Conversation 5 (What do you think)
+
+- Eleanor: What do you think happens after we die?
+- I’m fine, Eleanor, thanks for asking! How are you?
+- Eleanor: Heh.
+- Eleanor: Look, we can talk about the weather if you’d like.
+- Eleanor: Or, since we’re already at the Mall, we could go get lattes and chat shit about how Lettie is a total bitch for keeping all those pink-n-yellows to herself instead of pilling us up like she oughtta, amirite?
+- Eleanor: (I feel dirty for having typed that. Apologies.)
+- Eleanor: I know I’m skipping over a lot of small talk and going right for the jugular, but frankly it’s your bloody fault for being so interesting.
+- Eleanor: A time-traveling demigod literally falls into my life, my already ridiculous life, and I’m expected to stand back out of social nicety?
+- Eleanor: You can give me perspectives nobody else can. So please. Before I start clawing at the furniture. Talk to me.
+- We’ve got ‘Cephalons’ where I come from. Glass cubes that used to be human beings, and still express their personality. Mostly.
+- If boolean EleanorOrigin is true:
+- Eleanor: I saw. I don't think an existence that was thought of as a PUNISHMENT by your Orokin is an afterlife worth the name.
+- Eleanor: Ew. I think I’d rather be decently dead.
+- Don’t be a jerk, Eleanor. Cephalons are people.
+- Eleanor: Stop me if I get this wrong, but… what you’re talking about doesn’t sound like it IS the person. It’s more like a computer that’s been programmed to THINK it’s the person. Correct?
+- Kind of. Necraloid is a Cephalon copy of Loid, who’s still alive. But even if a Cephalon isn’t the original, they’re still people.
+- Eleanor: Mmm. Sorry, but that’s not the same thing. We’re not talking about personhood here. We’re talking about continuity.
+- Eleanor: I could get Amir to reprogram a Chattin’ Charlotte doll with some choice Eleanor phrases, and he could scare Lettie with it after I was dead, but it wouldn’t be ME.
+- Eleanor: Unless I could possess it somehow. Let me go and ponder that.
+- If it looks like a sawgaw and it screeches like a sawgaw, it's a sawgaw. It's all the same then, isn't it?
+- Eleanor: Hmm. No. I don't think it is.
+- Eleanor: If the Void made a copy of me, I'd end up losing sleep over which of us was the real one.
+- Eleanor: Because if it can do that when you're dead, then surely it can do it while you're alive.
+- Eleanor: ... I'm not comfortable with where this is heading. Sorry. Talk later. Maybe. {Convo. ends}
+- This stuff really matters to you, doesn’t it?
+- Eleanor: Oh, you noticed?
+- Eleanor: Yes. It does matter to me.
+- Eleanor: More than I’ve really let on, I fear.
+- Eleanor: Let’s just say I have reasons for hoping that something of us survives the death of the body. I’m hardly alone in that, I know.
+- Boolean EleanorBereaved is now true.
+- You’re asking the wrong person. I’m not sure I *can* die.
+- If boolean EleanorDuviri is true:
+- Eleanor: Right. They tried, didn't they? Thrax made a regular spectacle of you. I don't know how you made it through that nightmare and stayed sane.
+- Eleanor: Between you and me, I’m not sure I can die either.
+- Eleanor: There’s a committee of tiny Technocytes living inside me now who would be extremely peeved if their home got demolished.
+- Eleanor: Which is why they’ve gone to such trouble to make me big and stwong.
+- Eleanor: It does make me wonder what would happen if I was killed outright. The Techrot can keep a corpse animated and repurposed. I’ve seen it. Like a colony of termites working in concert to pilot a robot.
+- Eleanor: So… would I become some sort of Techrot zombie? If it brought me back, would I still be me? Or would I just be a Techrot hivemind gestalt that had access to my memories, and THOUGHT it was me?
+- I don’t think it’s healthy for you to be dwelling on this.
+- Eleanor: I don’t think I’m healthy, full stop. So there we are.
+- Eleanor: But…
+- Eleanor: I appreciate that you care enough to say that.
+- Eleanor: Lettie checks up on what my body is doing, because Arthur needs me ready for action. I don’t hate her for that. It’s her job.
+- Eleanor: But nobody’s checking up on ME.
+- Eleanor: Not until now, anyway.
+- Eleanor: Gods, all you’re doing is being kind, and it’s been so bloody long since we were just KIND to one another that I’m making a great big song and dance about it.
+- Eleanor: Ahem. Thank you. The end. {Convo. ends}
+- If boolean EleanorDuviri is false:
+- (Jump to above branch "Between you and me, I’m not sure I can die either.")
+- If boolean EleanorOrigin is false:
+- (Jump to above branch "Ew. I think I’d rather be decently dead.")
+- The Orokin used to transfer their consciousness into stolen bodies, so they could live forever.
+- If boolean EleanorEntrati is true:
+- Eleanor: Of all the disgusting things this planet has in store, I think these Orokin are the worst.
+- Eleanor: I wonder if it’s too late to stop them existing at all. Maybe I just need to find the right butterfly to stomp.
+- Eleanor: Just imagine. An entire cohort of smarmy dickheads deleted from existence. The only downside is we wouldn’t get to hear them screaming.
+- Eleanor: Although…
+- Eleanor: Crap.
+- Eleanor: If I wiped them out I’d wipe YOU out, wouldn’t I? Because your existence depends on THEIR existence.
+- Oh just what we need. More people screwing with timelines.
+- Eleanor: Whoa.
+- Eleanor: I thought this was just a fun conversation.
+- Eleanor: Just so we're clear, I don't have any ACTUAL plans to muck about with the future. I just
+- Eleanor: You know what? It's not worth it.
+- Eleanor: I was TRYING to say how much I don't want you to be gone. So much so that I'd be willing to let people in my future go on suffering under the yoke of a bunch of tyrants rather than change a thing.
+- Eleanor: Bad taste joke. Sorry. Won't happen again. {Convo. ends}
+- Or you might just create a new branch of history and go off down that.
+- Eleanor: Don’t get me started. We’ll be here all week if you do.
+- Eleanor: We’re still on ‘does the soul survive the death of the body’. We can’t get on to ‘is free will really a thing’ yet.
+- Eleanor: (This is what you get, Eleanor, she told herself. This is where asking the interesting person the Big Important Questions gets you.)
+- If it looks like a sawgaw and it screeches like a sawgaw, it's a sawgaw. It's all the same then, isn't it?
+- (Jump to above branch "Hmm. No. I don't think it is.")
+- This stuff really matters to you, doesn’t it?
+- (Jump to above branch "Oh, you noticed?")
+- If boolean EleanorEntrati is false:
+- (Jump to above branch "I wonder if it’s too late to stop them existing at all. Maybe I just need to find the right butterfly to stomp.")
+- All Tenno can use ‘transference’ to pilot Warframes. We’re not tied to a physical form. So it doesn’t make sense to imagine our existence ending when our bodies die.
+- If boolean EleanorVoidLove is true:
+- Eleanor: More Void magic. The more I learn about the Void, the more I want to go. Perhaps that's where I belong. Off the edge of the map. Here be dragons. You Tenno have Void in your blood. Lucky bastards.
+- Eleanor: All very well for you lot, but what about the rest of us peasants? We can’t all be Tenno, can we?
+- I’m just saying I think survival of death is possible.
+- Eleanor: Yes, yes, I know that’s what you meant. Indulge me.
+- Eleanor: The Void could be where souls exist. Is that what we’re saying? That someone crowbarred open the spirit realm and now you lot use it to power half your devices?
+- Not just someone. Entrati. He took the first steps into the Void.
+- Eleanor: I should have known that double-dealing bastard had his fingers in this particular pie.
+- Eleanor: Has anyone ever met a dead person in the Void? Or has the Void ever taken the form of a dead person? Sorry to ask, but I need to know.
+- I know some dead people who are like that. The Holdfasts.
+- Boolean EleanorHoldfasts1 is now true.
+- Eleanor: Excuse me?
+- Eleanor: You know some dead people? As in, socially?
+- Eleanor: They remember dying? They actually know they’re dead?
+- Yeah. They used to be officers on the Zariman. The colony ship that got lost in the Void. Now they’re ghosts, I suppose.
+- Eleanor: Holy shit, this is incredible.
+- Eleanor: Although…
+- Eleanor: How do we know it’s the same person in there? The same point of view?
+- Eleanor: What if it’s just, I dunno, a Void Clone or something? Could that happen? The Void taking the IDEA of a person and then giving form to it. And that form then THINKS it’s the same person as the one who died.
+- If it looks like a sawgaw and it screeches like a sawgaw, it's a sawgaw. It's all the same then, isn't it?
+- (Jump to above branch "Hmm. No. I don't think it is.")
+- This stuff really matters to you, doesn’t it?
+- (Jump to above branch "Oh, you noticed?")
+- It's... complicated. Things can go into the void, but they aren't quite the same when they come out.
+- Eleanor: Ah. Are you having trouble finding the right words? Or is it that you don't want to tell me the full story? I get nervous when people try to hold back.
+- Eleanor: Wait. Don't answer that. Something just flashed across my mind. I don't know if it was a stray thought of yours or not, but dear bleeding Sol on the star-tree it's giving me the horrors.
+- Eleanor: Angels.
+- Eleanor: Sweet Lua, I can hear them. Its like... when an air conditioner has been running in the room for so long you've tuned its noise out and then suddenly you notice it
+- Eleanor: Why did I start asking you about this SOL DAMMIT
+- Eleanor: Okay. Okay. Right. I am going to focus now. Please stay with me. I am building a wall out of my thoughts. It is rising up between me and the angels.
+- Eleanor: Wall wall wall lovely lovely wall
+- Eleanor: There. Wall is in place. All quiet now. I should probably let you go, shouldn't I. {Convo. ends}
+- If boolean EleanorVoidLove is false:
+- (Jump to above branch "All very well for you lot, but what about the rest of us peasants? We can’t all be Tenno, can we?")
+- I'm really not comfortable fueling this obsession of yours, Eleanor.
+- Eleanor: Obsession?
+- Eleanor: What, like you're a hapless little alien waif who's oh so far from home and I'm the scientist obsessed with cutting you up to find out how you work?
+- Eleanor: I'm sorry. I was under the impression that we found ONE ANOTHER quite intriguing. I thought these little back-and-forths were our way of getting to know each other.
+- Eleanor: But no. Apparently I'm no better than some Zeke fangirl who spends every waking hour thinking about her 'obsession'.
+- Eleanor: You're not in Duviri any more, your Majesty. Nobody here gives a shit.
+- Eleanor: Get over yourself. {Convo. ends}
+- … are you okay?
+- Eleanor: Not at all.
+- Eleanor: But I’m not thinking about death in any morbid way, if that’s what you were worried about. I’m happy to keep going for a long while yet.
+- Eleanor: I just have a lot of long, dark hours to myself and plenty to think about, while my poor little cells twist and turn like croutons in the witches’ broth my bloodstream has now become.
+- We’ve got ‘Cephalons’ where I come from. Glass cubes that used to be human beings, and still express their personality. Mostly.
+- If boolean EleanorOrigin is true:
+- (Jump to above branch "I saw. I don't think an existence that was thought of as a PUNISHMENT by your Orokin is an afterlife worth the name.")
+- If boolean EleanorOrigin is false:
+- (Jump to above branch "Ew. I think I’d rather be decently dead.")
+- The Orokin used to transfer their consciousness into stolen bodies, so they could live forever.
+- If boolean EleanorEntrati is true:
+- (Jump to above branch "Of all the disgusting things this planet has in store, I think these Orokin are the worst.")
+- If boolean EleanorEntrati is false:
+- (Jump to above branch "I wonder if it’s too late to stop them existing at all. Maybe I just need to find the right butterfly to stomp.")
+- All Tenno can use ‘transference’ to pilot Warframes. We’re not tied to a physical form. So it doesn’t make sense to imagine our existence ending when our bodies die.
+- If boolean EleanorVoidLove is true:
+- (Jump to above branch "More Void magic. The more I learn about the Void, the more I want to go. Perhaps that's where I belong. Off the edge of the map. Here be dragons. You Tenno have Void in your blood. Lucky bastards.")
+- If boolean EleanorVoidLove is false:
+- (Jump to above branch "All very well for you lot, but what about the rest of us peasants? We can’t all be Tenno, can we?")
+- I'm really not comfortable fueling this obsession of yours, Eleanor.
+- (Jump to above branch "Obsession?")
+- I’ve seen enough to know that a personality can survive death.
+- Eleanor: Go on?
+- Eleanor: (Imagine me lying on my stomach, full-length on the couch, my chin on my hands, looking up at the Pom-2 and waiting expectantly to see what you’re going to type next.)
+- We’ve got ‘Cephalons’ where I come from. Glass cubes that used to be human beings, and still express their personality. Mostly.
+- If boolean EleanorOrigin is true:
+- (Jump to above branch "I saw. I don't think an existence that was thought of as a PUNISHMENT by your Orokin is an afterlife worth the name.")
+- If boolean EleanorOrigin is false:
+- (Jump to above branch "Ew. I think I’d rather be decently dead.")
+- The Orokin used to transfer their consciousness into stolen bodies, so they could live forever.
+- If boolean EleanorEntrati is true:
+- (Jump to above branch "Of all the disgusting things this planet has in store, I think these Orokin are the worst.")
+- If boolean EleanorEntrati is false:
+- (Jump to above branch "I wonder if it’s too late to stop them existing at all. Maybe I just need to find the right butterfly to stomp.")
+- All Tenno can use ‘transference’ to pilot Warframes. We’re not tied to a physical form. So it doesn’t make sense to imagine our existence ending when our bodies die.
+- If boolean EleanorVoidLove is true:
+- (Jump to above branch "More Void magic. The more I learn about the Void, the more I want to go. Perhaps that's where I belong. Off the edge of the map. Here be dragons. You Tenno have Void in your blood. Lucky bastards.")
+- If boolean EleanorVoidLove is false:
+- (Jump to above branch "All very well for you lot, but what about the rest of us peasants? We can’t all be Tenno, can we?")
+- I'm really not comfortable fueling this obsession of yours, Eleanor.
+- (Jump to above branch "Obsession?")
+- > No more stupid conversations. [End.]
+
+### Conversation 1 (Are you as sick)
+
+- Are you as sick as Lettie seems to think you are?
+- Eleanor: Let’s get this straight. Lettie doesn’t think I’m sick. Lettie thinks I’m a demon.
+- Eleanor: I wonder what it’s like to have such a romantic view of the world. You’d think a medic would deal in measurable facts. Ten CC of this, identify the microbes of that.
+- Very scientific of you. I thought you believed in more spiritual things?
+- Eleanor: Well, yes. Living the way we do, how could one not believe in the spiritual world?
+- If boolean EleanorVoidLove is true:
+- Eleanor: The Void is proof positive that the spiritual is just as real as the material. All your people have done, aside from putting a different name on it, is develop a reliable means of getting there and back.
+- Eleanor: Listen. Just because I admit the existence of demonic forces doesn’t mean I’m content to be written off as one.
+- Eleanor: What’s happening in my system is the result of quite mundane atoms and molecules waltzing together in unexpected and remarkable ways. Any spiritual significance to that will be imparted by me. Not Lettie.
+- I get it, you don’t like each other.
+- Eleanor: Don’t get me wrong. I WOULD piss on her if she was on fire.
+- Eleanor: But I’d take my time over it. {Convo. ends}
+- Has it always been this way between you?
+- Eleanor: I think you can guess the answer to that. {Convo. ends}
+- She thinks you’ll lose control.
+- Eleanor: I know. Sometimes I do, too. I have a recurring nightmare where I rip her throat out just as she puts a bullet through my heart.
+- Eleanor: But being afraid of something doesn’t make it real. So far I have gone on zero bloody rampages. ZERO.
+- Eleanor: Amir’s caused more sodding injuries than I have.
+- Eleanor: But Amir is sweet and a bit ditzy, isn’t he? Amir doesn’t have teeth that could gnaw open a tin of rations. So nobody sees Amir as a bomb waiting to go off.
+- Eleanor: Well. Except Quincy. {Convo. ends}
+- If boolean EleanorVoidLove is false:
+- (Jump to above branch "Listen. Just because I admit the existence of demonic forces doesn’t mean I’m content to be written off as one.")
+- Sounds like you think the ‘loss of humanity’ part is exaggerated.
+- Eleanor: I’m still Eleanor Nightingale. That’s more important to me than being ‘human’ is.
+- Eleanor: I’ve seen what human beings are capable of. We’re not special. In fact, going by what I’ve seen in your head, we get even worse over time.
+- If boolean EleanorEntrati is true:
+- > You want to just give up? You sound like Son.
+- Eleanor: I never said that.
+- Eleanor: Some people think humanity is sacred. People like Viktor. I’m the ultimate blasphemy in his eyes. Infected, shameless and female.> The Techrot could hijack your mind and you wouldn’t know it.
+- Eleanor: I mean… yes. You’re right. There are parasites that do that.
+- Eleanor: But what if it’s not a parasite? What if it’s a symbiote?
+- You don’t know what you’re talking about. When someone’s lost to the Infestation, they are LOST. Completely unrecognizable.
+- I don’t know if you’re trying to provoke me, but I’ve had to fight for my life against these things. Sometimes you can make out the bits that used to be human. Heads and feet just sticking out of the mass.
+- It’s not a symbiote. It doesn’t CARE what you want. It’s not here to help. It’s an aggressive cancer of a lifeform that only wants to make everything else into itself.
+- Eleanor: Remind me, what are your Warframes made of again?
+- Infested human beings.
+- Eleanor: But their Infestation was shaped and controlled, wasn’t it?
+- Eleanor: Just like the Infestation that’s in me now.
+- Eleanor: Which means someone, somewhere had the guts to stop thinking of the Infestation as a brainless monster and start looking at what it could become.
+- Oh, you did NOT just describe Ballas as ‘having guts’.
+- Eleanor: You know, you’re getting quite emotional. We should finish this conversation another time. {Convo. ends}
+- So… do you think you’re becoming more yourself, not less?
+- Eleanor: The last time I got hit with a biochemical sledgehammer that left me sprawled on a couch for half the day and had people whispering behind my back that I was turning into a monster, it was called ‘puberty’. {Convo. ends}
+- I understand that you need to try to accept what you've become. You're facing an impossible challenge.
+- Either hate what you've become or embrace it. And something tells me you're someone who learned to give up hating themselves a long time ago.
+- But these demons in your blood are NOT your friends. The best you can do is keep them on a tight leash, Eleanor. Trust. Me.
+- Eleanor: You think I don't?
+- Eleanor: Do you have any idea what it takes to keep the rage in check? Do you know what the price of this outward serenity is?
+- Eleanor: If you see me meditating, I'm not communing with the great cosmic cabbage. I'm cooling down the sodding reactor core.
+- Eleanor: There's SO much I could do and DON'T. Places I could take this... stuff... that you haven't even considered.
+- Eleanor: I could walk into their DREAMS. And they wouldn't even know I'd been there.
+- Eleanor: Well. This has been an interesting, if uncouth, exchange of views. I had a lovely time. Let's do it again. {Convo. ends}
+- I’ve seen it absorb entire MOONS, Eleanor!
+- Eleanor: And what’s so bloody wonderful about being an unabsorbed moon? Why is the Infested version not an improvement?
+- Eleanor: Oh no! A lump of indifferent space rock that could have drifted aimlessly for another few millennia is suddenly alive and interesting! What a catastrophe!
+- Eleanor: It’s the exact same bullshit Viktor’s crew come out with. Sentimental clinging on to whatever something USED to be.
+- Eleanor: As if being primordial was the same as being perfect.
+- You don’t know what you’re talking about. When someone’s lost to the Infestation, they are LOST. Completely unrecognizable.
+- I don’t know if you’re trying to provoke me, but I’ve had to fight for my life against these things. Sometimes you can make out the bits that used to be human. Heads and feet just sticking out of the mass.
+- It’s not a symbiote. It doesn’t CARE what you want. It’s not here to help. It’s an aggressive cancer of a lifeform that only wants to make everything else into itself.
+- (Jump to above branch "Remind me, what are your Warframes made of again?")
+- I understand that you need to try to accept what you've become. You're facing an impossible challenge.
+- Either hate what you've become or embrace it. And something tells me you're someone who learned to give up hating themselves a long time ago.
+- But these demons in your blood are NOT your friends. The best you can do is keep them on a tight leash, Eleanor. Trust. Me.
+- (Jump to above branch "You think I don't?")
+- Always available options:
+- If you were following its agenda, would you even know?
+- Eleanor: As opposed to following the agenda of a twisty little double helix of nucleotides? You know, that thing humans have done since they started walking upright?
+- Eleanor: “Me not do bidding of microscopic tyrant! Me human being. Me special! Find mate. Reproduce. Protect territory. Ug.”
+- The Techrot could hijack your mind and you wouldn’t know it.
+- (Jump to above branch "I mean… yes. You’re right. There are parasites that do that.")
+- I’ve seen it absorb entire MOONS, Eleanor!
+- (Jump to above branch "And what’s so bloody wonderful about being an unabsorbed moon? Why is the Infested version not an improvement?")
+- At least the human genome is natural.
+- Eleanor: The likes of Viktor Vodyanoi - and what kind of sobriquet is THAT to choose for yourself - justify their backward views by claiming they are ‘natural’. Biological fundamentalism. Man as the mirror of the Divine and all of that.
+- Eleanor: But we’ve been unnatural from the moment we started banging rocks together. Language is a virus, mate. Being human is the blank slate we get to scribble on, not the primal Eden we were kicked out of.
+- The Techrot could hijack your mind and you wouldn’t know it.
+- (Jump to above branch "I mean… yes. You’re right. There are parasites that do that.")
+- I’ve seen it absorb entire MOONS, Eleanor!
+- (Jump to above branch "And what’s so bloody wonderful about being an unabsorbed moon? Why is the Infested version not an improvement?")
+- How’s your personal Infestation going?
+- Eleanor: It’s not unpleasant, which is more than you can say for most parasitic infestations.
+- Eleanor: I can feel the Technocytes swimming in my blood. If I close my eyes I can see sparkles like fairy dust.
+- Eleanor: It means me well. Can you understand that?
+- Eleanor: Everything it does, it does out of a sincere wish to fix me up and make me better. If I’m quick and lethal and hard to kill, I’ll be a good host. So it fulfills its part of our symbiotic bargain by giving me shark skin and wolf fangs, along with a tongue like a leather whip.
+- Very scientific of you. I thought you believed in more spiritual things?
+- (Jump to above branch "Well, yes. Living the way we do, how could one not believe in the spiritual world?")
+- Sounds like you think the ‘loss of humanity’ part is exaggerated.
+- (Jump to above branch "I’m still Eleanor Nightingale. That’s more important to me than being ‘human’ is.")
+- What’s the deal with you and Lettie?
+- Eleanor: Have you heard what she calls me?
+- Honestly, no.
+- Eleanor: ‘La Bruja Metiche’. The nosy witch. I suppose she could do far worse, considering her vocabulary and flair for creative obscenities.
+- Eleanor: I have heard her tell Quincy to do some rather inventive things with playground fixtures and parts of his anatomy that left me chuckling over the visual for some time, I must admit.
+- Eleanor: Yet she sits there smirking with her phials and potions, her bottles of blood and slivers of skin, her army of ratty familiars skittering all over the place, and she has the temerity to call ME a witch.
+- I get it, you don’t like each other.
+- Eleanor: Don’t get me wrong. I WOULD piss on her if she was on fire.
+- Eleanor: But I’d take my time over it. {Convo. ends}
+- Has it always been this way between you?
+- Eleanor: I think you can guess the answer to that. {Convo. ends}
+- She thinks you’ll lose control.
+- Eleanor: I know. Sometimes I do, too. I have a recurring nightmare where I rip her throat out just as she puts a bullet through my heart.
+- Eleanor: But being afraid of something doesn’t make it real. So far I have gone on zero bloody rampages. ZERO.
+- Eleanor: Amir’s caused more sodding injuries than I have.
+- Eleanor: But Amir is sweet and a bit ditzy, isn’t he? Amir doesn’t have teeth that could gnaw open a tin of rations. So nobody sees Amir as a bomb waiting to go off.
+- Eleanor: Well. Except Quincy. {Convo. ends}
+- ‘La Bruja Metiche’. The nosy witch.
+- Eleanor: Yep. She sits there smirking with her phials and potions, her bottles of blood and slivers of skin, her army of ratty familiars skittering all over the place, and she has the temerity to call ME a witch.
+- I get it, you don’t like each other.
+- (Jump to above branch "Don’t get me wrong. I WOULD piss on her if she was on fire.")
+- Has it always been this way between you?
+- (Jump to above branch "I think you can guess the answer to that.")
+- She thinks you’ll lose control.
+- (Jump to above branch "I know. Sometimes I do, too. I have a recurring nightmare where I rip her throat out just as she puts a bullet through my heart.")
+
+### Conversation 2 (How did you end)
+
+- How did you end up here in Höllvania?
+- Eleanor: Long story.
+- Should I even bother asking? Or is this a conversation better suited for later?
+- Eleanor: Later, assuming you haven't skipped town and I haven't mutated into a raging shapeless wad of muscle tissue and mouths.
+- Eleanor: Because you might learn things about certain people that you might find hard to stomach.
+- Eleanor: Aren't I cryptic? Like a Sphinx. Rarr. {Convo. ends}
+- Are you going to give me the real version?
+- Eleanor: Perhaps, once I’m sure you won’t go running back and forth between Arthur and me, comparing notes.
+- Eleanor: I can’t imagine he’s opened up to you much.
+- He’s quite a private guy, yeah.
+- Eleanor: Arthur thinks there are some things you shouldn’t talk about. He’s old-fashioned like that. ‘Bad for morale’, he’ll say. ‘Camp chatter.’ ‘Careful, might be circulating enemy propaganda.’
+- Always the soldier. Is he ever NOT on duty?
+- Eleanor: Oh, it runs deep in our family.
+- Eleanor: Dad used to have an old Army poster from the ‘37 Bombardment on the wall in the downstairs loo. A square-jawed loyal soldier is punching out a scrawny moaner whose glasses go flying off. Caption: “Slap the chap who flaps his trap with crap!”
+- Eleanor: Arthur loved it because it was ‘rude’. He took its lesson to heart, though. ‘Don’t talk about things that could hurt the people we care about.’
+- Give him a break. It’s good sense, for a fighting team. You can’t sail a leaky ship.
+- Eleanor: All very well until it’s being invoked to shut you up.
+- Eleanor: All my life there have been things we NEEDED to talk about. There are conversations we SHOULD have had. Granny Callie. Christopher. The Cavona Mansion. They festered between us.
+- Eleanor: But no. Talking about it was Simply Not Done. Too much at stake.
+- Eleanor: So because the alternative was never to feel clean in my own skin again, I made it my business to find out about other things that people didn’t want talked about, and I talked about them. I wrote about the kinds of things that soon had people trying to nudge my car over the edge of a Hibernian mountain pass.
+- Remember, I’m not from here. What things?
+- Eleanor: The usual stuff. Corruption at the highest levels of government. Paternity scandals in the Höllvanian royal family. Tainted milk powder being distributed to nursing mothers in ‘undesirable’ sink estates in New Holywell.
+- Eleanor: Because when someone tells you to shut up, you do not comply, EVER.
+- You remind me of Nora Night.
+- Eleanor: I assume that’s a good thing? Tell me about her some time when I’m not in the mood to rip someone’s head off. {Convo. ends}
+- I agree.
+- Eleanor: Anyway. Arthur wanted me to shut up, for the good of the family. Now I don’t talk at all. Yet for some reason Arthur’s still not happy.
+- Eleanor: I ask you. What is a sister to do? {Convo. ends}
+- Hibernian what now?
+- Eleanor: Right, yes. Tourist to our time. The usual stuff. Corruption at the highest levels of government. Paternity scandals in the Höllvanian royal family. Tainted milk powder being distributed to nursing mothers in ‘undesirable’ sink estates in New Holywell.
+- (Jump to above branch "Because when someone tells you to shut up, you do not comply, EVER.")
+- That's not right. If you don't talk about hurtful things, you just... bottle it up.
+- And if you bottle it up, it can spiral out of control. ... I have some experience with that...
+- Eleanor: Precisely. It's all very well and good until it's being invoked to shut you up.
+- (Jump to above branch "All my life there have been things we NEEDED to talk about. There are conversations we SHOULD have had. Granny Callie. Christopher. The Cavona Mansion. They festered between us.")
+- What was it like growing up with Arthur?
+- Eleanor: Idyllic. We never fought, not even once. We kept one another’s secrets. He even let me braid his hair.
+- Eleanor: No wonder everyone else is jealous of me and wants Arthur to be their brother, too.
+- I bet he let you practice makeup on him, too.
+- Eleanor: Actually, he did do that. Until quite recently, in fact.
+- Eleanor: I wish he would wear eyeliner more often. He claims it’s too much of a faff. Prefers burnt cork.
+- Eleanor: The smudgy dark-eyed look does suit him, but he doesn’t know when to stop with the eyeshadow. He tries to be a moody stubble god, all folded arms and 2am bus stops, but then he keeps going and ends up as a hungover emo panda. And he wonders why people don’t take him seriously.
+- Boolean EleanorArthurPanda is now true.
+- I don't know, I think he's pretty sexy... for a hungover emo panda.
+- Eleanor: That is entirely your prerogative and I will not judge you for your choice
+- Eleanor: I will even wish you happy hunting, if you are so inclined
+- Eleanor: HOWEVER
+- Eleanor: If I suspect FOR ONE INSTANT that you are using anything I choose to share with you as leverage to get into his armoured pants...
+- Eleanor: ... I will be every inch the monster people think I am, for long enough to make you wish you were back in the execution circus.
+- Boolean EleanorArthurHunt is now true. {Convo. ends}
+- I'd let you practice makeup on me if you wanted. ;)
+- Eleanor: HOW DARE YOU
+- Eleanor: Do not disparage the sacred ritual that is Doing One Another's Makeup
+- Eleanor: We are not even close to being well enough acquainted for that.
+- Eleanor: Sorry, let me just catch my breath a moment.
+- Eleanor: ... I'm not saying never. Okay? And it only just occurred to me that this might be the first time, for you.
+- Eleanor: So I'll give you a pass, this once. But in all seriousness, it's not the sort of thing to joke about.
+- Eleanor: It meant a lot for Arthur to trust me like that. It meant even more that I was able to make him feel genuinely good about himself.
+- Eleanor: Blimey. I feel like owe you an apology now, and I don't really do those.
+- Eleanor: Let's chalk this one up to experience, eh?
+- Boolean EleanorHasFlirted is now true. {Convo. ends}
+- I’m having trouble taking YOU seriously.
+- Eleanor: Which is just what I want. {Convo. ends}
+- > How nice. [End.]
+
+### Conversation 3 (Okay, we’ve known)
+
+- Eleanor: Okay, we’ve known each other a little while now, and you’re from the future, and I think I can trust you to be honest with me about this, so I have to ask the most important question.
+- Eleanor: Are we alone? Or did we finally contact something else?
+- You mean alien life? Not yet, but maybe one day.
+- Eleanor: Well, shit.
+- Eleanor: I was really hoping there’d be something out there we could talk to. Something with a truly outside perspective on our species.
+- Eleanor: Talk to and… other things, of course.
+- Looking for a fellow tentacle monster to befriend?
+- Eleanor: Excuse you. I am not a 'tentacle monster'. I am a monster who happens to have A TENTACLE. One. So far.
+- Eleanor: If all I wanted to do was converse with things with tentacles, I'd pop over to the Princess Lucina Zoological Gardens and make friends with the octopus.
+- Eleanor: ... and now I'm wishing I'd done that. Octopi are highly intelligent. We'd probably be writing poetry together by now. I wonder where that octopus is?
+- Eleanor: Someone probably ate it. That's what usually happens to zoo animals in quarantined cities, once supplies run out.
+- Eleanor: And whatever didn't get eaten will be riddled with Techrot by now.
+- Eleanor: ... which is how it was in the 'dream', isn't it? Only it isn't a dream at all. It happened. Or will happen. Or a version of it will. Something happens at that zoo.
+- Eleanor: I'm going to remember as much as I can.
+- Eleanor: Don't try to stop me.
+- Boolean EleanorRemembers is now true. {Convo. ends}
+- Wait. Just what sort of interaction did you have in mind?
+- Eleanor: Some kind of communion, I suppose. Not necessarily anything physical. I just want to touch minds with something that not only isn’t human, it isn’t even terrestrial.
+- Eleanor: I tried to touch minds with one of Lettie’s rats, once, just to see what would happen.
+- Poor little thing didn't get hurt, did it?
+- Eleanor: It was a dreadful three seconds for him.
+- Eleanor: Poor little thing. I’d failed to allow for what touching MY mind would seem like to HIM, you see. Imagine a child lost in an infinite department store, screaming for its mother at the top of its lungs over and over. Everything was enormous and incomprehensible and had NOISES and SHAPES instead of SMELLS.
+- Eleanor: I broke the link as fast as I could. He was a little dizzy for an hour or so, then he was fine. I doubt he even remembers what happened to him.
+- And your side of it? What was it like being a rat?
+- Eleanor: I don’t know if you’ve ever had the kind of slump where all you want to do is lie in bed and breathe in and out and just exist without doing anything else, but it was a lot like that.
+- Eleanor: Very basic. Simple needs met in simple ways.
+- Eleanor: Childhood innocence has nothing on rat-consciousness.
+- Sounds kind of pleasant, the way you talk about it.
+- Eleanor: Oh, it was. I’m sure being a rat has its bad side, like having to eat your dead brother so the predators won’t sniff him out, but that fleeting moment of simplicity was like a religious breakthrough, almost.
+- Eleanor: I guess being a rat is a lot like being a monk. Live off scraps, make your humble way in the world, never own a car or a house.
+- Religious breakthrough?
+- Eleanor: I just think there’s something heroic about being small and simple with very few needs.
+- Eleanor: I thought about being a nun for a long time, believe it or not.
+- Boolean EleanorNun1 is now true.
+- You're going to have to tell me what that is, Eleanor.
+- Eleanor: Right, yes. It seems they don't have them where you come from.
+- Eleanor: Like a devotee of Lua. Shaven head, white or black robes depending on the Aspect, very strict life. You’re expected to focus on holy things to the exclusion of all else. Prayer and meditation every day. Basic diet.
+- That sounds terrible.
+- Eleanor: It does, on the face of it. About the only difference between the monastic life and prison is that you’re doing it on purpose.
+- Eleanor: Turns out it wasn't for me. I enjoy living in the world far too much.
+- Eleanor: But Sol… it’s like there’s some alternate version of me who’s sat on a mountaintop somewhere, incense clouds flowering around her, jet and moonstone beads ticking through her fingers, looking down on me with abject pity.
+- Eleanor: I know that’s just a fantasy. As much a fantasy as any of Arthur’s knights-in-armour pabulum.
+- We all fantasize about having our shit together one day.
+- Eleanor: Thank you. For some reason that’s an incredibly comforting thing to hear.
+- Eleanor: You know… I’ve never done this before, but I think I’ll try reaching out to her, just in case she exists. Yes. Maybe I can contact ‘Sister Eleanor’ telepathically.
+- Eleanor: What’s the worst that could happen?
+- Eleanor: I might get some words of guidance from my other self. Imagine that. Oh Lua, I’m quite excited now.
+- Boolean EleanorSister is now true. {Convo. ends}
+- I talk to an alternate version of myself all the time. We’ve had meals together. It’s not as crazy as you make it sound.
+- Eleanor: Yes. I keep forgetting that what you’ve lived through amounts to pure bloody madness by any normal standard.
+- (Jump to above branch "You know… I’ve never done this before, but I think I’ll try reaching out to her, just in case she exists. Yes. Maybe I can contact ‘Sister Eleanor’ telepathically.")
+- That sounds amazing.
+- Eleanor: It sounds amazing to most young novices, too, until they actually get a taste of the monastic life. I think the quit rate is something like eighty per cent.
+- (Jump to above branch "Turns out it wasn't for me. I enjoy living in the world far too much.")
+- That sounds challenging.
+- Eleanor: Oh, no. I mean, at first, yes, you’d need to wean yourself off all of the things that society has taught you to need. That phase is probably the hardest.
+- Eleanor: But once you’re established, what’s the challenge going to be? Temptation? You’ll never SEE any. The idea is that you cut yourself off from everything that might distract you from the holy.
+- (Jump to above branch "Turns out it wasn't for me. I enjoy living in the world far too much.")
+- That sounds… like it’s not for me.
+- Eleanor: It wasn’t for me, either. It turns out I enjoy living in the world far too much.
+- (Jump to above branch "But Sol… it’s like there’s some alternate version of me who’s sat on a mountaintop somewhere, incense clouds flowering around her, jet and moonstone beads ticking through her fingers, looking down on me with abject pity.")
+- A nun?
+- Eleanor: Right. Perhaps they don’t have them where you come from.
+- (Jump to above branch "Like a devotee of Lua. Shaven head, white or black robes depending on the Aspect, very strict life. You’re expected to focus on holy things to the exclusion of all else. Prayer and meditation every day. Basic diet.")
+- Are you jealous of a rat?
+- Eleanor: Sort of.
+- (Jump to above branch "I just think there’s something heroic about being small and simple with very few needs.")
+- It’s only a rat, come on.
+- Eleanor: I wouldn’t let Lettie hear you say that. Not if you like your organs where they are. {Convo. ends}
+- Okay, I have to ask how that went.
+- (Jump to above branch "It was a dreadful three seconds for him.")
+- The Indifference is the closest we’ve come, unfortunately.
+- Eleanor: What IS ‘the Indifference’? I’ve seen glimpses in your mind, but I can’t make sense of it. It makes me want to run and curl up somewhere far away with very thick walls.
+- We’re still not sure what it is. Or even what it WANTS. We don’t even know if it’s an ancient entity like the Red Veil think it is, or if Albrecht brought it into being somehow.
+- If I tell you it’s what was possessing Major Rusalka, does that help?
+- Eleanor: Oh.
+- Eleanor: Oh no.
+- Eleanor: Oh SHIT.
+- Eleanor: THAT THING? That’s the same as your ‘Indifference’?
+- Eleanor: I touched it. I’ve touched that thing with the very edge of my mind and I locked the memory away.
+- Eleanor: I don’t even remember when it happened. She was giving one of her speeches on the tannoy, and I thought ‘I’ve never probed HER head before, I wonder what’s in there, probably all leather and needles’ and so I reached out and…
+- Eleanor: shitshitshit
+- Eleanor: I can’t talk about this yet. I’m sorry.
+- Boolean EleanorIndifference is now true. {Convo. ends}
+- It's the thing that took Major Rusalka.
+- (Jump to above branch "Oh.")
+- Yeah, we’re alone. Nothing but humans and human-created things.
+- Eleanor: The bleakest possible answer.
+- Eleanor: I’m not sure why. Intelligence is intelligence, after all. It shouldn’t matter whether we discover it or create it.
+- Eleanor: I think I just wanted reassurance that the Universe hadn’t put all its eggs in one basket. Because if humans are all there is, then the situation’s pretty screwed.
+- Eleanor: Ah, well. {Convo. ends}
+
+### Conversation 4 (Hey, Eleanor...)
+
+- Hey, Eleanor...
+- Eleanor: Hey. What’s on your mind?
+- You were a ‘journalist’, right? What’s one of those exactly?
+- Eleanor: Someone who turns other people’s trauma into cash.
+- Got it. We call those ‘Corpus’.
+- If boolean EleanorOrigin is true:
+- Eleanor: Oh Gods. Sorry. I was being facetious.
+- Eleanor: Let me try again.
+- Eleanor: A journalist is someone who hunts down interesting things that are happening in the world and tells other people about them, either by writing or making a broadcast of some sort. Usually both.
+- Eleanor: A storyteller, I suppose. But not the sort who makes things up.
+- > So what makes a story ‘interesting’?
+- Eleanor: Most of the time, people are interested in reading about the bad things that happen in the world. If it bleeds it leads, as the saying goes.
+- Eleanor: I can’t imagine the situation’s any different in your time.
+- Eleanor: I tried to make a difference with my work. Yes, I was getting paid for it, but I wanted to do good in the world, too.
+- If boolean EleanorHatesHeroes is true:
+- Eleanor: I was younger then, of course. Nothing cures you of the drive to 'do good in the world' than spending some time in it.
+- Eleanor: Sorry. Sidetracked. Need to rant. Are you up for listening to me sound off about a pet hate of mine?
+- > Sure, why not.
+- Eleanor: Ok. Don't say I didn't warn you. I have a theory I call the Hero Virus.
+- Eleanor: Just imagine for a moment that you can have a virus that's transmitted through stories. Like all viruses it wants to take over the host and spread itself further.
+- Eleanor: The Hero Virus makes you see the world as if it were a story. It persuades you that Good is all about INDIVIDUAL PEOPLE doing AWESOME THINGS
+- Eleanor: So naturally you want to be one of those people
+- Eleanor: No matter how tough it may be
+- Eleanor: Because a Hero has to make hard decisions. A Hero has to endure pain stoically.
+- Eleanor: It's all such cynical bullshit. The Hero Virus exists to sell toys, market movies and to make little boys and girls grow up to be willing cannon fodder
+- Eleanor: They don't make films about the Chosen One whose heroic destiny is to wipe old people's bums in a nursing home
+- Eleanor: I'm almost done, stay with me
+- Eleanor: The Hero Virus tricks you into thinking that you can do the most good if there's a spotlight on you. It sets an impossible, twisted example
+- Eleanor: Arthur thinks he's losing me to the Techrot. But the truth is, I lost him to the Hero Virus a long time ago.
+- Boolean EleanorHeroVirus is now true. {Convo. ends}
+- > Honestly, no. [End.]
+- If boolean EleanorHatesHeroes is false:
+- Eleanor: This is where it got me. Literally. I only came here to Höllvania in the first place because of the story.
+- I thought you were here because Arthur was.
+- Eleanor: Oh, he was here first. But he made the mistake of telling me what was happening here, and I couldn’t sit on it. So I place a call to my old friend Danny MacIlvoy and pay over the odds for a forged visa and passport. Because I need them in a hurry.
+- Eleanor: You have to understand: they were locking Höllvania down, but they couldn’t do it all at once. This may be a walled city-state that’s been here since the time of the Radiant Khan, but the walls they put up to fend her off are old now and the powers in charge couldn’t get barricades and checkpoints up in time.
+- Eleanor: People were falling over themselves to get out. So nobody paid much attention to one stupid Britannic girl who was trying to get in.
+- Eleanor: You want to know the worst part?
+- Tell me the worst part.
+- Eleanor: Okay. Here is the worst part.
+- Eleanor: I was investigating an outbreak of what was being called Testudo Syndrome. Testudo because it means turtle, and people who had it were developing tough patches on their skin as an early marker. The same sort of thing that eventually turns into armour plating in us lucky few.
+- Eleanor: Testudo Syndrome was a treatment-resistant disease that seemed to be exclusive to Höllvania, had some enigmatic and sinister connection to computers, and appeared all at once. And people who asked too many questions about it had a tendency to end up as a clog in a Höllvanian sewer pipe.
+- Eleanor: Within hours of getting into Höllvania I was picking my way through the sewers and talking Arthur down from the biggest emotional fit he has ever been on.
+- Eleanor: That boy. You would think I’d followed him here just to piss him off.
+- Sounds like you didn't take the situation seriously.
+- Eleanor: I bloody did take it seriously.
+- Eleanor: People were trying to kill me. Forgive me for having a sense of humour about it.
+- Eleanor: Maybe you've just been on your own for too long, but in an outfit like this, taking the piss out of one another helps keep us sane.
+- Eleanor: I admit, sometimes it gets too close to the bone, especially when Lettie is in one of her depressive slumps and needs someone to hate on
+- Eleanor: But please, for all our sakes, lighten up a bit.
+- Eleanor: Even Arthur pops open a beer and puts his feet up, once in a while. {Convo. ends}
+- Admit it. You did.
+- Eleanor: Of course I did. But I also had a noble purpose in mind.
+- Eleanor: ‘Noble.’ Sol’s balls. I really deserved everything that happened to me, didn’t I?
+- You were telling me about the worst part.
+- Eleanor: Right, right.
+- Eleanor: So I’m in the sewers, and something with a cluster of CRT monitors instead of a head goes lurching past. I’ve barely finished shitting myself when I find the nest.
+- Eleanor: Growths. Part organic, part technology, part some poor bastard’s delerium tremens. Light in the kind of colours people only see when they’ve inhaled too many solvent fumes. It’s hideous and I can’t take my eyes off it.
+- Eleanor: Jackpot, I think.
+- Oh no...
+- Eleanor: I take a dozen grainy pictures on my Kinematic 2300A slip-phone and I send the pictures to Arthur.
+- Eleanor: And I say ‘Think I’ve found where this Techrot is coming from.’
+- Eleanor: I filed the story the next day. ‘The Techrot Beneath Höllvanian Streets.’
+- You named it.
+- Eleanor: Ta-da! I named it.
+- Eleanor: There it is. The worst part.
+- Eleanor: Nobody calls it ‘Testudo Syndrome’ now. Nobody calls it the Technocyte. Everyone just calls it Techrot.
+- Eleanor: I named the thing that’s eaten this city and is eating me from the bones outward.
+- Boolean EleanorHollTold is now true.
+- Play stupid games, win stupid prizes, I guess?
+- Eleanor: Sorry. For some reason I thought you'd understand. Or at least sympathize.
+- Eleanor: You're right, though. It IS all a stupid game, isn't it
+- Eleanor: We're all just a bunch of decaying clowns trapped on a carousel that never stops
+- Eleanor: Roll up roll up see the amazing gorgon lady, one of a kind, don't let your child come too close madam, she's not been fed today
+- Eleanor: Talk whenever. Need a drink. {Convo. ends}
+- What’s so bad about that? The name fits.
+- Eleanor: Nobody talks about the work I did on Minister Jeremy Coniston and the bogus famine relief, or the Lazlo Fertilizer scandal, or any of that. It barely made a ripple.
+- Eleanor: And now I come up with a term that everyone uses and nobody even knows I came up with it.
+- Eleanor: ‘Techrot’
+- Eleanor: They can put that word on my bloody tombstone.
+- Eleanor: If I get one. {Convo. ends}
+- So that's where that came from.
+- (Jump to above branch "Ta-da! I named it.")
+- Tell me you didn't stay there.
+- Eleanor: Of course I did.
+- (Jump to above branch "I take a dozen grainy pictures on my Kinematic 2300A slip-phone and I send the pictures to Arthur.")
+- Sounds like you were just doing your job. What happened next?
+- (Jump to above branch "So I’m in the sewers, and something with a cluster of CRT monitors instead of a head goes lurching past. I’ve barely finished shitting myself when I find the nest.")
+- No, but it *was* a bonus, wasn't it?
+- Eleanor: Precisely. But I also had a noble purpose in mind.
+- (Jump to above branch "‘Noble.’ Sol’s balls. I really deserved everything that happened to me, didn’t I?")
+- Is it going to be gross?
+- Eleanor: Oh, and we suddenly become squeamish?
+- Eleanor: Pardon me for upsetting your delicate sensibilities. Never mind, then. {Convo. ends}
+- So you only tell the truth? How do you pick which truths to tell?
+- (Jump to above branch "Most of the time, people are interested in reading about the bad things that happen in the world. If it bleeds it leads, as the saying goes.")
+- If boolean EleanorOrigin is false:
+- (Jump to above branch "Let me try again.")
+- > Nothing much. [End.]
+
+### Conversation 5 (Hey Eleanor? You)
+
+- If boolean AmirRPG is true:
+- Hey Eleanor? You and Amir are friendly, right?
+- Boolean AmirRPGEleanorAsked is now true.
+- Eleanor: He's a charming little imp. Why are you asking?
+- Amir's trying to get the team together to play a game of Fables & Frontiers, and I said I'd help.
+- Eleanor: Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.
+- Yeah, I think it's going to be a total waste of time, but I'm trying to be nice.
+- Eleanor: I will do you a favour and NOT convey those words along to him. Word to the wise: treat him with more respect in the future in my presence. {Convo. ends}
+- I think it'll be fun, honestly. And it seems to mean a lot to him.
+- Eleanor: Honestly, putting on a daft voice and play-acting for a few hours sounds ideal. Count me in.
+- Eleanor: Oh! I would like to be a wizard. Or perhaps a bard. Or perhaps both? Can you BE both?
+- Eleanor: Or I could be a swamp hag! So long as I get to wear a tight bodice, mind. Mother Mossytits will eat your bones, little manikin.
+- Boolean AmirRPGEleanor is now true.
+- If boolean AmirRPGQuincy is true:
+- If boolean AmirRPGArthur is true:
+- If boolean AmirRPGAoi is true:
+- If boolean AmirRPGLettie is true:
+- Boolean AmirRPGAll is now true. {Convo. ends}
+- If boolean AmirRPGLettie is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- If boolean AmirRPGAoi is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- If boolean AmirRPGArthur is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- If boolean AmirRPGQuincy is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- Amir really wants to play Fables & Frontiers with everybody. You in?
+- (Jump to above branch "Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.")
+- You like boardgames, yeah?
+- Boolean AmirRPGEleanorAsked is now true.
+- Eleanor: As much as the next person, I suppose. Why are you asking?
+- Amir's trying to get the team together to play a game of Fables & Frontiers, and I said I'd help.
+- (Jump to above branch "Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.")
+- Amir really wants to play Fables & Frontiers with everybody. You in?
+- (Jump to above branch "Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.")
+- If boolean AmirRPG is false: {Convo. ends}
+
+### Conversation 1 (telepathy thing?)
+
+- Hey, Eleanor, is it okay to ask you about the telepathy thing?
+- Eleanor: It’s always okay to ask, so long as you ask politely.
+- Eleanor: Some people find that very difficult.
+- Do you hear people’s thoughts without trying? Or do you always have to make an effort to get inside their head?
+- (Jump to below branch "Yes to both. If I just sit and ‘listen’, I can pick up on internal monologues and strong feelings.")
+- Is it like a light switch? Or is it always "stuck on?"
+- Eleanor: Yes to both. If I just sit and ‘listen’, I can pick up on internal monologues and strong feelings.
+- Eleanor: The hardest part is filtering out the LOUD stuff I don’t want to know about.
+- Eleanor: I don’t always get to experience feelings as if they were someone else’s. The more pre-verbal it is, the harder it is to discern between ‘them’ and ‘me’.
+- Eleanor: Permission to delve into the realms of ‘too much information’?
+- Well I'm too curious to say no, now...
+- Eleanor: I salute your bravery.
+- Eleanor: Not long after we all got the Entrati shots, I thought I had some kind of secondary bladder infection. Mate. I was up and down off that couch like a yo-yo. I even had Lettie hunting me down cranberry juice and mineral water.
+- Eleanor: Turns out I was just feeling six people’s natural biological urges. My nervous system naturally assumed they were mine.
+- Which was worse? Learning you weren't catastrophically sick or...
+- Eleanor: Well, I AM catastrophically sick. Let's not mince words. But I'd rather be saddled with telepathy than never-ending cystitis.
+- Eleanor: It’s such a useful talent to have, that’s the problem. Arthur insists on seeing it as a strategic asset.
+- What about people’s privacy? Isn’t it bad for morale?
+- Eleanor: It’s bloody awful for morale.
+- Eleanor: None of us is soft. We’re used to roughing it. This place is a five star hotel compared to a regular Britannic army barracks.
+- Eleanor: You shower together, you eat together, et cetera. You get used to one another. You have to.
+- Eleanor: But as Arthur would say, there’s a sodding limit.
+- So how do you deal with it?
+- Eleanor: I just don’t let them know how much of their inner lives I hear, see and feel. I don’t go probing uninvited, whatever Lettie might think.
+- Eleanor: Sometimes one of them will have a thought, and immediately think ‘did she hear me thinking that?' It's kinder to let them wonder. What they don’t know can’t hurt them.
+- Have you overheard any of MY thoughts?
+- Eleanor: Like I said, I’m not about to confirm or deny anything.
+- Eleanor: I should say, right about now, that there’s another important reason why I keep this shit to myself.
+- Go on…
+- Eleanor: So. Arthur and me. We’re on the streets, raiding a Scaldra cache, and he’s seriously off his game. He’s not shooting straight, he’s driving like a drunk duck at the dodgems, he can’t even do the sword thing.
+- Eleanor: Naturally, I tell him to get his act together. Immediately he starts blaming ME. He tells me I’m always acting so superior, don’t I understand the pressure of command, if I had the first idea what he has to deal with on a DAILY basis I’d buckle, all this self-pitying bollocks.
+- If boolean EleanorHeroVirus is true:
+- Eleanor: Remember the Hero Virus I told you about?
+- Eleanor: Terminal case.
+- Eleanor: Everything was about Arthur.
+- Eleanor: So I fire back at him ‘you know I can tell when you’re thinking about Aoi, right?’
+- Ouch.
+- Eleanor: Yeah.
+- Eleanor: Not my proudest moment.
+- Eleanor: Even if he hadn’t been my brother, that was a shitty thing to do. I’ll never do it again.
+- How did he react?
+- Eleanor: … I don’t like that you want to know.
+- Eleanor: Now I’m wondering whether you’re enjoying the idea of Arthur being humiliated.
+- Eleanor: Please don’t let that be it. I’m starting to like you, and this is the sort of thing I wouldn’t be able to look past.
+- I’m asking because I like the guy.
+- Eleanor: Okay. That’s understandable. I’m sorry I snapped.
+- Eleanor: He crumpled. I felt horrible.
+- Eleanor: I’d broken something important between us. Hang on. I need to tell you something so you’ll understand.
+- Eleanor: When we were little, some older boys stole Arthur’s favourite Action Angus and threw him on the Solstice bonfire.
+- Eleanor: I can still see him bent over and the flesh coloured plastic bubbling and dripping all over his camo trousers.
+- I don't miss being a kid.
+- Eleanor: The boys laughed and said Arthur should be happy. Action Angus was going to the Hall of Heroes for the midwinter feast like warriors used to. I wanted to murder them. Little bastards.
+- Eleanor: Arthur didn’t want the boys to see him cry, and he didn’t want to cry in front of my dad, so the only person left was me. His shitty big sister.
+- Eleanor: I’m telling you about that because that’s where Arthur went, in his head. He remembered feeling like it was safe to cry in front of me if he ever really NEEDED to, and now?
+- Eleanor: Now it wasn’t safe any more.
+- If boolean DrifterSiblingYes is true:
+- I know what it's like to hurt a sibling. I... used to have one.
+- Boolean DrifterSiblingYes is now true.
+- Eleanor: It's horrible, isn't it? You get so used to the ritual of it, putting one another down, sniping and snarking...
+- Eleanor: It's comforting, almost. Then one day you draw blood and you can't take it back.
+- It’s fighting dirty.
+- Eleanor: YES.
+- Eleanor: You GET IT. I love that! Fighting dirty.
+- Eleanor: You know that thing where you’re in an argument with someone and once it’s all over, you think of the exact right thing you should have said?
+- Eleanor: I don’t get that any more. I have a magic I Win button. All I’d have to do is look into their brain, grab whatever they’re most ashamed of and rub it in their face.
+- Eleanor: And I CAN’T DO IT, no matter how much I want to. Because I’m supposed to be a ‘good person’.
+- This isn’t about trying to be a saint, Eleanor. It’s not even about being a hero. It’s about refusing to be an asshole.
+- We all have lines we won’t cross and this is one of yours. I respect that.
+- Eleanor: Thank you.
+- Eleanor: I’m not looking for sympathy. Truly.
+- Eleanor: I just wanted someone else to understand. Honestly, I’m a little taken aback by how much you DO understand.
+- Eleanor: You didn’t have to listen. But I’m glad you did.
+- Eleanor: It’s a messed-up freakshow inside this skull of mine. I think you can appreciate why I don’t roll out the welcome mat to strangers.
+- Eleanor: I expect people to run away screaming. You haven’t. Yet. I wonder why. Thank you. Again. For everything. {Convo. ends}
+- We're all trying to do the right thing here. Is it really that much harder for you?
+- Eleanor: Oh dear. That's what I get for parading my virtues, isn't it?
+- Eleanor: Sorry. I was expecting sympathy. But I'll take the reality check.
+- Eleanor: It's not like I'm the only one who has to keep her powers in check, is it? We're all time bombs waiting to go off.
+- Eleanor: Appreciate the talk. {Convo. ends}
+- If boolean DrifterSiblingYes is false:
+- Always available options:
+- I know what it's like to hurt a sibling. I... used to have one.
+- Boolean DrifterSiblingYes is now true.
+- (Jump to above branch "It's horrible, isn't it? You get so used to the ritual of it, putting one another down, sniping and snarking...")
+- Sounds like you hurt him badly.
+- Eleanor: Yeah, I did. I apologized, I promised I’d never do anything like that again, but I still feel like shit because of it.
+- It’s fighting dirty.
+- (Jump to above branch "YES.")
+- Yay, childhood.
+- (Jump to above branch "The boys laughed and said Arthur should be happy. Action Angus was going to the Hall of Heroes for the midwinter feast like warriors used to. I wanted to murder them. Little bastards.")
+- Yikes. That wasn't my intention. I just wanted to know how someone like that reacts to being confronted.
+- Eleanor: I didn't just confront him. I HURT him.
+- Eleanor: Arthur's used to being talked back to. Just look at Quincy!
+- Eleanor: But we all know Arthur's got walls up. He acts like he's impossible to hurt.
+- Eleanor: I could feel how shocked and confused he was. He'd thought he was safe around me. Not anymore.
+- If boolean DrifterSiblingYes is true:
+- I know what it's like to hurt a sibling. I... used to have one.
+- Boolean DrifterSiblingYes is now true.
+- (Jump to above branch "It's horrible, isn't it? You get so used to the ritual of it, putting one another down, sniping and snarking...")
+- If boolean DrifterSiblingYes is false:
+- Always available options:
+- I know what it's like to hurt a sibling. I... used to have one.
+- Boolean DrifterSiblingYes is now true.
+- (Jump to above branch "It's horrible, isn't it? You get so used to the ritual of it, putting one another down, sniping and snarking...")
+- Sounds like you hurt him badly.
+- (Jump to above branch "Yeah, I did. I apologized, I promised I’d never do anything like that again, but I still feel like shit because of it.")
+- I am enjoying it. Sounds like Arthur had it coming.
+- Eleanor: Oh, I get it.
+- Eleanor: Arthur's a pain in the arse.
+- Eleanor: But when I'm trying to talk to you about something I feel guilty about...
+- Eleanor: Never mind. {Convo. ends}
+- If boolean EleanorHeroVirus is false:
+- Eleanor: I have this theory I call the Hero Virus.
+- Eleanor: Little boys get it into their heads that the stories they've been fed are how the world really works. They think they are the hero and everything revolves around them.
+- Eleanor: Arthur has one of the worst cases of Hero Virus I've ever seen.
+- Boolean EleanorHeroVirus is now true.
+- (Jump to above branch "So I fire back at him ‘you know I can tell when you’re thinking about Aoi, right?’")
+- So... what've you picked up in my head?
+- (Jump to above branch "Like I said, I’m not about to confirm or deny anything.")
+- But what if somebody *doesn't* want their head invaded?
+- Eleanor: Even if I insist that I can control it, do you think they would believe me?
+- (Jump to above branch "None of us is soft. We’re used to roughing it. This place is a five star hotel compared to a regular Britannic army barracks.")
+- Must have been a relief to find out the truth.
+- Eleanor: I learned to build walls around my mind after that incident. Lettie sometimes finds meds that can shut the whole telepathic side of me down, just for a few hours. I have a stash of them, but I don’t take them unless I really, really need to sleep.
+- (Jump to above branch "It’s such a useful talent to have, that’s the problem. Arthur insists on seeing it as a strategic asset.")
+- Permission granted.
+- Eleanor: Read further at your own risk.
+- (Jump to above branch "Not long after we all got the Entrati shots, I thought I had some kind of secondary bladder infection. Mate. I was up and down off that couch like a yo-yo. I even had Lettie hunting me down cranberry juice and mineral water.")
+- > Eh... another time, maybe. [End.]
+- So, what's it like being able to peek into everybody's heads?
+- Eleanor: Excuse me?
+- Eleanor: Is that what you imagine I do? Casually violate other people's privacy?
+- Eleanor: If that's what you think of me, then I doubt we have much to talk about. {Convo. ends}
+
+### Conversation 2 (Are you there?)
+
+- If boolean EleanorIndifference is true:
+- Eleanor: Are you there? I need to talk.
+- Right here.
+- Eleanor: Remember how I told you about how I tried to touch Rusalka’s mind with mine, and I made contact with The Indifference instead?
+- Of course I remember.
+- Eleanor: Right. I wasn’t ready to talk about it then. I’m ready now, if you’re willing.
+- If you’re sure.
+- Eleanor: I’m sure.
+- Eleanor: This creature, this presence, is what we’re ultimately up against. I know that much now.
+- Eleanor: Please tell me the truth. Do you believe there is any hope?
+- At this point? ... No.
+- Eleanor: At least you were honest.
+- Eleanor: Fine. Let hope die.
+- Eleanor: I'll keep fighting out of pure bloody stubbornness.
+- Eleanor: Hate. Rage. Anything.
+- Eleanor: Better than apathy. Better than meek surrender.
+- Eleanor: I'm ready. {Convo. ends}
+- Honestly? I'm... not sure.
+- Eleanor: I understand.
+- Eleanor: There's so much we don't know.
+- Eleanor: After what's already happened this year, how are we supposed to make sane plans ever again?
+- Eleanor: Maybe hope is a delusion. I don't know.
+- Eleanor: I could just really do with some right now.
+- Eleanor: Ah, well. So it is. Even if we're stumbling onward through the dark, at least we have one another's company. {Convo. ends}
+- Yes, I do.
+- Eleanor: Don’t tell me why.
+- Eleanor: Just hold on to that belief. Let me feel it.
+- Eleanor: Please.
+- Eleanor: I reached out for Rusalka, and it was as if my fingers touched her face and went right through. The mask just collapsed.
+- Eleanor: What was underneath was like…
+- Eleanor: There’s a word. ‘Calenture.’ It’s a kind of madness that used to affect sailors. They’d become convinced that the green sea all around them wasn’t water at all, but green grass.
+- Eleanor: They'd be compelled to jump from the ship down into the beautiful green meadows and go running across them. If a shipmate held them back, they’d fight.
+- Eleanor: I jumped, expecting grass. Next second I was in over my head in the freezing dark.
+- Boolean EleanorIndifference2 is now true.
+- I don't think it's safe for you to talk about it like this.
+- Eleanor: Well, shit.
+- Eleanor: I'd just about managed to psych myself up to this, and now, what? we're not mentioning the Devil in case it summons him?
+- Eleanor: If you hear screaming in the night, it's me. {Convo. ends}
+- I’m here. Go on.
+- Eleanor: There’s a feeling there isn’t a word for. You look out on the world and you just KNOW, that all the ordinariness - buildings, cars, people, jobs, work, routine - is just a thin crust over a bottomless horror, and if people ever realized it they’d start screaming and never stop.
+- Eleanor: I fell through the crust.
+- Eleanor: It wasn’t emptiness. I could have borne that. It went on and on forever, but it wasn’t just cold space. There was something in there with me.
+- An eye?
+- Eleanor: I don’t know. But it knew I was there. It was AWARE of me. Like an elephant would be aware of a fly crawling across its eye.
+- Eleanor: I remember thinking ‘nothing that big should know I exist’.
+- Eleanor: It felt such utter disregard for me, such monumental indifference that I wanted to stop existing on the spot.
+- It... does that.
+- Eleanor: I think I could have coped if it had hated me. Then I would have had some value, some significance. But it saw me as meaningless, and I saw what it saw. I was a speck. A nothing.
+- Eleanor: Everything I had ever been, every tender moment, every laugh, every morsel of Eleanor Nightingale blew away in that storm.
+- Eleanor: It felt my light fading, and I swear, a tiny tremor of satisfaction went through it. As if it was pleased to have crushed me. A flea under its fingernail.
+- But you came back, didn’t you? You’re still here. You proved that thing wrong.
+- Eleanor: Did I?
+- Eleanor: It’s still out there, isn’t it?
+- Yes, it is. But you’re still here, too.
+- Eleanor: Indifference wins in the end, my friend, no matter how many platitudes we throw into the abyss.
+- Eleanor: That’s the problem with not going mad. You’re cursed with clarity of thought.
+- Eleanor: You know what I’m talking about. You could have shattered like a sparrow’s egg or burnt your brain out with drugs until you felt nothing any more. And it would have hurt less than this… knowing.
+- Eleanor: I don’t understand why you haven’t walked away from this conversation yet.
+- Look. Entropy is real. I get that. Maybe the Great Indifference is the same thing. But whether it wins in the end, you don’t know and I don’t know either.
+- What I do know is that I’m not going to let it win NOW.
+- Eleanor: So you’re putting up with my wails of existential despair as a battle tactic? That’s very Arthur of you.
+- Actually, believe it or not, I care about you.
+- Eleanor: I care about you too, mate. We’re squadmates. We've been through a lot.
+- Eleanor: It’s only fair to warn you that the good ship Eleanor may go down, either in the bloody sea or the night-black swamp, and you do not want to be on board when she does.
+- Eleanor: Thanks. You should go. I’ll be okay now. Honestly. {Convo. ends}
+- I'm waiting for you to make up your mind, honestly. Do you want to take the easy way out and go insane? Or do you want to stand and fight?
+- Eleanor: FIGHT HOW
+- Eleanor: IS THAT ALL YOU AND ARTHUR CAN UNDERSTAND? FIGHTING?
+- Eleanor: YOUR ANSWER TO THE UNDERLYING MEANINGLESSNESS OF EXISTENCE IS 'FIND A WAY TO PUNCH IT?'
+- Eleanor: I can't believe I thought we had a single thing in common.
+- Eleanor: More fool me.
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- The stars don’t stop burning just because space is big, cold and dark.
+- Eleanor: But they will stop burning. One day. The heat death of the Universe.
+- (Jump to above branch "Indifference wins in the end, my friend, no matter how many platitudes we throw into the abyss.")
+- What did you do?
+- (Jump to above branch "I think I could have coped if it had hated me. Then I would have had some value, some significance. But it saw me as meaningless, and I saw what it saw. I was a speck. A nothing.")
+- A man trapped in a wall?
+- (Jump to above branch "I don’t know. But it knew I was there. It was AWARE of me. Like an elephant would be aware of a fly crawling across its eye.")
+- What was it?
+- (Jump to above branch "I don’t know. But it knew I was there. It was AWARE of me. Like an elephant would be aware of a fly crawling across its eye.")
+- > Really sorry. Not right now. [End.]
+- If boolean EleanorIndifference is false:
+- Eleanor: Are you there? I need to talk to you about something. It’s serious.
+- I’m here. Go ahead.
+- Eleanor: Thank you.
+- Eleanor: Do you understand what happened to Major Rusalka?
+- She was being used. The Indifference was puppeting her.
+- Eleanor: ‘The Indifference’. That’s what you call it?
+- Eleanor: Thank you.
+- Eleanor: Giving it a name feels like I’ve gotten a tiny bit of control back.
+- Eleanor: I’ve touched that thing with my mind. I thought I’d be probing Rusalka’s mind, but… the outer layers just caved in like wet, spongy plasterboard and then I was immersed in it. Floundering.
+- Boolean EleanorIndifference is now true.
+- (Jump to above branch "Please tell me the truth. Do you believe there is any hope?")
+- Pretty sure she was hollowed out and driven around like a... well... Warframe...?
+- Eleanor: Hollowed out, yes.
+- Eleanor: But whatever was driving her wasn't like you.
+- Eleanor: Anything human about it was like a mockery.
+- Eleanor: It was about as human as a store mannequin. In pieces.
+- Eleanor: I touched it, you see. With my mind. I was trying to probe her, but she wasn't there.
+- I know what you mean. We call it The Indifference.
+- Eleanor: Thank you.
+- Eleanor: Giving it a name feels like I’ve gotten a tiny bit of control back.
+- Boolean EleanorIndifference is now true.
+- Eleanor: I’ve touched that thing with my mind. I thought I’d be probing Rusalka’s mind, but… the outer layers just caved in like wet, spongy plasterboard and then I was immersed in it. Floundering.
+- (Jump to above branch "There’s a word. ‘Calenture.’ It’s a kind of madness that used to affect sailors. They’d become convinced that the green sea all around them wasn’t water at all, but green grass.")
+- > Really sorry. Not right now. [End.]
+
+### Conversation 3 (How are you doing?)
+
+- Hey, Eleanor. How are you doing?
+- Eleanor: Spiffing. Just been shaving my tongue.
+- Shaving?
+- Eleanor: Shaving. These nobbly bits keep sprouting out of it. I think they used to be taste buds. If I don’t slice them off, they get really long and squirmy. Like a sea anemone.
+- Eleanor: Sorry. I really should have warned you about this.
+- Eleanor: Everybody else knows to be at least a hundred yards away when Eleanor heads into the bathrooms with a kitchen knife and a bottle of surgical alcohol.
+- Eleanor: Just wait patiently and eventually I’ll come back out with blood all down my chin and a plastic bag of stuff like crab meat in my hand. I tried to turn the offcuts into burgers once but nobody wanted any.
+- Eleanor: Sorry, did you want the half hour erotic chat experience or just the five minutes?
+- Stop trying to gross me out.
+- Eleanor: Oi. I’m the one with half an eel down my trachea. Pardon me for trying to joke about it. {Convo. ends}
+- So, while we're talking about the tongue...
+- Eleanor: Go on.
+- ... how much control have you got over it?
+- Eleanor: Right. Wait a moment.
+- Eleanor: thids much
+- Eleanor: howm i dioing
+- Tell me you're not.
+- Eleanor: o but i amm hheehhe
+- You’re typing with it?!
+- Eleanor: mmm
+- Eleanor: But not for long though because I get saliva all over the keyboard.
+- Eleanor: Anyway. Now you know.
+- Do you ever lose control of it?
+- Eleanor: Damnnable thing does seem to have a mind of its own. When I think about it, I can control it. But when I'm not, it seems to react to my emotions.
+- Eleanor: The more horrid possibility is that its driven not by ME but by my latent connection to the Techrot. I'd rather not consider that option.
+- Eleanor: I do hate it when it gets in the way of my teeth, however. The one and only time I ever bit it off completely, it grew back. I'm stuck with this thing.
+- Eleanor: At least it’s not getting any longer. Just putting out frondy bits.
+- Would you want to go back to the way you used to be before Entrati changed you?
+- Eleanor: I mean, yes? In a heartbeat. But I can’t, so what’s the point of dwelling on it?
+- Everything that happens to us happens for a reason.
+- Eleanor: Yeah. It’s just that sometimes the reason is: an evil bastard did something evil.
+- Eleanor: So if you’re saying that everything always works out for the best, like there’s some great plan or purpose to it all, then you’re on your own. I don’t buy into that.
+- If boolean EleanorHeroVirus is true:
+- Eleanor: It’s hero virus stuff. You end up thinking you’re the main character in everyone else’s story.
+- Eleanor: There’s no great story here, mate. No author in the sky adding little plot beats to my life for dramatic effect.
+- Eleanor: I get to make meaning out of the stupid shit that happens to me. I’m the artist, not Sol or Lua or any of the stars in between.
+- If boolean EleanorGalvanized is true:
+- Eleanor: You reminded me of that. I don’t know if you even remember. I was feeling sorry for myself and you snapped me out of it.
+- > Glad I could help. {Convo. ends}
+- You’re not saying that life is meaningless, are you?
+- Eleanor: Gods, no. I’m saying that meaning is under the surface and it takes a sculptor’s chisel to get to it.
+- Eleanor: Some days it all feels bleak, horrible and hollow and I don’t want to get off the couch. But when I’m back to myself again, I know that feeling was a lie.
+- Eleanor: Nobody else holds the keys to meaning, you know? It’s a jam session between you and the universe. She throws stuff at you, you improvise around it.
+- Eleanor: It helps to focus on the parts of being semi-infested that I really like.
+- So… what do you like most about being like you are now?
+- Eleanor: Feeling indestructible.
+- Eleanor: Mind if I tell you a story?
+- Go ahead.
+- Eleanor: When I was eighteen, a whole bunch of us had been out celebrating the end of the exams. We were all packed into this tiny car. Me lying across three people’s laps on the back seat.
+- Eleanor: Seb Cromley in the boot, whingeing. Christopher and Marco in the front. Every one of us was drunk off our arse on strawberry vodka and ratcatcher.
+- Eleanor: Marco ran a red light, a car coming the other way T-boned us, we rolled off the road and ended up in a ditch. I only know that because that’s what the policeman told me had happened.
+- Eleanor: They had to cut me out of the car. I wouldn’t stop screaming. It was the kind of hurt that leaves you with no crevice anywhere in yourself to crawl into to get away from it. You're being punished for existing.
+- Eleanor: I was helpless as a baby rabbit. Melted like a crayon. Gone. Just lay there and belted out scream after scream. I’d always thought of myself as a tough cookie before that.
+- Boolean EleanorCrash is now true.
+- I know the kind of pain you mean.
+- Eleanor: Two days ago I was run over by a Scaldra APC.
+- Eleanor: That same old pain went flooding through me, but it wasn’t crippling any more. It was like fuel, revving me up, making me angry.
+- Eleanor: I picked myself up, relocated my shoulder and tore that APC open with my bare hands.
+- Eleanor: Agonizing, yes. But intoxicating.
+- Eleanor: So yeah, thanks for that much, Entrati. Wherever you are. {Convo. ends}
+- I'm glad at least ONE of you is trying to find a silver lining...
+- Eleanor: Only one? Have you MET Amir?
+- Eleanor: He has his dark moments, but that boy is an inspiration to us all.
+- Eleanor: Compared to mooching about with a face like a slapped arse, I'll take Amir's attitude any day. {Convo. ends}
+- If boolean EleanorGalvanized is false:
+- > Glad I could help. {Convo. ends}
+- You’re not saying that life is meaningless, are you?
+- (Jump to above branch "Gods, no. I’m saying that meaning is under the surface and it takes a sculptor’s chisel to get to it.")
+- If boolean EleanorHeroVirus is false:
+- (Jump to above branch "There’s no great story here, mate. No author in the sky adding little plot beats to my life for dramatic effect.")
+- How do you feel about it? Like... really feel about it?
+- Eleanor: I wouldn't have chosen it. But I don't hate it. It feels like it's always been there.
+- Eleanor: I miss the sound of my own voice. I hate that I can't sing any more.
+- Eleanor: But the tongue? You might find this hard to believe, but it's comforting sometimes. I'll never be unarmed ever again.
+- So… what do you like most about being like you are now?
+- (Jump to above branch "Feeling indestructible.")
+- I'm glad at least ONE of you is trying to find a silver lining...
+- (Jump to above branch "Only one? Have you MET Amir?")
+- Do you ever bite it by accident?
+- Eleanor: All the time. It heals fast.
+- Eleanor: The one and only time I ever bit it off completely, it grew back. I’m stuck with this thing.
+- (Jump to above branch "At least it’s not getting any longer. Just putting out frondy bits.")
+- Pardon me if this is too personal but... what *else* can you do with it...?
+- Eleanor: welll
+- Eleanor: thnk abot what you wld do
+- Eleanor: me too
+- Eleanor: feels gooood hehe
+- Boolean EleanorFlirt is now true.
+- I. Heh. Well, then. I guess my next question would be... do you ever lose control of it?
+- (Jump to above branch "Damnnable thing does seem to have a mind of its own. When I think about it, I can control it. But when I'm not, it seems to react to my emotions.")
+- Do you ever bite it by accident?
+- (Jump to above branch "All the time. It heals fast.")
+- > Oh, hell no. I'm out. [End.]
+- Hold up. *What?*
+- Eleanor: It's really no different from trimming one's nails.
+- Eleanor: Messier, perhaps. But still nothing more than the paring back of an unwanted excrescence.
+- (Jump to above branch "Everybody else knows to be at least a hundred yards away when Eleanor heads into the bathrooms with a kitchen knife and a bottle of surgical alcohol.")
+
+### Conversation 4 (So stop me if)
+
+- Eleanor: So stop me if I get any of this wrong:
+- Eleanor: You’ve got another self out there, walking around. That other self both is and isn’t you. They’re like a kid version of you from another version of reality.
+- Not quite. This is their version of reality. I’m the outsider here.
+- Eleanor: Whoa Nelly. Hang on. Let me process that.
+- Eleanor: So… you’re like a guest star from a crossover episode and you got written into the show?
+- Pretty much.
+- Eleanor: This is making my head spin. So what happened to your version of reality? Where’s it gone?
+- I think the only thing left of it is the ghost ship Zariman plugging a hole between dimensions...?
+- If boolean EleanorHoldfasts1 is true:
+- Eleanor: Ah! The lair of your friendly ghosts. The Holdfasts.
+- Eleanor: I can't imagine it's the kind of place you'd want to pop back to for a nostalgic stroll.
+- Eleanor: I can't begin to fathom what you've lost.
+- I don't see it that way.
+- I made it out. I survived. How insanely lucky is that?
+- Honestly, the odds of any one of us actually existing in the first place are so slim, it's just one more miracle to me.
+- Don't focus on what was lost. Cherish what we've got.
+- For example? I have this place now. And all of you. It's the first place I've ever really had that feels like home.
+- Eleanor: Huh. I’m oddly proud of that.
+- Eleanor: Maybe you just needed the right bunch of lethally stylish urban bio-commandos to associate with.
+- Misfits and screwups like me?
+- Eleanor: And proud of it, mate.
+- Eleanor: But getting back to the other version of you…
+- Right. Ordis calls them ‘the Operator’. Lotus calls them her child. Mostly I just call them the kid.
+- If boolean EleanorLotus is true:
+- Eleanor: I love that she has children. Lethal space children.
+- Eleanor: I wonder if she'd let me be one? Do I get to be a Tenno?
+- Eleanor: No. I don't suppose I would, would I? I'm too old, for a start.
+- Eleanor: So here’s the part I don’t understand.
+- Eleanor: The kid is umpty-billion years old, but they spent most of that time in a freezer, so they’re still a kid, right?
+- Something like that.
+- Eleanor: Okay.
+- Eleanor: Bear with me.
+- Eleanor: Stop me immediately if this isn’t something you want to talk about.
+- Eleanor: The Zariman? What happened with your parents? This child has been through the same horrific ordeal you went through, right?
+- Yes.
+- You have to understand there was only the one of me, of us, at first. We were exactly the same person, right up to the moment where I shook that thing’s hand. That’s when they went their way and I went mine.
+- Eleanor: Okay. My head hurts thinking about it, but okay.
+- Eleanor: So there’s a child. A profoundly traumatized child. And someone thought it was a good idea to give this child weapons and armour and a selection of battle suits made from dead people, train them to kill, and send them off to war?
+- Yup. That was the Orokin.
+- Eleanor: Tell me, after everything they’ve been through and are still going through, how is that child not catatonic in a hospital?
+- Honestly, I couldn’t tell you. I know they’ve got people who love them and look out for them. Ordis and Lotus, mainly.
+- The Tenno didn’t get a choice about being made into warriors. The Orokin were going to kill every one of them before they found a use for them.
+- But what keeps them going inside? I don’t think that’s something they were trained to do. It’s something about who they are.
+- Eleanor: Caring? Empathy?
+- Justice. Righteousness.
+- If boolean EleanorHeroVirus is true:
+- Eleanor: Of course. The Hero Virus. I should have known it would survive to your time.
+- Eleanor: Those poor kids were steeped in a myth, weren't they?
+- Eleanor: Trained to believe they were honourable warriors, not innocent catspaws?
+- Eleanor: No need to answer. I think I already know. {Convo. ends}
+- If boolean EleanorHeroVirus is false:
+- Eleanor: Ugh. The Hero Virus.
+- Eleanor: That's what I call the cycle of bullshit that starts with pretty stories and ends with young people willingly going to their deaths.
+- Eleanor: Arthur has it. Christopher had it.
+- Eleanor: Maybe I can develop a vaccine and save history.
+- Boolean EleanorHeroVirus is now true. {Convo. ends}
+- Something deeper, maybe.
+- Eleanor: Whatever the opposite of Indifference is, perhaps.
+- Eleanor: I wonder…
+- What?
+- Eleanor: Nothing. Just an idea.
+- Eleanor: This is going to sound stupid, but please promise me something.
+- Eleanor: I know you’ve found a place here with us. I’m glad about that, truly.
+- Eleanor: All I ask is that you check on the child, if you can.
+- The child is fine, honestly. Lotus is with them. So’s Loid. They’re not about to break down.
+- Eleanor: Okay. I just hope you're sure.
+- Eleanor: Because whatever they have inside them that can endure everything they went through and still feel empathy? We're going to need it. {Convo. ends}
+- Don’t underestimate them, Eleanor. They did just fine without me for years.
+- Eleanor: I'm not sure that slaughtering thousands while carrying untold trauma is 'doing fine', frankly.
+- Eleanor: I'd want to know how they were coping. {Convo. ends}
+- Don’t worry. I’m already doing that. I’ll tell them you said hello, if you like.
+- Eleanor: Thank you. I admit, the idea of talking to an alternate version of yourself is exciting to me.
+- If boolean EleanorSister is true:
+- Eleanor: I’ve been trying to make contact with her telepathically. If you can do it so can I, right?
+- I’m not sure that’s such a great idea.
+- Eleanor: Don't be such a spoilsport.
+- Eleanor: I mean if anyone’s going to have words of wisdom for me it’ll be the me who’s been devoting her life to spiritual things, no?
+- > Let’s hope so. {Convo. ends}
+- > If you're sure... {Convo. ends}
+- Have you gotten anywhere?
+- Eleanor: No. But I’m going to keep trying.
+- (Jump to above branch "I mean if anyone’s going to have words of wisdom for me it’ll be the me who’s been devoting her life to spiritual things, no?")
+- If boolean EleanorSister is false:
+- Eleanor: In fact, learning of your alternate version convinced me there must be another me out there somewhere who decided to become a nun. An apostle of Lua, shaven head, regular prayers, all of that.
+- Boolean EleanorSister is now true.
+- (Jump to above branch "I’ve been trying to make contact with her telepathically. If you can do it so can I, right?")
+- Survival instincts. People want to live, at the end of the day.
+- Eleanor: Hmm. I don't know.
+- Eleanor: They'd be no different to the Techrot if all they wanted to do was survive.
+- Eleanor: The way you talk about the kid, I'm not sure if I'm more scared for them or of them.
+- Eleanor: I think there's mercy in there, though. Some deep compassion. Maybe one day I'll see it for myself. {Convo. ends}
+- Void knows they’ve seen way more violence and bloodshed than any kid ever should. They never signed up for this shit, either.
+- The Tenno didn’t get a choice about being made into warriors. The Orokin were going to kill every one of them before they found a use for them.
+- But what keeps them going inside? I don’t think that’s something they were trained to do. It’s something about who they are.
+- (Jump to above branch "Caring? Empathy?")
+- Not sure how "childlike" they really are when they've been trained to murder for a living.
+- Eleanor: A. Child. Is. A Child.
+- Eleanor: They don't conveniently turn into something else when they're mistreated. {Convo. ends}
+- If boolean EleanorLotus is false:
+- (Jump to above branch "So here’s the part I don’t understand.")
+- I try to avoid them as much as I can. I don't get paid enough to babysit, even if it is just me.
+- Eleanor: Ooh. Harsh.
+- Eleanor: Given how much you have in common, you might be a little kinder.
+- (Jump to above branch "So here’s the part I don’t understand.")
+- If boolean EleanorHoldfasts1 is false:
+- Eleanor: I'm sorry, that sounds fascinating but I have no idea what you're on about.
+- Eleanor: Ghost ship?
+- Eleanor: Hole between dimensions?
+- The Zariman was the colony ship I was on. Headed for Tau. Never made it.
+- She ended up in the Void, and something that existed there decided to turn the ship into a vision of hell.
+- She's been washing back and forth from the Void to reality, and now she's stuck on the threshold.
+- She's not really one ship, either. She's like... lots of different versions at once.
+- Boolean EleanorHoldfasts1 is now true.
+- Eleanor: I can't imagine it's the kind of place you'd want to pop back to for a nostalgic stroll.
+- Eleanor: I can't begin to fathom what you've lost.
+- I don't see it that way.
+- I made it out. I survived. How insanely lucky is that?
+- Honestly, the odds of any one of us actually existing in the first place are so slim, it's just one more miracle to me.
+- Don't focus on what was lost. Cherish what we've got.
+- For example? I have this place now. And all of you. It's the first place I've ever really had that feels like home.
+- (Jump to above branch "Huh. I’m oddly proud of that.")
+- I have this place, now. The first place I've ever really had that feels like home.
+- (Jump to above branch "Huh. I’m oddly proud of that.")
+- I think whatever was left of it came with me into Duviri. For...better or worse.
+- Eleanor: Then it lives on, in some sense.
+- Eleanor: I don't know if that's any kind of a comfort.
+- I've learned that home, and family, is more about what you make of the "where" and the "who" around you.
+- Less about where and what you're born into.
+- I don't focus on what was lost. I focus on what I still have. Like this place. Like all of you. Because...
+- Of all the places I’ve been, this feels most like where I belong.
+- (Jump to above branch "Huh. I’m oddly proud of that.")
+- I don’t dwell on that much. I guess it’s lost.
+- Eleanor: You can’t just LOSE a whole cosmos. That’s insane. It has to be out there somewhere.
+- It might be. Like I said, not my major concern.
+- Eleanor: But that’s your HOME. Don’t you want to get back there?
+- It’s really not, not anymore. I don’t really have a home.
+- The ‘Drifter’ nickname stuck for a reason, you know.
+- Of all the places I’ve been, this feels most like where I belong.
+- (Jump to above branch "Huh. I’m oddly proud of that.")
+- More like we split at some point, I took a left turn, they went right.
+- Eleanor: And I take it we are in THEIR reality, not yours. Let me... process that.
+- (Jump to above branch "So… you’re like a guest star from a crossover episode and you got written into the show?")
+
+### Conversation 5 (Hello, Drifter.)
+
+- Eleanor: Hello, Drifter. I’m upset.
+- What’s upsetting you?
+- Eleanor: Two things.
+- Eleanor: I miss wine. I’ve not had real wine in so bloody long. All the wine in Höllvania got requisitioned by Scaldra command a few days into the outbreak.
+- Eleanor: Quincy and Arthur tried making prison hooch out of fruit ration sachets, but those of us who still had some dignity left said no. Rare moment of Lettie solidarity, that was.
+- Eleanor: The other thing, the much much bigger thing, is the future.
+- Eleanor: It’s not your fault, but… now that I’ve seen the future through your eyes I feel miserable in a way that the usual methods won’t shift..
+- What can I do to cheer you up?
+- Eleanor: I don't know. Maybe an exotic dance?
+- Eleanor: Describe Ballas's death to me in loving detail?
+- Eleanor: It's kind of you to offer, but I think this melancholy will just have to be borne.
+- Eleanor: Maybe I'll paint. {Convo. ends}
+- Usual methods?
+- Eleanor: Spending the evening with Amir listening to him enthuse about whatever comic series or retro game he’s currently fixating on.
+- Eleanor: Surrounding myself with crystals and mentally chanting until Lettie calls the exorcist on me.
+- Eleanor: This is a different kind of sad. It’s weighing me down like a soggy blanket.
+- 1999 Höllvania is rough! Scaldra, Techrot, Void knows what else. Does the future really look that much worse?
+- Eleanor: Look, I was never really into science fiction. Arthur went through a phase, but he always preferred the gritty army stuff. Manly men being heroes, wholesome Stories for Boys, oodles of subtext, I’m sure you know the sort of thing.
+- Eleanor: But I did know enough about science fiction to know that in the far far future, we are supposed to have our shit together. It’s meant to be all shiny and antiseptic. Robots do all the hard work, there’s no disease, nobody needs money, it’s all silver towers, blue skies and sexy lizards.
+- We have robots. They do do a lot of the hard work.
+- Eleanor: Well, all right. You get a point for that.
+- Eleanor: But did those robots make life any easier for ordinary people?
+- Eleanor: Or did they just become something else to take for granted?
+- You're determined to see the worst in everything, aren't you?
+- Eleanor: Obviously.
+- Eleanor: That's how you know what needs to be changed. {Convo. ends}
+- Fine. We didn't cure exploitation by having robots.
+- Eleanor: Right. That's what's so disappointing.
+- Eleanor: You're advanced, but you were meant to be ENLIGHTENED too
+- Eleanor: Thanks for bearing with me. I know it's a lot. {Convo. ends}
+- But what you’re talking about is just fiction, right? So why would you expect reality to live up to it?
+- Eleanor: Ugh. I don’t… it’s complicated. Let me explain.
+- Eleanor: I’m not saying I expected the future to look like a children’s comic book. I just mean there was this optimism associated with it.
+- Eleanor: I think we all just took it for granted that however shitty things might be right now, we’d sort it out eventually. Our civilization is meant to progress. We started out smashing each other over the head with clubs and after a few thousand years we’d figured out ways to sort our differences out without doing that.
+- People are still people, however much technology changes.
+- Eleanor: Bingo. You’ve put your finger right on what I find so depressing about all this.
+- Eleanor: You had all this incredible, magical technology at your fingertips and all you did with it was find new ways to exploit each other. Science made us less equal, not more.
+- Um, polite reminder that I didn’t do ANY of that?
+- Eleanor: Oh Gods I don’t mean you personally. I mean your era.
+- Eleanor: If anything you went backwards. God-kings in the flesh! Of all the things to reinvent, you reinvented THEM.
+- The Tenno killed the Orokin. Did you forget that part?
+- Eleanor: No. I didn’t forget the part where the emotionally abused orphans murdered the immortal elite. I just love that bit. If I close my eyes I can almost imagine the screaming.
+- Fine. The future’s a mess. You can focus on that if you like.
+- > I’m with the people who are trying to make it better. {Convo. ends}
+- That... is... something I'd be careful admitting to people.
+- Eleanor: ... is irony obsolete in the future too? {Convo. ends}
+- I'll send your complaint on to the Orokin.
+- (Jump to above branch "Oh Gods I don’t mean you personally. I mean your era.")
+- I'm sorry we let you down?
+- Eleanor: Precisely.
+- (Jump to above branch "You had all this incredible, magical technology at your fingertips and all you did with it was find new ways to exploit each other. Science made us less equal, not more.")
+- Oh, come on... you're tough. You can deal with this. There's so much cool stuff here.
+- Eleanor: Fine. Take me by the hand and walk me through the streets of Höllvania.
+- Eleanor: I know a place where we can grab some grated turnip cakes and watch the sun go down over the remains of a school.
+- Eleanor: Later we can sip cocktails by the light of a burning tank. {Convo. ends}
+- Hi, upset. I’m Drifter.
+- Eleanor: THEY HAVE DAD JOKES IN THE FUTURE
+- Eleanor: Happy now. Thank you. {Convo. ends}
+- > Don’t have time right now, sorry. [End.]
+
+### Conversation 6 (You know what)
+
+- Eleanor: You know what the best thing about Höllvania was, back before the Scaldra took over?
+- The nightlife?
+- Eleanor: Oh Gods. Surgically beautiful people getting their immaculate faces off on untested drugs? No.
+- Eleanor: The bath houses!
+- Eleanor: I don’t know if they have anything like that where you are. They’re these temples, I suppose you’d call them, usually with a Sol set of rooms and a Lua set. You can soak in a public or a private pool. Everything smells herbal and steamy and it’s SO GOOD for getting your head back on straight.
+- Eleanor: Höllvania’s always had this hugely important tradition of ritual cleanliness. I guess it goes all the way back to the hot springs the city was built on.
+- Eleanor: All that ‘purity’ crap Viktor comes out with? He’s singing an age-old tune. All the citizens know where he’s coming from.
+- Eleanor: I used to love paying the extra Höllars to have a musclebound professional pound all the tension out of my muscles. You’d have loved it. I’m sure you would.
+- I’m not so sure.
+- Eleanor: You'll strut about in a suit made from an Infested human body, but draw the line at massages?
+- Eleanor: Weird. {Convo. ends}
+- Sounds like my kind of fun.
+- Eleanor: I knew you were my kind of squadmate.
+- Eleanor: I wish some of the others were a bit less uptight. Sadly, there was no way the bath houses could stay open after the outbreaks.
+- Eleanor: From what I’ve seen, some of them are basically spawning pools now. It breaks my heart, to tell you the truth. I remember finding thousand-year-old marble and mosaic floors carpeted over with creeping flesh.
+- Eleanor: Do you have anything like that in your time?
+- Sacred public bath houses? No, not really.
+- Eleanor: So what do people do to unwind?
+- There’s Rathuum.
+- Eleanor: Sounds like Amir making sound effect noises to himself...
+- It's a Grineer thing. It's ritual arena combat broadcast to the entire System.
+- It's a massive deal to them. Deadly serious.
+- Eleanor: Dad and Arthur used to watch the wrestling together every Saturday night.
+- Eleanor: Slip him some Rathuum tapes if you get the chance. I think he'd love it. {Convo. ends}
+- Some people bet on the Index.
+- Eleanor: Stockbrokers?
+- ... sort of? It's like a combination of stock trading and four-a-side violence. I know that sounds weird.
+- The Corpus go absolutely crazy for it.
+- Eleanor: But they're your enemies, aren't they? Or is there some kind of truce when it comes to team sports?
+- Eleanor: What am I saying? Of course there is. That's just how people are. {Convo. ends}
+- Komi has been around a while.
+- Eleanor: Komi? Black and white counters? The wedding-war of Sol and Lua?
+- Um.. yes? Wait, is that what Komi's meant to represent?
+- We only know it as a board game!
+- The Orokin loved it. It's even in Duviri.
+- I had no idea it was THAT old, though.
+- Eleanor: Old? It's SACRED! But also fun. A wonderful combination.
+- Eleanor: Everything's about the same two essential principles, you know? Mind and body. Symbol and meaning. Sol and Lua.
+- Eleanor: Arthur and I used to play Komi every year at Solstice. Why did we ever stop? {Convo. ends}
+- What happened to them?
+- Eleanor: I’m sure you can guess. The Techrot wrecked so much. There was no way the bath houses could stay open after the outbreaks.
+- (Jump to above branch "From what I’ve seen, some of them are basically spawning pools now. It breaks my heart, to tell you the truth. I remember finding thousand-year-old marble and mosaic floors carpeted over with creeping flesh.")
+- The underground fighting circuit?
+- Eleanor: Look. I have nothing against watching a pair of sweaty blokes go at one another, hard. But no.
+- (Jump to above branch "The bath houses!")
+- The shopping?
+- Eleanor: Good guess. You could get anything from a Bresslin handbag and glove combo to a human eyeball on ice. But no.
+- (Jump to above branch "The bath houses!")
+- No idea.
+- Eleanor: Well, of course you have no idea. You're a fresh-faced newcomer.
+- (Jump to above branch "The bath houses!")
+- > Not interested. [End.]
+
+### Conversation 1 ( I have to ask)
+
+- Eleanor: I have to ask you something and I don’t think you’re going to like it. I think you must have known deep down that this conversation would have to happen one day, given my condition.
+- Eleanor: I trust you, and I like you, so I’m just going to come out with it, okay?
+- Eleanor: I have no right to ask, really, but I need to know.
+- Eleanor: If I turned, completely - if the Techrot took me and I wasn’t the Eleanor you knew any more - would you kill me?
+- Would you want me to?
+- Eleanor: Hmm. Good start. You’ve made it about what I want instead of seeing my life as an opportunity to flex your personal morals. You just let me know that this isn’t about you.
+- Eleanor: That’s rare.
+- Eleanor: Unfortunately it doesn’t get us out of our dilemma, because it means I never get to change my mind.
+- Eleanor: Let’s say I say yes, I’d want you to end me quick and clean rather than for me to go on living as a ravening freak. Let’s say that’s what Eleanor wants NOW.
+- Eleanor: But what if the ravening freak is me, only more so? What if, once my humanity burns away in the Techrot crucible, I don’t WANT to die?
+- Eleanor: Because it makes me feel alive, Drifter. Powerfully alive.
+- I’d still do it.
+- Eleanor: Okay. So we're sacrificing happy, empowered Eleanor on the altar of Eleanor as she used to be?
+- Eleanor: I can change my mind and decide to live, but you can't change yours?
+- Eleanor: I shouldn't be surprised. It's the ending the stories prepare you for.
+- Eleanor: “Oh no, the hapless girl we once loved has become a sexy vampire. Let us kill her so that in death she will become pure and innocent once again.”
+- Boolean EleanorArthurNightmare is now true.
+- Eleanor: I obsessed over it, actually. I had nightmares where I’d wake up on my couch and Arthur would be standing over me, tears in his eyes and sword in his hand, and he’d grate out some line about how Eleanor was his sister but now Eleanor was GONE, and he had to do this even though it was killing him, boo hoo.
+- Eleanor: And as he shoves the blade between my ribs I’m screaming “Eleanor is RIGHT HERE, you stupid bastard!” but he can’t hear me any more.
+- Eleanor: Maybe I'll dream about you next. {Convo. ends}
+- Point taken. I wouldn’t do it.
+- Eleanor: Oh, so all I'd need to do is blink my big beautiful eyes at you and your resolve would crumble?
+- Eleanor: What kind of fearless vampire killer would you be then?
+- Eleanor: I'll tell you. You'll be the kind who dies halfway through the movie, because they didn't have the heart to Do What Had To Be Done.
+- Eleanor: You'll be a warning to the others, you will!
+- Eleanor: Sorry. I'm not being very fair with you. Talk soon. {Convo. ends}
+- It would depend on how many other people would be endangered.
+- Eleanor: Ah. Right. In this scenario, I’m an inhuman monster who’s presumably slaughtering people willy-nilly. You get to put me in the ‘predatory animal’ category, along with rabid dogs and hungry bears and such, which means there’s no moral quandary.
+- Eleanor: So tell me.
+- Eleanor: Do you wait until I claim my first victim before you pop a bullet through my skull?
+- Eleanor: Because if you don’t, how can you be sure I’m a danger? {Convo. ends}
+- You haven’t answered the question. Would you want me to?
+- Eleanor: … I don’t know. Some days I think so. I feel like the stock character from a melodrama.
+- Eleanor: “Oh no, the hapless girl we once loved has become a sexy vampire. Let us kill her so that in death she will become pure and innocent once again.”
+- Boolean EleanorArthurNightmare is now true.
+- Eleanor: I obsessed over it, actually. I had nightmares where I’d wake up on my couch and Arthur would be standing over me, tears in his eyes and sword in his hand, and he’d grate out some line about how Eleanor was his sister but now Eleanor was GONE, and he had to do this even though it was killing him, boo hoo.
+- Eleanor: And as he shoves the blade between my ribs I’m screaming “Eleanor is RIGHT HERE, you stupid bastard!” but he can’t hear me any more.
+- So what I’m hearing is, you aren’t willing to decide this question in advance.
+- > In which case, you can’t expect me to, either. {Convo. ends}
+- Sure.
+- Eleanor: Wow. Okay.
+- Eleanor: No hesitation, no struggle, just a simple yes.
+- Eleanor: Thank you. You're an enigma to me in many ways, but now I know you'd be willing to put a bullet through my head, and that sort of thing is important in the workplace.
+- Eleanor: Aaaand I just felt the Techrot in my cells give an anxious little quiver.
+- Eleanor: I think it's going to behave itself a little better from now on. Nothing like threatening the host to put the fear of Sol into the parasite, eh?
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- Never.
+- Eleanor: Okay. Um.
+- Eleanor: Sorry. I'm actually a little overwhelmed. I didn't expect you to be that forthright.
+- Eleanor: You'd let the monster live?
+- Eleanor: Sorry, sorry, it's just that I've been living every day with Lettie in my ear crowing about how I don't deserve to be here and Arthur looking at me like I'm a lost cause and he's counting the days till he has to do it, and I just didn't expect you to say that ok
+- Eleanor: Crying. Happy tears. Talk soon. Please {Convo. ends}
+- I’m not going to answer that.
+- Eleanor: As you wish.
+- Eleanor: I won't ask again.
+- Eleanor: I suppose we'll have to wait until it happens to see how you react, won't we?
+- Eleanor: You're a lethal little enigma.
+- Eleanor: And so am I.
+- Boolean EleanorNoDate is now true. {Convo. ends}
+
+### Conversation 2 (O Drifter!)
+
+- Eleanor: O Drifter! O vagabond of time and space! How welcome your presence is on this little screen of mine!
+- Hi, Eleanor.
+- Eleanor: Hey matey.
+- Eleanor: Guess what.
+- You’ve got a question about what life is like in the future?
+- Eleanor: Ugh. I’m so tediously bloody predictable.
+- Eleanor: Yes, I do. Yet another one. But this is a really big one, so bear with me, okay?
+- I’ll do my best.
+- Eleanor: Good. Great. So.
+- Eleanor: How do relationships work in your time? I mean, is it all the usual ‘two or more adults get together with varying degrees of solemnization’ stuff? Or are there all sorts of rules about who can be with who?
+- That’s not something I’ve looked into.
+- Eleanor: Gosh.
+- Eleanor: I know you were isolated in Duviri, but I had no idea you were THAT isolated.
+- Eleanor: I'm sincerely sorry if I've caused you any upset by asking. {Convo. ends}
+- It depends on the culture.
+- Eleanor: Right. Of course.
+- Eleanor: Let me try another tack.
+- Eleanor: Let's see...
+- Eleanor: Okay. So where you come from, would it be normal for a person to be in a relationship with, say, a Cephalon?
+- I could try to drag Ordis back here in time if you'd like to try to find out...
+- Eleanor: I am trying to ask a THEORETICAL question!
+- Eleanor: I'm not aching to grind myself against your glassy chum, however charming he may be
+- Eleanor: I'm trying, and failing, to ask you about POWER IMBALANCES
+- Eleanor: Make up someone from your time who’s both female and dangerous. Strong, too. Like Major Rusalka without the demonic possession.
+- A Grineer sniper?
+- Eleanor: Okay. Let’s say there’s a Grineer sniper lady and she falls for a human. And it’s mutual. Star crossed lovers. Desperately tragic. Could they be together?
+- If it was what they both wanted, sure.
+- Eleanor: I’m tying myself in knots here.
+- Eleanor: Is it normal where you come from for people to get together with partners who are far more powerful and dangerous than they are? Like in ‘Gumbly and the Dragon’s Socks’ when the elf prince ends up married to the giant?
+- Eleanor: … you don’t know what I’m talking about, do you.
+- Actually, I’m pretty sure I do.
+- Eleanor: I don’t want to ruin your day. Sorry.
+- Eleanor: Can I be allowed a self-pitying rant?
+- Rant away.
+- Eleanor: I am NOT saying my life is meaningless without someone to share it with
+- Eleanor: I am NOT defined by who I choose to love
+- Eleanor: I am sufficient unto myself
+- Eleanor: BUT HOW AM I SUPPOSED TO EVEN ENTERTAIN THE POSSIBILITY OF A RELATIONSHIP WHEN I COULD LITERALLY KILL SOMEONE BY ACCIDENT IF I GOT CARRIED AWAY
+- Eleanor: Welcome to Eleanor and her horny mantis problems
+- Eleanor: If I ever find that Entrati bastard I will turn his balls into earrings. If he has any balls.
+- You could always date someone else in the Hex.
+- Eleanor: OMFS
+- Eleanor: I AM LITERALLY BITING MY TONGUE SO I DON'T LAUGH
+- Eleanor: The only one of those four I could even CONSIDER dating is Aoi and that's complicated because of Arthur
+- Eleanor: Bless you for suggesting that but no, not in a million years {Convo. ends}
+- Hold on. You’re single because you’re worried about hurting someone?
+- Eleanor: Yes.
+- Eleanor: You know what I am better than I do, I think. I’m a Protoframe. I’m a partially transformed war machine, and it feels like it’s getting less partial by the day.
+- Eleanor: Whoever designed poor ‘Nyx’ was building a killer. That’s me, now. Efficient. Lethal. Cuddly as a claymore.
+- Eleanor: All very well when it comes to the day job, but at the office party who’s going to kiss a walking deathtrap under the mistletoe?
+- This accidental hurting you’re worried about. Has it ever happened? Have you ever hurt someone you were with?
+- Eleanor: No it hasn’t happened because I haven’t bloody let it. OK?
+- Eleanor: No partners, no casualties. Not worth the risk.
+- Eleanor: I’d rather be lonely than steeped in guilt, thanks.
+- So you’ve been single since the Entrati shots?
+- Eleanor: Correct. A trade-off I am quite willing to make.
+- Eleanor: Sorry. I’m not sure talking about this was a good idea.
+- Eleanor: I think I need to be on my own for a bit. {Convo. ends}
+- I mean, at least the good news is that if there was an accident, nobody in Höllvania stays dead after the reset...
+- Eleanor: ...
+- Eleanor: I hadn't considered that.
+- Eleanor: Our memories persist, though.
+- Eleanor: I don't think anyone would want to be in a relationship with someone who bit their head off once, even if it got better.
+- Eleanor: Lua wept. I need a drink now. {Convo. ends}
+- > I don't have the time for this, sorry. [End.]
+- Not really, no.
+- Eleanor: I'd better stop. I'm in danger of making a complete berk of myself. {Convo. ends}
+- Why not?
+- (Jump to above branch "I’m tying myself in knots here.")
+- I’d like to see anyone try to stop them.
+- (Jump to above branch "I’m tying myself in knots here.")
+- Yes, but it would be hard.
+- Eleanor: Thank you.
+- Eleanor: Question: can two people with wildly differing physiques and lethality levels be in a relationship? Answer: yes.
+- Eleanor: That's all I wanted to know. {Convo. ends}
+- A Dax?
+- Eleanor: Okay. Let’s say there’s a Dax soldier lady and she falls for a lowly human. And it’s mutual. Star crossed lovers. Desperately tragic. Could they be together?
+- If it was what they both wanted, sure.
+- (Jump to above branch "I’m tying myself in knots here.")
+- Why not?
+- (Jump to above branch "I’m tying myself in knots here.")
+- I’d like to see anyone try to stop them.
+- (Jump to above branch "I’m tying myself in knots here.")
+- Yes, but it would be hard.
+- (Jump to above branch "Thank you.")
+- … I’ve never heard of it, and I’m not sure how it would work.
+- Eleanor: Damn. Let me try again.
+- (Jump to above branch "Make up someone from your time who’s both female and dangerous. Strong, too. Like Major Rusalka without the demonic possession.")
+- … why would you ask that?
+- If boolean EleanorEntrati is true:
+- Eleanor: Those two on Deimos, Father and Mother. They’re a married couple. They may be gigantic Infested former Orokin whatnots, but they’re very clearly and painfully MARRIED in exactly the same way my mum and dad are.
+- Eleanor: So was that standard for Orokin?
+- Orokin were all about rules and taboos. They loved hierarchy. Relationships couldn’t cross social lines. A Dax couldn’t be with an Orokin noble, say.
+- (Jump to above branch "Okay. So where you come from, would it be normal for a person to be in a relationship with, say, a Cephalon?")
+- If boolean EleanorEntrati is false:
+- Eleanor: From the bits and pieces I've gleaned from your mind, I still see standard pairings of people. Folks who are very clearly and painfully MARRIED in exactly the same way my mum and dad are.
+- (Jump to above branch "So was that standard for Orokin?")
+- You've grown a tail.
+- Eleanor: ... you'd like that, wouldn't you?
+- Eleanor: Alas, no. My bottom has not been improved by the addition of a tail. It cannot be improved, for it is already perfect.
+- Eleanor: However, I did have a question for you.
+- (Jump to above branch "How do relationships work in your time? I mean, is it all the usual ‘two or more adults get together with varying degrees of solemnization’ stuff? Or are there all sorts of rules about who can be with who?")
+- > Brb, Kalymos is playing with the cords again and she might disconn [End.]
+
+### Conversation 3 (I think I’ve)
+
+- Eleanor: I think I’ve done it. I broke through. I made contact.
+- Eleanor: Are you there? Please be there.
+- Eleanor: Am I going to have to do this over telepathy? Oh God. Please not now.
+- Eleanor, slow down. What’s going on?
+- If boolean EleanorSister is true:
+- Eleanor: The other me. The one who became a nun. I’ve been trying to contact her.
+- Eleanor: I just did it.
+- Eleanor: Of course it was never going to work so long as I stayed in this world. I’m already the ‘me’ of this world. I had to go through the roaring whiteness. The blackstar fugue. The leechbone gulf. That’s how you get to the other sides. The maybes and the could-have-beens.
+- Eleanor: The Void! I saw the Void!
+- Are you... sure you didn't get into Lettie's special stash?
+- Eleanor: Drifter dear, I admire your ability to use humour as a coping mechanism, but right now I am entirely serious.
+- Eleanor: I did what I set out to do.
+- Eleanor: I not only saw the Void, I entered it.
+- Eleanor: Ow headache ow ow ow
+- If boolean EleanorIndifference2 is true:
+- If you really did enter the Void, I cannot tell you how much danger you were putting yourself in. You know what’s out there, and you still just dove into it?
+- Eleanor: That’s how I got into the Void in the first place. Through that memory. The horror was just smoke and through the smoke was a GATE. If I hadn’t been so frightened I would have seen it clearly the first time around.
+- This was a mistake. It took Rusalka. It came damn close to taking Albrecht. It could easily take you too.
+- Eleanor: It tried. I felt it. I knew it was curious, reaching for me.
+- So out of infinities of possible worlds, you just happened to home in on the right one?
+- Eleanor: It’s okay that you’re not convinced. I know this sounds insane. Just hear me out, okay?
+- Eleanor: I’ll make a deal with you.
+- Eleanor: First you let me finish telling you what happened.
+- Eleanor: Once I’m done, you can make your own mind up about whether it was the Indifference messing with me or not. I promise I’ll take you seriously.
+- Eleanor: Deal?
+- Deal.
+- Eleanor: So like I was saying. I found her.
+- Eleanor: I could feel the Indifference watching. I could feel it make a face like one of those dried-out desert mummies as it reached out for me. I reached out for her, and she pulled me through.
+- Eleanor: She was sitting in the Lotus position in some kind of open-air shrine, next to a pit full of embers. It was nighttime. The moon was dim, ghosting through scrolling clouds.
+- Eleanor: She put a finger to her lips.
+- Eleanor: For a second I could feel that giant hand still groping for me. Then it recoiled, like a guillotine had come down on one of its fingers.
+- Eleanor: Grass whispered. Crickets sang. We were alone.
+- This is all sounding horribly familiar. And then?
+- Eleanor: We sat across the fire-pit from each other. She didn’t speak, but she let me look into her mind, soft and sisterly.
+- Eleanor: She was so happy, so perfectly content. A woman in the place that was right for her. Callused feet, clear eyes. Breathing the fire and drinking the moon.
+- So you felt that WOULD have been the right choice for you?
+- Eleanor: No! Just the opposite!
+- Eleanor: I didn’t need to take that path, because she already had. Don’t you see? I’m free now. I never need to wonder ‘what if’ because there already IS a Sister Eleanor. She’s got my back. Am I making sense?
+- Kind of? All I want to know is, did it help?
+- Eleanor: Oh yeah. I’ve never been more certain of what to do next.
+- Eleanor: I’m going to take the life she freed me up to live, and live it to the hilt. {Convo. ends}
+- Did you feel tempted to stay?
+- (Jump to above branch "No! Just the opposite!")
+- I can't believe you did this. Never do that again, Eleanor! I CAN'T LOSE YOU TO THAT THING!
+- Eleanor: Excuse me?
+- Eleanor: I'm not sure what to say. I'm a bit concerned, because you sound so upset, but I didn't realise you cared quite so much.
+- Eleanor: I'm all right. Please don't worry about me.
+- Eleanor: I can't promise anything, but I'll try not to scare you again.
+- Fine... just... Tell me what happened.
+- (Jump to above branch "So like I was saying. I found her.")
+- > I can't be a party to this. [End.]
+- Eleanor, the Indifference can look like whatever it wants. It looked like Albrecht when he first encountered it.
+- I think maybe it sensed what you wanted and took on the form you were hoping to see.
+- (Jump to above branch "I’ll make a deal with you.")
+- If boolean EleanorIndifference2 is false:
+- What did you see? What happened?
+- Eleanor: There’s a feeling there isn’t a word for. You look out on the world and you just KNOW, that all the ordinariness - buildings, cars, people, jobs, work, routine - is just a thin crust over a bottomless horror, and if people ever realized it they’d start screaming and never stop.
+- Eleanor: I fell through the crust.
+- Eleanor: It wasn’t emptiness. I could have borne that. It went on and on forever, but it wasn’t just cold space. There was something in there with me.
+- Boolean EleanorIndifference2 is now true.
+- This was a mistake. It took Rusalka. It came damn close to taking Albrecht. It could easily take you too.
+- (Jump to above branch "It tried. I felt it. I knew it was curious, reaching for me.")
+- Always available options:
+- Are you insane?!
+- Eleanor: Not even a little bit.
+- Eleanor: Just listen. Please. And try to understand.
+- So out of infinities of possible worlds, you just happened to home in on the right one?
+- (Jump to above branch "It’s okay that you’re not convinced. I know this sounds insane. Just hear me out, okay?")
+- Eleanor, the Indifference can look like whatever it wants. It looked like Albrecht when he first encountered it.
+- I think maybe it sensed what you wanted and took on the form you were hoping to see.
+- (Jump to above branch "I’ll make a deal with you.")
+- That shouldn’t be possible, Eleanor. Nobody enters the Void until Albrecht Entrati does it. That’s a long way into the future from where we are now.
+- Eleanor: I went in with my mind, not my body. That’s the difference.
+- (Jump to above branch "Ow headache ow ow ow")
+- If boolean EleanorSister is false:
+- Eleanor: Ever since you appeared, a question has been pestering me. A question I believe I might've just answered. And dear Sol I don't know what I've done.
+- Start at the beginning. I don't know what you're talking about. What question?
+- Eleanor: You! The question of bloody You. You exist not once but twice.
+- Eleanor: And if you could exist in another world, as another version of yourself, why couldn't I?
+- Eleanor: Somewhere out there in the now-confirmed-to-exist vast possible universes was that version of myself that I always wondered if I should become.
+- Eleanor: The one who turned away from the world to become a nun.
+- Eleanor: An apostle of Lua sat on a mountaintop somewhere, incense clouds flowering around her.
+- Eleanor: I've been trying to contact her. Trying to reach through the Void to find her.
+- Boolean EleanorSister is now true.
+- Oh no.
+- (Jump to above branch "I just did it.")
+- And...?
+- (Jump to above branch "I just did it.")
+- > [Ignore.] {Convo. ends}
+
+### Conversation 4 (Were you and)
+
+- Were you and Lettie ever friends?
+- Eleanor: Oh Gods, yeah. We were thick as thieves for a while.
+- Eleanor: That was before Entrati, of course.
+- Eleanor: Now she acts like I’m a different person. Convenient for her. If I’m not really Eleanor then she can be as hurtful towards me as she wants, because she’s not hurting the person she knew. I think it’s cowardly.
+- She still wants you to recover from this, though, right?
+- Eleanor: Oh, come on. I’ll grow wings and a tail before THAT happens.
+- Eleanor: Entrati has buggered off. If there was ever a hope of getting the old Eleanor back, the one who sang in the shower and smiled at kids in the street, that hope left with him.
+- Lettie needs to look in the mirror and understand she's also just a few bad days away from losing her humanity.
+- Eleanor: Are you trying to get on my good side?
+- Eleanor: I mean, yes. She does.
+- Eleanor: I still haven't forgiven her for what she said about letting this city burn.
+- Eleanor: Even Aoi was shocked. It makes you wonder who the real monsters are, doesn't it?
+- Why does she hate you so much, anyway?
+- Eleanor: It’s complicated. There’s more than one reason.
+- Eleanor: She’s told me to her face that I’m not to go poking around in her head. If I didn’t agree, she’d leave the Hex and take her chances on her own. Insane stuff.
+- Eleanor: So part of it is just that she’s scared I’m going to read her teenage diary, as it were. I’ll peer at her most embarrassing secrets and laugh my arse off and she’ll be humiliated forever.
+- Eleanor: The truth is, I’m just not that curious. Whatever sick little secret she’s hiding from me, it’s safe.
+- Did you two ever have a... more romantic history together?
+- Eleanor: Do you think I'd kiss and tell?
+- Eleanor: No. No we didn't.
+- Eleanor: Which is just as well, because can you imagine how awkward things would be between us now?
+- Eleanor: I mean... I wouldn't have said no. It just never came up.
+- Eleanor: So if you're attracted to her, then go for it! I'll cheer from the sidelines! Lua knows Lettie could use some happiness in her bleak, loveless life. {Convo. ends}
+- Do you think maybe she LIKES you?
+- Eleanor: It’s crossed my mind.
+- Eleanor: I’d have been up for it, I think. Nothing wrong with a snog and a grope between friends, especially if Arthur had to give us an awkward speech at briefing about how we mustn’t let our feelings get in the way of doing our job.
+- Eleanor: It blows off steam, it’s good for morale, and it’s cheap.
+- Eleanor: But whatever Ms Garcia is hiding is something people could use to hurt her. So I’m a threat, because I might see it in her head.
+- Wait, weren’t Arthur and Aoi an item?
+- Eleanor: Why? You got designs on my brother? Or on Aoi?
+- Well. Um. Actually...
+- Eleanor: Oh! Oh! DO tell...
+- Arthur.
+- Eleanor: I KNEW IT.
+- Eleanor: I don't have the heart to tell you what you're letting yourself in for. You can walk that road all by yourself.
+- Eleanor: Just so we're clear: baiting Arthur is MY prerogative. And if you're ever cruel to him on purpose, I will murder you. One more thing...
+- Eleanor: Arthur and Aoi’s relationship was one of the first casualties of this conflict. Neither one of them is over it. It’s a bit of an open wound, so be careful.
+- Why did they break up?
+- Eleanor: Why are you asking?
+- Never any harm in some harmless gossip.
+- Eleanor: Hmm. I don't agree.
+- Eleanor: Aoi's my friend. And however much of a prat Arthur may be, he's still my brother.
+- Eleanor: I'm not sure I should be confiding anything in you. {Convo. ends}
+- It’d help to know, so I don’t rub salt in any open wounds.
+- Eleanor: Okay. I don’t know what THEY would tell you, but from where I’m sitting, they were just pulling in different directions.
+- Eleanor: They’re both romantics, just different kinds. Arthur wants the cottage with the roses around the door. He claims he doesn’t, but he does.
+- Eleanor: Gods, he even used to talk about taking over a pub sometime. I can just see him with his little crowd of regulars, pulling pints, making Sunday roasts, full of hard-won wisdom.
+- Eleanor: Can you see Aoi finding a place in a dream like that? I can’t. She needs to spread her wings. {Convo. ends}
+- I couldn't possibly see them working out.
+- Eleanor: Well, you're not alone.
+- Eleanor: But you don't go up to grieving people and say 'I told you so'. You rally round. I did my best to comfort Arthur, and Lettie tried to patch up Aoi's broken heart.
+- Eleanor: Tread lightly. That's all I'm saying. {Convo. ends}
+- Aoi.
+- Eleanor: I don't blame you one bit.
+- Eleanor: I know she seems too pure to be real, but believe me, she's a soldier like the rest of us.
+- Eleanor: Get to know the REAL Aoi, not whatever image you have in your head of her, and you'll be okay. Also...
+- (Jump to above branch "Arthur and Aoi’s relationship was one of the first casualties of this conflict. Neither one of them is over it. It’s a bit of an open wound, so be careful.")
+- Uh... no... I have designs on *you* actually...
+- Eleanor: Interesting.
+- Eleanor: Sorry, that's probably not the response you were hoping for, is it?
+- Eleanor: Well.
+- Eleanor: We'll see. {Convo. ends}
+- No. LOL. They're not my type, sorry. Too "heroic."
+- Eleanor: HAHAHA
+- Eleanor: Rugged, dashing Arthur? Pure, kindhearted Aoi? Neither one of them floats your boat?
+- Eleanor: I am intrigued.
+- Eleanor: We shall talk of this another time, she said, wrapping her crimson cape around her face and stalking away... {Convo. ends}
+- Is it seriously just the tongue thing that freaks her out? Or is it the mind reading thing?
+- (Jump to above branch "It’s complicated. There’s more than one reason.")
+- If Arthur thinks you’re still his sister, that should be good enough for Lettie, too.
+- Eleanor: YOU WOULD THINK.
+- Eleanor: Lettie adores Arthur. He’s the big brother she never had. If Arthur wasn’t around, I’d wake up to a chloroform rag over my mouth and end up at the bottom of the river.
+- Eleanor: She thinks he’s delusional, holding on to the past. But she loves the guy and she’s a good soldier, so she’ll never go against him.
+- Why does she hate you so much, anyway?
+- (Jump to above branch "It’s complicated. There’s more than one reason.")
+- Is it seriously just the tongue thing that freaks her out? Or is it the mind reading thing?
+- (Jump to above branch "It’s complicated. There’s more than one reason.")
+- This is a pretty close knit group. Have any of you ever dated anyone else in the Hex?
+- Eleanor: That's a little personal, mate, but I'll allow it. You've been with us a while. You deserve to know the lay of the land.
+- Eleanor: Apart from Arthur and Aoi dating? No. Not that I know about, anyway... and I WOULD know.
+- Eleanor: And in case you're thinking about making a move on any of us...
+- Eleanor: ... you could do worse than earn Quincy's trust. He sees a lot. Maybe you could take notes. {Convo. ends}
+- How would you take it if Arthur got involved with someone romantically?
+- Eleanor: Someone not a million miles away, you mean?
+- Eleanor: Don't answer that.
+- Eleanor: If I thought they knew what they were doing and had genuine feelings for the guy, I'd be thrilled. Obviously.
+- Eleanor: But I'd want to make sure they knew how easy it is to hurt him.
+- Eleanor: What are those robot things that are all armour and attitude on the outside but the inside is all soft, squishy organics?
+- Solaris?
+- Eleanor: It doesn't matter. The point is, Arthur's like one.
+- Eleanor: If he lets you in, for Sol's sake be gentle with him. {Convo. ends}
+- Nox?
+- (Jump to above branch "It doesn't matter. The point is, Arthur's like one.")
+- Sentients?
+- (Jump to above branch "It doesn't matter. The point is, Arthur's like one.")
+
+### Conversation 5 (The Kingdom)
+
+- Eleanor: The Kingdom you used to rule over. Duviri. You didn’t invent it, did you?
+- I did and I didn’t. The place and the characters came from a children’s book I used to love. ‘Tales of Duviri’. I brought it to life through the Void.
+- Eleanor: However did you achieve that?
+- I was all alone. I guess the other kids were dead, or rescued. I’m kind of hazy on the details.
+- The Angels were coming, breaking through the walls, and I had nowhere to run. I had the book, then I just remember thinking ‘This is where I can be safe.’
+- Eleanor: Angels? In this time, angels are thought of as benevolent creatures. Terrifying, sometimes, but on the side of good. Unless you mean the fallen ones.
+- That hasn’t really changed in my time. Angels are meant to be winged, shining creatures from the old stories who help good humans. I’m talking about Void Angels. They’re a whole different beast.
+- Eleanor: I see. I can’t imagine something called a ‘Void Angel’ swooping down and blessing a newborn babe.
+- So far as I can make out, they used to be people. When the Angels’ song reaches them, they start to change. Once they can’t resist it any more, they become Angels themselves.
+- Eleanor: The future, as you describe it, sounds bloody horrible.
+- Eleanor: I can’t blame you for wanting to hide away from these Void Angels. Especially if they were…
+- Eleanor: Oh. I just got a feeling. They weren’t your parents, were they?
+- I’m fairly certain my parents are dead.
+- Eleanor: I’m so sorry. I’m glad you found safe harbour, even if it didn’t stay that way.
+- It was safe for a long time. Long enough for me to forget. I guess that’s what I wanted to do.
+- Eleanor: But how on earth did you do it? You were only a child. What gave you the power to conjure an entire kingdom out of nothing?
+- Children are fascinating in the fact that they don't know what they can't do yet. I didn't know I couldn't. So I did.
+- Eleanor: When I was five, I wanted to be a witch. I yelled Abracadabra and jumped from the top of the stairs. I didn't know I couldn't fly. But I quickly found out.
+- Eleanor: The power to create Duviri must have come from somewhere other than you. You used it to do something incredible, but it wasn't yours.
+- Eleanor: Not at first, anyway. It's in you now, though. The wild energy. The loops in time. Gods, you're a wonder.
+- Eleanor: Whyever did the Orokin think it was a good idea to launch a ship full of children into the Void? Wasn’t that an emotional time bomb waiting to go off?
+- That’s what that book of stories was meant to be for. On the surface it was all about these over-the-top characters in the court of a mad King who changed his moods every day.
+- But the real lesson of the stories was about how to rule over your emotions. We were meant to learn an important lesson from it, so the voyage would be safe.
+- Eleanor: Ugh. Sorry, but you’ve ruined it for me now.
+- Eleanor: Why can’t stories just be stories? I HATED it when I found out that Rudolfo the Leopard King who died heroically in battle with the Zodiac Serpent was meant to be Sol with his sun-spots, suffering on the star-tree.
+- Eleanor: Smuggling religion into kids’ books is like hiding medicine inside sweeties. JUST TELL THEM.
+- I’ve never heard of Rudolfo the Leopard King.
+- Eleanor: I can die a happy woman knowing that those books get forgotten about. Hurrah for the future!
+- Eleanor: You do have stories, though, don’t you?
+- Plenty. Even the Tenno and the Warframes have stories.
+- There’s this guy, Drusus Leverian. He’s like a museum curator. He keeps records of all the legends of the Warframes.
+- Eleanor: Well, that’s boggled my noggin. You’re from the far future, but you’ve also been out of the loop in Duviri for so many years that events that happened in your lifetime have had time to become myths?
+- Eleanor: I’m getting vertigo.
+- Trust me. I know how you feel.
+- Eleanor: You're a storybook character yourself, aren't you?
+- Eleanor: Trapped in a magical kingdom where time flows differently, summoned to the place where you were most needed...
+- Eleanor: All we need to round your story off is a love interest, or a slavering, inhuman monster.
+- Eleanor: (Or a slavering, inhuman love interest, depending on how your tastes run.)
+- I've always found the monsters more interesting, anyway. Heroes are boring. Predictable. ...Mundane.
+- Boolean EleanorFlirt is now true.
+- Eleanor: Monstrosity is in the eye of the beholder, my friend.
+- Eleanor: If you are sincerely drawn to the qualities you think 'monstrous' in another, then you had better make sure they share your choice of labels and revel in it. Otherwise, you commit the grossest fetishization.
+- Eleanor: Would I call myself a monster, for example? Yes. Enthusiastically. I take the title others would condemn me by, and I rejoice in it. In case you were wondering. {Convo. ends}
+- Mm, I'm not sure if monsters are really my type.
+- Eleanor: And that's fine, honestly.
+- Eleanor: Monsters are used to being alone.
+- Eleanor: We're survivors. {Convo. ends}
+- Tell me about your myths, then.
+- Eleanor: Blimey. We’ll be here all year if I start.
+- Eleanor: Let’s see. There’s Arthur, of course. Good old Arthur. The original. Britannia’s finest.
+- Eleanor: Then there’s Young Loxley. I loved her. Wanted to be her. She was the model for a certain kind of young woman.
+- What’s her story?
+- Eleanor: Okay. Potted version: she was the daughter of a nobleman back in ye olde days, when the land was suffering under a cruel King.
+- Eleanor: Her brother had been killed off fighting in foreign climes, but word hadn’t reached home yet, so when the poor oppressed people needed a hero she rose to the occasion.
+- If boolean EleanorHeroVirus is true:
+- I thought you hated heroes.
+- Eleanor: She gets a pass. Shut up.
+- Eleanor: As I was saying. She looked a lot like her brother, so she dressed up in his old clothes and pretended to be him, and went off to lead a revolution. If anyone got too close they might notice she was a girl, so she took to wearing a hood. It became her trademark.
+- Eleanor: She was shit-hot with a bow and arrow. She and her crew became this beloved band of outlaws, robbing from the King’s tax collectors and giving the money to whoever needed it most.
+- Sounds like she would have commanded respect in her own right. Why’d she need to pretend to be her brother?
+- Eleanor: That’s history for you. Back then, men supposedly did all the fighting, so they did the ruling too. People expected to take orders from men. She needed to draw on her brother’s reputation to do what she had to do. It was that or go under.
+- What happened to her in the end?
+- Eleanor: It depends which version of the story you read. She either got called straight to the Hall of Heroes, or married the King’s wayward daughter, or got trapped in an oak tree where she sleeps to this day waiting for Britannia’s hour of need.
+- Eleanor: Hence the saying back home. If things are going badly, like they were during the war, it’s tradition to shrug and say ‘Well, it can’t be THAT bad. Young Loxley’s not turned up yet.’ {Convo. ends}
+- I'm so glad we fixed that in the future.
+- Eleanor: So am I.
+- Eleanor: Gods, I'd love to see your era with my own eyes. Maybe you could smuggle me back one of those icebox coffin things and I can just sleeeeeep for a few millennia. {Convo. ends}
+- I'm not sure we *entirely* fixed that in the future...
+- Eleanor: Not if that Ballas character is anything to go by, you didn't.
+- Eleanor: How much bloody longer do we need? FFS. {Convo. ends}
+- If boolean EleanorHeroVirus is false:
+- Eleanor: Now, normally I can't stand hero figures. They're toxic. Infectious, and for that reason, dangerous.
+- Eleanor: Young Loxley's different.
+- Boolean EleanorHeroVirus is now true.
+- (Jump to above branch "She was shit-hot with a bow and arrow. She and her crew became this beloved band of outlaws, robbing from the King’s tax collectors and giving the money to whoever needed it most.")
+- I want to hear the story of Rudolfo the Leopard King someday.
+- Eleanor: Ugh. Please, no. It's not a real legend, it's a terrible series of children's books.
+- Eleanor: I could tell you some of our real legends, though, if you like.
+- I'd like that.
+- (Jump to above branch "Let’s see. There’s Arthur, of course. Good old Arthur. The original. Britannia’s finest.")
+- > Not right now. [End.]
+- I had so many emotions, all at once, that I... just... did something with them. It's hard to explain.
+- We know very little about it, even now. But one thing even the Orokin figured out is this: the Void responds to human emotions.
+- Eleanor: I SEE. So if you looked into the Void with… hmm, let’s say ‘hunger’… you might create a prowling half-starved wolf. Or a royal banquet, maybe. Or a loaf of bread with wolf’s teeth gnashing in it.
+- Eleanor: What a terrifying, exhilarating thought.
+- (Jump to above branch "Whyever did the Orokin think it was a good idea to launch a ship full of children into the Void? Wasn’t that an emotional time bomb waiting to go off? ")
+- The Void isn’t ‘nothing’. I know it sounds like it should be, but it’s not. Albrecht proved that.
+- We know very little about it, even now. But one thing even the Orokin figured out is this: the Void responds to human emotions.
+- (Jump to above branch "I SEE. So if you looked into the Void with… hmm, let’s say ‘hunger’… you might create a prowling half-starved wolf. Or a royal banquet, maybe. Or a loaf of bread with wolf’s teeth gnashing in it. ")
+- They could have been. Other kids heard their parents calling.
+- (Jump to above branch "I’m so sorry. I’m glad you found safe harbour, even if it didn’t stay that way.")
+- I think they were, yeah. Quinn warned me not to look for familiar voices. That must have been what he meant.
+- (Jump to above branch "I’m so sorry. I’m glad you found safe harbour, even if it didn’t stay that way.")
+- It wasn’t exactly intentional. All I remember is…
+- The Angels were coming, breaking through the walls, and I had nowhere to run. I had the book, then I just remember thinking ‘This is where I can be safe.’
+- (Jump to above branch "Angels? In this time, angels are thought of as benevolent creatures. Terrifying, sometimes, but on the side of good. Unless you mean the fallen ones.")
+- I am so sick of talking about Duviri...
+- Eleanor: Oops. My mistake.
+- Eleanor: That was thoughtless of me, wasn't it? The place wasn't exactly a holiday camp for you.
+- Eleanor: I'm sincerely sorry. I'll keep my curiosity under control from now on. {Convo. ends}
+
+### Conversation 6 (So… why crystals?)
+
+- So… why crystals?
+- Eleanor: Oh, I’ve always loved them. When I was little, my dad took us to the Innovation Museum in Ludston and Arthur and I both got these crystal growing kits. Arthur’s turned out shit, literally like a lumpy little rock turd. It went in the bin. Mine was a beautiful blue diamond. Ever since that day I’ve felt like crystals were on my side, somehow.
+- So they’re just for decoration, then?
+- Eleanor: Ah. No.
+- Eleanor: I know there’s a lot of nonsense written about crystals. Not my thing. I don’t believe they purify my aura or light up my chakras.
+- Eleanor: But they do have a presence.
+- Eleanor: Sorry. I’m aware I sound like a complete headcase.
+- I'm glad you said it and not me. They're just fancy rocks.
+- Eleanor: Oh you are MADDENING sometimes.
+- Eleanor: I would have thought that you, of all people, could lift your perspective above the purely material.
+- Eleanor: Away with you. Leave me to my fancy rocks. {Convo. ends}
+- I have friends who are Cephalons. They’re literally intelligences in the form of glass cubes. Why would you think I’d mock you for thinking crystals have a presence?
+- Eleanor: Well, now I feel stupid for feeling stupid.
+- Eleanor: I expect you have crystals I could only dream about.
+- Argon. You only find it in the Void, and it disintegrates once you take it out.
+- Eleanor: You say ‘you only find it in the Void’ like people are popping in and out of the Void all the time. I thought it was this crazy-making dimension, not a seaside resort.
+- I guess I didn’t tell you about Orokin Towers yet. They’re like strongholds in the Void, set up in case the Sentients tried to attack.
+- Eleanor: Now that’s familiar. There are these top-security bunkers under Ludston and Mancunia. The idea is, if there’s ever a Radiation War, the fat cats and bigwigs get to hide down in their luxury bolthole and sip Mimosas while the rest of us get burned to a cinder up above.
+- Eleanor: Same old story, she said with a sigh.
+- Eleanor: It’s funny. Everyone was so scared of a Radiation War when I was growing up. I remember the public service broadcasts that used to go out. Sombre advice about how to stockpile supplies, how to prepare a refuge room, and how you really have to bury any dead relatives even if you don’t want to.
+- Eleanor: When I saw the reactor exploding in your mind, it took me right back to all those nightmares. I knew we had to stop it, whatever it took. I’d make the others believe you.
+- Eleanor: It’s not a Radiation War that’s waiting for this planet, though, is it? It’s the Techrot. One way or another, this loop’s going to work itself out and when it does, the rest of the world’s going to get infected. {Convo. ends}
+- There’s a whole Warframe made of crystal. Citrine.
+- Eleanor: That's her name? I think I glimpsed her in your mind!
+- Eleanor: The pretty geode lady. I suppose she and I are related now. There's a comforting thought.
+- > Welcome to the family, I guess? {Convo. ends}
+- We have a pair of doomed lovers who were turned into crystal.
+- Eleanor: How beautiful and sad. What must it be like, to become a monument to your love?
+- Eleanor: I hope nobody chips little bits off them as a keepsake. That would definitely happen in my time.
+- > People do try, but we keep them safe. It's the least we can do. {Convo. ends}
+- I spend too much time digging crystals out of the ground for them not to be important on some deeper level. You'd be amazed at how many Warframes were made in part by crystals of one kind or several.
+- Eleanor: Amazed and intrigued!
+- Eleanor: Tell me, wise traveller, of the crystals of your time.
+- There’s a whole Warframe made of crystal. Citrine.
+- (Jump to above branch "That's her name? I think I glimpsed her in your mind!")
+- So. You and Quincy. Have you ever... y'know?
+- Eleanor: Okay, I'm feeling generous today, so I'll give you this one for free.
+- Eleanor: We have never. We have not even slightly.
+- Eleanor: I cannot help thinking that Quincy's preferred position would be 'partner on top holding a mirror, so he can imagine he's having sex with himself'.
+- Eleanor: No thank you. I'm content to admire from afar. {Convo. ends}
+
+### Conversation 7 (I wanted to ask )
+
+- Eleanor: I wanted to ask you something, but I’m not sure how you’ll take it, so if I’m out of order please say so.
+- Okay.
+- Eleanor: What were your parents like?
+- It’s been so long I can barely remember.
+- Eleanor: I'm sorry. I stupidly assumed that because your memories of the Zariman were so vivid, you'd be able to recall your parents, too.
+- Eleanor: I forget how many lifetimes you've lived.
+- Boolean DrifterParentsUnknown is now true.
+- Why do you ask?
+- Eleanor: I was thinking about mine. I do it a lot, actually. I sit on my arse and wonder what Mum and Dad would think about how their kids ended up.
+- What were they like as people?
+- Eleanor: As people they were radically mismatched, which means they had the kind of relationship that burns hot and bright for the first few years and then collapses into a sucking black hole after that.
+- Eleanor: Dad is ex-army. Jovial, little wrinkly eyes, speaks like a newsreader, so broken on the inside that if you picked him up and shook him he’d rattle like a bag of gravel. He’s surprisingly easy to upset. I’ve tossed off comments that I thought were mild, then overheard him crying in the loo later on.
+- Eleanor: Mum’s lot were richer, which meant she had a long leash. She didn’t go down the party path, wine and drugs and weeklong binges in Ludston flats. That was more Aunt Janice’s gig. Mum is more flowers, pottery hedgehogs, pot-pourri and everything being Nice.
+- Half of what you’re saying might as well be Voidtongue, but I think I get it.
+- Eleanor: Well, they’re divorced now. They waited until we were out of our teens to do it, out of ‘consideration’. That was kind, don’t you think? Forcing us to live in a bloody battleground of a house because Kids Need Stability or some such garbage.
+- Are you still in touch?
+- Eleanor: Once in a while. We used to go back home for Solstice. Now that I do miss. Decorating the star-tree, crowning Sol, little kids going door to door dressed as Lua’s Three Aspects, roasting the bird… it’s sentimental, but I genuinely love it.
+- Eleanor: Mum and Dad always had a peace treaty for Solstice and they always respected it. On a good year they managed to keep from ripping into each other until after Third Day, even with the plum brandy flowing.
+- Eleanor: If you just felt a massive wave of homesickness wash over you, that was me. Sorry.
+- Eleanor: I try to keep the big emotions to myself but sometimes they just boil over like milk in a pot, and everyone cops it. Then it’s on to the old KIM for a round of apologies.
+- Why bring them up now?
+- Eleanor: I was just wondering what they’d make of you. If we ever get out of this place, I’d like to rock up to Solstice dinner with my time-traveling friend.
+- Eleanor: I think you’d like it. You and Dad and Arthur could sit by the fire and trade war stories, and Mum could gently prod you about whether you were single.
+- I think I’d horrify them.
+- Eleanor: HA! That just makes me want to do it more.
+- Eleanor: I can just see Dad politely asking "so was it always death by impalement, or did they try to vary it up a bit?"
+- Eleanor: I'm going to dream about this. Thank you. {Convo. ends}
+- I'd be on my best behavior, for your sake.
+- Eleanor: That's so sweet of you!
+- Eleanor: ... I should let go of this dream before I try to make it happen. We are here, this is now, and there's still a war on.
+- Eleanor: Thank you for a beautiful dream. {Convo. ends}
+- Honestly, that sounds like fun.
+- Eleanor: Oh Gods, let's do it. If we ever get the chance, we'll make it real.
+- Eleanor: Thank you.
+- Eleanor: I've got one more thing to get out of bed in the morning for, now. {Convo. ends}
+- Single? Wait, would I be coming home as a partner?
+- Eleanor: Um.
+- Eleanor: This took a turn, she said, fanning herself.
+- Eleanor: Would you WANT to?
+- Honestly? Yes.
+- Eleanor: You are an absolutely exasperating person.
+- Eleanor: I’m trying to have a perfectly innocent conversation about parents, with no ulterior motive, and now you’ve gone and knocked me sideways.
+- Boolean EleanorConfession is now true.
+- Eleanor: I'm going to have to give this the serious consideration it deserves. FFS. {Convo. ends}
+- No. I just wasn’t sure what you were imagining.
+- Eleanor: Right.
+- Eleanor: Sorry.
+- Eleanor: My mistake. {Convo. ends}
+- Uh… can I get back to you on that?
+- Eleanor: Yes.
+- Eleanor: By all means.
+- Eleanor: We have time, and none of us is going anywhere, are we? {Convo. ends}
+- What were they like as parents?
+- Eleanor: Incompatible, in a word. Dad wanted us to be independent, so he'd engineer situations where we had to be. Dropping us off in the woods with just a penknife, that sort of thing. Mum was always coming to the rescue. It was doomed.
+- Eleanor: Arthur and I quickly learned to play them off against one another. You know how kids are.
+- Eleanor: Parents always overcompensate for whatever they feel their own parents did wrong, don't they?
+- Half of what you’re saying might as well be Voidtongue, but I think I get it.
+- (Jump to above branch "Well, they’re divorced now. They waited until we were out of our teens to do it, out of ‘consideration’. That was kind, don’t you think? Forcing us to live in a bloody battleground of a house because Kids Need Stability or some such garbage.")
+- Kind. They tried to do right by me.
+- Eleanor: I'm glad. If you don't mind me saying so, it shows.
+- Eleanor: There's a warm flame of kindness in you, and I was wondering who had helped to kindle it.
+- Boolean DrifterParentsKind is now true.
+- Why do you ask?
+- (Jump to above branch "I was thinking about mine. I do it a lot, actually. I sit on my arse and wonder what Mum and Dad would think about how their kids ended up.")
+- Strict. They were in charge and they let me know it.
+- Eleanor: I didn't think you'd had a soft upbringing. I suppose colonists need to be tough.
+- Eleanor: With those Orokin in charge, it's a wonder anyone turned out decent.
+- Boolean DrifterParentsStrict is now true.
+- Why do you ask?
+- (Jump to above branch "I was thinking about mine. I do it a lot, actually. I sit on my arse and wonder what Mum and Dad would think about how their kids ended up.")
+- Hopeless. I might as well have been raised by feral Kubrows.
+- Eleanor: Oh dear. Well, for what it's worth, you made a bloody decent human being of yourself.
+- Eleanor: I only wish you could have had an easier time of it.
+- Boolean DrifterParentsUseless is now true.
+- Why do you ask?
+- (Jump to above branch "I was thinking about mine. I do it a lot, actually. I sit on my arse and wonder what Mum and Dad would think about how their kids ended up.")
+- > I... can't do this. Sorry. [End.]
+
+### Conversation 8 (board game)
+
+- If boolean AmirRPGEleanor is true: {Convo. ends}
+- If boolean AmirRPGEleanor is false:
+- If boolean AmirRPG is true:
+- If boolean AmirRPGEleanorAsked is true:
+- Hey Eleanor? You remember that board game Amir is putting together? Fables & Frontiers?
+- Eleanor: Yes. The one you said was going to be a waste of time, and that you were only playing out of pity for him, that's the one, isn't it?
+- > Yikes. Okay. you're still mad. Noted. {Convo. ends}
+- I figured you were "too cool for it" at the time, and I was just trying to pretend I was, too. Now I know better.
+- Eleanor: Which one of us is no longer "too cool" for the game, exactly? You or I?
+- > You. I still think it's a dorky game, but whatever. {Convo. ends}
+- Me. Definitely me. You're still too cool for the game. But I'm an utter dweeb, or so Quincy says.
+- Eleanor: We've all been there at one point in our lives... trying to wear a mask to impress someone and falling flat on our face because we can't see where we're going. And you and I had barely met when you asked. All right. You're forgiven.
+- Eleanor: Honestly, putting on a daft voice and play-acting for a few hours sounds ideal. Count me in.
+- Eleanor: Oh! I would like to be a wizard. Or perhaps a bard. Or perhaps both? Can you BE both?
+- Eleanor: Or I could be a swamp hag! So long as I get to wear a tight bodice, mind. Mother Mossytits will eat your bones, little manikin.
+- Boolean AmirRPGEleanor is now true.
+- If boolean AmirRPGQuincy is true:
+- If boolean AmirRPGArthur is true:
+- If boolean AmirRPGAoi is true:
+- If boolean AmirRPGLettie is true:
+- Boolean AmirRPGAll is now true. {Convo. ends}
+- If boolean AmirRPGLettie is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- If boolean AmirRPGAoi is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- If boolean AmirRPGArthur is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- If boolean AmirRPGQuincy is false:
+- Boolean AmirRPGAny is now true. {Convo. ends}
+- ...Both?
+- (Jump to above branch "We've all been there at one point in our lives... trying to wear a mask to impress someone and falling flat on our face because we can't see where we're going. And you and I had barely met when you asked. All right. You're forgiven.")
+- Yeah I... I just wanted to say sorry about that, I... didn't mean what I said about it. I was just scared you'd say no.
+- (Jump to above branch "We've all been there at one point in our lives... trying to wear a mask to impress someone and falling flat on our face because we can't see where we're going. And you and I had barely met when you asked. All right. You're forgiven.")
+- If boolean AmirRPGEleanorAsked is false:
+- Hey Eleanor? You and Amir are friendly, right?
+- Eleanor: He's a charming little imp. Why are you asking?
+- Amir's trying to get the team together to play a game of Fables & Frontiers, and I said I'd help.
+- Eleanor: Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.
+- I think it'll be fun, honestly. And it seems to mean a lot to him.
+- (Jump to above branch "Honestly, putting on a daft voice and play-acting for a few hours sounds ideal. Count me in.")
+- Yeah, I think it's going to be a total waste of time, but I'm trying to be nice.
+- Eleanor: I will do you a favour and NOT convey those words along to him. Word to the wise: treat him with more respect in the future in my presence. {Convo. ends}
+- Amir really wants to play Fables & Frontiers with everybody. You in?
+- (Jump to above branch "Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.")
+- You like boardgames, yeah?
+- Eleanor: As much as the next person, I suppose. Why are you asking?
+- Amir's trying to get the team together to play a game of Fables & Frontiers, and I said I'd help.
+- (Jump to above branch "Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.")
+- Amir really wants to play Fables & Frontiers with everybody. You in?
+- (Jump to above branch "Ah. I see. You are the chosen messenger, sent from the Thunderbolt King to enlist fair Eleanor. No doubt all sorts of roguery await me. Fol de rol and so forth.")
+- If boolean AmirRPG is false: {Convo. ends}
+
+### Conversation 1 (Hello. I'm feeling a bit on the melancholic side..)
+
+- If boolean EleanorDating is true:
+- Eleanor: Hello, dearheart. I’m feeling a bit on the melancholic side. Do you have a moment?
+- For you, always.
+- Eleanor: Thank you, sincerely.
+- Eleanor: Do you know who the Hooded Woman is?
+- If boolean LettieFantasma2 is true:
+- La Flaca?
+- Eleanor: Hah. Speaking to our dear Lettie, I see. Yes.
+- Eleanor: She’s Death. Also one of the Aspects of Lua, depending on which tradition you follow. She’s the one who comes and tucks you into bed once the knockabout day of Life is over, kisses you goodnight, and sings you to sleep.
+- You weren’t kidding about being melancholy, were you?
+- Eleanor: Mate. Everything Entrati gave us, the power, the strength, the armour plated arses… I’d trade it all for one crumb of reassurance that death isn’t the end.
+- Eleanor: I’ve tried. I don’t feel good about admitting this, but sometimes when we’ve been out on patrol and there’s been fighting, I look into the minds of the dying and try to go through the process with them. If there’s any light at all at the end of the tunnel, I just want to see it.
+- Eleanor, that’s ghoulish. You have no right.
+- Eleanor: I know. I KNOW.
+- Eleanor: I tell myself I was trying to help but the truth is I just wanted to see. You're right. It was ghoulish. {Convo. ends}
+- Do you try to comfort them at all?
+- Eleanor: I did, once. What’s the harm, right? They’re dying anyway. It was this young Scaldra trooper. She was coming for me and I shot her in the chest.
+- Eleanor: I knelt down by her side as she gargled out her lifeblood and tried to tell her it was okay, the pain was coming to an end, soon she’d be with her family who had gone before, all the placid, pacifying stuff you think of when there’s a deathbed service to be held.
+- Eleanor: She was terrified. What was left of her conscious self was scrabbling around like a rat in a water tank. When she felt me in her mind with her, she tried to cling on. She begged me to help. Underneath it all was this… I don’t even know what you’d call it…
+- Hope?
+- Eleanor: Denial. She didn’t believe she could be dying. And why would she? She’d always been there before. How could death be taking her away now?
+- Eleanor: Every day of your life, you take YOURSELF for granted. You’re there when you wake up and you’re there when you sleep. You live out your entire life in a house made of You. You never once go outside, because you can’t.
+- Eleanor: Then one day, you hear the house being knocked down.
+- Why didn’t you help her?
+- Eleanor: What would you have had me do? Call Lettie over? Heal the gaping chest wound? All because I saw what this one was going through, up close?
+- Eleanor: With the Scaldra it's kill or be killed. They don't offer us the luxury of mercy. {Convo. ends}
+- Did you stay with her until the end?
+- Eleanor: Yeah. I was scared shitless. As she felt herself slipping over the edge, I was sure I’d be dragged down with her. I could feel this undertow tugging at me.
+- Eleanor: I had to stay, though. I couldn’t abandon her to die alone.
+- Eleanor: Though I guess she did, in the end. I couldn’t take that last step with her.
+- What did you learn from the experience?
+- Eleanor: I learned nothing.
+- Eleanor: She did, though. She saw her mother’s face, the kids she went to school with, her cat, some cousin who drowned. But they weren’t presences, or spirits. Just memories, forced to the surface by a dying brain desperately hunting for something to cling to.
+- Eleanor: Then the house of her identity began to come apart around her. Right before she died, she opened her eyes wide. I think in that second, for the first time in her life, she truly understood what death actually is.
+- Dying person understands what death is. What an insight, Eleanor.
+- Eleanor: Look. Next time you feel the need to call me out on my bullshit, don't feel you have to sit through it first.
+- Eleanor: Nobody's forcing you to talk to me. Bye. {Convo. ends}
+- What do you mean? Everyone knows what death is.
+- Eleanor: No. We think we know what it is, but all of our experiences are from the outside.
+- Eleanor: Her whole life she was like a woman living in a house with no lights, and all she had was a flashlight. She’d shine the light of her awareness on one spot or another. A memory, a task, an interaction.
+- Eleanor: She’d move from room to room, explore the cellars in her sleep, but always it would be a closed, finite process. Do you follow me?
+- Not really, but carry on.
+- Eleanor: Then when the house was demolished and her persona fell to pieces around her, suddenly the flashlight wasn’t shining on a wall or a book or a couch. It was shining up into the infinite sky. Her awareness blazed into the endless without the obstacle of herself standing in the way.
+- But awareness dies when the body dies. What you experienced was just a spasm in her dying brain.
+- Eleanor: I've tried to tell myself that, many times.
+- Eleanor: I can't believe it was nothing more than the brain shutting down. It felt like the soul breaking free. {Convo. ends}
+- You think ‘awareness’ is who we really are and the rest is just a shell?
+- Eleanor: I know it doesn’t make any kind of sense. It feels so counterintuitive, the idea that we are a point of view first and a personality second. All I know is that’s how it felt to be with a human soul as it passed from life to death.
+- How do you feel about all of that?
+- Eleanor: Comforted? I like the idea that something of us survives. I love thinking that death isn’t about being deleted from the universe, but having everything deleted that separates you from the universe.
+- But what makes us US isn’t just raw awareness. It’s memory, emotion, opinion, all sorts of layers. When you lose all that you’re losing a real person, even if that spark somehow survives.
+- Eleanor: I know.
+- Eleanor: Honestly, this is why I wanted to talk to you about void ghosts and Cephalons and all of that stuff from your time. I need to know if we ever get the chance to communicate with people we’ve lost.
+- Eleanor: Real communication, not some hologram crap. The kind that lets you know definitively what the person thought.
+- No, not really. Even in the future, the people we've lost are... for better or worse? Just... gone.
+- Eleanor: I see. Maybe there are some doors we can never open. Maybe that's for the best. {Convo. ends}
+- Eleanor, get to the point. Who did you lose?
+- Eleanor: His name was Christopher. He was Arthur’s best friend.
+- Eleanor: We were engaged. I thought I was in love with him.
+- Boolean EleanorChristopher1 is now true.
+- Eleanor: I’m sorry. I can’t do this. I’ll talk to you another time. {Convo. ends}
+- Wow. So deep. You shot someone and then violated her privacy.
+- Eleanor: Look. Next time you feel the need to call me out on my bullshit, don't feel you have to sit through it first.
+- Eleanor: Nobody's forcing you to talk to me. Bye. {Convo. ends}
+- Yes.
+- (Jump to above branch "Then when the house was demolished and her persona fell to pieces around her, suddenly the flashlight wasn’t shining on a wall or a book or a couch. It was shining up into the infinite sky. Her awareness blazed into the endless without the obstacle of herself standing in the way.")
+- So did you see what you were hoping to see?
+- Eleanor: No.
+- (Jump to above branch "She did, though. She saw her mother’s face, the kids she went to school with, her cat, some cousin who drowned. But they weren’t presences, or spirits. Just memories, forced to the surface by a dying brain desperately hunting for something to cling to.")
+- Fear?
+- (Jump to above branch "Denial. She didn’t believe she could be dying. And why would she? She’d always been there before. How could death be taking her away now?")
+- Denial?
+- (Jump to above branch "Denial. She didn’t believe she could be dying. And why would she? She’d always been there before. How could death be taking her away now?")
+- This is going to be one of those "get comfy, Drifter, this is going to take a minute" conversations, isn't it?
+- Eleanor: ... it was going to be.
+- Eleanor: Forget it. I'm sure you have more important things to do. {Convo. ends}
+- Always available options:
+- … a Scaldra assassin?
+- Eleanor: Not quite.
+- (Jump to above branch "She’s Death. Also one of the Aspects of Lua, depending on which tradition you follow. She’s the one who comes and tucks you into bed once the knockabout day of Life is over, kisses you goodnight, and sings you to sleep.")
+- One of the faces of Lua?
+- Eleanor: Yes, actually.
+- (Jump to above branch "She’s Death. Also one of the Aspects of Lua, depending on which tradition you follow. She’s the one who comes and tucks you into bed once the knockabout day of Life is over, kisses you goodnight, and sings you to sleep.")
+- Is that your name for Death?
+- (Jump to above branch "Yes, actually.")
+- (Jump to above branch "She’s Death. Also one of the Aspects of Lua, depending on which tradition you follow. She’s the one who comes and tucks you into bed once the knockabout day of Life is over, kisses you goodnight, and sings you to sleep.")
+- No clue.
+- (Jump to above branch "She’s Death. Also one of the Aspects of Lua, depending on which tradition you follow. She’s the one who comes and tucks you into bed once the knockabout day of Life is over, kisses you goodnight, and sings you to sleep.")
+- > I'm *really* sorry, I can't right now. [End.]
+- If boolean EleanorDating is false:
+- Eleanor: Hello. I’m feeling a bit on the melancholic side. Do you have a moment?
+- For you, always.
+- (Jump to above branch "Thank you, sincerely.")
+- > I'm *really* sorry, I can't right now. [End.]
+
+### Conversation 2 (Right. I’m calm)
+
+- Eleanor: Right. I’m calm and as ready as I’ll ever be.
+- Eleanor: Can I talk to you about Christopher?
+- If boolean EleanorChristopher1 is true:
+- I’m listening.
+- Eleanor: Thank you.
+- If boolean EleanorDating is true:
+- Eleanor: Since you and I are a lot closer now (in so many delightful ways) you should really know what who you're getting involved with.
+- Eleanor: I've seen inside your head, but you've not seen inside mine.
+- Eleanor: So, please brace yourself and bear with me.
+- Eleanor: I want to tell you about Christopher because I think you deserve to know.
+- Go ahead.
+- Eleanor: He was older than Arthur and me by a few years. I can’t remember a time when he wasn’t around. Our parents were friends, so he was always over.
+- Eleanor: He used to play at soldiers with Arthur in the scabby patches of woodland down behind the estate. Christopher was the commander, Arthur the loyal lieutenant. If they ever let me play, I had to be the nurse. Obviously.
+- Eleanor: I wish Dad had looked out at Arthur throwing himself on yet another pinecone grenade, dying valiantly to save his CO, and thought ‘hmmm, my boy’s getting a bit too fond of this Army lark, maybe I should tell him getting shot up isn’t as much fun as he thinks.’
+- You think Arthur would have listened if he had?
+- Eleanor: Probably not. He’d just have seen it as Dad testing him.
+- Eleanor: Anyway. Summer after summer rolled past. We grew to be adolescents. It was all very awkward and smelly and hormonal. There were parties and exams. Christopher went off to college. The dog died, we got a new one. Insert montage here.
+- Eleanor: Suddenly one day I walked into the kitchen, I saw this stunning young man in uniform in front of me, and I thought ‘phwoar’ for the second time in my life.
+- I'm sorry, what was that sound again? I missed it. :P
+- Eleanor: 'Pwhoar'?
+- Eleanor: It's a traditional Britannic expression of admiration. It should be delivered in a sort of low growl, puffing the cheeks out.
+- Eleanor: Anyway. NOT RELEVANT.
+- So you and Christopher…
+- Eleanor: Yep. He was kind. Gorgeous. Strong. Easy to wind up, too, which was a big plus. Hell-bent on joining the army, though.
+- Eleanor: We didn’t see eye to eye on that. To him it was a calling. He’d be out there helping people who needed it, making a difference in the world. He’d bought into the whole manly hero line, just like Arthur.
+- If boolean EleanorHeroVirus is true:
+- I know how much you hate the concept of heroes. Is this why?
+- Eleanor: Yes. I hate what it did to Christopher, what it's still doing to Arthur, what it does to so many like them.
+- Eleanor: I have nothing against morals. Gods know I even have a few myself. But the whole hero narrative is pernicious bullshit.
+- Eleanor: I was confident I’d be able to talk Christopher out of his military service. If not talk, then snog him out of it.
+- That’s kind of arrogant of you.
+- Eleanor: Yes, and?
+- Eleanor: I was trying to save his life. I was willing to fight as dirty as it took.
+- Eleanor: I told him I was pregnant. He offered to marry me. Stupid beautiful idiot.
+- Were you?
+- Eleanor: No. But I thought I was. I didn’t try to trick him, if that’s what you were asking.
+- Eleanor: Arthur was skipping on fluffy clouds, he was so happy. The guy he saw as a brother was going to be his brother-in-law.
+- Eleanor: Then everything goes into fast-forward. Something about a pre-emptive strike. Borders and containment, risk of escalation, moral bloody mandate. Christopher’s deployed, Arthur’s already signing up, all the boys are off to the Crimson Watch and my mum’s still trying to arrange the wedding seating.
+- So what happened?
+- Eleanor: They killed him. The people we were supposedly there to help. They blew his vehicle apart with a bomb made from fertilizer and masonry nails.
+- Eleanor: I tell myself ‘at least it was quick’. ‘At least he didn’t suffer.’ But for all I know, he died screaming with nails in his eyes
+- Eleanor: Shit
+- Eleanor: Shitting shit
+- At least he died doing what he felt was right...
+- Eleanor: I feel like you haven't paid attention to a SINGLE THING I've been saying to you here
+- Eleanor: I'm not interested in 'at least...' He died in a STUPID way for a STUPID reason
+- If boolean EleanorDating is true:
+- Eleanor: And if you aren't listening to me when I talk about this, what else aren't you hearing? As charming as this has all been between us I... no. This was a mistake.
+- Eleanor: This whole bloody thing was a mistake. We're through.
+- Boolean IsDating is now false.
+- Boolean EleanorDating is now false.
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- If boolean EleanorDating is false:
+- Eleanor: And if you aren't listening to me when I talk about this, what else aren't you hearing?
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- I'm so sorry...
+- Eleanor: I cried of course but all the time I was thinking ‘what did you expect, you STUPID girl, you KNEW what you were getting into, you KNEW this was going to happen’
+- Eleanor: Telling you about it like this, it just feels like corny folk song shit
+- Eleanor: My love he is gone off to war, sing fol de rol de dee, oh no he’s dead, I shall wander in the lonesome valleys and never wed another
+- Eleanor: Sorry. Get it together, Eleanor.
+- Eleanor: I think he’d have liked you.
+- Eleanor: Got to go tidy myself up. Talk again soon.
+- Boolean EleanorChristopher2 is now true. {Convo. ends}
+- Are you okay to carry on?
+- (Jump to above branch "They killed him. The people we were supposedly there to help. They blew his vehicle apart with a bomb made from fertilizer and masonry nails.")
+- I'm bracing myself for the "but."
+- Eleanor: Do I need to spell it out?
+- Eleanor: I got caught up in the very web I was trying to spin.
+- (Jump to above branch "I told him I was pregnant. He offered to marry me. Stupid beautiful idiot.")
+- Sounds like he’d already made up his mind.
+- Eleanor: Right. By then, of course, it was too late. I’d gone into this thinking I’d bewitch him, but the truth is, he bewitched me.
+- Eleanor: I’m sorry. I’m not going to be able to get through this without crying, so if I’m slow in responding, at least you’ll know why.
+- (Jump to above branch "I told him I was pregnant. He offered to marry me. Stupid beautiful idiot.")
+- ...Note to self: Argue with Eleanor...
+- Eleanor: ... not really the time.
+- Eleanor: This isn't easy for me so please choose your moment a bit better
+- (Jump to above branch "I told him I was pregnant. He offered to marry me. Stupid beautiful idiot.")
+- Always available options:
+- He was right. People willing to fight for a better world is the only thing that makes a difference.
+- Eleanor: You can fight for a better world without buying into the hero bullshit!
+- Eleanor: The whole point of the Hero Virus is that it's a virus. IT DOES NOT CARE ABOUT THE HOST. It convinces you that dying in a cause would be fitting and noble, instead of being a tragic bloody waste. {Convo. ends}
+- It’s a compelling idea. People want to help. Easy to take advantage of that.
+- Eleanor: ‘Why do you want to go and kill people in the name of a Prince who couldn’t give a shit about you?’ I’d say to him. He’d be hurt, because it wasn’t supposed to be about His Majesty’s Service. For him it was about taking out warlords who hoarded food and forced their political prisoners to work in the Rubedo mines until they died of exhaustion.
+- (Jump to above branch "I was confident I’d be able to talk Christopher out of his military service. If not talk, then snog him out of it.")
+- Who was the first?
+- Eleanor: Mandy Jellicoe. My crush. She dropped out of school, dyed her hair, got piercings, hung around town in a leather jacket smoking cigarettes and glowering at anyone who came too close. I looked at her and I could feel my bones melt.
+- (Jump to above branch "Anyway. NOT RELEVANT.")
+- I think it all worked out okay, all things considered.
+- Eleanor: In some respects, yes.
+- Eleanor: But I was trying to tell you about a bereavement here.
+- Eleanor: Not really the time to look for silver linings.
+- (Jump to above branch "Anyway. Summer after summer rolled past. We grew to be adolescents. It was all very awkward and smelly and hormonal. There were parties and exams. Christopher went off to college. The dog died, we got a new one. Insert montage here. ")
+- But if Arthur'd listened, then we never would have met. :)
+- Eleanor: Our paths crossing was a rare blessing in my life, yes.
+- Eleanor: But allow me to wish it had not come at such a cost.
+- Eleanor: Especially when I haven't yet told you how deep the wounds go. {Convo. ends}
+- > I don't have time for this right now, sorry. [End.]
+- If boolean EleanorDating is false:
+- Eleanor: Please correct me if I’m wrong, but lately I’ve been feeling like you and I are more than just teammates.
+- If boolean EleanorConfession is true:
+- Eleanor: You've made it pretty plain to me how you feel, which I appreciate.
+- Eleanor: I like you, very much. I trust you. You’ve had plenty of opportunities to treat me like a freak, like Lettie does, and you haven’t done it. Don’t think I haven’t noticed.
+- (Jump to above branch "I want to tell you about Christopher because I think you deserve to know.")
+- If boolean EleanorConfession is false:
+- Eleanor: We’re definitely friends. Maybe more than that. But we’re still pacing uncertainly around one another and waiting for the other one to make the first move.
+- (Jump to above branch "I like you, very much. I trust you. You’ve had plenty of opportunities to treat me like a freak, like Lettie does, and you haven’t done it. Don’t think I haven’t noticed.")
+- Why is he someone I need to know about?
+- Eleanor: Because he’s someone I lost. Someone who was very dear to me.
+- If boolean EleanorDating is true:
+- (Jump to above branch "Since you and I are a lot closer now (in so many delightful ways) you should really know what who you're getting involved with.")
+- If boolean EleanorDating is false:
+- (Jump to above branch "Please correct me if I’m wrong, but lately I’ve been feeling like you and I are more than just teammates.")
+- If boolean EleanorChristopher1 is false:
+- Who's Christopher?
+- Eleanor: Arthur's best friend. We were engaged. I thought I was in love with him.
+- Boolean EleanorChristopher1 is now true.
+- I’m listening.
+- (Jump to above branch "Thank you.")
+- Why is he someone I need to know about?
+- (Jump to above branch "Because he’s someone I lost. Someone who was very dear to me.")
+- Always available options:
+- > [Ignore.] {Convo. ends}
+
+### Conversation 3 (Sometimes I have to ask myself why you're still here.)
+
+- Eleanor: Sometimes I have to ask myself why you’re still here.
+- If boolean EleanorDating is true:
+- Wow. Thanks.
+- Eleanor: Oh Gods. Sorry. I didn't mean it like that. I'm just having trouble seeing MYSELF as the reason you'd tolerate all... this.
+- If boolean IsDating is true:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- Eleanor: And I thank the Gods for the day you joined us.
+- Eleanor: I'm glad you found what you were looking for. All rivers find their way to the sea, eventually.
+- Eleanor: As families go, this one's a mess. But I wouldn't change it for the world. {Convo. ends}
+- If boolean IsDating is false:
+- If boolean EleanorDating is true:
+- I thought the fact that we were together would be a good enough hint as to why I wanted to be here.
+- Eleanor: Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head.
+- Eleanor: Or maybe there’s a secondary Techrot virus in your system that’s attracted to what’s in mine.
+- Eleanor: Or maybe (deep breath) you actually like me the same way I like you. Could it really be that simple?
+- Eleanor: I’ll make a deal with you. Go and see Lettie, ask her to run you through a quick psych-eval, get to the bottom of whatever’s REALLY going on here, and we’ll just forget this conversation ever happened.
+- I don’t need a psych-eval. There’s nothing crazy about liking you. If you don’t feel the same way about me, please say so.
+- Eleanor: OF COURSE I FEEL THE SAME WAY
+- Eleanor: YOU ARE THE BEST THING THAT EVER BLOODY HAPPENED IN MY ABSURD LIFE
+- Eleanor: WHICH MEANS YOU’RE NOT GOING TO BE PART OF IT FOR LONG AND THE SOONER WE BOTH ADMIT THAT THE BETTER
+- Eleanor: BECAUSE THAT’S HOW IT WORKS
+- If boolean EleanorChristopher1 is true:
+- I know you’ve lost people. So have I. We’re not alone in that.
+- Eleanor: No. We’re not alone, are we? And we never have to be.
+- Eleanor: I could come up with a dozen different reasons why we shouldn’t be together, and you’d have an answer for every one of them. Oh, what if I infect you? You’re immune. What if I try to eat you? You’re functionally immortal. What if I see inside your head? I’m sure you’d just kick me out again.
+- Eleanor: You wonderful, impossible creature. You’ve only gone and won me over, you have.
+- Eleanor: Oh, one last thing. I don’t know if you’ve noticed, but I have this embarrassing personal problem. We do need to address it.
+- Your glowing eyes keeping me awake at night?
+- Eleanor: "I love to watch you sleeeep..."
+- Eleanor: No. I'm referencing my tongue. The anaconda in the room.
+- Eleanor: Tell me, honestly. How do you feel about it?
+- It’s gross, but for you, I'll look past it.
+- If boolean EleanorDating is true:
+- Eleanor: Right.
+- Eleanor: I appreciate your honesty.
+- Eleanor: I wish you the best of luck finding a less 'gross' person to be intimate with.
+- Boolean IsDating is now false.
+- Boolean EleanorDating is now false.
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- If boolean EleanorDating is false:
+- Eleanor: Oh! I see! You imagined you were doing me a favour!
+- Eleanor: I'm afraid the closest you will get to me now is if you set yourself on fire.
+- Eleanor: In which event, I might bring myself to piss on you.
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- It’s not a problem for me.
+- Eleanor: Well. That’s that settled, then.
+- Eleanor: I’m scared. Excited. Nervous. Frankly, more than a little aroused. Might be getting ahead of myself there.
+- Eleanor: Shall we do this?
+- Yeah. :) [Date Eleanor.]
+- Boolean EleanorDating is now true.
+- Boolean EleanorHasDated is now true.
+- Boolean IsDating is now true.
+- How do you think the others are going to take it?
+- Eleanor: Gods. I hadn’t even thought of that.
+- Eleanor: Right now I’m too happy to care, but I suppose we ought to tell them.
+- Eleanor: Hmm. I’m thinking seriously about pouncing you in Arthur’s office and ‘accidentally’ turning the tannoy on so that Lettie can hear every gasp.
+- Eleanor: Better not, though. Life’s traumatic enough as it is.
+- It’s a nice idea. Though maybe not the security office, and not with the tannoy on.
+- Eleanor: Hold that thought, lover. Let’s see where imagination takes us. {Convo. ends}
+- What's a tannoy?
+- Eleanor: It's the loudspeaker thing. 'The Mall will be closing in five minutes, blah blah blah, shoplifting is punishable by summary execution.'
+- Eleanor: So help me, I do love how bewildered you are sometimes. {Convo. ends}
+- I... need some more time to think this over.
+- Eleanor: Of course. Let's do that, then. {Convo. ends}
+- Honestly...? Kind of into it.
+- Eleanor: So... I'm not the first tentacle-tongued woman you've flirted with? Actually, don't answer that. I'm scared to learn the answer.
+- (Jump to above branch "Well. That’s that settled, then.")
+- The mind reading?
+- Eleanor: That's more embarrassing for OTHER people.
+- (Jump to above branch "No. I'm referencing my tongue. The anaconda in the room.")
+- The tongue?
+- Eleanor: Well I’m not talking about the size of my arse am I?
+- Eleanor: Yes, the tongue. The anaconda in the room.
+- (Jump to above branch "Tell me, honestly. How do you feel about it?")
+- If boolean EleanorChristopher1 is false:
+- Eleanor, I’m not going anywhere. Right here, with you, is where I want to be.
+- Eleanor: Right. I can see you've made your mind up.
+- (Jump to above branch "I could come up with a dozen different reasons why we shouldn’t be together, and you’d have an answer for every one of them. Oh, what if I infect you? You’re immune. What if I try to eat you? You’re functionally immortal. What if I see inside your head? I’m sure you’d just kick me out again.")
+- If you don't feel the same way about me, just come out and say it.
+- (Jump to above branch "OF COURSE I FEEL THE SAME WAY")
+- Wow. Okay. Never mind.
+- Eleanor: See? That was easy. {Convo. ends}
+- If boolean EleanorDating is false:
+- Do I have to spell it out? I’m here because of you. [Confess feelings.]
+- Eleanor: Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head. Or maybe there’s a secondary Techrot virus in your system that’s attracted to what’s in mine.
+- I’m attracted to YOU, Eleanor. For all sorts of reasons.
+- If boolean EleanorConfession is true:
+- I thought I already made that clear.
+- (Jump to above branch "I’ll make a deal with you. Go and see Lettie, ask her to run you through a quick psych-eval, get to the bottom of whatever’s REALLY going on here, and we’ll just forget this conversation ever happened.")
+- If boolean EleanorConfession is false:
+- (Jump to above branch "I’ll make a deal with you. Go and see Lettie, ask her to run you through a quick psych-eval, get to the bottom of whatever’s REALLY going on here, and we’ll just forget this conversation ever happened.")
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- (Jump to above branch "And I thank the Gods for the day you joined us.")
+- Always available options:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+- Always available options:
+- For the company.
+- Eleanor: ... are we talking about the same people here?
+- If boolean IsDating is true:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- (Jump to above branch "And I thank the Gods for the day you joined us.")
+- If boolean IsDating is false:
+- If boolean EleanorDating is true:
+- I thought the fact that we were together would be a good enough hint as to why I wanted to be here.
+- (Jump to above branch "Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head.")
+- If boolean EleanorDating is false:
+- Do I have to spell it out? I’m here because of you. [Confess feelings.]
+- (Jump to above branch "Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head. Or maybe there’s a secondary Techrot virus in your system that’s attracted to what’s in mine.")
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- (Jump to above branch "And I thank the Gods for the day you joined us.")
+- Always available options:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+- There’s still work to do.
+- Eleanor: I mean… we know what we’re doing now. We’re containing the spread. You’ve done what you were sent to do. You don’t HAVE to stay. And yet…
+- If boolean IsDating is true:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- (Jump to above branch "And I thank the Gods for the day you joined us.")
+- If boolean IsDating is false:
+- If boolean EleanorDating is true:
+- I thought the fact that we were together would be a good enough hint as to why I wanted to be here.
+- (Jump to above branch "Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head.")
+- If boolean EleanorDating is false:
+- Do I have to spell it out? I’m here because of you. [Confess feelings.]
+- (Jump to above branch "Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head. Or maybe there’s a secondary Techrot virus in your system that’s attracted to what’s in mine.")
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- (Jump to above branch "And I thank the Gods for the day you joined us.")
+- Always available options:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+- I have my reasons.
+- Eleanor: Oh, don't get cryptic. I'll feel compelled to worm the information out of you somehow.
+- If boolean IsDating is true:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- (Jump to above branch "And I thank the Gods for the day you joined us.")
+- If boolean IsDating is false:
+- If boolean EleanorDating is true:
+- I thought the fact that we were together would be a good enough hint as to why I wanted to be here.
+- (Jump to above branch "Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head.")
+- If boolean EleanorDating is false:
+- Do I have to spell it out? I’m here because of you. [Confess feelings.]
+- (Jump to above branch "Well, now I’m wondering what I did to trick you. Or manipulate you. Maybe I put some kind of suggestion in your head. Or maybe there’s a secondary Techrot virus in your system that’s attracted to what’s in mine.")
+- I care about this team immensely. You're all... a family to me, now. One I've never really had.
+- (Jump to above branch "And I thank the Gods for the day you joined us.")
+- Always available options:
+- > I'm so sick of having this conversation with people. I'm not leaving. That's it. [End.]
+
+### Conversation 4 (Dear? If you're there)
+
+- If boolean EleanorDating is true:
+- Eleanor: Dear? If you're there, I could use your ear.
+- If boolean EleanorArthurNightmare is true:
+- Eleanor: I’m having the Arthur dreams again. The ones where he has to kill me.
+- I’m here. It’s okay.
+- Arthur’s not going to kill you, Eleanor. You’re his sister. He knows that.
+- Eleanor: That’s just it, though. ‘You’re not my sister any more.’ That’s what he says in the dream. Then he stabs me through the chest with his toy sword.
+- Eleanor: We’re only little kids in the dream, if it wasn’t already messed up enough.
+- It’s not real. I don’t believe Arthur would ever hurt you, no matter how Infested you were.
+- Eleanor: Not even to ‘put me out of my misery’? Not even if I was suffering?
+- Eleanor: He’s his father’s son. He’s all about doing the right thing, not the easy thing.
+- However bad you think your family was, it's nothing compared to some I've met.
+- Eleanor: I'm sure. The future is quite inventive in its cruelty.
+- Eleanor: But my concern here is with the past.
+- Eleanor: It’s one of the many, many things we don’t talk about.
+- Eleanor: We don’t talk about what happened in Cavona, we don’t talk about Christopher and we NEVER talk about Granny Callie.
+- Then maybe you shouldn't.
+- Eleanor: Maybe I shouldn't. {Convo. ends}
+- Then maybe you should.
+- Eleanor: Maybe I should.
+- Eleanor: Maybe it’s time.
+- Eleanor: Do you want the whole story? Or shall I boil it down to essentials?
+- I’m not going anywhere. Give me the whole thing.
+- Eleanor: Granny Callie was our paternal grandmother. Callista Penrose Nightingale.
+- Eleanor: She had Pelham’s Syndrome. You’ve probably cured it by now (she said with an inward wrench). It chips away at a person’s mind. Instead of watching someone you love die all at once, they fade away slowly, by degrees, like an old photograph parching in the sunlight, or a video copied too many times over.
+- Like what was happening to Suda that made her decide to become a Cephalon. I understand.
+- Eleanor: When she first came to live with us, Arthur and I were so excited. To us, she was the lovely old woman who smelled of violets and told stories where she did all the different voices. She gave us actual folding money on our birthdays. We thought it would be like a birthday all the time.
+- Eleanor: Then she started to go downhill. At first she was just forgetful. Then she started confusing us with other people. She called me Albertine and Arthur, Charlie. Demanded to know where Jimmy had run off to. We never found out whether Jimmy was a dog or a cat or a boyfriend.
+- Eleanor: Then she started talking to people who weren’t there. Then she started wandering the house after dark.
+- That must have been frightening for you both.
+- Eleanor: I remember going for a wee in the middle of the night and seeing her lurching towards me down the corridor in the dark, groaning, her face all twisted up and her hair like a mad clown wig. I couldn’t stop screaming.
+- Eleanor: When it got really bad, she would lie in bed and shriek. We’d go out to school in the morning and when I turned down our lane, my heart would sink because I could hear her from ten houses away, still screaming, eight hours later.
+- Eleanor: Our dad used to talk about putting a pillow over her face. We thought he was joking, because of course he was, that’s his mum.
+- And now a lot of things make sense.
+- Eleanor: One night she was screaming, and the screams just stopped. I got up and went to Arthur’s room. He was awake, of course. We sat together listening and listening, and then we heard the door to her room close.
+- Eleanor: Died in her sleep, Dad said the next day.
+- And you’re scared that Arthur might do the same to you?
+- Eleanor: If he honestly thought it was for the best?
+- Eleanor: I don’t know. Maybe. It seems a lot less likely now I’ve actually told someone.
+- Eleanor: You’re wonderful. Thank you for bearing with me. I needed to get that out.
+- Boolean EleanorDreams is now true. {Convo. ends}
+- Arthur isn't your father. He wouldn't do what he did.
+- Eleanor: You have no way of knowing that. If Arthur honestly thought it was for the best?
+- (Jump to above branch "I don’t know. Maybe. It seems a lot less likely now I’ve actually told someone.")
+- ....Oh.
+- (Jump to above branch "One night she was screaming, and the screams just stopped. I got up and went to Arthur’s room. He was awake, of course. We sat together listening and listening, and then we heard the door to her room close.")
+- Oh, Void.
+- (Jump to above branch "I remember going for a wee in the middle of the night and seeing her lurching towards me down the corridor in the dark, groaning, her face all twisted up and her hair like a mad clown wig. I couldn’t stop screaming.")
+- Actually... no, we haven't really cured that...
+- (Jump to above branch "When she first came to live with us, Arthur and I were so excited. To us, she was the lovely old woman who smelled of violets and told stories where she did all the different voices. She gave us actual folding money on our birthdays. We thought it would be like a birthday all the time.")
+- Can I get the abridged version?
+- Eleanor: Granny Callie was desperately sick. Demented. Our father suffocated her to death with a pillow rather than let her go on suffering. I hope that's curt enough for you. {Convo. ends}
+- Wait. What’s your father got to do with this?
+- Eleanor: Everything.
+- You’re going to have to give me more than that if you want me to understand.
+- (Jump to above branch "It’s one of the many, many things we don’t talk about.")
+- Eleanor. Please stop being obtuse on purpose.
+- Eleanor: I'm not.
+- Eleanor: I'm honestly trying my best to explain.
+- Eleanor: My father set the example for the way Arthur and deal with issues between us. Or rather, the way we don't.
+- (Jump to above branch "We don’t talk about what happened in Cavona, we don’t talk about Christopher and we NEVER talk about Granny Callie.")
+- ... Yikes.
+- Eleanor: Yeah. That's the worst part.
+- Eleanor: It's so vivid, so real. Like I'm remembering something that actually happened.
+- I'm sure Arthur wouldn't actually do that, though.
+- (Jump to above branch "He’s his father’s son. He’s all about doing the right thing, not the easy thing.")
+- Maybe you should talk to Arthur about it?
+- Eleanor: I can't. He’s his father’s son. He’s all about doing the right thing, not the easy thing.
+- However bad you think your family was, it's nothing compared to some I've met.
+- (Jump to above branch "I'm sure. The future is quite inventive in its cruelty.")
+- Wait. What’s your father got to do with this?
+- (Jump to above branch "Everything.")
+- > [Ignore.] {Convo. ends}
+- If boolean EleanorArthurNightmare is false:
+- Eleanor: I keep having this terrible dream about Arthur where he has to kill me. And as he shoves the blade between my ribs I’m screaming “Eleanor is RIGHT HERE, you stupid bastard!” but he can’t hear me any more.
+- Boolean EleanorArthurNightmare is now true.
+- I’m here. It’s okay.
+- Arthur’s not going to kill you, Eleanor. You’re his sister. He knows that.
+- (Jump to above branch "That’s just it, though. ‘You’re not my sister any more.’ That’s what he says in the dream. Then he stabs me through the chest with his toy sword.")
+- > [Ignore.] {Convo. ends}
+- If boolean EleanorDating is false:
+- Eleanor: If you’re there, I could use a friend.
+- If boolean EleanorArthurNightmare is true:
+- (Jump to above branch "I’m having the Arthur dreams again. The ones where he has to kill me.")
+- If boolean EleanorArthurNightmare is false:
+- (Jump to above branch "I keep having this terrible dream about Arthur where he has to kill me. And as he shoves the blade between my ribs I’m screaming “Eleanor is RIGHT HERE, you stupid bastard!” but he can’t hear me any more.")
+
+### Conversation 5 (Hello.. (dreams))
+
+- If boolean EleanorDreams is true:
+- Hey, Eleanor.
+- If boolean EleanorDating is true:
+- Eleanor: Hello my darling.
+- Did you sleep better last night?
+- Eleanor: I haven’t had the Arthur dream once since I told you about Granny Callie. I think you exorcized that demon.
+- If boolean EleanorDating is true:
+- Eleanor: But since we’ve been together, something else has been happening. It’s a bit awkward actually. I’ve been meaning to talk to you about it, but there hasn’t been a good time.
+- You’re dreaming about me?
+- Eleanor: That wouldn't be awkward. This is.
+- Eleanor: (Okay, Eleanor, deep breath, you can do this)
+- Eleanor: I think the Techrot’s jealous.
+- You have got to be joking.
+- Eleanor: Oh, how I wish I were.
+- Eleanor: On some profoundly messed up level, it thinks of me as its property. I was meant to be its breeding prospect. The Legacytes see me as a rival queen, you know.
+- That’s not how Warframes work. The Infestation in them is tamed, it’s dormant. Except for Nidus, I guess, but he’s a law unto himself.
+- Eleanor: Well, maybe if I were a full Warframe, the Techrot wouldn't see me this way. As it is, my cells are still fizzling, and it sees me as its own.
+- Eleanor: Where I come from, you’d have to go and have a fight with it round the back of the local supermarket. I’m not sure how it works in your time.
+- Wait, back up a bit. How do you know that’s what the Techrot is feeling?
+- Eleanor: Oh Gods, this is the awkward bit.
+- Eleanor: The dreams I mentioned before? I'm certain the Techrot's sending them.
+- Eleanor: Whatever that stuff has that passes for a mind, it’s always been able to connect with mine. The thoughts it sends are always so crude and weak I can easily fend them off.
+- Eleanor: Most of the time it just feels like this frantic scratching at the back of my skull, like when you’re in the loo and there’s a cat trying to get the door open.
+- But when you’re asleep it’s a different story, right?
+- Eleanor: Right. My defenses are down, and it can reach me.
+- Eleanor: It’s been hitting me on the most primordial level, if you know what I mean. It wants me back. It promises it can make me feel ecstasy I’ve never known.
+- Eleanor: It will seed my flesh with the dripping cysts of new life. Because it thinks that’s what I want, you see.
+- If boolean EleanorDating is true:
+- Okay, I guess that’s it for us. How can I compete with that?
+- Eleanor: It’s okay, my sweet. I’m not about to leave you for a suppurating mass of tubercular flesh with lumps of orphaned technology floating in it.
+- Eleanor: Just… if you see me looking especially dark-eyed and gaunt on any particular morning when we wake up together, please bring me a nice strong coffee and don’t press me for details?
+- > I can do that. {Convo. ends}
+- > ...Noted. {Convo. ends}
+- I will *burn it all* before I let it take you.
+- Eleanor: Now that's the kind of talk that gets a Drifter absolutely covered with kisses.
+- Eleanor: Fancy giving the Techrot something to be REALLY jealous of? {Convo. ends}
+- If boolean EleanorDating is false:
+- I'm never going to let it take you, Eleanor. You're my friend.
+- Eleanor: I know. I think it knows, too, which is why it's so angry. It can't compete.
+- Eleanor: We'll face it together, then. Side by side. Always. {Convo. ends}
+- You're like family to me. I won't let it have you.
+- Eleanor: I'll sleep easier knowing you have my back.
+- Eleanor: We're family. Blood and found. Unbreakable. {Convo. ends}
+- I think I can see where this is going.
+- (Jump to above branch "Right. My defenses are down, and it can reach me.")
+- So the Techrot thinks I stole you from it, and now it wants you back?
+- Eleanor: Isn’t it bizarre? The jilted ex!
+- (Jump to above branch "Where I come from, you’d have to go and have a fight with it round the back of the local supermarket. I’m not sure how it works in your time.")
+- Jealous?
+- Eleanor: Jealous of you for taking me away, yes.
+- (Jump to above branch "On some profoundly messed up level, it thinks of me as its property. I was meant to be its breeding prospect. The Legacytes see me as a rival queen, you know.")
+- You’re dreaming about us?
+- Eleanor: Gods, I wish. Nothing so pleasant, I'm afraid.
+- (Jump to above branch "(Okay, Eleanor, deep breath, you can do this)")
+- Awkward? This doesn’t sound good.
+- Eleanor: Don’t worry. It’s not bad as such. I’m not frightened. It’s just...
+- (Jump to above branch "(Okay, Eleanor, deep breath, you can do this)")
+- If boolean EleanorDating is false:
+- Eleanor: But that's not to say there haven't been OTHER dreams. Rather disturbing ones.
+- I don't think you disturb easily.
+- Eleanor: I don't, which is why this is so troubling.
+- Eleanor: (Okay, Eleanor, deep breath, you can do this)
+- Eleanor: I think the Techrot’s jealous.
+- You have got to be joking.
+- Eleanor: Oh, how I wish I were.
+- Eleanor: On some profoundly messed up level, it thinks of me as its property. I was meant to be its breeding prospect. The Legacytes see me as a rival queen, you know.
+- That’s not how Warframes work. The Infestation in them is tamed, it’s dormant. Except for Nidus, I guess, but he’s a law unto himself.
+- Eleanor: Well, maybe if I were a full Warframe, the Techrot wouldn't see me this way. As it is, my cells are still fizzling, and it sees me as its own.
+- Eleanor: This is your REAL family, it whispers. Become part of us again, severed sister. Be accepted.
+- Wait, back up a bit. How do you know that’s what the Techrot is feeling?
+- (Jump to above branch "Oh Gods, this is the awkward bit.")
+- So the Techrot thinks I'm keeping you from going back to it?
+- Eleanor: Yes. It wants me back in its gang.
+- (Jump to above branch "This is your REAL family, it whispers. Become part of us again, severed sister. Be accepted.")
+- Jealous?
+- Eleanor: Jealous of our friendship, yes.
+- (Jump to above branch "On some profoundly messed up level, it thinks of me as its property. I was meant to be its breeding prospect. The Legacytes see me as a rival queen, you know.")
+- Falling down an endless flight of stairs?
+- Eleanor: No, not that one. Funny that everyone seems to have had it, though.
+- (Jump to above branch "(Okay, Eleanor, deep breath, you can do this)")
+- Could be important. With your ability, a dream might not be just a dream.
+- Eleanor: That's exactly what I'm afraid of.
+- (Jump to above branch "(Okay, Eleanor, deep breath, you can do this)")
+- Did you have another nightmare?
+- (Jump to above branch "I haven’t had the Arthur dream once since I told you about Granny Callie. I think you exorcized that demon.")
+- If boolean EleanorDating is false:
+- Eleanor: Hello, mysterious and oddly compelling stranger from another time.
+- Did you sleep better last night?
+- (Jump to above branch "I haven’t had the Arthur dream once since I told you about Granny Callie. I think you exorcized that demon.")
+- Did you have another nightmare?
+- (Jump to above branch "I haven’t had the Arthur dream once since I told you about Granny Callie. I think you exorcized that demon.")
+- > [Ignore.] {Convo. ends}
+- If boolean EleanorDreams is false: {Convo. ends}
+
+### Conversation 6 (You might notice the Mall)
+
+- Eleanor: You might notice the Mall feeling a little different this morning.
+- Eleanor: Nothing big and obvious. Just a few more smiles on a few more faces. A laugh here and there. A sprinkle of happiness on the air.
+- That’s down to you, right?
+- Eleanor: Just my way of giving back. A telepath can send as well as receive, as you know. It doesn’t have to be a hosepipe jet to one person. It can be more like a fine mist sprayed over an area.
+- Eleanor: Do you have lawn sprinklers where you come from?
+- We have VERD-IE and drones like her. They looked after the plants on the Zariman. Is that the kind of thing you mean?
+- Eleanor: It’ll do.
+- Eleanor: I loved lawn sprinklers when I was a little girl. They were magical. When the sun was brightest, you could catch rainbows in them. You’d run through them and feel a delicious chill all over.
+- Eleanor: ‘Happiness is a lawn sprinkler’. Put that on a greetings card.
+- You seem in a good mood today. I’m glad to see that.
+- Eleanor: I am. And I don’t see why I should keep it to myself. So I’m suffusing the whole Mall with it.
+- Isn’t that a bit like drugging people?
+- Eleanor: ... great. Here I am trying to be the secret happiness fairy sprinkling joy, and instead I get to be the evil drug goblin. My happy mood just nosedived.
+- Eleanor: Fine. I'll stop. {Convo. ends}
+- Broadcasting a positive mood? Why not. I can’t see how that’s any different to playing music.
+- Eleanor: Oh! Nice analogy!
+- Eleanor: If Aoi can influence the mood through music, I can do it through vibes, right?
+- Eleanor: I’m glad Aoi persuaded me to stay. Bless her.
+- Wait. She did what?
+- Eleanor: I didn’t tell you?
+- Eleanor: Ah. This was not long before you arrived. We’d been out all day trying to stamp out a Techrot hive. There was a murderous tension in the air. Fighting usually burns the anger out of us and leaves us too exhausted to lash out at one another, but this day was different.
+- Eleanor: I remember Arthur said something like ‘we do this all again tomorrow’ and it hit us all like a sledgehammer. Nobody spoke a word on the ride back to the Mall.
+- Wow. Way to boost team morale, Arthur.
+- Eleanor: I think he was just trying to get us to focus on the job. But I just felt broken. Arthur and Aoi weren’t speaking, Amir was getting on Quincy’s nerves so much I was starting to fear for his life, and Lettie was side-eyeing me every chance she got.
+- Eleanor: I spent a lot of time looking into mirrors that day. I kept imagining my reflection grabbing me by the throat and hissing ‘YOU are the problem. If it wasn’t for you, none of this would be happening.’
+- Sounds like everyone else had gotten into YOUR head for a change.
+- Eleanor: Oh, this wasn't them. This was me. Every pent-up scrap of self-doubt and self-hatred I'd been keeping down came surging up that day.
+- Eleanor: I thought to myself: what this group needs is a scapegoat.
+- Eleanor: A monster. Someone to blame.
+- Eleanor: I came up with a whole plan. I’d slip away in the night, hide out in the city somewhere Arthur would never find me, and - this is the part I was most proud of - carry on helping at a distance.
+- I think he’d have found you. He’s pretty determined.
+- Eleanor: How? Amir can’t trace telepathy.
+- Eleanor: I was going to be a noble exile. I’d crouch on rooftops looking all windswept and resolute. I could report on Techrot buildup, let the Hex know where the Scaldra were setting up roadblocks, even act as an emergency comms relay. Every time I saved Lettie’s arse, I’d really make her feel it. Petty? Definitely.
+- Eleanor: I chose my moment. I waited until Amir was asleep. Then I pulled a long coat on and headed for the garage as silently as I could.
+- Eleanor: The security grate came down by itself. I turned around and there Aoi was.
+- Eleanor: We talked all night and cried in each other’s arms. She was hurting, too. Deeply. By the time the sun came up, I’d decided to stay.
+- There’s still time to change your mind.
+- Eleanor: Whatever grotesque impulse led you to write that, I hope you choke on it. {Convo. ends}
+- Aoi’s wonderful. I’m glad she was there for you.
+- Eleanor: Yes. All six of us needed to be here on New Year’s Eve, I think. And you, of course. The stranger at the door, bringing good luck. {Convo. ends}
+- That was lucky.
+- (Jump to above branch "Yes. All six of us needed to be here on New Year’s Eve, I think. And you, of course. The stranger at the door, bringing good luck.")
+- The more likely scenario is that he would have died trying to find you.
+- Eleanor: Trying to guilt me?
+- Eleanor: Don't bother. I feel dreadful enough already. {Convo. ends}
+- That sounds like the kind of crap Lettie comes out with.
+- Eleanor: Thank you. I know you’ve got my back, and it means a lot to me.
+- Eleanor: I’d heard that line from Lettie so many times, I ended up thinking to myself: maybe she’s right. I’m putting everyone in danger by staying here.
+- (Jump to above branch "I came up with a whole plan. I’d slip away in the night, hide out in the city somewhere Arthur would never find me, and - this is the part I was most proud of - carry on helping at a distance.")
+- He can be such a charmer...
+- (Jump to above branch "I think he was just trying to get us to focus on the job. But I just felt broken. Arthur and Aoi weren’t speaking, Amir was getting on Quincy’s nerves so much I was starting to fear for his life, and Lettie was side-eyeing me every chance she got.")
+- He has a lot on his shoulders. That takes a toll.
+- Eleanor: Yes. Usually he manages to hide it, even when he's running on fumes. But I guess he just had nothing left.
+- Eleanor: He'd burned himself out trying to keep the team together.
+- (Jump to above branch "I think he was just trying to get us to focus on the job. But I just felt broken. Arthur and Aoi weren’t speaking, Amir was getting on Quincy’s nerves so much I was starting to fear for his life, and Lettie was side-eyeing me every chance she got.")
+- Back up. I missed something.
+- (Jump to above branch "I didn’t tell you?")
+- So today’s the day I might see Arthur smile?
+- Eleanor: Maybe. I hope so. He’s had to put up with so much.
+- Eleanor: So much has changed since you came. I don’t just mean you and me. I mean all of it. Even the Mall.
+- (Jump to above branch "I’m glad Aoi persuaded me to stay. Bless her.")
+- Sprink...lers?
+- Eleanor: Yes, my dear, sprinklers. Water sprayers for keeping your lawn nice and damp.
+- Eleanor: Also ideal for holding your brother's face up to until he screams.
+- (Jump to above branch "‘Happiness is a lawn sprinkler’. Put that on a greetings card.")
+- > BRB. [End.]
+
+### Conversation 7 (The Indifference)
+
+- Eleanor: Is ‘The Indifference’ what it IS, or what it WANTS?
+- You and Lettie both do that, you know. You forget to say "Hello."
+- Eleanor: You have found the one thing we share, congratulations. And sorry. This is more important.
+- Eleanor: I think ‘The Great Indifference’ is going to try to get between us, somehow.
+- Eleanor: Don’t laugh. I can feel it, deep down in my bone marrow. The thing that was in Rusalka would love to see us tearing each other into pieces.
+- Eleanor: I don’t know why. I just know.
+- Yeah. I think you’re right.
+- Eleanor: I’ve seen it in your head. Albrecht and Loid. Mother and Father. You and your parents. Rusalka and Viktor, for all we know. And the six of us, of course.
+- Eleanor: What this thing does is cold. Perverse. But there’s a motivation behind it, somewhere.
+- I think you’re right. On the Zariman, the parents were the first to lose their minds. Maybe the Holdfasts held out as long as they did because none of them had any children.
+- Eleanor: Just let it try to get between us. So help me Sol, I’ll end it. I’ll find a way.
+- Eleanor: There are powers in the Universe that thing can’t stand against. I choose to believe it with every atom of myself.
+- Eleanor: If it swallows me whole I’ll stick in its throat and choke it.
+- That's a great way to die.
+- Eleanor: I'm dead anyway in this scenario.
+- Eleanor: But at least I get to spit in its eye. {Convo. ends}
+- I don’t know how we’re going to do it yet, but I’m with you. We have to win.
+- Eleanor: If this was a story, you’d come up with some clever trick. You’d dig up the giant’s stone heart and crack it with a swan’s feather, or trick it into throwing itself over a cliff.
+- You said you were a ‘journalist’. Those aren’t the sorts of stories you used to tell, are they? You told the truth, no matter how ugly it was.
+- Eleanor: If those old stories didn’t tell the truth, people wouldn’t have kept telling them.
+- Eleanor: I don’t mean giants are real. I just mean the old stories tell a different kind of truth.
+- We’re going to need more than fairy tales to get through this, no matter how inspiring they are.
+- Eleanor: I know. I wish I had more than instinct to go on.
+- Eleanor: We're confronting something vast, terrifying and outside our comprehension. Normally only children get to do that. That's why fairy tales exist.
+- It’s stuck in the Wall. I’m not even sure what the Wall is.
+- Eleanor: Doesn't matter. If it really is stuck, then we can deduce two things, can't we?
+- Eleanor: One, it can be trapped. Maybe even imprisoned.
+- Eleanor: And two, it WANTS something. It wants to get out. If we know what it wants, we're already one step ahead of it. {Convo. ends}
+- I don’t think the Indifference is bound by any rules.
+- Eleanor: It has to be! Even Gods have rules! No matter how powerful the Indifference seems, it’s not a God.
+- Eleanor: You beat Thrax. It doesn’t matter how many times you failed and ended up on your arse. You WON. Why shouldn’t you beat the Man in the Wall, too?
+- When did you stop being frightened of it, Eleanor?
+- Eleanor: I didn’t.
+- Eleanor: I’m just more frightened of losing you, okay? {Convo. ends}
+- I’ve lived in a kingdom made from stories. I know how powerful they can be.
+- Eleanor: I think the one thing all those giant-killer stories have in common is this: they’re all about learning the rules and figuring out how to be clever with them.
+- Eleanor: Some monsters are stupid. Some are compelled to be literal. Some have secrets. But you can’t win until you know the rules the monster’s bound by.
+- It’s stuck in the Wall. I’m not even sure what the Wall is.
+- (Jump to above branch "Doesn't matter. If it really is stuck, then we can deduce two things, can't we?")
+- I don’t think the Indifference is bound by any rules.
+- (Jump to above branch "It has to be! Even Gods have rules! No matter how powerful the Indifference seems, it’s not a God.")
+- I don't like to presume to understand things that are basically *gods.* This thing is trying to understand emotions. It's just doing a bad job of playing with its toys.
+- Eleanor: Admirable theory, but we don't KNOW that, do we?
+- Eleanor: If you're right, then it's blameless. Childlike, almost. That doesn't fit with what we know. It's malevolent. {Convo. ends}
+- Maybe that’s what happened to Entrati’s family. They’ve been living right on top of his lab for years, without knowing it. When the kid found them, they were estranged, wallowing in spite.
+- (Jump to above branch "I’ve seen it in your head. Albrecht and Loid. Mother and Father. You and your parents. Rusalka and Viktor, for all we know. And the six of us, of course.")
+- Most people would start with "hello."
+- Eleanor: Sorry. This is more important.
+- (Jump to above branch "I think ‘The Great Indifference’ is going to try to get between us, somehow.")
+- > [Ignore.] {Convo. ends}
+
+### Conversation 8 (I've been thinking.)
+
+- Eleanor: I’ve been thinking. There’s something I need to do.
+- Eleanor: I’m going to need help.
+- Always here for you. What’s on your mind?
+- If boolean EleanorChristopher2 is true:
+- Eleanor: So. Christopher.
+- Eleanor: I’ve been holding on to him for years. So has Arthur. We have a ritual every year in his memory. But not this year. I couldn't face it.
+- Eleanor: I don’t know whether ghosts exist, but they might as well, because I’ve let him become one.
+- Don’t be so hard on yourself. You were in love with the guy.
+- Eleanor: Oh mate. I THOUGHT I was. I loved him, but I didn’t even know if I was IN love with him or not.
+- Eleanor: That sounds awful, doesn’t it? It’s true, though. At the time, it just didn’t seem important. Then he died, and that became what our story was all about.
+- Eleanor: Everything that I admired about him has just been overshadowed by how he died. I can’t think about him without this knot tightening in my stomach.
+- Eleanor: It’s not fair. TO HIM. He deserves better than that.
+- I understand. Totally. I made a choice to remember my parents the way they deserved.
+- Eleanor: So why do I feel so guilty?
+- Eleanor: Why do I feel like letting him go is the same thing as throwing him away?
+- Because you’ve carried him for so long you don’t know how to stop.
+- Eleanor: Gods. You’re bloody right, you know.
+- Eleanor: We’re useless at dealing with this, my lot. We bottle everything up. We put a brave face on and whistle in the trenches. It gets us through, just like it got our parents through. But we don’t know how to stop.
+- Eleanor: What should I do? How do I let go?
+- If boolean LettieDiasdeMuertos is true:
+- I actually think Lettie could help.
+- Eleanor: Lettie?
+- Eleanor: Why her?
+- She has a lot of experience. She knows all about commemorating the dead.
+- I’m sure if you asked her for advice, respectfully, she wouldn’t turn you away.
+- Eleanor: …
+- Eleanor: Yes.
+- Eleanor: It’s time.
+- Eleanor: I think I need to let go of a LOT of things.
+- Eleanor: Let me talk to her. If she tells me to piss off, then so be it. But at least I’ll have tried, right?
+- It’s got to be worth a try. Lettie’s not as heartless as people think.
+- Eleanor: I bet. Living like this, doing what we do every day, we all put up walls. We just forgot to put doors in them.
+- Eleanor: Thank you for beating your lovely head against my wall. {Convo. ends}
+- Always available options:
+- You could write him a letter.
+- Eleanor: Part of me thinks that's a stupid idea. He won't read it. He's dead. But...
+- Eleanor: ... the more I think about it, the less stupid it seems.
+- Eleanor: Yes. I'll do it. There are things I need to say to him. Things I never said when he was alive. Maybe then he can rest.
+- Eleanor: Thank you for listening, and for the advice.
+- Eleanor: I will never, ever forget this. {Convo. ends}
+- Talk to Arthur, maybe. He's been going through this grief with you from the start.
+- Eleanor: Yes, he has. Maybe that's part of the problem. I know he's upset that I didn't keep up our little ceremony of remembrance this year.
+- Eleanor: I just... have to say goodbye to Christopher MY way this time. Once and for all.
+- Eleanor: To Arthur he'll always be a lost brother, a fallen soldier. That's the mourning he knows and understands. But it's not mine.
+- Eleanor: I can't do it Arthur's way any more. I think... if I just tell him that, he'll get it.
+- Eleanor: Thank you. {Convo. ends}
+- Because you're worried no one else would ever be capable of loving you.
+- If boolean EleanorDating is true:
+- Eleanor: Is that it? Am I that shallow?
+- Eleanor: I don't feel I deserve EITHER of you right now
+- Eleanor: I think... I want you to have ALL of me. I can't hold back part of myself in a state of endless mourning.
+- If boolean LettieDiasdeMuertos is true:
+- I actually think Lettie could help.
+- (Jump to above branch "Lettie?")
+- Always available options:
+- You could write him a letter.
+- (Jump to above branch "Part of me thinks that's a stupid idea. He won't read it. He's dead. But...")
+- Talk to Arthur, maybe. He's been going through this grief with you from the start.
+- (Jump to above branch "Yes, he has. Maybe that's part of the problem. I know he's upset that I didn't keep up our little ceremony of remembrance this year.")
+- If boolean EleanorDating is false:
+- Eleanor: I doubt even Christopher would love me in my current condition.
+- Eleanor: ... no. That's not fair. I'm not being fair to him at all, am I?
+- Eleanor: He wouldn't want to stand in the way of my happiness. He was kind.
+- If boolean LettieDiasdeMuertos is true:
+- I actually think Lettie could help.
+- (Jump to above branch "Lettie?")
+- Always available options:
+- You could write him a letter.
+- (Jump to above branch "Part of me thinks that's a stupid idea. He won't read it. He's dead. But...")
+- Talk to Arthur, maybe. He's been going through this grief with you from the start.
+- (Jump to above branch "Yes, he has. Maybe that's part of the problem. I know he's upset that I didn't keep up our little ceremony of remembrance this year.")
+- What happened was terrible. There’s no getting around it. But we can’t let that be the only thing we hold on to.
+- (Jump to above branch "So why do I feel so guilty?")
+- If boolean EleanorChristopher2 is false:
+- If boolean EleanorChristopher1 is true:
+- Eleanor: To... make a very long and tragic story very short... Christopher died in a roadside bomb before we were married.
+- Eleanor: Perhaps I'll tell you the whole story another day. Perhaps I won't.
+- Eleanor: I'm telling you all this now because...
+- Boolean EleanorChristopher2 is now true.
+- (Jump to above branch "I’ve been holding on to him for years. So has Arthur. We have a ritual every year in his memory. But not this year. I couldn't face it.")
+- If boolean EleanorChristopher1 is false:
+- Eleanor: It's time I told you about Christopher.
+- Eleanor: Arthur's best friend. We were engaged. I thought I was in love with him.
+- Boolean EleanorChristopher1 is now true.
+- (Jump to above branch "To... make a very long and tragic story very short... Christopher died in a roadside bomb before we were married.")
+- > Can't chat right now, sorry. [End.]
+
+### Conversation 9 (Do you ever get)
+
+- Eleanor: Do you ever get that thing where you're having a shower and suddenly it's like a weird little voice asks you a question you've never really thought to ask yourself before?
+- Like 'What did people on Earth think when Lua suddenly appeared in the sky again?'
+- Eleanor: Right, exactly.
+- Eleanor: wait
+- Eleanor: Lua disappeared?
+- Eleanor: For how long? Where did she go? What happened to the tides?
+- In order: dunno, the Void, dunno.
+- {Lines required}
+- The Lotus sent her into the Void toward the end of the Old War. The kid brought her back out pretty recently.
+- > No idea about the tides.
+- Eleanor: How did the Lotus displain an entire MOON?
+- Eleanor: nevermind, we can come back to that.
+- Eleanor: So, random shower thoughts. I got hit an absolute belter this morning.
+- Eleanor: It went 'hey, whai if the Gods were real?'
+- Eleanor: I went all wobbly for a moment. Had to run some cold in my face to shap out of it.
+- What's weird about that? Seems like a pretty basic question to me.
+- Eleanor: Ah, this is why I adore talking to you about these things.
+- Eleanor: Your life is so fanntastically that the reality of Gods is as natural a speculation of you as the relative merites of pizza toppings
+- Eleanor: You might even have met a God. If that's what the Indifference is.
+- > You just reminded me of something, back on the Zariman. The first time I met the Indifference.
+- > I didn't know that was what it was then, of course. I remember what it said, though.
+- I said it could take my light, and it grinned at me and said 'Thanks, kiddo. I think I will.'
+- Eleanor: Oh, hell, you're giving me chills.
+- Eleanor: The devil is a strickler for the letter of the law, in all the old folktales
+- Eleanor: Do you think it thinks you've pledge something to it? Your 'light'?
+- > It says we made a 'deal'. So I guess it thinks I owe it... something.
+- I know one thing about it, at least. It play games.
+- Eleanor: okay. Whaterever you do today, whoever you're with, whether it's me or Arthur or any of us... stay safe.
+- I love you. Any Gods that tries to get in the way of that had better pray to whatever the hell it is that's above Gods. {Convo. Ends}
+- > {Lines required}
+- ... do people not thinking the Gods are real? I'm pretty sure Lettie does.
+- Eleanor: Oh, come on. Nobody actually things Gods are real. Not in the way that, I dunno, tables and chairs are.
+- Eleanor: Real Gods are like village wells and outdoor toilets. They're something people USED to have.
+- Eleanor: Nowadays they're just symbols, or metaphors, or some bollocks like that.
+- Maybe people are just less afraid?
+- Eleanor: I think that's it, yeah.
+- Eleanor: I think I know why, too.
+- Eleanor: It's all about light.
+- Eleanor: What are Sol and Lua, after all? Before it occurred to anyone to think of them as Gods? They were LIGHTS.
+- Right. Light symbolizes good, wherever you go.
+- {Lines required}
+- The only lights humanity had, for a long time.
+- Eleanor: YES.
+- Eleanor: But then some little cave-nerd who was probably picked on by the big cavefirls hit on the whole banging rocks together trick, and bingo.
+- Eleanor: Light on demand! Independence from the big lights in the sky!
+- Eleanor: Now look at us. Light's everywhere. We've cheapened it.
+- {Jump to above branch "> You just reminded me of something, back on the Zariman")
+- > I thought Sol and Lua were your Gods?
+- Yeah, that's a horrible thought.
+- Eleanor: Isn't it? What if every time you thought the universe was sending you a message, it actually was?
+- Eleanor: Imagine everything being in the hands of these petty, immortal bastards who were in charge just because that's the way things are, not because they deserved it
+- Eleanor: And the mad part is that that's how people actually lives. That was their reality, every day of their lives.
+- Eleanor: To them the Gods were as real as the weather, and gave about the same number of shits about them.
+- Doesn't sound that different from life under the Orokin, honestly.
+- Immortal, petty, in charge because they were in charge...
+- Eleanor: Right. You HAD living Gods. But you killed them all.
+- Eleanor: (Don't get me wrong, I love you that for you.)
+- You're mixing me up with the kid. I never got to be part of the great Tenno insurrection.
+- Never got to be part of Margulis' program for Very Special Kiddies, never got a Warframe, never fought in the Old War.
+- Eleanor: ... would you have likes to?
+- I really don't know.
+- Eleanor: That's fair. I respect it.
+- Eleanor: We both have our scars, my friend. {Convo. Ends}
+- Honestly, no.
+- Eleanor: I'm glad. If you feel your life could have been worse than it is, I guess we have something to celebrate?
+- Eleanor: We both have our scars, my friend. {Convo. Ends}
+- Yeah. I would.
+- Eleanor: I understand, I think. You missed out on a great deal, didn't you?
+- We both have our scars, my friend. {Convo. Ends}
+- You mean like 'Operator! Might you consider having your Kubrow stuffed
+- That's just Ordis. He does that.
+- Eleanor: Bless him. No, I mean ann internal voice.
+- Eleanor: A bit as if your brainn was keeping itself occupie while you got on with the important business of personal hygienne.
+- Eleanor: I get them all the time. Wierdly random. So much so lately that I've been mondering if they really came from my own head at all.
+- Eleanor: Some of them I've turned in paintings.
+- (Jump to above branch "nevermind, we can come back to that.")
+- > Not really, no. [End.]
+
+### Conversation 10 (Tell me something if you would)
+
+- Eleanor: Tell me something if you would.
+- Eleanor: My brother.
+- Eleanor: You know him pretty well by now, after everything we've endured together, as a group
+- Eleanor: I just need to know:
+- Eleanor: how do you when he does The Voice?
+- It doesn't really affect me.
+- Eleanor: Wonderful. A clear case of naturally occurring immunity!
+- Eleanor: We must ensure your body is donated to medical science. {Convo. Ends}
+- I LOVE it.
+- Eleanor: okay. well
+- Eleanor: you're certainly not alone in that, from what I gather
+- Eleanor: ... I just need you to know that to me, that will always be his Action Angus voice.
+- Eleanor: "STAY CALM AND LET THE PROFESSIONALs HANDLE THIS" growls 8 year old Arthur as Action Angus and the plastic SAS are rescuing one of my Sandie dolls from the dinausor army
+- Eleanor: Hope I haven't ruined it for you! {Convo. Ends}
+- I like it.
+- Eleanor: I mean, it's not BAD
+- Eleanor: I can't really take it seriously though. There are reasons.
+- Eleanor: ... I just need you to know that to me, that will always be his Action Angus voice.
+- Eleanor: "STAY CALM AND LET THE PROFESSIONALS HANDLE THIS" growls 8 year old Arthur as Action Angus and the plastic SAS are rescuing one of my Sandie dolls from the dinosaur army
+- Eleanor: Hope I haven't ruined it for you! {Convo. Ends}
+- What do you mean?
+- Eleanor: I feel like you MUST know what I mean, but I shall take your answer in goo faith.
+- Eleanor: Most of the time Arthur talks like a fairly normal human being, but there are times when he does The Voice.
+- Eleanor: It's like listening to someone fix you a testosterone milkshake stirred up in a cement mixer.
+- Eleanor: It's so gravelly you could pick neolithic axe heads out of it.
+- Eleanor: For some reason it leaves otherwise sane and well adjusted people weak at knees.
+- Eleanor: Do you understand what I mean now?
+- > Oh, right. The Voice. (Jump to above branch "how do you when he does The Voice?")
+- > Um... no. {Convo. Ends}
+
+### Conversation 11 (Do you have a moment? I'm a bit upset about something...)
+
+- Eleanor: Do you have a moment? I'm a bit upset about something and I could use a friendly ear. Or maybe a bit of a telling off. I'm not sure yet.
+- If boolean EleanorDating is false:
+- > Now just not. {Convo. ends}
+- Sure
+- Eleanor: Thanks mate.
+- {Jump below to "Eleanor: Am I a minefield?"}
+- > For you, always.
+- If boolean EleanorDating is true:
+- Eleanor: Thanks, love
+- Eleanor: Am I a minefield?
+- Eleanor: Because Kaya says I am. And I had one of those 'oh shit' moments when you look back on all the conversations you've had with someone and you suddenly see yourself in a new light.
+- No, you're not a minefield.
+- Eleanor: Glad to hear it. Thank you.
+- Eleanor: Teenagers, eh? {Convo. ends}
+- I think I know what she meant, yeah. Sorry but she is right.
+- Eleanor: oh.
+- I'm glad Kaya called you out on it. I've said things here I thought were harmless and you've reacted like I set your air on fire.
+- {Same choices as below "> It's like a leap straight to the worst [...]" or "> Sometimes you just quit the conversation [...]"}
+- You have really extreme reactions sometimes. They're out of proportion to what I've said to you.
+- Sometimes you just quit the conversation entirely and I don't even get a chance to explain myself.
+- Eleanor: Well.
+- Eleanor: Right now I feel like logging the hell off and never using KIM again.
+- Maybe think about what you just said there?
+- > I think you need some time to think about that. [END.]
+- Do you not see it?
+- Eleanor: Ok. Ok. Hear me out.
+- Eleanor: Please.
+- Eleanor: So bear this in mind:
+- Eleanor: I'm telepathic. Didn't ask to be. But I am. I pick up on thoughts.
+- Eleanor: If we're talking face to face then I have all sorts of cues that tell me what you're feeling.
+- Eleanor: expression, body language, and hey sometimes an actual TOUGHT because, like I said, TELEPATH
+- Eleanor: but here on KIM I have to guess and there are no clues
+- Eleanor: and so yes, I kneejerk sometimes.
+- No shit.
+- {Same as below}
+- Yes, you do.
+- Eleanor: Right. So.
+- Eleanor: (deep breath, sit up straight, get it together Eleanor)
+- Eleanor: I will try my best not to be a minefield in future.
+- Eleanor: And I'll have a look back through our old chats and havee a good long think.
+- Eleanor: I owe you that. Because minefield or not, you're still here. You kept walking. x {Convo. ends}
+- There you go. Boom. Minefield.
+- {Same choices as above "> I think you need some time to think about that. [END.]" or "> Do you not see it?"}
+- It's like a leap straight to the worst possible interpretation of what I might have meant.
+- {Jump above to "Eleanor: Well."}
+- Wait, Kaya said this?
+- Eleanor: Yes. She just dropped it into the middle of a chat we were having. 'You're cool but you're a minefield. I never know how you're going to react to anything.' (Jump to above branch "No, you're not a minefield.")
+
+### Conversation (13) (Hey. Need to bounce some ideas off you.) [Needs Double Checking for where it goes]
+
+- Eleanor: Hey. Need to bounce some ideas off you.
+- Eleanor: Thinking about Fiendsnight. I haven't dressed up for it for years, but I was leafing through one of Amir's comics and I suddenly though - hold on, I could be Contessa! I've got the fangs for it and everything!
+- Eleanor: But is that too obvious? Should I be Dandy Damage?
+- Who's Dandy Damage?
+- Eleanor: Oh mate.
+- Eleanor: Dandy Damage walked so that Temple adn the Rippers could run. He was every mother's nightmare and every teenage catastrophe's dream.
+- Eleanor: Built like a stick insect, made up like a silent movie queen. Mouth like candy. Pinstripes and leather and dog chain. Cheekbones like a skeleton's hips.
+- {Jump below to "> Dressing up in costumes? Partying? [...]" or "> You know, Fiendsnight sounds a lot like Naberus. [...]"}
+- You could always dress up as the Lotus, if you wanted to confuse people [Probably requires Boolean EleanorLotus to be true]
+- Eleanor: Oh Gods no, I've seen her in your head. I could never do her justice.
+- Eleanor: And that helmet. Is it a helmet? Is it part of her? How does she see through it?
+- Eleanor: Anyways, there's three of her in the one body. I could never pick one of them over the others.
+- Dressing up in costumes? Partying? In a war zone? Do you really think that's going to happen?
+- {Same as below}
+- You know, Fiendsnight sounds a lot like Naberus. People like to dress up for that, too.
+- Eleanor: ... I'm probably just being silly. Childish. Aren't I?
+- Eleanor: Oh, what am I thinking.
+- Eleanor: I don't need to dress up, do I? I'm already a monster. Forever and ever.
+- [if Boolean EleanorDating is true] You're the monster that I love, Elanor. I don't regret a thing.
+- Eleanor: Oh yes! Silly me. I forgot the monster got the happy ending in our little story.
+- Eleanor: Forgive me. I still can't quiet believe that this is what you actually WANT. Maybe I just need a tiny bit more convincing.
+- Eleanor: Let's devour one another later xxx {Convo. Ends}
+- I'm starting to think you enjoy saying that about yourself.
+- If that's what you really believe you are, then Fiendsnight is the perfect chance to celebrate it.
+- BE the monster. Own it. For this one night of the year, wear that title with pride.
+- Eleanor: Oh there are SO MANY reasons why that is a TERRIBLE IDEA.
+- Eleanor: SO. MANY.
+- Eleanor: (I can't think of any right now but I'm sure there are DOZENS)
+- Eleanor: ...shit.
+- Eleanor: you have skewered me most nimbly upon my own kebab. damn you. well done. x {Convo. Ends}
+- I know you're scared of what you might become. But that's not you NOW.
+- {Jump below to "> So dress up. Have fun. Void knows the Hex could all use some."}
+- No. Real monsters don't care for people the way you do.
+- I know you're scared of what you might become. But that's not you NOW.
+- So dress up. Have fun. Void knows the Hex could all use some.
+- Eleanor: I'll take you up on that. And thank you. Once again. x {Convo. Ends}
+- ...you're going to have to tell me what Fiendsnight is.
+- Eleanor: Mmm. I forget you're an innocent abroad, sometimes.
+- Eleanor: Fiendsnight celebrates the fading of Sol's influence on the world.
+- Eleanor: Which doesn't make a lot of sense on the face of it. Why celebrate the rising dark? Why rejoice in lawlessness and anarchy?
+- Eleanor: I think it's like an inoculation, maybe. A tiny bit of the thing we fear, to strengthen us. Or maybe it's just an excuse to put on the devil's mask and raise hell.
+- {Jump above to "> Dressing up in costumes? Partying? [...]" or "> You know, Fiendsnight sounds a lot like Naberus. [...]"}
+
+### Conversation (14) (I don't know if you've noticed..) [Needs Double Checking for where it goes]
+
+- (Convo prob go here in Rank 5 but unsure [skipped rank 5 accidentally because of a dating convo+ loved gift])
+- Eleanor: I don't know if you've noticed, but something bloody fantastic has happened
+- Eleanor: Arthur's singing again. Thank the Gods.
+- Why did he stop?
+- Elanor: Preformance anxiety. Simple as that.
+- > Hard to believe someone as brave as Arthur could bescared like that.
+- What's the crack in his armor?
+- Elanor: It's the name. That's the sodding problem.
+- Elanor: 'oh your name's nightingale is it ha ha sing us a song then'
+- Elanor: Different wankers, same line, all through our lives. Now Viktor's doing it.
+- Elanor: Honestly, I'm proud of Arthur for having the guts to sing at all. {Convo. Ends}
+- I'm not exactly a fan, but if it makes him happy... [not suggested if dating.]
+- Eleanor: Thank you for putting that as delicately as you did.
+- Eleanor: It matters to me that you care.
+- Eleanor: Especially since there are reasons why he gave up singing, which you couldn't possibly have known about.
+- Not enough moral support?
+- {Lines required}
+- Too many tough crowds?
+- Eleanor: Hearing the same joke too often, more like.
+- {Jump above to "Eleanor: It's the name. That's the sodding problem."}
+- I'm glad. He's good at it.
+- Eleanor: Isn't he?
+- Eleanor: When I think of the effort it took to get him to stand up in front of a crowd of people and sing...
+- Eleanor: ... the first time he really lost his nerve, i mean.
+- Eleanor: Solstice Carol Concert back in the eighties. Imagine our little man in short trousers doing the solo from How Bright The Dew Upon That Morn.
+- That's quite a visual.
+- Eleanor: He took it so seriously. Weeks and weeks of practice and then, on the night, he bottled it. He hid in the wings and refused to go out.
+- How did you convince him?
+- Eleanor: I literally kicked his arse. Not proud of it. But it needed doing.
+- Eleanor: The thing is, he didn't do all that practice for our parents' sake or to make Mrs Henshaw happy.
+- Eleanor: He was singing because he loved it. But when the spotlight was on him, he locked up.
+- Maybe he just needed to remember how much he loved to do it.
+- Eleanor: Arthur's at his happiest when he can forget about Arthur. When he can lay the ghost of himself to rest and just BE.
+- Eleanor: Beer helps.
+- Eleanor: And it surely doesn't hurt that Velimir is acting like the dad Arthur would have chosen, if he could have picked one out of a catalogue.
+- I don't blame him.
+- {Lines required}
+- I'd have thought Velimir and Minerva were a bit too much like your actual parents.
+- Eleanor: yeah, well. Maybe the bickering makes him feel at home.
+- Eleanor: Weird what you can get homesick for, isn't it? {Convo. Ends}
+- What's the crack in his armor?
+- {Lines required}
+- Hard to believe someone as brave as Arthur could be scared like that.
+- {Lines required}
+- I don't know that one.
+- Eleanor: Well. I'd sing it for you, but I'm not sure what sort of noise would come out if I tried.
+- Eleanor: Bloody Techrot. I tried to sing Happy Birthday to Aoi and it sounded like a bullfrog caught in a paper shredder.
+- I'm sorry. It must be rough, not being able to sing any more.
+- Eleanor: Oh, it's not much of a loss. I couldn't sing anyway.
+- Eleanor: The closest I came was screaming out lyrics from the Shag Cannons in my bedroom because I wanted to be in a Mandy Jellicoe's band because I fancied her
+- Eleanor: Cue my dad hammering on the door and threatening to wash my mouth out with the carbolic if he heard any more of that filth
+- Eleanor: (I don't know if you have 'punk' where you come from but not being able to sing is more of a requirement than a dealbreaker.)
+- We don't have punk, but we do have Skeg.
+- Eleanor: Don't you daree drop something like that that into the chat and then not elaborate.
+- Eleanor: I demand you tell me what Skeg is.
+- Eleanor: Because it sounds like something sold in a little ziplock bags on a Ludston estate.
+- It's like music except you make it by hitting pipes. And vents. And Corpus helmets. And anything else you can find to hit, really.
+- It's a Ventkid thing.
+- Eleanor: Hmm. Sounds like survivor music. Wouldn't mind having a listen if you get the chance to record some for me. (Potential follow up convo? Unsure)
+- Eleanor: Best keep it off the Mall speakers, though.
+- >It's just pointless noise. Only Ventkids like it.
+- What happened to the band?
+- Eleanor: They didn't even get to the 'pity gig in the local pub' stage.
+- Eleanor: Word got around that Mandy was planning to spit on the audience and that was that. Shame.
+- Who's afraid of a little spit?
+- Eleanor: I bloody wasn't, I can tell you that much.
+- Eleanor: ... I just thought 'I wish she could see me now'. I think she'd like this version of me.
+- Eleanor: Gods, look at me, I've gone all soppy and nostalgic.
+- Eleanor: Better get back to it. Thanks for the ear. {Convo. Ends}
+
+### Conversation (14) (I was wondering, as I so often do...) [Needs Double Checking for where it goes (Possibly Loved/Best Friends)]
+
+- Eleanor: I was wondering, as I so often do...
+- Eleanor: Once this loop is finally closed, however that happens, what's next for Earth?
+- Eleanor: I know 2000 is pretty far back in your past, but can you tell me ANYTHING about what's in store for out little planet?
+- It's not good, I'm afraid.
+- From what little I can tell, Techrot becomes a global problem. People solve it with nukes - or try to.
+- > That's how the first of the 'Radiation Wars' begins.
+- Eleanor: ... and eventually the planet gets so effed up that the Orokin want to bail out of it and go and live somewhere else, right?
+- Eleanor: ...which leads to the whole Zariman thing, which is where YOU come in.
+- Eleanor: Weird to think that it all starts right here in this city.
+- Maybe that's partly why this year is so important.
+- Eleanor: Makes sense. If Albrecht's nuke had gone off that would mean no Techrot, so no knackered Earth, no need to escape, no first trip into the Void and no Indifference??
+- Eleanor: ... I'm going to see if Lettie has any coffee on the go. {Convo. Ends}
+- Yeah. From Hollvania to the Zariman Ten-Zero. It's a throughline.
+- Eleanor: hang about...
+- Eleanor: If yours was the Zariman Ten-Zero, what happened to Zarimans One through Nine?
+- > Unmanned drones, from what I remember.
+- > Or Cephalon-piloted terraforming pods. They experimented a LOT.
+- 'The Project', they called it.
+- Eleanor: Sounds better than 'Operation Get Our Irresponsible Arses To A New Planet That We Can Proceed To Shit All Over.' {Convo. End}
+- I don't think I should, honestly
+- If you're forewarned about what's coming you might try to change it, and that could mean I never exist.
+- Call me selfish, but I like existing.
+- Eleanor: Oh, like everything you've done HASN'T changed the future?
+- Eleanor: You might have changed the little details, but the big ones have stayed pretty much the same.
+- Eleanor: I think the Universe knows what she's doing.
+- Eleanor: There's more going on than just blind particles mucking about.
+- I don't share your view. The Universe is mindless.
+- Eleanor: Maybe from a very big or very small perspective, but not at the level where you and I exist.
+- Eleanor: If we can make meaning and we're part of the Universe, then the Universe is by definition meaningful.
+- Eleanor: Our existence isn't any less true or valid than quarks or supernovas. We're important, like it or not. {Convo. Ends}
+- I agree. If something as human as emotion can shape the Void...
+- Eleanor: Exactly. The meaning we make isn't just comfortable delusion.
+- Eleanor: But there's always that voice whispering to you and insisting that none of this matters.
+- Eleanor: Maybe the big cosmic throwdown isn't between Good and Evil, but meaning and meaninglessness. {Convo. Ends}
+
+### Conversation 1 (Oh Gods)
+
+- Eleanor: Oh Gods
+- Eleanor: I have this idea for a mural
+- If boolean EleanorDating is true:
+- Eleanor: You and me are in the town square with bits of Techrot all over the place, fighting side by side, giving each other a look that’s a bit more than just comradely affection.
+- Eleanor: Then up on a nearby roof is the God of Love, training his arrow on us both…
+- ...And?
+- Eleanor: IT’S QUINCY IN LITTLE PINK SHORTS
+- Eleanor: WITH WINGS
+- Eleanor: THE LOVE SNIPER
+- That image will never leave my mind now. Thanks!
+- Eleanor: You’re welcome.
+- Eleanor: I’ve been trying to find the moment, you know. I can’t.
+- The moment?
+- Eleanor: The moment when I realized I was in love with you, of course.
+- Eleanor: I remember thinking ‘well, this is bloody inconvenient, Eleanor, now you’re bound to make a complete fool of yourself.’
+- Eleanor: But not when, or what we were doing.
+- I... oh. I'm not ready for that kind of commitment... I'm sorry.
+- Eleanor: Well...
+- Eleanor: ... shit.
+- Eleanor: What's the bloody point? I ask you. What is the bloody POINT??
+- Boolean IsDating is now false.
+- Boolean EleanorDating is now false.
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- It doesn’t matter. I love you.
+- Eleanor: I love you.
+- Eleanor: My Drifter. You fell into my life and turned everything on its head. Of all the choices you could have made, you chose me. You left me wide-eyed and wonderstruck.
+- Eleanor: Can I interest you in some enthusiastic kissing, with an option to proceed to rampant sexual intercourse?
+- YES.
+- Eleanor: Excellent.
+- Eleanor: Yours in eager anticipation, E. xxx {Convo. ends}
+- Let’s start with kissing and see where we end up.
+- Eleanor: Mmm. Let's feel our way forward, then. Sounds perfect.
+- (Jump to above branch "Yours in eager anticipation, E. xxx")
+- Let’s take it slow. Kissing is plenty.
+- Eleanor: And right there is the secret to making this work. Communication. If kissing is what you want, then kissing you shall have.
+- (Jump to above branch "Yours in eager anticipation, E. xxx")
+- I can't stop laughing.
+- (Jump to above branch "You’re welcome.")
+- Uh oh...
+- (Jump to above branch "IT’S QUINCY IN LITTLE PINK SHORTS")
+- If boolean EleanorDating is false:
+- Eleanor: You and me are in ancient Höllvania, in the time of gods and monsters
+- Eleanor: We are facing off against an army of skeletons in rotting armour, while up above us sits the God of Thunder, scowling and judgemental
+- ...And?
+- Eleanor: IT'S AMIR
+- Eleanor: ROLLING DICE TO DECIDE OUR FATE
+- Eleanor: THE FULGUROUS FABLEMASTER
+- Eleanor: I have to do this.
+- That image will never leave my mind now. Thanks!
+- Eleanor: You’re welcome.
+- Eleanor: I’ve been trying to find the moment, you know. I can’t.
+- The moment?
+- Eleanor: The moment when I realized that my life had been changed by you. When you had wriggled your way into my heart and become family.
+- Eleanor: I suppose I should say thank you. For listening to me. For entertaining all these wild fancies of mine. And, most importantly, for being my friend.
+- Eleanor: Yours forever, E. xxx {Convo. ends}
+- I can't stop laughing.
+- (Jump to above branch "You’re welcome.")
+- Uh oh...
+- (Jump to above branch "IT'S AMIR")
+
+### Conversation 2 (So what's a 'Mara Lohk')
+
+- Eleanor: So what's a 'Mara Lohk' when it's at home, as my mum would have put it?
+- I don't know. It's Voidtongue.
+- [Goes the same as below choice]
+- It's what the Indifference calls me.
+- Eleanor: Ah. Because I hear it in my head sometimes, very faintly, when I look at you.
+- Eleanor: (Along with other things like 'damn, they're cool', and 'that's my mate, that is'.)
+- Eleanor: Are there any words in this language that you DO know?
+- A few.
+- > Netra is 'Decay', Xata is 'Truth', Ris is 'Light'...
+- Lohk is 'Void', Oull is 'Possibility', Khra is 'Time'...
+- Eleanor: Good luck making a fridge magnet poem with those
+- Eleanor: Hang on. If 'Lohk' is Void, then a Mara Lohk is a Something Void. Or a Void Something.
+- Eleanor: Void Mare? Nightmare? Void devil?
+- Be careful. It's more than just a language.
+- Eleanor: Is this the moment when I look over my shoulder and see a black-eyes Eleanor grinning back at me?
+- Eleanor: I think I'll take a little look just to be sure...
+- Eleanor: OMFL
+- What?
+- Eleanor: Spider
+- Seriously?
+- Eleanor: I was all set to joke with you about how there was sod all there but there was a bastard great spider dangling from the ceiling
+- Eleanor: talk later, need to get a glass and a bit of card {Convo. Ends}
+- I've been called worse.
+- Eleanor: Don't be surprised if I come back and nag you about this more.
+- Eleanor: Can't help prying. It's the journalist in me. {Convo. Ends}
+
+### Conversation 3 (So I was thinking)
+
+- Eleanor: So I was thinking: the year's going to loop at the end of December like it always does and although it'll FEEL like a whole new year, it won't REALLY be
+- Eleanor: and although I THINK I know how many times this has happened before, I actually don't, because I MIGHT NOT REMEMBER IT
+- Eleanor: What if what I remember as Loop One was actually Loop Fifteen Thousand and Forty Two?
+- Eleanor: and then I though well, screw it, might as well go completely crazy and do whatever the hell I want because you can always punch the floor again and reset everything
+- Eleanor: but THEN I though no, wait, what if this is the one where it actually sticks? Where we finally go all the way from 1999 to 2000?
+- Eleanor: I don't want to have made a complete berk of myself in the one loop that turns out to be the final decisive 1999. I'd never be able to unravel it.
+- Eleanor: One day it'll be Solstice and not just endless winter, to use the tired old analogy
+- Eleanor: We all just have to keep one another warm till then.
+- Eleanor: {Convo. Ends}
+
+### Birthday 1
+
+- Happy Birthday to the firstborn of the Nightingale family!
+- Eleanor: And I’ve never let him forget it. Heh. {Convo. ends}
+- Happy Birthday, monster lady!
+- Eleanor: Happy ordinary day, mere human annoyance! {Convo. ends}
+
+### Birthday 2
+
+- Congratulations on surviving to another birthday!
+- Eleanor: You didn’t check. Luckily for you I am indeed alive right now. Because this could have been bloody awkward, couldn’t it? {Convo. ends}
+- Happy Birthday, Eleanor. I’m glad you’re still here.
+- Eleanor: Thank you, dear Drifter. So am I. {Convo. ends}
+
+### Birthday 3
+
+- Happy Birthday, Eleanor! Hope you’re enjoying it!
+- Eleanor: I am. Everyone’s been very sweet, even those who are usually not. Maybe there’s hope for us yet? {Convo. ends}
+- … so is it hard to blow out birthday cake candles with that tongue of yours getting in the way?
+- Eleanor: Thanks for reminding me that I haven’t had a birthday cake in years. Truly thoughtful. {Convo. ends}
+
+### Eleanor: "Drifter. What you said yesterday. {...}"
+
+- Eleanor: Drifter. What you said yesterday. About letting the monster live. Did you mean it? I must know.
+- Of course, I meant it.
+- Eleanor: Not that I'm not exceedingly grateful and honestly a little shocked, but... why? WHY would you let me live? When everyone else here would be so willing to put a bullet through my head?
+- The line between "hero" and "monster" is blurrier than most people like to admit. I've fought against Grineer and Corpus and fought alongside them.
+- I don't believe in the words "Good" and "Evil." Just people. Why do you have any less of a right to exist than I do? I might not have a Techrot tongue, but I'm just as much of a freak of nature.
+- Eleanor: But here you are, battling away at the Scaldra and the Techrot, trying to find a way to stop the Indifference. You clearly believe there is some line to be drawn somewhere.
+- The Indifference was unleashed by Entrati. A man. Human hubris was to blame for that.
+- Eleanor: But the Techrot is not the Indifference. What of that? What of the more biological, terrestrial threat?
+- We don't really know where the Techrot came from. It could be manmade. It could be from something else entirely.
+- Eleanor: And if the Techrot turned out to be another man-unleashed aberration like your Man in the Wall? What then? Would you hunt me down and kill me?
+- No. I couldn't.
+- Eleanor: You're contradicting yourself. If you're willing to stop one manmade aberration, why not two?
+- Because I have feelings for you. [Confess feelings.]
+- Asking me if I'd kill you is just *cruel,* Eleanor. When the thought of you dead, or in pain, just --
+- The fact of the matter is? No. I couldn't. Because the hope that you'd exist somewhere out there? In some form? Anywhere? Would be enough for me.
+- I'm sorry. I can't do this. I need to go.
+- Boolean EleanorConfession is now true.
+- Eleanor: Oh... oh, what have I done... {Convo. ends}
+- Because you mean too much to me as a friend.
+- Asking me if I'd kill you is just *cruel,* Eleanor. You're my friend. You're like family to me.
+- The fact of the matter is? No. I couldn't. Because the hope that you'd exist somewhere out there? In some form? Anywhere? Would be enough for me.
+- I'm sorry. I can't do this. I need to go.
+- Eleanor: Oh, Eleanor, you stepped in it this time... {Convo. ends}
+- Yes. If the Techrot really is unnatural? Then... it has to go.
+- Eleanor: Thank you. You're an enigma to me in many ways, but now I know you'd be willing to put a bullet through my head, and that sort of thing is important in the workplace.
+- Eleanor: Aaaand I just felt the Techrot in my cells give an anxious little quiver.
+- Eleanor: I think it's going to behave itself a little better from now on. Nothing like threatening the host to put the fear of Sol into the parasite, eh?
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- The simple fact is, you don't want me to kill you. So I wouldn't. I'd let you go.
+- Eleanor: While I'm grateful that you would abide by a monstrous lady's wishes, I suppose was hoping for something a bit more... considered.
+- Eleanor: Either way, I guess I am grateful you wouldn't kill me. There's that. At least. {Convo. ends}
+- Protecting people from death is not the same thing as believing something should be exterminated or has no right to exist.
+- Ensuring a flock of sheep doesn't get eaten by wolves is not the same as going out and murdering all the wolves for being evil.
+- Eleanor: And what if nothing of Eleanor remained? What if you saw nothing but a hissing, snarling, spitting beast?
+- How do I know nothing of Eleanor remained? You talk about how the Techrot thinks. How it talks to you. It's clearly intelligent.
+- It seems to be a hive mind. Maybe Eleanor would still be in there, not in one place, but a billion. Who am I to say that's "wrong?"
+- Eleanor: Just when I simply thought I could not adore you more I find myself once more sitting here crying happy tears
+- Eleanor: I have to go but thank you thank you THANK YOU {Convo. ends}
+- The simple fact is, you don't want me to kill you. So I wouldn't. I'd let you go.
+- (Jump to above branch "While I'm grateful that you would abide by a monstrous lady's wishes, I suppose was hoping for something a bit more... considered.")
+- Because I think you're one of the most fiercely intelligent, wonderfully sardonic people I've ever met. I don't even think the Techrot could take that away from you.
+- Eleanor: How... beautifully naïve. And wonderfully sweet, in a tragic kind of way.
+- Eleanor: The fact that you believe I would come out the other side some manner of hive queen with my self intact, some bizarre voice of the infestation you could befriend or perhaps even adore.
+- Eleanor: I would chide you for the fact that the world does not function like a storybook, yet... I am reminded of precisely who you are and where you came from.
+- Eleanor: So I suppose I shouldn't be surprised.
+- Eleanor: Either way, I guess I am grateful you wouldn't kill me. There's that. At least. {Convo. ends}
+- Honestly? I've thought about it some more. And, no. I'd have to stop you if you became a monster.
+- Eleanor: Thank you. You're an enigma to me in many ways, but now I know you'd be willing to put a bullet through my head, and that sort of thing is important in the workplace.
+- Eleanor: Aaaand I just felt the Techrot in my cells give an anxious little quiver.
+- Eleanor: I think it's going to behave itself a little better from now on. Nothing like threatening the host to put the fear of Sol into the parasite, eh?
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- > [Ignore.] {Convo. ends}
+
+### Eleanor: "Quincy came to me {...}"
+
+- If boolean IsDating is true: {Convo. ends}
+- If boolean IsDating is false:
+- Eleanor: Quincy came to me and said the absolutely strangest thing. That you wanted to talk to me... about your 'feelings?'
+- If boolean EleanorNoDate is true:
+- I really just wanted to apologize for the terrible things I said.
+- Eleanor: Well... seems like a poor choice for me to hold a grudge given our situation. If you mean it? I forgive you.
+- Eleanor: And... truth be told? I can't help but admit that I've been harbouring some feelings for you...
+- Eleanor: If you're serious about wanting to give 'this' a go, between us? I'd be willing to do the same.
+- I would love that.
+- Eleanor: As would I.
+- Boolean EleanorNoDate is now false.
+- Boolean IsDating is now true.
+- Boolean EleanorDating is now true.
+- Boolean EleanorHasDated is now true. {Convo. ends}
+- Eh, no. Never mind.
+- Eleanor: ....
+- Boolean EleanorNoDate is now true. {Convo. ends}
+- If boolean EleanorNoDate is false:
+- I just wanted to tell you that I have feelings for you.
+- If boolean EleanorHasDated is true:
+- Eleanor: And I would be keen to remind you that you had your chance.
+- Eleanor: But I'd also be lying if I didn't admit that I missed you and would be willing to give this another go, if you were.
+- I would love that.
+- (Jump to above branch "As would I.")
+- Eh, no. Never mind.
+- (Jump to above branch "....")
+- If boolean EleanorHasDated is false:
+- Eleanor: And why have you kept this to yourself until now?
+- I have no idea.
+- Eleanor: Seems so. Well. If you'd like to give 'this' a go, I would be more than happy to.
+- I would love that.
+- (Jump to above branch "As would I.")
+- Eh, no. Never mind.
+- (Jump to above branch "....")
+- Maybe I've been confused on how this all works.
+- (Jump to above branch "Seems so. Well. If you'd like to give 'this' a go, I would be more than happy to.")
+- Always available options:
+- I think he was "punking" you.
+- Eleanor: I... see. {Convo. ends}
+
+### Eleanor: "A POEM"
+
+- Eleanor: A POEM
+- Eleanor: by Eleanor Nightingale
+- Eleanor: aged 6 1/2
+- Eleanor: 'KAVAT'
+- Eleanor: Oh Kalymos
+- Eleanor: Oh Kalymos
+- Eleanor: You are my favorite gal-ymos
+- Eleanor: I give you treats and stroke your head
+- Eleanor: because you are my pal-ymos
+- Eleanor: the end {Convo. ends}
+
+### Triggered by Lettie's ("Eleanor and Me") convo
+
+- Eleanor: give me an h
+- ... your H key has fallen off? Can't you get Amir to fix it?
+- Eleanor: not what i mean
+- Eleanor: when a dying woman asks you to give her an h you do it
+- Eleanor: lets try again
+- Eleanor: give me an h
+- h
+- {Jump below to "Eleanor: give me an a"}
+- > ... this is too weird. I'm out. [End.]
+- h
+- Eleanor: give me an a
+- a
+- Eleanor: give me a ngover
+- ngover?
+- Eleanor: what have you got?
+- hangover
+- you have named the devil that torments me
+- {Jump below to "o sol in heaven..."}
+- HANGOVER!
+- Eleanor: please type more quietly
+- Eleanor: o sol in heaven and all the flappy little bare bum cherubs
+- Eleanor: its bad
+- >maybe you should pay Lettie a visit?
+- so... good night last night?
+- Eleanor: i'm not sure
+- Eleanor: that whole wing of the mind palace is blocked off with incident tape and warning signs
+- Eleanor: i think velimir had an Idea and he wanted everyone to go along with his idea
+- Eleanor: at one point there was... cheering?
+- Eleanor: and drinking obviously. so much drinking
+- Eleanor: somebody definitely did something with cardboard standee pizza zeke
+- Eleanor: and i remember someone else saying 'she's a guitar, it doesn't count'
+- Lettie may have mentioned something happening at the bar?
+- She was vague on the details
+- Eleanor: ah
+- Eleanor: okay I need you to call entrati
+- Eleanor: i would like to order another nuke please
+- Eleanor: asap
+- Eleanor: fml
+- > When you say 'bad' how bad do you mean?
+- What am I giving you an A in? Cryptic messaging?
+- Eleanor: never mind i will deal with my pain another way {Convo. Ends}

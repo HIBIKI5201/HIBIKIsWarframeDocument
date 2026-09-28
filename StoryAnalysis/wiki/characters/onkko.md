@@ -15,6 +15,7 @@
 
 - グループ: [Cetus・Ostron](g15-cetus-ostron.md)
 - 登場: 2 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Onkko/Quotes](../../quotes/onkko.md)（106 行、うち独り言など 3 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Onkko)（英語・出典） / [全文検索](../../search.html?q=Onkko)
 

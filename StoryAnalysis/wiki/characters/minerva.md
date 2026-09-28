@@ -15,6 +15,7 @@ Minerva Hendricks。Saryn の特性を持つ Protoframe。Velimir の妻
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Minerva/Quotes](../../quotes/minerva.md)（409 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Minerva)（英語・出典） / [全文検索](../../search.html?q=Minerva)
 

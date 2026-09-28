@@ -1,0 +1,22 @@
+{
+ "key": "excavation",
+ "title": "Excavation/Quotes",
+ "url": "https://wiki.warframe.com/w/Excavation/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 19,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Transmissions during Excavation missions.", null]]},
+  {"path": ["Pre-Update 36.1 (2024-08-21)", "Introduction"], "idle": false, "lines": [["- Lotus: \"We're here in search of lost artifacts and items buried deep below the surface. The scanner has picked up a target. Go to the dig site.\"", "DExcavMissionObj010Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 36.1 (2024-08-21)", "Marking the dig site"], "idle": false, "lines": [["- Lotus: \"An artifact has been located. Proceed to the dig site.\"", "DExcavArtifactLoc100Lotus_en.ogg"], ["- Lotus: \"The scanner has picked up a target. Go to the dig site.\"", "DExcavArtifactLoc110Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 36.1 (2024-08-21)", "Excavator deployed"], "idle": false, "lines": [["- Lotus: \"Excavator deployed, protect the unit while it extracts the artifact.\"", "DExcavDeployed130Lotus_en.ogg"], ["- Lotus: \"Excavator is ready to go, keep it powered and protect it from enemy fire.\"", "DExcavDeployed140Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 36.1 (2024-08-21)", "Excavator finished"], "idle": false, "lines": [["- Lotus: \"Look what we just uncovered.\"", "DExcavItemFound180Lotus_en.ogg"], ["- Lotus: \"Dig complete. Your hard work has just been rewarded.\"", "DExcavItemFound190Lotus_en.ogg"], ["- Lotus: \"Excavation complete, look what we found.\"", "DExcavItemFound200Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 36.1 (2024-08-21)", "When excavator runs out of power"], "idle": false, "lines": [["- Lotus: \"The excavator has run out of power, find a cell.\"", "DExcavUnpower150Lotus_en.ogg"], ["- Lotus: \"The Excavator has lost power. Find another cell.\"", "DExcavUnpower160Lotus_en.ogg"], ["- Lotus: \"We need another power cell for the Excavator.\"", "DExcavUnpower170Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 36.1 (2024-08-21)", "Excavator destroyed"], "idle": false, "lines": [["- Lotus: \"Excavator destroyed. Protect the remaining dig sites.\"", "DExcavDestroyed260Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 36.1 (2024-08-21)", "Extraction ready"], "idle": false, "lines": [["- Lotus: \"Extraction is available, if you choose.\"", "DExcavExtraction300Lotus_en.ogg"], ["- Lotus: \"Extraction is now available.\"", "DExcavExtraction310Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 16.0 (2015-03-19)"], "idle": false, "lines": [["- Lotus: \"We're here in search of lost artifacts and items buried deep below the surface. Keep the scanner powered while it analyzes terrain.\"", "ExcavationIntro1.ogg"]]},
+  {"path": ["Pre-Update 16.0 (2015-03-19)", "Scanner deployed"], "idle": false, "lines": [["- Lotus: \"The scanner has been deployed. Keep it powered while it finds potential dig sites.\"", "DExcavScanDeploy020Lotus_en.ogg"]]},
+  {"path": ["Pre-Update 16.0 (2015-03-19)", "Scanner ran out of power"], "idle": false, "lines": [["- Lotus: \"The scanner needs more power. Find a cell.\"", "DExcavScanUnpower050Lotus_en.ogg"], ["- Lotus: \"That scanner won't work without more power. Locate a cell.\"", "DExcavScanUnpower060Lotus_en.ogg"]]}
+ ]
+}

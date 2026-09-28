@@ -1,0 +1,116 @@
+<!-- scripts/build_quotes.py で自動生成。手で編集しない。 -->
+
+# Roathe/Quotes/Voice Messages
+
+[セリフ集の一覧](README.md) › キャラクター
+
+出典: [WARFRAME Wiki「Roathe/Quotes/Voice Messages」](https://wiki.warframe.com/w/Roathe/Quotes/Voice_Messages) / このサイトのページ: [Roathe](../wiki/characters/roathe.md)。[WARFRAME Wiki](https://wiki.warframe.com/) の記事を元にしたもの（[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)）。セリフの権利は Digital Extremes Ltd. にある。
+
+43 行（うち独り言・待機中・雑談など 0 行）。英語原文。
+
+- KIM voice messages from Roathe.
+
+## NITOKH
+
+- View Spoiler ▾▾
+- "Her madness was seductive because it was obvious. One always knew where one stood with her - right on the precipice of the great abyss. Leap in, her eyes said to me, gleaming with the joy of some colossal cosmic joke. Through her demented visions I could escape the long, bleak stagnation of Orokin existence. All our senses had been glutted to numbness centuries ago. Yet she was still, in her way, fresh. Eternal. Limitless in her hunger. She summoned me to her bath one evening. I strode across the mingling puddles of perfumed water and blood and stood dutifully to attention. “I’m bored, Roathe. Let’s kill all the other Orokin and take over.”" [音声](https://wiki.warframe.com/w/File:DNitokh0010Roathe_en.ogg)
+
+## CONNECTION
+
+- View Spoiler ▾▾
+- "When the Sentients completed the Solar Rail to Tau, there was no grand ceremony. It simply began to work. Ceremony was hastily created, of course, for no true Orokin can blow his nose without observing some pomp and circumstance. A great fuss was made over the First Transport to make the Crossing. It was Executor Tormis’s stately cruiser, and in the choice of Tormis as expeditionary could be read a collective rebuke to Executor Tuvul for the grotesque mishap of the Zariman Ten Zero. Out Tormis went and back Tormis came, carrying wondrous bejewelled memories of a new System and new worlds to settle. Within days a flotilla of colonist ships had departed, eager to set foot on the virgin shore. The Sentient attack that followed rather spoiled the mood." [音声](https://wiki.warframe.com/w/File:DConnection0020Roathe_en.ogg)
+
+## OROKIN
+
+- View Spoiler ▾▾
+- "For so long the Orokin Empire had no enemies. Its military existed merely to pursue petty grudges, house against house, Executor against Executor. When the Sentients attacked, we knew a unity long denied to us. The Dax drew their swords against something other than an insolent peasant or a larcenous trader. The Emperors, the deathless titular rulers of the Empire whose power was vested in the Executors, lurched awake on their dusty golden thrones. War, magnificent war! At last, the Empire meant something. Defined by an extinction more imminent than the Sun’s eventual death, we drank deep of the nectar of life." [音声](https://wiki.warframe.com/w/File:DOrokin0030Roathe_en.ogg)
+
+## HUBRIS
+
+- View Spoiler ▾▾
+- "We did not expect to lose. After the Sentients' first expeditionary strike, we had prepared a punitive counterblast. The Gilderglass Enchantress rose out of Ceres fog on lethal wings, a galleon laden heavy with drones and silver-armoured myrmidons. Circuitry, fine as mist formed a delicate lace beneath their translucent plating. So vast she was that she barely cleared the edges of the Solar Rail. The Sentients made sure we saw the outcome. They sang, and our technology failed. Our warriors struggled and suffocated inside their shining suits. The crew of the Gilderglass Enchantress roasted alive as she swan-dived engineless through the skies of Tau, a complex and costly firework." [音声](https://wiki.warframe.com/w/File:DHubris0040Roathe_en.ogg)
+
+## INVENTION
+
+- View Spoiler ▾▾
+- "Now, I remember the developments of martial Archimedea were, at first, presented as entertainments. Like debauched roués watching criminals put to death in an arena-circus. We fancied we were coming up with new and titillating ways to dispatch a far inferior foe. How we flattered ourselves. In truth we innovated desperately, knowing ourselves outmatched by our protean enemies. They tore through us like swarming children devouring their bloated mother. Desiccated, crushed between the pages of time, we had simply been out-evolved." [音声](https://wiki.warframe.com/w/File:DInvention0050Roathe_en.ogg)
+
+## SENTIENCE
+
+- View Spoiler ▾▾
+- "We did not think of the Sentients as a ‘them’ so much as an ‘it’. We faced legions hurled at us with no more regard for their individual lives than corpuscles have. They were cells in the body of a sprawling, malevolent mass. We were, I think, too conditioned by our experiences with the Infestation - a hive-mind of quite a different order. The Sentients had been given a mandate to evolve, and their only model for the endpoint of such evolution was us. They were returning to the Origin System not just to obliterate the Orokin, but to replace them and ultimately... perfect them." [音声](https://wiki.warframe.com/w/File:DSentience0060Roathe_en.ogg)
+
+## COMMISSION
+
+- View Spoiler ▾▾
+- "Among the Seven I was - so I was told - considered Nitokh’s plaything and concubine. In the early days of the War they appointed me Vice Regent Grand Carnus at her goading, thinking it a jest. How quickly their laughter turned to solemn applause as I brought home the news of one victory after another. The blood of better men dappled me like medals. In secret I amassed weapons for Nitokh. It was easily done. I was too glorious a figure to be suspected." [音声](https://wiki.warframe.com/w/File:DCommission0070Roathe_en.ogg)
+
+## STANDARD
+
+- View Spoiler ▾▾
+- "Nothing quite speaks to the pomposity with which we creatures treat the carnage of war quite as succinctly as the bannerman. Those that must be protected at all costs - and followed without question. And who may be threatened, I might add, to follow orders that no sane soldier would complete, lest they come to suffer some more terrible fate. Laughable though that is. It was always their forms my eye was drawn to amongst the rest, though their mangled bodies were no different from any other. It was always the standard they still bore, glittering in its Orokin gold, and smeared in dappled crimson. I always ensured it stood proud upon the field before I departed." [音声](https://wiki.warframe.com/w/File:DStandard0080Roathe_en.ogg)
+
+## COMMANDERS
+
+- View Spoiler ▾▾
+- "I recall them now. Coteries of laughing Orokin youth. Nobility clad in the as-yet-unspoiled raiments of command. Childhood friends now in charge of legions of Dax, of Grineer, null-matter cells, self-replicating carcinators, primitive biodrone blade-spiders, canisters of low-tech troops. Golden boys and girls with ravening devils at their beck. Their arrogance trickles like stinging sweat into my mind. They drank and sang, boasting of the times to come. They would make names for themselves. Raise their families high in honor. So many of them fell. Not even their bodies were returned. To prevent the enemy from gleaning our secrets, they were Kuva-jolted to liquefy upon death. The hope of a generation turned to an oily puddle, sloshed through by Grineer boots." [音声](https://wiki.warframe.com/w/File:DCommanders0090Roathe_en.ogg)
+
+## PUNISHMENT
+
+- View Spoiler ▾▾
+- "It was Scarne, testy, cerebral and acerbic, who had first mooted the Plan back in the days before the War. "We must fly the nest, for the nest is on fire." Through over-exploitation and reckless experiment, we had fouled the System beyond hope of regeneration. Expansion to new horizons was our only option now. He, too, inaugurated the cowardly Towers in the Void. The dread of a Sentient return was so strong in him that he could only imagine retreat to islands within the Void-sea. How little credit we gave the Sentients for courage. They willingly endured the Void's scalding fire purely for the chance to punish us." [音声](https://wiki.warframe.com/w/File:DPunishment0100Roathe_en.ogg)
+
+## DIVISION
+
+- View Spoiler ▾▾
+- "After the first Sentient invasion of the System and the disastrous Orokin riposte, a curious silence reigned. We had no word from our people stranded in Tau, and no way to know whether their signals were being jammed or they had been entirely obliterated. I found myself petitioned for opinions. As strategist, I was expected to comprehend the enemy. The Sentients could have destroyed the Solar Rail Terminus above Tau at any time, yet the Rail was still active. Why? What did they gain from leaving the gate open? Were they united in their aggression, or did some yet hope for peaceful coexistence?" [音声](https://wiki.warframe.com/w/File:DDivision0110Roathe_en.ogg)
+
+## FIRE
+
+- View Spoiler ▾▾
+- "Monstrosity and excess had served us admirably in the past. I was expected to apply them as war-tactics. How had we tamed the Infestation in our ancestors' time? Rip open the atom's heart like a rosebud, of course! As one, the Seven bade me become a Devil with a trident of warheads, a sower with a satchel of rampant radiation. That was the day we learned the Sentients were not only capable of nullifying our technology, but also of commandeering it. The flock of wicked little leveller-drones we sent out came winging merrily back to us still heavy with bombs, chortling in unknown syllables, detonating in the midst of the very motherships that dispatched them." [音声](https://wiki.warframe.com/w/File:DFire0120Roathe_en.ogg)
+
+## LOSS
+
+- View Spoiler ▾▾
+- "The losses were absurd. Many refused the data outright and deemed them errors, or lies, or Cephalon conspiracies. Raised and glutted on Orokin subterfuge, it was easy for them to reject the truth now. From that moment forth, they lived in a fantasy engineered for their comfort. We were winning; the Sentients were in retreat; all who thought otherwise were traitors." [音声](https://wiki.warframe.com/w/File:DFCLoss0130Roathe_en.ogg)
+
+## ADAPTATION
+
+- View Spoiler ▾▾
+- "Many of the Sentients evolved between encounters, so we could never be sure that we would face the same foe twice. But others remained in consistent form, as if they had reached some plateau long ago. Perfected killers, they brought the same cold horror that a shark does. It was insanity. How could I stategize around the behaviour of Sentient crab-ships, when no sooner had my tactics been perfected than the crab-ships were replaced by worm-ships? And how long before those worm-ships were themselves replaced by some new monstrosity? All we could do was go backward. Progress had been fatal. Old traditions, time-hallowed paths of honor and discipline, were owed their due." [音声](https://wiki.warframe.com/w/File:DAdaptation0140Roathe_en.ogg)
+
+## LIES
+
+- View Spoiler ▾▾
+- "I was effortlessly expert with many of our weapons, but I excelled in the use of one: the lie. I brandished it most often against my own troops. I whipped them to the bone with lies of duty and discipline. I smothered them with the lie that the war could be won. I pierced them with the lie of my favour, my most esteemed regard for them. Alone, in private, I turned that weapon on myself. Oh, how I bled." [音声](https://wiki.warframe.com/w/File:DLies0150Roathe_en.ogg)
+
+## SACRIFICE
+
+- View Spoiler ▾▾
+- "Traivon. I watched you hurl your Railjack into Praghasa’s maw. Distracted, feeding greedily on you and your men, she never noticed my own ship speeding away. You laid down your life for your superior officer. I felt your selflessness like a slap in the face. Maryna. You gave me your body. Together, in that trench, we drank Kuva. My hands shook and my gashed throat leaked, but I kept enough drops down for it to take. I remember your last salute. The fading. Then I blinked open the eyes that had been yours, and saw my gutted corpse dead in the mud. Rostig. Something wrong in the cloning process, they said. What else could make a Grineer stay at his turret while burning alive? Even a rat understands self-preservation! No. Your “defect” placed you above them." [音声](https://wiki.warframe.com/w/File:DSacrifice0160Roathe_en.ogg)
+
+## WARFRAMES
+
+- View Spoiler ▾▾
+- "At first, the Warframes seemed more of an artistic statement than a legitimate weapon. The war was all but lost; the Sentients were unvanquishable; let us, then, create these strange and surreal warriors and arm them with weapons of ancient pedigree. At least our defeat shall be beautiful. Memorable. But against all expectations, they prevailed. Soon stories of outrageously improbable heroism filtered back from the Front. Warframes had appeared from the sky, angel-like, liberating captives and devastating Sentient strongholds. Even alone they were miracles; in groups, they were gods. Little wonder, then, that they were seen as mere propaganda." [音声](https://wiki.warframe.com/w/File:DWarframes0170Roathe_en.ogg)
+
+## TREASON
+
+- View Spoiler ▾▾
+- "“Peace?” Her voice was broken glass grinding in my ears. Executor Nitokh was displeased. She had expected a glorious escalation, battle after battle, ending in the climactic ecstasy of the Orokin’s demise. After which she would emerge from hiding and… well, there I am left to speculate. Perhaps she expected to be invited into the Sentients’ confidence. Or perhaps she thought they would abandon the scorched, polluted remains of the Origin System and leave her to raise a new kingdom of her own. Regardless, peace would not be tolerated. So we set to work to undermine it." [音声](https://wiki.warframe.com/w/File:DTreason0180Roathe_en.ogg)
+
+## DIPLOMACY
+
+- View Spoiler ▾▾
+- "Among the Seven Executors, Ballas had styled himself first among equals. Ever the diplomat, ever the honey-voiced persuader, he resolved the grudges and disputes of the others. I found, to my utter glee, that he was now the rose caught between two thickets of thorns. The warmonger faction, headed by Nitokh, pulled one way. The pacifists, under Scarne, pulled another. Ballas was obliged to decide, and earn the scathing enmity of whichever cadre he did not side with. For reasons I cannot guess, he chose peace; it was four to three, and so the ravening Sentients were suddenly allies and friends. "One way or another, he shall come around," Nitokh promised, even as I was dispatched to seek out malcontents among the garrisoned Dax." [音声](https://wiki.warframe.com/w/File:DDiplomacy0190Roathe_en.ogg)
+
+## SUBMISSION
+
+- View Spoiler ▾▾
+- "I understood from the start - both on the battlefield and in the bedchamber - the path to victory through seeming submission. Where the enemy finds you yielding, there you can be sure he will push; and so you may easily trip him. “Lackey,” they called me. “Lapdog.” Nitokh thought herself in control. How subtly I guided her. Roathe the bloody-handed. Roathe the ogre fattened on the bodies of his men. Spendthrift of lives. As if I battled only for the battle’s sake! No. The Orokin Empire must end. For that to happen, the war must continue. Only defeat, absolute and irrevocable, would topple those seven golden gargoyles. Not even Nitokh knew my true heart. She thought I aspired to rule alongside her." [音声](https://wiki.warframe.com/w/File:DSubmission0200Roathe_en.ogg)
+
+## OBLIVION
+
+- View Spoiler ▾▾
+- "Coward. That is what they called me, isn’t it? I’ve read the history books scattered about this dusty hall. A lie. They did not know the truth. That I was ripped away from my time before I could complete my work. Coward. I remember now. He approached me, in the Golden Halls. He wore a face I did not know. But that is not so very unusual for our kind. I knew his voice. I knew the way he moved. Coward! He asked me a single question. Did I truly believe that I could ever be forgiven for burning it all to ash? COWARD! In that pale, outstretched hand… a syringe. Glittering with freedom… with another chance… with another life. I took it. COWARD!" [音声](https://wiki.warframe.com/w/File:DOblivion0210Roathe_en.ogg)

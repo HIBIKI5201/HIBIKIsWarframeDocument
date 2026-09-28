@@ -12,6 +12,7 @@ Conclave の Cephalon Capture に登場
 
 - グループ: [Cephalon](g02-cephalon.md)
 - 登場: 台詞全文では見つからない
+- セリフ集: [Cephalon Apnar](../../quotes/cephalon-apnar.md)（32 行、うち独り言など 5 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Cephalon_Apnar)（英語・出典） / [全文検索](../../search.html?q=Cephalon%20Apnar)
 

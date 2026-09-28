@@ -14,6 +14,7 @@ The Hex の技術者で、ゲーマーでハッカーの Amir Beckett。ゲー�
 
 - グループ: [1999（Höllvania）](g11-1999-h-llvania.md)
 - 登場: 1 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Amir/Quotes](../../quotes/amir.md)（883 行、うち独り言など 47 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Amir)（英語・出典） / [全文検索](../../search.html?q=Amir)
 

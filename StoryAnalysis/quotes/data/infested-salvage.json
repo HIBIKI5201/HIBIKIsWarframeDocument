@@ -1,0 +1,23 @@
+{
+ "key": "infested-salvage",
+ "title": "Infested Salvage/Quotes",
+ "url": "https://wiki.warframe.com/w/Infested_Salvage/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 28,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Transmissions during Infested Salvage mission.", null]]},
+  {"path": ["Introduction"], "idle": false, "lines": [["- Lotus: \"This desolate Corpus research vessel conceals a rich cache of supplies. To locate them I will reconstruct the ship's corrupted shipping manifests.\"", "DPDObjective0010Lotus_en.ogg"], ["- Lotus: \"The crew of this ship fell victim to the very Infestation they were researching. We're here to recover their extensive supplies. Find the consoles that contain the ship's shipping manifests.\"", "DPDObjective0020Lotus_en.ogg"]]},
+  {"path": ["First Round"], "idle": false, "lines": [["- Lotus: \"These consoles have been compromised by a fast growing Infested pox. Use the vaporizers to kill the pox and I will access the consoles.\"", "DPDFirstRound0030Lotus_en.ogg"], ["- Lotus: \"There is pox everywhere on these consoles and it's corrupted the manifests. Do you see any vaporizer units nearby? You can use these to temporarily kill off the pox.\"", "DPDFirstRound0040Lotus_en.ogg"]]},
+  {"path": ["New Round"], "idle": false, "lines": [["- Lotus: \"Here we go again. Get those vaporizers working.\"", "DPDNewRound0190Lotus_en.ogg"], ["- Lotus: \"Let's reconstruct the next manifest.\"", "DPDNewRound0200Lotus_en.ogg"], ["- Lotus: \"Get ready. We are going to reconstruct another manifest.\"", "DPDNewRound0210Lotus_en.ogg"]]},
+  {"path": ["Mission Progress"], "idle": false, "lines": [["**25%**", null], ["- Lotus: \"Keep fighting, I am still working on this manifest.\"", "DPDMilestones0140Lotus_en.ogg"], ["**50%**", null], ["- Lotus: \"I have reconstructed half the manifest.\"", "DPDMilestones0120Lotus_en.ogg"], ["**75%**", null], ["- Lotus: \"I have almost finished reconstructing the manifest.\"", "DPDMilestones0130Lotus_en.ogg"]]},
+  {"path": ["Serum Hints"], "idle": false, "lines": [["- Lotus: \"Tenno, these Infested hold the serum we need.\"", "DPDSerumInstruct0050Lotus_en.ogg"], ["- Lotus: \"The Infested, they're dropping the serum we need for the vaporizers.\"", "DPDSerumInstruct0060Lotus_en.ogg"], ["- Lotus: \"Those Infested must have taken that serum from the researchers on this ship.\"", "DPDSerumInstruct0070Lotus_en.ogg"]]},
+  {"path": ["After Picking Up Serum"], "idle": false, "lines": [["- Lotus: \"You picked up serum. Now put it in a vaporizer.\"", "DPDSerumPickup0080Lotus_en.ogg"], ["- Lotus: \"Put that serum in a vaporizer.\"", "DPDSerumPickup0090Lotus_en.ogg"]]},
+  {"path": ["Consoles Degrading"], "idle": false, "lines": [["- Lotus: \"Without help from the vaporizers, the pox will continue to erode these consoles.\"", "DPDConsoleDeg0100Lotus_en.ogg"], ["- Lotus: \"I will not be able to access these systems if the consoles degrade much further.\"", "DPDConsoleDeg0110Lotus_en.ogg"]]},
+  {"path": ["Armor Integrity Below 25%"], "idle": false, "lines": [["- Lotus: \"Your armor is degrading. Put serum in that med-station to cleanse yourself.\"", "DPDArmorLow0240Lotus_en.ogg"], ["- Lotus: \"Filling that med-station with serum will halt your health and armor from degrading.\"", "DPDArmorLow0250Lotus_en.ogg"]]},
+  {"path": ["Kill Remaining Enemies"], "idle": false, "lines": [["- Lotus: \"I have the manifest. Wipe out the remaining Infested.\"", "DPDExterminate0150Lotus_en.ogg"], ["- Lotus: \"I'm finished. You must clear the area of Infested before we can continue.\"", "DPDExterminate0160Lotus_en.ogg"]]},
+  {"path": ["Round End"], "idle": false, "lines": [["- Lotus: \"This is what was in the manifest. There is more where that came from. Do you want to keep fighting?\"", "DPDRoundEnd0170Lotus_en.ogg"], ["- Lotus: \"Success. Do you want to attempt to reconstruct another manifest?\"", "DPDRoundEnd0180Lotus_en.ogg"]]},
+  {"path": ["Extraction"], "idle": false, "lines": [["- Lotus: \"Good work Tenno. We got what we needed.\"", "DPDExtract0230Lotus_en.ogg"]]}
+ ]
+}

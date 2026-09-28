@@ -14,6 +14,7 @@
 
 - グループ: [Void・Murmur・Zariman](g10-void-murmur-zariman.md)
 - 登場: 5 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [The Man in the Wall/Quotes](../../quotes/the-man-in-the-wall.md)（250 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Man_in_the_Wall)（英語・出典） / [全文検索](../../search.html?q=The%20Man%20in%20the%20Wall)
 

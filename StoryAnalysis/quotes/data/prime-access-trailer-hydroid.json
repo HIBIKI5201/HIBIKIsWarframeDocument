@@ -1,0 +1,12 @@
+{
+ "key": "prime-access-trailer-hydroid",
+ "title": "Prime Access Trailer/Hydroid",
+ "url": "https://wiki.warframe.com/w/Prime_Access_Trailer/Hydroid",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 4,
+ "idle": 0,
+ "sections": [
+  {"path": ["Transcript"], "idle": false, "lines": [["- \"Fear... is the greatest of faith. While our immortal vines have left us distant from our baser selves, consider our subjects:", null], ["Those who gaze upon our cloud-swept towers with simmering, violent envy. They hold still the old fears.", null], ["Depth and darkness... The windless embrace...", null], ["We will give to fear a form and yet none a vague hydra, a load monstrosity, surging from the unfathomable... reminding them who their gods are. Hydroid.\"", null]]}
+ ]
+}

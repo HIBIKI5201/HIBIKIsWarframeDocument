@@ -1,0 +1,24 @@
+{
+ "key": "void-angel",
+ "title": "Void Angel/Quotes",
+ "url": "https://wiki.warframe.com/w/Void_Angel/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 37,
+ "idle": 0,
+ "sections": [
+  {"path": [], "idle": false, "lines": [["Void Angel SFX and vocalizations.", null]]},
+  {"path": ["Attacking"], "idle": false, "lines": [["**Short**", "VoidAngelVocalAttackShortA.ogg"]]},
+  {"path": ["Portal"], "idle": false, "lines": [["**Entering portal**", "VoidAngelVocalPortalEnter.ogg"], ["**Exiting portal**", "VoidAngelVocalPortalExit.ogg"], ["**Loop while inside portal**", "VoidAngelVocalPredeathLoop.ogg"]]},
+  {"path": ["Ability SFX", "Bullet Orb"], "idle": false, "lines": [["**Charge**", "VoidAngelBulletOrbChargeA.ogg"], ["**Explosion**", "VoidAngelBulletOrbExplosionLargeA.ogg"], ["**Firing**", "VoidAngelBulletOrbFireA.ogg"]]},
+  {"path": ["Ability SFX", "Ground Spike"], "idle": false, "lines": [["**Burst**", "VoidAngelGroundSpikeBurstA.ogg"], ["**Hits player**", "VoidAngelGroundSpikeHitplayerA.ogg"], ["**Destroyed**", "VoidAngelGroundSpikeDestroyA.ogg"]]},
+  {"path": ["Ability SFX", "Teleport"], "idle": false, "lines": [["**Teleport in build up**", "VoidAngelTeleportBuildUpA.ogg"], ["**Teleport in**", "VoidAngelTeleportInA.ogg"], ["**Teleport out build up**", "VoidAngelTeleportReturnBuildUpA.ogg"], ["**Teleport out**", "VoidAngelTeleportA.ogg"]]},
+  {"path": ["Ability SFX", "Corruption Fog"], "idle": false, "lines": [["**Cast**", "VoidAngelCorruptionCast.ogg"], ["**Pool burst**", "VoidAngelCorruptionPoolBurst.ogg"], ["**Pulse**", "VoidAngelCorruptionPulseA.ogg"], ["**Detonate**", "VoidAngelCorruptionDetonate.ogg"], ["**Healing burst**", "VoidAngelCorruptionHealBurstA.ogg"], ["**Healing projectiles**", "VoidAngelCorruptionHealingProjA.ogg"]]},
+  {"path": ["Ability SFX", "Portal Beams"], "idle": false, "lines": [["**Firing**", "VoidAngelPortalBeamFireA.ogg"]]},
+  {"path": ["Ability SFX", "Ethereal Swipe"], "idle": false, "lines": [["**Cast**", "EtherealVoidAngelBeamSwipeCastA.ogg"]]},
+  {"path": ["Ability SFX", "Ethereal Homing Orb"], "idle": false, "lines": [["**Firing**", "EtherealVoidAngelWeaponFireA.ogg"], ["**Projectile whoosh**", "EtherealVoidAngelWeaponProjectileWhooshByA.ogg"], ["**Explosion**", "EtherealVoidAngelWeaponExplosionA.ogg"]]},
+  {"path": ["Ability SFX", "Ethereal Charge Beam"], "idle": false, "lines": [["**Warning**", "EtherealVoidAngelBeamWarning.ogg"], ["**Warning end**", "EtherealVoidAngelBeamWarningBeamEnd.ogg"], ["**Cast**", "EtherealVoidAngelBeamCast.ogg"], ["**Firing**", "EtherealVoidAngelBeamFire.ogg"], ["**Loop**", "EtherealVoidAngelBeamLoop.ogg"]]},
+  {"path": ["Ability SFX", "Beacon Shield"], "idle": false, "lines": [["**Upon using Void Sling to remove floating projective spheres**", "EtherealVoidAngelBeaconVoidCatchA.ogg"], ["**Casting upon landing**", "EtherealVoidAngelBeaconCast.ogg"], ["**Shield bubble active**", "EtherealVoidAngelBeaconShieldBubbleActivate.ogg"], ["**Loop**", "EtherealVoidAngelBeaconShieldBubbleLoop.ogg"], ["**Shield bubble deactivated**", "EtherealVoidAngelBeaconShieldBubbleDeactivate.ogg"]]},
+  {"path": ["Ability SFX", "Ethereal Death"], "idle": false, "lines": [["**Burst**", "EtherealVoidAngelDeathBurst.ogg"]]}
+ ]
+}

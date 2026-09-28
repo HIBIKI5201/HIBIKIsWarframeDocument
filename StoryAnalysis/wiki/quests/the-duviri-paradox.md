@@ -10,6 +10,8 @@
 
 矛盾した存在である Drifter が、Duviri の王国で繰り広げる旅を描くメインクエスト。ソロ専用で、Update 33.0（2023-04-26）で追加された。
 
+- 台詞全文（取り込み）: [The Duviri Paradox/Transcript](../../quotes/the-duviri-paradox-transcript.md)（260 行）
+
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/The_Duviri_Paradox)（英語・出典） / [台詞全文](https://wiki.warframe.com/w/The_Duviri_Paradox/Transcript) / [全文検索](../../search.html?q=The%20Duviri%20Paradox)
 
 ## 基本情報

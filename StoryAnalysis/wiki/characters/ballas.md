@@ -14,6 +14,7 @@ Orokin 帝国の崩壊前、Executor で The Seven の一員だった人物。Wa
 
 - グループ: [Orokin](g06-orokin.md)
 - 登場: 7 クエスト（台詞全文から数えたもの。下の表）
+- セリフ集: [Ballas/Quotes](../../quotes/ballas.md)（274 行）
 
 リンク: [WARFRAME Wiki](https://wiki.warframe.com/w/Ballas)（英語・出典） / [全文検索](../../search.html?q=Ballas)
 

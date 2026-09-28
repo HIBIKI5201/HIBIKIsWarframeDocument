@@ -1,0 +1,14 @@
+{
+ "key": "drahk-master",
+ "title": "Drahk Master/Quotes",
+ "url": "https://wiki.warframe.com/w/Drahk_Master/Quotes",
+ "kind": "場所・ミッション・その他",
+ "site": null,
+ "count": 14,
+ "idle": 4,
+ "sections": [
+  {"path": ["Patrol Idle"], "idle": true, "lines": [["- \"Out redkhung kle rog.\" - \"Out walking the dog.\"", null], ["- \"Grat a dovely day.\" - \"What a lovely day.\"", null], ["- \"Ronrer grat hus for rhunner?\" - \"Wonder what is for dinner?\"", null], ["- \"Hu sroudr kas kle rhufe.\" - \"I should call the wife.\"", null]]},
+  {"path": ["Attacking"], "idle": false, "lines": [["- \"Attaf!\" - \"Attack!\"", null], ["- \"Rentroy klem!\" - \"Destroy them!\"", null], ["- \"Nor gar agre koher(?)!\" - \"Now you are mine!\"", null], ["- \"(growl)\"", null], ["- \"(growl)\"", null], ["- \"(growl)\"", null]]},
+  {"path": ["Attacking", "Stealing a Weapon"], "idle": false, "lines": [["- \"Garr reagons agre mine!\" - \"Your weapons are mine!\"", null], ["- \"Tenno reagons!\" - \"Tenno weapons!\"", null], ["- \"Gar kannot enkage me.\" - \"You cannot escape me.\"", null], ["- \"Hu orn gar.\" - \"I own you.\"", null]]}
+ ]
+}
