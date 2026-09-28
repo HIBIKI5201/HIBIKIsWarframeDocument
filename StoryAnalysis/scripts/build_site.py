@@ -14,6 +14,9 @@ from pathlib import Path
 from string import Template
 
 ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = ROOT.parent
+REPO_URL = "https://github.com/HIBIKI5201/WarframeDocument/tree/main/"
+current_src: Path | None = None  # 変換中の Markdown（相対リンクの解決用）
 BUILD = ROOT / "build"
 SITE = BUILD / "site"
 TEMPLATES = ROOT / "site" / "templates"
@@ -48,6 +51,11 @@ def link(href: str) -> str:
     if re.match(r"^[a-z]+:", href):
         return esc(href) + '" target="_blank" rel="noopener'
     path, _, frag = href.partition("#")
+    if path and not path.endswith(".md") and current_src is not None:
+        # サイトに含まれないファイル・フォルダ（例: archive/pixiv/）は GitHub 上の場所へリンクする
+        target = (current_src.parent / path).resolve()
+        if target.exists() and target.is_relative_to(REPO_ROOT):
+            return esc(REPO_URL + target.relative_to(REPO_ROOT).as_posix()) + '" target="_blank" rel="noopener'
     if path.endswith("README.md"):
         path = path[: -len("README.md")] + "index.html"
     elif path.endswith(".md"):
@@ -250,7 +258,9 @@ def build() -> None:
            ("sources/index.html", "資料"), ("search.html", "検索")]
 
     index: list[dict] = []
+    global current_src
     for src, rel in pages():
+        current_src = src
         md = src.read_text(encoding="utf-8")
         r = Renderer()
         body = r.render(md)
