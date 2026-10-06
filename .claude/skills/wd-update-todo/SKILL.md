@@ -1,5 +1,5 @@
 ---
-name: wf-update-todo
+name: wd-update-todo
 description: Warframe の新しいアップデート（メインライン・ホットフィックス・大型更新）で追加された装備・MOD・アルケイン・ホノリア・シーン・スキャン対象などを調べ、TODO/data/*.toml の欲しいものリストに追加する。「新バージョンの追加要素を TODO に入れて」「Update 41 の新アイテムを調べて追加」「最新アプデで何が増えたか調べてリストに」などの依頼で使う。
 ---
 
@@ -22,9 +22,11 @@ WebSearch / WebFetch を使う（読み込まれていなければ ToolSearch �
 | 1 | 公式パッチノート: `https://forums.warframe.com/forum/3-pc-update-notes/` | 追加要素の網羅 |
 | 2 | 公式 Wiki の Update ページ: `https://wiki.warframe.com/w/Update_<番号>`（例: `Update_41`） | 整理された一覧、各項目へのリンク |
 | 3 | 公式 Wiki の各項目ページ `https://wiki.warframe.com/w/<英語名>` | 入手場所・条件・必要数 |
-| 4 | 日本語 Wiki `https://wikiwiki.jp/warframe/` | 日本語名の確認 |
+| 4 | 日本語 Wiki `https://wikiwiki.jp/warframe/`（ページ名は英語の大文字。例: `AFENTIS%20PRIME`、`NARIN`） | 日本語のソース。日本語名・パーツ名・入手場所（例: スコリアの天使、ポンティス・タワー）の表記の確認 |
 
 ホットフィックスには追加要素がないことが多い。メインラインとあわせて確認する。
+
+TOML に書く日本語（名前・パーツ名・入手場所）は、自分で訳さず日本語 Wiki の表記に合わせる。日本語 Wiki は短時間に続けて取得すると確認画面が返るので、間隔を空ける（取得できなければブラウザで開く）。
 
 ## 3. 既存カテゴリに振り分ける
 
@@ -32,16 +34,17 @@ WebSearch / WebFetch を使う（読み込まれていなければ ToolSearch �
 
 | ファイル | 対象 | 名前の表記 | 使うフィールド |
 | --- | --- | --- | --- |
-| `01-equipment.toml` | Warframe・武器・コンパニオン・アークウイング・ネクラメカなど | 英語 | 必要なら `source` |
+| `01-equipment.toml` | マスタリー対象の装備だけ（Warframe・武器・コンパニオン・アークウイング・ネクラメカなど）。スキンや Incarnon Genesis などマスタリー対象でないものは `07-misc.toml` | 英語 | 必要なら `source`、製造するものは `parts` |
 | `02-mods.toml` | MOD | 英語 | `source` |
 | `03-arcanes.toml` | アルケイン | 日本語（例: `アルケイン ホットショット`） | `source`, `required`（最大ランクに必要な数。通常 21 だが、既存データのように不足数を入れることもあるので、分からなければ聞く）, `updated` |
 | `04-honoria.toml` | ホノリア（称号） | 日本語名。固有名詞は英語のまま（例: `Harrowの影`） | `condition` |
 | `05-scenes.toml` | キャプチュラのシーン・アリーナ | 日本語 | `source` |
 | `06-scans.toml` | コーデックスのスキャン対象（新しい敵など） | 英語 | `url`（Wiki） |
 | `07-misc.toml` | 装飾品・アヤタン・その他 | 日本語 | 必要なら `source` |
+| `08-somachords.toml` | ソマコード（曲） | 英語（「（ソマコード）」は付けない） | `source` |
 
 - 日本語名が確認できない場合は英語名で登録し、`note` に「日本語名未確認」と書く。
-- どのカテゴリにも合わないものは、新しいカテゴリ（`08-<id>.toml`）を作るかをユーザーに聞く。
+- どのカテゴリにも合わないものは、新しいカテゴリ（`09-<id>.toml`）を作るかをユーザーに聞く。
 
 ## 4. 登録ルールに従って振り分ける
 
@@ -50,7 +53,7 @@ WebSearch / WebFetch を使う（読み込まれていなければ ToolSearch �
 | 装備・MOD・ホノリア・シーン | **確認せずすべて登録する**（Prime 装備やオーグメント MOD も含む） |
 | スキン（Warframe・武器・コンパニオンなどのスキン全般） | **登録しない**。確認もしない |
 | スキャン | **コーデックスに登録される敵・対象だけ**登録する。Wiki の Codex 記載などで判断し、コーデックスに載るか分からないものだけユーザーに聞く |
-| アルケイン、その他（シジル・エフェメラ・装飾品・曲など） | 候補を示してユーザーに選んでもらう |
+| アルケイン、ソマコード、その他（シジル・エフェメラ・装飾品など） | 候補を示してユーザーに選んでもらう |
 
 - ルールにかかわらず、今からは入手できないもの（過去の達成者への配布や、終了したイベントの報酬など）は登録しない。
 - ユーザーに聞くものは、カテゴリごとの表（名前・入手場所/条件・根拠 URL）で示す。候補が多いときは AskUserQuestion の multiSelect を使ってもよい（1 問あたり最大 4 択なので、カテゴリ単位で絞ってから個別に確認する）。
@@ -74,7 +77,19 @@ done = false
 - `note` には必ず「<アップデート名> で追加」を入れる（後から SQL で `note LIKE '%Update 41%'` のように絞り込める）。
 - `updated` は、既存でこのフィールドを使っているカテゴリ（アルケイン）でだけ、追加した日時を入れる。
 - 値の中の `"` と `\` はエスケープする。`done = false` は必ず書く。
-- 使えるフィールドは `name` / `source` / `condition` / `required` / `url` / `note` / `updated` / `done` だけ。これ以外のキーは使わない（増やすときは `TODO/db/schema.sql` と `TODO/scripts/build.py` の変更が必要）。
+- 装備（`01-equipment.toml`）で製造が必要なものは `parts` にパーツを書く（`done` の直前）。部品構成は Wiki の `https://wiki.warframe.com/w/Module:Blueprints/data?action=raw` にある `Parts` と `Count` で確認する。名前は日本語 Wiki の「入手方法・必要材料」の表記に合わせた日本語（設計図・ニューロティック・シャーシ・システム・バレル・レシーバー・ストック・ブレード・ハンドル・リンク・トップリム・ボトムリム・ストリング・グリップなど）で、メイン設計図も「設計図」として入れる。`Count = 2` のパーツは同じ名前を 2 回書く。同じ名前でも別の装備のパーツを使うもの（例: Wrath は自身のブレードと Pride のブレードが要る）は、各項目ページの入手方法で確認して「Wrath ブレード」「Pride ブレード」のように区別する。
+- 全パーツが同じ場所で手に入るなら、入手場所は項目の `source` だけに書く。パーツによって入手場所が違うものは、違うパーツに `source` を書く（表では入手場所の列に、そのパーツの行として出る）。
+- Prime 装備は各パーツの `source` にレリックを書く。`https://wiki.warframe.com/w/Module:Void/data?action=raw` で `Vaulted` のない（現行の）レリックだけを選び、`Axi A22（レア）` のようにレアリティ（コモン / アンコモン / レア）を付け、複数あれば ` / ` でつなぐ。項目の `source` に「Voidレリック」とは書かない。
+
+  ```toml
+  parts = [
+    { name = "設計図", source = "Axi A22（レア）", done = false },
+    { name = "バレル", done = false },
+    { name = "バレル", done = false },
+  ]
+  ```
+
+- 使えるフィールドは `name` / `source` / `condition` / `required` / `url` / `note` / `updated` / `parts` / `done` だけ。これ以外のキーは使わない（増やすときは `TODO/db/schema.sql` と `TODO/scripts/build.py` の変更が必要）。
 
 ## 6. 検証して報告する
 

@@ -1,6 +1,6 @@
 """作業ブランチを main にマージし、アーティファクト用のサイトをビルドする。
 
-wf-publish スキルから呼ぶ。Claude のトークン消費を抑えるため、出力は最小限にしている。
+wd-publish スキルから呼ぶ。Claude のトークン消費を抑えるため、出力は最小限にしている。
 
     python scripts/release.py merge [--branch NAME] [--no-push]
         作業ブランチを main にマージして push する。
