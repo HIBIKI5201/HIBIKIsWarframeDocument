@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import functools
+import importlib
 import json
 import threading
 import time
@@ -19,18 +20,22 @@ from pathlib import Path
 import build
 import todo_store
 
-WATCH = [build.DATA, build.TEMPLATES, build.STATIC, build.ROOT / "db"]
+WATCH = [build.DATA, build.TEMPLATES, build.STATIC, build.ROOT / "db", Path(__file__).parent]
 LOCK = threading.Lock()  # ビルドとデータ書き込みを直列化する
 ALLOWED_HOSTS = {"localhost", "127.0.0.1"}
 
 
 def snapshot() -> dict[Path, float]:
-    return {p: p.stat().st_mtime for d in WATCH for p in d.rglob("*") if p.is_file()}
+    return {p: p.stat().st_mtime for d in WATCH for p in d.rglob("*")
+            if p.is_file() and "__pycache__" not in p.parts}
 
 
 def rebuild() -> None:
     with LOCK:
         try:
+            # scripts/ の変更を取り込む (serve.py 自身の変更は再起動が必要)
+            importlib.reload(todo_store)
+            importlib.reload(build)
             build.build()
             print(f"[{time.strftime('%H:%M:%S')}] rebuilt", flush=True)
         except Exception:
@@ -77,7 +82,8 @@ class Handler(SimpleHTTPRequestHandler):
         try:
             req = json.loads(self.rfile.read(int(self.headers.get("Content-Length") or 0)))
             with LOCK:
-                item = todo_store.update_item(build.DATA, req["category"], req["name"], req["action"])
+                item = todo_store.update_item(build.DATA, req["category"], req["name"], req["action"],
+                                               req.get("index"))
         except (todo_store.StoreError, KeyError, ValueError) as e:
             self._json(400, {"error": str(e)})
             return

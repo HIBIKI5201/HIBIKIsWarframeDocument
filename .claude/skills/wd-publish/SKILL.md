@@ -1,5 +1,5 @@
 ---
-name: wf-publish
+name: wd-publish
 description: 作業ブランチを main にマージして push する。ストーリー資料は push すると GitHub Actions が GitHub Pages に公開する。「main にマージして公開」「マージして push して」「サイトを最新にして」などの依頼で使う。
 ---
 

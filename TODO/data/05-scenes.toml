@@ -16,7 +16,7 @@ done = false
 [[items]]
 name = "冬至広場"
 source = "ステージ防衛"
-done = false
+done = true
 
 [[items]]
 name = "Melica's Laboratory"
@@ -34,28 +34,796 @@ done = false
 name = "Haunted Vesper Relay"
 source = "Aspirant Zorba（Atramentum）"
 note = "Update 42 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Pontis Tower"
 source = "Pontis Tower の Hunhow"
 note = "Update 43 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Kuva Wytch"
 source = "Pontis Tower の Hunhow（Crimson Talent）"
 note = "Update 43 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Scoria's Angel"
 source = "Pontis Tower の Hunhow（Emerald Talent）"
 note = "Update 43 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Dominion of Höllvandeim"
 source = "Amir のストア（Hex Standing）"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
+
+[[items]]
+name = "Albrecht's Archive"
+done = true
+
+[[items]]
+name = "Albrecht's Bureau"
+done = true
+
+[[items]]
+name = "Amaryn's Retreat"
+done = true
+
+[[items]]
+name = "Amphitheater"
+done = true
+
+[[items]]
+name = "Arbiter's Tribunal"
+done = true
+
+[[items]]
+name = "Archarbor"
+done = true
+
+[[items]]
+name = "Artillery Battery"
+done = true
+
+[[items]]
+name = "Basin Cay"
+done = true
+
+[[items]]
+name = "Boro Overlook"
+done = true
+
+[[items]]
+name = "Castle Town"
+done = true
+
+[[items]]
+name = "Central Mall Backroom"
+done = true
+
+[[items]]
+name = "Cetus"
+done = true
+
+[[items]]
+name = "Chamber Of The Lotus"
+done = true
+
+[[items]]
+name = "Citrine's Last Wish Factory"
+done = true
+
+[[items]]
+name = "Color Key"
+done = true
+
+[[items]]
+name = "Corpus Depository"
+done = true
+
+[[items]]
+name = "Corpus Gas City Conduit"
+done = true
+
+[[items]]
+name = "Corpus Ice Planet Wreckage"
+done = true
+
+[[items]]
+name = "Corpus Ship Bridge"
+done = true
+
+[[items]]
+name = "Corpus Ship Hangar"
+done = true
+
+[[items]]
+name = "Corpus Ship Orbital Cannon"
+done = true
+
+[[items]]
+name = "Crater Cay"
+done = true
+
+[[items]]
+name = "Cressa's Garrison"
+done = true
+
+[[items]]
+name = "Dais Cay"
+done = true
+
+[[items]]
+name = "Dante's Retreat"
+done = true
+
+[[items]]
+name = "Deck 12"
+done = true
+
+[[items]]
+name = "Deepmines Caves"
+done = true
+
+[[items]]
+name = "Deepmines Forward Base"
+done = true
+
+[[items]]
+name = "Deepmines Lab"
+done = true
+
+[[items]]
+name = "Deepmines Nutrient Plant"
+done = true
+
+[[items]]
+name = "Deepmines"
+done = true
+
+[[items]]
+name = "Deimos Breakthrough"
+done = true
+
+[[items]]
+name = "Deimos Cambion Drift"
+done = true
+
+[[items]]
+name = "Deimos Catacombs"
+done = true
+
+[[items]]
+name = "Deimos Cenote"
+done = true
+
+[[items]]
+name = "Deimos Chamber"
+done = true
+
+[[items]]
+name = "Deimos Crypt"
+done = true
+
+[[items]]
+name = "Deimos Depths"
+done = true
+
+[[items]]
+name = "Deimos Downfall"
+done = true
+
+[[items]]
+name = "Deimos Forsaken"
+done = true
+
+[[items]]
+name = "Deimos Heart"
+done = true
+
+[[items]]
+name = "Deimos Membrane"
+done = true
+
+[[items]]
+name = "Deimos Necralisk"
+done = true
+
+[[items]]
+name = "Deimos Tunnels"
+done = true
+
+[[items]]
+name = "Deimos Underground"
+done = true
+
+[[items]]
+name = "Deimos Vault"
+done = true
+
+[[items]]
+name = "Deimos Verge"
+done = true
+
+[[items]]
+name = "Dog Days Night"
+done = true
+
+[[items]]
+name = "Dog Days"
+done = true
+
+[[items]]
+name = "Duviri Throne Room"
+done = true
+
+[[items]]
+name = "Ergo's Boardroom"
+done = true
+
+[[items]]
+name = "Fabrica Anatomica"
+done = true
+
+[[items]]
+name = "Five Fates"
+done = true
+
+[[items]]
+name = "Fort Tennadis"
+done = true
+
+[[items]]
+name = "Fortuna"
+done = true
+
+[[items]]
+name = "Fragmented Gorge"
+done = true
+
+[[items]]
+name = "Gas City Alad's Laboratory"
+done = true
+
+[[items]]
+name = "Gas City Central Drop"
+done = true
+
+[[items]]
+name = "Gas City Cloud Vista"
+done = true
+
+[[items]]
+name = "Gas City Corridors"
+done = true
+
+[[items]]
+name = "Gas City Dead Exit"
+done = true
+
+[[items]]
+name = "Gas City Element Distribution"
+done = true
+
+[[items]]
+name = "Gas City Elemental Refinement"
+done = true
+
+[[items]]
+name = "Gas City Lifts"
+done = true
+
+[[items]]
+name = "Gas City Lobby"
+done = true
+
+[[items]]
+name = "Gas City Lower Foyer"
+done = true
+
+[[items]]
+name = "Gas City Regulators"
+done = true
+
+[[items]]
+name = "Gas City Upper Logistics"
+done = true
+
+[[items]]
+name = "Gas City Walkway"
+done = true
+
+[[items]]
+name = "Granum Void"
+done = true
+
+[[items]]
+name = "Grineer Forest Factory"
+done = true
+
+[[items]]
+name = "Grineer Forest Industry"
+done = true
+
+[[items]]
+name = "Grineer Forest Water Pump"
+done = true
+
+[[items]]
+name = "Grineer Galleon Cargo"
+done = true
+
+[[items]]
+name = "Grineer Sealab Centrifuge"
+done = true
+
+[[items]]
+name = "Grineer Settlement Artillery"
+done = true
+
+[[items]]
+name = "Grineer Settlement Reactor"
+done = true
+
+[[items]]
+name = "Grineer Shipyards Manufactory"
+done = true
+
+[[items]]
+name = "Harrow's Temple"
+done = true
+
+[[items]]
+name = "Höllvania Central Mall Subway"
+done = true
+
+[[items]]
+name = "Höllvanian Collapsed Underground"
+done = true
+
+[[items]]
+name = "Höllvanian Historic Quarter In Spring"
+done = true
+
+[[items]]
+name = "Höllvanian Intersection In Winter"
+done = true
+
+[[items]]
+name = "Höllvanian Old Town In Fall"
+done = true
+
+[[items]]
+name = "Höllvanian Subway Junction"
+done = true
+
+[[items]]
+name = "Höllvanian Tenements In Summer"
+done = true
+
+[[items]]
+name = "Höllvanian Terrace In Summer"
+done = true
+
+[[items]]
+name = "Hunhow's Chamber"
+done = true
+
+[[items]]
+name = "Hunhow's Datascape"
+done = true
+
+[[items]]
+name = "Hydroid's Relay"
+done = true
+
+[[items]]
+name = "Inaros Tomb"
+done = true
+
+[[items]]
+name = "Infested Ship Bridge"
+done = true
+
+[[items]]
+name = "Infested Ship Hologram"
+done = true
+
+[[items]]
+name = "Iron Wake"
+done = true
+
+[[items]]
+name = "Isleweaver Cloud Islet"
+done = true
+
+[[items]]
+name = "Isleweaver Drift Atoll"
+done = true
+
+[[items]]
+name = "Kullervo's Hold"
+done = true
+
+[[items]]
+name = "Kuva Fortress Crevice"
+done = true
+
+[[items]]
+name = "Kuva Throne"
+done = true
+
+[[items]]
+name = "La Cathédrale"
+done = true
+
+[[items]]
+name = "Lavo's Playplace"
+done = true
+
+[[items]]
+name = "Little Cay"
+done = true
+
+[[items]]
+name = "Lua Balcony"
+done = true
+
+[[items]]
+name = "Lua Circulus"
+done = true
+
+[[items]]
+name = "Lua Containment"
+done = true
+
+[[items]]
+name = "Lua Nursery"
+done = true
+
+[[items]]
+name = "Lyon's Chrysalith Date"
+done = true
+
+[[items]]
+name = "Lyon's Cold Below Date"
+done = true
+
+[[items]]
+name = "Lyon's Lua Circulus Date"
+done = true
+
+[[items]]
+name = "Lyon's Room"
+done = true
+
+[[items]]
+name = "Lyon's Temple Date"
+done = true
+
+[[items]]
+name = "Lyon's Umbra Courtyard Date"
+done = true
+
+[[items]]
+name = "Mainland Hamlets"
+done = true
+
+[[items]]
+name = "Makvos Cannon"
+done = true
+
+[[items]]
+name = "Marie's Amphitheater Date"
+done = true
+
+[[items]]
+name = "Marie's Cetus Date"
+done = true
+
+[[items]]
+name = "Marie's Drifter Camp Date"
+done = true
+
+[[items]]
+name = "Marie's Room"
+done = true
+
+[[items]]
+name = "Marie's Sanctum Date"
+done = true
+
+[[items]]
+name = "Marie's Ventkid Clubhouse Date"
+done = true
+
+[[items]]
+name = "Mycona Colony"
+done = true
+
+[[items]]
+name = "Netherbarrow Region"
+done = true
+
+[[items]]
+name = "Octopede Arena"
+done = true
+
+[[items]]
+name = "Onkko's Command Post"
+done = true
+
+[[items]]
+name = "Orb Vallis"
+done = true
+
+[[items]]
+name = "Orbit Arcade"
+done = true
+
+[[items]]
+name = "Orbiter"
+done = true
+
+[[items]]
+name = "Orokin Derelict Plaza"
+done = true
+
+[[items]]
+name = "Orokin Tower Extraction"
+done = true
+
+[[items]]
+name = "Orowyrm Arena"
+done = true
+
+[[items]]
+name = "Perita Manifestation"
+done = true
+
+[[items]]
+name = "Plains Of Eidolon"
+done = true
+
+[[items]]
+name = "Praghasa Throne Room"
+done = true
+
+[[items]]
+name = "Roathe's Duviri Throneroom Date"
+done = true
+
+[[items]]
+name = "Roathe's Lua Containment Date"
+done = true
+
+[[items]]
+name = "Roathe's Murex Date"
+done = true
+
+[[items]]
+name = "Roathe's Orokin Ruins Date"
+done = true
+
+[[items]]
+name = "Roathe's Zariman Park Date"
+done = true
+
+[[items]]
+name = "Sanctuary Conduit"
+done = true
+
+[[items]]
+name = "Sanctum Anatomica"
+done = true
+
+[[items]]
+name = "Saturn Six"
+done = true
+
+[[items]]
+name = "Scholar's Landing"
+done = true
+
+[[items]]
+name = "Sentient Altar"
+done = true
+
+[[items]]
+name = "Sentient Balcony"
+done = true
+
+[[items]]
+name = "Sentient Basin"
+done = true
+
+[[items]]
+name = "Sentient Concourse"
+done = true
+
+[[items]]
+name = "Sentient Fountain"
+done = true
+
+[[items]]
+name = "Silver Grove Shrine"
+done = true
+
+[[items]]
+name = "Stalker's Lair"
+done = true
+
+[[items]]
+name = "Suda's Datascape"
+done = true
+
+[[items]]
+name = "Tech Titan Electronics Store"
+done = true
+
+[[items]]
+name = "Technocyte Coda Stadium"
+done = true
+
+[[items]]
+name = "Teshin's Cave"
+done = true
+
+[[items]]
+name = "The Abandoned Vessel"
+done = true
+
+[[items]]
+name = "The Cold Below"
+done = true
+
+[[items]]
+name = "The Drifter Camp"
+done = true
+
+[[items]]
+name = "The Teacher Dojo"
+done = true
+
+[[items]]
+name = "The Teacher Earth"
+done = true
+
+[[items]]
+name = "The Teacher Reactor"
+done = true
+
+[[items]]
+name = "The Teacher Ship"
+done = true
+
+[[items]]
+name = "The War Within Choice"
+done = true
+
+[[items]]
+name = "Umbra's Courtyard"
+done = true
+
+[[items]]
+name = "Undercroft Dax Camp"
+done = true
+
+[[items]]
+name = "Undercroft Lodging"
+done = true
+
+[[items]]
+name = "Undercroft Lunaro"
+done = true
+
+[[items]]
+name = "Undercroft Opera"
+done = true
+
+[[items]]
+name = "Undercroft Outskirts"
+done = true
+
+[[items]]
+name = "Undercroft Park"
+done = true
+
+[[items]]
+name = "Undercroft Township"
+done = true
+
+[[items]]
+name = "Upperhaven"
+done = true
+
+[[items]]
+name = "Veil's Binding"
+done = true
+
+[[items]]
+name = "Veilbreak Factory"
+done = true
+
+[[items]]
+name = "Veilbreak Forest"
+done = true
+
+[[items]]
+name = "Veilbreak Murex"
+done = true
+
+[[items]]
+name = "Ventkids Clubhouse"
+done = true
+
+[[items]]
+name = "Winding Isles"
+done = true
+
+[[items]]
+name = "World-Seeder"
+done = true
+
+[[items]]
+name = "Zariman Agri-Zone"
+done = true
+
+[[items]]
+name = "Zariman Albrecht Park"
+done = true
+
+[[items]]
+name = "Zariman Amphitheatre"
+done = true
+
+[[items]]
+name = "Zariman Angel Roost"
+done = true
+
+[[items]]
+name = "Zariman Brig"
+done = true
+
+[[items]]
+name = "Zariman Cargo Bay"
+done = true
+
+[[items]]
+name = "Zariman Chrysalith"
+done = true
+
+[[items]]
+name = "Zariman Docking Bay"
+done = true
+
+[[items]]
+name = "Zariman Dormizone"
+done = true
+
+[[items]]
+name = "Zariman Habitation Zone"
+done = true
+
+[[items]]
+name = "Zariman Hall Of Legems"
+done = true
+
+[[items]]
+name = "Zariman Lunaro Court"
+done = true
+
+[[items]]
+name = "Zariman Reliquary Drive"
+done = true
+
+[[items]]
+name = "Zariman Schoolyard"
+done = true
+
+[[items]]
+name = "Zariman Serenity Levels"
+done = true

@@ -5,58 +5,124 @@ order = 1
 
 [[items]]
 name = "Wrath"
+source = "スコリアの天使（天王星プロキシマ） / ポンティス・タワー（クリムゾン・タレント）"
+parts = [
+  { name = "設計図", done = true },
+  { name = "Wrath ブレード", done = false },
+  { name = "Pride ブレード", source = "クバの魔女（天王星プロキシマ） / ポンティス・タワー（エメラルド・タレント）", done = true },
+  { name = "ハンドル", done = true },
+]
 done = false
 
 [[items]]
 name = "Afentis Prime"
+parts = [
+  { name = "設計図", source = "Axi A22（レア）", done = false },
+  { name = "バレル", source = "Neo C10（アンコモン）", done = true },
+  { name = "ブレード", source = "Meso A12（レア）", done = true },
+  { name = "ハンドル", source = "Meso D9（コモン）", done = true },
+]
 done = false
 
 [[items]]
 name = "Athodai Prime"
+parts = [
+  { name = "設計図", source = "Meso K9（コモン）", done = true },
+  { name = "バレル", source = "Neo A16（レア）", done = false },
+  { name = "レシーバー", source = "Axi P10（アンコモン）", done = false },
+]
 done = false
 
 [[items]]
 name = "Styanax Prime"
+parts = [
+  { name = "設計図", source = "Axi A21（コモン） / Neo V13（コモン）", done = false },
+  { name = "ニューロティック", source = "Lith S18（レア）", done = true },
+  { name = "シャーシ", source = "Meso Y2（アンコモン）", done = false },
+  { name = "システム", source = "Neo C10（アンコモン）", done = true },
+]
 done = false
 
 [[items]]
 name = "Voruna Prime"
+parts = [
+  { name = "設計図", source = "Axi V14（レア）", done = true },
+  { name = "ニューロティック", source = "Meso A12（アンコモン） / Meso D8（アンコモン）", done = true },
+  { name = "シャーシ", source = "Axi A21（アンコモン）", done = false },
+  { name = "システム", source = "Lith V11（レア） / Meso V17（レア）", done = true },
+]
 done = false
 
 [[items]]
 name = "Narin"
 source = "ザリマンのドロップ / Cephalon Melica（Entropic Kuva）"
 note = "Update 44 で追加 / 日本語名未確認"
+parts = [
+  { name = "設計図", done = false },
+  { name = "ニューロティック", done = false },
+  { name = "シャーシ", done = false },
+  { name = "システム", done = false },
+]
 done = false
 
 [[items]]
 name = "Nunchasa"
 source = "Cephalon Melica（Entropic Kuva）"
 note = "Update 44 で追加 / 日本語名未確認"
-done = false
+parts = [
+  { name = "設計図", done = true },
+  { name = "トップリム", done = true },
+  { name = "ボトムリム", done = true },
+  { name = "ストリング", done = true },
+  { name = "グリップ", done = true },
+]
+done = true
 
 [[items]]
 name = "Aksondol"
 source = "Cephalon Melica（Entropic Kuva）"
 note = "Update 44 で追加 / 日本語名未確認"
-done = false
+parts = [
+  { name = "設計図", done = true },
+  { name = "バレル", done = true },
+  { name = "バレル", done = true },
+  { name = "レシーバー", done = true },
+  { name = "レシーバー", done = true },
+  { name = "リンク", done = true },
+]
+done = true
 
 [[items]]
 name = "Citrine Prime"
-source = "Voidレリック"
 note = "Update 44 で追加 / 日本語名未確認"
+parts = [
+  { name = "設計図", source = "Meso C11（レア）", done = false },
+  { name = "ニューロティック", source = "Axi C12（レア）", done = false },
+  { name = "シャーシ", source = "Neo C11（コモン）", done = false },
+  { name = "システム", source = "Lith S19（アンコモン）", done = false },
+]
 done = false
 
 [[items]]
 name = "Steflos Prime"
-source = "Voidレリック"
 note = "Update 44 で追加 / 日本語名未確認"
+parts = [
+  { name = "設計図", source = "Neo Y2（アンコモン）", done = false },
+  { name = "バレル", source = "Axi S21（レア）", done = false },
+  { name = "レシーバー", source = "Lith A13（コモン）", done = false },
+  { name = "ストック", source = "Meso D9（アンコモン）", done = false },
+]
 done = false
 
 [[items]]
 name = "Corufell Prime"
-source = "Voidレリック"
 note = "Update 44 で追加 / 日本語名未確認"
+parts = [
+  { name = "設計図", source = "Meso V17（コモン）", done = false },
+  { name = "ストック", source = "Lith C15（コモン）", done = true },
+  { name = "レシーバー", source = "Neo C10（レア）", done = false },
+  { name = "ハンドル", source = "Axi C12（アンコモン）", done = true },
+]
 done = false
 
 [[items]]
@@ -102,55 +168,3224 @@ note = "Update 43 で追加 / 日本語名未確認"
 done = true
 
 [[items]]
-name = "Vectis Incarnon Genesis"
-source = "Steel Path サーキット / Cavalero"
-note = "Update 43 で追加 / 日本語名未確認"
+name = "Ash"
 done = true
 
 [[items]]
-name = "Stug Incarnon Genesis"
-source = "Steel Path サーキット / Cavalero"
-note = "Update 43 で追加 / 日本語名未確認"
+name = "Ash Prime"
 done = true
 
 [[items]]
-name = "Ballistica Incarnon Genesis"
-source = "Steel Path サーキット / Cavalero"
-note = "Update 43 で追加 / 日本語名未確認"
+name = "Atlas"
 done = true
 
 [[items]]
-name = "Destreza Incarnon Genesis"
-source = "Steel Path サーキット / Cavalero"
-note = "Update 43 で追加 / 日本語名未確認"
+name = "Atlas Prime"
 done = true
 
 [[items]]
-name = "Obex Incarnon Genesis"
-source = "Steel Path サーキット / Cavalero"
-note = "Update 43 で追加 / 日本語名未確認"
+name = "Banshee"
 done = true
 
 [[items]]
-name = "Vena"
-source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
-note = "Update 43 で追加 / 日本語名未確認"
-done = false
+name = "Banshee Prime"
+done = true
 
 [[items]]
-name = "Ryoku"
-source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
-note = "Update 43 で追加 / 日本語名未確認"
-done = false
+name = "Baruuk"
+done = true
 
 [[items]]
-name = "Latrox Une"
-source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
-note = "Update 43 で追加 / 日本語名未確認"
-done = false
+name = "Baruuk Prime"
+done = true
 
 [[items]]
-name = "Jarka Lar"
-source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
-note = "Update 43 で追加 / 日本語名未確認"
-done = false
+name = "Bonewidow"
+done = true
+
+[[items]]
+name = "Caliban"
+done = true
+
+[[items]]
+name = "Caliban Prime"
+done = true
+
+[[items]]
+name = "Chroma"
+done = true
+
+[[items]]
+name = "Chroma Prime"
+done = true
+
+[[items]]
+name = "Citrine"
+done = true
+
+[[items]]
+name = "Cyte-09"
+done = true
+
+[[items]]
+name = "Dagath"
+done = true
+
+[[items]]
+name = "Dante"
+done = true
+
+[[items]]
+name = "Ember"
+done = true
+
+[[items]]
+name = "Ember Prime"
+done = true
+
+[[items]]
+name = "Equinox"
+done = true
+
+[[items]]
+name = "Equinox Prime"
+done = true
+
+[[items]]
+name = "Excalibur"
+done = true
+
+[[items]]
+name = "Excalibur Umbra"
+done = true
+
+[[items]]
+name = "Frost"
+done = true
+
+[[items]]
+name = "Frost Prime"
+done = true
+
+[[items]]
+name = "Gara"
+done = true
+
+[[items]]
+name = "Gara Prime"
+done = true
+
+[[items]]
+name = "Garuda"
+done = true
+
+[[items]]
+name = "Garuda Prime"
+done = true
+
+[[items]]
+name = "Gauss"
+done = true
+
+[[items]]
+name = "Gauss Prime"
+done = true
+
+[[items]]
+name = "Grendel"
+done = true
+
+[[items]]
+name = "Grendel Prime"
+done = true
+
+[[items]]
+name = "Gyre"
+done = true
+
+[[items]]
+name = "Gyre Prime"
+done = true
+
+[[items]]
+name = "Harrow"
+done = true
+
+[[items]]
+name = "Harrow Prime"
+done = true
+
+[[items]]
+name = "Hildryn"
+done = true
+
+[[items]]
+name = "Hildryn Prime"
+done = true
+
+[[items]]
+name = "Hydroid"
+done = true
+
+[[items]]
+name = "Hydroid Prime"
+done = true
+
+[[items]]
+name = "Inaros"
+done = true
+
+[[items]]
+name = "Inaros Prime"
+done = true
+
+[[items]]
+name = "Ivara"
+done = true
+
+[[items]]
+name = "Ivara Prime"
+done = true
+
+[[items]]
+name = "Jade"
+done = true
+
+[[items]]
+name = "Khora"
+done = true
+
+[[items]]
+name = "Khora Prime"
+done = true
+
+[[items]]
+name = "Koumei"
+done = true
+
+[[items]]
+name = "Kullervo"
+done = true
+
+[[items]]
+name = "Lavos"
+done = true
+
+[[items]]
+name = "Lavos Prime"
+done = true
+
+[[items]]
+name = "Limbo"
+done = true
+
+[[items]]
+name = "Limbo Prime"
+done = true
+
+[[items]]
+name = "Loki"
+done = true
+
+[[items]]
+name = "Loki Prime"
+done = true
+
+[[items]]
+name = "Mag"
+done = true
+
+[[items]]
+name = "Mag Prime"
+done = true
+
+[[items]]
+name = "Mesa"
+done = true
+
+[[items]]
+name = "Mesa Prime"
+done = true
+
+[[items]]
+name = "Mirage"
+done = true
+
+[[items]]
+name = "Mirage Prime"
+done = true
+
+[[items]]
+name = "Nekros"
+done = true
+
+[[items]]
+name = "Nekros Prime"
+done = true
+
+[[items]]
+name = "Nezha"
+done = true
+
+[[items]]
+name = "Nezha Prime"
+done = true
+
+[[items]]
+name = "Nidus"
+done = true
+
+[[items]]
+name = "Nidus Prime"
+done = true
+
+[[items]]
+name = "Nokko"
+done = true
+
+[[items]]
+name = "Nova"
+done = true
+
+[[items]]
+name = "Nova Prime"
+done = true
+
+[[items]]
+name = "Nyx"
+done = true
+
+[[items]]
+name = "Nyx Prime"
+done = true
+
+[[items]]
+name = "Oberon"
+done = true
+
+[[items]]
+name = "Oberon Prime"
+done = true
+
+[[items]]
+name = "Octavia"
+done = true
+
+[[items]]
+name = "Octavia Prime"
+done = true
+
+[[items]]
+name = "Oraxia"
+done = true
+
+[[items]]
+name = "Protea"
+done = true
+
+[[items]]
+name = "Protea Prime"
+done = true
+
+[[items]]
+name = "Qorvex"
+done = true
+
+[[items]]
+name = "Revenant"
+done = true
+
+[[items]]
+name = "Revenant Prime"
+done = true
+
+[[items]]
+name = "Rhino"
+done = true
+
+[[items]]
+name = "Rhino Prime"
+done = true
+
+[[items]]
+name = "Saryn"
+done = true
+
+[[items]]
+name = "Saryn Prime"
+done = true
+
+[[items]]
+name = "Sevagoth"
+done = true
+
+[[items]]
+name = "Sevagoth Prime"
+done = true
+
+[[items]]
+name = "Styanax"
+done = true
+
+[[items]]
+name = "Temple"
+done = true
+
+[[items]]
+name = "Titania"
+done = true
+
+[[items]]
+name = "Titania Prime"
+done = true
+
+[[items]]
+name = "Trinity"
+done = true
+
+[[items]]
+name = "Trinity Prime"
+done = true
+
+[[items]]
+name = "Uriel"
+done = true
+
+[[items]]
+name = "Valkyr"
+done = true
+
+[[items]]
+name = "Valkyr Prime"
+done = true
+
+[[items]]
+name = "Vauban"
+done = true
+
+[[items]]
+name = "Vauban Prime"
+done = true
+
+[[items]]
+name = "Voidrig"
+done = true
+
+[[items]]
+name = "Volt"
+done = true
+
+[[items]]
+name = "Volt Prime"
+done = true
+
+[[items]]
+name = "Voruna"
+done = true
+
+[[items]]
+name = "Wisp"
+done = true
+
+[[items]]
+name = "Wisp Prime"
+done = true
+
+[[items]]
+name = "Wukong"
+done = true
+
+[[items]]
+name = "Wukong Prime"
+done = true
+
+[[items]]
+name = "Xaku"
+done = true
+
+[[items]]
+name = "Xaku Prime"
+done = true
+
+[[items]]
+name = "Yareli"
+done = true
+
+[[items]]
+name = "Yareli Prime"
+done = true
+
+[[items]]
+name = "Zephyr"
+done = true
+
+[[items]]
+name = "Zephyr Prime"
+done = true
+
+[[items]]
+name = "Acceltra"
+done = true
+
+[[items]]
+name = "Acceltra Prime"
+done = true
+
+[[items]]
+name = "Aeolak"
+done = true
+
+[[items]]
+name = "Afentis"
+done = true
+
+[[items]]
+name = "Alternox"
+done = true
+
+[[items]]
+name = "Alternox Prime"
+done = true
+
+[[items]]
+name = "Ambassador"
+done = true
+
+[[items]]
+name = "Amprex"
+done = true
+
+[[items]]
+name = "Arca Plasmor"
+done = true
+
+[[items]]
+name = "Argonak"
+done = true
+
+[[items]]
+name = "Astilla"
+done = true
+
+[[items]]
+name = "Astilla Prime"
+done = true
+
+[[items]]
+name = "Attica"
+done = true
+
+[[items]]
+name = "Ax-52"
+done = true
+
+[[items]]
+name = "Basmu"
+done = true
+
+[[items]]
+name = "Battacor"
+done = true
+
+[[items]]
+name = "Baza"
+done = true
+
+[[items]]
+name = "Baza Prime"
+done = true
+
+[[items]]
+name = "Boar"
+done = true
+
+[[items]]
+name = "Boar Prime"
+done = true
+
+[[items]]
+name = "Boltor"
+done = true
+
+[[items]]
+name = "Boltor Prime"
+done = true
+
+[[items]]
+name = "Braton"
+done = true
+
+[[items]]
+name = "Braton Prime"
+done = true
+
+[[items]]
+name = "Braton Vandal"
+done = true
+
+[[items]]
+name = "Bubonico"
+done = true
+
+[[items]]
+name = "Burston"
+done = true
+
+[[items]]
+name = "Burston Prime"
+done = true
+
+[[items]]
+name = "Buzlok"
+done = true
+
+[[items]]
+name = "Carmine Penta"
+done = true
+
+[[items]]
+name = "Cedo"
+done = true
+
+[[items]]
+name = "Cedo Prime"
+done = true
+
+[[items]]
+name = "Cernos"
+done = true
+
+[[items]]
+name = "Cernos Prime"
+done = true
+
+[[items]]
+name = "Cinta"
+done = true
+
+[[items]]
+name = "Coda Bassocyst"
+done = true
+
+[[items]]
+name = "Coda Hema"
+done = true
+
+[[items]]
+name = "Coda Sporothrix"
+done = true
+
+[[items]]
+name = "Coda Synapse"
+done = true
+
+[[items]]
+name = "Convectrix"
+done = true
+
+[[items]]
+name = "Corinth"
+done = true
+
+[[items]]
+name = "Corinth Prime"
+done = true
+
+[[items]]
+name = "Daikyu"
+done = true
+
+[[items]]
+name = "Daikyu Prime"
+done = true
+
+[[items]]
+name = "Dera"
+done = true
+
+[[items]]
+name = "Dera Vandal"
+done = true
+
+[[items]]
+name = "Dex Sybaris"
+done = true
+
+[[items]]
+name = "Drakgoon"
+done = true
+
+[[items]]
+name = "Dread"
+done = true
+
+[[items]]
+name = "Efv-5 Jupiter"
+done = true
+
+[[items]]
+name = "Evensong"
+done = true
+
+[[items]]
+name = "Exergis"
+done = true
+
+[[items]]
+name = "Felarx"
+done = true
+
+[[items]]
+name = "Ferrox"
+done = true
+
+[[items]]
+name = "Flux Rifle"
+done = true
+
+[[items]]
+name = "Fulmin"
+done = true
+
+[[items]]
+name = "Fulmin Prime"
+done = true
+
+[[items]]
+name = "Glaxion"
+done = true
+
+[[items]]
+name = "Glaxion Vandal"
+done = true
+
+[[items]]
+name = "Gorgon"
+done = true
+
+[[items]]
+name = "Gorgon Wraith"
+done = true
+
+[[items]]
+name = "Gotva Prime"
+done = true
+
+[[items]]
+name = "Grakata"
+done = true
+
+[[items]]
+name = "Grinlok"
+done = true
+
+[[items]]
+name = "Haalvu"
+done = true
+
+[[items]]
+name = "Harpak"
+done = true
+
+[[items]]
+name = "Hek"
+done = true
+
+[[items]]
+name = "Hema"
+done = true
+
+[[items]]
+name = "Higasa"
+done = true
+
+[[items]]
+name = "Hind"
+done = true
+
+[[items]]
+name = "Ignis"
+done = true
+
+[[items]]
+name = "Ignis Wraith"
+done = true
+
+[[items]]
+name = "Javlok"
+done = true
+
+[[items]]
+name = "Karak"
+done = true
+
+[[items]]
+name = "Karak Wraith"
+done = true
+
+[[items]]
+name = "Kohm"
+done = true
+
+[[items]]
+name = "Komorex"
+done = true
+
+[[items]]
+name = "Kuva Bramma"
+done = true
+
+[[items]]
+name = "Kuva Chakkhurr"
+done = true
+
+[[items]]
+name = "Kuva Drakgoon"
+done = true
+
+[[items]]
+name = "Kuva Hek"
+done = true
+
+[[items]]
+name = "Kuva Hind"
+done = true
+
+[[items]]
+name = "Kuva Karak"
+done = true
+
+[[items]]
+name = "Kuva Kohm"
+done = true
+
+[[items]]
+name = "Kuva Ogris"
+done = true
+
+[[items]]
+name = "Kuva Quartakk"
+done = true
+
+[[items]]
+name = "Kuva Sobek"
+done = true
+
+[[items]]
+name = "Kuva Tonkor"
+done = true
+
+[[items]]
+name = "Kuva Zarr"
+done = true
+
+[[items]]
+name = "Lanka"
+done = true
+
+[[items]]
+name = "Latron"
+done = true
+
+[[items]]
+name = "Latron Prime"
+done = true
+
+[[items]]
+name = "Latron Wraith"
+done = true
+
+[[items]]
+name = "Lenz"
+done = true
+
+[[items]]
+name = "Miter"
+done = true
+
+[[items]]
+name = "Mk1-Braton"
+done = true
+
+[[items]]
+name = "Mk1-Paris"
+done = true
+
+[[items]]
+name = "Mk1-Strun"
+done = true
+
+[[items]]
+name = "Mutalist Cernos"
+done = true
+
+[[items]]
+name = "Mutalist Quanta"
+done = true
+
+[[items]]
+name = "Nagantaka"
+done = true
+
+[[items]]
+name = "Nagantaka Prime"
+done = true
+
+[[items]]
+name = "Nataruk"
+done = true
+
+[[items]]
+name = "Ogris"
+done = true
+
+[[items]]
+name = "Opticor"
+done = true
+
+[[items]]
+name = "Opticor Vandal"
+done = true
+
+[[items]]
+name = "Panthera"
+done = true
+
+[[items]]
+name = "Panthera Prime"
+done = true
+
+[[items]]
+name = "Paracyst"
+done = true
+
+[[items]]
+name = "Paris"
+done = true
+
+[[items]]
+name = "Paris Prime"
+done = true
+
+[[items]]
+name = "Penta"
+done = true
+
+[[items]]
+name = "Perigale"
+done = true
+
+[[items]]
+name = "Perigale Prime"
+done = true
+
+[[items]]
+name = "Phage"
+done = true
+
+[[items]]
+name = "Phantasma"
+done = true
+
+[[items]]
+name = "Phantasma Prime"
+done = true
+
+[[items]]
+name = "Phenmor"
+done = true
+
+[[items]]
+name = "Prisma Gorgon"
+done = true
+
+[[items]]
+name = "Prisma Grakata"
+done = true
+
+[[items]]
+name = "Prisma Grinlok"
+done = true
+
+[[items]]
+name = "Prisma Lenz"
+done = true
+
+[[items]]
+name = "Prisma Tetra"
+done = true
+
+[[items]]
+name = "Proboscis Cernos"
+done = true
+
+[[items]]
+name = "Purgator 1"
+done = true
+
+[[items]]
+name = "Quanta"
+done = true
+
+[[items]]
+name = "Quanta Vandal"
+done = true
+
+[[items]]
+name = "Quartakk"
+done = true
+
+[[items]]
+name = "Quellor"
+done = true
+
+[[items]]
+name = "Rakta Cernos"
+done = true
+
+[[items]]
+name = "Rauta"
+done = true
+
+[[items]]
+name = "Reconifex"
+done = true
+
+[[items]]
+name = "Rubico"
+done = true
+
+[[items]]
+name = "Rubico Prime"
+done = true
+
+[[items]]
+name = "Sancti Tigris"
+done = true
+
+[[items]]
+name = "Scourge"
+done = true
+
+[[items]]
+name = "Scourge Prime"
+done = true
+
+[[items]]
+name = "Secura Penta"
+done = true
+
+[[items]]
+name = "Shedu"
+done = true
+
+[[items]]
+name = "Simulor"
+done = true
+
+[[items]]
+name = "Sirocco"
+done = true
+
+[[items]]
+name = "Snipetron"
+done = true
+
+[[items]]
+name = "Snipetron Vandal"
+done = true
+
+[[items]]
+name = "Sobek"
+done = true
+
+[[items]]
+name = "Soma"
+done = true
+
+[[items]]
+name = "Soma Prime"
+done = true
+
+[[items]]
+name = "Sporothrix"
+done = true
+
+[[items]]
+name = "Stahlta"
+done = true
+
+[[items]]
+name = "Steflos"
+done = true
+
+[[items]]
+name = "Stradavar"
+done = true
+
+[[items]]
+name = "Stradavar Prime"
+done = true
+
+[[items]]
+name = "Strun"
+done = true
+
+[[items]]
+name = "Strun Prime"
+done = true
+
+[[items]]
+name = "Strun Wraith"
+done = true
+
+[[items]]
+name = "Supra"
+done = true
+
+[[items]]
+name = "Supra Vandal"
+done = true
+
+[[items]]
+name = "Sybaris"
+done = true
+
+[[items]]
+name = "Sybaris Prime"
+done = true
+
+[[items]]
+name = "Synapse"
+done = true
+
+[[items]]
+name = "Synoid Simulor"
+done = true
+
+[[items]]
+name = "Telos Boltor"
+done = true
+
+[[items]]
+name = "Tenet Arca Plasmor"
+done = true
+
+[[items]]
+name = "Tenet Envoy"
+done = true
+
+[[items]]
+name = "Tenet Ferrox"
+done = true
+
+[[items]]
+name = "Tenet Flux Rifle"
+done = true
+
+[[items]]
+name = "Tenet Glaxion"
+done = true
+
+[[items]]
+name = "Tenet Tetra"
+done = true
+
+[[items]]
+name = "Tenora"
+done = true
+
+[[items]]
+name = "Tenora Prime"
+done = true
+
+[[items]]
+name = "Tetra"
+done = true
+
+[[items]]
+name = "Thornbak"
+done = true
+
+[[items]]
+name = "Tiberon"
+done = true
+
+[[items]]
+name = "Tiberon Prime"
+done = true
+
+[[items]]
+name = "Tigris"
+done = true
+
+[[items]]
+name = "Tigris Prime"
+done = true
+
+[[items]]
+name = "Tonkor"
+done = true
+
+[[items]]
+name = "Torid"
+done = true
+
+[[items]]
+name = "Trumna"
+done = true
+
+[[items]]
+name = "Trumna Prime"
+done = true
+
+[[items]]
+name = "Vadarya Prime"
+done = true
+
+[[items]]
+name = "Vaykor Hek"
+done = true
+
+[[items]]
+name = "Vectis"
+done = true
+
+[[items]]
+name = "Vectis Prime"
+done = true
+
+[[items]]
+name = "Veldt"
+done = true
+
+[[items]]
+name = "Vinquibus"
+done = true
+
+[[items]]
+name = "Vulkar"
+done = true
+
+[[items]]
+name = "Vulkar Wraith"
+done = true
+
+[[items]]
+name = "Zarr"
+done = true
+
+[[items]]
+name = "Zenith"
+done = true
+
+[[items]]
+name = "Zhuge"
+done = true
+
+[[items]]
+name = "Zhuge Prime"
+done = true
+
+[[items]]
+name = "Acrid"
+done = true
+
+[[items]]
+name = "Aegrit"
+done = true
+
+[[items]]
+name = "Afuris"
+done = true
+
+[[items]]
+name = "Afuris Prime"
+done = true
+
+[[items]]
+name = "Akarius"
+done = true
+
+[[items]]
+name = "Akarius Prime"
+done = true
+
+[[items]]
+name = "Akbolto"
+done = true
+
+[[items]]
+name = "Akbolto Prime"
+done = true
+
+[[items]]
+name = "Akbronco"
+done = true
+
+[[items]]
+name = "Akbronco Prime"
+done = true
+
+[[items]]
+name = "Akjagara"
+done = true
+
+[[items]]
+name = "Akjagara Prime"
+done = true
+
+[[items]]
+name = "Aklato"
+done = true
+
+[[items]]
+name = "Aklex"
+done = true
+
+[[items]]
+name = "Aklex Prime"
+done = true
+
+[[items]]
+name = "Akmagnus"
+done = true
+
+[[items]]
+name = "Akmagnus Prime"
+done = true
+
+[[items]]
+name = "Aksomati"
+done = true
+
+[[items]]
+name = "Aksomati Prime"
+done = true
+
+[[items]]
+name = "Akstiletto"
+done = true
+
+[[items]]
+name = "Akstiletto Prime"
+done = true
+
+[[items]]
+name = "Akvasto"
+done = true
+
+[[items]]
+name = "Akvasto Prime"
+done = true
+
+[[items]]
+name = "Akzani"
+done = true
+
+[[items]]
+name = "Angstrum"
+done = true
+
+[[items]]
+name = "Arca Scisco"
+done = true
+
+[[items]]
+name = "Athodai"
+done = true
+
+[[items]]
+name = "Atomos"
+done = true
+
+[[items]]
+name = "Azima"
+done = true
+
+[[items]]
+name = "Ballistica"
+done = true
+
+[[items]]
+name = "Ballistica Prime"
+done = true
+
+[[items]]
+name = "Bolto"
+done = true
+
+[[items]]
+name = "Brakk"
+done = true
+
+[[items]]
+name = "Bronco"
+done = true
+
+[[items]]
+name = "Bronco Prime"
+done = true
+
+[[items]]
+name = "Cantare"
+done = true
+
+[[items]]
+name = "Castanas"
+done = true
+
+[[items]]
+name = "Catabolyst"
+done = true
+
+[[items]]
+name = "Cestra"
+done = true
+
+[[items]]
+name = "Coda Catabolyst"
+done = true
+
+[[items]]
+name = "Coda Pox"
+done = true
+
+[[items]]
+name = "Coda Tysis"
+done = true
+
+[[items]]
+name = "Cyanex"
+done = true
+
+[[items]]
+name = "Cycron"
+done = true
+
+[[items]]
+name = "Despair"
+done = true
+
+[[items]]
+name = "Detron"
+done = true
+
+[[items]]
+name = "Dex Furis"
+done = true
+
+[[items]]
+name = "Dual Cestra"
+done = true
+
+[[items]]
+name = "Dual Coda Torxica"
+done = true
+
+[[items]]
+name = "Dual Toxocyst"
+done = true
+
+[[items]]
+name = "Efv-8 Mars"
+done = true
+
+[[items]]
+name = "Embolist"
+done = true
+
+[[items]]
+name = "Epitaph"
+done = true
+
+[[items]]
+name = "Epitaph Prime"
+done = true
+
+[[items]]
+name = "Euphona Prime"
+done = true
+
+[[items]]
+name = "Furis"
+done = true
+
+[[items]]
+name = "Fusilai"
+done = true
+
+[[items]]
+name = "Gammacor"
+done = true
+
+[[items]]
+name = "Grimoire"
+done = true
+
+[[items]]
+name = "Hikou"
+done = true
+
+[[items]]
+name = "Hikou Prime"
+done = true
+
+[[items]]
+name = "Hystrix"
+done = true
+
+[[items]]
+name = "Hystrix Prime"
+done = true
+
+[[items]]
+name = "Knell"
+done = true
+
+[[items]]
+name = "Knell Prime"
+done = true
+
+[[items]]
+name = "Kohmak"
+done = true
+
+[[items]]
+name = "Kompressa"
+done = true
+
+[[items]]
+name = "Kompressa Prime"
+done = true
+
+[[items]]
+name = "Kraken"
+done = true
+
+[[items]]
+name = "Kulstar"
+done = true
+
+[[items]]
+name = "Kunai"
+done = true
+
+[[items]]
+name = "Kuva Brakk"
+done = true
+
+[[items]]
+name = "Kuva Kraken"
+done = true
+
+[[items]]
+name = "Kuva Nukor"
+done = true
+
+[[items]]
+name = "Kuva Seer"
+done = true
+
+[[items]]
+name = "Kuva Twin Stubbas"
+done = true
+
+[[items]]
+name = "Laetum"
+done = true
+
+[[items]]
+name = "Lato"
+done = true
+
+[[items]]
+name = "Lato Vandal"
+done = true
+
+[[items]]
+name = "Lex"
+done = true
+
+[[items]]
+name = "Lex Prime"
+done = true
+
+[[items]]
+name = "Magnus"
+done = true
+
+[[items]]
+name = "Magnus Prime"
+done = true
+
+[[items]]
+name = "Mara Detron"
+done = true
+
+[[items]]
+name = "Marelok"
+done = true
+
+[[items]]
+name = "Mk1-Furis"
+done = true
+
+[[items]]
+name = "Mk1-Kunai"
+done = true
+
+[[items]]
+name = "Nukor"
+done = true
+
+[[items]]
+name = "Ocucor"
+done = true
+
+[[items]]
+name = "Onos"
+done = true
+
+[[items]]
+name = "Pandero"
+done = true
+
+[[items]]
+name = "Pandero Prime"
+done = true
+
+[[items]]
+name = "Plinx"
+done = true
+
+[[items]]
+name = "Pox"
+done = true
+
+[[items]]
+name = "Prisma Angstrum"
+done = true
+
+[[items]]
+name = "Prisma Twin Gremlins"
+done = true
+
+[[items]]
+name = "Pyrana"
+done = true
+
+[[items]]
+name = "Pyrana Prime"
+done = true
+
+[[items]]
+name = "Quatz"
+done = true
+
+[[items]]
+name = "Rakta Ballistica"
+done = true
+
+[[items]]
+name = "Riot-848"
+done = true
+
+[[items]]
+name = "Sagek Prime"
+done = true
+
+[[items]]
+name = "Sancti Castanas"
+done = true
+
+[[items]]
+name = "Scyotid"
+done = true
+
+[[items]]
+name = "Secura Dual Cestra"
+done = true
+
+[[items]]
+name = "Seer"
+done = true
+
+[[items]]
+name = "Sepulcrum"
+done = true
+
+[[items]]
+name = "Sicarus"
+done = true
+
+[[items]]
+name = "Sicarus Prime"
+done = true
+
+[[items]]
+name = "Sonicor"
+done = true
+
+[[items]]
+name = "Spectra"
+done = true
+
+[[items]]
+name = "Spectra Vandal"
+done = true
+
+[[items]]
+name = "Spira"
+done = true
+
+[[items]]
+name = "Spira Prime"
+done = true
+
+[[items]]
+name = "Staticor"
+done = true
+
+[[items]]
+name = "Stubba"
+done = true
+
+[[items]]
+name = "Stug"
+done = true
+
+[[items]]
+name = "Synoid Gammacor"
+done = true
+
+[[items]]
+name = "Talons"
+done = true
+
+[[items]]
+name = "Telos Akbolto"
+done = true
+
+[[items]]
+name = "Tenet Cycron"
+done = true
+
+[[items]]
+name = "Tenet Detron"
+done = true
+
+[[items]]
+name = "Tenet Diplos"
+done = true
+
+[[items]]
+name = "Tenet Plinx"
+done = true
+
+[[items]]
+name = "Tenet Spirex"
+done = true
+
+[[items]]
+name = "Twin Grakatas"
+done = true
+
+[[items]]
+name = "Twin Gremlins"
+done = true
+
+[[items]]
+name = "Twin Kohmak"
+done = true
+
+[[items]]
+name = "Twin Rogga"
+done = true
+
+[[items]]
+name = "Twin Vipers"
+done = true
+
+[[items]]
+name = "Twin Vipers Wraith"
+done = true
+
+[[items]]
+name = "Tysis"
+done = true
+
+[[items]]
+name = "Vasto"
+done = true
+
+[[items]]
+name = "Vasto Prime"
+done = true
+
+[[items]]
+name = "Vaykor Marelok"
+done = true
+
+[[items]]
+name = "Velox"
+done = true
+
+[[items]]
+name = "Velox Prime"
+done = true
+
+[[items]]
+name = "Vesper 77"
+done = true
+
+[[items]]
+name = "Viper"
+done = true
+
+[[items]]
+name = "Viper Wraith"
+done = true
+
+[[items]]
+name = "Zakti"
+done = true
+
+[[items]]
+name = "Zakti Prime"
+done = true
+
+[[items]]
+name = "Zylok"
+done = true
+
+[[items]]
+name = "Zylok Prime"
+done = true
+
+[[items]]
+name = "Zymos"
+done = true
+
+[[items]]
+name = "Ack & Brunt"
+done = true
+
+[[items]]
+name = "Amanata"
+done = true
+
+[[items]]
+name = "Amphis"
+done = true
+
+[[items]]
+name = "Anku"
+done = true
+
+[[items]]
+name = "Ankyros"
+done = true
+
+[[items]]
+name = "Ankyros Prime"
+done = true
+
+[[items]]
+name = "Arca Titron"
+done = true
+
+[[items]]
+name = "Argo & Vel"
+done = true
+
+[[items]]
+name = "Arum Spinosa"
+done = true
+
+[[items]]
+name = "Atterax"
+done = true
+
+[[items]]
+name = "Azothane"
+done = true
+
+[[items]]
+name = "Balla"
+done = true
+
+[[items]]
+name = "Bo"
+done = true
+
+[[items]]
+name = "Bo Prime"
+done = true
+
+[[items]]
+name = "Boltace"
+done = true
+
+[[items]]
+name = "Broken Scepter"
+done = true
+
+[[items]]
+name = "Broken War"
+done = true
+
+[[items]]
+name = "Cadus"
+done = true
+
+[[items]]
+name = "Cassowar"
+done = true
+
+[[items]]
+name = "Caustacyst"
+done = true
+
+[[items]]
+name = "Ceramic Dagger"
+done = true
+
+[[items]]
+name = "Cerata"
+done = true
+
+[[items]]
+name = "Ceti Lacera"
+done = true
+
+[[items]]
+name = "Cobra & Crane"
+done = true
+
+[[items]]
+name = "Cobra & Crane Prime"
+done = true
+
+[[items]]
+name = "Coda Caustacyst"
+done = true
+
+[[items]]
+name = "Coda Hirudo"
+done = true
+
+[[items]]
+name = "Coda Mire"
+done = true
+
+[[items]]
+name = "Coda Motovore"
+done = true
+
+[[items]]
+name = "Coda Pathocyst"
+done = true
+
+[[items]]
+name = "Corufell"
+done = true
+
+[[items]]
+name = "Cronus"
+done = true
+
+[[items]]
+name = "Cyath"
+done = true
+
+[[items]]
+name = "Dakra Prime"
+done = true
+
+[[items]]
+name = "Dark Dagger"
+done = true
+
+[[items]]
+name = "Dark Split-Sword"
+done = true
+
+[[items]]
+name = "Dark Sword"
+done = true
+
+[[items]]
+name = "Dehtat"
+done = true
+
+[[items]]
+name = "Destreza"
+done = true
+
+[[items]]
+name = "Destreza Prime"
+done = true
+
+[[items]]
+name = "Dex Dakra"
+done = true
+
+[[items]]
+name = "Dex Nikana"
+done = true
+
+[[items]]
+name = "Dokrahm"
+done = true
+
+[[items]]
+name = "Dorrclave"
+done = true
+
+[[items]]
+name = "Dragon Nikana"
+done = true
+
+[[items]]
+name = "Dual Cleavers"
+done = true
+
+[[items]]
+name = "Dual Ether"
+done = true
+
+[[items]]
+name = "Dual Heat Swords"
+done = true
+
+[[items]]
+name = "Dual Ichor"
+done = true
+
+[[items]]
+name = "Dual Kamas"
+done = true
+
+[[items]]
+name = "Dual Kamas Prime"
+done = true
+
+[[items]]
+name = "Dual Keres"
+done = true
+
+[[items]]
+name = "Dual Keres Prime"
+done = true
+
+[[items]]
+name = "Dual Raza"
+done = true
+
+[[items]]
+name = "Dual Skana"
+done = true
+
+[[items]]
+name = "Dual Viciss"
+done = true
+
+[[items]]
+name = "Dual Zoren"
+done = true
+
+[[items]]
+name = "Dual Zoren Prime"
+done = true
+
+[[items]]
+name = "Edun"
+done = true
+
+[[items]]
+name = "Ekhein"
+done = true
+
+[[items]]
+name = "Endura"
+done = true
+
+[[items]]
+name = "Ether Daggers"
+done = true
+
+[[items]]
+name = "Ether Reaper"
+done = true
+
+[[items]]
+name = "Ether Sword"
+done = true
+
+[[items]]
+name = "Falcor"
+done = true
+
+[[items]]
+name = "Fang"
+done = true
+
+[[items]]
+name = "Fang Prime"
+done = true
+
+[[items]]
+name = "Fragor"
+done = true
+
+[[items]]
+name = "Fragor Prime"
+done = true
+
+[[items]]
+name = "Furax"
+done = true
+
+[[items]]
+name = "Furax Wraith"
+done = true
+
+[[items]]
+name = "Galariak Prime"
+done = true
+
+[[items]]
+name = "Galatine"
+done = true
+
+[[items]]
+name = "Galatine Prime"
+done = true
+
+[[items]]
+name = "Galvacord"
+done = true
+
+[[items]]
+name = "Gazal Machete"
+done = true
+
+[[items]]
+name = "Ghoulsaw"
+done = true
+
+[[items]]
+name = "Glaive"
+done = true
+
+[[items]]
+name = "Glaive Prime"
+done = true
+
+[[items]]
+name = "Gram"
+done = true
+
+[[items]]
+name = "Gram Prime"
+done = true
+
+[[items]]
+name = "Guandao"
+done = true
+
+[[items]]
+name = "Guandao Prime"
+done = true
+
+[[items]]
+name = "Gunsen"
+done = true
+
+[[items]]
+name = "Gunsen Prime"
+done = true
+
+[[items]]
+name = "Halikar"
+done = true
+
+[[items]]
+name = "Halikar Wraith"
+done = true
+
+[[items]]
+name = "Harmony"
+done = true
+
+[[items]]
+name = "Hate"
+done = true
+
+[[items]]
+name = "Heat Dagger"
+done = true
+
+[[items]]
+name = "Heat Sword"
+done = true
+
+[[items]]
+name = "Heliocor"
+done = true
+
+[[items]]
+name = "Hespar"
+done = true
+
+[[items]]
+name = "Hirudo"
+done = true
+
+[[items]]
+name = "Innodem"
+done = true
+
+[[items]]
+name = "Jat Kittag"
+done = true
+
+[[items]]
+name = "Jat Kusar"
+done = true
+
+[[items]]
+name = "Jaw Sword"
+done = true
+
+[[items]]
+name = "Kama"
+done = true
+
+[[items]]
+name = "Karyst"
+done = true
+
+[[items]]
+name = "Karyst Prime"
+done = true
+
+[[items]]
+name = "Keratinos"
+done = true
+
+[[items]]
+name = "Kesheg"
+done = true
+
+[[items]]
+name = "Kestrel"
+done = true
+
+[[items]]
+name = "Kestrel Prime"
+done = true
+
+[[items]]
+name = "Kogake"
+done = true
+
+[[items]]
+name = "Kogake Prime"
+done = true
+
+[[items]]
+name = "Korrudo"
+done = true
+
+[[items]]
+name = "Korumm"
+done = true
+
+[[items]]
+name = "Kreska"
+done = true
+
+[[items]]
+name = "Krohkur"
+done = true
+
+[[items]]
+name = "Kronen"
+done = true
+
+[[items]]
+name = "Kronen Prime"
+done = true
+
+[[items]]
+name = "Kronsh"
+done = true
+
+[[items]]
+name = "Kuva Shildeg"
+done = true
+
+[[items]]
+name = "Lacera"
+done = true
+
+[[items]]
+name = "Lecta"
+done = true
+
+[[items]]
+name = "Lesion"
+done = true
+
+[[items]]
+name = "Machete"
+done = true
+
+[[items]]
+name = "Machete Wraith"
+done = true
+
+[[items]]
+name = "Magistar"
+done = true
+
+[[items]]
+name = "Masseter"
+done = true
+
+[[items]]
+name = "Masseter Prime"
+done = true
+
+[[items]]
+name = "Mewan"
+done = true
+
+[[items]]
+name = "Mios"
+done = true
+
+[[items]]
+name = "Mire"
+done = true
+
+[[items]]
+name = "Mk1-Bo"
+done = true
+
+[[items]]
+name = "Mk1-Furax"
+done = true
+
+[[items]]
+name = "Nami Skyla"
+done = true
+
+[[items]]
+name = "Nami Skyla Prime"
+done = true
+
+[[items]]
+name = "Nami Solo"
+done = true
+
+[[items]]
+name = "Nepheri"
+done = true
+
+[[items]]
+name = "Nikana"
+done = true
+
+[[items]]
+name = "Nikana Prime"
+done = true
+
+[[items]]
+name = "Ninkondi"
+done = true
+
+[[items]]
+name = "Ninkondi Prime"
+done = true
+
+[[items]]
+name = "Obex"
+done = true
+
+[[items]]
+name = "Ohma"
+done = true
+
+[[items]]
+name = "Okina"
+done = true
+
+[[items]]
+name = "Okina Prime"
+done = true
+
+[[items]]
+name = "Ooltha"
+done = true
+
+[[items]]
+name = "Orthos"
+done = true
+
+[[items]]
+name = "Orthos Prime"
+done = true
+
+[[items]]
+name = "Orvius"
+done = true
+
+[[items]]
+name = "Pangolin Prime"
+done = true
+
+[[items]]
+name = "Pangolin Sword"
+done = true
+
+[[items]]
+name = "Paracesis"
+done = true
+
+[[items]]
+name = "Pathocyst"
+done = true
+
+[[items]]
+name = "Pennant"
+done = true
+
+[[items]]
+name = "Plague Keewar"
+done = true
+
+[[items]]
+name = "Plague Kripath"
+done = true
+
+[[items]]
+name = "Plasma Sword"
+done = true
+
+[[items]]
+name = "Praedos"
+done = true
+
+[[items]]
+name = "Prisma Dual Cleavers"
+done = true
+
+[[items]]
+name = "Prisma Machete"
+done = true
+
+[[items]]
+name = "Prisma Obex"
+done = true
+
+[[items]]
+name = "Prisma Ohma"
+done = true
+
+[[items]]
+name = "Prisma Skana"
+done = true
+
+[[items]]
+name = "Prova"
+done = true
+
+[[items]]
+name = "Prova Vandal"
+done = true
+
+[[items]]
+name = "Pulmonars"
+done = true
+
+[[items]]
+name = "Pupacyst"
+done = true
+
+[[items]]
+name = "Quassus"
+done = true
+
+[[items]]
+name = "Quassus Prime"
+done = true
+
+[[items]]
+name = "Rabvee"
+done = true
+
+[[items]]
+name = "Rakta Dark Dagger"
+done = true
+
+[[items]]
+name = "Reaper Prime"
+done = true
+
+[[items]]
+name = "Redeemer"
+done = true
+
+[[items]]
+name = "Redeemer Prime"
+done = true
+
+[[items]]
+name = "Ripkas"
+done = true
+
+[[items]]
+name = "Rumblejack"
+done = true
+
+[[items]]
+name = "Ruvox"
+done = true
+
+[[items]]
+name = "Sampotes"
+done = true
+
+[[items]]
+name = "Sancti Magistar"
+done = true
+
+[[items]]
+name = "Sarofang"
+done = true
+
+[[items]]
+name = "Sarofang Prime"
+done = true
+
+[[items]]
+name = "Sarpa"
+done = true
+
+[[items]]
+name = "Scindo"
+done = true
+
+[[items]]
+name = "Scindo Prime"
+done = true
+
+[[items]]
+name = "Scoliac"
+done = true
+
+[[items]]
+name = "Secura Lecta"
+done = true
+
+[[items]]
+name = "Sepfahn"
+done = true
+
+[[items]]
+name = "Serro"
+done = true
+
+[[items]]
+name = "Shaku"
+done = true
+
+[[items]]
+name = "Sheev"
+done = true
+
+[[items]]
+name = "Sibear"
+done = true
+
+[[items]]
+name = "Sigma & Octantis"
+done = true
+
+[[items]]
+name = "Silva & Aegis"
+done = true
+
+[[items]]
+name = "Silva & Aegis Prime"
+done = true
+
+[[items]]
+name = "Skana"
+done = true
+
+[[items]]
+name = "Skiajati"
+done = true
+
+[[items]]
+name = "Slaytra"
+done = true
+
+[[items]]
+name = "Spinnerex"
+done = true
+
+[[items]]
+name = "Stropha"
+done = true
+
+[[items]]
+name = "Sun & Moon"
+done = true
+
+[[items]]
+name = "Syam"
+done = true
+
+[[items]]
+name = "Sydon"
+done = true
+
+[[items]]
+name = "Synoid Heliocor"
+done = true
+
+[[items]]
+name = "Tak & Lug"
+done = true
+
+[[items]]
+name = "Tatsu"
+done = true
+
+[[items]]
+name = "Tatsu Prime"
+done = true
+
+[[items]]
+name = "Tekko"
+done = true
+
+[[items]]
+name = "Tekko Prime"
+done = true
+
+[[items]]
+name = "Telos Boltace"
+done = true
+
+[[items]]
+name = "Tenet Agendus"
+done = true
+
+[[items]]
+name = "Tenet Exec"
+done = true
+
+[[items]]
+name = "Tenet Grigori"
+done = true
+
+[[items]]
+name = "Tenet Livia"
+done = true
+
+[[items]]
+name = "Thalys"
+done = true
+
+[[items]]
+name = "Tipedo"
+done = true
+
+[[items]]
+name = "Tipedo Prime"
+done = true
+
+[[items]]
+name = "Tonbo"
+done = true
+
+[[items]]
+name = "Tonkkatt"
+done = true
+
+[[items]]
+name = "Twin Basolk"
+done = true
+
+[[items]]
+name = "Twin Krohkur"
+done = true
+
+[[items]]
+name = "Vastilok"
+done = true
+
+[[items]]
+name = "Vaykor Sydon"
+done = true
+
+[[items]]
+name = "Venato"
+done = true
+
+[[items]]
+name = "Venato Prime"
+done = true
+
+[[items]]
+name = "Venka"
+done = true
+
+[[items]]
+name = "Venka Prime"
+done = true
+
+[[items]]
+name = "Verdilac"
+done = true
+
+[[items]]
+name = "Vericres"
+done = true
+
+[[items]]
+name = "Vitrica"
+done = true
+
+[[items]]
+name = "Volnus"
+done = true
+
+[[items]]
+name = "Volnus Prime"
+done = true
+
+[[items]]
+name = "War"
+done = true
+
+[[items]]
+name = "War Prime"
+done = true
+
+[[items]]
+name = "Wolf Sledge"
+done = true
+
+[[items]]
+name = "Xoris"
+done = true
+
+[[items]]
+name = "Zenistar"
+done = true
+
+[[items]]
+name = "Akaten"
+done = true
+
+[[items]]
+name = "Artax"
+done = true
+
+[[items]]
+name = "Batoten"
+done = true
+
+[[items]]
+name = "Burst Laser"
+done = true
+
+[[items]]
+name = "Burst Laser Prime"
+done = true
+
+[[items]]
+name = "Cryotra"
+done = true
+
+[[items]]
+name = "Deconstructor"
+done = true
+
+[[items]]
+name = "Deconstructor Prime"
+done = true
+
+[[items]]
+name = "Deth Machine Rifle"
+done = true
+
+[[items]]
+name = "Deth Machine Rifle Prime"
+done = true
+
+[[items]]
+name = "Helstrum"
+done = true
+
+[[items]]
+name = "Lacerten"
+done = true
+
+[[items]]
+name = "Laser Rifle"
+done = true
+
+[[items]]
+name = "Multron"
+done = true
+
+[[items]]
+name = "Prime Laser Rifle"
+done = true
+
+[[items]]
+name = "Prisma Burst Laser"
+done = true
+
+[[items]]
+name = "Stinger"
+done = true
+
+[[items]]
+name = "Sweeper"
+done = true
+
+[[items]]
+name = "Sweeper Prime"
+done = true
+
+[[items]]
+name = "Tazicor"
+done = true
+
+[[items]]
+name = "Verglas"
+done = true
+
+[[items]]
+name = "Verglas Prime"
+done = true
+
+[[items]]
+name = "Vulcax"
+done = true
+
+[[items]]
+name = "Vulklok"
+done = true
+
+[[items]]
+name = "Carrier"
+done = true
+
+[[items]]
+name = "Carrier Prime"
+done = true
+
+[[items]]
+name = "Dethcube"
+done = true
+
+[[items]]
+name = "Dethcube Prime"
+done = true
+
+[[items]]
+name = "Diriga"
+done = true
+
+[[items]]
+name = "Djinn"
+done = true
+
+[[items]]
+name = "Helios"
+done = true
+
+[[items]]
+name = "Helios Prime"
+done = true
+
+[[items]]
+name = "Nautilus"
+done = true
+
+[[items]]
+name = "Nautilus Prime"
+done = true
+
+[[items]]
+name = "Oxylus"
+done = true
+
+[[items]]
+name = "Prisma Shade"
+done = true
+
+[[items]]
+name = "Shade"
+done = true
+
+[[items]]
+name = "Shade Prime"
+done = true
+
+[[items]]
+name = "Taxon"
+done = true
+
+[[items]]
+name = "Wyrm"
+done = true
+
+[[items]]
+name = "Wyrm Prime"
+done = true
+
+[[items]]
+name = "Adarza Kavat"
+done = true
+
+[[items]]
+name = "Bhaira Hound"
+done = true
+
+[[items]]
+name = "Chesa Kubrow"
+done = true
+
+[[items]]
+name = "Crescent Vulpaphyla"
+done = true
+
+[[items]]
+name = "Dorma Hound"
+done = true
+
+[[items]]
+name = "Hec Hound"
+done = true
+
+[[items]]
+name = "Helminth Charger"
+done = true
+
+[[items]]
+name = "Huras Kubrow"
+done = true
+
+[[items]]
+name = "Lambeo Moa"
+done = true
+
+[[items]]
+name = "Medjay Predasite"
+done = true
+
+[[items]]
+name = "Nychus Moa"
+done = true
+
+[[items]]
+name = "Oloro Moa"
+done = true
+
+[[items]]
+name = "Panzer Vulpaphyla"
+done = true
+
+[[items]]
+name = "Para Moa"
+done = true
+
+[[items]]
+name = "Pharaoh Predasite"
+done = true
+
+[[items]]
+name = "Raksa Kubrow"
+done = true
+
+[[items]]
+name = "Sahasa Kubrow"
+done = true
+
+[[items]]
+name = "Sly Vulpaphyla"
+done = true
+
+[[items]]
+name = "Smeeta Kavat"
+done = true
+
+[[items]]
+name = "Sunika Kubrow"
+done = true
+
+[[items]]
+name = "Vasca Kavat"
+done = true
+
+[[items]]
+name = "Vizier Predasite"
+done = true
+
+[[items]]
+name = "Amesha"
+done = true
+
+[[items]]
+name = "Elytron"
+done = true
+
+[[items]]
+name = "Itzal"
+done = true
+
+[[items]]
+name = "Odonata"
+done = true
+
+[[items]]
+name = "Odonata Prime"
+done = true
+
+[[items]]
+name = "Arbucep"
+done = true
+
+[[items]]
+name = "Cortege"
+done = true
+
+[[items]]
+name = "Corvas"
+done = true
+
+[[items]]
+name = "Corvas Prime"
+done = true
+
+[[items]]
+name = "Cyngas"
+done = true
+
+[[items]]
+name = "Dual Decurion"
+done = true
+
+[[items]]
+name = "Fluctus"
+done = true
+
+[[items]]
+name = "Grattler"
+done = true
+
+[[items]]
+name = "Imperator"
+done = true
+
+[[items]]
+name = "Imperator Vandal"
+done = true
+
+[[items]]
+name = "Kuva Ayanga"
+done = true
+
+[[items]]
+name = "Kuva Grattler"
+done = true
+
+[[items]]
+name = "Larkspur"
+done = true
+
+[[items]]
+name = "Larkspur Prime"
+done = true
+
+[[items]]
+name = "Mandonel"
+done = true
+
+[[items]]
+name = "Mausolon"
+done = true
+
+[[items]]
+name = "Morgha"
+done = true
+
+[[items]]
+name = "Phaedra"
+done = true
+
+[[items]]
+name = "Prisma Dual Decurions"
+done = true
+
+[[items]]
+name = "Velocitus"
+done = true
+
+[[items]]
+name = "Agkuza"
+done = true
+
+[[items]]
+name = "Centaur"
+done = true
+
+[[items]]
+name = "Kaszas"
+done = true
+
+[[items]]
+name = "Knux"
+done = true
+
+[[items]]
+name = "Onorix"
+done = true
+
+[[items]]
+name = "Prisma Veritux"
+done = true
+
+[[items]]
+name = "Rathbone"
+done = true
+
+[[items]]
+name = "Veritux"
+done = true
+
+[[items]]
+name = "Bad Baby"
+done = true
+
+[[items]]
+name = "Catchmoon（セカンダリ）"
+done = true
+
+[[items]]
+name = "Feverspine"
+done = true
+
+[[items]]
+name = "Flatbelly"
+done = true
+
+[[items]]
+name = "Gaze（セカンダリ）"
+done = true
+
+[[items]]
+name = "Needlenose"
+done = true
+
+[[items]]
+name = "Rattleguts（セカンダリ）"
+done = true
+
+[[items]]
+name = "Runway"
+done = true
+
+[[items]]
+name = "Tombfinger（セカンダリ）"
+done = true
+
+[[items]]
+name = "Sporelacer（セカンダリ）"
+done = true
+
+[[items]]
+name = "Vermisplicer（セカンダリ）"
+done = true
+
+[[items]]
+name = "Mote Amp"
+done = true
+
+[[items]]
+name = "Raplak"
+done = true
+
+[[items]]
+name = "Shwaak"
+done = true
+
+[[items]]
+name = "Granmu"
+done = true
+
+[[items]]
+name = "Rahn"
+done = true
+
+[[items]]
+name = "Cantic"
+done = true
+
+[[items]]
+name = "Lega"
+done = true
+
+[[items]]
+name = "Klamora"
+done = true
+
+[[items]]
+name = "Catchmoon（プライマリ）"
+note = "キットガンのプライマリ版。マスタリーはセカンダリ版と共有だが、プロフィールでは別項目"
+done = true
+
+[[items]]
+name = "Gaze（プライマリ）"
+note = "キットガンのプライマリ版。マスタリーはセカンダリ版と共有だが、プロフィールでは別項目"
+done = true
+
+[[items]]
+name = "Rattleguts（プライマリ）"
+note = "キットガンのプライマリ版。マスタリーはセカンダリ版と共有だが、プロフィールでは別項目"
+done = true
+
+[[items]]
+name = "Tombfinger（プライマリ）"
+note = "キットガンのプライマリ版。マスタリーはセカンダリ版と共有だが、プロフィールでは別項目"
+done = true
+
+[[items]]
+name = "Sporelacer（プライマリ）"
+note = "キットガンのプライマリ版。マスタリーはセカンダリ版と共有だが、プロフィールでは別項目"
+done = true
+
+[[items]]
+name = "Vermisplicer（プライマリ）"
+note = "キットガンのプライマリ版。マスタリーはセカンダリ版と共有だが、プロフィールでは別項目"
+done = true
+
+[[items]]
+name = "Plexus"
+done = true
+
+[[items]]
+name = "アンプ（バグ枠）"
+note = "ゲーム側のバグで数えられているアンプ。内なる紛争完了時のアンプなしの状態と思われる。ゲームの母数に合わせるために置いている"
+done = true

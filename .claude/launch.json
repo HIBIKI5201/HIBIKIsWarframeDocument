@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wd-todo",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["TODO/scripts/serve.py", "--port", "8010"],
+      "port": 8010
+    },
+    {
+      "name": "wd-story",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["StoryAnalysis/scripts/serve.py", "--port", "8001"],
+      "port": 8001
+    }
+  ]
+}
