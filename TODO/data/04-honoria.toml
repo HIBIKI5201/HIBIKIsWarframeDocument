@@ -260,7 +260,7 @@ done = false
 name = "Leaves No Witnesses"
 condition = "ステルスキル 100 回"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "The Demolitionist"
@@ -272,7 +272,7 @@ done = false
 name = "Angel of Death"
 condition = "1 ミッションで 100 キル"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Plague Doctor"
@@ -284,7 +284,7 @@ done = false
 name = "It Will Kill"
 condition = "初めて Zaw を製作"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Restless"
@@ -296,25 +296,25 @@ done = false
 name = "Was Never Here"
 condition = "監視カメラを 150 台破壊"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Will Do Anything For Money"
 condition = "侵略 5 回で報酬を得る"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Death from Above"
 condition = "空中から地上の敵を 100 体倒す"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Parazon Runner"
 condition = "暗号を 5 秒以内に解く"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Cryomancer"
@@ -356,16 +356,696 @@ done = false
 name = "Marty McFlea"
 condition = "The Hex をクリア"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Pizza Time"
 condition = "The Hex Finale をクリア"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "90's Kid"
 condition = "Nightwave: Amir's Shockwave でランク 29"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
+
+[[items]]
+name = "Abyssal Thorn"
+done = true
+
+[[items]]
+name = "Along Came"
+done = true
+
+[[items]]
+name = "Big Spender"
+done = true
+
+[[items]]
+name = "Bigger Spender"
+done = true
+
+[[items]]
+name = "Biggest Spender"
+done = true
+
+[[items]]
+name = "Blazing Revolutionary"
+done = true
+
+[[items]]
+name = "Capit"
+condition = "Awarded for completing the Capit XIII Sporoi challenge."
+done = true
+
+[[items]]
+name = "Conquera"
+done = true
+
+[[items]]
+name = "Demoness"
+done = true
+
+[[items]]
+name = "Doesn'T Miss"
+condition = "Kill an enemy from over 100 meters away on the Plains of Eidolon."
+done = true
+
+[[items]]
+name = "Early Lunch For"
+done = true
+
+[[items]]
+name = "Fatuous Nymph"
+done = true
+
+[[items]]
+name = "Fire And Brimstone"
+done = true
+
+[[items]]
+name = "Forever"
+done = true
+
+[[items]]
+name = "Grandis"
+condition = "Awarded for completing the Grandis XVII Sporoi challenge."
+done = true
+
+[[items]]
+name = "Gyanburā"
+done = true
+
+[[items]]
+name = "Heart Of The Pack"
+condition = "Acquire Voruna Prime."
+done = true
+
+[[items]]
+name = "Hive-Kin"
+done = true
+
+[[items]]
+name = "Ack-Ack"
+condition = "Awarded for destroying 30 airborne units from the ground."
+done = true
+
+[[items]]
+name = "Legally Distinct"
+condition = "Annoy Amir a great many times. Ring the bell to summon Amir numerous times. Each ring after the first randomly gives 3, 4, or 5 points, requires 1337 points."
+done = true
+
+[[items]]
+name = "Butterfingers"
+condition = "Collect a special piece of loot in Fables & Frontiers. Obtain Sword of Greater Buttercutting on Day 2."
+done = true
+
+[[items]]
+name = "Forever Fablemaster"
+condition = "Complete the Fables & Frontiers Campaign."
+done = true
+
+[[items]]
+name = "Busy Monologuing"
+condition = "Collect a special piece of loot in Fables & Frontiers. Obtain Commander Nach's Monologuing Head on Day 3."
+done = true
+
+[[items]]
+name = "Biz's Business Partner"
+condition = "Awarded for earning all 4 Conservation emblems."
+done = true
+
+[[items]]
+name = "The Arcanist"
+condition = "Awarded for getting 20 Arcanes to Max Rank."
+done = true
+
+[[items]]
+name = "Clem"
+condition = "Awarded for completing 'A Man of Few Words'."
+done = true
+
+[[items]]
+name = "On-lyne Fan"
+condition = "Awarded for vanquishing a Technocyte Coda."
+done = true
+
+[[items]]
+name = "On-Lyne Superfan"
+condition = "Reach Max Rank (40) with 5 Coda Weapons."
+done = true
+
+[[items]]
+name = "Facilis Descensus Averno"
+condition = "Awarded for completing all 21 floors of Steel Path Descendia consecutively solo, and without dying."
+done = true
+
+[[items]]
+name = "Arcane Researcher"
+condition = "Complete Elite Deep Archimedea with max Research points."
+done = true
+
+[[items]]
+name = "Temporal Investigator"
+condition = "Complete Elite Temporal Archimedea with max Research points."
+done = true
+
+[[items]]
+name = "Divine Comedian"
+condition = "Awarded for completing all 21 floors of The Descendia as Dante."
+done = true
+
+[[items]]
+name = "l33t h4XX0r"
+condition = "Awarded for beginning a relationship with Amir."
+done = true
+
+[[items]]
+name = "Paper Crane"
+condition = "Awarded for beginning a relationship with Aoi."
+done = true
+
+[[items]]
+name = "Once and Future"
+condition = "Awarded for beginning a relationship with Arthur."
+done = true
+
+[[items]]
+name = "Silver Tongue"
+condition = "Awarded for beginning a relationship with Eleanor."
+done = true
+
+[[items]]
+name = "Cœur Enflammé"
+condition = "Awarded for beginning a relationship with Marie."
+done = true
+
+[[items]]
+name = "Heart Shot"
+condition = "Awarded for beginning a relationship with Quincy."
+done = true
+
+[[items]]
+name = "Lyon's Savior"
+condition = "Awarded for defending Lyon within The Descendia 3 times."
+done = true
+
+[[items]]
+name = "Marie's Champion"
+condition = "Awarded for defending Marie within The Descendia 3 times."
+done = true
+
+[[items]]
+name = "Staff"
+condition = "The mark of a Digital Extremes employee."
+done = true
+
+[[items]]
+name = "King of Duviri"
+condition = "Awarded for completing 'The Duviri Paradox'."
+done = true
+
+[[items]]
+name = "Queen of Duviri"
+condition = "Awarded for completing 'The Duviri Paradox'."
+done = true
+
+[[items]]
+name = "Giant Slayer"
+condition = "Awarded for defeating every Eidolon in Plains of Eidolon."
+done = true
+
+[[items]]
+name = "Hai-Luk's Wholesaler"
+condition = "Awarded for catching 10 different Rare or Legendary Fish."
+done = true
+
+[[items]]
+name = "Arbiter of Ink"
+condition = "Help Aspirant Zorba read all five of Master Kozai's letters."
+done = true
+
+[[items]]
+name = "Painted Free"
+condition = "Complete Follie's Hunt once."
+done = true
+
+[[items]]
+name = "Shadowgrapher"
+condition = "Complete Follie's Hunt ten times."
+done = true
+
+[[items]]
+name = "Hotwired"
+condition = "Awarded for stealing 20 Anarch Shuttles in The Perita Rebellion."
+done = true
+
+[[items]]
+name = "Under Friendly Fire"
+condition = "Awarded for vanquishing a Hunhullus 5 times."
+done = true
+
+[[items]]
+name = "The Great & Terrible"
+condition = "Awarded for completing the Quest 'Jade Shadows'."
+done = true
+
+[[items]]
+name = "Jammer"
+condition = "Awarded for taking out 50 communication relays in The Perita Rebellion."
+done = true
+
+[[items]]
+name = "Kalymos's Best Friend"
+condition = "Awarded for interacting with Kalymos in the Backroom."
+done = true
+
+[[items]]
+name = "Worm Queen"
+condition = "Reach Max Rank (40) with 5 Kuva Weapons."
+done = true
+
+[[items]]
+name = "of the Old Blood"
+condition = "Awarded for vanquishing a Kuva Lich."
+done = true
+
+[[items]]
+name = "Champion of the Lotus"
+condition = "Awarded for completing 'The Lotus Eaters'."
+done = true
+
+[[items]]
+name = "The Lover"
+condition = "Awarded for beginning a relationship with a Protoframe."
+done = true
+
+[[items]]
+name = "Storm Archer"
+condition = "Awarded for obtaining Thara the Madurai Bow."
+done = true
+
+[[items]]
+name = "Legendary Captain"
+condition = "Awarded for raising all Railjack Intrinsics to Rank 10."
+done = true
+
+[[items]]
+name = "Minesweeper"
+condition = "Awarded for locating and defusing 81 buried mines in The Perita Rebellion."
+done = true
+
+[[items]]
+name = "Seeker"
+condition = "Reach Mastery Rank 10."
+done = true
+
+[[items]]
+name = "Hunter"
+condition = "Reach Mastery Rank 13."
+done = true
+
+[[items]]
+name = "Eagle"
+condition = "Reach Mastery Rank 16."
+done = true
+
+[[items]]
+name = "Tiger"
+condition = "Reach Mastery Rank 19."
+done = true
+
+[[items]]
+name = "Initiate"
+condition = "Reach Mastery Rank 1."
+done = true
+
+[[items]]
+name = "Dragon"
+condition = "Reach Mastery Rank 22."
+done = true
+
+[[items]]
+name = "Sage"
+condition = "Reach Mastery Rank 25."
+done = true
+
+[[items]]
+name = "Master"
+condition = "Reach Mastery Rank 28."
+done = true
+
+[[items]]
+name = "True Master"
+condition = "Reach Mastery Rank 30."
+done = true
+
+[[items]]
+name = "Novice"
+condition = "Reach Mastery Rank 4."
+done = true
+
+[[items]]
+name = "Disciple"
+condition = "Reach Mastery Rank 7."
+done = true
+
+[[items]]
+name = "Swordmaster"
+condition = "Awarded for obtaining Vexoric the Naramon Sword."
+done = true
+
+[[items]]
+name = "Chosen of Margulis"
+condition = "Awarded for completing the Quest 'The Old Peace'."
+done = true
+
+[[items]]
+name = "Historian of Tau"
+condition = "Awarded for completing the [https://warframe.com/the-old-peace/history-of-tau History of Tau] sequence."
+done = true
+
+[[items]]
+name = "Oraxia's Prey"
+condition = "Awarded for vanquishing Oraxia in Isleweaver."
+done = true
+
+[[items]]
+name = "Orb Liquidator"
+condition = "Awarded for defeating Profit-Taker and Exploiter Orb"
+done = true
+
+[[items]]
+name = "Savior of Perita"
+condition = "Awarded for collecting all 6 Accolade Glyphs from The Guilty."
+done = true
+
+[[items]]
+name = "My Light Goes With You"
+condition = "Awarded for clearing The Guilty."
+done = true
+
+[[items]]
+name = "Awoken Tenno"
+condition = "Awarded for completing 'The Second Dream'."
+done = true
+
+[[items]]
+name = "Friend of Sentients"
+condition = "Awarded for delivering 100 Energy Cores to Typholysts in The Perita Rebellion."
+done = true
+
+[[items]]
+name = "Executive Overrider"
+condition = "Awarded for vanquishing a Sister of Parvos."
+done = true
+
+[[items]]
+name = "Sleeping in the Cold Below"
+condition = "Reach Max Rank (40) with 5 Tenet Weapons."
+done = true
+
+[[items]]
+name = "Drifter"
+condition = "Awarded for completing 'The New War'."
+done = true
+
+[[items]]
+name = "Mountain Soul"
+condition = "Awarded for obtaining Cogron the Hammer of Unairu."
+done = true
+
+[[items]]
+name = "The Devil's Confessor"
+condition = "Awarded for listening to all 21 of Roathe's Trauma logs."
+done = true
+
+[[items]]
+name = "Exorcist"
+condition = "Awarded for defeating Roathe in The Descendia 21 times."
+done = true
+
+[[items]]
+name = "Staffbearer"
+condition = "Awarded for obtaining Nidri the Vazarin Staff."
+done = true
+
+[[items]]
+name = "The Void Called to Me"
+condition = "Awarded for collecting all 6 Accolade Glyphs from Janus Captain Vor."
+done = true
+
+[[items]]
+name = "Scholar of Secrets"
+condition = "Awarded for obtaining Lorak the Zenurik Grimoire."
+done = true
+
+[[items]]
+name = "Hoplite"
+condition = "Acquire Styanax Prime."
+done = true
+
+[[items]]
+name = "Hot Sludge"
+done = true
+
+[[items]]
+name = "Insign"
+condition = "Awarded for purchasing the Insign Pack."
+done = true
+
+[[items]]
+name = "Ironclad"
+done = true
+
+[[items]]
+name = "Jade's Guardian"
+done = true
+
+[[items]]
+name = "Kaithe Tamer Of Duviri"
+done = true
+
+[[items]]
+name = "Lamenting One"
+done = true
+
+[[items]]
+name = "Make Your Own Fate"
+condition = "Awarded for Devotion, Bravery, Sacrifice, and Death. <small>(see here)</small>"
+done = true
+
+[[items]]
+name = "Matriarch"
+done = true
+
+[[items]]
+name = "Mayor Of Corpus City"
+done = true
+
+[[items]]
+name = "Moon Devourer"
+done = true
+
+[[items]]
+name = "Naramon Vanguard"
+done = true
+
+[[items]]
+name = "Nemesis Of Eris"
+condition = "[https://www.warframe.com/taubound Attuned to your Vessel.] Complete the challenges from the Taubound teaser."
+done = true
+
+[[items]]
+name = "Night Gardener"
+done = true
+
+[[items]]
+name = "Of Golden Valor"
+done = true
+
+[[items]]
+name = "Ollie's Biggest Fan"
+condition = "Awarded for completing Ollie's Crash Course in under 1:30."
+done = true
+
+[[items]]
+name = "On That Far Shore Forlorn"
+done = true
+
+[[items]]
+name = "On This Beach Of An Earth"
+done = true
+
+[[items]]
+name = "Orokin Cell Executor"
+done = true
+
+[[items]]
+name = "Patriarch"
+done = true
+
+[[items]]
+name = "Payer Of The Ferryman"
+done = true
+
+[[items]]
+name = "Perigone"
+condition = "Awarded for completing the Grandis XX Perigone challenge."
+done = true
+
+[[items]]
+name = "Railmaker"
+done = true
+
+[[items]]
+name = "Retributor"
+condition = "Obtained from having completed the Law of Retribution Trial."
+done = true
+
+[[items]]
+name = "Sentinel Of Passion"
+done = true
+
+[[items]]
+name = "Servio"
+condition = "Awarded for completing the Servio V Sporoi challenge."
+done = true
+
+[[items]]
+name = "Shadow Conservator"
+done = true
+
+[[items]]
+name = "Spore Bearer"
+done = true
+
+[[items]]
+name = "Steel Soldier"
+done = true
+
+[[items]]
+name = "Supreme Operative"
+condition = "Awarded for beating Amir's High Score in Caliber Chicks 2."
+done = true
+
+[[items]]
+name = "Sworn Sister"
+done = true
+
+[[items]]
+name = "Taubound"
+done = true
+
+[[items]]
+name = "Tenens"
+condition = "Awarded for completing the Tenens IX Sporoi challenge."
+done = true
+
+[[items]]
+name = "Tenno Of A Thousand Days"
+condition = "Awarded for logging into WARFRAME for 1,000 days."
+done = true
+
+[[items]]
+name = "The Copper Kid"
+done = true
+
+[[items]]
+name = "The Final Verdict"
+condition = "Obtained from having completed the Jordas Verdict Trial."
+done = true
+
+[[items]]
+name = "The God Above Knowledge"
+done = true
+
+[[items]]
+name = "The Haunted"
+done = true
+
+[[items]]
+name = "The Invincible"
+done = true
+
+[[items]]
+name = "The Learned"
+done = true
+
+[[items]]
+name = "The Legend Of The Void"
+condition = "Prove yourself worthy. Obtain the Neote Rapier Skin."
+done = true
+
+[[items]]
+name = "The Mad King"
+done = true
+
+[[items]]
+name = "The Maniac Of Deimos"
+done = true
+
+[[items]]
+name = "The Moon Killer"
+done = true
+
+[[items]]
+name = "The Navigator"
+done = true
+
+[[items]]
+name = "The Persecuted"
+done = true
+
+[[items]]
+name = "The Power Of Harrow Compels Thee"
+condition = "250 Harrow  Chassis Blueprints"
+done = true
+
+[[items]]
+name = "The Scavenger"
+done = true
+
+[[items]]
+name = "The Sunderer"
+done = true
+
+[[items]]
+name = "Ticker's Angel"
+done = true
+
+[[items]]
+name = "Tried And True ."
+condition = "Obtained from having completed both the Law of Retribution and Jordas Verdict Trials."
+done = true
+
+[[items]]
+name = "Vay Hek's Nightmare"
+condition = "Obtained from having completed the Nightmare Law of Retribution Trial."
+done = true
+
+[[items]]
+name = "Vazarin Vanguard"
+done = true
+
+[[items]]
+name = "Volatile Mote"
+done = true
+
+[[items]]
+name = "Voyager"
+done = true
+
+[[items]]
+name = "Wave Rider"
+condition = "Complete every K-Drive Race in Orb Vallis."
+done = true
+
+[[items]]
+name = "Wolfmother"
+done = true
+
+[[items]]
+name = "Yuvan Rising"
+done = true

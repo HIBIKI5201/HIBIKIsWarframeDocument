@@ -60,18 +60,6 @@ note = "Update 43 で追加 / 日本語名未確認"
 done = false
 
 [[items]]
-name = "Celestial Clash（ソマコード）"
-source = "Pontis Tower の Hunhow（Crimson Talent）"
-note = "Update 43 で追加 / 日本語名未確認"
-done = false
-
-[[items]]
-name = "Scared Light（ソマコード）"
-source = "Pontis Tower の Hunhow（Emerald Talent）"
-note = "Update 43 で追加 / 日本語名未確認"
-done = false
-
-[[items]]
 name = "Hunhow's Trinket"
 source = "Pontis Tower の Hunhow（Crimson / Emerald Talent）"
 note = "Update 43 で追加 / 日本語名未確認"
@@ -109,18 +97,6 @@ done = false
 
 [[items]]
 name = "Fables & Frontiers 装飾品"
-source = "Amir のストア（Hex Standing）"
-note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
-
-[[items]]
-name = "Running Late（ソマコード）"
-source = "Amir のストア（Hex Standing）"
-note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
-
-[[items]]
-name = "A Byte-sized Adventure（ソマコード）"
 source = "Amir のストア（Hex Standing）"
 note = "Update 43.5 で追加 / 日本語名未確認"
 done = false
@@ -237,4 +213,58 @@ done = false
 name = "Rell's Emotile Display（16 種）"
 source = "Palladino（Riven Slivers）"
 note = "Update 42 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Vectis Incarnon Genesis"
+source = "Steel Path サーキット / Cavalero"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Stug Incarnon Genesis"
+source = "Steel Path サーキット / Cavalero"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Ballistica Incarnon Genesis"
+source = "Steel Path サーキット / Cavalero"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Destreza Incarnon Genesis"
+source = "Steel Path サーキット / Cavalero"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Obex Incarnon Genesis"
+source = "Steel Path サーキット / Cavalero"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Vena"
+source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Ryoku"
+source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Latrox Une"
+source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
+note = "Update 43 で追加 / 日本語名未確認"
+done = false
+
+[[items]]
+name = "Jarka Lar"
+source = "Pontis Tower の Hunhow（Talent、Command 10 が必要）"
+note = "Update 43 で追加 / 日本語名未確認"
 done = false

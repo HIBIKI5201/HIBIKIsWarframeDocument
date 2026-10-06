@@ -16,17 +16,31 @@
   const save = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
   hideDone.checked = load("hideDone") === "1";
 
+  // 項目の行の直後に並ぶ、その項目のパーツの行
+  function partRows(tr) {
+    const rows = [];
+    for (let r = tr.nextElementSibling; r && r.classList.contains("part-row"); r = r.nextElementSibling) rows.push(r);
+    return rows;
+  }
+
   function apply() {
     const term = q.value.trim().toLowerCase();
     const editing = document.body.classList.contains("editing");
     let anyVisible = false;
     for (const s of sections) {
       let visibleRows = 0;
-      for (const tr of s.querySelectorAll("tbody tr")) {
+      for (const d of s.querySelectorAll("details.done-list")) {
+        // 検索中は、完了済みの一覧に該当があれば開いて見せる
+        const hit = [...d.querySelectorAll("tr.item")].some((tr) => !term || tr.dataset.search.includes(term));
+        d.hidden = !hit || (hideDone.checked && !editing);
+        if (term && hit) d.open = true;
+      }
+      for (const tr of s.querySelectorAll("tbody tr.item")) {
         // 編集中は、操作した行が即座に消えないよう「完了を隠す」を効かせない
         const show = (!term || tr.dataset.search.includes(term)) &&
                      !(hideDone.checked && !editing && tr.classList.contains("done"));
         tr.hidden = !show;
+        for (const r of partRows(tr)) r.hidden = !show;
         if (show) visibleRows++;
       }
       s.hidden = (cat && s.dataset.cat !== cat) || visibleRows === 0;
@@ -64,9 +78,9 @@
 
   // 行の状態に合わせて、カテゴリ見出しの件数・進捗バーとチップの残り件数を更新する
   function refreshCounts(section) {
-    const rows = section.querySelectorAll("tbody tr");
-    const done = section.querySelectorAll("tbody tr.done").length;
-    section.querySelector(".done-n").textContent = done;
+    const rows = section.querySelectorAll("tbody tr.item");
+    const done = section.querySelectorAll("tbody tr.item.done").length;
+    for (const n of section.querySelectorAll(".done-n")) n.textContent = done;
     const pct = rows.length ? Math.round(done * 100 / rows.length) : 0;
     const bar = section.querySelector("header .bar");
     bar.setAttribute("aria-valuenow", pct);
@@ -75,19 +89,23 @@
     if (chip) chip.querySelector("small").textContent = rows.length - done;
   }
 
-  async function update(tr, action) {
+  async function update(tr, action, index) {
     const section = tr.closest("section.category");
     tr.classList.add("busy");
     try {
       const res = await fetch("/api/item", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ category: section.dataset.cat, name: tr.dataset.name, action }),
+        body: JSON.stringify({ category: section.dataset.cat, name: tr.dataset.name, action, index }),
       });
       const item = await res.json();
       if (!res.ok) throw new Error(item.error || res.statusText);
       tr.classList.toggle("done", item.done);
-      tr.querySelector(".check").setAttribute("aria-pressed", String(item.done));
+      tr.querySelector(".check:not(.part)").setAttribute("aria-pressed", String(item.done));
+      partRows(tr).forEach((r, k) => {
+        r.classList.toggle("done", item.parts[k]);
+        r.querySelector(".part").setAttribute("aria-pressed", String(item.parts[k]));
+      });
       const qty = tr.querySelector(".qty");
       if (qty && item.required !== null) qty.textContent = "×" + item.required;
       const time = tr.querySelector("time.updated");
@@ -103,9 +121,12 @@
   document.addEventListener("click", (e) => {
     if (!document.body.classList.contains("editing")) return;
     const btn = e.target.closest("button.check:not([disabled]), button.step");
-    const tr = btn && btn.closest("tr");
+    let tr = btn && btn.closest("tr");
+    // パーツの行で押されたら、その上にある項目の行を対象にする
+    while (tr && tr.classList.contains("part-row")) tr = tr.previousElementSibling;
     if (!tr || tr.classList.contains("busy")) return;
-    update(tr, btn.classList.contains("check") ? "toggle" : btn.dataset.action);
+    if (btn.classList.contains("part")) update(tr, "part", Number(btn.dataset.index));
+    else update(tr, btn.classList.contains("check") ? "toggle" : btn.dataset.action);
   });
 
   // 書き込み API は serve.py で配信しているときだけ使える

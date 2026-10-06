@@ -1,0 +1,27 @@
+[category]
+title = "ソマコード"
+order = 8
+
+[[items]]
+name = "Celestial Clash"
+source = "Pontis Tower の Hunhow（Crimson Talent）"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Scared Light"
+source = "Pontis Tower の Hunhow（Emerald Talent）"
+note = "Update 43 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "Running Late"
+source = "Amir のストア（Hex Standing）"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = true
+
+[[items]]
+name = "A Byte-sized Adventure"
+source = "Amir のストア（Hex Standing）"
+note = "Update 43.5 で追加 / 日本語名未確認"
+done = true

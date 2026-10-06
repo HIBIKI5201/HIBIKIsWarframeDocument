@@ -48,7 +48,7 @@ def load_todo(con: sqlite3.Connection) -> None:
         )
         for n, item in enumerate(data.get("items", [])):
             updated = item.get("updated")
-            con.execute(
+            cur = con.execute(
                 """INSERT INTO items (category_id, name, source, condition, required,
                                       url, note, done, updated_at, sort_order)
                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
@@ -59,6 +59,11 @@ def load_todo(con: sqlite3.Connection) -> None:
                     updated.isoformat(timespec="minutes") if updated else None, n,
                 ),
             )
+            con.executemany(
+                "INSERT INTO parts (item_id, idx, name, source, done) VALUES (?, ?, ?, ?, ?)",
+                [(cur.lastrowid, k, p["name"], p.get("source"), int(bool(p.get("done", False))))
+                 for k, p in enumerate(item.get("parts", []))],
+            )
 
 
 
@@ -67,9 +72,13 @@ def build_db() -> sqlite3.Connection:
     DB_PATH.unlink(missing_ok=True)
     con = sqlite3.connect(DB_PATH)
     con.row_factory = sqlite3.Row
-    con.executescript((ROOT / "db" / "schema.sql").read_text(encoding="utf-8"))
-    load_todo(con)
-    con.commit()
+    try:
+        con.executescript((ROOT / "db" / "schema.sql").read_text(encoding="utf-8"))
+        load_todo(con)
+        con.commit()
+    except Exception:
+        con.close()  # 開いたままだと Windows では次のビルドで todo.db を消せなくなる
+        raise
     return con
 
 
@@ -87,6 +96,8 @@ def write_page(rel: str, title: str, body: str, nav: str) -> None:
         nav_home="current" if nav == "home" else "",
         nav_todo="current" if nav == "todo" else "",
         built=datetime.now().strftime("%Y-%m-%d %H:%M"),
+        # 古い CSS / JS をブラウザのキャッシュから使わないよう、ビルドごとに URL を変える
+        version=datetime.now().strftime("%Y%m%d%H%M%S"),
     )
     out = SITE / rel
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -130,6 +141,11 @@ def cell(col: str, value) -> str:
     return f"<td>{esc(str(value))}</td>"
 
 
+def table(head: str, rows: list[str]) -> str:
+    return (f'<div class="table-wrap"><table><thead><tr>{head}</tr></thead>'
+            f'<tbody>{"".join(rows)}</tbody></table></div>')
+
+
 def render_todo(con: sqlite3.Connection) -> None:
     cats = con.execute("SELECT * FROM category_progress").fetchall()
     chips = "\n".join(
@@ -142,27 +158,51 @@ def render_todo(con: sqlite3.Connection) -> None:
         items = con.execute(
             "SELECT * FROM items WHERE category_id = ? ORDER BY done, sort_order", (c["id"],)
         ).fetchall()
-        cols = [(k, label) for k, label in OPTIONAL_COLUMNS if any(i[k] is not None for i in items)]
+        parts_of = {
+            i["id"]: con.execute("SELECT * FROM parts WHERE item_id = ? ORDER BY idx", (i["id"],)).fetchall()
+            for i in items
+        }
+        # パーツだけに入手場所 (Prime のレリックなど) がある場合も入手場所の列を出す
+        part_source = any(p["source"] for ps in parts_of.values() for p in ps)
+        cols = [(k, label) for k, label in OPTIONAL_COLUMNS
+                if any(i[k] is not None for i in items) or (k == "source" and part_source)]
         head = "<th>名前</th>" + "".join(f"<th>{label}</th>" for _, label in cols)
-        rows = []
+        rows_of = {0: [], 1: []}
         for i in items:
-            search = " ".join(str(i[k]) for k in ("name", "source", "condition", "note") if i[k])
+            rows = rows_of[i["done"]]
+            parts = parts_of[i["id"]]
+            # パーツの入手場所 (レリック名など) でも検索できるようにする
+            search = " ".join([str(i[k]) for k in ("name", "source", "condition", "note") if i[k]]
+                              + [p["source"] for p in parts if p["source"]])
             note = f'<div class="note">{esc(i["note"])}</div>' if i["note"] else ""
             # 必要数がある項目 (アルケインなど) は +/- で、それ以外はチェックで完了を切り替える
             counted = i["required"] is not None
             rows.append(
-                f'<tr class="{"done" if i["done"] else ""}" data-search="{esc(search.lower())}"'
+                f'<tr class="item{" done" if i["done"] else ""}" data-search="{esc(search.lower())}"'
                 f' data-name="{esc(i["name"])}" data-kind="{"count" if counted else "check"}">'
                 f'<td class="name"><button type="button" class="check" aria-pressed="{str(bool(i["done"])).lower()}"'
                 f' aria-label="完了"{" disabled" if counted else ""}></button>{esc(i["name"])}{note}</td>'
                 + "".join(cell(k, i[k]) for k, _ in cols) + "</tr>"
             )
+            # パーツは項目の下に 1 行ずつ並べ、パーツ固有の入手場所は入手場所の列に出す
+            for pt in parts:
+                rows.append(
+                    f'<tr class="part-row{" done" if pt["done"] else ""}">'
+                    f'<td class="name"><button type="button" class="check part" data-index="{pt["idx"]}"'
+                    f' aria-pressed="{str(bool(pt["done"])).lower()}" aria-label="{esc(pt["name"])}"></button>'
+                    f'{esc(pt["name"])}</td>'
+                    + "".join(cell(k, pt["source"]) if k == "source" else "<td></td>" for k, _ in cols)
+                    + "</tr>"
+                )
         sections.append(
             f'<section class="category" id="{c["id"]}" data-cat="{c["id"]}">'
             f'<header><h2>{esc(c["title"])}</h2><span class="count"><span class="done-n">{c["done"]}</span> / {c["total"]}</span>'
             f'{progress_bar(c["done"], c["total"])}</header>'
-            f'<div class="table-wrap"><table><thead><tr>{head}</tr></thead>'
-            f'<tbody>{"".join(rows)}</tbody></table></div></section>'
+            + table(head, rows_of[0])
+            # 完了済みは未完了の一覧と分け、折りたたんだ別の一覧にする
+            + (f'<details class="done-list"><summary>完了済み <span class="done-n">{c["done"]}</span> 件</summary>'
+               + table(head, rows_of[1]) + '</details>' if rows_of[1] else '')
+            + '</section>'
         )
     body = template("todo.html").substitute(chips=chips, sections="\n".join(sections))
     write_page("todo/index.html", "TODO", body, "todo")
@@ -171,12 +211,14 @@ def render_todo(con: sqlite3.Connection) -> None:
 
 def build() -> None:
     con = build_db()
-    if SITE.exists():
-        shutil.rmtree(SITE)
-    shutil.copytree(STATIC, SITE / "static")
-    render_home(con)
-    render_todo(con)
-    con.close()
+    try:
+        if SITE.exists():
+            shutil.rmtree(SITE)
+        shutil.copytree(STATIC, SITE / "static")
+        render_home(con)
+        render_todo(con)
+    finally:
+        con.close()
 
 
 if __name__ == "__main__":

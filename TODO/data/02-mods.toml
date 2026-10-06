@@ -4,14 +4,14 @@ title = "MOD"
 order = 2
 
 [[items]]
-name = "Dreamer’s Wraith"
+name = "Dreamer's Wrath"
 source = "錬金術"
 done = false
 
 [[items]]
 name = "Boitic Rounds"
 source = "Night Wave"
-done = false
+done = true
 
 [[items]]
 name = "Reroot Rampage"
@@ -19,7 +19,7 @@ source = "ペリン・ベール"
 done = false
 
 [[items]]
-name = "Rythem Guide"
+name = "Rhythm Guard"
 source = "メリディアン・ロカ"
 done = false
 
@@ -51,46 +51,5008 @@ done = false
 name = "Truth's Flame"
 source = "Aspirant Zorba（Atramentum）"
 note = "Update 42 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Noctua Swarm"
 source = "Arbiters of Hexis / Cephalon Suda"
 note = "Update 43 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Kumihimo Loading"
 source = "Arbiters of Hexis / New Loka"
 note = "Update 43 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Prototype Shock Coils"
 source = "Nightwave"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Overpressured Rounds"
 source = "Nightwave"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Vile Discharge"
 source = "Cred Offerings"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Sentient Surge"
 source = "Cred Offerings"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
 
 [[items]]
 name = "Leaded Gas"
 source = "Cred Offerings"
 note = "Update 43.5 で追加 / 日本語名未確認"
-done = false
+done = true
+
+[[items]]
+name = "Rifle Riven Mod"
+condition = "ベールを外してコーデックスに登録"
+done = true
+
+[[items]]
+name = "Shotgun Riven Mod"
+condition = "ベールを外してコーデックスに登録"
+done = true
+
+[[items]]
+name = "Pistol Riven Mod"
+condition = "ベールを外してコーデックスに登録"
+done = true
+
+[[items]]
+name = "Melee Riven Mod"
+condition = "ベールを外してコーデックスに登録"
+done = true
+
+[[items]]
+name = "Kitgun Riven Mod"
+condition = "ベールを外してコーデックスに登録"
+done = true
+
+[[items]]
+name = "Zaw Riven Mod"
+condition = "ベールを外してコーデックスに登録"
+done = true
+
+[[items]]
+name = "Abating Link"
+done = true
+
+[[items]]
+name = "Abundant Mutation"
+done = true
+
+[[items]]
+name = "Accelerated Blast"
+done = true
+
+[[items]]
+name = "Accelerated Deflection"
+done = true
+
+[[items]]
+name = "Accelerated Isotope"
+done = true
+
+[[items]]
+name = "Accumulating Whipclaw"
+done = true
+
+[[items]]
+name = "Acid Shells"
+done = true
+
+[[items]]
+name = "Acidic Spittle"
+done = true
+
+[[items]]
+name = "Adaptation"
+done = true
+
+[[items]]
+name = "Adhesive Blast"
+done = true
+
+[[items]]
+name = "Aegis Gale"
+done = true
+
+[[items]]
+name = "Aerial Ace"
+done = true
+
+[[items]]
+name = "Aerial Bond"
+done = true
+
+[[items]]
+name = "Aerial Prospectus"
+done = true
+
+[[items]]
+name = "Aero Agility"
+done = true
+
+[[items]]
+name = "Aero Periphery"
+done = true
+
+[[items]]
+name = "Aero Vantage"
+done = true
+
+[[items]]
+name = "Aerodynamic"
+done = true
+
+[[items]]
+name = "Afterburn"
+done = true
+
+[[items]]
+name = "Afterburner"
+done = true
+
+[[items]]
+name = "Agility Drift"
+done = true
+
+[[items]]
+name = "Air Time"
+done = true
+
+[[items]]
+name = "Airburst Rounds"
+done = true
+
+[[items]]
+name = "Amalgam Argonak Metal Auger"
+done = true
+
+[[items]]
+name = "Amalgam Barrel Diffusion"
+done = true
+
+[[items]]
+name = "Amalgam Daikyu Target Acquired"
+done = true
+
+[[items]]
+name = "Amalgam Furax Body Count"
+done = true
+
+[[items]]
+name = "Amalgam Javlok Magazine Warp"
+done = true
+
+[[items]]
+name = "Amalgam Organ Shatter"
+done = true
+
+[[items]]
+name = "Amalgam Ripkas True Steel"
+done = true
+
+[[items]]
+name = "Amalgam Serration"
+done = true
+
+[[items]]
+name = "Amalgam Shotgun Barrage"
+done = true
+
+[[items]]
+name = "Amanata Pressure"
+done = true
+
+[[items]]
+name = "Amar's Anguish"
+done = true
+
+[[items]]
+name = "Amar's Contempt"
+done = true
+
+[[items]]
+name = "Amar's Hatred"
+done = true
+
+[[items]]
+name = "Ambush"
+done = true
+
+[[items]]
+name = "Ammo Case"
+done = true
+
+[[items]]
+name = "Ammo Chain"
+done = true
+
+[[items]]
+name = "Ammo Drum"
+done = true
+
+[[items]]
+name = "Ammo Stock"
+done = true
+
+[[items]]
+name = "Anabolic Pollination"
+done = true
+
+[[items]]
+name = "Anchored Glide"
+done = true
+
+[[items]]
+name = "Anemic Agility"
+done = true
+
+[[items]]
+name = "Animal Instinct"
+done = true
+
+[[items]]
+name = "Anti-Grav Array"
+done = true
+
+[[items]]
+name = "Anti-Grav Grenade"
+done = true
+
+[[items]]
+name = "Anti-V"
+done = true
+
+[[items]]
+name = "Antimatter Absorb"
+done = true
+
+[[items]]
+name = "Antimatter Mine"
+done = true
+
+[[items]]
+name = "Antitoxin"
+done = true
+
+[[items]]
+name = "Arc Coil"
+done = true
+
+[[items]]
+name = "Archgun Ace"
+done = true
+
+[[items]]
+name = "Archon Continuity"
+done = true
+
+[[items]]
+name = "Archon Flow"
+done = true
+
+[[items]]
+name = "Archon Intensify"
+done = true
+
+[[items]]
+name = "Archon Stretch"
+done = true
+
+[[items]]
+name = "Archon Vitality"
+done = true
+
+[[items]]
+name = "Argon Plating"
+done = true
+
+[[items]]
+name = "Argon Scope"
+done = true
+
+[[items]]
+name = "Armored Agility"
+done = true
+
+[[items]]
+name = "Arrow Mutation"
+done = true
+
+[[items]]
+name = "Artillery Cheap Shot"
+done = true
+
+[[items]]
+name = "Assassin Posture"
+done = true
+
+[[items]]
+name = "Assault Mode"
+done = true
+
+[[items]]
+name = "Assimilate"
+done = true
+
+[[items]]
+name = "Astral Autopsy"
+done = true
+
+[[items]]
+name = "Astral Bond"
+done = true
+
+[[items]]
+name = "Astral Slash"
+done = true
+
+[[items]]
+name = "Astral Twilight"
+done = true
+
+[[items]]
+name = "Atlantis Vulcan"
+done = true
+
+[[items]]
+name = "Atomic Fallout"
+done = true
+
+[[items]]
+name = "Auger Strike"
+done = true
+
+[[items]]
+name = "Augur Accord"
+done = true
+
+[[items]]
+name = "Augur Message"
+done = true
+
+[[items]]
+name = "Augur Pact"
+done = true
+
+[[items]]
+name = "Augur Reach"
+done = true
+
+[[items]]
+name = "Augur Secrets"
+done = true
+
+[[items]]
+name = "Augur Seeker"
+done = true
+
+[[items]]
+name = "Auto Breach"
+done = true
+
+[[items]]
+name = "Auto Omni"
+done = true
+
+[[items]]
+name = "Automatic Trigger"
+done = true
+
+[[items]]
+name = "Auxiliary Power"
+done = true
+
+[[items]]
+name = "Avenging Truth"
+done = true
+
+[[items]]
+name = "Aviator"
+done = true
+
+[[items]]
+name = "Axios Javelineers"
+done = true
+
+[[items]]
+name = "Balanced Posture"
+done = true
+
+[[items]]
+name = "Balefire Surge"
+done = true
+
+[[items]]
+name = "Ballista Measure"
+done = true
+
+[[items]]
+name = "Ballistic Bullseye"
+done = true
+
+[[items]]
+name = "Bane Of Corpus"
+done = true
+
+[[items]]
+name = "Bane Of Grineer"
+done = true
+
+[[items]]
+name = "Bane Of Infested"
+done = true
+
+[[items]]
+name = "Bane Of Orokin"
+done = true
+
+[[items]]
+name = "Bane Of The Murmur"
+done = true
+
+[[items]]
+name = "Barrel Diffusion"
+done = true
+
+[[items]]
+name = "Battering Maneuver"
+done = true
+
+[[items]]
+name = "Battle Forge"
+done = true
+
+[[items]]
+name = "Battle Stations"
+done = true
+
+[[items]]
+name = "Beguiling Lantern"
+done = true
+
+[[items]]
+name = "Bell Ringer"
+done = true
+
+[[items]]
+name = "Berserker Fury"
+done = true
+
+[[items]]
+name = "Bhisaj-Bal"
+done = true
+
+[[items]]
+name = "Biotic Rounds"
+done = true
+
+[[items]]
+name = "Bite"
+done = true
+
+[[items]]
+name = "Biting Frost"
+done = true
+
+[[items]]
+name = "Blackout Pulse"
+done = true
+
+[[items]]
+name = "Blade Of Truth"
+done = true
+
+[[items]]
+name = "Bladed Rounds"
+done = true
+
+[[items]]
+name = "Blast Shield"
+done = true
+
+[[items]]
+name = "Blaze"
+done = true
+
+[[items]]
+name = "Blazing Pillage"
+done = true
+
+[[items]]
+name = "Blazing Steel"
+done = true
+
+[[items]]
+name = "Bleeding Edge"
+done = true
+
+[[items]]
+name = "Bleeding Willow"
+done = true
+
+[[items]]
+name = "Blending Talons"
+done = true
+
+[[items]]
+name = "Blind Justice"
+done = true
+
+[[items]]
+name = "Blind Rage"
+done = true
+
+[[items]]
+name = "Blinding Reave"
+done = true
+
+[[items]]
+name = "Blood For Ammo"
+done = true
+
+[[items]]
+name = "Blood For Energy"
+done = true
+
+[[items]]
+name = "Blood For Life"
+done = true
+
+[[items]]
+name = "Blood Forge"
+done = true
+
+[[items]]
+name = "Blood Rush"
+done = true
+
+[[items]]
+name = "Bloodthirst"
+done = true
+
+[[items]]
+name = "Blunderbuss"
+done = true
+
+[[items]]
+name = "Body Count"
+done = true
+
+[[items]]
+name = "Bomb The Landin'"
+done = true
+
+[[items]]
+name = "Bore"
+done = true
+
+[[items]]
+name = "Boreal's Anguish"
+done = true
+
+[[items]]
+name = "Boreal's Contempt"
+done = true
+
+[[items]]
+name = "Boreal's Hatred"
+done = true
+
+[[items]]
+name = "Botanist"
+done = true
+
+[[items]]
+name = "Breach Loader"
+done = true
+
+[[items]]
+name = "Breach Quanta"
+done = true
+
+[[items]]
+name = "Brief Respite"
+done = true
+
+[[items]]
+name = "Bright Purity"
+done = true
+
+[[items]]
+name = "Brutal Tide"
+done = true
+
+[[items]]
+name = "Brute Conditioning"
+done = true
+
+[[items]]
+name = "Bullet Dance"
+done = true
+
+[[items]]
+name = "Burdened Magazine"
+done = true
+
+[[items]]
+name = "Burning Claws"
+done = true
+
+[[items]]
+name = "Burning Hate"
+done = true
+
+[[items]]
+name = "Burning Wasp"
+done = true
+
+[[items]]
+name = "Bursting Mass"
+done = true
+
+[[items]]
+name = "Butcher's Revelry"
+done = true
+
+[[items]]
+name = "Buzz Kill"
+done = true
+
+[[items]]
+name = "Byteryte"
+done = true
+
+[[items]]
+name = "Calculated Redirection"
+done = true
+
+[[items]]
+name = "Calculated Shot"
+done = true
+
+[[items]]
+name = "Calm & Frenzy"
+done = true
+
+[[items]]
+name = "Capacitance"
+done = true
+
+[[items]]
+name = "Carnis Carapace"
+done = true
+
+[[items]]
+name = "Carnis Mandible"
+done = true
+
+[[items]]
+name = "Carnis Stinger"
+done = true
+
+[[items]]
+name = "Carving Mantis"
+done = true
+
+[[items]]
+name = "Cat's Eye"
+done = true
+
+[[items]]
+name = "Cataclysmic Continuum"
+done = true
+
+[[items]]
+name = "Cataclysmic Gate"
+done = true
+
+[[items]]
+name = "Catalyzer Link"
+done = true
+
+[[items]]
+name = "Catalyzing Shields"
+done = true
+
+[[items]]
+name = "Catapult"
+done = true
+
+[[items]]
+name = "Cathode Current"
+done = true
+
+[[items]]
+name = "Cautious Shot"
+done = true
+
+[[items]]
+name = "Celestial Stomp"
+done = true
+
+[[items]]
+name = "Champion's Blessing"
+done = true
+
+[[items]]
+name = "Chaos Sphere"
+done = true
+
+[[items]]
+name = "Charged Bullets"
+done = true
+
+[[items]]
+name = "Charged Chamber"
+done = true
+
+[[items]]
+name = "Charged Shell"
+done = true
+
+[[items]]
+name = "Charm"
+done = true
+
+[[items]]
+name = "Chilling Claws"
+done = true
+
+[[items]]
+name = "Chilling Globe"
+done = true
+
+[[items]]
+name = "Chilling Grasp"
+done = true
+
+[[items]]
+name = "Chilling Reload"
+done = true
+
+[[items]]
+name = "Chromatic Blade"
+done = true
+
+[[items]]
+name = "Cleanse Corpus"
+done = true
+
+[[items]]
+name = "Cleanse Grineer"
+done = true
+
+[[items]]
+name = "Cleanse Infested"
+done = true
+
+[[items]]
+name = "Cleanse Orokin"
+done = true
+
+[[items]]
+name = "Cleanse The Murmur"
+done = true
+
+[[items]]
+name = "Cleaving Whirlwind"
+done = true
+
+[[items]]
+name = "Clip Delegation"
+done = true
+
+[[items]]
+name = "Coaction Drift"
+done = true
+
+[[items]]
+name = "Coil Recharge"
+done = true
+
+[[items]]
+name = "Coiling Viper"
+done = true
+
+[[items]]
+name = "Cold Arrival"
+done = true
+
+[[items]]
+name = "Cold Snap"
+done = true
+
+[[items]]
+name = "Collision Force"
+done = true
+
+[[items]]
+name = "Combat Discipline"
+done = true
+
+[[items]]
+name = "Combat Reload"
+done = true
+
+[[items]]
+name = "Combo Fury"
+done = true
+
+[[items]]
+name = "Combo Killer"
+done = true
+
+[[items]]
+name = "Combustion Beam"
+done = true
+
+[[items]]
+name = "Combustion Rounds"
+done = true
+
+[[items]]
+name = "Comet Blast"
+done = true
+
+[[items]]
+name = "Computer Cop"
+done = true
+
+[[items]]
+name = "Concealed Explosives"
+done = true
+
+[[items]]
+name = "Concentrated Arrow"
+done = true
+
+[[items]]
+name = "Concussion Rounds"
+done = true
+
+[[items]]
+name = "Condition Overload"
+done = true
+
+[[items]]
+name = "Condition's Perfection"
+done = true
+
+[[items]]
+name = "Conductive Blade"
+done = true
+
+[[items]]
+name = "Conductive Sphere"
+done = true
+
+[[items]]
+name = "Conductor"
+done = true
+
+[[items]]
+name = "Conic Nozzle"
+done = true
+
+[[items]]
+name = "Constitution"
+done = true
+
+[[items]]
+name = "Contagion Cloud"
+done = true
+
+[[items]]
+name = "Contagious Bond"
+done = true
+
+[[items]]
+name = "Contagious Spread"
+done = true
+
+[[items]]
+name = "Containment Breach"
+done = true
+
+[[items]]
+name = "Contamination Casing"
+done = true
+
+[[items]]
+name = "Continuity"
+done = true
+
+[[items]]
+name = "Continuous Misery"
+done = true
+
+[[items]]
+name = "Controlled Slide"
+done = true
+
+[[items]]
+name = "Convulsion"
+done = true
+
+[[items]]
+name = "Coolant Leak"
+done = true
+
+[[items]]
+name = "Cordon"
+done = true
+
+[[items]]
+name = "Corrosive Projection"
+done = true
+
+[[items]]
+name = "Corrupt Charge"
+done = true
+
+[[items]]
+name = "Counter Pulse"
+done = true
+
+[[items]]
+name = "Counterbalance"
+done = true
+
+[[items]]
+name = "Countermeasures"
+done = true
+
+[[items]]
+name = "Covert Bond"
+done = true
+
+[[items]]
+name = "Covert Lethality"
+done = true
+
+[[items]]
+name = "Crash Course"
+done = true
+
+[[items]]
+name = "Creeping Bullseye"
+done = true
+
+[[items]]
+name = "Creeping Terrify"
+done = true
+
+[[items]]
+name = "Crescent Charge"
+done = true
+
+[[items]]
+name = "Crescent Devolution"
+done = true
+
+[[items]]
+name = "Crimson Dervish"
+done = true
+
+[[items]]
+name = "Crimson Fugue"
+done = true
+
+[[items]]
+name = "Critical Deceleration"
+done = true
+
+[[items]]
+name = "Critical Delay"
+done = true
+
+[[items]]
+name = "Critical Focus"
+done = true
+
+[[items]]
+name = "Critical Meltdown"
+done = true
+
+[[items]]
+name = "Critical Mutation"
+done = true
+
+[[items]]
+name = "Critical Precision"
+done = true
+
+[[items]]
+name = "Critical Surge"
+done = true
+
+[[items]]
+name = "Crossing Snakes"
+done = true
+
+[[items]]
+name = "Crowd Dispersion"
+done = true
+
+[[items]]
+name = "Cruising Speed"
+done = true
+
+[[items]]
+name = "Crushing Ruin"
+done = true
+
+[[items]]
+name = "Cryo Coating"
+done = true
+
+[[items]]
+name = "Cryo Rounds"
+done = true
+
+[[items]]
+name = "Cull The Weak"
+done = true
+
+[[items]]
+name = "Cunning Drift"
+done = true
+
+[[items]]
+name = "Cutting Edge"
+done = true
+
+[[items]]
+name = "Cyclone Kraken"
+done = true
+
+[[items]]
+name = "Damage Decoy"
+done = true
+
+[[items]]
+name = "Damzav-Vati"
+done = true
+
+[[items]]
+name = "Dark Propagation"
+done = true
+
+[[items]]
+name = "Dead Eye"
+done = true
+
+[[items]]
+name = "Deadly Efficiency"
+done = true
+
+[[items]]
+name = "Deadly Maneuvers"
+done = true
+
+[[items]]
+name = "Deadly Sequence"
+done = true
+
+[[items]]
+name = "Death Blossom"
+done = true
+
+[[items]]
+name = "Deceptive Bond"
+done = true
+
+[[items]]
+name = "Decisive Judgement"
+done = true
+
+[[items]]
+name = "Deep Freeze"
+done = true
+
+[[items]]
+name = "Defensive Fire"
+done = true
+
+[[items]]
+name = "Defiled Reckoning"
+done = true
+
+[[items]]
+name = "Defiled Snapdragon"
+done = true
+
+[[items]]
+name = "Depleted Reload"
+done = true
+
+[[items]]
+name = "Desiccation's Curse"
+done = true
+
+[[items]]
+name = "Despoil"
+done = true
+
+[[items]]
+name = "Detect Vulnerability"
+done = true
+
+[[items]]
+name = "Diamond Skin"
+done = true
+
+[[items]]
+name = "Dig"
+done = true
+
+[[items]]
+name = "Disabling Conditioning"
+done = true
+
+[[items]]
+name = "Disarming Purity"
+done = true
+
+[[items]]
+name = "Discharge Strike"
+done = true
+
+[[items]]
+name = "Discipline's Merit"
+done = true
+
+[[items]]
+name = "Dispatch Overdrive"
+done = true
+
+[[items]]
+name = "Disruptor"
+done = true
+
+[[items]]
+name = "Diversified Denial"
+done = true
+
+[[items]]
+name = "Divine Retribution"
+done = true
+
+[[items]]
+name = "Dizzying Rounds"
+done = true
+
+[[items]]
+name = "Draining Bite"
+done = true
+
+[[items]]
+name = "Dread Ward"
+done = true
+
+[[items]]
+name = "Dreadful Killshot"
+done = true
+
+[[items]]
+name = "Dreamer's Bond"
+done = true
+
+[[items]]
+name = "Drifting Contact"
+done = true
+
+[[items]]
+name = "Drive-Duster"
+done = true
+
+[[items]]
+name = "Dual Rounds"
+done = true
+
+[[items]]
+name = "Duality"
+done = true
+
+[[items]]
+name = "Duplex Bond"
+done = true
+
+[[items]]
+name = "Eagle Eye"
+done = true
+
+[[items]]
+name = "Efficient Beams"
+done = true
+
+[[items]]
+name = "Efficient Transferral"
+done = true
+
+[[items]]
+name = "Electrified Barrel"
+done = true
+
+[[items]]
+name = "Electro Pulse"
+done = true
+
+[[items]]
+name = "Electromagnetic Shielding"
+done = true
+
+[[items]]
+name = "Elemental Sandstorm"
+done = true
+
+[[items]]
+name = "Eleventh Storm"
+done = true
+
+[[items]]
+name = "Elusive Posture"
+done = true
+
+[[items]]
+name = "Elusive Retribution"
+done = true
+
+[[items]]
+name = "Embedded Catalyzer"
+done = true
+
+[[items]]
+name = "Emp Aura"
+done = true
+
+[[items]]
+name = "Empowered Blades"
+done = true
+
+[[items]]
+name = "Empowered Quiver"
+done = true
+
+[[items]]
+name = "Endless Lullaby"
+done = true
+
+[[items]]
+name = "Endoparasitic Vector"
+done = true
+
+[[items]]
+name = "Endurance Drift"
+done = true
+
+[[items]]
+name = "Enduring Affliction"
+done = true
+
+[[items]]
+name = "Enduring Bastille"
+done = true
+
+[[items]]
+name = "Enduring Strike"
+done = true
+
+[[items]]
+name = "Enemy Radar"
+done = true
+
+[[items]]
+name = "Enemy Sense"
+done = true
+
+[[items]]
+name = "Energizing Shot"
+done = true
+
+[[items]]
+name = "Energy Amplifier"
+done = true
+
+[[items]]
+name = "Energy Channel"
+done = true
+
+[[items]]
+name = "Energy Conversion"
+done = true
+
+[[items]]
+name = "Energy Field"
+done = true
+
+[[items]]
+name = "Energy Generator"
+done = true
+
+[[items]]
+name = "Energy Inversion"
+done = true
+
+[[items]]
+name = "Energy Nexus"
+done = true
+
+[[items]]
+name = "Energy Siphon"
+done = true
+
+[[items]]
+name = "Energy Transfer"
+done = true
+
+[[items]]
+name = "Enhanced Durability"
+done = true
+
+[[items]]
+name = "Enhanced Vitality"
+done = true
+
+[[items]]
+name = "Enraged"
+done = true
+
+[[items]]
+name = "Entropy Burst"
+done = true
+
+[[items]]
+name = "Entropy Detonation"
+done = true
+
+[[items]]
+name = "Entropy Flight"
+done = true
+
+[[items]]
+name = "Entropy Spike"
+done = true
+
+[[items]]
+name = "Enveloping Cloud"
+done = true
+
+[[items]]
+name = "Equilibrium"
+done = true
+
+[[items]]
+name = "Equilibrium Audit"
+done = true
+
+[[items]]
+name = "Eroding Blight"
+done = true
+
+[[items]]
+name = "Escape Velocity"
+done = true
+
+[[items]]
+name = "Eternal War"
+done = true
+
+[[items]]
+name = "Evasive Denial"
+done = true
+
+[[items]]
+name = "Everlasting Ward"
+done = true
+
+[[items]]
+name = "Eximus Advantage"
+done = true
+
+[[items]]
+name = "Exothermic"
+done = true
+
+[[items]]
+name = "Expel Corpus"
+done = true
+
+[[items]]
+name = "Expel Grineer"
+done = true
+
+[[items]]
+name = "Expel Infested"
+done = true
+
+[[items]]
+name = "Expel Orokin"
+done = true
+
+[[items]]
+name = "Expel The Murmur"
+done = true
+
+[[items]]
+name = "Explosive Legerdemain"
+done = true
+
+[[items]]
+name = "Exposing Harpoon"
+done = true
+
+[[items]]
+name = "Extend"
+done = true
+
+[[items]]
+name = "Extreme Velocity"
+done = true
+
+[[items]]
+name = "Failsafe"
+done = true
+
+[[items]]
+name = "Fanged Fusillade"
+done = true
+
+[[items]]
+name = "Fass"
+done = true
+
+[[items]]
+name = "Fass Canticle"
+done = true
+
+[[items]]
+name = "Fast Deflection"
+done = true
+
+[[items]]
+name = "Fast Hands"
+done = true
+
+[[items]]
+name = "Fatal Acceleration"
+done = true
+
+[[items]]
+name = "Fatal Attraction"
+done = true
+
+[[items]]
+name = "Fear Sense"
+done = true
+
+[[items]]
+name = "Ferocity"
+done = true
+
+[[items]]
+name = "Fetch"
+done = true
+
+[[items]]
+name = "Fever Strike"
+done = true
+
+[[items]]
+name = "Final Harbinger"
+done = true
+
+[[items]]
+name = "Finishing Touch"
+done = true
+
+[[items]]
+name = "Fire Suppression"
+done = true
+
+[[items]]
+name = "Fireball Frenzy"
+done = true
+
+[[items]]
+name = "Fired Up"
+done = true
+
+[[items]]
+name = "Firestorm"
+done = true
+
+[[items]]
+name = "Firewalker"
+done = true
+
+[[items]]
+name = "Firewall"
+done = true
+
+[[items]]
+name = "Flailing Branch"
+done = true
+
+[[items]]
+name = "Flame Gland"
+done = true
+
+[[items]]
+name = "Flame Repellent"
+done = true
+
+[[items]]
+name = "Flechette"
+done = true
+
+[[items]]
+name = "Fleeting Expertise"
+done = true
+
+[[items]]
+name = "Flow"
+done = true
+
+[[items]]
+name = "Flow Burn"
+done = true
+
+[[items]]
+name = "Flux Overdrive"
+done = true
+
+[[items]]
+name = "Focus Energy"
+done = true
+
+[[items]]
+name = "Focus Radon"
+done = true
+
+[[items]]
+name = "Focused Defense"
+done = true
+
+[[items]]
+name = "Focused Prospectus"
+done = true
+
+[[items]]
+name = "Fomorian Accelerant"
+done = true
+
+[[items]]
+name = "Form Up"
+done = true
+
+[[items]]
+name = "Fortifying Fire"
+done = true
+
+[[items]]
+name = "Fortitude"
+done = true
+
+[[items]]
+name = "Forward Artillery"
+done = true
+
+[[items]]
+name = "Four Riders"
+done = true
+
+[[items]]
+name = "Fracturing Crush"
+done = true
+
+[[items]]
+name = "Fracturing Wind"
+done = true
+
+[[items]]
+name = "Frail Momentum"
+done = true
+
+[[items]]
+name = "Freeze Force"
+done = true
+
+[[items]]
+name = "Frenzied Posture"
+done = true
+
+[[items]]
+name = "Frigid Blast"
+done = true
+
+[[items]]
+name = "Frost Jaw"
+done = true
+
+[[items]]
+name = "Frostbite"
+done = true
+
+[[items]]
+name = "Full Contact"
+done = true
+
+[[items]]
+name = "Fulmination"
+done = true
+
+[[items]]
+name = "Funnel Clouds"
+done = true
+
+[[items]]
+name = "Furious Javelin"
+done = true
+
+[[items]]
+name = "Furor"
+done = true
+
+[[items]]
+name = "Fury"
+done = true
+
+[[items]]
+name = "Fused Crucible"
+done = true
+
+[[items]]
+name = "Fused Reservoir"
+done = true
+
+[[items]]
+name = "Gaia's Tragedy"
+done = true
+
+[[items]]
+name = "Gale Kick"
+done = true
+
+[[items]]
+name = "Galeforce Dawn"
+done = true
+
+[[items]]
+name = "Galvanized Acceleration"
+done = true
+
+[[items]]
+name = "Galvanized Aptitude"
+done = true
+
+[[items]]
+name = "Galvanized Chamber"
+done = true
+
+[[items]]
+name = "Galvanized Crosshairs"
+done = true
+
+[[items]]
+name = "Galvanized Diffusion"
+done = true
+
+[[items]]
+name = "Galvanized Elementalist"
+done = true
+
+[[items]]
+name = "Galvanized Hell"
+done = true
+
+[[items]]
+name = "Galvanized Reflex"
+done = true
+
+[[items]]
+name = "Galvanized Savvy"
+done = true
+
+[[items]]
+name = "Galvanized Scope"
+done = true
+
+[[items]]
+name = "Galvanized Shot"
+done = true
+
+[[items]]
+name = "Galvanized Steel"
+done = true
+
+[[items]]
+name = "Gaseous Quake"
+done = true
+
+[[items]]
+name = "Gastro"
+done = true
+
+[[items]]
+name = "Gemini Cross"
+done = true
+
+[[items]]
+name = "Ghost"
+done = true
+
+[[items]]
+name = "Gilded Truth"
+done = true
+
+[[items]]
+name = "Glacial Edge"
+done = true
+
+[[items]]
+name = "Gladiator Aegis"
+done = true
+
+[[items]]
+name = "Gladiator Finesse"
+done = true
+
+[[items]]
+name = "Gladiator Might"
+done = true
+
+[[items]]
+name = "Gladiator Resolve"
+done = true
+
+[[items]]
+name = "Gladiator Rush"
+done = true
+
+[[items]]
+name = "Gladiator Vice"
+done = true
+
+[[items]]
+name = "Gleaming Blight"
+done = true
+
+[[items]]
+name = "Gleaming Talon"
+done = true
+
+[[items]]
+name = "Gnashing Payara"
+done = true
+
+[[items]]
+name = "Gourmand"
+done = true
+
+[[items]]
+name = "Granum's Nemesis"
+done = true
+
+[[items]]
+name = "Greedy Pull"
+done = true
+
+[[items]]
+name = "Grim Fury"
+done = true
+
+[[items]]
+name = "Growing Power"
+done = true
+
+[[items]]
+name = "Guardian"
+done = true
+
+[[items]]
+name = "Guardian Armor"
+done = true
+
+[[items]]
+name = "Guardian Derision"
+done = true
+
+[[items]]
+name = "Guided Effigy"
+done = true
+
+[[items]]
+name = "Guided Ordnance"
+done = true
+
+[[items]]
+name = "Gunslinger"
+done = true
+
+[[items]]
+name = "Hall Of Malevolence"
+done = true
+
+[[items]]
+name = "Hallowed Eruption"
+done = true
+
+[[items]]
+name = "Hallowed Reckoning"
+done = true
+
+[[items]]
+name = "Hammer Shot"
+done = true
+
+[[items]]
+name = "Handspring"
+done = true
+
+[[items]]
+name = "Hard Engage"
+done = true
+
+[[items]]
+name = "Hard Reset"
+done = true
+
+[[items]]
+name = "Harkonar Scope"
+done = true
+
+[[items]]
+name = "Harrowing Spire"
+done = true
+
+[[items]]
+name = "Hastened Deflection"
+done = true
+
+[[items]]
+name = "Hata-Satya"
+done = true
+
+[[items]]
+name = "Hawk Eye"
+done = true
+
+[[items]]
+name = "Healing Flame"
+done = true
+
+[[items]]
+name = "Healing Return"
+done = true
+
+[[items]]
+name = "Health Conversion"
+done = true
+
+[[items]]
+name = "Hearty Nourishment"
+done = true
+
+[[items]]
+name = "Heated Charge"
+done = true
+
+[[items]]
+name = "Heavy Caliber"
+done = true
+
+[[items]]
+name = "Heavy Impact"
+done = true
+
+[[items]]
+name = "Heavy Trauma"
+done = true
+
+[[items]]
+name = "Hell's Chamber"
+done = true
+
+[[items]]
+name = "Hellfire"
+done = true
+
+[[items]]
+name = "Helminth Ferocity"
+done = true
+
+[[items]]
+name = "Hemorrhage"
+done = true
+
+[[items]]
+name = "Higasa Serration"
+done = true
+
+[[items]]
+name = "High Noon"
+done = true
+
+[[items]]
+name = "High Voltage"
+done = true
+
+[[items]]
+name = "Hit And Run"
+done = true
+
+[[items]]
+name = "Hollow Point"
+done = true
+
+[[items]]
+name = "Hollowed Bullets"
+done = true
+
+[[items]]
+name = "Holster Amp"
+done = true
+
+[[items]]
+name = "Homing Fang"
+done = true
+
+[[items]]
+name = "Hornet Strike"
+done = true
+
+[[items]]
+name = "Howl"
+done = true
+
+[[items]]
+name = "Hunt"
+done = true
+
+[[items]]
+name = "Hunter Adrenaline"
+done = true
+
+[[items]]
+name = "Hunter Command"
+done = true
+
+[[items]]
+name = "Hunter Munitions"
+done = true
+
+[[items]]
+name = "Hunter Recovery"
+done = true
+
+[[items]]
+name = "Hunter Synergy"
+done = true
+
+[[items]]
+name = "Hunter Track"
+done = true
+
+[[items]]
+name = "Hunter's Bonesaw"
+done = true
+
+[[items]]
+name = "Hush"
+done = true
+
+[[items]]
+name = "Hushed Invisibility"
+done = true
+
+[[items]]
+name = "Hydraulic Crosshairs"
+done = true
+
+[[items]]
+name = "Hyperion Thrusters"
+done = true
+
+[[items]]
+name = "Hyperstrike"
+done = true
+
+[[items]]
+name = "Hypothermic Shell"
+done = true
+
+[[items]]
+name = "Hysterical Assault"
+done = true
+
+[[items]]
+name = "Hysterical Fixation"
+done = true
+
+[[items]]
+name = "Iatric Mycelium"
+done = true
+
+[[items]]
+name = "Ice Spring"
+done = true
+
+[[items]]
+name = "Ice Storm"
+done = true
+
+[[items]]
+name = "Ice Wave Impedance"
+done = true
+
+[[items]]
+name = "Icy Avalanche"
+done = true
+
+[[items]]
+name = "Immolated Radiance"
+done = true
+
+[[items]]
+name = "Immunity Resistance"
+done = true
+
+[[items]]
+name = "Immuno Shield"
+done = true
+
+[[items]]
+name = "Incendiary Coat"
+done = true
+
+[[items]]
+name = "Indomitable Matrix"
+done = true
+
+[[items]]
+name = "Inertia Dampeners"
+done = true
+
+[[items]]
+name = "Infected Clip"
+done = true
+
+[[items]]
+name = "Infectious Bite"
+done = true
+
+[[items]]
+name = "Infectious Injection"
+done = true
+
+[[items]]
+name = "Infested Impedance"
+done = true
+
+[[items]]
+name = "Infiltrate"
+done = true
+
+[[items]]
+name = "Insatiable"
+done = true
+
+[[items]]
+name = "Instant Secure"
+done = true
+
+[[items]]
+name = "Insulation"
+done = true
+
+[[items]]
+name = "Intensify"
+done = true
+
+[[items]]
+name = "Internal Bleeding"
+done = true
+
+[[items]]
+name = "Intrepid Stand"
+done = true
+
+[[items]]
+name = "Intruder"
+done = true
+
+[[items]]
+name = "Intruder Stasis"
+done = true
+
+[[items]]
+name = "Investigator"
+done = true
+
+[[items]]
+name = "Ion Burn"
+done = true
+
+[[items]]
+name = "Ion Infusion"
+done = true
+
+[[items]]
+name = "Iron Phoenix"
+done = true
+
+[[items]]
+name = "Iron Shrapnel"
+done = true
+
+[[items]]
+name = "Ironclad Charge"
+done = true
+
+[[items]]
+name = "Ironclad Flight"
+done = true
+
+[[items]]
+name = "Ironclad Matrix"
+done = true
+
+[[items]]
+name = "Irradiating Disarm"
+done = true
+
+[[items]]
+name = "Jade's Judgment"
+done = true
+
+[[items]]
+name = "Jagged Edge"
+done = true
+
+[[items]]
+name = "Jahu"
+done = true
+
+[[items]]
+name = "Jahu Canticle"
+done = true
+
+[[items]]
+name = "Jet Stream"
+done = true
+
+[[items]]
+name = "Jolt"
+done = true
+
+[[items]]
+name = "Jugulus Barbs"
+done = true
+
+[[items]]
+name = "Jugulus Carapace"
+done = true
+
+[[items]]
+name = "Jugulus Spines"
+done = true
+
+[[items]]
+name = "Juice"
+done = true
+
+[[items]]
+name = "Justice Blades"
+done = true
+
+[[items]]
+name = "Kavat's Grace"
+done = true
+
+[[items]]
+name = "Keep-Clean"
+done = true
+
+[[items]]
+name = "Khra"
+done = true
+
+[[items]]
+name = "Khra Canticle"
+done = true
+
+[[items]]
+name = "Killing Blow"
+done = true
+
+[[items]]
+name = "Kinetic Collision"
+done = true
+
+[[items]]
+name = "Kinetic Diversion"
+done = true
+
+[[items]]
+name = "Kinetic Friction"
+done = true
+
+[[items]]
+name = "Kinetic Ricochet"
+done = true
+
+[[items]]
+name = "Larva Burst"
+done = true
+
+[[items]]
+name = "Laser Sight"
+done = true
+
+[[items]]
+name = "Lasting Covenant"
+done = true
+
+[[items]]
+name = "Lasting Purity"
+done = true
+
+[[items]]
+name = "Lasting Sting"
+done = true
+
+[[items]]
+name = "Lethal Momentum"
+done = true
+
+[[items]]
+name = "Lethal Torrent"
+done = true
+
+[[items]]
+name = "Life Strike"
+done = true
+
+[[items]]
+name = "Lightning Dash"
+done = true
+
+[[items]]
+name = "Lightning Rod"
+done = true
+
+[[items]]
+name = "Lingering Torment"
+done = true
+
+[[items]]
+name = "Lingering Transmutation"
+done = true
+
+[[items]]
+name = "Link Fiber"
+done = true
+
+[[items]]
+name = "Link Redirection"
+done = true
+
+[[items]]
+name = "Link Vitality"
+done = true
+
+[[items]]
+name = "Live Wire"
+done = true
+
+[[items]]
+name = "Lohk"
+done = true
+
+[[items]]
+name = "Lohk Canticle"
+done = true
+
+[[items]]
+name = "Loot Detector"
+done = true
+
+[[items]]
+name = "Looter"
+done = true
+
+[[items]]
+name = "Loyal Companion"
+done = true
+
+[[items]]
+name = "Loyal Merulina"
+done = true
+
+[[items]]
+name = "Loyal Retriever"
+done = true
+
+[[items]]
+name = "Mach Crash"
+done = true
+
+[[items]]
+name = "Mad Stack"
+done = true
+
+[[items]]
+name = "Mag Locks"
+done = true
+
+[[items]]
+name = "Magazine Extension"
+done = true
+
+[[items]]
+name = "Magazine Warp"
+done = true
+
+[[items]]
+name = "Magma Chamber"
+done = true
+
+[[items]]
+name = "Magnetic Capacity"
+done = true
+
+[[items]]
+name = "Magnetic Claws"
+done = true
+
+[[items]]
+name = "Magnetic Might"
+done = true
+
+[[items]]
+name = "Magnetic Rush"
+done = true
+
+[[items]]
+name = "Magnetic Strafe"
+done = true
+
+[[items]]
+name = "Magnetic Strike"
+done = true
+
+[[items]]
+name = "Magnetic Welt"
+done = true
+
+[[items]]
+name = "Magnetized Core"
+done = true
+
+[[items]]
+name = "Magnetized Cycle"
+done = true
+
+[[items]]
+name = "Magnetized Discharge"
+done = true
+
+[[items]]
+name = "Magnum Force"
+done = true
+
+[[items]]
+name = "Maim"
+done = true
+
+[[items]]
+name = "Maiming Strike"
+done = true
+
+[[items]]
+name = "Malicious Code"
+done = true
+
+[[items]]
+name = "Malicious Raptor"
+done = true
+
+[[items]]
+name = "Malignant Force"
+done = true
+
+[[items]]
+name = "Manifold Bond"
+done = true
+
+[[items]]
+name = "Mark Of The Beast"
+done = true
+
+[[items]]
+name = "Marked Target"
+done = true
+
+[[items]]
+name = "Martyr Symbiosis"
+done = true
+
+[[items]]
+name = "Master Key"
+done = true
+
+[[items]]
+name = "Master Thief"
+done = true
+
+[[items]]
+name = "Master's Edge"
+done = true
+
+[[items]]
+name = "Maul"
+done = true
+
+[[items]]
+name = "Mecha Empowered"
+done = true
+
+[[items]]
+name = "Mecha Overdrive"
+done = true
+
+[[items]]
+name = "Mecha Pulse"
+done = true
+
+[[items]]
+name = "Mecha Recharge"
+done = true
+
+[[items]]
+name = "Medi-Pet Kit"
+done = true
+
+[[items]]
+name = "Medi-Ray"
+done = true
+
+[[items]]
+name = "Melee Elementalist"
+done = true
+
+[[items]]
+name = "Melee Guidance"
+done = true
+
+[[items]]
+name = "Melee Prowess"
+done = true
+
+[[items]]
+name = "Mending Shot"
+done = true
+
+[[items]]
+name = "Mending Splinters"
+done = true
+
+[[items]]
+name = "Mentor's Legacy"
+done = true
+
+[[items]]
+name = "Merciless Gunfight"
+done = true
+
+[[items]]
+name = "Merulina Guardian"
+done = true
+
+[[items]]
+name = "Mesa's Waltz"
+done = true
+
+[[items]]
+name = "Mesmer Shield"
+done = true
+
+[[items]]
+name = "Metal Auger"
+done = true
+
+[[items]]
+name = "Metal Fiber"
+done = true
+
+[[items]]
+name = "Metamorphic Magazine"
+done = true
+
+[[items]]
+name = "Meteor Crash"
+done = true
+
+[[items]]
+name = "Meticulous Aim"
+done = true
+
+[[items]]
+name = "Mind Freak"
+done = true
+
+[[items]]
+name = "Mischief"
+done = true
+
+[[items]]
+name = "Mobilize"
+done = true
+
+[[items]]
+name = "Modified Munitions"
+done = true
+
+[[items]]
+name = "Molecular Conversion"
+done = true
+
+[[items]]
+name = "Molecular Fission"
+done = true
+
+[[items]]
+name = "Molten Impact"
+done = true
+
+[[items]]
+name = "Momentous Bond"
+done = true
+
+[[items]]
+name = "Morphic Transformer"
+done = true
+
+[[items]]
+name = "Motus Impact"
+done = true
+
+[[items]]
+name = "Motus Setup"
+done = true
+
+[[items]]
+name = "Motus Signal"
+done = true
+
+[[items]]
+name = "Mountain's Edge"
+done = true
+
+[[items]]
+name = "Munitions Vortex"
+done = true
+
+[[items]]
+name = "Muzzle Flash"
+done = true
+
+[[items]]
+name = "Mystic Bond"
+done = true
+
+[[items]]
+name = "Nano-Applicator"
+done = true
+
+[[items]]
+name = "Napalm Grenades"
+done = true
+
+[[items]]
+name = "Narrow Barrel"
+done = true
+
+[[items]]
+name = "Narrow Minded"
+done = true
+
+[[items]]
+name = "Natural Talent"
+done = true
+
+[[items]]
+name = "Nebula Bore"
+done = true
+
+[[items]]
+name = "Necramech Augur"
+done = true
+
+[[items]]
+name = "Necramech Aviator"
+done = true
+
+[[items]]
+name = "Necramech Blitz"
+done = true
+
+[[items]]
+name = "Necramech Continuity"
+done = true
+
+[[items]]
+name = "Necramech Deflection"
+done = true
+
+[[items]]
+name = "Necramech Drift"
+done = true
+
+[[items]]
+name = "Necramech Efficiency"
+done = true
+
+[[items]]
+name = "Necramech Enemy Sense"
+done = true
+
+[[items]]
+name = "Necramech Flow"
+done = true
+
+[[items]]
+name = "Necramech Friction"
+done = true
+
+[[items]]
+name = "Necramech Fury"
+done = true
+
+[[items]]
+name = "Necramech Hydraulics"
+done = true
+
+[[items]]
+name = "Necramech Intensify"
+done = true
+
+[[items]]
+name = "Necramech Pressure Point"
+done = true
+
+[[items]]
+name = "Necramech Rage"
+done = true
+
+[[items]]
+name = "Necramech Reach"
+done = true
+
+[[items]]
+name = "Necramech Rebuke"
+done = true
+
+[[items]]
+name = "Necramech Redirection"
+done = true
+
+[[items]]
+name = "Necramech Refuel"
+done = true
+
+[[items]]
+name = "Necramech Repair"
+done = true
+
+[[items]]
+name = "Necramech Seismic Wave"
+done = true
+
+[[items]]
+name = "Necramech Slipstream"
+done = true
+
+[[items]]
+name = "Necramech Steel Fiber"
+done = true
+
+[[items]]
+name = "Necramech Streamline"
+done = true
+
+[[items]]
+name = "Necramech Stretch"
+done = true
+
+[[items]]
+name = "Necramech Thrusters"
+done = true
+
+[[items]]
+name = "Necramech Vitality"
+done = true
+
+[[items]]
+name = "Necrophagic Vigor"
+done = true
+
+[[items]]
+name = "Negate"
+done = true
+
+[[items]]
+name = "Negation Armor"
+done = true
+
+[[items]]
+name = "Netra"
+done = true
+
+[[items]]
+name = "Netra Invocation"
+done = true
+
+[[items]]
+name = "Neutralize"
+done = true
+
+[[items]]
+name = "Neutralizing Justice"
+done = true
+
+[[items]]
+name = "Neutron Star"
+done = true
+
+[[items]]
+name = "Nightwatch Napalm"
+done = true
+
+[[items]]
+name = "Nira's Anguish"
+done = true
+
+[[items]]
+name = "Nira's Contempt"
+done = true
+
+[[items]]
+name = "Nira's Hatred"
+done = true
+
+[[items]]
+name = "Nitro Boost"
+done = true
+
+[[items]]
+name = "No Return"
+done = true
+
+[[items]]
+name = "North Wind"
+done = true
+
+[[items]]
+name = "Null Audit"
+done = true
+
+[[items]]
+name = "Odomedic"
+done = true
+
+[[items]]
+name = "Omikuji's Fortune"
+done = true
+
+[[items]]
+name = "Onslaught Matrix"
+done = true
+
+[[items]]
+name = "Opportunity's Reach"
+done = true
+
+[[items]]
+name = "Ordnance Cheap Shot"
+done = true
+
+[[items]]
+name = "Ordnance Velocity"
+done = true
+
+[[items]]
+name = "Ore Gaze"
+done = true
+
+[[items]]
+name = "Organ Shatter"
+done = true
+
+[[items]]
+name = "Orgone Tuning Matrix"
+done = true
+
+[[items]]
+name = "Oull"
+done = true
+
+[[items]]
+name = "Out Of Sight"
+done = true
+
+[[items]]
+name = "Overextended"
+done = true
+
+[[items]]
+name = "Overloader"
+done = true
+
+[[items]]
+name = "Pacifying Bolts"
+done = true
+
+[[items]]
+name = "Pack Leader"
+done = true
+
+[[items]]
+name = "Pain Points"
+done = true
+
+[[items]]
+name = "Pain Threshold"
+done = true
+
+[[items]]
+name = "Panzer Devolution"
+done = true
+
+[[items]]
+name = "Parallax Scope"
+done = true
+
+[[items]]
+name = "Paralytic Spores"
+done = true
+
+[[items]]
+name = "Parasitic Vitality"
+done = true
+
+[[items]]
+name = "Parry"
+done = true
+
+[[items]]
+name = "Particle Ram"
+done = true
+
+[[items]]
+name = "Partitioned Mallet"
+done = true
+
+[[items]]
+name = "Patagium"
+done = true
+
+[[items]]
+name = "Path Of Statues"
+done = true
+
+[[items]]
+name = "Pathogen Rounds"
+done = true
+
+[[items]]
+name = "Peaceful Provocation"
+done = true
+
+[[items]]
+name = "Peculiar Audience"
+done = true
+
+[[items]]
+name = "Peculiar Bloom"
+done = true
+
+[[items]]
+name = "Peculiar End"
+done = true
+
+[[items]]
+name = "Peculiar Growth"
+done = true
+
+[[items]]
+name = "Perfect Balance"
+done = true
+
+[[items]]
+name = "Perpetual Agony"
+done = true
+
+[[items]]
+name = "Persistent Posture"
+done = true
+
+[[items]]
+name = "Phoenix Blaze"
+done = true
+
+[[items]]
+name = "Phoenix Renewal"
+done = true
+
+[[items]]
+name = "Photon Overcharge"
+done = true
+
+[[items]]
+name = "Photon Repeater"
+done = true
+
+[[items]]
+name = "Physique"
+done = true
+
+[[items]]
+name = "Piercing Caliber"
+done = true
+
+[[items]]
+name = "Piercing Hit"
+done = true
+
+[[items]]
+name = "Piercing Navigator"
+done = true
+
+[[items]]
+name = "Piercing Roar"
+done = true
+
+[[items]]
+name = "Piercing Step"
+done = true
+
+[[items]]
+name = "Pilfering Strangledome"
+done = true
+
+[[items]]
+name = "Pilfering Swarm"
+done = true
+
+[[items]]
+name = "Pistol Acuity"
+done = true
+
+[[items]]
+name = "Pistol Ammo Mutation"
+done = true
+
+[[items]]
+name = "Pistol Amp"
+done = true
+
+[[items]]
+name = "Pistol Elementalist"
+done = true
+
+[[items]]
+name = "Pistol Gambit"
+done = true
+
+[[items]]
+name = "Pistol Pestilence"
+done = true
+
+[[items]]
+name = "Pistol Scavenger"
+done = true
+
+[[items]]
+name = "Point Blank"
+done = true
+
+[[items]]
+name = "Point Strike"
+done = true
+
+[[items]]
+name = "Pointed Wind"
+done = true
+
+[[items]]
+name = "Poisonous Sting"
+done = true
+
+[[items]]
+name = "Polar Magazine"
+done = true
+
+[[items]]
+name = "Pool Of Life"
+done = true
+
+[[items]]
+name = "Pop Top"
+done = true
+
+[[items]]
+name = "Poppin' Vert"
+done = true
+
+[[items]]
+name = "Pounce"
+done = true
+
+[[items]]
+name = "Power Donation"
+done = true
+
+[[items]]
+name = "Power Drain"
+done = true
+
+[[items]]
+name = "Power Drift"
+done = true
+
+[[items]]
+name = "Power Of Three"
+done = true
+
+[[items]]
+name = "Power Throw"
+done = true
+
+[[items]]
+name = "Precision Conditioning"
+done = true
+
+[[items]]
+name = "Precision Intensify"
+done = true
+
+[[items]]
+name = "Precision Strike"
+done = true
+
+[[items]]
+name = "Predator"
+done = true
+
+[[items]]
+name = "Preparation"
+done = true
+
+[[items]]
+name = "Pressure Point"
+done = true
+
+[[items]]
+name = "Pressurized Magazine"
+done = true
+
+[[items]]
+name = "Prey Of Dynar"
+done = true
+
+[[items]]
+name = "Primal Rage"
+done = true
+
+[[items]]
+name = "Primary Acuity"
+done = true
+
+[[items]]
+name = "Primed Ammo Chain"
+done = true
+
+[[items]]
+name = "Primed Ammo Stock"
+done = true
+
+[[items]]
+name = "Primed Animal Instinct"
+done = true
+
+[[items]]
+name = "Primed Bane Of Corpus"
+done = true
+
+[[items]]
+name = "Primed Bane Of Grineer"
+done = true
+
+[[items]]
+name = "Primed Bane Of Infested"
+done = true
+
+[[items]]
+name = "Primed Bane Of Orokin"
+done = true
+
+[[items]]
+name = "Primed Bane Of The Murmur"
+done = true
+
+[[items]]
+name = "Primed Chamber"
+done = true
+
+[[items]]
+name = "Primed Charged Chamber"
+done = true
+
+[[items]]
+name = "Primed Charged Shell"
+done = true
+
+[[items]]
+name = "Primed Chilling Grasp"
+done = true
+
+[[items]]
+name = "Primed Cleanse Corpus"
+done = true
+
+[[items]]
+name = "Primed Cleanse Grineer"
+done = true
+
+[[items]]
+name = "Primed Cleanse Infested"
+done = true
+
+[[items]]
+name = "Primed Cleanse Orokin"
+done = true
+
+[[items]]
+name = "Primed Cleanse The Murmur"
+done = true
+
+[[items]]
+name = "Primed Continuity"
+done = true
+
+[[items]]
+name = "Primed Convulsion"
+done = true
+
+[[items]]
+name = "Primed Counterbalance"
+done = true
+
+[[items]]
+name = "Primed Cryo Rounds"
+done = true
+
+[[items]]
+name = "Primed Deadly Efficiency"
+done = true
+
+[[items]]
+name = "Primed Dual Rounds"
+done = true
+
+[[items]]
+name = "Primed Expel Corpus"
+done = true
+
+[[items]]
+name = "Primed Expel Grineer"
+done = true
+
+[[items]]
+name = "Primed Expel Infested"
+done = true
+
+[[items]]
+name = "Primed Expel Orokin"
+done = true
+
+[[items]]
+name = "Primed Expel The Murmur"
+done = true
+
+[[items]]
+name = "Primed Fast Deflection"
+done = true
+
+[[items]]
+name = "Primed Fast Hands"
+done = true
+
+[[items]]
+name = "Primed Fever Strike"
+done = true
+
+[[items]]
+name = "Primed Firestorm"
+done = true
+
+[[items]]
+name = "Primed Flow"
+done = true
+
+[[items]]
+name = "Primed Fulmination"
+done = true
+
+[[items]]
+name = "Primed Fury"
+done = true
+
+[[items]]
+name = "Primed Heated Charge"
+done = true
+
+[[items]]
+name = "Primed Heavy Trauma"
+done = true
+
+[[items]]
+name = "Primed Magazine Warp"
+done = true
+
+[[items]]
+name = "Primed Morphic Transformer"
+done = true
+
+[[items]]
+name = "Primed Pack Leader"
+done = true
+
+[[items]]
+name = "Primed Pistol Ammo Mutation"
+done = true
+
+[[items]]
+name = "Primed Point Blank"
+done = true
+
+[[items]]
+name = "Primed Pressure Point"
+done = true
+
+[[items]]
+name = "Primed Quickdraw"
+done = true
+
+[[items]]
+name = "Primed Ravage"
+done = true
+
+[[items]]
+name = "Primed Reach"
+done = true
+
+[[items]]
+name = "Primed Redirection"
+done = true
+
+[[items]]
+name = "Primed Regen"
+done = true
+
+[[items]]
+name = "Primed Rifle Ammo Mutation"
+done = true
+
+[[items]]
+name = "Primed Rubedo-Lined Barrel"
+done = true
+
+[[items]]
+name = "Primed Shotgun Ammo Mutation"
+done = true
+
+[[items]]
+name = "Primed Shred"
+done = true
+
+[[items]]
+name = "Primed Slip Magazine"
+done = true
+
+[[items]]
+name = "Primed Smite Corpus"
+done = true
+
+[[items]]
+name = "Primed Smite Grineer"
+done = true
+
+[[items]]
+name = "Primed Smite Infested"
+done = true
+
+[[items]]
+name = "Primed Smite Orokin"
+done = true
+
+[[items]]
+name = "Primed Smite The Murmur"
+done = true
+
+[[items]]
+name = "Primed Sniper Ammo Mutation"
+done = true
+
+[[items]]
+name = "Primed Stabilizer"
+done = true
+
+[[items]]
+name = "Primed Steady Hands"
+done = true
+
+[[items]]
+name = "Primed Streamline"
+done = true
+
+[[items]]
+name = "Primed Sure Footed"
+done = true
+
+[[items]]
+name = "Primed Tactical Pump"
+done = true
+
+[[items]]
+name = "Primed Target Cracker"
+done = true
+
+[[items]]
+name = "Primed Venomous Clip"
+done = true
+
+[[items]]
+name = "Primed Vigor"
+done = true
+
+[[items]]
+name = "Primo Flair"
+done = true
+
+[[items]]
+name = "Prism Guard"
+done = true
+
+[[items]]
+name = "Prismatic Companion"
+done = true
+
+[[items]]
+name = "Proboscis"
+done = true
+
+[[items]]
+name = "Prolonged Paralysis"
+done = true
+
+[[items]]
+name = "Prosperous Retriever"
+done = true
+
+[[items]]
+name = "Protect"
+done = true
+
+[[items]]
+name = "Protective Shots"
+done = true
+
+[[items]]
+name = "Protector Posture"
+done = true
+
+[[items]]
+name = "Proton Jet"
+done = true
+
+[[items]]
+name = "Proton Pulse"
+done = true
+
+[[items]]
+name = "Proton Snap"
+done = true
+
+[[items]]
+name = "Provoked"
+done = true
+
+[[items]]
+name = "Pummel"
+done = true
+
+[[items]]
+name = "Purging Slash"
+done = true
+
+[[items]]
+name = "Purifying Flames"
+done = true
+
+[[items]]
+name = "Push & Pull"
+done = true
+
+[[items]]
+name = "Pyroclastic Flow"
+done = true
+
+[[items]]
+name = "Quasar Drill"
+done = true
+
+[[items]]
+name = "Quick Correct"
+done = true
+
+[[items]]
+name = "Quick Escape"
+done = true
+
+[[items]]
+name = "Quick Reload"
+done = true
+
+[[items]]
+name = "Quick Return"
+done = true
+
+[[items]]
+name = "Quickdraw"
+done = true
+
+[[items]]
+name = "Quickening"
+done = true
+
+[[items]]
+name = "Quicklock"
+done = true
+
+[[items]]
+name = "Radiant Finish"
+done = true
+
+[[items]]
+name = "Radiated Reload"
+done = true
+
+[[items]]
+name = "Radon Claws"
+done = true
+
+[[items]]
+name = "Rage"
+done = true
+
+[[items]]
+name = "Raider Matrix"
+done = true
+
+[[items]]
+name = "Rail Guards"
+done = true
+
+[[items]]
+name = "Range Advantage"
+done = true
+
+[[items]]
+name = "Rapid Resilience"
+done = true
+
+[[items]]
+name = "Ravage"
+done = true
+
+[[items]]
+name = "Razor Mortar"
+done = true
+
+[[items]]
+name = "Razor Shot"
+done = true
+
+[[items]]
+name = "Razorwing Blitz"
+done = true
+
+[[items]]
+name = "Reach"
+done = true
+
+[[items]]
+name = "Reactive Storm"
+done = true
+
+[[items]]
+name = "Ready Steel"
+done = true
+
+[[items]]
+name = "Reaping Chakram"
+done = true
+
+[[items]]
+name = "Reaping Spiral"
+done = true
+
+[[items]]
+name = "Reawaken"
+done = true
+
+[[items]]
+name = "Rebound"
+done = true
+
+[[items]]
+name = "Recharge Barrier"
+done = true
+
+[[items]]
+name = "Recrystalize"
+done = true
+
+[[items]]
+name = "Redirection"
+done = true
+
+[[items]]
+name = "Reflect"
+done = true
+
+[[items]]
+name = "Reflection"
+done = true
+
+[[items]]
+name = "Reflex Coil"
+done = true
+
+[[items]]
+name = "Reflex Denial"
+done = true
+
+[[items]]
+name = "Reflex Guard"
+done = true
+
+[[items]]
+name = "Regen"
+done = true
+
+[[items]]
+name = "Regenerative Molt"
+done = true
+
+[[items]]
+name = "Reinforced Bond"
+done = true
+
+[[items]]
+name = "Reinforcing Stomp"
+done = true
+
+[[items]]
+name = "Rejuvenation"
+done = true
+
+[[items]]
+name = "Relentless Combination"
+done = true
+
+[[items]]
+name = "Rending Crane"
+done = true
+
+[[items]]
+name = "Rending Strike"
+done = true
+
+[[items]]
+name = "Rending Turn"
+done = true
+
+[[items]]
+name = "Repair Dispensary"
+done = true
+
+[[items]]
+name = "Repair Kit"
+done = true
+
+[[items]]
+name = "Repeater Clip"
+done = true
+
+[[items]]
+name = "Repo Audit"
+done = true
+
+[[items]]
+name = "Resilient Focus"
+done = true
+
+[[items]]
+name = "Resolute Focus"
+done = true
+
+[[items]]
+name = "Resonance"
+done = true
+
+[[items]]
+name = "Resourceful Retriever"
+done = true
+
+[[items]]
+name = "Restorative Bond"
+done = true
+
+[[items]]
+name = "Retribution"
+done = true
+
+[[items]]
+name = "Retrieve"
+done = true
+
+[[items]]
+name = "Revealing Spores"
+done = true
+
+[[items]]
+name = "Revenge"
+done = true
+
+[[items]]
+name = "Reverse Rotorswell"
+done = true
+
+[[items]]
+name = "Revo Reducer"
+done = true
+
+[[items]]
+name = "Rifle Ammo Mutation"
+done = true
+
+[[items]]
+name = "Rifle Amp"
+done = true
+
+[[items]]
+name = "Rifle Aptitude"
+done = true
+
+[[items]]
+name = "Rifle Elementalist"
+done = true
+
+[[items]]
+name = "Rifle Scavenger"
+done = true
+
+[[items]]
+name = "Rift Haven"
+done = true
+
+[[items]]
+name = "Rift Strike"
+done = true
+
+[[items]]
+name = "Rift Torrent"
+done = true
+
+[[items]]
+name = "Rime Rounds"
+done = true
+
+[[items]]
+name = "Ripload"
+done = true
+
+[[items]]
+name = "Ris"
+done = true
+
+[[items]]
+name = "Ris Invocation"
+done = true
+
+[[items]]
+name = "Rising Storm"
+done = true
+
+[[items]]
+name = "Rolling Guard"
+done = true
+
+[[items]]
+name = "Rousing Plunder"
+done = true
+
+[[items]]
+name = "Rubble Heap"
+done = true
+
+[[items]]
+name = "Rubedo-Lined Barrel"
+done = true
+
+[[items]]
+name = "Ruinous Extension"
+done = true
+
+[[items]]
+name = "Rumbled"
+done = true
+
+[[items]]
+name = "Runtime"
+done = true
+
+[[items]]
+name = "Rupture"
+done = true
+
+[[items]]
+name = "Rush"
+done = true
+
+[[items]]
+name = "Sabot Rounds"
+done = true
+
+[[items]]
+name = "Sacrifice"
+done = true
+
+[[items]]
+name = "Sacrificial Pressure"
+done = true
+
+[[items]]
+name = "Sacrificial Steel"
+done = true
+
+[[items]]
+name = "Safeguard"
+done = true
+
+[[items]]
+name = "Safeguard Switch"
+done = true
+
+[[items]]
+name = "Sanctuary"
+done = true
+
+[[items]]
+name = "Sapping Reach"
+done = true
+
+[[items]]
+name = "Savage Silence"
+done = true
+
+[[items]]
+name = "Savagery"
+done = true
+
+[[items]]
+name = "Savior Decoy"
+done = true
+
+[[items]]
+name = "Sawtooth Clip"
+done = true
+
+[[items]]
+name = "Saxum Carapace"
+done = true
+
+[[items]]
+name = "Saxum Spittle"
+done = true
+
+[[items]]
+name = "Saxum Thorax"
+done = true
+
+[[items]]
+name = "Scan Matter"
+done = true
+
+[[items]]
+name = "Scattered Justice"
+done = true
+
+[[items]]
+name = "Scattering Inferno"
+done = true
+
+[[items]]
+name = "Scavenge"
+done = true
+
+[[items]]
+name = "Scorch"
+done = true
+
+[[items]]
+name = "Scourging Warheads"
+done = true
+
+[[items]]
+name = "Searing Steel"
+done = true
+
+[[items]]
+name = "Section Density"
+done = true
+
+[[items]]
+name = "Security Override"
+done = true
+
+[[items]]
+name = "Seeker"
+done = true
+
+[[items]]
+name = "Seeker Volley"
+done = true
+
+[[items]]
+name = "Seeking Force"
+done = true
+
+[[items]]
+name = "Seeking Fury"
+done = true
+
+[[items]]
+name = "Seeking Shuriken"
+done = true
+
+[[items]]
+name = "Seismic Bond"
+done = true
+
+[[items]]
+name = "Seismic Palm"
+done = true
+
+[[items]]
+name = "Seismic Wave"
+done = true
+
+[[items]]
+name = "Self Destruct"
+done = true
+
+[[items]]
+name = "Semi-Pistol Cannonade"
+done = true
+
+[[items]]
+name = "Semi-Rifle Cannonade"
+done = true
+
+[[items]]
+name = "Semi-Shotgun Cannonade"
+done = true
+
+[[items]]
+name = "Sentient Barrage"
+done = true
+
+[[items]]
+name = "Sentient Incision"
+done = true
+
+[[items]]
+name = "Sentient Scalpel"
+done = true
+
+[[items]]
+name = "Sepsis Claws"
+done = true
+
+[[items]]
+name = "Sequence Burn"
+done = true
+
+[[items]]
+name = "Serration"
+done = true
+
+[[items]]
+name = "Shadow Haze"
+done = true
+
+[[items]]
+name = "Sharpened Bullets"
+done = true
+
+[[items]]
+name = "Sharpened Claws"
+done = true
+
+[[items]]
+name = "Sharpshooter"
+done = true
+
+[[items]]
+name = "Shatter Burst"
+done = true
+
+[[items]]
+name = "Shattered Storm"
+done = true
+
+[[items]]
+name = "Shattering Impact"
+done = true
+
+[[items]]
+name = "Shattering Justice"
+done = true
+
+[[items]]
+name = "Shattering Storm"
+done = true
+
+[[items]]
+name = "Shell Compression"
+done = true
+
+[[items]]
+name = "Shell Rush"
+done = true
+
+[[items]]
+name = "Shell Shock"
+done = true
+
+[[items]]
+name = "Shelter"
+done = true
+
+[[items]]
+name = "Shepherd"
+done = true
+
+[[items]]
+name = "Shield Charger"
+done = true
+
+[[items]]
+name = "Shield Disruption"
+done = true
+
+[[items]]
+name = "Shield Of Shadows"
+done = true
+
+[[items]]
+name = "Shield Overload"
+done = true
+
+[[items]]
+name = "Shimmering Blight"
+done = true
+
+[[items]]
+name = "Shivering Contagion"
+done = true
+
+[[items]]
+name = "Shock Absorbers"
+done = true
+
+[[items]]
+name = "Shock Collar"
+done = true
+
+[[items]]
+name = "Shock Trooper"
+done = true
+
+[[items]]
+name = "Shocking Claws"
+done = true
+
+[[items]]
+name = "Shocking Speed"
+done = true
+
+[[items]]
+name = "Shocking Touch"
+done = true
+
+[[items]]
+name = "Shockwave Actuators"
+done = true
+
+[[items]]
+name = "Shotgun Ammo Mutation"
+done = true
+
+[[items]]
+name = "Shotgun Amp"
+done = true
+
+[[items]]
+name = "Shotgun Barrage"
+done = true
+
+[[items]]
+name = "Shotgun Elementalist"
+done = true
+
+[[items]]
+name = "Shotgun Savvy"
+done = true
+
+[[items]]
+name = "Shotgun Scavenger"
+done = true
+
+[[items]]
+name = "Shrapnel Shot"
+done = true
+
+[[items]]
+name = "Shred"
+done = true
+
+[[items]]
+name = "Shredder"
+done = true
+
+[[items]]
+name = "Signal Flare"
+done = true
+
+[[items]]
+name = "Silent Battery"
+done = true
+
+[[items]]
+name = "Singularity"
+done = true
+
+[[items]]
+name = "Sinister Reach"
+done = true
+
+[[items]]
+name = "Sinking Talon"
+done = true
+
+[[items]]
+name = "Slay Board"
+done = true
+
+[[items]]
+name = "Slicing Feathers"
+done = true
+
+[[items]]
+name = "Slip Magazine"
+done = true
+
+[[items]]
+name = "Sly Devolution"
+done = true
+
+[[items]]
+name = "Smite Corpus"
+done = true
+
+[[items]]
+name = "Smite Grineer"
+done = true
+
+[[items]]
+name = "Smite Infested"
+done = true
+
+[[items]]
+name = "Smite Infusion"
+done = true
+
+[[items]]
+name = "Smite Orokin"
+done = true
+
+[[items]]
+name = "Smite The Murmur"
+done = true
+
+[[items]]
+name = "Smoke Shadow"
+done = true
+
+[[items]]
+name = "Sniper Ammo Mutation"
+done = true
+
+[[items]]
+name = "Sniper Scavenger"
+done = true
+
+[[items]]
+name = "Soaring Truth"
+done = true
+
+[[items]]
+name = "Soft Safe"
+done = true
+
+[[items]]
+name = "Sonic Boost"
+done = true
+
+[[items]]
+name = "Sonic Siphon"
+done = true
+
+[[items]]
+name = "Soul Survivor"
+done = true
+
+[[items]]
+name = "Sovereign Outcast"
+done = true
+
+[[items]]
+name = "Spare Parts"
+done = true
+
+[[items]]
+name = "Spectral Serration"
+done = true
+
+[[items]]
+name = "Spectral Spirit"
+done = true
+
+[[items]]
+name = "Spectrosiphon"
+done = true
+
+[[items]]
+name = "Speed Drift"
+done = true
+
+[[items]]
+name = "Speed Trigger"
+done = true
+
+[[items]]
+name = "Spellbound Harvest"
+done = true
+
+[[items]]
+name = "Spinning Needle"
+done = true
+
+[[items]]
+name = "Split Chamber"
+done = true
+
+[[items]]
+name = "Split Flights"
+done = true
+
+[[items]]
+name = "Spoiled Strike"
+done = true
+
+[[items]]
+name = "Spontaneous Singularity"
+done = true
+
+[[items]]
+name = "Spring-Loaded Blade"
+done = true
+
+[[items]]
+name = "Spring-Loaded Chamber"
+done = true
+
+[[items]]
+name = "Sprint Boost"
+done = true
+
+[[items]]
+name = "Squad Renew"
+done = true
+
+[[items]]
+name = "Stabilizer"
+done = true
+
+[[items]]
+name = "Staggering Shield"
+done = true
+
+[[items]]
+name = "Stalk"
+done = true
+
+[[items]]
+name = "Stalking Fan"
+done = true
+
+[[items]]
+name = "Stand United"
+done = true
+
+[[items]]
+name = "Stasis Field"
+done = true
+
+[[items]]
+name = "Static Discharge"
+done = true
+
+[[items]]
+name = "Steady Hands"
+done = true
+
+[[items]]
+name = "Stealth Drift"
+done = true
+
+[[items]]
+name = "Steel Charge"
+done = true
+
+[[items]]
+name = "Steel Fiber"
+done = true
+
+[[items]]
+name = "Stinging Thorn"
+done = true
+
+[[items]]
+name = "Stinging Truth"
+done = true
+
+[[items]]
+name = "Stockpiled Blight"
+done = true
+
+[[items]]
+name = "Stormbringer"
+done = true
+
+[[items]]
+name = "Strain Consume"
+done = true
+
+[[items]]
+name = "Strain Eruption"
+done = true
+
+[[items]]
+name = "Strain Fever"
+done = true
+
+[[items]]
+name = "Strain Infection"
+done = true
+
+[[items]]
+name = "Streamline"
+done = true
+
+[[items]]
+name = "Streamlined Form"
+done = true
+
+[[items]]
+name = "Stretch"
+done = true
+
+[[items]]
+name = "Stunning Speed"
+done = true
+
+[[items]]
+name = "Sudden Impact"
+done = true
+
+[[items]]
+name = "Summoner's Wrath"
+done = true
+
+[[items]]
+name = "Sundering Strike"
+done = true
+
+[[items]]
+name = "Sundering Weave"
+done = true
+
+[[items]]
+name = "Superior Defenses"
+done = true
+
+[[items]]
+name = "Suppress"
+done = true
+
+[[items]]
+name = "Sure Footed"
+done = true
+
+[[items]]
+name = "Sure Shot"
+done = true
+
+[[items]]
+name = "Surging Blades"
+done = true
+
+[[items]]
+name = "Surging Dash"
+done = true
+
+[[items]]
+name = "Survival Instinct"
+done = true
+
+[[items]]
+name = "Sweeping Serration"
+done = true
+
+[[items]]
+name = "Swift Bite"
+done = true
+
+[[items]]
+name = "Swift Mercy"
+done = true
+
+[[items]]
+name = "Swift Momentum"
+done = true
+
+[[items]]
+name = "Swing Line"
+done = true
+
+[[items]]
+name = "Swipe"
+done = true
+
+[[items]]
+name = "Swirling Tiger"
+done = true
+
+[[items]]
+name = "Swooping Falcon"
+done = true
+
+[[items]]
+name = "Synergized Prospectus"
+done = true
+
+[[items]]
+name = "Synth Charge"
+done = true
+
+[[items]]
+name = "Synth Deconstruct"
+done = true
+
+[[items]]
+name = "Synth Fiber"
+done = true
+
+[[items]]
+name = "Synth Reflex"
+done = true
+
+[[items]]
+name = "System Reroute"
+done = true
+
+[[items]]
+name = "Tactical Pump"
+done = true
+
+[[items]]
+name = "Tainted Clip"
+done = true
+
+[[items]]
+name = "Tainted Mag"
+done = true
+
+[[items]]
+name = "Tainted Shell"
+done = true
+
+[[items]]
+name = "Tandem Bond"
+done = true
+
+[[items]]
+name = "Target Acquired"
+done = true
+
+[[items]]
+name = "Target Cracker"
+done = true
+
+[[items]]
+name = "Target Fixation"
+done = true
+
+[[items]]
+name = "Targeting Receptor"
+done = true
+
+[[items]]
+name = "Targeting Subsystem"
+done = true
+
+[[items]]
+name = "Tear Gas"
+done = true
+
+[[items]]
+name = "Tectonic Fracture"
+done = true
+
+[[items]]
+name = "Teeming Virulence"
+done = true
+
+[[items]]
+name = "Tek Assault"
+done = true
+
+[[items]]
+name = "Tek Collateral"
+done = true
+
+[[items]]
+name = "Tek Enhance"
+done = true
+
+[[items]]
+name = "Tek Gravity"
+done = true
+
+[[items]]
+name = "Teleport Rush"
+done = true
+
+[[items]]
+name = "Tempered Blade"
+done = true
+
+[[items]]
+name = "Tempo Royale"
+done = true
+
+[[items]]
+name = "Temporal Artillery"
+done = true
+
+[[items]]
+name = "Temporal Erosion"
+done = true
+
+[[items]]
+name = "Tenacious Bond"
+done = true
+
+[[items]]
+name = "Terminal Velocity"
+done = true
+
+[[items]]
+name = "Territorial Aggression"
+done = true
+
+[[items]]
+name = "Tesla Bank"
+done = true
+
+[[items]]
+name = "Tether"
+done = true
+
+[[items]]
+name = "Tether Grenades"
+done = true
+
+[[items]]
+name = "Tharros Lethality"
+done = true
+
+[[items]]
+name = "The Relentless Lost"
+done = true
+
+[[items]]
+name = "Thermagnetic Shells"
+done = true
+
+[[items]]
+name = "Thermal Transfer"
+done = true
+
+[[items]]
+name = "Thermite Rounds"
+done = true
+
+[[items]]
+name = "Thief's Wit"
+done = true
+
+[[items]]
+name = "Thrall Pact"
+done = true
+
+[[items]]
+name = "Thrash Landing"
+done = true
+
+[[items]]
+name = "Threat Blocker"
+done = true
+
+[[items]]
+name = "Thumper"
+done = true
+
+[[items]]
+name = "Thunderbolt"
+done = true
+
+[[items]]
+name = "Tidal Impunity"
+done = true
+
+[[items]]
+name = "Titanic Rumbler"
+done = true
+
+[[items]]
+name = "Total Eclipse"
+done = true
+
+[[items]]
+name = "Toxic Barrage"
+done = true
+
+[[items]]
+name = "Toxic Blight"
+done = true
+
+[[items]]
+name = "Toxic Flight"
+done = true
+
+[[items]]
+name = "Toxic Sequence"
+done = true
+
+[[items]]
+name = "Toxin Resistance"
+done = true
+
+[[items]]
+name = "Tractor Beam"
+done = true
+
+[[items]]
+name = "Trail Blazer"
+done = true
+
+[[items]]
+name = "Trample"
+done = true
+
+[[items]]
+name = "Tranquil Cleave"
+done = true
+
+[[items]]
+name = "Transfusion"
+done = true
+
+[[items]]
+name = "Transient Fortitude"
+done = true
+
+[[items]]
+name = "Transistor Shield"
+done = true
+
+[[items]]
+name = "Tribunal"
+done = true
+
+[[items]]
+name = "Trick Mag"
+done = true
+
+[[items]]
+name = "Trojan Tracker"
+done = true
+
+[[items]]
+name = "True Punishment"
+done = true
+
+[[items]]
+name = "True Steel"
+done = true
+
+[[items]]
+name = "Turbo Protect"
+done = true
+
+[[items]]
+name = "Turret Velocity"
+done = true
+
+[[items]]
+name = "Twirling Spire"
+done = true
+
+[[items]]
+name = "Ulfrun's Endurance"
+done = true
+
+[[items]]
+name = "Umbral Fiber"
+done = true
+
+[[items]]
+name = "Umbral Intensify"
+done = true
+
+[[items]]
+name = "Umbral Vitality"
+done = true
+
+[[items]]
+name = "Undying Will"
+done = true
+
+[[items]]
+name = "Unleashed"
+done = true
+
+[[items]]
+name = "Unseen Dread"
+done = true
+
+[[items]]
+name = "Untime Rift"
+done = true
+
+[[items]]
+name = "Untraceable"
+done = true
+
+[[items]]
+name = "Vacuum"
+done = true
+
+[[items]]
+name = "Valence Formation"
+done = true
+
+[[items]]
+name = "Vampire Leech"
+done = true
+
+[[items]]
+name = "Vampiric Grasp"
+done = true
+
+[[items]]
+name = "Vapor Trail"
+done = true
+
+[[items]]
+name = "Vaporize"
+done = true
+
+[[items]]
+name = "Velox Conclusion"
+done = true
+
+[[items]]
+name = "Venari Bodyguard"
+done = true
+
+[[items]]
+name = "Venerdo Hoverdrive"
+done = true
+
+[[items]]
+name = "Vengeful Revenant"
+done = true
+
+[[items]]
+name = "Venom Dose"
+done = true
+
+[[items]]
+name = "Venom Teeth"
+done = true
+
+[[items]]
+name = "Venomous Clip"
+done = true
+
+[[items]]
+name = "Vermillion Storm"
+done = true
+
+[[items]]
+name = "Vexing Retaliation"
+done = true
+
+[[items]]
+name = "Vicious Bond"
+done = true
+
+[[items]]
+name = "Vicious Frost"
+done = true
+
+[[items]]
+name = "Vicious Spread"
+done = true
+
+[[items]]
+name = "Vigilante Armaments"
+done = true
+
+[[items]]
+name = "Vigilante Fervor"
+done = true
+
+[[items]]
+name = "Vigilante Offense"
+done = true
+
+[[items]]
+name = "Vigilante Pursuit"
+done = true
+
+[[items]]
+name = "Vigilante Supplies"
+done = true
+
+[[items]]
+name = "Vigilante Vigor"
+done = true
+
+[[items]]
+name = "Vigor"
+done = true
+
+[[items]]
+name = "Vigorous Swap"
+done = true
+
+[[items]]
+name = "Vile Acceleration"
+done = true
+
+[[items]]
+name = "Vile Precision"
+done = true
+
+[[items]]
+name = "Viral Quills"
+done = true
+
+[[items]]
+name = "Viral Tempest"
+done = true
+
+[[items]]
+name = "Virulent Scourge"
+done = true
+
+[[items]]
+name = "Vital Sense"
+done = true
+
+[[items]]
+name = "Vitality"
+done = true
+
+[[items]]
+name = "Void Cloak"
+done = true
+
+[[items]]
+name = "Void Hole"
+done = true
+
+[[items]]
+name = "Volatile Parasite"
+done = true
+
+[[items]]
+name = "Volatile Quick Return"
+done = true
+
+[[items]]
+name = "Volatile Rebound"
+done = true
+
+[[items]]
+name = "Volatile Recompense"
+done = true
+
+[[items]]
+name = "Volatile Variant"
+done = true
+
+[[items]]
+name = "Volcanic Edge"
+done = true
+
+[[items]]
+name = "Voltage Sequence"
+done = true
+
+[[items]]
+name = "Voltaic Strike"
+done = true
+
+[[items]]
+name = "Vome"
+done = true
+
+[[items]]
+name = "Vome Invocation"
+done = true
+
+[[items]]
+name = "Votive Onslaught"
+done = true
+
+[[items]]
+name = "Vulcan Blitz"
+done = true
+
+[[items]]
+name = "Vulpine Mask"
+done = true
+
+[[items]]
+name = "Ward Recovery"
+done = true
+
+[[items]]
+name = "Warding Thurible"
+done = true
+
+[[items]]
+name = "Warhead"
+done = true
+
+[[items]]
+name = "Warm Coat"
+done = true
+
+[[items]]
+name = "Warrior's Rest"
+done = true
+
+[[items]]
+name = "Waveband Disruptor"
+done = true
+
+[[items]]
+name = "Weeping Wounds"
+done = true
+
+[[items]]
+name = "Whiplash Mine"
+done = true
+
+[[items]]
+name = "Whirlwind"
+done = true
+
+[[items]]
+name = "Wild Frenzy"
+done = true
+
+[[items]]
+name = "Wildfire"
+done = true
+
+[[items]]
+name = "Winds Of Purity"
+done = true
+
+[[items]]
+name = "Wise Razor"
+done = true
+
+[[items]]
+name = "Worm Away"
+done = true
+
+[[items]]
+name = "Worm's Torment"
+done = true
+
+[[items]]
+name = "Worthy Comradery"
+done = true
+
+[[items]]
+name = "Wrath Of Ukko"
+done = true
+
+[[items]]
+name = "Wrecking Wall"
+done = true
+
+[[items]]
+name = "Xata"
+done = true
+
+[[items]]
+name = "Xata Invocation"
+done = true
+
+[[items]]
+name = "Zazvat-Kar"
+done = true
+
+[[items]]
+name = "Zodiac Shred"
+done = true

@@ -24,6 +24,16 @@ CREATE TABLE items (
     UNIQUE (category_id, name)
 );
 
+-- 装備のパーツ (設計図・バレルなど)。同じ名前のパーツが複数あってもよいので idx で区別する
+CREATE TABLE parts (
+    item_id  INTEGER NOT NULL REFERENCES items(id),
+    idx      INTEGER NOT NULL,              -- TOML の parts 配列内の位置
+    name     TEXT NOT NULL,
+    source   TEXT,                          -- パーツごとに入手場所が違うときだけ (Prime のレリックなど)
+    done     INTEGER NOT NULL DEFAULT 0 CHECK (done IN (0, 1)),
+    PRIMARY KEY (item_id, idx)
+);
+
 CREATE VIEW category_progress AS
 SELECT c.id, c.title, c.sort_order,
        COUNT(i.id)              AS total,

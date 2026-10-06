@@ -59,8 +59,30 @@ def _set_key(block: list[str], key: str, value) -> None:
     block.insert(at, line)
 
 
-def update_item(data_dir: Path, category: str, name: str, action: str) -> dict:
-    """action: toggle (完了切替) / inc / dec (必要数の増減)。更新後の項目を返す。"""
+def _toml_str(s: str) -> str:
+    return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def _set_parts(block: list[str], parts: list[dict]) -> None:
+    """parts = [ ... ] (複数行にまたがってよい) を 1 パーツ 1 行で書き直す。"""
+    def line(p: dict) -> str:
+        source = f", source = {_toml_str(p['source'])}" if p.get("source") else ""
+        return f"  {{ name = {_toml_str(p['name'])}{source}, done = {_format(bool(p.get('done', False)))} }},\n"
+
+    lines = ["parts = [\n"] + [line(p) for p in parts] + ["]\n"]
+    start = next(i for i, l in enumerate(block) if re.match(r"^parts\s*=", l))
+    end, depth = start, 0
+    while True:  # 角かっこが閉じる行まで (値の中に [ ] は書かない前提)
+        depth += block[end].count("[") - block[end].count("]")
+        end += 1
+        if depth <= 0 or end == len(block):
+            break
+    block[start:end] = lines
+
+
+def update_item(data_dir: Path, category: str, name: str, action: str, index: int | None = None) -> dict:
+    """action: toggle (完了切替) / inc / dec (必要数の増減) / part (index 番目のパーツの切替)。
+    更新後の項目を返す。パーツがある項目は、全パーツがそろったときに完了になる。"""
     path = category_file(data_dir, category)
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines(keepends=True)
@@ -75,8 +97,20 @@ def update_item(data_dir: Path, category: str, name: str, action: str) -> dict:
 
     done = bool(item.get("done", False))
     required = item.get("required")
+    parts = item.get("parts", [])
     if action == "toggle":
         done = not done
+        _set_key(block, "done", done)
+        if parts:  # 項目ごと切り替えたら、パーツもすべて同じ状態にそろえる
+            for p in parts:
+                p["done"] = done
+            _set_parts(block, parts)
+    elif action == "part":
+        if not isinstance(index, int) or not 0 <= index < len(parts):
+            raise StoreError(f"invalid part index: {name}[{index}]")
+        parts[index]["done"] = not parts[index].get("done", False)
+        done = all(p.get("done", False) for p in parts)
+        _set_parts(block, parts)
         _set_key(block, "done", done)
     elif action in ("inc", "dec"):
         if required is None:
@@ -102,5 +136,6 @@ def update_item(data_dir: Path, category: str, name: str, action: str) -> dict:
     return {
         "done": done,
         "required": required,
+        "parts": [bool(p.get("done", False)) for p in parts],
         "updated": updated.isoformat(sep=" ", timespec="minutes") if updated else None,
     }

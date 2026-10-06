@@ -127,6 +127,10 @@ td.num, td time { font-variant-numeric: tabular-nums; white-space: nowrap; color
 }
 .check[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); }
 .check[aria-pressed="true"]::after { content: "✔"; }
+tr.part-row td { padding-top: .15rem; padding-bottom: .15rem; font-size: .85rem; border-bottom: 0; }
+tr.part-row td.name { padding-left: 2.6rem; font-weight: 400; color: var(--muted); }
+tr.item:has(+ tr.part-row) td { border-bottom: 0; }
+tr.part-row:has(+ tr.item) td { padding-bottom: .55rem; border-bottom: 1px solid var(--line); }
 tr.done td { color: var(--done); }
 tr.done td.name { text-decoration: line-through; font-weight: 400; }
 tr.busy { opacity: .5; }
@@ -162,3 +166,8 @@ body.editing .table-wrap { border-color: var(--accent); }
   h1 { font-size: 1.5rem; }
   .site-header { gap: .25rem 1rem; }
 }
+
+/* 完了済みの一覧（未完了の表の下に折りたたんで置く） */
+.done-list { margin-top: .8rem; }
+.done-list > summary { cursor: pointer; color: var(--done); padding: .3rem 0; }
+.done-list[open] > summary { margin-bottom: .4rem; }
